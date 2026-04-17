@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Entlebucher Mountain Dog First Year Costs",
+    "slug": "entlebucher-mountain-dog-first-year-costs",
+    "shopify_handle": "entlebucher-mountain-dog-first-year-costs",
+    "group": "Entlebucher Mountain Dog",
+    "size_category": "Guide",
+    "tags": ["entlebucher-mountain-dog", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-05-04T16:00:00Z",
+    "excerpt": "The Entlebucher Mountain Dog is a medium-sized breed with moderate ownership costs, elevated by its scarcity in the United States and the potential for specific health conditions. This guide covers first-year and ongoing costs.",
+    "meta_description": "Entlebucher Mountain Dog first year costs: puppy price, food, vet care, and annual expenses for Switzerland's smallest and most energetic Sennenhund."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Entlebucher_Sennenhund_600.jpg/330px-Entlebucher_Sennenhund_600.jpg",
+      "alt": "Entlebucher Mountain Dog cost guide"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Rare Breed Premium at Purchase",
+      "html": "<ul><li><strong>Puppy from health-tested breeder:</strong> $1,200–$2,000. Health testing should include OFA hip certification, CAER eye exam, PRA DNA testing, and ectopic ureter evaluation.</li><li><strong>Initial vet visit and puppy vaccines:</strong> $150–$350</li><li><strong>Spay or neuter:</strong> $250–$500</li><li><strong>Crate (large):</strong> $70–$150</li><li><strong>Food and water bowls:</strong> $25–$60</li><li><strong>Collar, harness, leash:</strong> $50–$100</li><li><strong>ID tag:</strong> $10–$20</li><li><strong>Medium-breed puppy food (first months):</strong> $80–$160</li><li><strong>Puppy classes:</strong> $100–$200</li><li><strong>Grooming tools:</strong> $30–$60</li></ul><p><strong>Upfront total estimate:</strong> $1,965–$3,600</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Active Dog Food and Routine Vet Care",
+      "html": "<ul><li><strong>Food (medium-breed active formula):</strong> $60–$100/month. Active Entlebuchers working in dog sports or herding may need more calorie-dense food. Annual cost: $720–$1,200.</li><li><strong>Routine vet visits and vaccines:</strong> $250–$450</li><li><strong>Heartworm/flea/tick prevention:</strong> $100–$200/year</li><li><strong>Pet insurance:</strong> $35–$60/month. Annual cost: $420–$720.</li><li><strong>Dog sport enrollment (agility, herding, etc.):</strong> $100–$400/year if pursued</li><li><strong>Toys, enrichment:</strong> $100–$200/year</li></ul><p><strong>First-year recurring total (with insurance):</strong> $1,690–$3,170</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "Year One Total and Annual Budget",
+      "html": "<p><strong>Total first-year estimate (with insurance):</strong> $3,655–$6,770</p><p><strong>Annual ongoing costs after year one:</strong></p><ul><li>Food: $720–$1,200</li><li>Routine vet care: $200–$400</li><li>Parasite prevention: $100–$200</li><li>Pet insurance: $420–$800</li><li>Dog sports and enrichment: $100–$400</li><li>Miscellaneous: $100–$200</li></ul><p><strong>Estimated annual ongoing total:</strong> $1,640–$3,200</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Why are Entlebucher Mountain Dog puppies expensive?",
+      "a": "The breed is quite rare in the United States with relatively few reputable breeders. Small litter numbers, extensive health testing, and the costs of working with a rare breed drive up puppy prices."
+    },
+    {
+      "q": "Are there extra costs for an active Entlebucher?",
+      "a": "Dog sport participation — agility, herding trials, rally — adds $100–$400+/year in class and entry fees but provides essential mental and physical enrichment for this high-drive breed. Many owners consider it a necessary expense rather than an optional one."
+    },
+    {
+      "q": "Should I get pet insurance for my Entlebucher?",
+      "a": "Yes. Hip dysplasia, PRA, and ectopic ureter are all conditions that can generate significant treatment costs. Enrolling while the dog is a healthy puppy gives you the broadest coverage at the lowest premium."
+    }
+  ]
+}

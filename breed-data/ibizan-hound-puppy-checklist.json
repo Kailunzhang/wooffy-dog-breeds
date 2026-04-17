@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "name": "Ibizan Hound Puppy Checklist",
+    "slug": "ibizan-hound-puppy-checklist",
+    "shopify_handle": "ibizan-hound-puppy-checklist",
+    "group": "Ibizan Hound",
+    "size_category": "Guide",
+    "tags": ["ibizan-hound", "puppy", "checklist", "sighthound", "anesthesia-sensitivity"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "Three priorities before your Ibizan Hound puppy comes home: 6-foot fencing confirmed, vet briefed on sighthound anesthesia protocols, and pet insurance enrolled.",
+    "meta_description": "Ibizan Hound puppy checklist: 6-foot fence requirement, sighthound anesthesia protocol vet communication, cold-weather gear, handling desensitization, and essential gear."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Podenco_z_ibizy_645.jpg/250px-Podenco_z_ibizy_645.jpg",
+      "alt": "Ibizan Hound puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Ibizan Hound Puppy Prep",
+      "html": "<p>Three non-negotiable tasks before or during the first week:</p><ol><li><strong>6-foot fence audit.</strong> Ibizan Hounds clear 5+ feet from a standing start. Standard 4-foot or 5-foot fencing is not adequate. Check height, check for gaps, check for anything near the fence that could be used as a jumping aid.</li><li><strong>Brief your vet on sighthound anesthesia protocols.</strong> Before the first appointment, call your vet and tell them you have an Ibizan Hound — a sighthound breed with documented anesthesia sensitivity. Confirm they are familiar with sighthound-appropriate protocols. Have this in the medical record and confirm it verbally before every procedure for the dog's entire life.</li><li><strong>Pet insurance enrolled.</strong> Before the first vet visit.</li></ol><h3>Essential Gear Checklist</h3><ul><li>Crate (36–42 inch with divider)</li><li>Soft padded dog bed — thin-skinned sighthounds need good padding for joints</li><li>Food and water bowls</li><li>Collar (martingale style recommended for sighthound neck-to-head ratio), ID tag</li><li>Harness for walks</li><li>4–6 ft leash</li><li>Rubber grooming mitt (smooth) or slicker brush (wire)</li><li>Dog coat for cold weather — have this ready before first winter</li><li>High-value training treats</li><li>Enzymatic cleaner</li></ul>"
+    },
+    "care": {
+      "label": "First Week",
+      "heading": "First Week Setup",
+      "html": "<h3>Vet Visit (Within 48–72 Hours)</h3><ul><li>Full exam, vaccine review</li><li>Confirm sighthound anesthesia protocols are noted in the medical record</li><li>Microchip if not done by breeder</li><li>Discuss spay/neuter timing — many breeders recommend 18–24 months for larger breeds</li><li>Pet insurance active before this visit</li></ul><h3>Socialization: Sensitive Sighthound</h3><p>Ibizan Hounds are more outgoing than many sighthound breeds but still benefit from thorough early socialization. The sensitivity to environment means early positive exposure to diverse situations produces a confident adult dog. A poorly socialized Ibizan may develop anxiety in novel situations that is very difficult to address later.</p><p>Prioritize: different types of people, different environments, friendly dogs in controlled settings, and handling of all body parts. The 8–16 week window is critical.</p><h3>Cold-Weather Management From the Start</h3><p>If you're getting a puppy in fall or winter: have a dog coat ready. Thin-skinned sighthound puppies are cold-sensitive from their first outdoor walk in cool weather. A well-fitted dog coat for outdoor exercise in temperatures below 50°F is standard equipment for this breed year-round in cold climates.</p>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Training an Athletic Sighthound",
+      "html": "<p>Ibizan Hounds are more trainable than many sighthound breeds — less aloof, more food-motivated, and more engaged with their owners. Positive reinforcement with high-value treats and short, positive sessions works well. They are sensitive to tone of voice — harsh handling or frustrated training sessions produce anxiety and shutdown, not compliance.</p><h3>Priorities</h3><ul><li>Leash manners from the first walk — a dog this athletic must not pull</li><li>Sit, down, stay — achievable and useful</li><li>Recall practice in the fenced yard — use a long line and high-value treats</li><li>Crate training — voluntary entry and calm settling</li><li>Handling desensitization: paws, ears, mouth, full body — daily from day one</li></ul><h3>The Jumping: Management Over Training</h3><p>The Ibizan Hound's jumping ability is extraordinary and cannot be trained away. A 6-foot fence is the management solution — not training a recall over the fence. Make the fence the boundary, ensure there are no jumping aids near it, and accept that this dog's athletic ability requires physical containment rather than verbal command compliance.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Why does my vet need to know my Ibizan Hound is a sighthound?",
+      "a": "Sighthounds metabolize certain anesthetic drugs differently due to low body fat and altered liver enzyme activity. Standard doses that are safe for other breeds can cause extended anesthesia or cardiac complications in sighthounds. This applies to every anesthetic procedure including dental cleanings, not just major surgery. Your vet needs this information before every single procedure — it should be in the medical record and confirmed verbally at each visit."
+    },
+    {
+      "q": "Do Ibizan Hound puppies need special care for their large ears?",
+      "a": "The upright ears have better airflow than pendant-eared breeds, so ear infections are less common. Weekly ear checks are still good practice. The ears are expressive and mobile — checking and handling them from puppyhood builds tolerance for the weekly inspection habit. Don't insert anything into the ear canal; wipe the visible inner surface with a cotton ball during routine maintenance."
+    }
+  ]
+}

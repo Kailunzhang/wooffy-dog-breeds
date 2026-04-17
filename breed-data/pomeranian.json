@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "name": "Pomeranian",
+    "slug": "pomeranian",
+    "shopify_handle": "pomeranian",
+    "group": "Toy Group",
+    "size_category": "Small Breed",
+    "tagline": "The Pomeranian is a confident, bold, double-coated spitz in a 3–7 lb body. They have an enormous personality, genuine loyalty, and specific health requirements that every owner needs to understand before the puppy comes home.",
+    "tags": ["toy-group", "small-breed", "double-coat", "spitz", "apartment-friendly", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "excerpt": "Pomeranians are bold, confident, and intensely loyal in a tiny package — but they're not fragile decorations. They need a harness (never a collar for walking), early dental care, and an owner who takes their big-dog personality seriously.",
+    "meta_description": "Pomeranian breed guide: personality, tracheal collapse prevention, Alopecia X, hypoglycemia in puppies, grooming a double coat, and what ownership actually costs."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Toy" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "3–7 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–16 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "30–45 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Older kids best" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes, with research" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pomeranian.JPG/330px-Pomeranian.JPG",
+      "alt": "Pomeranian"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Pomeranian?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Pomeranian is a spitz-type breed descended from large sled dogs of the Arctic. The miniaturization to today's 3–7 lb size happened primarily in the 18th and 19th centuries — Queen Victoria is credited with popularizing the smaller Pom after bringing one back from Florence in 1888. Despite the size reduction, the Pomeranian retained the personality and confidence of a working dog. They simply did not get the memo that they are very small.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">This is both their great appeal and the practical challenge. Pomeranians are alert, vocal, and bold. They will announce visitors, hold their ground with much larger dogs, and expect to be involved in everything. They are also deeply affectionate with their family and thrive on attention and proximity. They are not a low-maintenance toy breed in either personality or coat care.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The critical practical note before anything else: Pomeranians must walk on a harness, never a collar. Tracheal collapse is a real and serious condition in this breed, and collar-based leash pressure can cause or accelerate it. This is not optional advice.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Pomeranians Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Compact and square-bodied, weighing 3–7 lbs and standing 6–7 inches at the shoulder. The double coat is the defining physical feature — a soft, dense undercoat with a harsher, straight outer coat that fans out from the body and forms a distinctive ruff around the neck and chest. The plumed tail curls over the back. The face is fox-like with a short muzzle, dark almond-shaped eyes, and small erect ears.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Pomeranians come in more coat colors and patterns than almost any other breed — orange, sable, black, white, blue, cream, brindle, parti-color, and merle among them. The adult coat is fully developed by about 18 months. Puppies go through an awkward \"puppy uglies\" phase around 4–8 months where they lose their puppy fuzz and appear patchy before the adult coat grows in — this is normal.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Confident, alert, and bold. Pomeranians carry themselves with a self-assurance that doesn't correlate with their size. They are curious, engaged, and often described as having a \"big dog in a small body\" personality — which is accurate and also means they will challenge larger dogs if they feel challenged, which requires management.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family, Pomeranians are affectionate and loyal, often attaching most strongly to one person while being friendly with others. They tend to be alert to activity in the environment and will bark to announce it. \"Vocal\" is an accurate description. Early training to manage barking behavior is worth doing — a Pom who has learned that barking without cause earns no response is significantly quieter than one that hasn't.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With children: generally better with older children who understand how to handle a small dog. Very young children and Pomeranians are a mismatch — the dog can be accidentally dropped or stepped on, and a Pom who feels threatened may snap. This is a size and handling issue, not a temperament problem per se.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Pomeranian",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Pomeranians are excellent dogs for the right household. They are portable, apartment-friendly, long-lived (12–16 years is a realistic expectation), and genuinely entertaining to be around. Their personality is outsized and engaging. If you want a small dog that is an actual personality and presence, a Pom delivers.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The practical requirements are real, though. The double coat needs consistent care — daily brushing or very regular professional grooming, and the absolute rule of never shaving (see grooming guide for why). Dental disease is serious in this breed and requires daily brushing and professional cleanings. And the harness rule is non-negotiable: a collar on a Pomeranian is a tracheal collapse risk every single walk.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Small puppies have hypoglycemia risk — it's a legitimate medical emergency in tiny Toy puppies. Know the signs (lethargy, wobbling, disorientation) and have Karo syrup accessible in the first weeks. If you purchase from a reputable breeder, they'll brief you on this. If they don't, that's a problem with the breeder.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate exercise needs — 30–45 minutes of activity daily, which can be split across walks and indoor play. Pomeranians are not couch dogs and need real daily exercise to prevent boredom-related behavior issues. All outdoor walks must use a harness. Indoor play and puzzle toys are excellent supplements.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Daily brushing is ideal; minimum every other day to prevent mat formation in the undercoat. Professional grooming every 6–8 weeks. The double coat must never be shaved — shaving disrupts the thermoregulation structure and can cause permanent coat damage (post-clipping alopecia). See the <a href=\"/blogs/dog-breeds/pomeranian-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Pomeranian grooming guide</a>.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Intelligent and capable of learning quickly — and also quite capable of deciding not to comply. Positive reinforcement works well. The two most important early training investments are recall reliability (for safety) and bark management. Pomeranians respond well to consistent, patient training and do not respond well to harsh corrections.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Pomeranians are generally healthy with a long lifespan, but there are several breed-specific conditions every owner needs to understand from the start.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Tracheal Collapse</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The cartilage rings supporting the trachea weaken over time, causing a honking cough and breathing difficulty. Use a harness — never a collar — for all walks. Avoid situations that cause the dog to pull against restraint. Medical management is possible; surgery is an option for severe cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Patellar Luxation</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">The kneecap slips out of position — common in small breeds. Ranges from mild (occasional skipping gait) to severe (constant lameness requiring surgery). OFA patella certification available from breeders.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Alopecia X / Black Skin Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">A hormonal condition causing bilateral hair loss and skin darkening, particularly in males. Also called \"coat funk.\" Not medically dangerous but cosmetically significant. Treatment options exist including melatonin supplementation; outcomes vary.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypoglycemia (puppies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Low blood sugar is a genuine emergency risk in Toy-breed puppies under 4 months. Signs: lethargy, stumbling, disorientation, seizures. Prevent with frequent small meals (every 3–4 hours). Keep Karo syrup on hand — rub on gums if a puppy shows signs and get to a vet immediately.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Dental Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pomeranians are severely prone to periodontal disease due to small jaw size and crowded teeth. Daily tooth brushing is not optional — it prevents infection that can affect heart and kidney function. Professional cleanings every 1–2 years.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Heart Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Mitral valve disease is common in older Pomeranians. Annual cardiac auscultation from middle age onward; formal cardiac screening available through breeders.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA patella certification, cardiac screening, and whether lines have history of Alopecia X.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$3,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (small breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Professional grooming</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, harness, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$350</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,000–$5,750</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,200–$2,200</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/pomeranian-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Pomeranian first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Pomeranian Right for You?",
+      "good_fit": [
+        "Apartment or small-home dwellers who want a genuinely engaged, personality-forward dog",
+        "Owners prepared to commit to daily brushing and regular professional grooming",
+        "Households with older children or adults only",
+        "Owners who will use a harness consistently and understand tracheal collapse prevention",
+        "People who want a long-lived companion (12–16 years is realistic)"
+      ],
+      "not_fit": [
+        "Households with very young children who may drop or roughly handle the dog",
+        "Anyone unwilling to invest in consistent dental care",
+        "Owners who want a quiet, non-vocal dog",
+        "Anyone who plans to walk with a collar — this is genuinely inadvisable for this breed",
+        "Households wanting a low-grooming dog"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Pomeranian",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$3,000 from reputable breeders. The American Pomeranian Club maintains a breeder referral directory. Responsible breeders health-test for cardiac disease and patellar luxation and will discuss Alopecia X history in their lines honestly. Be cautious of \"teacup\" Pomeranians — this is a marketing term for dogs below the breed standard minimum; it is not an AKC-recognized variety, and undersized dogs typically have more health problems.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Pomeranian-specific rescues exist across the US. Adult rescues are already past the hypoglycemia risk period and have established personalities. Many Poms are surrendered for barking or grooming-related reasons — both of which are manageable issues for a prepared owner.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Pomeranian comes home, complete the <a href=\"/blogs/dog-breeds/pomeranian-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Pomeranian puppy checklist</a> — harness purchase and hypoglycemia protocol are the two items to address before day one.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "Why do Pomeranians need a harness instead of a collar?", "a": "Tracheal collapse — the cartilage rings supporting the windpipe weaken and can collapse under pressure. In small breeds with naturally narrower tracheas, collar-based leash pressure is a direct risk factor. A harness distributes pressure across the chest and eliminates this risk entirely. Use a harness for every walk, every time." },
+    { "q": "What is Alopecia X in Pomeranians?", "a": "Also called Black Skin Disease or coat funk, Alopecia X is a hormonal condition causing progressive hair loss, typically starting on the back and hindquarters, with skin darkening. It is cosmetically significant but not medically dangerous. It occurs most often in intact males and dogs that have been bred. Treatment options include spay/neuter, melatonin, and other interventions — results vary." },
+    { "q": "How much do Pomeranians shed?", "a": "More than their size suggests. The dense double coat sheds moderately year-round and more heavily twice per year during coat blows. Daily brushing prevents most of the shedding from reaching furniture and floors. The coat also mats if not brushed regularly, so this is both a cleanliness issue and a coat health issue." },
+    { "q": "Are Pomeranians good apartment dogs?", "a": "Yes — they are genuinely well-suited to apartments due to their small size and moderate exercise needs. The caveat is their vocal nature. Training bark management early is important for apartment living. A Pomeranian that barks at every sound in the hallway creates neighbor problems. A Pomeranian trained to alert once and then settle is quite manageable." }
+  ],
+
+  "related_breeds": [
+    {"name": "Papillon", "slug": "papillon", "note": "Similar intelligence and energy, butterfly ears, slightly less coat maintenance"},
+    {"name": "Chihuahua", "slug": "chihuahua", "note": "Smaller size, less coat maintenance, similar bold personality"},
+    {"name": "Spitz", "slug": "american-eskimo-dog", "note": "Same spitz family, slightly larger, similar double-coat care"},
+    {"name": "Yorkshire Terrier", "slug": "yorkshire-terrier", "note": "Similar size and long-lived, terrier personality versus spitz personality"}
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "name": "Bluetick Coonhound",
+    "slug": "bluetick-coonhound",
+    "shopify_handle": "bluetick-coonhound",
+    "group": "Hound Group",
+    "size_category": "Large Breed",
+    "tagline": "Energetic, devoted, and famously persistent on a cold trail — the Bluetick is a scenthound with a distinctive ticked coat, a melodic baying voice, and a drive that does not turn off outside.",
+    "tags": ["hound-group", "large-breed", "scent-hound", "coonhound", "hunting-dog", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "Bluetick Coonhounds are energetic, devoted family dogs with a striking blue-ticked coat and the classic coonhound traits: powerful nose, loud baying voice, and a scent drive that makes off-leash recall unreliable. Ear cleaning is weekly maintenance. The Krabbe's disease test is essential for breeding dogs.",
+    "meta_description": "Bluetick Coonhound breed guide: cold-nose tracking ability, baying voice, ear care, Globoid Cell Leukodystrophy (Krabbe's disease), bloat risk, and what coonhound energy looks like at home."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "45–80 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "11–12 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low (ears critical)" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With patience" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BluetickCoonhound.jpg/250px-BluetickCoonhound.jpg",
+      "alt": "Bluetick Coonhound"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Bluetick Coonhound?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Bluetick Coonhound is an American breed developed in the southern US from French hounds, English Foxhounds, and other working scenthound stock. It is best known for its \"cold nose\" — the ability to trail a scent that has gone cold hours or even days earlier, following it methodically through complex terrain. In coonhound trials, cold-nose ability is the defining measure of a great dog.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The name comes from the coat: a dense, dark blue mottled ticking on a white base, giving the dog a distinctive blue-grey appearance unlike any other breed. Tan markings appear on the face and legs. The look is striking and unique in the hound world.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">As a house dog, Blueticks are energetic, affectionate, and devoted to their people. They are more energetic at home than some other coonhound breeds and need consistent daily exercise to settle. Undertrained or under-exercised, they become loud and destructive.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Bluetick Coonhounds Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Medium to large — males typically 55–80 lbs, females 45–65 lbs, standing 21–27 inches. The signature coat is the blue mottling: dark blue ticking on white creates a distinctive steel-blue appearance, usually with black saddle markings and tan points on the face and legs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Long, low-set ears hang well past the muzzle. Deep chest and well-muscled hindquarters reflect athletic capacity. The eyes are large, dark brown, and expressive. The short coat sheds moderately and is easy to maintain. The overall impression is a dog built for endurance and persistence rather than speed.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Devoted and people-oriented at home. Blueticks tend to bond strongly with their family and are more energetic and engaged indoors than some coonhound breeds. They do well with children and are generally friendly with other dogs, reflecting their pack-working heritage. They are not guard dogs — too friendly with people to fill that role effectively.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The cold-nose ability that defines the breed's hunting value means outside behavior is fundamentally nose-driven. Once a scent is engaged, the dog is following it — this is instinct running deeper than training. Off-leash in uncontrolled environments, reliable recall is not achievable. This is not a reflection of the dog's intelligence but of the depth of instinct in the breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The voice: loud, melodic, and persistent. The Bluetick's baying carries long distances. They vocalize on scent, when excited, when bored, and when alerting. Neighbors will be aware of this dog.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Bluetick Coonhound",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Blueticks are genuinely great dogs for the right household — loyal, energetic, interested in the world, and beautiful. They're just more dog than most casual owners anticipate. The energy is higher than a Bloodhound or Basset Hound, the nose is just as relentless, and the voice is a genuine daily feature of life with this breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Nose work and tracking activities are the best thing you can do for a Bluetick beyond physical exercise. These dogs were built for mental engagement through scenting. A nose work class or a regular tracking session in a field will settle a Bluetick better than a long run alone.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">One health note that is specific to this breed: Globoid Cell Leukodystrophy (Krabbe's disease) is present in Bluetick lines. It's rare in the general pet population, but responsible breeders DNA test for it. Ask specifically about it. Affected puppies develop a fatal progressive neurological disease — it is detectable and preventable through responsible breeding.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes daily. More energy than many people expect — Blueticks are working dogs that need real physical and mental engagement. Secure fenced yard for off-leash exercise is required. Nose work games, tracking, and scent puzzles provide mental enrichment that is as valuable as physical exercise. An under-exercised Bluetick becomes vocal and destructive.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Short coat is minimal work — a weekly rubber mitt or hound glove pass is sufficient. The critical task is ear maintenance. See the <a href=\"/blogs/dog-breeds/bluetick-coonhound-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Bluetick Coonhound grooming guide</a> for the ear cleaning protocol.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Intelligent but scent-motivated. Works best with high-value food rewards, short sessions, and low-distraction training environments. Channeling the breed's strengths — nose work, tracking — into organized activities is more productive than fighting the instinct. Focus on practical obedience (leash manners, sit, stay, come in a fenced yard) rather than expecting competition-level off-leash control.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Generally healthy with an 11–12 year lifespan. Ear infections are the most common ongoing concern. One breed-specific condition warrants special attention from breeders.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Ear Infections</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Chronic infections due to long pendant ears reducing airflow. Weekly preventive ear maintenance is the primary management strategy.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Globoid Cell Leukodystrophy (Krabbe's Disease)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">A fatal inherited neurological disease present in some Bluetick lines. Affected puppies develop progressive neurological deterioration. A DNA test is available. Reputable breeders test both parents and will not produce at-risk litters. Ask breeders specifically for Krabbe's DNA test results.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Joint malformation causing pain and arthritis. OFA screening available; ask breeders for clearances.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Deep-chested breed risk. Know the signs: distended abdomen, unproductive retching, restlessness. Discuss prophylactic gastropexy with your vet.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip clearances, CAER eye exam, and — critically — Krabbe's (GCL) DNA test results for both parents.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,300–$4,200</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,500–$2,700</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/bluetick-coonhound-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Bluetick Coonhound first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Bluetick Coonhound Right for You?",
+      "good_fit": [
+        "Active households that can provide 60–90 minutes of daily exercise",
+        "Owners with a securely fenced yard — off-leash space is essential",
+        "Families with children — Blueticks are friendly and sociable",
+        "Owners interested in nose work, tracking, or hunting activities",
+        "Households that find the coonhound's baying voice acceptable"
+      ],
+      "not_fit": [
+        "Apartments or noise-sensitive environments — the baying is loud and frequent",
+        "Anyone expecting a dog with reliable off-leash recall outside a fence",
+        "Owners who want low exercise needs — Blueticks need real daily activity",
+        "People unwilling to do weekly ear maintenance",
+        "Households where the dog would be left alone for long periods regularly"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Bluetick Coonhound",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$600–$1,200 from reputable breeders. The American Bluetick Coonhound Association and United Kennel Club breed clubs maintain breeder contacts. Required asks: OFA hip clearances and Krabbe's (Globoid Cell Leukodystrophy) DNA test results for both parents. Do not purchase from a breeder who cannot provide the Krabbe's test documentation.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Coonhound rescue organizations operate nationally. Blueticks in rescue are often dogs whose owners underestimated the energy, voice, or containment requirements.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Bluetick comes home, complete the <a href=\"/blogs/dog-breeds/bluetick-coonhound-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Bluetick Coonhound puppy checklist</a>.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "What is a cold nose in a Bluetick Coonhound?", "a": "Cold nose refers to the ability to trail a scent that has aged — hours or days old — rather than requiring a fresh, hot trail. Bluetick Coonhounds are among the best cold-nose trailing breeds, capable of methodically working through old, complex scent trails that other breeds would lose. It's a defining characteristic of the breed's hunting value." },
+    { "q": "What is Krabbe's disease in Bluetick Coonhounds?", "a": "Globoid Cell Leukodystrophy (GCL or Krabbe's disease) is a fatal inherited neurological condition present in some Bluetick Coonhound bloodlines. Affected puppies develop progressive neurological deterioration. A DNA test is available, and responsible breeders test both parents before breeding to ensure no at-risk puppies are produced. Always ask your breeder for GCL test results for both parents." },
+    { "q": "Are Bluetick Coonhounds good apartment dogs?", "a": "No — for two reasons. First, they need substantial daily exercise (60–90 minutes), which is challenging in an apartment setting. Second, the baying voice is loud, carries through walls, and is difficult to suppress. Blueticks are best suited to houses with yards, preferably in areas where a dog's voice won't create conflicts with neighbors." }
+  ],
+
+  "related_breeds": [
+    {"name": "Black and Tan Coonhound", "slug": "black-and-tan-coonhound", "note": "Similar coonhound type, slightly more laid-back at home, different coat coloring"},
+    {"name": "Redbone Coonhound", "slug": "redbone-coonhound", "note": "Solid red coat, comparable scent-hound temperament and energy"},
+    {"name": "Treeing Walker Coonhound", "slug": "treeing-walker-coonhound", "note": "Faster, more sprint-oriented coonhound — common field trial competitor"},
+    {"name": "Beagle", "slug": "beagle", "note": "Smaller scent hound with similar nose-driven nature, more manageable for casual owners"}
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Silky Terrier Puppy Checklist",
+    "slug": "silky-terrier-puppy-checklist",
+    "shopify_handle": "silky-terrier-puppy-checklist",
+    "group": "Silky Terrier",
+    "size_category": "Guide",
+    "tags": ["silky-terrier", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-05-01T16:00:00Z",
+    "excerpt": "Bringing home a Silky Terrier puppy? This checklist covers everything you need — from puppy-proofing and supplies to first-week routines and early training tips.",
+    "meta_description": "Silky Terrier puppy checklist: supplies, puppy-proofing, vet appointments, grooming intro, and first-week training for new owners."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Silky_Terrier_600.jpg/330px-Silky_Terrier_600.jpg",
+      "alt": "Silky Terrier puppy"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Preparing Your Home for a Silky Terrier Puppy",
+      "html": "<p><strong>Puppy-Proofing:</strong> Silky Terriers are curious and low to the ground — they will find anything left accessible. Secure electrical cords, block gaps under furniture where a puppy could wedge itself, remove toxic houseplants, and gate off stairways and rooms you want off-limits.</p><p><strong>Supplies Checklist:</strong></p><ul><li>Wire or plastic crate sized for a small dog (airline-size works well)</li><li>Soft crate pad or small dog bed</li><li>Stainless steel food and water bowls</li><li>Small-breed puppy food (ask your breeder what they're currently feeding)</li><li>Flat collar and 4-foot leash for initial training</li><li>Lightweight harness (recommended over collar for daily walks due to trachea sensitivity)</li><li>ID tag with your contact info</li><li>Pin brush and fine metal comb for grooming introduction</li><li>Puppy-safe chew toys and interactive puzzle feeders</li><li>Enzymatic cleaner for accidents</li></ul><p><strong>Vet Appointment:</strong> Schedule a wellness check within the first 3–5 days. Bring any health records or vaccination documentation from your breeder.</p>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "The First Week: Routines and Settling In",
+      "html": "<p><strong>Crate Training:</strong> Introduce the crate as a safe, positive space from day one. Place a worn t-shirt inside for your scent. Feed meals inside the crate with the door open initially, then close it briefly while you stay nearby. Gradually extend crate time. Most Silky puppies accept crating well when introduced positively.</p><p><strong>Potty Schedule:</strong> Take your puppy outside first thing in the morning, after every meal, after naps, and before bed. Silky puppies have small bladders — consistency is key. Praise and a small treat immediately after going outside reinforce the habit.</p><p><strong>Grooming Introduction:</strong> Start handling your puppy's coat, ears, and paws from day one — not necessarily brushing, just gentle touching and holding. This desensitizes them to future grooming sessions and makes professional grooming visits far less stressful.</p><p><strong>Sleep:</strong> Expect some crying the first few nights. Placing the crate near your bed so the puppy can hear you is often enough reassurance. Avoid bringing the puppy into bed — it sets expectations that are hard to change later.</p>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Early Training Priorities for Silky Terrier Puppies",
+      "html": "<p><strong>Socialization Window:</strong> The most critical socialization period is 3–14 weeks. Expose your Silky puppy to as many positive experiences as possible — different surfaces, sounds, people, children, and friendly dogs. Well-socialized Silkies grow up confident and adaptable rather than reactive.</p><p><strong>Bark Training:</strong> The Silky Terrier is a natural alarm barker. Teaching a 'quiet' command early saves considerable frustration later, especially if you live in an apartment. Reward quiet after barking rather than just scolding the noise.</p><p><strong>Leash Manners:</strong> Start loose-leash walking early. Silkies can pull confidently for their size. Short, positive sessions of 5–10 minutes work better than long frustrated walks.</p><p><strong>Recall:</strong> A reliable recall is especially important for terrier breeds with prey drive. Practice indoors and in safely fenced areas before attempting in open spaces. Keep practice sessions fun, with high-value rewards. Never punish a dog that comes to you — even if they took too long.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "When should my Silky Terrier puppy have its first professional groom?",
+      "a": "Most groomers recommend waiting until all puppy vaccinations are complete, typically around 16 weeks, before visiting a grooming salon. Before that, focus on at-home brushing and coat-handling to prepare the puppy for the experience."
+    },
+    {
+      "q": "Are Silky Terrier puppies hard to potty train?",
+      "a": "They can be, like most small breeds. Their small bladders mean more frequent trips outside, and consistency is critical. Crate training helps enormously. With a committed schedule, most Silky puppies are reliably house-trained by 4–6 months."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "name": "Basenji Grooming Guide",
+    "slug": "basenji-grooming-guide",
+    "shopify_handle": "basenji-grooming-guide",
+    "group": "Basenji",
+    "size_category": "Guide",
+    "tags": ["basenji", "grooming"],
+    "published": true,
+    "published_at": "2026-04-24T16:00:00Z",
+    "excerpt": "The Basenji is one of the lowest-maintenance breeds in existence — they self-groom like cats, have virtually no odor, and rarely need baths. A rubber grooming mitt once a week is essentially the complete grooming routine.",
+    "meta_description": "Basenji grooming guide: the self-cleaning coat that needs almost no maintenance, rubber mitt brushing, ear and nail care, and why this breed is the easiest short-coated dog to maintain."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Basenji_Profile_%28loosercrop%29.jpg/330px-Basenji_Profile_%28loosercrop%29.jpg",
+      "alt": "Basenji grooming guide"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Understanding the Basenji Coat",
+      "html": "<p>The Basenji coat is one of the most remarkable in the dog world — short, fine, and sleek, lying close to the body with a natural sheen. What makes the Basenji truly distinctive is its self-cleaning behavior: Basenjis groom themselves like cats, licking their paws and washing their faces with their forepaws. This behavior is not just a personality quirk but a functional trait that keeps the coat unusually clean between baths.</p><p>The coat sheds minimally — not truly non-shedding, but significantly less than most breeds. The fine, short hairs that do shed are barely noticeable on furniture and clothing. Basenjis also produce very little odor compared to most breeds, which further reduces the need for frequent bathing.</p><p>Colors include red and white, black and white, brindle and white, and tricolor. The characteristic wrinkled forehead deepens when the dog is alert, but the wrinkles are shallow compared to breeds like Shar-Peis and do not require the intensive fold-cleaning those breeds need. The Basenji's wrinkles are expression lines, not deep folds that trap moisture.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Step-by-Step Grooming Routine",
+      "html": "<p><strong>Frequency:</strong> Weekly for the basic routine; baths every 4–6 weeks or as needed (Basenjis may go longer between baths given their self-cleaning nature).</p><p><strong>Tools needed:</strong> Rubber grooming mitt or rubber curry brush, soft bristle brush, nail clippers or grinder, dog-safe ear cleaner, gentle dog shampoo.</p><p><strong>Weekly brushing:</strong> A rubber grooming mitt used in circular motions over the entire body removes loose dead hair, stimulates the skin, and distributes natural oils that maintain the coat's characteristic sheen. This takes roughly 5 minutes. The mitt is preferred over stiffer brushes for the fine Basenji coat. Brush in the direction of hair growth, then against it to catch loose hairs, then back with growth for the final pass.</p><p><strong>Bathing:</strong> Basenjis typically need baths only every 4–6 weeks — or less often, given their self-cleaning habits. Use a gentle shampoo, rinse thoroughly, and towel or air dry. Most Basenjis dry quickly given the very short coat. This is one breed where bath day is genuinely simple.</p><p><strong>Ear care:</strong> Check the ears weekly for odor, redness, or excess wax. Basenjis have relatively upright ears with good airflow, which reduces infection risk compared to floppy-eared breeds. Clean monthly with a veterinarian-recommended ear cleaner unless you notice an issue.</p><p><strong>Nail trimming:</strong> Every 3–4 weeks. Basenjis that get regular exercise on hard surfaces may wear nails naturally, but regular inspection is still necessary.</p><p><strong>Teeth:</strong> Daily brushing with dog toothpaste is ideal; at minimum 2–3 times per week. Dental chews and water additives supplement but do not replace brushing.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Professional Grooming and Special Care",
+      "html": "<p><strong>Professional grooming:</strong> Basenjis generally do not require professional grooming. The coat needs no clipping, trimming, or specialized tools beyond what any owner can manage at home. The only scenario where professional grooming might be useful is for nail trims if the owner is uncomfortable doing them.</p><p><strong>The self-grooming behavior:</strong> Basenjis lick their paws and wash their faces with the same thoroughness as cats. This is completely normal and healthy behavior — do not discourage it. However, if you notice excessive licking focused on one area (particularly paws), this can indicate allergies or skin irritation rather than normal grooming.</p><p><strong>Skin and wrinkle care:</strong> The forehead wrinkles in Basenjis are expressive but not deep folds requiring special cleaning. A simple wipe with a damp cloth during bath time is sufficient. Check for any redness or irritation but routine cleaning is rarely needed.</p><p><strong>Basenji odor:</strong> Correctly maintained Basenjis are remarkably odor-free — one of the breed's most-appreciated practical characteristics. If you notice unusual odor, check the ears first (most common source), then consider whether a bath is needed. Persistent odor from the skin or coat may indicate a skin condition worth discussing with a vet.</p><p><strong>No professional grooming budget needed:</strong> Unlike breeds requiring haircuts or hand-stripping, a Basenji's grooming costs are essentially just shampoo, a rubber mitt, and nail care. This is one of the most economical breeds to maintain from a grooming standpoint.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often should I groom my Basenji?",
+      "a": "A quick 5-minute rubber mitt session weekly, baths every 4–6 weeks or when dirty, ear checks monthly, and nail trims every 3–4 weeks. That's essentially the complete Basenji grooming routine. The self-cleaning behavior means the coat stays cleaner between sessions than most breeds."
+    },
+    {
+      "q": "Do Basenjis shed?",
+      "a": "Minimally — they shed some fine short hairs year-round but far less than double-coated or longer-coated breeds. The short, fine hairs are less visible on furniture than longer shed hairs. The weekly rubber mitt session captures most of the loose hair before it ends up on your clothes and furniture."
+    },
+    {
+      "q": "Why does my Basenji lick and groom itself constantly?",
+      "a": "This is completely normal Basenji behavior inherited from their African origins. Basenjis self-groom like cats — it is one of their most distinctive characteristics and a genuine practical advantage for owners. The behavior keeps the coat clean and contributes to the breed's natural lack of odor. It requires no intervention unless the licking becomes focused on one area to the point of causing irritation, which can indicate allergies."
+    },
+    {
+      "q": "Does a Basenji need professional grooming?",
+      "a": "No — the Basenji coat requires no clipping, trimming, hand-stripping, or specialized professional care. The only professional service you might use is nail trimming if you're uncomfortable doing it at home. This is one of the most grooming-economical breeds available."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "name": "Briard Puppy Checklist",
+    "slug": "briard-puppy-checklist",
+    "shopify_handle": "briard-puppy-checklist",
+    "group": "Briard",
+    "size_category": "Guide",
+    "tags": ["briard", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-05-04T16:00:00Z",
+    "excerpt": "Preparing for a Briard puppy means setting up for a large, long-coated French herding breed with a heart of gold. This checklist covers everything you need before your Briard puppy arrives home.",
+    "meta_description": "Briard puppy checklist: supplies, home preparation, early training tips, grooming introduction, and dewclaw care for new Briard owners."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Briard_agility.jpg/330px-Briard_agility.jpg",
+      "alt": "Briard puppy checklist"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Preparing Your Home for a Briard Puppy",
+      "html": "<p>A Briard puppy will grow into a large, shaggy, enormously affectionate dog. Setting up your home properly before pickup day makes the transition smoother and establishes habits that will serve you for the next decade.</p><h3>Home Safety</h3><ul><li>Secure all electrical cords — Briard puppies chew enthusiastically</li><li>Install baby gates for stairs and off-limit rooms</li><li>Verify yard fencing is sturdy and escape-proof</li><li>Remove toxic plants, chemicals, and small swallowable objects</li><li>Clear low surfaces — a growing Briard's tail becomes a sweep hazard quickly</li><li>Set up a puppy-proofed confinement area for unsupervised time</li></ul><h3>Supplies Checklist</h3><ul><li>Wire crate with divider panel (sized for adult)</li><li>Soft bedding for crate and sleeping area</li><li>Heavy-gauge stainless steel food and water bowls</li><li>Large-breed puppy food (ask breeder for specific recommendation)</li><li>Flat collar with ID tag and 4–6 foot leash</li><li>Long training line (20–30 feet)</li><li>Pin brush and wide-toothed metal comb (start from day one)</li><li>Detangling spray</li><li>Beard towel (designated for after-meal wipe-downs)</li><li>Kong toys and bully sticks</li><li>Puzzle feeder for mental stimulation</li><li>Enzymatic cleaner for accidents</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "The First Week with Your Briard Puppy",
+      "html": "<p>Briard puppies are alert, affectionate, and begin bonding intensely from the first day. Establish routine, begin socialization, and start gentle grooming handling immediately.</p><h3>Daily Schedule</h3><ul><li>Outdoor potty trips every 1–2 hours while awake, after meals, after waking from naps</li><li>Three meals daily (pickup leftovers after 15 minutes)</li><li>Short supervised play sessions and crate nap time alternating throughout the day</li><li>Brief training sessions (5 minutes, 3–4 times daily) starting on day one</li><li>Grooming handling: daily 3–5 minute brush and touch sessions with treats</li></ul><h3>Crate Training</h3><p>The crate is particularly important for Briard puppies, which are prone to deep attachment. Crate training teaches the puppy to be calm independently — an important foundation for a breed that can develop separation anxiety if not taught alone-time from puppyhood. Introduce the crate positively through meals and treats, build duration gradually, and use it consistently overnight and during unsupervised time.</p><h3>Socialization</h3><p>Broad positive socialization during the critical window (8–16 weeks) is essential for a breed with natural protective instincts. Include:</p><ul><li>Diverse people: children, elderly, men, people in uniforms, hats, etc.</li><li>Urban and rural environments</li><li>Other vaccinated, friendly dogs</li><li>Veterinary handling: paws, ears, mouth, body</li><li>Various surfaces and sounds</li></ul>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Training Your Briard Puppy",
+      "html": "<p>The Briard is an intelligent, capable breed that responds beautifully to positive, consistent training. Their deep loyalty means they genuinely want to please their person — but their independent working-dog heritage means they sometimes need convincing that what you're asking is worthwhile. Keep training engaging, positive, and varied.</p><h3>Foundation Skills</h3><ul><li><strong>Name recognition:</strong> Pair name with immediate reward — this is the bedrock of all future training</li><li><strong>Sit:</strong> Practice before meals, at doorways, and during interactions</li><li><strong>Down:</strong> Teaches impulse control and deference — important for a large breed</li><li><strong>Come (recall):</strong> Practice extensively in very low-distraction settings first; build reliability gradually</li><li><strong>Leave it:</strong> Critical for safety management</li><li><strong>Stay/Wait:</strong> Builds patience and impulse control</li><li><strong>Loose-leash walking:</strong> Start from day one — do not allow pulling to become a habit</li></ul><h3>Grooming as Training</h3><p>The Briard's coat will require grooming for its entire life. Treating grooming sessions as training sessions from puppyhood — using high-value treats, keeping sessions short, building duration gradually — creates a dog that tolerates and even enjoys grooming. A Briard that resists grooming is significantly more difficult and time-consuming to maintain.</p><h3>Double Dewclaw Handling</h3><p>Begin handling the hind legs and double dewclaws from day one. Pair all handling with high-value treats. These dewclaws require trimming every 3–4 weeks for the dog's entire life — the earlier and more often you build positive associations with dewclaw touching and trimming, the easier this maintenance will be.</p><h3>Managing the Independent Streak</h3><p>Briards were bred to make independent herding decisions. This means they may occasionally choose not to comply with a command they've learned, particularly if they've found a more interesting option. Consistent positive training that rewards compliance and makes listening to you the most rewarding option is more effective than attempting to force compliance. Building a strong bond through training and daily interaction creates the trust that makes a Briard want to work with you.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How long does it take to housetrain a Briard puppy?",
+      "a": "Most Briard puppies can be reliably house trained within 4–8 weeks with a consistent crate training and outdoor schedule. Their intelligence helps them learn quickly. Accidents will happen — clean thoroughly with enzymatic cleaner. Never punish accidents after the fact."
+    },
+    {
+      "q": "Do Briard puppies do well alone?",
+      "a": "Briards are highly social dogs that bond deeply and can develop separation anxiety if not taught to be calm alone from puppyhood. Crate training from day one and gradually building alone-time tolerance (starting with just minutes and extending slowly) prevents separation anxiety from developing. Never leave a Briard puppy alone for extended periods without building up to it first."
+    },
+    {
+      "q": "When should I start trimming my Briard puppy's coat?",
+      "a": "Begin handling the coat with a gentle brush from day one, but full trimming is generally not needed until the puppy coat begins transitioning to adult coat, usually around 6–12 months. At that point, basic hygiene trimming (paws, under tail) and a full brush-out to ease the transition are helpful."
+    },
+    {
+      "q": "Are Briard puppies hard to train?",
+      "a": "Briard puppies are highly intelligent and pick up basic commands quickly. The main challenge is their occasional independent streak — they were bred to think for themselves. Consistent positive reinforcement training that makes listening to you more rewarding than following their own agenda is effective. Early enrollment in puppy class is strongly recommended."
+    }
+  ]
+}

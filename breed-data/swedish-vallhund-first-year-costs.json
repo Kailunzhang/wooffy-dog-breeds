@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "name": "Swedish Vallhund First Year Costs",
+    "slug": "swedish-vallhund-first-year-costs",
+    "shopify_handle": "swedish-vallhund-first-year-costs",
+    "group": "Swedish Vallhund",
+    "size_category": "Guide",
+    "tags": ["swedish-vallhund", "costs", "herding"],
+    "published": true,
+    "published_at": "2026-05-05T16:00:00Z",
+    "excerpt": "A complete first year cost breakdown for Swedish Vallhund ownership — covering puppy price, SVR health testing documentation, setup supplies, veterinary care, and long-term annual budget.",
+    "meta_description": "Swedish Vallhund first year cost guide: puppy price, SVR testing, setup expenses, food, vet care, and realistic annual budget for this Viking herding breed."
+  },
+  "stats": {
+    "height": "11.5–13.5 inches",
+    "weight": "20–35 lbs",
+    "lifespan": "12–15 years",
+    "energy_level": "High",
+    "grooming_needs": "Moderate",
+    "good_with_kids": true,
+    "good_with_other_dogs": true,
+    "shedding": "Moderate",
+    "trainability": "Easy"
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Swedish_Vallhund_bitch.jpg/330px-Swedish_Vallhund_bitch.jpg",
+      "alt": "Swedish Vallhund"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Puppy Price and One-Time Setup Expenses",
+      "html": "<p>Swedish Vallhund puppies from health-tested, responsible breeders typically cost $1,200–$2,200 in the United States. The breed is moderately rare, and breeders who perform the critical SVR (Swedish Vallhund Retinopathy) DNA testing on their breeding stock are a subset of an already small breeder population. Budget at the mid-to-higher end for a puppy from a breeder with documented SVR testing, hip evaluations, and patellar clearances. Wait lists of several months are common with quality breeders.</p><p>Rescue is available through the Swedish Vallhund Club of America's rescue program, with fees typically running $150–$350 including initial veterinary care. Adult Vallhunds from responsible sources make excellent companions for active experienced owners.</p><p>One-time setup supplies:</p><ul><li>Medium crate (the Vallhund is a medium-small dog at 20–35 lbs): $45–$85</li><li>Washable crate bedding: $20–$50</li><li>Stainless steel food and water bowls: $15–$35</li><li>Collar, ID tag, and 6-foot leash: $25–$50</li><li>Harness (useful for active herding breeds): $25–$50</li><li>Slicker brush and undercoat rake: $30–$55</li><li>Puppy safety gates: $30–$70</li><li>Durable toys (the Vallhund is an active chewer and player): $35–$70</li><li>Enzyme cleaner: $12–$22</li></ul><p>Total one-time setup estimate: $237–$487.</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Veterinary Care, Food, Grooming, and Training",
+      "html": "<p>First-year veterinary costs for a Swedish Vallhund puppy:</p><ul><li>Puppy wellness exam series and vaccines: $250–$500</li><li>Heartworm, flea, and tick prevention: $15–$30/month ($180–$360/year)</li><li>Spay or neuter (if applicable): $300–$650</li><li>Microchip: $25–$55</li></ul><p>At the first veterinary appointment, bring SVR testing documentation provided by the breeder. If you have any concerns about documentation authenticity, an independent SVR DNA test from an accredited veterinary genetics laboratory costs $80–$130 and provides definitive clarity. Given SVR's impact on quality of life, this is a worthwhile investment if documentation is in question.</p><p>Food for a 20–35 lb Swedish Vallhund runs $35–$55/month ($420–$660/year) on quality dry kibble or fresh food. Herding breeds are active and metabolically efficient; choose an appropriately calorie-dense food for an active small-to-medium breed. Monitor weight carefully — keeping the dog lean is one of the most impactful health and orthopedic maintenance steps for any low-set breed.</p><p>Grooming costs for the Swedish Vallhund are low. At-home brushing covers the routine maintenance entirely. Optional professional de-shedding baths during the twice-yearly coat blow run $45–$70 per session (2 sessions/year = $90–$140). Home grooming costs beyond the initial brush purchase are negligible.</p><p>Training is important for this intelligent, high-energy herding breed. A 6–8 week positive-reinforcement puppy course runs $100–$200. For a breed with this much drive and intelligence, continuing into intermediate obedience, agility foundation, or herding instinct testing in year one is strongly recommended. Budget $250–$500 for first-year training including puppy and follow-on classes.</p><p>Pet insurance: $30–$55/month ($360–$660/year). SVR risk and the orthopedic considerations of a long-backed breed make pet insurance a prudent purchase.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Annual Budget",
+      "html": "<p>First year cost summary:</p><ul><li>Puppy price: $1,200–$2,200</li><li>One-time setup supplies: $237–$487</li><li>First-year veterinary care: $555–$1,165</li><li>Food: $420–$660</li><li>Grooming (optional professional): $90–$140, or minimal with home grooming</li><li>Training: $250–$500</li><li>Pet insurance: $360–$660</li></ul><p><strong>First year total (excluding puppy): $1,912–$3,612</strong><br><strong>First year total (including puppy): $3,112–$5,812</strong></p><p>From year two onward, annual costs settle to $1,800–$3,200, covering food, veterinary care, parasite prevention, pet insurance, and ongoing training participation. The Swedish Vallhund is an active breed that benefits from year-round engagement in structured activities; dog sports entry fees, classes, and trial participation are optional but meaningful ongoing investments for owners who pursue them.</p><p>Long-term cost considerations specific to the breed: IVDD (intervertebral disc disease) risk is elevated in long-backed breeds; keeping the dog lean, avoiding repetitive high-impact jumping, and providing ramps for furniture access reduces risk but does not eliminate it. IVDD treatment can range from $500–$8,000+ depending on severity (conservative management versus surgical intervention). Pet insurance with strong coverage for orthopedic conditions is the most important financial safeguard for Swedish Vallhund owners.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Swedish Vallhund expensive to own?",
+      "a": "Moderate. The purchase price is in line with other uncommon herding breeds, ongoing food and grooming costs are reasonable, and training is an investment that pays off in the dog's quality of life. The main financial risks are SVR-related vision care and back/orthopedic issues common to long-backed breeds — pet insurance addresses both."
+    },
+    {
+      "q": "Do I need to pay for SVR testing separately?",
+      "a": "No — responsible breeders include SVR testing costs in their puppy prices. What you are purchasing from a health-testing breeder includes documented SVR clearance on both parents. You only need an independent test if you have reason to question the documentation provided."
+    },
+    {
+      "q": "What dog sports can I do with my Swedish Vallhund, and what do they cost?",
+      "a": "Agility, herding trials, rally obedience, nose work, and trick dog titling are all excellent options. Entry fees for AKC trials run $15–$35 per run; classes for agility foundation or herding instruction run $100–$250 per multi-week course. These are optional but highly rewarding investments for owners who enjoy working with their dogs."
+    }
+  ],
+  "related_breeds": ["pembroke-welsh-corgi", "cardigan-welsh-corgi", "icelandic-sheepdog"]
+}

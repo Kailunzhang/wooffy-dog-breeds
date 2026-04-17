@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Irish Water Spaniel Grooming Guide",
+    "slug": "irish-water-spaniel-grooming-guide",
+    "shopify_handle": "irish-water-spaniel-grooming-guide",
+    "group": "Irish Water Spaniel",
+    "size_category": "Guide",
+    "tags": ["irish-water-spaniel", "grooming", "curly-coat", "rat-tail", "professional-trim", "low-shedding"],
+    "published": true,
+    "published_at": "2026-04-23T16:00:00Z",
+    "excerpt": "The Irish Water Spaniel's dense, liver-colored curly coat and distinctive rat tail require professional trimming every 8–10 weeks. The low-shedding curls mat without regular brushing. Ear cleaning is critical for any water-working spaniel with pendulous ears.",
+    "meta_description": "Irish Water Spaniel grooming guide: managing the dense curly liver coat, professional trim schedule, rat tail maintenance, ear cleaning essentials, and the complete home care routine."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ierse_Water_Spaniel.jpg/250px-Ierse_Water_Spaniel.jpg",
+      "alt": "Irish Water Spaniel grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The IWS Coat",
+      "heading": "Understanding the Irish Water Spaniel Coat",
+      "html": "<p>The Irish Water Spaniel has one of the most distinctive coats in the sporting group: a dense mass of tight, crisp ringlets covering the body and head (the characteristic topknot), with a smooth, naturally hairless face and the breed's signature rat tail — a smooth, tapered tail that rounds out the IWS's unmistakable silhouette.</p><p>The coat is low-shedding — like most curly coats, shed hair remains in the coat rather than falling out. This means the coat must be brushed regularly to prevent mat formation, and trimmed professionally every 8–10 weeks to keep the ringlets at a manageable length. Over-bathing strips the oils that give the coat its water-resistant properties — the IWS coat is functional, not ornamental.</p><h3>Grooming Tools You'll Need</h3><ul><li>Wide-tooth metal comb — primary tool for working through ringlets</li><li>Slicker brush — for surface brushing and finishing</li><li>Dematting comb or spray detangler — for working through any tangles in dense areas</li><li>Ear cleaning solution and cotton balls</li><li>Dog-safe shampoo formulated for curly or water-repellent coats</li><li>Nail clippers or grinder</li></ul>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly Home Maintenance</h3><ul><li>Work through the entire coat with a wide-tooth metal comb, section by section — this is the primary mat-prevention tool for curly coats</li><li>Pay extra attention to behind the ears, under the armpits, and in the leg area where mats form most readily in dense, curly coats</li><li>Clean both ears thoroughly — the IWS's pendulous ears over a dense coat make ear infections a serious risk without consistent cleaning</li><li>Check paw pads and between the toes — curly coat debris collection between the toes is common</li><li>Wipe the smooth face area around the eyes as needed</li></ul><h3>Professional Trimming (Every 8–10 Weeks)</h3><p>Professional trimming keeps the ringlets at a functional, manageable length. The typical IWS trim maintains the coat's characteristic appearance — the topknot, the curly body coat at moderate length, the feathered legs — while preventing the coat from growing into an unmanageable mass that mats and collects debris. The rat tail requires no trimming — it is naturally smooth.</p><p>Find a groomer experienced with curly-coated sporting dogs — Portuguese Water Dogs, Lagottos, and Poodles are comparable coat types. The IWS coat requires specific handling technique to maintain the natural ringlet structure.</p><h3>Bathing</h3><p>Bathe every 6–8 weeks or when genuinely necessary. Over-bathing strips the coat's natural oils and degrades its water-resistant properties. Use a shampoo formulated for curly or water-repellent coats. Rinse thoroughly. Allow the coat to air dry naturally when possible — the ringlet structure restores itself as it dries. After water work, rinse with fresh water to remove contaminants.</p>"
+    },
+    "special": {
+      "label": "Ear Care and Rat Tail",
+      "heading": "Ear Cleaning and Rat Tail Maintenance",
+      "html": "<p>The Irish Water Spaniel's pendulous ears combined with regular water exposure make ear infections a common problem without preventive cleaning. Clean the ears thoroughly after every swimming session and as part of the weekly grooming routine. Apply veterinary ear cleaning solution, massage the base, let the dog shake, then wipe visible debris with cotton balls. Trim hair at the ear canal opening at every professional grooming session to maintain airflow.</p><h3>The Rat Tail</h3><p>The IWS's characteristic rat tail — thick at the base, tapering to a fine point, naturally covered in short smooth hair — requires no trimming. Keep the tail clean; debris can accumulate at the base where the smooth tail meets the curly body coat. Wipe the base of the tail during weekly maintenance and check the smooth skin of the tail for any irritation. Do not attempt to make the tail look curlier or clip it — it is a naturally smooth breed characteristic.</p><h3>Drug Sensitivity Awareness</h3><p>Irish Water Spaniels have documented sensitivity to certain medications, including sulfasalazine and some other drugs. This is important to flag with any veterinarian or emergency veterinarian. Carry a note of this breed-specific sensitivity and ensure it is noted in the veterinary record. When any new medication is prescribed, ask the vet to cross-reference it against known IWS sensitivities before dispensing.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does an Irish Water Spaniel need professional grooming?",
+      "a": "Every 8–10 weeks. The curly coat grows continuously and mats without regular trimming. Between professional appointments, weekly combing and brushing prevents mat development. Letting the trimming schedule slip beyond 10 weeks results in a coat that requires significantly more work at each appointment and may need partial shave-downs to clear mats."
+    },
+    {
+      "q": "Is the Irish Water Spaniel coat truly low-shedding?",
+      "a": "Yes — the tight ringlets retain shed hair within the coat rather than releasing it into the environment. This significantly reduces the amount of dog hair on furniture and clothing. However, the retained hair is why regular brushing and combing is essential — without it, the retained hair forms mats within the ringlets. The trade-off for low shedding is higher maintenance."
+    },
+    {
+      "q": "Can I groom an Irish Water Spaniel at home?",
+      "a": "Many owners learn to manage the coat at home with clippers and proper technique. The learning curve for curly coats is real — the coat must be worked systematically and cut in a way that maintains the natural ringlet structure. Most owners find professional trims every 8–10 weeks combined with thorough weekly home combing is the most manageable approach. Fully home-groomed IWS dogs are achievable with practice and the right equipment."
+    }
+  ]
+}

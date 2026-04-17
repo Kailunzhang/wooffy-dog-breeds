@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "name": "Afghan Hound Grooming Guide",
+    "slug": "afghan-hound-grooming-guide",
+    "shopify_handle": "afghan-hound-grooming-guide",
+    "group": "Afghan Hound",
+    "size_category": "Guide",
+    "tags": ["afghan-hound", "grooming"],
+    "published": true,
+    "published_at": "2026-04-24T16:00:00Z",
+    "excerpt": "The Afghan Hound's long, silky coat is one of the most demanding in the dog world — requiring weekly bathing, conditioning, and thorough brushing sessions that can take 2–4 hours. Many pet owners opt for a shorter sporting clip.",
+    "meta_description": "Afghan Hound grooming guide: weekly bathing schedule, blow-drying technique, brushing routine to prevent mats, coat conditioning, and the sporting clip option for pet owners."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Afghan_dog_-_cropped.jpg/330px-Afghan_dog_-_cropped.jpg",
+      "alt": "Afghan Hound grooming guide"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Understanding the Afghan Hound Coat",
+      "html": "<p>The Afghan Hound coat is one of the most spectacular and demanding in the dog world. The long, silky topcoat flows from head to tail, with profuse feathering on the ears, legs, and flanks. The saddle area along the back typically carries shorter, closer-lying hair — a breed characteristic. The texture should be silky and fine, not coarse or woolly.</p><p>Unlike double-coated breeds, the Afghan's coat is more similar in texture to human hair — silky, prone to tangling, and requiring conditioning to maintain its quality. Without regular maintenance, the coat forms tight mats that are painful to remove and can require shaving. The coat grows continuously and does not self-clean the way shorter coats do.</p><p>Afghan Hounds come in virtually every color: cream, gold, red, black, blue, brindle, and combinations. The coat color does not affect grooming requirements — all color variations require the same intensive maintenance schedule. Pet owners who find the full coat unmanageable have the option of a shorter sporting clip, which dramatically reduces grooming time while still presenting a handsome dog.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Step-by-Step Grooming Routine",
+      "html": "<p><strong>Frequency:</strong> Full grooming sessions every 7–10 days in full coat. Brushing between sessions 2–3 times per week minimum.</p><p><strong>Tools needed:</strong> Pin brush, wide-tooth metal comb, slicker brush, detangling spray or coat conditioner, high-velocity dryer or stand dryer, gentle dog shampoo, deep conditioner.</p><p><strong>Bathing:</strong> Wet the coat thoroughly, working shampoo from root to tip. Rinse completely — residue causes skin irritation and coat dullness. Apply a generous deep conditioner and allow it to penetrate for 5–10 minutes before rinsing. The conditioner step is not optional — it prevents static, reduces tangles, and keeps the silky texture intact.</p><p><strong>Drying:</strong> This is the most time-consuming step. Use a high-velocity dryer on low heat to blow the coat straight while brushing section by section. Never rub-dry — rubbing causes tangles and breakage. The coat must be fully dried, particularly at the skin level, to prevent hot spots and skin irritation. Air drying produces tangles and is not appropriate for Afghan coats.</p><p><strong>Brushing:</strong> Work in sections with a pin brush, supporting the coat at the root to prevent pulling. Follow with a wide-tooth comb to confirm no remaining tangles. Pay extra attention to the areas behind the ears, in the armpits, around the collar area, and where the legs meet the body — these are the most mat-prone zones. A light detangling spray helps the comb move through the coat without breaking it.</p><p><strong>Between sessions:</strong> A light misting of detangling spray followed by brushing 2–3 times per week prevents minor tangles from becoming serious mats. Never brush a dry, dirty Afghan coat without the detangling spray — the friction causes breakage.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Professional Grooming and Special Care",
+      "html": "<p><strong>Professional grooming:</strong> Many Afghan owners use a professional groomer for the full bathing, drying, and brushing process — particularly if they have not invested in high-quality grooming equipment. Professional Afghan grooming runs $80–$150+ per session depending on coat condition and length. Frequency is typically every 4–6 weeks for maintained coats.</p><p><strong>The sporting clip option:</strong> Many pet Afghan owners choose a shorter, clipped style that dramatically reduces maintenance. A sporting clip keeps the body coat short (1–2 inches) while maintaining some feathering on the ears and tail. Home maintenance drops from 2–4 hours per session to 30–45 minutes of occasional brushing. This is a legitimate choice and does not affect the dog's health or comfort — it simply changes the aesthetic.</p><p><strong>Collar management:</strong> Collars create mat zones in Afghan coats. A harness used for walks reduces the friction at the neck and behind the front legs. If a collar is necessary, check and brush the area underneath daily.</p><p><strong>Ear cleaning:</strong> The long ear leather and feathering trap debris and moisture. Wipe the outer ear leather weekly and check the inner ear canal monthly. Consult your vet if you notice odor, discharge, or the dog shaking its head frequently.</p><p><strong>Nails and teeth:</strong> Nail trims every 3–4 weeks; dental hygiene with brushing or dental chews regularly.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often should I groom my Afghan Hound?",
+      "a": "A full bath-dry-brush session is needed every 7–10 days in full coat. Between sessions, brush 2–3 times per week with a detangling spray to prevent mats from forming. The full session takes 2–4 hours including bathing, conditioning, drying, and brushing. If this schedule is not sustainable, consider a shorter sporting clip that reduces maintenance to occasional brushing."
+    },
+    {
+      "q": "What causes Afghan Hound coats to mat?",
+      "a": "Several factors: infrequent brushing, friction from collars and harnesses, rough rubbing when drying, brushing without detangling spray on dry coat, and moisture retained at the skin after bathing. The silky texture tangles more easily than coarser coat types. Prevention through regular maintenance is far easier than removing established mats — severe matting often requires shaving."
+    },
+    {
+      "q": "Can I groom my Afghan Hound at home or do I need a professional?",
+      "a": "Home grooming is entirely possible with the right equipment — particularly a high-velocity dryer, which is essential for properly drying the dense coat. Without a dryer, air drying produces tangling and can cause skin issues. The learning curve is real but manageable. Many Afghan owners do maintenance brushing at home and see a professional groomer for the full bath-dry every 4–6 weeks."
+    },
+    {
+      "q": "Is a shorter clip okay for an Afghan Hound?",
+      "a": "Completely fine for a pet dog. The sporting clip or a custom short body clip maintains the dog's comfort and cleanliness with a fraction of the maintenance time. The full flowing show coat is not required for a companion Afghan. Many owners prefer the practical shorter cut and report that their Afghans are equally happy and comfortable in it."
+    }
+  ]
+}

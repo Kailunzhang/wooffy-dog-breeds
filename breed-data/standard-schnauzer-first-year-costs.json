@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Standard Schnauzer First Year Costs",
+    "slug": "standard-schnauzer-first-year-costs",
+    "shopify_handle": "standard-schnauzer-first-year-costs",
+    "group": "Standard Schnauzer",
+    "size_category": "Guide",
+    "tags": ["standard-schnauzer", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-04-27T16:00:00Z",
+    "excerpt": "Standard Schnauzer first-year costs run $3,500–$7,500 including purchase price. Professional grooming every 6–8 weeks is the primary breed-specific recurring cost. The breed has a relatively robust health profile.",
+    "meta_description": "Standard Schnauzer first year costs: puppy price $1,500–$3,500, mandatory professional grooming every 6-8 weeks, vet bills, insurance, and total first-year and ongoing expense estimates for this versatile working breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Standard_Grey_Schnauzer_%28cropped%29.JPG/250px-Standard_Grey_Schnauzer_%28cropped%29.JPG",
+      "alt": "Standard Schnauzer first year costs"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "What Does a Standard Schnauzer Cost to Acquire?",
+      "html": "<p><strong>Puppy from a reputable breeder: $1,500–$3,500.</strong> The Standard Schnauzer is the original Schnauzer — predating both Miniature and Giant varieties. Reputable breeders health-test for hip dysplasia (OFA) and eye certifications. The Standard Schnauzer Club of America maintains a breeder directory. The breed has a relatively smaller breeding population in North America than the Miniature or Giant; expect some waiting time for a puppy from a health-tested program.</p><p><strong>Rescue adoption: $200–$500</strong> through Standard Schnauzer Club rescue or general terrier/working dog rescue organizations.</p><p><strong>Initial setup costs: $300–$550</strong></p><ul><li>Crate (medium-large, 36–42 inches): $70–$130</li><li>Dog bed: $60–$110</li><li>Collar, harness, and leash: $60–$110</li><li>Grooming tools (slicker brush, pin brush, wide-tooth comb): $50–$90</li><li>Bowls: $30–$60</li></ul>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "First Year Ongoing Expenses",
+      "html": "<p><strong>Food: $500–$800 for the first year.</strong> Medium breed dry food for a 30–50 lb active dog. Budget $40–$70 per month. High-quality formulas appropriate for active working breeds support this energetic, athletic dog.</p><p><strong>Veterinary care (first year): $400–$800</strong></p><ul><li>Initial wellness exam and puppy vaccination series: $150–$350</li><li>Spay or neuter: $150–$400</li><li>OFA hip pre-screening at 12–18 months: $150–$250</li><li>Heartworm and parasite prevention: $100–$200/year for a medium breed</li></ul><p><strong>Pet insurance: $400–$900/year.</strong> Recommended for coverage of hip dysplasia, hypothyroidism (documented in Schnauzers), and general active-breed health risks. The Standard Schnauzer has a relatively robust health profile compared to Giant or Miniature Schnauzers but insurance provides appropriate coverage for the documented concerns. Enroll before the first vet visit.</p><p><strong>Professional grooming: $550–$1,000/year.</strong> The primary breed-specific recurring cost. At $70–$120 per session every 6–8 weeks, professional grooming is a fixed expense of breed ownership. This cost continues for the full lifespan of the dog. Owners who learn to clip at home reduce this significantly — quality clippers cost $120–$250 and the skill pays for itself in the first year of use.</p><p><strong>Training: $200–$500.</strong> The Standard Schnauzer is an intelligent working breed that benefits from structured training. Basic obedience plus a follow-up course or dog sport participation is recommended. The breed excels in agility, nose work, and obedience competition.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Costs",
+      "html": "<p><strong>First year total estimate: $3,500–$7,500</strong> (including purchase price). Professional grooming is the largest variable breed-specific cost.</p><p><strong>Annual ongoing costs after year one: $1,450–$2,700</strong></p><ul><li>Food: $500–$800</li><li>Routine vet care and preventives: $300–$600</li><li>Pet insurance: $400–$900</li><li>Professional grooming: $550–$1,000</li></ul><p><strong>Budget for potential additional costs:</strong></p><ul><li>Hip dysplasia treatment in significant cases: $2,000–$6,000 per joint</li><li>Hypothyroidism medication (lifelong if diagnosed): $200–$500/year</li></ul><p>Over a 13–16 year lifespan, total ownership cost excluding purchase price is typically $18,000–$40,000. Professional grooming accumulated over a 14-year lifespan represents $7,700–$14,000 — making home grooming skill acquisition the most impactful long-term cost reduction available to Standard Schnauzer owners.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "What is the most impactful way to reduce Standard Schnauzer ownership costs?",
+      "a": "Learning to clip at home. Professional grooming at $70–$120 per session every 6–8 weeks represents $550–$1,000 per year — and over a 14-year lifespan, $7,700–$14,000 in cumulative grooming costs. Quality clippers cost $120–$250. The time investment to learn the Schnauzer pattern is the only barrier. Many Standard Schnauzer owners learn to clip their own dogs and find the skill one of the most worthwhile investments in breed ownership."
+    },
+    {
+      "q": "Is the Standard Schnauzer a healthy breed?",
+      "a": "Relatively robust compared to Giant Schnauzers and many other working breeds. The primary documented health concerns are hip dysplasia and hypothyroidism — both manageable conditions. The Standard does not carry the cardiac, neurological, or bloat risks of some of the larger working breeds. Health screening (OFA hip, annual thyroid check) and insurance covering documented conditions is the appropriate approach."
+    },
+    {
+      "q": "How does the Standard Schnauzer's cost compare to the Giant Schnauzer?",
+      "a": "Lower across most categories. Food costs are less (30–50 lb vs. 55–85 lb dog), professional grooming fees are somewhat lower, vet costs are generally lower for a medium vs. large breed, and the Standard's more moderate exercise needs reduce some infrastructure costs. The grooming pattern and home maintenance are essentially identical. The Standard Schnauzer is the more practical choice for owners who want the Schnauzer temperament and coat at a lower overall ownership cost."
+    }
+  ]
+}

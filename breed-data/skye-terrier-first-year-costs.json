@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Skye Terrier First Year Costs",
+    "slug": "skye-terrier-first-year-costs",
+    "shopify_handle": "skye-terrier-first-year-costs",
+    "group": "Skye Terrier",
+    "size_category": "Guide",
+    "tags": ["skye-terrier", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-05-02T16:00:00Z",
+    "excerpt": "The Skye Terrier is a rare breed with higher purchase costs and meaningful grooming expenses. This guide breaks down all first-year ownership costs.",
+    "meta_description": "Skye Terrier first year costs: puppy price, grooming, vet care, food, and complete budget guide for this rare Scottish terrier breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Skye_Terrier_600.jpg/330px-Skye_Terrier_600.jpg",
+      "alt": "Skye Terrier costs"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Initial Investment for a Skye Terrier",
+      "html": "<p><strong>Puppy Price:</strong> Skye Terrier puppies from responsible breeders typically cost $1,800–$3,000 or more. The extreme rarity of the breed means that wait lists are common and puppies are not always available. There is no shortcut here — buying from a reputable source is critically important for a breed this rare.</p><p><strong>Supplies:</strong> Budget $200–$350 for a medium crate (the Skye is heavier than it looks), dog bed, food and water bowls, collar, harness, leash, ID tag, and grooming tools (pin brush, wide-toothed comb, conditioning spray, slicker brush).</p><p><strong>Spay/Neuter:</strong> $250–$550 depending on your location and veterinary practice.</p><p><strong>First Vet Visits:</strong> Puppy wellness exams, vaccines, fecal tests, and parasite prevention: $300–$550 over the first few months.</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Ongoing Monthly and Annual Costs",
+      "html": "<p><strong>Food:</strong> The Skye Terrier weighs 35–45 pounds and eats more than smaller terriers. High-quality food runs $50–$70 per month, totaling $600–$840 annually.</p><p><strong>Grooming:</strong> Professional grooming every 8–12 weeks costs $60–$100 per session. This totals $300–$600 per year. Home grooming tools and supplies add $80–$150 initially. Show owners maintaining the full coat length will invest more in professional grooming time.</p><p><strong>Veterinary Care:</strong> Routine wellness, booster vaccines, heartworm prevention, and flea/tick prevention total $450–$750 for the first full year. Pet insurance for a medium-sized breed averages $35–$65/month and is strongly recommended given the breed's health monitoring needs.</p><p><strong>Training:</strong> A puppy obedience class runs $100–$250. Given the Skye's selective nature with strangers, early positive socialization experiences — often found in well-run puppy classes — are especially valuable.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Budget",
+      "html": "<p><strong>Estimated First Year Total:</strong> $3,500–$6,500 including the puppy price and all first-year expenses. The higher purchase price and grooming requirements push costs toward the higher end of the small-breed spectrum.</p><p><strong>Annual Costs After Year One:</strong> $1,800–$3,000 per year including food, routine vet care, grooming, and supplies.</p><p><strong>Lifetime Estimate:</strong> $24,000–$45,000 over a 12–15 year lifespan, with the grooming commitment being a consistent annual cost driver throughout the dog's life.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is a Skye Terrier significantly more expensive than other small terriers?",
+      "a": "Yes, on two fronts: the purchase price is higher due to rarity, and the grooming costs are higher due to the demanding long coat. Owners who opt for shorter pet trims can reduce grooming expenses meaningfully."
+    },
+    {
+      "q": "Can I groom a Skye Terrier at home to save money?",
+      "a": "Home brushing is essential and non-negotiable regardless of grooming choice. Learning basic trimming skills can reduce professional visits to every 3–4 months, but the regular brushing commitment remains significant regardless. The full show coat is extremely difficult to maintain at home without professional guidance."
+    }
+  ]
+}

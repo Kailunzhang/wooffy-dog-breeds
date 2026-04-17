@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Icelandic Sheepdog Grooming Guide",
+    "slug": "icelandic-sheepdog-grooming-guide",
+    "shopify_handle": "icelandic-sheepdog-grooming-guide",
+    "group": "Icelandic Sheepdog",
+    "size_category": "Guide",
+    "tags": ["icelandic-sheepdog", "grooming"],
+    "published": true,
+    "published_at": "2026-05-04T16:00:00Z",
+    "excerpt": "The Icelandic Sheepdog's thick double coat comes in long and short varieties and sheds significantly twice a year. This guide covers brushing, shedding management, and bathing for Iceland's only native breed.",
+    "meta_description": "Icelandic Sheepdog grooming guide: long vs short coat care, seasonal shedding, brushing routine, and bathing for this Nordic herding breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Icelandic_Sheepdog_Alisa_von_Lehenberg.jpg/330px-Icelandic_Sheepdog_Alisa_von_Lehenberg.jpg",
+      "alt": "Icelandic Sheepdog grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Two Varieties, Both Double-Coated and Heavy-Shedding",
+      "html": "<p>The Icelandic Sheepdog comes in two coat varieties — long coat and short coat — both with a thick, weather-resistant double coat adapted to Iceland's demanding climate. The long coat has more pronounced feathering on the legs, ears, and tail, requiring somewhat more grooming attention in those areas. The short coat is more uniform in length throughout. Both shed significantly twice a year when the dense undercoat loosens in dramatic seasonal coat blows. Regular brushing prevents the loose undercoat from distributing itself throughout your home and prevents mats in the high-friction areas.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Consistent Brushing and Shedding Management",
+      "html": "<p><strong>Brushing:</strong> 2–3 times per week for the short coat; 3–4 times per week for the long coat, with particular attention to the feathering on legs and ears where tangles form. Use a slicker brush or pin brush for the body coat and a wide-tooth metal comb for checking the feathering. Work in sections from the skin out.</p><p><strong>Shedding seasons:</strong> Daily brushing with an undercoat rake during the twice-yearly coat blows. A bath at the start of the shedding period followed by a high-velocity blowout releases significant amounts of loose undercoat and reduces the duration of the shed.</p><p><strong>Bathing:</strong> Every 4–6 weeks. Use a moisturizing dog shampoo and conditioner. Dry thoroughly — the double coat takes time. High-velocity dryers are much faster than towel or air drying.</p><p><strong>Nails:</strong> Trim monthly. <strong>Ears:</strong> Check and clean weekly. <strong>Teeth:</strong> Brush several times per week.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Long Coat Feathering Care and Heat Management",
+      "html": "<p><strong>Long coat feathering:</strong> The feathering on the legs, behind the ears, and on the tail is the most mat-prone area of the long-coat Icelandic Sheepdog. Check these areas specifically at each brushing session and address small tangles before they become large mats.</p><p><strong>Heat sensitivity:</strong> Like all Nordic breeds, the Icelandic Sheepdog is built for cold and is less comfortable in heat. Limit outdoor exercise to cooler times of day in summer. Never shave the coat — it provides thermal regulation in both directions.</p><p><strong>Double dewclaws:</strong> The Icelandic Sheepdog characteristically has double rear dewclaws. These are often removed in puppyhood but if present, they require regular trimming as they do not wear down naturally on the ground.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Does the Icelandic Sheepdog need professional grooming?",
+      "a": "Not strictly, but a professional bath-and-blowout once or twice a year — particularly at the start of shedding season — is helpful for managing the coat volume. Most routine grooming is done at home."
+    },
+    {
+      "q": "How often does an Icelandic Sheepdog shed?",
+      "a": "Moderately year-round with two major shedding seasons in spring and fall when the dense undercoat releases in large volumes. Daily brushing during those periods is the most effective management strategy."
+    },
+    {
+      "q": "Is the long coat or short coat Icelandic Sheepdog easier to groom?",
+      "a": "The short coat requires slightly less attention overall. The long coat's feathering tangles more easily and needs more frequent checking, particularly around the ears, legs, and tail."
+    }
+  ]
+}

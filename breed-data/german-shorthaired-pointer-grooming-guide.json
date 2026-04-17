@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "name": "German Shorthaired Pointer Grooming Guide",
+    "slug": "german-shorthaired-pointer-grooming-guide",
+    "shopify_handle": "german-shorthaired-pointer-grooming-guide",
+    "group": "German Shorthaired Pointer",
+    "size_category": "Guide",
+    "tags": ["german-shorthaired-pointer", "grooming", "sporting-group", "dog-grooming"],
+    "published": true,
+    "published_at": "2026-04-15T16:00:00Z",
+    "excerpt": "The GSP's short, dense coat is one of the lowest-maintenance in the sporting group — but ears and nails need consistent attention, especially for active dogs that swim.",
+    "meta_description": "German Shorthaired Pointer grooming guide: coat care, ear cleaning after water exposure, nail maintenance, and a simple weekly routine."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Duitse_staande_korthaar_10-10-2.jpg/330px-Duitse_staande_korthaar_10-10-2.jpg",
+      "alt": "German Shorthaired Pointer grooming"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "GSP Grooming: Low Maintenance, High Reward",
+      "html": "<p>The German Shorthaired Pointer has one of the easiest coats in the dog world — a short, tight, water-resistant double coat that sheds moderately but requires almost no professional grooming. Most GSP owners handle everything at home in under 10 minutes a week.</p><p>That said, GSPs are active dogs that often swim, run through brush, and roll in things they shouldn't. The ears — floppy, close to the head — trap moisture and debris, making them the number one grooming concern for this breed. Ignore them and you'll be treating recurring ear infections instead of running trails.</p>"
+    },
+    "care": {
+      "label": "Tools & Routine",
+      "heading": "Weekly Grooming Routine",
+      "html": "<h3>What You Need</h3><ul><li><strong>Rubber curry brush or grooming mitt</strong> — the only tool you really need for the coat</li><li><strong>Dog ear cleaner</strong> — use after every swim or bath</li><li><strong>Nail clippers or rotary grinder</strong></li><li><strong>Soft toothbrush + dog toothpaste</strong></li></ul><h3>Weekly Routine</h3><ol><li><strong>Coat:</strong> Brush with a rubber curry mitt for 3–5 minutes. This removes loose hair, distributes skin oils, and gives you a chance to check for ticks, cuts, or burrs from outdoor adventures.</li><li><strong>Ears:</strong> Check weekly, clean if you see wax buildup or debris. After any water exposure (swimming, bathing), flush the ear canal with a vet-approved ear cleaner and let the dog shake it out. Never insert cotton swabs deep into the canal.</li><li><strong>Nails:</strong> Active GSPs that run on pavement may wear their nails naturally. Check every 2 weeks — if you hear clicking on hard floors, they're overdue. Trim or grind as needed.</li><li><strong>Teeth:</strong> Brush 3–4 times per week. GSPs are food-motivated and usually accept toothbrushing once trained to it.</li></ol><h3>Bathing</h3><p>Bathe every 6–8 weeks or after particularly muddy outings. GSPs dry quickly. Always clean ears after bathing.</p>"
+    },
+    "special": {
+      "label": "Ear Care",
+      "heading": "Ear Infections: The #1 GSP Grooming Issue",
+      "html": "<p>Floppy ears create a warm, moist environment where yeast and bacteria thrive. GSPs that swim regularly are especially prone to ear infections — otitis externa is one of the most common vet visits for this breed.</p><h3>Signs of Infection</h3><ul><li>Head shaking or ear scratching</li><li>Red, inflamed, or smelly ear canal</li><li>Dark brown or black discharge</li><li>Dog wincing when ear is touched</li></ul><h3>Prevention Protocol</h3><ul><li>After every swim: flush with ear cleaner, tilt the dog's head to drain, let them shake</li><li>After baths: dry the ear flap thoroughly with a soft cloth</li><li>Weekly: look inside the ear — a healthy canal is pale pink with minimal wax</li></ul><p>If you catch an infection early (mild redness, slight odor), your vet may prescribe drops that clear it in 7–10 days. Chronic infections that go untreated can require more aggressive treatment. Prevention is far cheaper and easier than treatment.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Do German Shorthaired Pointers shed a lot?",
+      "a": "Moderate shedding year-round, with a slight uptick in spring. The short hairs embed in fabric more than longer coats. A rubber curry brush weekly and a good lint roller on furniture is the standard management approach."
+    },
+    {
+      "q": "How often should I bathe my GSP?",
+      "a": "Every 6–8 weeks is typical for indoor dogs. GSPs that hunt or swim frequently may need baths more often. Always clean and dry ears after every bath."
+    },
+    {
+      "q": "Do GSPs need professional grooming?",
+      "a": "Rarely. The short coat doesn't require professional cutting. Some owners take their GSP to a groomer for a bath-and-nail visit occasionally, but it's not necessary if you maintain the routine at home."
+    },
+    {
+      "q": "How do I prevent ear infections in my GSP?",
+      "a": "Clean ears with a vet-approved ear cleaner after every swim or bath. Check weekly for redness or odor. If your dog swims frequently, talk to your vet about a preventive ear-drying solution."
+    }
+  ]
+}

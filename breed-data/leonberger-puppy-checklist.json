@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Leonberger Puppy Checklist",
+    "slug": "leonberger-puppy-checklist",
+    "shopify_handle": "leonberger-puppy-checklist",
+    "group": "Leonberger",
+    "size_category": "Guide",
+    "tags": ["leonberger", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-04-27T16:00:00Z",
+    "excerpt": "Everything you need before your Leonberger puppy comes home — verify LPN and LEMP DNA test results before pickup, purchase a force dryer, plan gastropexy, and understand the grooming time commitment before the lion's mane arrives.",
+    "meta_description": "Leonberger puppy checklist: verify LPN and LEMP DNA test results, force dryer purchase, gastropexy planning, OFA and cardiac screening discussion, exercise restriction for this giant breed, and first-week vet priorities."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Leonberger_male.jpg/250px-Leonberger_male.jpg",
+      "alt": "Leonberger puppy checklist"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Preparing for Your Leonberger Puppy",
+      "html": "<ul><li><strong>Verify LPN and LEMP DNA test results before pickup:</strong> Ask your breeder for the DNA test results for Leonberger polyneuropathy (LPN) and leukoencephalomyelopathy (LEMP) for both parents before the puppy comes home. These are serious inherited neurological diseases specific to the breed. A puppy from two tested-clear parents (or clear-to-carrier pairings) has no risk of being affected. A puppy from untested parents carries real disease risk. Do not skip this verification — it is the most important pre-arrival health documentation step for this breed.</li><li><strong>Purchase a high-velocity force dryer:</strong> Buy this before the puppy comes home, while the coat is still short and easy. A force dryer ($100–$300) is the most important grooming tool investment for this breed — it makes bathing practical at home and significantly reduces professional grooming costs. Learning to use it on a manageable puppy coat is far easier than first encountering a full adult mane.</li><li><strong>XXL crate and orthopedic bed:</strong> Select for adult size — males reach 120–170 lbs. Orthopedic bedding supports the giant-breed skeleton from day one.</li><li><strong>Non-slip rugs throughout the home:</strong> A Leonberger puppy is heavy for its age and grows rapidly. Smooth floors are a joint injury risk. Rubber-backed rugs in main living areas, hallways, and near food and water areas protect developing joints.</li><li><strong>Baby gates for stair restriction:</strong> Giant breeds with late-closing growth plates (18–24+ months) should not repeatedly climb stairs as puppies. Baby gates restrict access without supervision.</li><li><strong>Heavy-duty collar and leash:</strong> Flat collar for ID. Heavy-duty leash. A front-clip harness for management during leash training — adult Leonbergers are very strong.</li><li><strong>Pet insurance enrollment:</strong> Enroll before the first vet visit. Coverage must include neurological conditions (LPN/LEMP), cardiac disease, orthopedic conditions, bloat/GDV, and cancer — all documented breed risks.</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit Priorities",
+      "html": "<ul><li><strong>Discuss prophylactic gastropexy:</strong> First and most important veterinary planning item. The Leonberger is a giant, deep-chested breed with real GDV/bloat risk. Add the gastropexy to the spay/neuter plan at this appointment. Do not wait for a second visit — plan it at the first.</li><li><strong>OFA hip and elbow screening plan:</strong> Discuss timing for preliminary and formal screenings. Hip and elbow dysplasia are documented in the breed — get a concrete plan at the first appointment.</li><li><strong>Cardiac evaluation plan:</strong> Ask about scheduling cardiac evaluation and the timing for formal OFA cardiac certification. Dilated cardiomyopathy is a documented Leonberger concern. Know the plan at the first visit.</li><li><strong>LPN status documentation:</strong> Share the LPN and LEMP DNA test results from the breeder with your vet and have them entered in the permanent record. If the breeder did not provide test results, discuss screening options with your vet.</li><li><strong>Exercise restriction guidance:</strong> The Leonberger is a giant breed — growth plates close at 18–24+ months. Over-exercise before that point risks the orthopedic health of this already heavy-framed dog. Get specific guidelines from your vet.</li><li><strong>Complete puppy vaccination series:</strong> Core vaccines at 8, 12, and 16 weeks. Confirm schedule.</li><li><strong>Microchipping:</strong> Microchip at or before the first appointment.</li></ul>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Starting Training Right",
+      "html": "<p>The Leonberger is a gentle, sociable, and trainable giant — willing and responsive to positive methods. The urgency of early training is entirely about size: a Leonberger puppy that jumps, pulls, or doesn't come when called becomes a 150 lb adult version of the same problems. Train early; the window when corrections are easy and good habits are cheapest to establish is now.</p><p><strong>Not jumping — the most important first habit.</strong> An adult Leonberger jumping in greeting can knock an adult to the ground and seriously injure a child or elderly person. Establish the no-jumping rule from the first day. Turn away from jumping, reward four feet on the floor, and require every person who interacts with the puppy to follow the same rule without exception.</p><p><strong>Leash training before the dog reaches adult weight.</strong> A 10 lb puppy that pulls is a training moment; a 150 lb adult that pulls is a safety issue. Start loose-leash work with treats immediately. A front-clip harness provides management while training is in progress. Consistent cues from the first walk establish the foundation for an adult dog that walks pleasantly.</p><p><strong>Grooming conditioning from day one.</strong> Begin handling sessions for all grooming procedures in the first week — paws, ears, body, face, beard. Introduce the force dryer at low velocity from the first bath, pairing with high-value treats. A Leonberger that accepts grooming willingly is manageable; one that resists is a significant physical challenge given the breed's size.</p><p><strong>Socialization during the 8–16 week window.</strong> Expose the puppy positively to varied people, children, dogs, environments, and sounds. The Leonberger should grow into a confident, gentle giant — undersocialization can produce wariness or reactivity in a dog of this size, which is a serious management concern. Invest in the socialization window while it is open.</p><p><strong>Crate training establishes security.</strong> A well-crate-trained Leonberger is manageable during alone time. Build comfort gradually with meals and treats inside, increasing duration slowly.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "What DNA tests should I ask a Leonberger breeder for?",
+      "a": "LPN1 and LPN2 (Leonberger polyneuropathy subtypes) and LEMP (leukoencephalomyelopathy). These are serious inherited neurological diseases specific to the breed. Reputable breeders test all breeding dogs and only produce litters where the offspring will not be affected (clear-to-clear or clear-to-carrier pairings, not carrier-to-carrier). Ask for written test results for both parents before committing to a puppy."
+    },
+    {
+      "q": "When should I start grooming a Leonberger puppy?",
+      "a": "From the first week home. The puppy coat is short and easy to brush — this is the ideal time to build tolerance for the adult coat management sessions that are a permanent part of Leonberger ownership. Introduce the force dryer at low speed from the first bath, always with treats and positive association. A dog that accepts grooming at 8 weeks accepts it at 5 years. The investment in early tolerance-building saves significant struggle throughout the dog's life."
+    },
+    {
+      "q": "How big does a Leonberger actually get?",
+      "a": "Males typically reach 110–170 lbs and 28–31.5 inches at the shoulder. Females are slightly smaller, 90–140 lbs. This is a true giant breed, and the puppy's growth to adult size happens within roughly 18–24 months. All purchasing and setup decisions — crate, bed, car transport, exercise restriction — should be made with the adult size in mind from day one."
+    }
+  ]
+}

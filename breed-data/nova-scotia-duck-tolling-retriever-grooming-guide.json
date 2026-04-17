@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Nova Scotia Duck Tolling Retriever Grooming Guide",
+    "slug": "nova-scotia-duck-tolling-retriever-grooming-guide",
+    "shopify_handle": "nova-scotia-duck-tolling-retriever-grooming-guide",
+    "group": "Nova Scotia Duck Tolling Retriever",
+    "size_category": "Guide",
+    "tags": ["nova-scotia-duck-tolling-retriever", "toller", "grooming", "double-coat", "feathering", "shedding"],
+    "published": true,
+    "published_at": "2026-04-22T16:00:00Z",
+    "excerpt": "The Toller's medium-length water-repellent double coat is relatively easy to maintain — weekly brushing, attention to the feathered legs and tail, and occasional baths. The coat sheds moderately year-round with heavier seasonal blows.",
+    "meta_description": "Nova Scotia Duck Tolling Retriever grooming guide: maintaining the water-repellent double coat, managing feathering and seasonal shedding, bathing schedule, and the full maintenance routine for this active retriever."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Duck_Toller.jpg/250px-Duck_Toller.jpg",
+      "alt": "Nova Scotia Duck Tolling Retriever grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Toller Coat",
+      "heading": "Understanding the Nova Scotia Duck Tolling Retriever Coat",
+      "html": "<p>The Nova Scotia Duck Tolling Retriever's coat is a medium-length, dense double coat with a soft undercoat and a water-repellent outer coat. The coat lies flat or has a slight wave and is a distinctive red or red-gold color with white markings. Feathering appears on the ears, back of the legs, and tail. The coat evolved for cold-water retrieval — it provides insulation and sheds water effectively.</p><p>For the level of performance the coat was designed for, it requires proportionally modest maintenance. Regular brushing handles most of the upkeep; the feathering needs occasional trimming to stay tidy and functional. Tollers are not high-maintenance coated dogs, but they do shed — owners should expect moderate hair on furniture and clothing year-round, with heavier seasonal shedding twice per year.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — primary tool for the body coat</li><li>Pin brush — for the feathered areas on ears, legs, and tail</li><li>Wide-tooth metal comb — for checking feathering and finding tangles</li><li>Undercoat rake — essential during seasonal coat blows</li><li>Scissors or thinning shears — for light feathering trims</li><li>Dog-safe shampoo</li><li>Nail clippers or grinder</li></ul>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush the body coat thoroughly with a slicker brush from neck to tail</li><li>Work through the feathered areas (ears, legs, tail) with a pin brush, followed by a metal comb to check for tangles</li><li>Check behind the ears — this is where mats most commonly develop in the Toller</li><li>Clean ears — check for odor, redness, or debris; wipe as needed</li><li>Check paw pads for debris, especially after field work or hikes</li></ul><h3>Seasonal Shedding</h3><p>Tollers go through two heavier shedding periods per year, typically spring and fall. During these coat blows, switch to daily brushing and use an undercoat rake to pull loose undercoat efficiently. Without increased attention during shedding, the loose undercoat can mat against the skin in the feathered areas. An undercoat rake moves through the coat efficiently and prevents this.</p><h3>Monthly / As Needed</h3><ul><li>Bathe every 6–8 weeks or when the dog has been in particularly dirty conditions. The water-repellent outer coat resists dirt well under normal activity levels</li><li>Trim feathering on the legs, ears, and tail every 6–8 weeks to maintain a tidy appearance and reduce debris collection after outdoor activity</li><li>Trim nails monthly — active dogs on hard surfaces may need less frequent trimming</li></ul><h3>Feathering Maintenance</h3><p>The feathering on the Toller's legs, tail, and ears is the area that requires the most focused attention. It collects burrs and plant material after field work. Check and clear debris after outdoor sessions. Light trimming keeps the feathering functional rather than ornamental — slightly shorter feathering on the feet collects less mud on walks and hikes.</p>"
+    },
+    "special": {
+      "label": "Ear and Eye Care",
+      "heading": "Ear and Eye Monitoring for Tollers",
+      "html": "<p>The Nova Scotia Duck Tolling Retriever has floppy ears that can trap moisture after swimming or water work. Weekly ear cleaning is the standard maintenance schedule, with additional cleaning after any significant water exposure. Check for odor, redness, swelling, or discharge — these indicate an infection requiring veterinary treatment.</p><h3>Progressive Retinal Atrophy Awareness</h3><p>PRCD-PRA (Progressive Rod-Cone Degeneration) affects Tollers at a meaningful rate. While grooming, make it a habit to observe the dog's visual tracking behavior — difficulty seeing in low light, hesitation at stairs in dim conditions, or eye cloudiness are signs to bring to a veterinarian. DNA testing of breeding parents eliminates the genetic risk in puppies (both parents clear = puppy cannot be affected), but dogs from untested parents warrant monitoring.</p><h3>Collie Eye Anomaly (CEA)</h3><p>CEA affects some Toller lines. An ophthalmologic exam in puppyhood by a veterinary ophthalmologist is a reasonable investment for dogs from untested parents. When buying a puppy, ask specifically whether both parents have been CEA tested.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does a Nova Scotia Duck Tolling Retriever need professional grooming?",
+      "a": "Most Toller owners manage the coat entirely at home with regular brushing. The coat doesn't require clipping or specialized shaping. If you prefer professional help, a bath and light tidy-up every 2–3 months is reasonable. The feathering may benefit from a professional trim once or twice a year. During heavy shedding seasons, a professional de-shedding bath and blow-out can significantly reduce the volume of loose coat."
+    },
+    {
+      "q": "Do Tollers mat easily?",
+      "a": "Not significantly under regular maintenance. The areas most prone to matting are behind the ears and in the leg feathering — the same areas that trap moisture and debris. Weekly brushing and combing through these areas prevents mats from developing. If you let the brushing schedule slip during a seasonal shed, mats can form where loose undercoat bunches up in the feathering. Catch them early with a metal comb."
+    },
+    {
+      "q": "How bad is the shedding compared to other retrievers?",
+      "a": "Moderate — less than a Golden Retriever, comparable to a Labrador. The Toller's smaller body size means overall hair volume is less than the larger retrievers. Regular weekly brushing keeps the loose hair manageable in the living environment. The seasonal blows are the most significant shedding periods — plan for more frequent brushing and vacuuming for 2–4 weeks twice a year."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Samoyed Puppy Checklist",
+    "slug": "samoyed-puppy-checklist",
+    "shopify_handle": "samoyed-puppy-checklist",
+    "group": "Samoyed",
+    "size_category": "Guide",
+    "tags": ["samoyed", "puppy", "checklist", "shg-test", "socialization", "white-coat"],
+    "published": true,
+    "published_at": "2026-04-17T16:00:00Z",
+    "excerpt": "Everything you need before your Samoyed puppy comes home — including verifying SHG DNA test documentation from both parents, which is the non-negotiable first step.",
+    "meta_description": "Samoyed puppy checklist: SHG DNA test verification, pre-arrival gear, first week vet visit, socialization window planning, and grooming desensitization for the white double coat."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Samojed00.jpg/330px-Samojed00.jpg",
+      "alt": "Samoyed puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Samoyed Puppy Prep: SHG Documentation First, Everything Else Second",
+      "html": "<p>Before your Samoyed puppy arrives, the most important action is verifying the breeder's SHG DNA test documentation for both parents. Samoyed Hereditary Glomerulopathy is a fatal kidney disease in affected males. A puppy from two clear parents cannot be affected — but a puppy from untested parents is a puppy whose health you cannot adequately plan for. Get the documentation. Review it. Verify both parent names are on it.</p><h3>SHG Documentation Checklist</h3><ul><li>Obtain the official SHG DNA test results for the sire (father) — must show \"clear\"</li><li>Obtain the official SHG DNA test results for the dam (mother) — must show \"clear\"</li><li>Verify the dog names on the documents match the actual breeding pair</li><li>Also ask for: PRA DNA test results, OFA hip clearance for both parents</li></ul><h3>Essential Gear Checklist</h3><ul><li>Medium crate (30–36 inch, with divider for puppyhood)</li><li>Orthopedic dog bed</li><li>Stainless steel food and water bowls</li><li>Flat collar + ID tag (engrave immediately)</li><li>Harness for walks</li><li>4–6 ft leash</li><li>Pin brush — start handling and brushing from day one</li><li>Slicker brush</li><li>Wide-tooth steel comb</li><li>Dog-safe whitening shampoo (optional but useful for white coats)</li><li>High-value training treats</li><li>Enzymatic cleaner</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit and Socialization Plan",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam and health verification</li><li>Vaccine schedule continuation</li><li>Parasite prevention established</li><li>Enroll in pet insurance before this appointment or immediately after — before any conditions are documented</li><li>Microchip if not already done by breeder</li><li>Discuss spay/neuter timing — some evidence supports waiting until 18–24 months for medium breeds to allow full hormonal development</li><li>Note SHG test results in your vet's records for future reference</li></ul><h3>Socialization: Start Immediately</h3><p>The socialization window for Samoyed puppies is 8–16 weeks. This window shapes the adult dog's comfort with strangers, environments, and novel stimuli. Samoyeds are naturally social, but maximizing the window produces a more confident, less anxious adult in any environment.</p><ul><li>Introduce to diverse people types: different ages, appearances, uniforms, hats — in positive, controlled settings with treat rewards</li><li>Expose to urban sounds, traffic, surfaces, indoor environments, outdoor spaces</li><li>Introduce to friendly, vaccinated dogs in safe contexts — puppy class is excellent</li><li>If not yet fully vaccinated, carry the puppy in risk areas rather than missing socialization</li></ul><h3>Grooming Desensitization From Day One</h3><p>Samoyed coat management requires the dog to tolerate extended handling. A puppy that learns to accept brushing, ear checks, paw handling, and bathing from the first week develops into a dog that can be groomed without a fight. A 50-lb Samoyed that has never been groomed is very difficult to manage safely.</p><ul><li>Touch the puppy all over — ears, paws, tail, belly, mouth — daily</li><li>Introduce the pin brush gently with treat rewards, associating the tool with positive outcomes</li><li>Practice short brushing sessions (2–3 minutes) multiple times per week from day one</li></ul>"
+    },
+    "special": {
+      "label": "Training and Cold Weather Management",
+      "heading": "Building Good Habits and Protecting in Heat",
+      "html": "<h3>Training From Day One</h3><ul><li>Sit, down, stay, come, leave it — establish core commands immediately</li><li>Loose-leash walking practice from the first walk — Samoyeds are strong and pulling habits form quickly</li><li>Recall training: this is critical — a Samoyed off-leash will run, and reliable recall is your safety net</li><li>No jumping — easy to allow with a fluffy white puppy, very difficult to stop in a 50-lb adult</li><li>Enroll in puppy class at 8–10 weeks for structured socialization and early training</li></ul><h3>Heat Management Planning</h3><p>Samoyeds are cold-weather dogs by breeding. Summer heat is a genuine risk, and this planning should happen before the puppy arrives:</p><ul><li>Identify the coolest outdoor times (before 8 AM, after 7 PM in summer) for exercise</li><li>Ensure indoor air conditioning or cool environment access</li><li>Never shave the coat — even in summer, the double coat protects against heat</li><li>Keep cool water available at all times outdoors</li><li>Know the signs of heat stroke: heavy panting, drooling, weakness, vomiting — this is a veterinary emergency</li></ul><h3>Exercise Rules for Puppies</h3><p>Follow the 5-minute rule: 5 minutes per month of age, twice daily. Growth plates in a medium breed close at approximately 14–18 months. Avoid forced running, excessive jumping, or stair climbing until growth plates are confirmed closed. Free play is appropriate; jogging is not until 14–18 months.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "What is the most important thing to verify before buying a Samoyed puppy?",
+      "a": "The SHG DNA test results for both parents — not just one. Samoyed Hereditary Glomerulopathy is an X-linked fatal kidney disease. Both the sire and dam must test clear. Ask to see the actual test certificate with each parent's name on it. A verbal assurance is not documentation."
+    },
+    {
+      "q": "When should I start grooming my Samoyed puppy?",
+      "a": "Day one. The puppy coat is softer and easier to work with than the adult double coat. More importantly, every grooming session in puppyhood builds tolerance for handling as an adult. A Samoyed that accepts brushing, bathing, and nail trimming is a dog you can actually maintain at home. Start with short, positive sessions and treat rewards."
+    },
+    {
+      "q": "Are Samoyed puppies good with other dogs?",
+      "a": "Generally yes — Samoyeds are social and typically good with other dogs when properly socialized. The socialization window (8–16 weeks) is the best time to establish positive associations with other dogs. Puppy class provides this in a controlled environment. Adult Samoyeds that were well-socialized as puppies are usually reliable in dog-to-dog interactions."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Puli Grooming Guide",
+    "slug": "puli-grooming-guide",
+    "shopify_handle": "puli-grooming-guide",
+    "group": "Puli",
+    "size_category": "Guide",
+    "tags": ["puli", "grooming"],
+    "published": true,
+    "published_at": "2026-05-04T16:00:00Z",
+    "excerpt": "The Puli's corded coat is unlike any other in the dog world. This guide covers the full cord formation process, how to separate and maintain cords, bathing a corded dog, and the brushed coat alternative for owners who prefer a different approach.",
+    "meta_description": "Puli grooming guide: how to form and maintain cords, separate cords during formation, bathe a corded Puli, and the brushed coat alternative."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Puli_standing.jpg/330px-Puli_standing.jpg",
+      "alt": "Puli grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "The Corded Coat: Nature's Most Unique Dog Coat",
+      "html": "<p>The Puli's coat is unlike any other breed's. It does not require trimming, stripping, or styling in the conventional sense. Instead, it forms naturally into long, flat-to-round cords through the interaction of the dense, wavy undercoat and the outer coat. The process takes approximately two years from start to completion. During those two years, the owner's job is to guide the cord formation by regularly separating individual cords by hand to prevent them from fusing into flat mats. Once fully formed, the cords are largely self-maintaining in terms of shape — but bathing and drying require significant commitment given the density and length of the coat.</p><p>Owners who do not wish to maintain the full corded coat have a straightforward alternative: keep the coat brushed out. A brushed Puli still has a full, thick, attractive coat but without the rope-like cords. The brushed coat requires regular maintenance (brushing 2–3 times per week) but eliminates the cord separation work and the extended drying times after bathing.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Cord Formation, Maintenance, and Bathing",
+      "html": "<p><strong>Phase 1 — Cord Formation (9 months to approximately 2 years):</strong></p><p>The coat begins transitioning from puppy fluff to developing cords at around 9 months of age. During this transition phase, the undercoat and outer coat naturally start to tangle together. Left completely alone, they will form a solid felted mass — not individual cords. The owner's role is to guide this process by separating the developing clumps into individual cords.</p><ul><li>Check the coat 2–3 times per week during the formation period</li><li>Using your fingers, identify where the coat is beginning to clump together</li><li>Gently pull the clumps apart into sections approximately the diameter of a finger at the base</li><li>The separations should go all the way down to the skin</li><li>The goal is individual cords that are distinct from their neighbors — not fused masses</li><li>Common fusion zones: behind the ears, on the neck/ruff, and along the back. Check these areas every session.</li></ul><p><strong>Phase 2 — Established Cords (2 years+):</strong></p><p>Once the cords are fully formed and long, they need less frequent attention. Monthly inspection is sufficient to check for any new fusion at the base of the cords — use your fingers to ensure each cord remains distinct. Address any fusion immediately before it becomes a large fused mass.</p><p><strong>Bathing a corded Puli:</strong></p><ul><li>Wet the cords thoroughly — fully saturating a corded coat takes time as cords initially resist water</li><li>Apply diluted shampoo and work it through the cords gently; do not scrub aggressively</li><li>Rinse extremely thoroughly — shampoo residue in the cords causes skin irritation and encourages mildew</li><li>Squeeze (do not wring) excess water from each cord after rinsing</li><li>Dry using a high-velocity dryer or a cage dryer on low heat for 6–12 hours for a fully corded adult. The cords must be completely dry to the core — mildew inside incompletely dried cords causes skin infections and unpleasant odor</li><li>Outdoor air drying on a warm, sunny day with good airflow can supplement dryer drying but should not be the primary method</li></ul><p><strong>Brushed coat maintenance:</strong> If maintaining a brushed non-corded coat, brush 2–3 times weekly with a slicker brush or pin brush. Bathe every 4–6 weeks. Drying time is dramatically shorter than for a corded coat.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Mildew Prevention, Cord Length, and Skin Health",
+      "html": "<p><strong>Mildew prevention:</strong> This is the primary health concern of the corded coat. Incompletely dried cords create a moist, warm environment inside the cord where mildew and bacteria thrive. Signs of mildew include a sour or musty smell from the coat and skin irritation. Prevent it by ensuring cords are fully dry after every bath — testing by squeezing a cord and checking if the inner core is still damp. In humid climates, this requires extra attention.</p><p><strong>Cord length and practicality:</strong> Adult Puli cords on a show dog reach the ground and are typically parted down the middle of the back. For active pet dogs, many owners trim the cords to a more practical length (often to just below the dog's belly) while maintaining the corded appearance. Trimming cords does not damage them — they continue to grow and remain corded.</p><p><strong>Skin inspection:</strong> The dense cords make it difficult to see the skin directly. When bathing, part the cords periodically to inspect the skin for redness, hot spots, parasites, or other issues that could be hidden. Regular veterinary checks should also include skin examination under the cords.</p><p><strong>Finding grooming help:</strong> Puli cord management is a specialized skill. The Puli Club of America and breed-specific online communities are excellent resources for learning correct cord technique from experienced owners. Finding a local mentor or breeder to demonstrate cord separation in person is invaluable for new owners.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How long does it take to bathe and dry a corded Puli?",
+      "a": "Bathing takes 30–60 minutes including thorough wetting, shampooing, and rinsing. Drying a fully corded adult Puli takes 6–12 hours with a high-velocity or cage dryer. Many Puli owners schedule bath day as a dedicated project and plan around it accordingly."
+    },
+    {
+      "q": "How do I know if my Puli's cords are forming correctly?",
+      "a": "Correctly forming cords feel like distinct rope-like sections that are separate from each other at the base. If the coat is forming one large flat felted mass, the cords are fusing together and need to be separated by hand down to the skin. Consult the Puli Club of America or a breed mentor for hands-on guidance if you are unsure."
+    },
+    {
+      "q": "Can I let my Puli's coat grow without doing anything?",
+      "a": "No. Left entirely unmanaged during cord formation, the coat will form a solid felted mat rather than individual cords. Regular cord separation is essential during the 9-month to 2-year formation period. After cords are fully established, monthly inspection is still needed to catch new fusion."
+    }
+  ]
+}

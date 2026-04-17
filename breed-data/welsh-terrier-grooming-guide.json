@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "name": "Welsh Terrier Grooming Guide",
+    "slug": "welsh-terrier-grooming-guide",
+    "shopify_handle": "welsh-terrier-grooming-guide",
+    "group": "Welsh Terrier",
+    "size_category": "Guide",
+    "tags": ["welsh-terrier", "grooming", "terrier"],
+    "published": true,
+    "published_at": "2026-05-02T16:00:00Z",
+    "excerpt": "Everything you need to know about grooming your Welsh Terrier's distinctive black-and-tan wiry coat, from weekly brushing to hand-stripping versus clipping decisions.",
+    "meta_description": "Welsh Terrier grooming guide: hand-stripping, clipping, brushing routine, and coat care tips for the black-and-tan wiry double coat."
+  },
+  "stats": {
+    "height": "15 inches",
+    "weight": "20 lbs",
+    "lifespan": "12–15 years",
+    "energy_level": "High",
+    "grooming_needs": "Moderate",
+    "good_with_kids": true,
+    "good_with_other_dogs": true,
+    "shedding": "Low",
+    "trainability": "Moderate"
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Terier_walijski_suka_2009_pl.jpg/330px-Terier_walijski_suka_2009_pl.jpg",
+      "alt": "Welsh Terrier"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Understanding the Welsh Terrier's Wiry Double Coat",
+      "html": "<p>The Welsh Terrier wears a dense, hard wiry outer coat over a softer undercoat — a combination engineered by centuries of work in the Welsh countryside to repel water, resist thorns and burrs, and protect the dog from the bites of the quarry it pursued. The coat is always black and tan: a black saddle spreading over the back and sides, with rich tan on the head, legs, chest, and underbody.</p><p>The wiry outer coat is what gives the Welsh its characteristic neat, tailored appearance. Unlike smooth or drop coats, a properly maintained wiry terrier coat lies flat and tight, not fluffy or soft. Achieving and maintaining this texture requires the right approach — and understanding whether you're grooming a show dog or a pet is the first decision you need to make.</p><p>For show dogs, the correct method is hand-stripping: manually pulling the dead outer coat out by the root, which preserves the hard texture and vivid coloring. For pet dogs, most owners opt for clipping — faster and less labor-intensive, but over time it softens the coat texture and can mute the black-and-tan distinction. Neither approach is wrong for a pet; the choice is yours to make based on your time, budget, and aesthetic preference.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Weekly Brushing, Trimming Schedule, and Bathing",
+      "html": "<p>Regardless of whether you hand-strip or clip, your Welsh Terrier needs brushing two to three times per week with a slicker brush followed by a metal comb. Work through the coat systematically — start at the hindquarters and work forward, then comb through to the skin to check for mats. Pay special attention to the beard, leg furnishings, and the transition between the black saddle and tan points, where mats can form unnoticed.</p><p>Professional grooming — whether stripping or clipping — should occur every 8 to 12 weeks. If you're clipping, a good groomer will scissor the legs and head to maintain the classic Welsh terrier outline: a blocky rectangular head, neat fall-free eyes, and well-furnished legs with tight feet. A stripped coat takes longer to complete and costs more, but many terrier enthusiasts find the result worth the investment.</p><p>Bathing every 4 to 6 weeks is appropriate for most Welsh Terriers. Use a shampoo formulated for wiry or hard coats; softening shampoos will work against the coat's natural texture. Blow-dry on a low-heat setting while brushing against the grain to maintain the correct flat-lying coat direction.</p><p>Check and clean ears weekly with a veterinarian-approved ear cleaner. Pluck excess hair from the ear canal if it accumulates — your groomer can do this during professional appointments. Trim nails monthly, or more frequently if you can hear clicking on hard floors. Brush teeth at least twice a week.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Hand-Stripping, Puppy Coats, and Seasonal Changes",
+      "html": "<p>Puppies are typically born predominantly black and develop the full black-and-tan distinction during the first year. The puppy coat is softer than the adult coat and may be stripped or clipped from around 6 months. If you intend to show the dog, consult with a breed mentor or show groomer before the first strip — the timing and technique matter for developing a correct adult show coat.</p><p>If you start with clipping and later want to convert to hand-stripping, be aware that it can take a full coat cycle (up to a year) to restore proper wiry texture after prolonged clipping. Some dogs never fully regain the correct texture once the coat has been repeatedly clipped and softened. If showing is a possibility, commit to hand-stripping from the start.</p><p>Seasonal coat blows — periods of increased shedding of the undercoat — occur once or twice a year. During these periods, daily brushing and combing will prevent mats from forming in the dense undercoat. A stripping comb or undercoat rake helps pull through loose undercoat efficiently. Despite these blows, the Welsh Terrier is a low-shedding breed year-round compared to double-coated dogs that drop coat continuously.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often should I have my Welsh Terrier professionally groomed?",
+      "a": "Every 8 to 12 weeks is the standard schedule for most Welsh Terriers, whether clipped or hand-stripped. Dogs with faster coat growth or those kept in a tidier trim may need appointments closer to the 8-week mark."
+    },
+    {
+      "q": "Can I learn to hand-strip my Welsh Terrier at home?",
+      "a": "Yes, with practice and proper instruction. Hand-stripping requires a stripping knife or serrated stone, patience, and knowledge of the coat direction patterns. Many breeders and terrier-specialist groomers offer lessons. Start with a mentor before attempting a full strip on your own."
+    },
+    {
+      "q": "Will clipping ruin my Welsh Terrier's coat?",
+      "a": "For a pet, clipping is a perfectly acceptable choice. It does gradually soften the coat texture and can mute the color distinction over time, but the dog will be comfortable, tidy, and well-maintained. Only show-bound dogs require the harder texture achieved through hand-stripping."
+    }
+  ],
+  "related_breeds": ["airedale-terrier", "lakeland-terrier", "norfolk-terrier"]
+}

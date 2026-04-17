@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "English Setter Grooming Guide",
+    "slug": "english-setter-grooming-guide",
+    "shopify_handle": "english-setter-grooming-guide",
+    "group": "English Setter",
+    "size_category": "Guide",
+    "tags": ["english-setter", "grooming", "feathered-coat", "silky-coat", "sporting-dog"],
+    "published": true,
+    "published_at": "2026-04-23T16:00:00Z",
+    "excerpt": "The English Setter's silky feathered coat is beautiful and manageable — as long as you brush consistently and catch tangles before they become mats. Here's the full routine.",
+    "meta_description": "English Setter grooming guide: brushing the feathered coat, preventing mats in feathering, ear cleaning for a drop-eared sporting dog, and when to see a professional groomer."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EnglishSetter9_fx_wb.jpg/250px-EnglishSetter9_fx_wb.jpg",
+      "alt": "English Setter grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The English Setter Coat",
+      "heading": "Understanding the Feathered Coat",
+      "html": "<p>The English Setter has a flat, silky coat with distinctive feathering — longer hair on the chest, belly, backs of legs, and tail. It's a single coat (no dense undercoat like northern breeds), which makes brushing easier and shedding more moderate. The trade-off is that the feathering mats if neglected, particularly in areas where it contacts other hair or skin.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — primary tool for regular brushing</li><li>Wide-tooth steel comb — for working through feathering and checking for hidden mats</li><li>Dematting comb or mat splitter — for tangles that have progressed</li><li>Thinning shears — for tidying feathering between professional appointments</li><li>Dog-safe shampoo formulated for silky coats</li><li>Conditioner — helps the feathering stay untangled</li><li>Ear cleaning solution and cotton balls</li></ul><h3>Shedding Level</h3><p>Moderate. English Setters shed year-round at a low-to-moderate level — less than double-coated breeds, but present. The silky coat does pick up debris (burrs, plant material) on outdoor adventures. Check after off-leash activity in brush or tall grass.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Full brush-through with the slicker brush — work section by section from head to tail, then focus on the feathering on legs, chest, and ears</li><li>Follow the slicker with the wide-tooth comb to find any hidden tangles — if the comb catches, work the tangle out with fingers and the dematting comb before it progresses</li><li>Check and clean ears — English Setters have drop ears that restrict airflow, making ear infections a real risk. Wipe the outer ear canal with a cotton ball dampened with ear cleaning solution. Never insert cotton swabs into the ear canal.</li><li>Check between paw pads for debris, burrs, or matting of hair between the pads</li></ul><h3>Monthly</h3><ul><li>Bathe every 4–6 weeks. Use a shampoo formulated for silky coats and follow with conditioner — conditioner reduces tangles and keeps the feathering manageable</li><li>Dry thoroughly — blow dry on a low heat setting while brushing out the feathering. Air drying is possible but the feathering tends to curl and mat more if dried without brushing</li><li>Trim nails — clicking on hard floors means they're overdue</li><li>Trim hair between paw pads if it's collecting debris or affecting traction</li></ul><h3>Every 6–8 Weeks: Professional Grooming</h3><p>A professional groomer familiar with setters can shape the feathering, tidy the head and feet, and keep the overall appearance clean. This is practical maintenance for most owners — it simplifies the at-home routine by keeping the coat length under control. Tell the groomer explicitly: tidy and shape, do not significantly shorten or strip the coat unless you want a field trim.</p>"
+    },
+    "special": {
+      "label": "Feathering and Ear Care",
+      "heading": "Preventing Mats and Managing Ear Health",
+      "html": "<p>The two maintenance challenges specific to English Setters are mat prevention in the feathering and chronic ear health management. Both are preventable with consistent attention.</p><h3>Mat Prevention in Feathering</h3><p>Feathering mats form most readily at friction points — where the leg feathering contacts the body, behind the ears where collar friction occurs, and in the armpit area. Check these spots specifically during weekly brushing. A mat caught when it's a small tangle takes 30 seconds to work out; a mat left for two weeks may need to be cut out, taking feathering with it.</p><ul><li>Use conditioner during bathing — it significantly reduces tangles in silky coats</li><li>Detangle while the coat is damp (but not soaking) after bathing, before drying</li><li>For field dogs that work in brush: check the entire coat after every outing and remove burrs and plant material immediately — these form the core of many mats</li></ul><h3>Ear Infections in a Drop-Eared Dog</h3><p>English Setters have drop ears that limit air circulation to the ear canal, creating a warm, moist environment where yeast and bacteria thrive. Weekly ear checks are minimum — ear cleaning should be routine. Signs of infection: head shaking, ear scratching, odor from the ear canal, or redness and discharge. Ear infections require veterinary treatment, not just more cleaning. Caught early, they resolve with medication. Left untreated, they become chronic and expensive to manage.</p><p>After swimming or bathing, dry the ears thoroughly — tilt the dog's head and gently pat the outer ear canal dry with a cotton ball. Moisture left in the ear canal after water exposure is a common trigger for infections.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often do English Setters need professional grooming?",
+      "a": "Every 6–8 weeks is practical for most owners. A professional groomer keeps the feathering shaped and manageable, which simplifies at-home brushing between appointments. Show dogs require more frequent and detailed grooming. Field dogs are sometimes kept in a shorter 'field trim' that reduces maintenance significantly."
+    },
+    {
+      "q": "How do I prevent mats in the feathering?",
+      "a": "Weekly brushing with a slicker brush followed by a wide-tooth comb is the prevention. Pay specific attention to friction areas: behind the ears, armpits, and where leg feathering contacts the body. Using conditioner during baths reduces tangles significantly. The key is catching tangles when they're small — a tangle you find on Monday is easy to remove; the same tangle a week later may need to be cut out."
+    },
+    {
+      "q": "Are English Setters heavy shedders?",
+      "a": "Moderate shedders — less than double-coated breeds like Labrador Retrievers or Akitas, but present year-round. The silky single coat sheds without the dramatic seasonal blows of northern breeds. Regular brushing removes loose hair before it lands on furniture. Grooming tool choice matters — slicker brush pulls out loose coat efficiently during regular sessions."
+    }
+  ]
+}

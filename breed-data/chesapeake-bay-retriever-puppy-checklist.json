@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Chesapeake Bay Retriever Puppy Checklist",
+    "slug": "chesapeake-bay-retriever-puppy-checklist",
+    "shopify_handle": "chesapeake-bay-retriever-puppy-checklist",
+    "group": "Chesapeake Bay Retriever",
+    "size_category": "Guide",
+    "tags": ["chesapeake-bay-retriever", "puppy", "checklist", "PRA", "EIC", "swimming"],
+    "published": true,
+    "published_at": "2026-04-22T16:00:00Z",
+    "excerpt": "Before your Chessie comes home: PRA and EIC DNA test documentation from the breeder is non-negotiable, insurance needs to be in place before the first vet visit, and a socialization plan — especially around swimming — sets this breed up for life.",
+    "meta_description": "Chesapeake Bay Retriever puppy checklist: PRA and EIC DNA test verification, insurance timing, swimming socialization, gear list, and first vet visit priorities for this independent sporting breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/CH_Chesapeake.jpg/250px-CH_Chesapeake.jpg",
+      "alt": "Chesapeake Bay Retriever puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Chessie Puppy Prep: Health Documentation and Socialization Planning",
+      "html": "<p>Before your Chesapeake Bay Retriever puppy arrives, two things require action: confirming health test documentation and getting pet insurance in place. DNA test documentation for PRA and EIC from both parents is non-negotiable. Insurance must be active before the first vet visit — once any condition is examined and noted in the record, it becomes a pre-existing condition that may be excluded from coverage.</p><h3>Health Documentation to Confirm Before Purchase</h3><ul><li>PRCD-PRA DNA test — both parents must be clear; a puppy from two clear parents cannot be affected</li><li>EIC (Exercise-Induced Collapse) DNA test — both parents must be clear for this to be eliminated as a risk</li><li>OFA hip certification for both parents</li><li>Von Willebrand's DNA test</li></ul><h3>Essential Gear Checklist</h3><ul><li>Large crate (36–42 inch with divider for growth)</li><li>Quality orthopedic dog bed</li><li>Stainless steel bowls (appropriate size for a large breed)</li><li>Flat collar + ID tag (engrave immediately on arrival)</li><li>Harness for walks</li><li>4–6 ft leash</li><li>Slicker brush and metal comb — begin coat maintenance from week one</li><li>Veterinary ear cleaner and cotton balls — establish weekly cleaning habit from arrival</li><li>High-value training treats</li><li>Durable chew toys</li><li>Enzymatic cleaner</li></ul>"
+    },
+    "care": {
+      "label": "First Week Priorities",
+      "heading": "First Vet Visit and Early Habits",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam</li><li>Vaccine schedule verification and continuation</li><li>Parasite prevention discussion</li><li>Discuss spay/neuter timing — for large sporting breeds, some evidence supports 18–24 months for full musculoskeletal development</li><li>Microchip if not done by breeder</li><li>Confirm pet insurance is active before this appointment</li></ul><h3>Insurance Before the First Vet Visit</h3><p>This cannot be overstated: enroll in pet insurance before the puppy's first veterinary appointment. Once any condition — even a minor note about a soft tissue asymmetry — is documented at a vet visit, it may become a pre-existing exclusion. Enrolling first, then attending the first vet visit, preserves maximum coverage.</p><h3>Starting the Ear Cleaning Routine</h3><p>Begin weekly ear cleaning from day one. Chessies that grow up with consistent ear handling accept the process easily as adults. A Chessie that reaches maturity without this conditioning may resist strongly — and resisting ear cleaning in a 70-lb independent dog is an unpleasant situation. Five minutes per week prevents chronic ear infections and maintains a manageable adult.</p>"
+    },
+    "special": {
+      "label": "Socialization and Water Introduction",
+      "heading": "Socialization Priorities for a Chessie Puppy",
+      "html": "<h3>Socialization Window: 8–16 Weeks</h3><p>Chesapeake Bay Retrievers tend toward reservation with strangers — active socialization during the critical window shapes the adult temperament significantly. Prioritize:</p><ul><li>Varied people: different ages, appearances, uniforms, children, elderly</li><li>Urban and suburban environments: traffic sounds, crowds, buildings, different surfaces</li><li>Controlled dog interactions: puppy classes provide safe, positive dog-dog exposure</li><li>Novel environments: different terrain, vehicles, objects</li></ul><p>Carry the puppy where ground contact is a disease risk before vaccinations are complete — don't forfeit the socialization window for disease precaution alone.</p><h3>Swimming Socialization — Start Early</h3><p>Chessies are genetically wired for water, but positive early introduction makes a meaningful difference in how readily they embrace swimming. Introduce shallow water first — a child's paddling pool, a shallow creek, or a lake edge. Let the puppy choose the depth. Never force or throw a puppy into water. By 4–5 months with proper introduction, most Chessies are enthusiastic swimmers. Swimming is the ideal exercise outlet for this breed throughout their life.</p><h3>Independent Breed Management</h3><p>Start obedience training from the first week. Chessies are intelligent but independently-minded — commands established in puppyhood are maintained far more easily than habits corrected in adulthood. Basic sit, down, stay, come, and loose-leash walking should all be in progress by 12 weeks. A trainer experienced with independent sporting breeds is a worthwhile investment.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Why are PRA and EIC DNA tests so important for a Chessie puppy?",
+      "a": "Both are serious genetic conditions. PRCD-PRA causes progressive blindness; EIC causes collapse during intense exercise in a breed built for intense field work. Both have DNA tests that completely eliminate the risk — puppies from two clear parents cannot be affected by either condition. Requiring these tests from breeders is the simplest, most effective health protection available for this breed."
+    },
+    {
+      "q": "How do I socialize a Chessie puppy without full vaccination?",
+      "a": "Carry the puppy in high disease-risk areas (dog parks, pet stores, areas where unknown dogs roam). Take the puppy to homes of friends with known-healthy, vaccinated dogs. Use puppy classes that require vaccination proof for all attendees. Attend outdoor areas where wild dogs are unlikely. The socialization window is too important to abandon entirely — manage the disease risk rather than skipping socialization."
+    },
+    {
+      "q": "When should I start swimming with my Chessie puppy?",
+      "a": "Positive water exposure can begin from 8–10 weeks in shallow, safe water. Start with a paddling pool or very shallow lake edge. Let the puppy choose the depth and pace. Swimming can become a real exercise component from around 4 months as the puppy develops stamina. Never force or throw the puppy into water — the goal is a dog that loves water, not one that fears it."
+    }
+  ]
+}

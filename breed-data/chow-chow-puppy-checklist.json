@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Chow Chow Puppy Checklist",
+    "slug": "chow-chow-puppy-checklist",
+    "shopify_handle": "chow-chow-puppy-checklist",
+    "group": "Chow Chow",
+    "size_category": "Guide",
+    "tags": ["chow-chow", "puppy", "checklist", "socialization", "grooming"],
+    "published": true,
+    "published_at": "2026-04-20T16:00:00Z",
+    "excerpt": "Everything you need before your Chow Chow puppy comes home — including the socialization plan and grooming routine setup that matter most for this breed.",
+    "meta_description": "Chow Chow puppy checklist: socialization priorities during the 8–16 week window, grooming introduction, essential gear, vet visit schedule, and first-week setup."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Chow-chow_in_Tallinn.JPG/250px-Chow-chow_in_Tallinn.JPG",
+      "alt": "Chow Chow puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Chow Chow Puppy Prep: Socialization and Grooming Start Early",
+      "html": "<p>Two priorities define a well-prepared Chow Chow puppyhood: an aggressive socialization schedule and a grooming routine that starts on day one. Chow Chows are naturally reserved with strangers — this tendency is manageable with early, positive socialization but can become a serious problem if the critical window (8–16 weeks) is missed. Simultaneously, a puppy that grows accustomed to grooming becomes a manageable adult; one that isn't handled becomes very difficult when the full coat grows in.</p><h3>Fence and Space Requirements</h3><ul><li>Secure fenced yard or managed outdoor space — Chow Chows should not be off-leash in unfenced areas</li><li>Minimum 5–6 foot fence height; check all gate hardware</li><li>Dedicated grooming area — a non-slip surface where you'll brush and examine the dog consistently</li></ul><h3>Essential Gear Checklist</h3><ul><li>Large crate (36–42 inch with divider panel)</li><li>Orthopedic dog bed</li><li>Stainless steel food and water bowls (large)</li><li>Flat collar + ID tag (engrave immediately)</li><li>Harness for walks</li><li>4–6 ft leash</li><li>Pin brush and undercoat rake — start brushing from day one</li><li>Wide-tooth steel comb</li><li>Dog-safe conditioner or detangling spray for the coat</li><li>High-value training treats</li><li>Enzymatic cleaner</li><li>Durable toys appropriate for a strong-jawed breed</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit and Socialization Launch",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam including eye assessment for early entropion signs</li><li>Vaccine schedule verification and continuation</li><li>Parasite prevention</li><li>Discuss spay/neuter timing — evidence supports waiting until 18–24 months for larger breeds</li><li>Microchip if not already placed by breeder</li><li>Enroll in pet insurance before this appointment, or immediately after if not yet done</li></ul><h3>Socialization: Start Immediately</h3><p>The 8–16 week socialization window is the most important period in a Chow Chow's life for shaping adult temperament. Chow Chows that receive rich, positive early socialization become confident, manageable dogs in public. Those that don't tend to become suspicious and reactive with strangers — a serious problem in a large, powerful breed.</p><ul><li>Introduce to many different types of people: hats, uniforms, children, elderly, men with beards — in positive, controlled contexts with treat rewards</li><li>Expose to varied environments: urban sounds, traffic, crowds, different floor surfaces</li><li>Puppy class: excellent for controlled dog-to-dog exposure AND human socialization</li><li>Carry the puppy in unvaccinated-dog-risk areas rather than skipping socialization entirely</li></ul><h3>Grooming Introduction From Day One</h3><p>Chow Chow puppies have softer, more manageable coats than adults. Use this window to build positive associations with every grooming tool. Brush daily with a soft pin brush — even if the coat doesn't strictly need it. Touch paws, examine ears, check between skin folds. A puppy that learns grooming is a normal part of life will be far easier to manage when the adult double coat arrives.</p>"
+    },
+    "special": {
+      "label": "Training and Management",
+      "heading": "Building Good Habits From Puppyhood",
+      "html": "<h3>Training Philosophy for Chow Chows</h3><p>Chow Chows are intelligent but independent — they respond poorly to harsh or repetitive training and respond well to positive reinforcement with clear, consistent expectations. Short training sessions with high-value rewards produce better results than long drilling sessions. Establish every core command early: sit, down, stay, come, leave it. A Chow that doesn't have a reliable recall recall needs secure fencing — this is not a breed for off-leash areas.</p><h3>Managing Dog-Dog Interactions</h3><p>Chow Chows can be selective with other dogs, particularly same-sex pairs. If you have other dogs:</p><ul><li>Introduce on neutral territory with both dogs calm and leashed</li><li>Monitor all interactions in the early months</li><li>Same-sex pairs carry higher conflict risk — proceed more cautiously</li><li>Early positive dog-to-dog experiences during the socialization window help establish better adult patterns</li></ul><h3>Skin Fold Monitoring</h3><p>Some Chow Chows have facial skin folds that require weekly cleaning. Establish a weekly routine of wiping and drying the folds from puppyhood — it should become a normal part of the handling routine, not a battle.</p><h3>Exercise for Puppies</h3><p>Follow the 5-minutes-per-month-of-age guideline for leash walks (twice daily maximum). Growth plates in a large breed close around 18 months — avoid forced running or stair climbing before then. Chow Chows are moderate-energy adults; puppies should not be over-exercised.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "When should I start socializing my Chow Chow puppy?",
+      "a": "Immediately — the socialization window is 8–16 weeks, and it's the most important developmental period for this breed. Chow Chows have a natural wariness toward strangers that can become problematic reactivity without rich early socialization. Don't wait for full vaccination — carry the puppy in high-risk areas and attend puppy class where dogs are vaccine-verified."
+    },
+    {
+      "q": "When should I start grooming my Chow Chow puppy?",
+      "a": "Day one. The puppy coat is easier to brush than the adult double coat, which makes early puppyhood the best time to build positive grooming associations. Brush daily, even briefly — the goal is habituation and handling desensitization, not coat maintenance. A puppy that accepts daily brushing becomes an adult that tolerates the grooming that is genuinely necessary for this coat type."
+    },
+    {
+      "q": "Do Chow Chows get along with other pets?",
+      "a": "With proper early socialization, many Chow Chows coexist peacefully with other household pets, including dogs and cats they were raised with. They can be selective with unfamiliar animals as adults. Same-sex dog pairs carry the highest conflict risk. Early and ongoing positive exposures during puppyhood significantly improve adult compatibility."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Mastiff Grooming Guide",
+    "slug": "mastiff-grooming-guide",
+    "shopify_handle": "mastiff-grooming-guide",
+    "group": "Mastiff",
+    "size_category": "Guide",
+    "tags": ["mastiff", "grooming", "wrinkle-care", "drool-management", "giant-breed"],
+    "published": true,
+    "published_at": "2026-04-16T16:00:00Z",
+    "excerpt": "Mastiff grooming is simple — except for the drool and the wrinkles. Both require consistent management, and at 200+ lbs, getting your Mastiff comfortable with grooming handling from puppyhood is essential.",
+    "meta_description": "Mastiff grooming guide: wrinkle and skin fold care to prevent dermatitis, drool management, giant-breed nail care, and bath logistics for one of the world's heaviest dogs."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/137._English_Mastiff.JPG/330px-137._English_Mastiff.JPG",
+      "alt": "Mastiff grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Mastiff Coat",
+      "heading": "Mastiff Grooming: Simple Coat, Significant Practical Demands",
+      "html": "<p>The Mastiff's short, close coat requires minimal grooming effort. What requires consistent management is everything that comes with the Mastiff's construction: the deep facial wrinkles, the pendant lips that produce copious drool, and the sheer logistics of grooming a dog that may weigh 200+ lbs.</p><p>Start handling from puppyhood. A Mastiff puppy that accepts paw touching, ear examination, face handling, and bath positioning grows into a manageable adult. An unhandled adult Mastiff — calm as the temperament is — is simply too large and strong to safely manage for grooming if it resists.</p><h3>Grooming Tools You'll Need</h3><ul><li>Rubber curry brush or grooming mitt</li><li>Bristle brush</li><li>Soft cloths or dog-specific wipes for wrinkle and drool management</li><li>Dog ear cleaning solution and cotton balls</li><li>Heavy-duty nail clippers or nail grinder</li><li>Dog-safe shampoo</li><li>Absorbent towels (multiple large towels per bath)</li><li>Dog toothbrush and toothpaste</li></ul>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Daily or Every Other Day: Drool Management</h3><p>This isn't grooming in the traditional sense — it's maintenance. Keep absorbent cloths at feeding stations, water bowls, and wherever the dog rests. After meals, drinking, exercise, and excitement, wipe around the muzzle. Drool that dries on the coat, furniture, and walls is significantly harder to remove than fresh drool.</p><h3>Weekly</h3><ul><li>Brush the coat with a rubber curry or grooming mitt — removes loose hair and distributes oils</li><li>Wrinkle cleaning: thoroughly wipe inside each facial fold with a damp cloth or unscented dog wipe. Dry completely after cleaning — moisture in the folds causes bacterial and yeast overgrowth (skin fold dermatitis)</li><li>Check and clean ears: Mastiff ears are large and pendant; reduced airflow makes them prone to accumulation. Check weekly, clean when needed</li><li>Inspect between the toes and the paw pads for debris</li></ul><h3>Every 2–3 Weeks</h3><ul><li>Nail trim. Giant-breed nails grow quickly and must be maintained consistently. At this weight, overgrown nails have immediate, significant effects on gait and joint comfort. Use a nail grinder for better control with thick Mastiff nails</li></ul><h3>Monthly</h3><ul><li>Full bath every 6–8 weeks or as needed. Logistics require planning: walk-in shower, outdoor area with warm-water access, or professional grooming. The short coat is easy to lather and rinse, but the surface area is enormous</li><li>Dental care: 3–4 times per week. Giant breeds benefit significantly from regular dental care given the elevated costs and risks of professional cleanings under anesthesia</li></ul>"
+    },
+    "special": {
+      "label": "Wrinkle and Skin Fold Care",
+      "heading": "Preventing Skin Fold Dermatitis",
+      "html": "<p>Mastiffs have significant facial wrinkling — the broad, heavy head and pendant lips create multiple skin folds where moisture, food particles, and saliva accumulate. Without regular cleaning, this environment grows bacteria and yeast, causing skin fold dermatitis: redness, odor, and discomfort.</p><h3>The Cleaning Routine</h3><ol><li>Use a damp cloth or unscented dog wipe to clean inside each fold — wipe away all visible debris and residue</li><li>Use a dry cloth or cotton ball to thoroughly dry the inside of each fold. This step is critical — damp folds after cleaning are worse than no cleaning</li><li>Some owners apply a small amount of cornstarch to absorb residual moisture after cleaning and drying</li><li>Check for redness, odor, or skin irritation each time you clean. These are early signs of dermatitis</li></ol><h3>Signs of a Skin Problem</h3><ul><li>Redness or raw skin inside the fold</li><li>Sour or musty odor from the wrinkles</li><li>Dog rubbing their face on furniture or the ground</li><li>Discharge visible in the fold</li></ul><p>If you notice these signs, see your vet. Mild cases respond to topical treatment; established infections may need oral antibiotics or antifungals. Preventive cleaning is far easier than treating infections.</p><h3>Drool Management at Scale</h3><p>Mastiff owners develop systems. Common approaches: absorbent cloths at strategic locations, easy-access hanging towels near food and water, machine-washable couch covers, and keeping a cloth on you during active periods. Accepting the drool as a lifestyle feature — rather than fighting it as a problem — makes Mastiff ownership much more comfortable.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often do I need to clean my Mastiff's wrinkles?",
+      "a": "Weekly minimum; more frequently in warm weather or after eating and drinking. The key is always drying the fold after cleaning — moisture is the cause of skin fold dermatitis, not just debris. If your Mastiff has deeper, more pronounced wrinkles, daily cleaning may be necessary."
+    },
+    {
+      "q": "Can I reduce how much my Mastiff drools?",
+      "a": "No, not meaningfully. The drool is a structural feature of the breed — the pendant lips don't seal saliva the way tighter-lipped breeds' mouths do. Keeping the dog comfortable and not overheating reduces drool volume somewhat. Surgical lip modification exists but is not recommended or commonly performed. If you're hoping to find a Mastiff that doesn't drool, it doesn't exist."
+    },
+    {
+      "q": "How do I bathe a 200-lb dog at home?",
+      "a": "With planning and ideally a helper. A walk-in shower works well. Outdoor bathing with a warm-water hose is practical in warm weather. Use a non-slip mat anywhere the dog stands. Rinse from head to tail, and be thorough — residual shampoo causes skin irritation. Towel dry with multiple large towels; air drying is fine for the short Mastiff coat in warm conditions."
+    }
+  ]
+}

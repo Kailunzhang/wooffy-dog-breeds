@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Boston Terrier",
+    "shopify_handle": "boston-terrier-puppy-checklist",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "name": "Boston Terrier Puppy Checklist: What to Do Before and After Bringing One Home",
+    "slug": "boston-terrier-puppy-checklist",
+    "excerpt": "A practical checklist for new Boston Terrier owners — covering AC setup, respiratory evaluation at the first vet visit, eye injury awareness, and daily care habits.",
+    "meta_description": "A practical checklist for new Boston Terrier owners — covering AC setup, respiratory evaluation at the first vet visit, eye injury awareness, and daily care habits.",
+    "tags": [
+      "Boston Terrier",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Boston-terrier-carlos-de.JPG/330px-Boston-terrier-carlos-de.JPG",
+      "alt": "Boston Terrier"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before the Puppy Arrives",
+      "heading": "Air Conditioning and Health Considerations Before Pickup Day",
+      "html": "<h3>Air Conditioning: Essential, Not Optional</h3><p>Boston Terriers are brachycephalic — their restricted airways make cooling through panting inefficient, and they can overheat quickly in warm conditions. Before bringing your puppy home, confirm that your living space has reliable air conditioning available during warm weather. A Boston Terrier in a home without AC during a hot summer is a heat stroke risk. This is a basic safety requirement for the breed.</p><h3>Health Considerations Before Purchasing</h3><ul><li>Listen to the puppy breathing at rest and after mild play — moderate snoring and snuffling is expected, but severe respiratory distress at rest in a young puppy indicates significant BOAS that will likely require early surgical intervention.</li><li>Observe the nostrils — are they reasonably open, or nearly pinched shut? Severely stenotic nares may be visually apparent even in puppies.</li><li>Look at the eyes — prominent and clear, with no discharge or cloudiness from birth.</li></ul><h3>Gear Checklist</h3><ul><li>Small crate with soft bedding</li><li>Harness — always use a harness, not a collar for walking</li><li>Unscented pet wipes for fold cleaning</li><li>Cotton rounds for eye cleaning</li><li>Dog-safe enzymatic toothpaste and finger brush</li><li>Small-breed puppy food</li><li>Small food and water bowls</li><li>Baby gate to manage access to stairs</li><li>Enzymatic cleaner</li><li>Pet insurance enrolled before first vet visit</li></ul>"
+    },
+    "care": {
+      "label": "First Weeks at Home",
+      "heading": "First Vet Visit and Daily Care Setup",
+      "html": "<h3>First Vet Appointment (Within 72 Hours of Pickup)</h3><ul><li>Full physical exam and vaccine status review</li><li><strong>Respiratory evaluation:</strong> Ask your vet to assess nostril diameter, breathing quality, and any early indication of soft palate length issues. Establish a baseline and discuss what to watch for as the puppy grows.</li><li>Set vaccination and deworming schedule</li><li>Discuss spay/neuter timing</li><li>Get instructions on facial fold cleaning technique if folds are present</li><li>Confirm eye cleaning routine and warning signs to watch for</li><li>Discuss heat safety guidelines for your climate</li></ul><h3>Daily Face Cleaning Starts Immediately</h3><p>If your Boston has any facial folds or a nose rope, begin cleaning them daily from the first week home. Open the fold, wipe inside, dry thoroughly. Pair with eye cleaning. Do both together as part of the morning routine and it takes 2–3 minutes. Done daily, this prevents infections that are uncomfortable and require veterinary treatment to resolve.</p><h3>Eye Awareness From Day One</h3><p>Train yourself to glance at your dog's eyes daily. Normal Boston eyes: clear, bright, perhaps a small amount of discharge in the corners that wipes away easily. Abnormal: squinting, cloudiness, heavy discharge, obvious discomfort, or pawing at the face. Any sign of discomfort in the eyes warrants a same-day vet call — do not wait to see if it improves.</p>"
+    },
+    "special": {
+      "label": "Exercise, Training, and Heat Safety",
+      "heading": "Temperature Management and What Boston Terriers Need Day to Day",
+      "html": "<h3>Exercise in Safe Temperatures Only</h3><p>Walk your Boston Terrier in the early morning or evening when temperatures are below 70°F (21°C). In hot weather, keep outdoor time minimal and always have water available. In summer, a brief walk followed by indoor playtime in air conditioning is appropriate. Watch for signs of overheating during any outdoor activity: laboured breathing, excessive drooling, weakness, or distress. Stop activity immediately and cool the dog if these signs appear.</p><h3>Training a Boston Terrier</h3><p>Boston Terriers are intelligent, eager to please, and generally easy to train with positive reinforcement. They are alert and energetic enough to enjoy training sessions. Enroll in puppy class early — recall, loose-leash walking, and basic manners are the priorities. Bostons can have a stubborn streak but respond well to consistency and food rewards.</p><h3>Socialisation During the Critical Window</h3><p>Use the 8–16 week socialisation window well. Bostons are naturally friendly and social, but early positive experiences with a wide variety of people, environments, sounds, and other dogs build a confident adult temperament. Controlled puppy playgroups are particularly valuable.</p><ul><li>Daily face and eye cleaning from day one</li><li>Tooth brushing from week one</li><li>Harness use only — never a collar for walking</li><li>Air conditioning access in warm weather at all times</li><li>First vet respiratory evaluation within 72 hours of pickup</li></ul>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How do I know if my Boston Terrier needs BOAS surgery?",
+      "a": "Signs that suggest your vet should assess for airway surgery include: loud snoring or snuffling at rest (beyond the normal mild sounds for the breed), exercise intolerance in mild weather, open-mouth breathing during light activity, rapid tiring, blue or pale gums, and significant sleep apnoea. Have your vet assess the airway at the first appointment and at each annual exam. Early intervention produces better surgical outcomes than waiting."
+    },
+    {
+      "q": "What are the warning signs of a corneal ulcer in a Boston Terrier?",
+      "a": "Squinting or holding one eye partially closed, cloudiness or a white/blue opacity in the eye, excessive tearing or discharge, visible scratching or pawing at the eye, or sensitivity to light. Corneal ulcers are painful and worsen rapidly without treatment — they are an urgent veterinary situation, not a wait-and-see scenario. Contact your vet the same day you notice any of these signs."
+    },
+    {
+      "q": "Are Boston Terriers good with children?",
+      "a": "Generally yes — Boston Terriers are typically friendly, playful, and enjoy family activity. The main consideration is their eye vulnerability: children playing roughly around a Boston Terrier's face pose an injury risk. Supervise play with young children, teach children to interact gently, and do not allow face-level rough play. The dog itself usually handles children well; the fragile eyes are the vulnerability to manage."
+    }
+  ]
+}

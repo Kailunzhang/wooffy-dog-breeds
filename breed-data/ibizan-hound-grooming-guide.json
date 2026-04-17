@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "name": "Ibizan Hound Grooming Guide",
+    "slug": "ibizan-hound-grooming-guide",
+    "shopify_handle": "ibizan-hound-grooming-guide",
+    "group": "Ibizan Hound",
+    "size_category": "Guide",
+    "tags": ["ibizan-hound", "grooming", "smooth-coat", "wire-coat", "sighthound"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "Ibizan Hound grooming is minimal for the smooth coat variety and modest for the wire coat. Both are low-shedding. Ear care and cold-weather skin considerations are the primary ongoing maintenance points.",
+    "meta_description": "Ibizan Hound grooming guide: smooth coat vs wire coat care, ear cleaning protocol, cold-weather skin considerations, and what low-maintenance grooming looks like for a sighthound."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Podenco_z_ibizy_645.jpg/250px-Podenco_z_ibizy_645.jpg",
+      "alt": "Ibizan Hound grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Two Coat Varieties",
+      "heading": "Smooth vs Wire Coat Ibizan Hounds",
+      "html": "<p>The Ibizan Hound comes in two coat varieties with different but equally low maintenance requirements:</p><p><strong>Smooth coat:</strong> Short, close, and slightly glossy. Sheds very little. A weekly rubber mitt or hound glove wipe is the entire grooming routine. This is one of the lowest-maintenance coats of any large breed.</p><p><strong>Wire coat:</strong> Rough, slightly longer (1–3 inches), harsher to the touch. Also low-shedding. Needs occasional brushing and periodic hand-stripping or trimming to keep tidy, particularly around the face and ears.</p><h3>Tools Needed</h3><p><strong>Smooth coat:</strong> Rubber grooming mitt, dog shampoo, nail clippers</p><p><strong>Wire coat:</strong> Slicker brush, wide-tooth comb, thinning shears or stripping knife for occasional tidying, dog shampoo, nail clippers</p>"
+    },
+    "care": {
+      "label": "Routine Care",
+      "heading": "Weekly and Monthly Grooming",
+      "html": "<h3>Smooth Coat: Weekly</h3><p>Run a rubber mitt over the entire dog — against the grain first to lift dead hair, then with the grain to smooth. Done. This takes 5 minutes and removes essentially all loose hair. Bathe every 6–8 weeks or as needed. The smooth coat dries very quickly after a bath.</p><h3>Wire Coat: Weekly/Monthly</h3><p>Brush through the coat with a slicker brush weekly to prevent any matting in the longer areas. Check the face and ear fringes — these areas tangle most easily. Every 6–8 weeks, tidy the face and ear areas with thinning shears or hand-strip to maintain a neat appearance. The wire coat does not need to be stripped as aggressively as a terrier coat — occasional tidying is sufficient.</p><h3>Ear Care: Both Varieties</h3><p>The large, upright ears have good airflow — unlike pendant-eared breeds. This reduces but does not eliminate ear infection risk. Check ears weekly: pale pink, minimal wax, no odor is healthy. Wipe with a cotton ball dampened with ear cleaner during routine maintenance. Increase frequency if the dog swims. See your vet promptly if you observe redness, dark discharge, or odor.</p>"
+    },
+    "special": {
+      "label": "Cold-Weather Considerations",
+      "heading": "Skin and Cold-Weather Care",
+      "html": "<p>Ibizan Hounds have very thin skin and minimal body fat — a characteristic of the sighthound type. In cold weather, this means the dog genuinely needs a coat for outdoor exercise. A dog coat that covers the torso down to mid-body provides meaningful warmth for cold-weather walks. This is not optional comfort equipment — it's temperature regulation for a breed that lacks natural cold insulation.</p><p>The thin skin also means cuts and abrasions from rough terrain are more visible on an Ibizan than on heavier-coated breeds. Check the dog after any exercise in rough or thorny terrain. Minor abrasions typically heal well; deeper cuts in this thin-skinned breed can be slower to heal.</p><p><strong>Nails:</strong> Trim monthly. Sighthound nails can grow quickly and affect gait. Use standard dog clippers — the nails are not especially thick.</p><p><strong>Dental:</strong> Brush 2–3 times weekly. The sighthound jaw tends toward thinner bone structure, making dental health particularly important to maintain.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How much do Ibizan Hounds shed?",
+      "a": "Very little — both the smooth and wire coat varieties are low-shedding. The smooth coat releases minimal hair during routine weekly brushing; shedding is not a significant household management issue with this breed."
+    },
+    {
+      "q": "Does an Ibizan Hound need a coat in winter?",
+      "a": "Yes — particularly in cold climates or when temperatures drop below 45–50°F. The sighthound's lean body and thin skin provide minimal natural insulation. A well-fitted dog coat for outdoor exercise in cold weather is practical equipment for this breed, not a fashion accessory."
+    }
+  ]
+}

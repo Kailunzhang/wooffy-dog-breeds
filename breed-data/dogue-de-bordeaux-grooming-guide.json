@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Dogue de Bordeaux Grooming Guide",
+    "slug": "dogue-de-bordeaux-grooming-guide",
+    "shopify_handle": "dogue-de-bordeaux-grooming-guide",
+    "group": "Dogue de Bordeaux",
+    "size_category": "Guide",
+    "tags": ["dogue-de-bordeaux", "grooming"],
+    "published": true,
+    "published_at": "2026-04-27T16:00:00Z",
+    "excerpt": "The Dogue de Bordeaux's short coat is easy to maintain, but daily facial fold cleaning and drool management are essential health routines. Here is everything you need to keep a DDB clean and comfortable.",
+    "meta_description": "Dogue de Bordeaux grooming guide: daily fold cleaning, drool management, coat brushing, and bathing tips for the French Mastiff."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dogue_de_Bordeaux_profil.jpg/330px-Dogue_de_Bordeaux_profil.jpg",
+      "alt": "Dogue de Bordeaux grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Simple Coat, Important Daily Care",
+      "html": "<p>The Dogue de Bordeaux has a short, fine, soft coat that is among the lowest-maintenance in the giant breed world. There is no trimming, no matting, and no professional styling required. The coat sheds moderately year-round and somewhat more in seasonal transitions, but the short length means shed hair is not as visually impactful as in longer-coated breeds.</p><p>What requires daily attention is the breed's facial architecture. The enormous head with its deep wrinkles, heavy jowls, and prominent skin folds creates an environment where moisture, food, and bacteria accumulate. Without consistent daily cleaning, these areas develop skin fold dermatitis — a painful, malodorous infection that is entirely preventable with proper routine. Every Dogue de Bordeaux owner must integrate fold and jowl care into daily life as naturally as filling the water bowl.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Daily Folds, Weekly Coat, Monthly Bath",
+      "html": "<p><strong>Daily fold and jowl cleaning:</strong> After every meal and at least once more during the day, gently open each facial fold and wipe away moisture, food particles, and debris. Use soft pet facial wipes, cotton pads, or a damp soft cloth. Allow the skin inside the folds to air dry or gently dry with a clean cloth. Some owners apply a small amount of cornstarch or commercial fold powder to keep particularly moist areas dry. Check the jowls (the heavy flaps of skin on either side of the lower jaw) as well — these trap saliva and food against the skin.</p><p><strong>Weekly coat brushing:</strong> Use a rubber curry brush or soft bristle brush once a week to remove loose hair and stimulate skin circulation. The short coat requires minimal effort. During heavier shedding seasons, increase to 2–3 times per week.</p><p><strong>Bathing:</strong> Every 4–6 weeks, or as needed. Use a gentle, moisturizing dog shampoo — the breed's skin can be sensitive. Pay special attention to washing inside the folds and rinsing them thoroughly, then ensure they are completely dry after the bath. Trapped moisture post-bath is a common trigger for fold dermatitis.</p><p><strong>Nails:</strong> Trim monthly. Giant-breed nails are thick and require heavy clippers or a grinder. Overgrown nails affect posture and gait and can worsen joint issues in a breed already predisposed to hip problems.</p><p><strong>Ears:</strong> Check weekly for odor, redness, or discharge. Clean with a vet-approved ear solution. The pendant ears can trap moisture and debris.</p><p><strong>Teeth:</strong> Brush several times per week. The shortened muzzle can crowd teeth, making dental disease more likely. Annual professional cleanings under anesthesia are recommended — though anesthesia carries added risk for this brachycephalic breed and should be discussed with a vet experienced with the breed.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Fold Health, Heat, and Drool Management",
+      "html": "<p><strong>Preventing and treating fold dermatitis:</strong> The first sign is usually an odor from the facial area, followed by redness and moisture in the fold. Early-stage dermatitis responds well to more frequent cleaning and drying. Moderate to severe cases require veterinary treatment — topical antifungal or antibacterial medications, and sometimes systemic antibiotics. In chronic cases, surgical fold removal is a permanent solution that eliminates recurrent infections. Prevention through daily cleaning is far preferable to treatment.</p><p><strong>Heat sensitivity:</strong> The Dogue de Bordeaux is highly sensitive to heat due to its brachycephalic structure and large body mass. Avoid bathing outdoors or in hot conditions. Never leave the dog in a warm vehicle. During summer, schedule grooming sessions in air-conditioned spaces and watch for signs of heat stress: heavy panting, drooling more than usual, lethargy, or gum color changes.</p><p><strong>Drool management:</strong> The DDB drools substantially, particularly around food, water, excitement, and warm temperatures. Keep drool cloths near feeding areas and throughout the house. Wiping the jowls after meals removes food residue before it irritates the skin. This is not a grooming issue that can be solved — it is simply a reality of living with the breed.</p><p><strong>Post-bath drying:</strong> After baths, use a towel to thoroughly dry the coat and — critically — the inside of every skin fold. A handheld blow dryer on low heat can help ensure folds are fully dry. Never put the dog in a crate or outdoors while folds are still damp.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often should I clean a Dogue de Bordeaux's facial folds?",
+      "a": "At minimum once daily, and after every meal. The deep facial folds of the DDB trap moisture, food, and bacteria very efficiently. Skipping even a few days of cleaning can allow skin fold dermatitis to develop."
+    },
+    {
+      "q": "What is the best product for cleaning Dogue de Bordeaux facial folds?",
+      "a": "Soft pet facial wipes, unscented baby wipes, or cotton pads dampened with water work well. Avoid products with alcohol or strong fragrances near the eyes. Your vet can recommend a topical cleanser if the dog has recurring fold infections."
+    },
+    {
+      "q": "Does the Dogue de Bordeaux need professional grooming?",
+      "a": "Not regularly. The short coat requires no professional trimming. An occasional professional bath can be convenient given the breed's size, but fold care must be done at home daily regardless."
+    }
+  ]
+}

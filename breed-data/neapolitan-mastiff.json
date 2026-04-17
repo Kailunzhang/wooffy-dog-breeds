@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "name": "Neapolitan Mastiff",
+    "slug": "neapolitan-mastiff",
+    "shopify_handle": "neapolitan-mastiff",
+    "group": "Working Group",
+    "size_category": "Giant Breed",
+    "tagline": "The Neapolitan Mastiff is an ancient Italian guardian breed of breathtaking appearance and serious drool output. Calm and devoted with family; assertive and intimidating to strangers. Not for beginners, not for the house-proud, and absolutely not for anyone unprepared to manage both the drool and the dog.",
+    "tags": ["working-group", "giant-breed", "guardian", "ancient-breed", "mastiff", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-27T16:00:00Z",
+    "excerpt": "The Neapolitan Mastiff is one of the most ancient guardian breeds — massive, wrinkled, and capable of producing drool at a scale that must be experienced to be believed. Devoted to family, assertive with strangers, and emphatically not a beginner dog.",
+    "meta_description": "Neapolitan Mastiff breed guide: wrinkle and skin fold care, drool management, guardian temperament, health conditions including cherry eye and bloat, and honest beginner assessment."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Giant" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "110–150 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "7–9 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "30–60 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High (skin care)" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Experienced only" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Mastino_sylwetka.jpg/250px-Mastino_sylwetka.jpg",
+      "alt": "Neapolitan Mastiff"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Neapolitan Mastiff?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Neapolitan Mastiff descends from the ancient Molossian dogs of Greece and Rome — war dogs, estate guardians, arena fighters. They were used by the Roman army, depicted in Roman mosaics, and are one of the oldest working breeds on earth. The modern breed was stabilized in Italy in the 20th century and recognized by the AKC in 2004. Their appearance — massive, heavily wrinkled, with abundant loose skin flowing across the body — is one of the most distinctive in dogdom and traces directly to their ancient ancestors.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Neapolitan Mastiffs weigh 110–150 lbs and stand 24–31 inches. The loose, wrinkled skin; the heavy dewlaps; the serious, watchful expression — this is a dog that communicates guardian intent by appearance alone. They are calm and surprisingly quiet indoors when their needs are met, but they are also assertive, self-confident dogs that do not respond well to weakness or inconsistency in their handlers.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Two non-negotiable facts for prospective owners: First, the drool is extreme — not occasional, not manageable without preparation, but constant and voluminous, especially around food, water, and excitement. Second, the skin folds require regular cleaning as health maintenance, not aesthetics. Infected skin folds are painful for the dog and expensive to treat.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Neapolitan Mastiffs Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Massive and heavily built with an abundance of loose, wrinkled skin across the head, neck, and body. The head is enormous — broad and heavy with deep facial wrinkles, pronounced dewlaps, and a serious expression. The body is more elongated than wide, giving a surprisingly mobile silhouette despite the weight. Colors include blue (most common), black, mahogany, and tawny; brindling is acceptable in all colors.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The short, dense coat is low-maintenance in terms of brushing, but the skin underneath is not. Every fold, every wrinkle, every dewlap creates an environment where moisture and debris collect. Left uncleaned, these areas develop infections — dermatitis, bacterial overgrowth, and worse. Wrinkle cleaning is not an optional grooming step; it is health maintenance that must happen on a schedule.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family, Neapolitan Mastiffs are calm, devoted, and deeply loyal. They are not effusive — they don't bounce around seeking attention — but their attachment to their people is genuine and quiet. They tend to follow their person through the house and maintain a watchful awareness of their environment even at rest.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With strangers, the guardian temperament is active and present. Neos are naturally suspicious of unfamiliar people and will not make friends readily. A well-socialized Neo can be controlled in public, but they are not friendly dogs by design and should never be expected to warmly greet unknown people. Their size and serious expression generally ensure that most people give them space regardless.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The assertiveness in the breed is directed at everyone, including owners who don't provide clear leadership. Neos test handlers, particularly those who are inconsistent or uncertain. They need an owner who has clearly established themselves as the decision-maker, not through force, but through consistent, calm authority. A Neo with no established hierarchy defaults to making its own decisions — which is not safe with a 150-lb guardian dog.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Neapolitan Mastiff",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Neapolitan Mastiffs attract a certain kind of owner — people who appreciate a dog that is unmistakably powerful, ancient, and serious. Those qualities are all genuinely present. A well-bred, well-raised Neo with a confident handler is an extraordinary animal: calm indoors, reliable with family, and intimidating to anyone who might consider testing them.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The drool needs to be addressed directly because people regularly underestimate it. After drinking water, a Neo will fling a rope of drool several feet in any direction. After eating, the dewlaps are soaked. During excitement — or just randomly — drool happens. Owners of this breed keep drool rags in every room, on their person, and near the front door for guests. This is not hyperbole. If there is any scenario where you would resent this, the Neapolitan Mastiff is not your breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">BSL awareness matters here too — some jurisdictions restrict or ban Mastiff-type breeds. Verify your local ordinances, your landlord's policies, and your homeowner's insurance before acquiring one. This is a breed where doing that research first saves significant problems later.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">30–60 minutes of moderate, low-impact exercise daily. Neapolitan Mastiffs are not high-energy dogs — they are satisfied with daily walks and prefer not to be pushed into intense activity. Their size and joint load make avoiding high-impact exercise important, especially in growing puppies. Heat sensitivity is significant — exercise only in cool parts of the day in warm weather.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Skin Fold Care</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The most critical and time-intensive care requirement. Every skin fold and wrinkle — face, around the eyes, dewlaps, body folds — must be wiped out regularly (at minimum every few days; daily is better) with a gentle, dog-safe cleanser or medicated wipe. Moisture and debris accumulate in folds and create conditions for bacterial and yeast infections. Infected skin folds cause the dog real discomfort and require veterinary treatment. See the <a href=\"/blogs/dog-breeds/neapolitan-mastiff-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Neapolitan Mastiff grooming guide</a> for the full skin care routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Early and consistent training is essential. Neos are not as immediately responsive as working breeds bred for trainability — they are independent and assertive and may choose to disengage if they find training irrelevant. Positive reinforcement with consistent, calm authority works best. A trainer with experience in dominant or guardian breeds is a worthwhile investment from the start. Basic obedience — sit, stay, heel, place — is non-negotiable given the size and guardian temperament.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Neapolitan Mastiffs carry a significant health burden. The 7–9 year lifespan reflects multiple structural and inherited conditions, and proactive management throughout the dog's life is required.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Cherry Eye</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Prolapse of the third eyelid gland — very common in the breed. The gland protrudes visibly in the corner of the eye and should not be simply removed (it contributes to tear production). Surgical repositioning is the appropriate treatment. Many Neos require this procedure.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Skin Fold Infections</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">The extensive loose skin creates environments for bacterial and yeast infections. Preventable with regular fold cleaning. If a fold becomes red, odorous, or the dog is scratching at it, veterinary treatment is needed. Chronic infections indicate the cleaning routine needs to be more frequent.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Common in giant breeds. OFA or PennHIP clearances from both parents are required. Managed with medication and joint support; severe cases require surgery.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Common developmental elbow abnormality in large breeds. OFA elbow clearances should be provided by breeders alongside hip clearances.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Cardiomyopathy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited heart muscle disease. Giant breeds carry elevated cardiac risk. Cardiac screening from a veterinary cardiologist is recommended health testing for breeding dogs.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Deep-chested giant with significant GDV risk. Prophylactic gastropexy at spay/neuter is strongly recommended. Know the emergency signs: distended abdomen, unproductive retching, rapid deterioration.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Heat Sensitivity</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The heavy body mass, loose facial structure, and skin folds combine to impair heat regulation. Exercise in heat should be strictly limited to early morning and evening. Air conditioning is essential in warm climates.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA elbow, cardiac evaluation. Budget for cherry eye surgery as a likely early expense.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$2,500–$5,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (giant breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$900–$1,400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$900–$1,400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$900–$1,800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$900–$1,800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Cherry eye surgery (likely)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$800 per eye</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Skin care supplies</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$100–$200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$100–$200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (giant crate, drool supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$5,700–$11,100</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,500–$4,700</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/neapolitan-mastiff-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Neapolitan Mastiff first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Neapolitan Mastiff Right for You?",
+      "good_fit": [
+        "Experienced owners of large or guardian breeds",
+        "Households wanting a serious, devoted guardian dog",
+        "Owners who understand and accept the drool — sincerely, not optimistically",
+        "People committed to daily skin fold cleaning as health maintenance",
+        "Owners in areas without BSL restrictions on Mastiff-type breeds"
+      ],
+      "not_fit": [
+        "First-time dog owners or those without experience with assertive breeds",
+        "Households where drool is a dealbreaker — it is constant and copious",
+        "Anyone not prepared to maintain skin folds regularly",
+        "Renters or HOA members without prior breed restriction research",
+        "Hot climates without reliable air conditioning"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Neapolitan Mastiff",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$2,500–$5,000 from reputable breeders. Required health clearances: OFA hip, OFA elbow, cardiac evaluation. The United States Neapolitan Mastiff Club maintains breeder information. This is a breed where the reputation and health practices of the breeder matter enormously — health testing reduces (though cannot eliminate) the risk of the significant conditions the breed carries.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue and BSL Research</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Neapolitan Mastiff rescue exists through breed-specific organizations. Before acquiring any Neo, verify local breed ordinances, homeowner's or renter's insurance coverage, and any HOA restrictions. Some jurisdictions restrict Mastiff-type breeds under breed-specific legislation.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Neo comes home, complete the <a href=\"/blogs/dog-breeds/neapolitan-mastiff-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Neapolitan Mastiff puppy checklist</a> — skin care supplies, drool management setup, and early vet scheduling for cherry eye assessment are the most important pre-arrival priorities.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "How much do Neapolitan Mastiffs drool?", "a": "Extensively and constantly — this is not an occasional thing. After eating or drinking, the dewlaps collect significant moisture that then drips or flings when the dog shakes its head. During excitement, anticipation of food, or warm weather, drool ropes and strings. Experienced Neo owners keep absorbent towels or rags in multiple rooms. If you are asking how to minimize the drool, the answer is you cannot — you manage it. If this is genuinely a problem for your household, this is not your breed." },
+    { "q": "Are Neapolitan Mastiffs good guard dogs?", "a": "They are natural guardians by temperament and appearance. A Neo on property is a significant deterrent — few people are inclined to push past a 150-lb wrinkled mastiff. They are calm and quiet indoors when their needs are met but will respond to genuine threats with size and assertiveness. They do not need to be trained into guarding behavior; it is intrinsic. This also means they require proper socialization and confident handling to ensure the guarding instinct is appropriately calibrated." },
+    { "q": "What is cherry eye in Neapolitan Mastiffs?", "a": "Cherry eye is the prolapse of the third eyelid gland — a pinkish-red mass that appears in the inner corner of the eye. It's very common in Neos and, if untreated, can cause chronic irritation and reduce tear production over time. The appropriate treatment is surgical repositioning of the gland back into the eyelid pocket, not removal (the gland contributes meaningfully to eye moisture). Budget for this as a likely early veterinary expense — many Neos develop it in the first few years." },
+    { "q": "Is the Neapolitan Mastiff subject to breed-specific legislation?", "a": "Some jurisdictions restrict or ban Mastiff-type breeds. This varies widely by state, city, and municipality. Before acquiring a Neapolitan Mastiff, verify your local ordinances, your homeowner's or renter's insurance policy (many exclude certain large breeds), and any applicable HOA rules. This is not a theoretical concern — breed restrictions exist in enough places that they must be checked before the dog comes home." }
+  ],
+
+  "related_breeds": [
+    {"name": "Mastiff", "slug": "mastiff", "note": "English Mastiff, similar giant guardian temperament, less wrinkled, generally more widely kept"},
+    {"name": "Cane Corso", "slug": "cane-corso", "note": "Italian guardian breed, similar heritage, more athletic build, less loose skin, less drool"},
+    {"name": "Dogue de Bordeaux", "slug": "dogue-de-bordeaux", "note": "French mastiff, similar heavy build and drool, similar health challenges"},
+    {"name": "Rottweiler", "slug": "rottweiler", "note": "Similar working-guardian heritage, more trainable and athletic, significantly less drool"}
+  ]
+}

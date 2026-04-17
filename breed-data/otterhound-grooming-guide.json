@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Otterhound Grooming Guide",
+    "slug": "otterhound-grooming-guide",
+    "shopify_handle": "otterhound-grooming-guide",
+    "group": "Otterhound",
+    "size_category": "Guide",
+    "tags": ["otterhound", "grooming", "rough-coat", "double-coat", "hound-grooming"],
+    "published": true,
+    "published_at": "2026-04-26T16:00:00Z",
+    "excerpt": "The Otterhound's shaggy, waterproof double coat needs weekly brushing and dedicated beard maintenance. The coat should never be shaved — the oily undercoat is functional and part of what makes the breed what it is.",
+    "meta_description": "Otterhound grooming guide: brushing a rough double coat, managing the beard, ear care for pendulous ears, and bathing a large waterproof coat without stripping its protective oils."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Two_otterhounds.jpg/250px-Two_otterhounds.jpg",
+      "alt": "Otterhound grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Otterhound Coat",
+      "heading": "Understanding the Otterhound Double Coat",
+      "html": "<p>The Otterhound has a rough, shaggy outer coat over a soft, oily, wooly undercoat. The oiliness is not a flaw — it is a functional feature that made the coat water-resistant for a dog that spent hours working in rivers. This coat should not be stripped of its oils through over-bathing or harsh shampoos, and it should absolutely never be shaved.</p><h3>Grooming Tools You'll Need</h3><ul><li>Pin brush — primary tool for the outer coat</li><li>Wide-tooth steel comb — for working through the beard, leg furnishings, and checking for mats</li><li>Slicker brush — for finishing and removing loose hair</li><li>Undercoat rake — for removing dead undercoat during shedding periods</li><li>Blunt-tipped scissors — for trimming around paws and ear edges</li><li>Dog-safe shampoo for coarse, oily coats</li><li>Ear cleaning solution and cotton balls</li></ul><h3>Never Shave an Otterhound</h3><p>The double coat is a thermoregulation and waterproofing system. Shaving disrupts this, can cause post-clipping alopecia in some dogs, and destroys the coat texture that is fundamental to the breed. If the coat seems heavy in summer, ensure the dog has shade and cool water — the coat actually insulates against heat as well as cold when intact.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Work through the entire coat section by section with the pin brush — neck, body, legs, tail</li><li>Follow with the wide-tooth comb to catch any mats the brush missed</li><li>Pay special attention to the beard and muzzle furnishings, which mat readily and accumulate food debris</li><li>Check behind the ears and in the armpits where mats form most quickly</li><li>Check and wipe the beard after meals — food sits in it</li></ul><h3>Beard Maintenance</h3><p>The Otterhound beard is the most maintenance-intensive part of the coat. It absorbs water and drags it across floors. It picks up food. It can mat quickly if not combed regularly. Practical tip: keep a dedicated towel at water bowl level to wipe the beard after drinking. Comb the beard a minimum of twice weekly.</p><h3>Monthly</h3><ul><li>Bathe every 6–8 weeks. Use a shampoo appropriate for coarse, oily coats — avoid stripping shampoos that remove the coat's natural oils</li><li>Dry thoroughly — the dense undercoat holds moisture. A high-velocity dryer speeds this considerably and helps separate the coat for better drying</li><li>Trim nail length — check that nails aren't clicking on hard floors</li><li>Trim hair between paw pads to prevent matting and debris accumulation</li></ul>"
+    },
+    "special": {
+      "label": "Ear Care",
+      "heading": "Ear Care for Pendulous Ears",
+      "html": "<p>The Otterhound's long, hanging ears reduce airflow to the ear canal, creating conditions where moisture, debris, and bacteria accumulate. This is the breed's most consistent ongoing health maintenance area. Ear infections are common and largely preventable with routine care.</p><h3>Weekly Ear Routine</h3><ul><li>Check both ears weekly — look for redness, odor, discharge, or the dog shaking/rubbing its head</li><li>Wipe the visible part of the ear canal with a cotton ball dampened with veterinarian-recommended ear cleaner</li><li>Do not insert anything deep into the canal</li><li>After swimming or bathing, dry the ears thoroughly — moisture in a pendulous ear after water activity is a primary cause of infection</li></ul><h3>When to See the Vet</h3><p>Odor, redness, dark discharge, head shaking, or pawing at ears all warrant a vet visit rather than additional cleaning. Ear infections need appropriate treatment; cleaning an infected ear without addressing the underlying infection can drive it deeper. Establish a relationship with your vet about this breed's ear vulnerability early.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does an Otterhound need to be brushed?",
+      "a": "Weekly minimum, with the beard combed more frequently — ideally a quick comb-through several times a week. The beard mats faster than the body coat and accumulates food and water daily. During coat blow periods, increase brushing to every 2–3 days."
+    },
+    {
+      "q": "Can I take my Otterhound to a professional groomer?",
+      "a": "Yes, but communicate clearly: the coat should be brushed, bathed, and dried, not trimmed short or clipped. Groomers experienced with rough-coated hounds or terriers will understand the coat type. Tell them explicitly that the coat should not be shaved under any circumstances."
+    },
+    {
+      "q": "How do I manage the beard?",
+      "a": "Regular combing (several times a week), wiping after meals and water, and periodic washing when it becomes food-stained. Some owners trim the beard slightly shorter for manageability — minor trimming is acceptable and does not damage the functional coat. A wet beard dragging across your floors is a daily reality of Otterhound ownership; toweling after drinking helps significantly."
+    }
+  ]
+}

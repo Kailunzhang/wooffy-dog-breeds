@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "name": "Collie (Rough Collie)",
+    "slug": "collie",
+    "shopify_handle": "collie",
+    "group": "Herding Group",
+    "size_category": "Large Breed",
+    "tagline": "The Rough Collie is an elegant, gentle herding breed that bonds deeply with its family and is genuinely exceptional with children. The coat is the commitment — plan for serious grooming from day one.",
+    "tags": ["herding-group", "large-breed", "gentle", "loyal", "family-dog", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-21T16:00:00Z",
+    "excerpt": "Collies are one of the most family-friendly large breeds — loyal, sensitive, patient with children, and strikingly beautiful. They're also heavy shedders with a coat that demands daily attention and a critical DNA test (CEA) that every buyer must ask for.",
+    "meta_description": "Rough Collie breed guide: temperament with families and children, grooming the heavy double coat, Collie Eye Anomaly and MDR1 drug sensitivity, and what ownership really requires."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "50–75 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–14 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise",  "value": "60–90 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming",  "value": "High" },
+    "training": { "emoji": "🎓", "label": "Training",  "value": "Easy" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes (with grooming plan)" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1Dog-rough-collie-portrait.jpg/330px-1Dog-rough-collie-portrait.jpg",
+      "alt": "Rough Collie"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Rough Collie?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Rough Collie is the dog most people picture when they hear the word \"Collie\" — the breed made famous by Lassie. Originally developed in Scotland for herding sheep and cattle, the Rough Collie combines an elegant, flowing coat with a genuinely gentle and loyal temperament that makes it one of the most family-friendly large breeds in existence.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Collies are sensitive and attentive dogs. They read their owners well and are highly responsive to tone of voice and mood — which makes them easy to train but also means they don't respond well to harsh corrections. They are excellent with children, reliable with familiar people, and generally approachable with strangers once comfortable.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The two non-negotiables before purchasing a Collie: understand the grooming commitment (the rough coat is spectacular and substantial work), and verify that the breeder has tested for Collie Eye Anomaly (CEA). CEA is extremely prevalent in the breed and the DNA test is the most critical health screen to ask for.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Collies Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Rough Collie is a large, elegant dog with a distinctive silhouette — long wedge-shaped head, almond eyes, abundant flowing coat, and a graceful build. Males weigh 60–75 lbs and stand 24–26 inches; females are 50–65 lbs at 22–24 inches. The smooth Collie is the same breed with a shorter coat, though the rough-coated version is far more common.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The double coat has a dense, soft undercoat and a harsh, straight outer coat. The mane and frill around the neck and chest are the breed's most striking feature. Colors include sable and white (the classic Lassie look), tricolor (black, white, and tan), blue merle, and white. The coat is a serious shedder year-round — two major coat blows per year plus ongoing moderate shedding.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Collies are gentle, loyal, and attuned to their people. They are one of the best large breeds for family households with children — patient, protective without being aggressive, and physically careful around small children in a way not all large breeds manage naturally.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The herding instinct is present but less intense than in Border Collies or Australian Shepherds. Some Collies will attempt to herd children or smaller animals, typically with gentle nudging or nipping at heels, but this is manageable with training. Collies are not dogs that become obsessively focused on movement the way working herding breeds do.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Sensitivity is a defining trait. Collies respond to tension in the home and can become anxious or shut down with harsh handling. Positive, consistent training works well. They are smart enough to learn quickly and willing enough to want to please — a genuinely enjoyable combination for training.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Collie",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Collies are a legitimately excellent family breed — the reputation is deserved. They're good with children, trainable, loyal, and not prone to the management challenges that make some other large breeds difficult. For a family that wants a large, beautiful dog that integrates well into household life, the Collie is one of the top choices available.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The grooming is the honest challenge. This is not a breed you can brush once a week and call it done, especially in the mane and collar area where mats form quickly. If you're not prepared to brush multiple times per week and budget for professional deshedding twice a year, the smooth Collie is a serious alternative worth considering.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Two things that are non-negotiable: ask your breeder for CEA (Collie Eye Anomaly) DNA test results for both parents — it's the most important health test in this breed and affects a very high percentage of the population. And get MDR1 testing done at your first vet visit, then carry that result card so no vet accidentally prescribes ivermectin or other MDR1-affected drugs.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes daily. Collies have moderate-to-high energy — they enjoy activity but are not as relentlessly driven as Border Collies. On-leash walks, yard play, and activities like fetch or hiking suit them well. They are athletic enough to enjoy dog sports (agility, herding trials) if owners want to pursue them.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The rough coat requires brushing 3–4 times per week minimum to prevent matting, with daily attention during seasonal shedding. The mane and collar area around the neck mat fastest — prioritize this zone. Professional deshedding 2x per year helps significantly. See the <a href=\"/blogs/dog-breeds/collie-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Collie grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">One of the easier large breeds to train. Collies are attentive, motivated to please, and respond well to positive reinforcement. Puppy class is recommended — not because it's hard to train a Collie, but because the socialization is valuable for a naturally sensitive breed. Avoid harsh corrections; they produce anxiety or shutdown, not compliance.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Collies are a generally healthy breed with a 12–14 year lifespan. Two conditions require specific attention before purchase: CEA and MDR1. Both have DNA tests available and reputable breeders screen for them.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">CEA (Collie Eye Anomaly)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The most important DNA test in the breed. A developmental eye condition affecting the choroid. Severity ranges from mild (no functional impact) to severe (retinal detachment, blindness). Extremely prevalent in Collies. DNA test from both parents is required — ask every breeder for results before committing.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">MDR1 / ABCB1 Drug Sensitivity</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">A genetic mutation that makes certain common drugs toxic to affected dogs — including ivermectin (common antiparasitic), several chemotherapy drugs, and others. Get your dog DNA tested, inform every vet, and carry the result card. This is not rare in Collies. An unknowing vet prescribing the wrong drug to an affected dog can cause fatal neurological toxicity.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint causing pain and arthritis. OFA or PennHIP screening available from reputable breeders.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Degenerative Myelopathy (DM)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Progressive spinal cord disease causing hind-end weakness. DNA test available. No treatment; management focuses on quality of life.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited retinal degeneration leading to blindness. DNA test available from reputable breeders.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> CEA DNA test (both parents — most critical), MDR1 DNA test, OFA hip, and PRA DNA test clearances.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$2,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Grooming (professional deshedding 2x/yr)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$150–$300</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$150–$300</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,550–$5,200</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,500–$2,700</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/collie-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Collie first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Rough Collie Right for You?",
+      "good_fit": [
+        "Families with children of any age — one of the best large breeds for this",
+        "Owners who want a trainable, people-oriented large breed",
+        "Active households that can provide 60–90 minutes of daily exercise",
+        "Owners committed to regular grooming or willing to budget for professional help",
+        "First-time large-breed owners who have realistic expectations about coat maintenance"
+      ],
+      "not_fit": [
+        "Anyone unwilling to brush 3–4 times per week and manage heavy seasonal shedding",
+        "Households wanting a low-maintenance coat",
+        "Owners who cannot verify CEA DNA test results from the breeder",
+        "Anyone who won't follow through on MDR1 testing and informing their vet"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Collie",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$2,000 from reputable breeders. The Collie Club of America maintains a breeder referral directory. Required health clearances: CEA DNA test for both parents (the single most important item), MDR1 DNA test, OFA hip clearance, and PRA DNA test. Do not purchase from a breeder who cannot provide CEA documentation.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Collie rescue organizations place both rough and smooth Collies. Many surrendered Collies were given up due to grooming demands owners underestimated. If adopting, ask about the dog's MDR1 status and have them tested early.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Collie comes home, complete the <a href=\"/blogs/dog-breeds/collie-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Collie puppy checklist</a> — grooming tools, MDR1 vet card, and a first vet appointment with MDR1 testing on the agenda.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "What is Collie Eye Anomaly (CEA)?", "a": "CEA is a hereditary eye condition very common in Rough Collies — it affects the development of the choroid (a layer of tissue in the eye). Severity ranges from mild (no vision impact) to severe (retinal detachment and blindness). A DNA test exists and both parents should be tested clear before any puppy purchase. Ask every breeder for CEA test results. This is the single most important health test for the breed." },
+    { "q": "What is MDR1 / ABCB1 drug sensitivity in Collies?", "a": "MDR1 is a genetic mutation affecting a protein that normally pumps certain drugs out of the brain. Dogs with this mutation can suffer severe neurological toxicity from drugs that are safe in other breeds — including ivermectin (common in many heartworm and parasite preventives), loperamide (Imodium), some chemotherapy drugs, and others. Get your Collie DNA tested, always inform your vet, and carry an MDR1 status card. Reputable breeders test for this." },
+    { "q": "How much do Rough Collies shed?", "a": "Very heavily. The abundant double coat sheds moderately year-round and dramatically during two seasonal coat blows (typically spring and fall). Daily brushing is required during shed season; 3–4 times per week otherwise. The mane and collar area mats quickly if neglected. This is a genuine lifestyle commitment — not a breed for owners who want a low-maintenance coat." },
+    { "q": "Are Rough Collies good with children?", "a": "Yes — genuinely and consistently. Collies are patient, gentle, and physically careful around children. They're protective of their family without being territorial or aggressive. This breed is one of the best large-breed options for households with children of any age." }
+  ],
+
+  "related_breeds": [
+    {"name": "Shetland Sheepdog", "slug": "shetland-sheepdog", "note": "Miniature version in many ways, same herding background, even heavier shedder relative to size, excessive barking tendency"},
+    {"name": "Australian Shepherd", "slug": "australian-shepherd", "note": "Higher energy, more intense herding drive, similar coat maintenance demands"},
+    {"name": "Border Collie", "slug": "border-collie", "note": "Significantly more intense herding instinct, highest-drive herding breed, not a family couch dog"},
+    {"name": "Golden Retriever", "slug": "golden-retriever", "note": "Similar family-friendly temperament in a different coat type, retriever not herder background"}
+  ]
+}

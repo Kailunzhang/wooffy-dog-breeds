@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Pomeranian",
+    "shopify_handle": "pomeranian-puppy-checklist",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "name": "Pomeranian Puppy Checklist: What to Do Before and After Bringing One Home",
+    "slug": "pomeranian-puppy-checklist",
+    "excerpt": "A practical checklist for new Pomeranian owners — covering harness requirements, hypoglycemia prevention, dental care, and week-one setup.",
+    "meta_description": "A practical checklist for new Pomeranian owners — covering harness requirements, hypoglycemia prevention, dental care, and week-one setup.",
+    "tags": [
+      "Pomeranian",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pomeranian.JPG/330px-Pomeranian.JPG",
+      "alt": "Pomeranian dog"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before the Puppy Arrives",
+      "heading": "Health Testing and Gear to Have Ready",
+      "html": "<h3>Verify Health Testing on Both Parents</h3><p>Pomeranians are prone to several heritable conditions. Ask for documentation on both parents.</p><ul><li><strong>Patellar luxation evaluation:</strong> OFA orthopedic evaluation on both parents</li><li><strong>Cardiac evaluation:</strong> OFA cardiac certification (Pomeranians are prone to heart disease)</li><li><strong>Eye certification (CAER):</strong> Annual exam on both parents</li><li><strong>Alopecia X / Black Skin Disease:</strong> Ask the breeder whether this condition has appeared in their lines — it cannot be DNA tested but a responsible breeder will know their pedigrees</li></ul><h3>Harness Only — No Collar for Walking</h3><p>Pomeranians are prone to tracheal collapse. Walking on a collar puts pressure directly on the trachea and can worsen this condition. Always use a properly fitted harness. The collar is only for ID tags; never clip a leash to a Pomeranian's collar.</p><h3>Gear Checklist</h3><ul><li>Properly fitted small-breed harness (measure chest girth before ordering)</li><li>Small wire crate or travel crate</li><li>Pin brush and metal comb — start brushing from day one</li><li>Dog-safe enzymatic toothpaste and finger brush — dental care starts week one</li><li>Small-breed puppy food (check with breeder for current food)</li><li>Small, tip-proof food and water bowls</li><li>Dog bed with raised sides for a small breed (provides security)</li><li>Baby gates to prevent stair falls</li><li>Enzymatic cleaner</li><li>ID tag and microchip registration</li></ul>"
+    },
+    "care": {
+      "label": "First Weeks at Home",
+      "heading": "First Vet Visit and Hypoglycemia Prevention",
+      "html": "<h3>First Vet Appointment (Within 72 Hours of Pickup)</h3><ul><li>Full physical exam and vaccine status review</li><li>Set vaccination and deworming schedule</li><li>Discuss small-breed puppy feeding schedule — frequent small meals to prevent hypoglycemia</li><li>Discuss spay/neuter timing — typically 6–12 months for a small breed</li><li>Confirm tracheal health and harness use</li><li>Discuss dental care timeline and professional cleaning expectations</li><li>Get a referral for puppy training classes</li></ul><h3>Hypoglycemia: Frequent Meals in the First Months</h3><p>Small and toy breed puppies cannot store large glycogen reserves and are vulnerable to blood sugar drops if they go too long without eating. Feed a Pomeranian puppy 3–4 small meals daily in the first months of life. Signs of hypoglycemia include lethargy, weakness, wobbly gait, and in severe cases, seizures or loss of consciousness. This is a medical emergency — contact your vet immediately if you see these symptoms.</p><p>Keeping a small tube of Nutri-Cal or corn syrup on hand as an emergency glucose supplement is a common recommendation from vets for toy breed puppy owners.</p><h3>Start Brushing and Tooth Brushing From Day One</h3><p>Both habits should start immediately. Even if the puppy coat is still soft and baby-like, begin brief, positive brushing sessions daily. Start tooth brushing with a finger brush and dog-safe toothpaste from the first week. The habits you build in the first weeks will last the dog's entire life.</p>"
+    },
+    "special": {
+      "label": "Training and Safety",
+      "heading": "Living Safely With a Very Small Dog",
+      "html": "<h3>Big Personality, Fragile Body</h3><p>Pomeranians often do not behave as if they are small — they are bold, confident, and will attempt to challenge dogs many times their size. This personality is part of the breed's charm, but it creates genuine safety risks. Supervise interactions with larger dogs carefully. A play interaction that would be harmless between two medium dogs can injure or kill a Pomeranian. Keep the dog on leash around unfamiliar large dogs and do not allow rough play.</p><h3>Jumping and Falls</h3><p>Pomeranians can injure themselves jumping off furniture. Provide ramps or steps at sofas and beds if the dog is allowed on them. Small dog orthopedic injuries are more common than owners expect — patellar luxation is endemic in this breed, and soft tissue injuries from falls are a veterinary common presentation.</p><h3>Training a Pomeranian</h3><p>Pomeranians are intelligent and trainable, but the breed has a reputation for being difficult to housetrain — partly because accidents in a very small dog are easier to overlook, which inadvertently rewards the behaviour. Commit to a strict housetraining schedule: outside every 2 hours during waking hours, immediately after meals, and first thing in the morning. Reward every outdoor elimination generously. Consistency is the key.</p><ul><li>Enroll in puppy class as early as your vet clears it</li><li>Never allow barking to be rewarded with attention — Pomeranian barking can become problematic if reinforced from puppyhood</li><li>Crate train immediately — it provides safety and prevents accidents when unsupervised</li><li>Prevent small child roughhousing with the puppy — Pomeranians are not appropriate rough-play partners for toddlers</li></ul>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Why should a Pomeranian wear a harness instead of a collar?",
+      "a": "Pomeranians are prone to tracheal collapse — a condition where the rings of the trachea weaken and partially collapse during breathing. Walking on a collar applies direct pressure to the trachea when the dog pulls or when the leash is tugged. A harness distributes pressure across the chest instead. Always use a harness for walks; a collar is only for carrying ID tags."
+    },
+    {
+      "q": "What is hypoglycemia in Pomeranian puppies and how do I prevent it?",
+      "a": "Hypoglycemia is low blood sugar. Very small breed puppies cannot store much glycogen and can experience dangerous blood sugar drops if they go too long without eating — especially during stress, excitement, or cold. Prevent it by feeding 3–4 small meals daily in the first months. Signs include lethargy, wobbliness, or seizures. Keep Nutri-Cal or a glucose supplement on hand and contact your vet immediately if symptoms occur."
+    },
+    {
+      "q": "Are Pomeranians hard to housetrain?",
+      "a": "They have a reputation for being difficult, but the challenge is usually consistency rather than the dog's intelligence. Because they are small, accidents are easy to miss or overlook, which inadvertently reinforces the behaviour. Strict scheduling — outside every 2 hours, after meals, and first thing in the morning — combined with generous rewards for outdoor eliminations works for this breed. Patience and absolute consistency are the requirements."
+    }
+  ]
+}

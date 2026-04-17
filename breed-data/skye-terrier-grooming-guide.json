@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Skye Terrier Grooming Guide",
+    "slug": "skye-terrier-grooming-guide",
+    "shopify_handle": "skye-terrier-grooming-guide",
+    "group": "Skye Terrier",
+    "size_category": "Guide",
+    "tags": ["skye-terrier", "grooming"],
+    "published": true,
+    "published_at": "2026-05-02T16:00:00Z",
+    "excerpt": "The Skye Terrier's floor-length coat is one of the most demanding in the terrier group. This guide covers brushing routines, mat prevention, bathing, and practical options for pet owners who prefer a shorter trim.",
+    "meta_description": "Skye Terrier grooming guide: long coat care, brushing schedule, mat prevention, bathing, and trimming options for this rare Scottish terrier."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Skye_Terrier_600.jpg/330px-Skye_Terrier_600.jpg",
+      "alt": "Skye Terrier grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "The Skye Terrier's Double Coat: Beautiful and Demanding",
+      "html": "<p>The Skye Terrier's coat is one of the most dramatic in the terrier group — a long, flat, hard outer coat that can reach the ground, covering the legs entirely, combined with a dense, woolly undercoat. The head is covered with a soft veil of hair and framed by a substantial beard and mustache. In full show condition, the overall effect is of a flowing curtain of hair that completely obscures the dog's feet.</p><p>This coat is functional — it was designed to protect a working terrier in harsh Highland weather — but maintaining it in the home environment requires real commitment. Pet owners have the option of a shorter maintenance trim that keeps the dog looking tidy without the full show-length grooming requirements.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Brushing, Bathing, and Professional Maintenance",
+      "html": "<p><strong>Brushing:</strong> The Skye Terrier at show length requires brushing several times per week — ideally every other day — to prevent the undercoat from forming mats beneath the longer outer coat. Work in sections from the skin outward using a pin brush, followed by a wide-toothed metal comb. Never brush a dry, dirty coat — mist lightly with a conditioning spray before brushing to reduce breakage. Pay special attention to behind the ears, the armpits, the groin, and the legs where matting is most common.</p><p><strong>Bathing:</strong> Bathe every 4–6 weeks using a gentle shampoo and a conditioning rinse appropriate for long coats. Rinse very thoroughly — residue left in the thick undercoat causes skin irritation and accelerates matting. Blow dry thoroughly; a damp undercoat mats rapidly. Use a slicker brush while drying to prevent tangling as the coat dries.</p><p><strong>Professional Grooming:</strong> Most pet owners benefit from professional grooming every 8–12 weeks for trimming, bathing, and professional de-matting. Find a groomer experienced with long-coated terriers. Show exhibitors will maintain full coat length with regular home grooming between show appointments.</p><p><strong>Short Trim Option:</strong> Many pet owners opt to keep the Skye Terrier trimmed to 2–4 inches of body length, which dramatically reduces brushing frequency. This is a completely valid choice that does not affect the dog's health — only its show eligibility.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Eye Hair, Mat Prevention, and Coat Health",
+      "html": "<p><strong>Eye Hair:</strong> The fall of hair over the Skye Terrier's eyes is a breed characteristic and does not need to be pinned back or trimmed in show dogs. In pet dogs, some owners trim or tie back the facial hair to improve visibility, which is practical and comfortable for the dog.</p><p><strong>Mat Prevention:</strong> The most effective mat prevention is regular brushing frequency. Once mats form in the Skye's dense undercoat, they can be very difficult to remove without cutting. Detangling sprays help, but prevention through routine maintenance is far less stressful for both dog and owner.</p><p><strong>Outdoor Activity:</strong> The long coat picks up debris, burrs, and moisture quickly during outdoor activity. A quick brush-through after each outdoor excursion — before debris has time to mat into the coat — saves significant effort compared to addressing it after the fact.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often must I brush a Skye Terrier?",
+      "a": "At full show length, every other day minimum. At a shorter pet trim, weekly brushing is usually sufficient. The long full coat is genuinely high-maintenance — factor this into your decision about this breed."
+    },
+    {
+      "q": "Is it okay to trim a Skye Terrier's coat short?",
+      "a": "Absolutely, for pet dogs. Trimming the coat to a practical length doesn't harm the dog and dramatically reduces grooming time. Show dogs are maintained at full length, but pet owners have complete freedom to choose a more manageable trim."
+    }
+  ]
+}

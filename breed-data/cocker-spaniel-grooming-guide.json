@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "name": "Cocker Spaniel Grooming Guide",
+    "slug": "cocker-spaniel-grooming-guide",
+    "shopify_handle": "cocker-spaniel-grooming-guide",
+    "group": "Cocker Spaniel",
+    "size_category": "Guide",
+    "tags": ["cocker-spaniel", "grooming", "sporting-group", "high-maintenance-grooming"],
+    "published": true,
+    "published_at": "2026-04-15T16:00:00Z",
+    "excerpt": "Cocker Spaniel grooming is a genuine commitment — daily brushing plus professional grooming every 6–8 weeks. Here's what the routine actually looks like and what it will cost.",
+    "meta_description": "Cocker Spaniel grooming guide: daily brushing routine, professional grooming schedule, ear infection prevention, and realistic cost breakdown."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gessa_d%27Aran_Copo_de_Nieve-_arancio_roano-_prop.Kalesa.jpg/330px-Gessa_d%27Aran_Copo_de_Nieve-_arancio_roano-_prop.Kalesa.jpg",
+      "alt": "Cocker Spaniel grooming"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "Cocker Spaniel Grooming: Beautiful But Demanding",
+      "html": "<p>The Cocker Spaniel's silky, flowing coat is one of the most beautiful in dogdom — and one of the most labor-intensive. That coat tangles, mats, and collects debris constantly. Without daily brushing and regular professional grooming, it becomes a painful, matted mess that requires shaving down.</p><p>Before getting a Cocker Spaniel, honestly assess: can you commit to 10–15 minutes of daily brushing and professional appointments every 6–8 weeks? The cost and time are non-negotiable. Neglect the grooming and you'll have a dog in discomfort and a vet bill for mat removal under sedation.</p><p><strong>Annual professional grooming cost: $500–$900</strong> depending on your location and how clean the coat is when the dog arrives.</p>"
+    },
+    "care": {
+      "label": "Tools & Routine",
+      "heading": "Daily and Weekly Grooming Routine",
+      "html": "<h3>Essential Tools</h3><ul><li><strong>Slicker brush</strong> — daily use for the body, feathering, and ears</li><li><strong>Steel comb (wide and fine tooth)</strong> — follow the brush to catch any remaining tangles</li><li><strong>Detangling spray</strong> — mist before brushing to reduce breakage</li><li><strong>Ear cleaner</strong> — required weekly for infection prevention</li><li><strong>Blunt-tipped scissors</strong> — for occasional touch-up between professional appointments</li></ul><h3>Daily Brushing (10–15 min)</h3><ol><li>Mist the coat lightly with detangling spray</li><li>Work section by section with the slicker brush — body first, then feathering on legs and chest, then ears</li><li>Follow with the steel comb to check for hidden mats</li><li>Pay special attention to the armpits, behind ears, and between toes — prime matting zones</li></ol><h3>Professional Grooming (Every 6–8 Weeks)</h3><p>A professional Cocker clip takes 2–3 hours. Common styles include the traditional show cut (long feathering) and the practical puppy cut (shorter all over, less maintenance between appointments). Most owners prefer the puppy cut for daily life.</p><h3>Ear Care</h3><p>Clean ears weekly with a vet-approved ear cleaner. Cocker Spaniels have long, floppy ears that trap moisture and debris — chronic ear infections are the breed's #1 health issue. Never skip the ears during grooming.</p>"
+    },
+    "special": {
+      "label": "Mat Prevention",
+      "heading": "Preventing and Handling Mats",
+      "html": "<p>Mats form fastest in friction zones: armpits, behind the ears, collar area, and between the toes. A mat that starts small becomes a dense, skin-pulling knot within days if not addressed.</p><h3>Mat Prevention</h3><ul><li>Brush daily without exception — skipping even 2–3 days creates tangles</li><li>Detangling spray makes brushing faster and less uncomfortable for the dog</li><li>Check friction zones (armpits, collar area) every time you brush</li></ul><h3>Removing Small Mats</h3><ol><li>Never pull. Apply detangling spray and let it sit for 2 minutes.</li><li>Hold the mat at the base (closest to skin) to avoid pulling the skin</li><li>Work through the outer edges with your fingers, then a wide-tooth comb</li><li>Use a mat splitter for dense mats — never scissors near the skin</li></ol><h3>When to Go to the Groomer</h3><p>If the mat won't release after patient work, take the dog to a professional. A matted coat often requires shaving under sedation at the vet — painful for the dog and expensive. Staying on schedule prevents this entirely.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does a Cocker Spaniel need professional grooming?",
+      "a": "Every 6–8 weeks. Some owners stretch to 10 weeks with a shorter puppy cut and very diligent daily brushing. Going longer than 10 weeks risks mat accumulation that requires shaving."
+    },
+    {
+      "q": "Can I groom my Cocker Spaniel at home instead of using a groomer?",
+      "a": "Daily brushing must be done at home regardless. Full professional-style trims require skill and proper tools — most owners hire a groomer for cuts and handle brushing themselves. Learning to do basic trims takes practice; YouTube tutorials for the 'Cocker puppy cut' are a good starting point."
+    },
+    {
+      "q": "Why does my Cocker Spaniel keep getting ear infections?",
+      "a": "Long floppy ears trap moisture, warmth, and debris — ideal conditions for yeast and bacteria. Clean ears weekly with a vet-approved ear cleaner. Plucking the hair inside the ear canal (done by the groomer) also helps with airflow."
+    },
+    {
+      "q": "What's the easiest Cocker Spaniel haircut to maintain?",
+      "a": "The puppy cut — shorter all over, with trimmed (not flowing) feathering on the legs and ears. It significantly reduces matting and makes daily brushing faster."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Icelandic Sheepdog First Year Costs",
+    "slug": "icelandic-sheepdog-first-year-costs",
+    "shopify_handle": "icelandic-sheepdog-first-year-costs",
+    "group": "Icelandic Sheepdog",
+    "size_category": "Guide",
+    "tags": ["icelandic-sheepdog", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-05-04T16:00:00Z",
+    "excerpt": "The Icelandic Sheepdog is a rare breed in the US with moderate ongoing ownership costs. This guide covers first-year expenses and annual budget for Iceland's cheerful native herding dog.",
+    "meta_description": "Icelandic Sheepdog first year costs: puppy price, food, vet care, and annual expenses for this Nordic Herding breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Icelandic_Sheepdog_Alisa_von_Lehenberg.jpg/330px-Icelandic_Sheepdog_Alisa_von_Lehenberg.jpg",
+      "alt": "Icelandic Sheepdog cost guide"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Rare Breed Acquisition",
+      "html": "<ul><li><strong>Puppy from health-tested breeder:</strong> $1,500–$2,500. Health testing includes OFA hips/elbows and CAER eye certification.</li><li><strong>Initial vet visit and puppy vaccines:</strong> $150–$350</li><li><strong>Spay or neuter:</strong> $250–$500</li><li><strong>Crate (large):</strong> $70–$150</li><li><strong>Bowls, collar, leash, ID tag:</strong> $60–$130</li><li><strong>Small-to-medium breed puppy food (first months):</strong> $70–$140</li><li><strong>Puppy classes:</strong> $100–$200</li><li><strong>Grooming tools:</strong> $50–$90</li></ul><p><strong>Upfront total estimate:</strong> $2,250–$4,060</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Moderate Ongoing Costs",
+      "html": "<ul><li><strong>Food:</strong> $55–$90/month. Annual: $660–$1,080.</li><li><strong>Routine vet visits and vaccines:</strong> $250–$450</li><li><strong>Heartworm/parasite prevention:</strong> $90–$180/year</li><li><strong>Pet insurance:</strong> $30–$55/month. Annual: $360–$660.</li><li><strong>Grooming (occasional professional blowout):</strong> $60–$100 x 2/year: $120–$200</li><li><strong>Toys and enrichment:</strong> $80–$180/year</li></ul><p><strong>First-year recurring total (with insurance):</strong> $1,560–$2,750</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "Year One and Annual Budget",
+      "html": "<p><strong>Total first-year estimate (with insurance):</strong> $3,810–$6,810</p><p><strong>Annual ongoing costs after year one:</strong></p><ul><li>Food: $660–$1,080</li><li>Routine vet: $200–$400</li><li>Parasite prevention: $90–$180</li><li>Pet insurance: $360–$720</li><li>Grooming: $120–$200</li><li>Miscellaneous: $100–$200</li></ul><p><strong>Estimated annual ongoing total:</strong> $1,530–$2,780</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Icelandic Sheepdog expensive to own?",
+      "a": "Moderate cost overall. The main premium is the rarity of the breed at purchase. Ongoing costs are reasonable for a medium-sized active dog."
+    },
+    {
+      "q": "Do Icelandic Sheepdogs need expensive grooming?",
+      "a": "Not regularly. Home brushing is the primary maintenance. Occasional professional blowouts during shedding season are helpful but not required."
+    },
+    {
+      "q": "Should I get pet insurance for an Icelandic Sheepdog?",
+      "a": "Yes. Hip dysplasia, hereditary cataracts, and eye conditions can all generate significant treatment costs. Enroll as a healthy puppy."
+    }
+  ]
+}

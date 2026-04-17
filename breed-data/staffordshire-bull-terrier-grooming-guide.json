@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Staffordshire Bull Terrier Grooming Guide",
+    "slug": "staffordshire-bull-terrier-grooming-guide",
+    "shopify_handle": "staffordshire-bull-terrier-grooming-guide",
+    "group": "Staffordshire Bull Terrier",
+    "size_category": "Guide",
+    "tags": ["staffordshire-bull-terrier", "grooming", "short-coat", "low-maintenance", "rubber-mitt"],
+    "published": true,
+    "published_at": "2026-04-17T16:00:00Z",
+    "excerpt": "The Staffordshire Bull Terrier's short, smooth coat is one of the lowest-maintenance coats in the dog world. A rubber mitt weekly, nail trims monthly, and ear checks regularly covers everything.",
+    "meta_description": "Staffordshire Bull Terrier grooming guide: minimal short coat maintenance, rubber mitt technique, ear cleaning, dental care, and keeping a smooth coat healthy without professional grooming."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%D7%A1%D7%90%D7%98%D7%A3_%D7%90%D7%A0%D7%92%D7%9C%D7%99.jpg/330px-%D7%A1%D7%90%D7%98%D7%A3_%D7%90%D7%A0%D7%92%D7%9C%D7%99.jpg",
+      "alt": "Staffordshire Bull Terrier grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Stafford Coat",
+      "heading": "The Simplest Coat in the Terrier Group",
+      "html": "<p>The Staffordshire Bull Terrier has a short, smooth, close-lying coat that requires almost no grooming work. There is no undercoat to blow, no furnishings to mat, no scissoring required. The coat is the breed's greatest practical advantage for owners who want a low-maintenance companion.</p><h3>Grooming Tools You'll Need</h3><ul><li>Rubber grooming mitt or rubber curry brush — primary tool</li><li>Soft bristle brush — optional finishing tool</li><li>Dog ear cleaning solution and cotton balls</li><li>Nail clippers or nail grinder</li><li>Dog-safe shampoo</li><li>Dental supplies (toothbrush and dog toothpaste)</li></ul><h3>What You Won't Need</h3><p>No professional grooming appointments are needed for coat maintenance. No slicker brushes, undercoat rakes, or dematting tools are relevant to this coat type. The investment for a Stafford is in occasional baths, weekly mitt sessions, and routine health maintenance (nails, ears, teeth) — nothing more.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Go over the entire coat with the rubber grooming mitt — use circular motions that lift loose hair and stimulate the skin. This takes 5–10 minutes and removes most of the shed hair before it ends up on furniture</li><li>Follow with a soft bristle brush for a finished look (optional)</li><li>Wipe the face with a damp cloth — especially around the muzzle and eyes if any discharge is present</li></ul><h3>Monthly</h3><ul><li>Bathe when dirty — Staffords don't need frequent bathing; every 4–8 weeks or on demand is typical. Use a dog-appropriate shampoo. The short coat dries quickly</li><li>Nail trims: check length every 2–3 weeks, trim when clicking is heard on hard floors. Most Staffords need nails trimmed monthly. Overgrown nails affect gait and joint comfort — especially in an active, athletic breed</li><li>Ear cleaning: wipe the visible outer ear canal with a cotton ball dampened with ear cleaning solution. Do not insert anything into the ear canal. If you notice odor, discharge, redness, or the dog shaking its head, see your vet — this is infection, not dirt</li></ul><h3>Dental Care</h3><p>Daily tooth brushing with dog toothpaste is ideal; 3–4 times per week is the practical minimum for most households. Dental disease is the most common preventable health problem in all dog breeds, and Staffords are no exception. Dental chews and water additives supplement but don't replace brushing.</p>"
+    },
+    "special": {
+      "label": "Skin and Coat Health",
+      "heading": "Keeping the Short Coat Healthy",
+      "html": "<p>While the Stafford coat requires minimal grooming work, the short length means skin conditions are visible early. Use weekly mitt sessions as a health scan as much as a grooming session.</p><h3>What to Check During Grooming</h3><ul><li>Lumps or bumps — check for anything new or changing monthly</li><li>Skin redness, rashes, or areas of hair loss — Staffords can develop skin allergies that manifest as hot spots or recurring redness in the belly, armpits, and between the toes</li><li>Ear odor or discharge — check weekly</li><li>Eye discharge — wipe clean; persistent or colored discharge warrants a vet visit</li></ul><h3>Handling Desensitization</h3><p>The Stafford's physical build — muscular, strong, confident — means a dog that resists handling can be difficult to manage. Establish handling tolerance from puppyhood:</p><ul><li>Touch paws, ears, mouth, and belly daily from the first day</li><li>Associate nail trims with high-value treats from the start — this makes monthly nail maintenance manageable for the lifetime of the dog</li><li>Make the rubber mitt session a positive experience with praise and rewards initially</li></ul>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Do Staffordshire Bull Terriers need professional grooming?",
+      "a": "No — the short, smooth coat requires no professional services for maintenance. Bathing at home is straightforward given how quickly the coat dries. The grooming investment for a Stafford is time (weekly mitt session) and routine maintenance supplies, not recurring professional appointments."
+    },
+    {
+      "q": "How much do Staffords shed?",
+      "a": "Moderately year-round — the short hairs are short and prickly and tend to embed into fabric rather than float around. A weekly rubber mitt session before hair settles onto furniture reduces the amount that ends up on clothes and upholstery significantly. Staffords are not a good choice for strictly allergy-conscious households, but the shedding is manageable with regular maintenance."
+    },
+    {
+      "q": "What skin issues do Staffords commonly develop?",
+      "a": "Allergic skin conditions — environmental and food allergies — appear at above-average rates in the breed. Signs include recurring redness, paw licking, ear infections, and belly rash. The short coat makes these signs easy to spot early. If you notice persistent skin redness or the dog constantly licking its paws, see your vet before the problem escalates — early management is much more effective than treating an established chronic allergy."
+    }
+  ]
+}

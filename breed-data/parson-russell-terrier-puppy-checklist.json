@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Parson Russell Terrier Puppy Checklist",
+    "slug": "parson-russell-terrier-puppy-checklist",
+    "shopify_handle": "parson-russell-terrier-puppy-checklist",
+    "group": "Parson Russell Terrier",
+    "size_category": "Guide",
+    "tags": ["parson-russell-terrier", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-04-28T16:00:00Z",
+    "excerpt": "Bringing home a Parson Russell Terrier puppy? Use this checklist to prepare your home, start socialization, and begin training this fearless, athletic little hunting terrier.",
+    "meta_description": "Parson Russell Terrier puppy checklist: home prep, supplies, socialization, and training tips for new owners of this bold and energetic fox-hunting terrier."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Parson_Russell_Terrier_600.jpg/330px-Parson_Russell_Terrier_600.jpg",
+      "alt": "Parson Russell Terrier"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Preparing for a Parson Russell Terrier Puppy",
+      "html": "<p>Parson Russell Terrier puppies are small, fast, fearless, and perpetually curious. Preparation before arrival saves you significant stress in the first week.</p><ul><li><strong>Secure the fence thoroughly.</strong> Parson Russells are athletic and motivated hunters. Check fence height (minimum 5 feet), check every ground-level gap, and bury wire mesh if digging-under is a concern. Underground electric fences are not appropriate for a dog with this prey drive — a running squirrel will motivate the dog to run through a shock.</li><li><strong>Puppy-proof comprehensively.</strong> Everything at ground level is interesting. Secure cords, remove toxic plants, block access to unsafe areas with baby gates.</li><li><strong>Gather supplies:</strong><ul><li>24–30 inch crate with divider</li><li>Small washable dog bed</li><li>Adjustable small collar and ID tag</li><li>4–6 foot leash (no retractable)</li><li>No-pull harness</li><li>Small stainless steel food and water bowls</li><li>Appropriate brush (rubber mitt for smooth, slicker for rough/broken)</li><li>Small nail clippers</li><li>Enzymatic cleaner</li><li>Durable toys (tug toys, tennis balls, rope toys, Kongs)</li><li>Flirt pole for energy burning</li><li>High-value soft training treats</li></ul></li><li><strong>Research earthdog and agility clubs.</strong> If you're interested in dog sports — and you should be with this breed — find local clubs before the puppy arrives.</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "The Parson Russell Puppy's First Week",
+      "html": "<p>The first week is about establishing routine, beginning crate training, and starting socialization before the critical window closes.</p><ul><li><strong>Crate training from day one.</strong> Feed all meals in the crate, use stuffed Kongs for crate time, practice door-closed sessions multiple times daily. Parsons accept crates well when introduced with positive associations.</li><li><strong>Establish a toilet schedule.</strong> Outside every 1–2 hours, after meals, after naps, after play. Supervise continuously indoors. Parsons are trainable but take consistent follow-through to housetrain.</li><li><strong>Start socialization immediately.</strong> After first vaccines, begin careful socialization outings. Parsons need extensive early exposure to different people, sounds, and environments to develop into confident, well-mannered adults.</li><li><strong>Begin name training and focus exercises.</strong> Name recognition and eye contact ('watch me') are the foundation behaviors for managing a prey-drive dog. Start these from day one.</li><li><strong>Set clear exercise boundaries.</strong> Short, frequent play sessions rather than one long intense session protect developing joints. No running on hard surfaces until at least 12 months.</li></ul>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Training Your Parson Russell Terrier Puppy",
+      "html": "<p>Training a Parson Russell requires specific strategies to work with — not against — the breed's hunting instincts and independent nature.</p><ul><li><strong>Socialization is priority one.</strong> Expose the puppy to every type of person, environment, surface, sound, and animal (in controlled settings) possible before 16 weeks. This is the most impactful thing you can do for your Parson's long-term behavior.</li><li><strong>Manage prey drive from day one.</strong> Teach 'leave it' and 'watch me' as early priority behaviors. Practice these around moving objects, birds, and squirrels on leash. Never practice off-leash recall near prey animals — it builds a failure history that undermines the behavior.</li><li><strong>Use very high-value rewards.</strong> Kibble won't motivate a Parson in a stimulating environment. Use small pieces of cooked chicken, cheese, or hot dog. Reserve these for high-distraction scenarios.</li><li><strong>Keep sessions very short.</strong> 3–5 minutes per session, multiple times daily. End before the puppy loses interest.</li><li><strong>Start sport foundations early.</strong> Agility foundation work (target training, tunnel introduction), nose work, and earthdog instinct testing can all begin at 8–10 weeks. Building sport skills early creates a brilliant performance dog and an excellent outlet for this breed's energy.</li><li><strong>Accept the limits of recall.</strong> Be realistic: Parson Russells in the presence of prey may not come when called, regardless of training. Plan your management (leashes, fences) accordingly and train recall extensively in non-prey-stimulus environments.</li></ul>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How do I exercise a Parson Russell Terrier puppy safely?",
+      "a": "Short, frequent play sessions of 10–15 minutes multiple times daily are ideal for puppies under 12 months. Avoid long runs or high-impact jumping until growth plates close. Mental stimulation through training and puzzle feeders can supplement physical exercise safely."
+    },
+    {
+      "q": "At what age should I start agility with my Parson Russell Terrier puppy?",
+      "a": "Foundation work (target training, tunnel basics, body awareness exercises) can begin at 8–10 weeks. Full agility with jumps should wait until growth plates have closed, typically 12–18 months. Many clubs offer puppy agility classes that focus on foundations without jump height demands."
+    },
+    {
+      "q": "How do I stop my Parson Russell Terrier puppy from digging?",
+      "a": "Provide an acceptable digging outlet — a sandbox with buried toys is ideal. Redirect digging in forbidden areas and block access when unsupervised. Management is more effective than trying to eliminate this deep-seated hunting instinct entirely."
+    }
+  ]
+}

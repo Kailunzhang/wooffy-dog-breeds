@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "name": "Irish Setter Grooming Guide",
+    "slug": "irish-setter-grooming-guide",
+    "shopify_handle": "irish-setter-grooming-guide",
+    "group": "Irish Setter",
+    "size_category": "Guide",
+    "tags": ["irish-setter", "grooming", "feathered-coat", "silky-coat", "ear-cleaning"],
+    "published": true,
+    "published_at": "2026-04-21T16:00:00Z",
+    "excerpt": "The Irish Setter's mahogany feathered coat is lower maintenance than it looks — weekly brushing of the feathering areas and regular ear cleaning covers most of it. No professional grooming required.",
+    "meta_description": "Irish Setter grooming guide: weekly brushing routine for the feathered coat, ear cleaning protocol for long drop ears, bathing schedule, and feathering trim options."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Can_Setter_dog_GFDL.jpg/330px-Can_Setter_dog_GFDL.jpg",
+      "alt": "Irish Setter grooming guide"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "The Irish Setter Coat",
+      "heading": "A Feathered Coat That's Less Work Than It Looks",
+      "html": "<p>The Irish Setter's coat is silky, flat, and moderately feathered on the ears, chest, belly, legs, and tail. It's a single coat without a heavy undercoat, which means it doesn't blow coat in the same dramatic way that double-coated breeds do. The mahogany color also doesn't show staining the way white coats do. Weekly brushing, regular ear cleaning, and occasional baths are the core routine.</p><h3>Grooming Tools</h3><ul><li>Pin brush — primary tool for the feathering areas</li><li>Wide-tooth steel comb — for checking through feathering after brushing</li><li>Slicker brush — optional finishing tool</li><li>Dog ear cleaning solution and cotton balls</li><li>Dog-safe shampoo and conditioner</li></ul>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming",
+      "html": "<h3>Weekly Brushing</h3><p>Focus the weekly brushing session on the feathering areas where tangles form: behind the ears, on the chest, under the belly, on the backs of the legs, and along the tail. The body coat stays fairly smooth on its own. Work through each feathering area with the pin brush, then run the wide-tooth comb through to check for remaining tangles.</p><h3>Ear Cleaning — The Most Important Routine</h3><p>The Irish Setter's long, drop ears limit airflow and accumulate moisture and wax — chronic ear infections are common and preventable with regular cleaning. Clean the outer ear canal with a veterinarian-recommended ear cleaning solution and cotton balls weekly or every other week. Signs of a developing infection: head shaking, ear scratching, odor, or discharge. These require veterinary treatment, not just more cleaning.</p><h3>Bathing and Feathering Trim</h3><p>Bathe every 6–8 weeks or when dirty. Conditioner on the feathering areas reduces future tangle formation. Some owners trim the feathering occasionally to reduce maintenance; this is cosmetic and optional. The coat does not need professional grooming for maintenance — occasional trims of the feathering can be done at home with scissors or by a groomer on an ad hoc basis.</p>"
+    },
+    "special": {
+      "label": "Managing the Long-Coated Sporting Dog",
+      "heading": "Practical Tips for a Field Dog Coat",
+      "html": "<p>Irish Setters who spend time in the field collect burrs, seeds, and debris in the feathering. Check and remove debris after outdoor exercise before it works into mats. A thorough brushing session after any dense-cover exercise prevents the accumulation that becomes a grooming problem.</p><h3>Handling From Puppyhood</h3><p>Start brushing and handling from day one. The feathering that requires brushing as an adult isn't present in the puppy, but the tolerance for handling that makes adult grooming manageable is built in puppyhood. Daily brief handling of ears, paws, and mouth creates a dog that accepts veterinary and grooming procedures without resistance.</p>"
+    }
+  },
+  "faq": [
+    {"q": "Do Irish Setters need professional grooming?", "a": "Not for regular maintenance. The silky feathered coat is manageable at home with weekly brushing. Some owners use a groomer occasionally for a feathering trim or a thorough bath and blow-dry, but there's no required professional appointment schedule like double-coated or curly-coated breeds."},
+    {"q": "How often should I clean my Irish Setter's ears?", "a": "Every 1–2 weeks minimum. The long drop ears create conditions for chronic infection — limited airflow and moisture accumulation. Regular cleaning is the prevention. If your dog develops ear infections despite regular cleaning, discuss with your vet whether the ear canal anatomy needs evaluation."}
+  ]
+}

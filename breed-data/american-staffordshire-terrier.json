@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "name": "American Staffordshire Terrier",
+    "slug": "american-staffordshire-terrier",
+    "shopify_handle": "american-staffordshire-terrier",
+    "group": "Terrier Group",
+    "size_category": "Medium Breed",
+    "tagline": "The American Staffordshire Terrier is athletic, loyal, and people-loving — with a joyful temperament that catches people off guard. Check breed-specific legislation in your area before purchasing, and socialize thoroughly from puppyhood.",
+    "tags": ["terrier-group", "medium-breed", "loyal", "athletic", "bsl-affected", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-16T16:00:00Z",
+    "excerpt": "AmStaffs are strong, athletic, and devoted family dogs with a genuinely joyful nature. The practical realities: check breed-specific legislation in your municipality before purchasing, and understand what early socialization actually requires for a breed-selective breed.",
+    "meta_description": "American Staffordshire Terrier breed guide: real temperament, BSL legislation awareness, health screening, training approach, and what daily life with an AmStaff looks like."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "40–70 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–16 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Very Low" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good with family" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Research required" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/AMERICAN_STAFFORDSHIRE_TERRIER%2C_Zican%E2%80%99s_Bz_Ez_Dragon_%2824208348891%29.2.jpg/330px-AMERICAN_STAFFORDSHIRE_TERRIER%2C_Zican%E2%80%99s_Bz_Ez_Dragon_%2824208348891%29.2.jpg",
+      "alt": "American Staffordshire Terrier"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is an American Staffordshire Terrier?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The American Staffordshire Terrier (AmStaff) is a medium-sized terrier group breed with origins in 19th-century England, developed from Bulldog and Terrier crosses. Imported to America and developed further into a slightly larger type than the British Staffordshire Bull Terrier, the breed was AKC-registered in 1936. The AmStaff and American Pit Bull Terrier share common ancestry and are nearly identical to the untrained eye, though they're maintained as separate registries.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The actual temperament of the breed is frequently at odds with its public reputation. AmStaffs are typically people-oriented, joyful, and affectionate to an extent that surprises those expecting a difficult dog. The AKC breed standard explicitly describes them as \"keenly alive to surroundings\" and \"extremely courageous\" — and adds that they should be \"friendly toward people.\"</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Two practical realities to address upfront: breed-specific legislation (BSL) restricts or bans AmStaffs and similar breeds in numerous US municipalities, Canadian provinces, and international jurisdictions. Check your local laws before purchasing. Second: dog-selectivity or dog-aggression is a real breed tendency that requires management, even in a well-socialized dog.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What AmStaffs Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Medium-sized and powerfully muscled — 40–70 lbs in a compact, athletic frame. The head is broad with a distinct stop, and the jaw is strong. Eyes are dark and round; ears may be natural (half-prick or rose) or cropped. The body is compact and well-muscled, with a short back and a low-set tail.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The short coat accepts all colors and color combinations except solid white, more than 80% white, black and tan, and liver — which are penalized in showing. The coat is essentially zero-maintenance. Shedding is minimal to moderate.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">People-oriented and affectionate — AmStaffs generally regard strangers as potential friends and family members as primary responsibilities. They're enthusiastic greeters, physically expressive (full-body wag is common), and comfortable in social environments when well-socialized. With their own family, the loyalty runs deep.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family children: typically very good — patient, playful, and protective. The main consideration is the breed's athletic build and enthusiasm; supervision with toddlers is practical. Many AmStaffs are particularly gentle with children in their household.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With other dogs: this is the area requiring the most management. AmStaffs can be dog-selective — comfortable with some dogs and not others — or outright dog-aggressive, particularly same-sex. This tendency is breed background, not individual failure. Early socialization reduces its expression but doesn't eliminate the instinct. Multi-dog households require careful management and individual assessment.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About an AmStaff",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">AmStaffs are genuinely wonderful dogs in the right context. Their people-loving nature, athletic capability, and affectionate personality make them excellent companions for active, experienced households. They're not difficult dogs in most respects — they're trainable, they want to please, and they're less stubborn than many other terriers.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The BSL issue is real and consequential. Before purchasing an AmStaff, check your city, county, and HOA regulations. Many insurance policies exclude breeds on BSL lists. Some rental agreements prohibit them. Moving with an AmStaff to a BSL jurisdiction can force a genuinely agonizing choice. Know this before you're in that position.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The management requirement is ongoing, not a puppy-phase thing. A well-socialized AmStaff may be fine with most dogs for years — and then have a serious incident with a specific dog. Management practices (no off-leash dog parks, careful introductions, awareness of body language) need to be maintained throughout the dog's life, not phased out after a successful socialization period.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of vigorous exercise daily. AmStaffs are athletic and need real outlets — running, fetch, training sessions, weight pull, or agility. A securely fenced yard is strongly recommended. On-leash walks are required in unfenced areas; the breed should not be trusted off-leash in unfenced environments given prey drive and potential dog reactivity.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Extremely low maintenance — weekly brushing, bath every 6–8 weeks, nails monthly. The short coat sheds minimally. See the <a href=\"/blogs/dog-breeds/american-staffordshire-terrier-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">AmStaff grooming guide</a>.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Intelligent and motivated by positive reinforcement — AmStaffs learn quickly when engaged. Puppy classes from 8–12 weeks are important for socialization and basic structure. Core commands should be solid before the dog reaches adult size. Many AmStaffs excel at canine sports including agility, nose work, and weight pull. The breed responds particularly well to training that feels like play.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">AmStaffs are generally healthy with good lifespans (12–16 years). Primary health concerns are orthopedic and dermatological.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint causing arthritis and pain. OFA or PennHIP screening in breeding stock. Given the breed's athletic use, soundness of hips is important to verify in breeding animals.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Atopic Dermatitis</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Environmental allergy causing itching, skin inflammation, and secondary infections. Common in the breed. Managed with antihistamines, medicated baths, or veterinary immunotherapy in moderate to severe cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Congenital Heart Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Cardiac defects occur at elevated rates. OFA cardiac screening recommended in breeding stock. Ask breeders for cardiac clearances for both parents.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Cerebellar Ataxia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Rare neurological condition causing coordination problems. DNA test available for the specific mutation identified in the breed. Reputable breeders test.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA cardiac, CAER eye, cerebellar ataxia DNA test clearances.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$2,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,450–$5,050</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,400–$2,600</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/american-staffordshire-terrier-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full AmStaff first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is an American Staffordshire Terrier Right for You?",
+      "good_fit": [
+        "Active, experienced owners who understand dog-selective breeds",
+        "Households that have verified no BSL restrictions in their area",
+        "Families with children who want a devoted, athletic companion",
+        "Owners committed to early socialization and ongoing management",
+        "Those who want a trainable, people-loving breed with low grooming needs"
+      ],
+      "not_fit": [
+        "Anyone in a BSL-affected municipality, rental with breed restrictions, or HOA with exclusions",
+        "Multi-dog households without experience managing dog-selective breeds",
+        "First-time dog owners without access to experienced training support",
+        "Owners expecting reliable off-leash freedom outside fenced areas",
+        "Those wanting a breed that requires minimal active management"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your American Staffordshire Terrier",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$2,000 from health-testing breeders. Required clearances: OFA hip, OFA cardiac, CAER eye, cerebellar ataxia DNA test. The Staffordshire Terrier Club of America maintains breeder referral information. Confirm both parents have been health-tested before committing to a puppy.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Breed-specific and general rescues have many AmStaffs and similar dogs. Common surrender reasons include housing changes (BSL, landlord restrictions) and underestimated exercise needs. Experienced breed owners make the best rescuers. Always confirm no BSL applies in your location before adopting.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your AmStaff comes home, complete the <a href=\"/blogs/dog-breeds/american-staffordshire-terrier-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">AmStaff puppy checklist</a> — BSL verification, insurance enrollment, and puppy class reservation are the critical first steps.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "What is BSL and does it affect American Staffordshire Terriers?", "a": "Breed-specific legislation (BSL) restricts or bans certain breeds — typically 'pit bull type' dogs that include AmStaffs — in specific municipalities, counties, states, or countries. BSL affects ownership rights, insurance coverage, housing options, and travel. Check your city, county, and HOA rules before purchasing. The ASPCA and many breed organizations maintain BSL databases." },
+    { "q": "Are American Staffordshire Terriers the same as pit bulls?", "a": "The term 'pit bull' is informal and applied to several breeds and mixed-breed dogs. The AmStaff and American Pit Bull Terrier share common ancestry and are nearly identical in appearance, though maintained as separate registries. In legal and BSL contexts, AmStaffs are frequently classified as 'pit bull type' dogs regardless of formal AKC registration." },
+    { "q": "Are AmStaffs good family dogs?", "a": "Yes, for the right family. With their own family, AmStaffs are typically devoted, affectionate, and good with children. They're loyal and protective without aggression toward people. The management requirement is around other dogs and consistent training — with those in place, they make outstanding family companions for experienced, active households." },
+    { "q": "How long do American Staffordshire Terriers live?", "a": "12–16 years — one of the better lifespans among medium breeds. This is one area where the breed compares favorably. Individual health depends on genetic background, weight management, and preventive care. The better lifespans are part of why many people who love the breed commit to them fully." }
+  ],
+
+  "related_breeds": [
+    {"name": "Bull Terrier", "slug": "bull-terrier", "note": "More stubborn and individualistic, distinctive egg-shaped head, terrier group sibling"},
+    {"name": "Staffordshire Bull Terrier", "slug": "staffordshire-bull-terrier", "note": "Smaller British cousin, similarly people-loving, smaller athletic frame"},
+    {"name": "Boxer", "slug": "boxer", "note": "Working group, comparable family-orientation, brachycephalic, easier compliance"},
+    {"name": "Labrador Retriever", "slug": "labrador-retriever", "note": "No BSL concerns, similar family energy, easier first-time owner breed"}
+  ]
+}

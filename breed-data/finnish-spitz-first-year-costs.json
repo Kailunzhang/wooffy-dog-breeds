@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Finnish Spitz First Year Costs",
+    "slug": "finnish-spitz-first-year-costs",
+    "shopify_handle": "finnish-spitz-first-year-costs",
+    "group": "Finnish Spitz",
+    "size_category": "Guide",
+    "tags": ["finnish-spitz", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-05-01T16:00:00Z",
+    "excerpt": "The Finnish Spitz is a rare breed that can be harder to find from a reputable breeder. Here's a full first-year cost breakdown for prospective owners.",
+    "meta_description": "Finnish Spitz first year costs: puppy price, vet care, food, grooming supplies, and annual budget for new Finnish Spitz owners."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Finnish_Spitz_Aske.JPG/330px-Finnish_Spitz_Aske.JPG",
+      "alt": "Finnish Spitz costs"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Initial Costs for a Finnish Spitz",
+      "html": "<p><strong>Puppy Price:</strong> Finnish Spitz puppies from health-tested, reputable breeders typically cost $1,200–$2,000. The breed is relatively rare in North America, and wait lists of 6–18 months are common with responsible breeders. Be cautious of unusually cheap puppies — they often come without health testing.</p><p><strong>Supplies:</strong> Budget $200–$350 for a medium-sized crate, dog bed, food and water bowls, collar, harness, leash, ID tag, toys, and a quality grooming kit (slicker brush, undercoat rake, metal comb, de-shedding tool). The grooming investment is higher for a double-coated Nordic breed than for smooth-coated dogs.</p><p><strong>Spay/Neuter:</strong> $200–$500 depending on sex and location.</p><p><strong>Initial Vet Visits:</strong> A puppy wellness series including exams, vaccines, fecal testing, and parasite prevention setup runs $300–$500 in the first few months.</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Food, Grooming, and Veterinary Costs",
+      "html": "<p><strong>Food:</strong> A medium-breed adult Finnish Spitz eats approximately $45–$65 worth of high-quality kibble per month, totaling $540–$780 for the year. Puppies may cost slightly more due to higher caloric density food.</p><p><strong>Grooming:</strong> Most grooming is done at home, keeping costs low. Budget for an initial grooming tool kit ($80–$150). During the twice-yearly shedding season, a professional de-shedding bath is useful at $50–$80 per session — so $100–$160 per year. Occasional professional nail grinding adds another $15–$25 per visit.</p><p><strong>Veterinary Care:</strong> Routine wellness, booster vaccines, heartworm prevention, and flea/tick prevention total $400–$700 for the first full year. Pet insurance for a medium-breed dog runs $35–$60/month and is recommended.</p><p><strong>Training:</strong> A quality puppy class runs $100–$250. The Finnish Spitz's independent nature benefits from positive, force-free training approaches. Consider a trainer experienced with Nordic breeds.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Lifetime Budget",
+      "html": "<p><strong>Estimated First Year Total:</strong> $3,000–$5,500 including puppy price and all first-year expenses. The breed's rarity means the purchase price is often toward the higher end.</p><p><strong>Annual Costs After Year One:</strong> Approximately $1,500–$2,500 per year for food, routine vet care, grooming, and supplies. The long 13–15 year lifespan means lower-than-average lifetime replacement frequency.</p><p><strong>Lifetime Estimate:</strong> $22,000–$38,000 over a 13–15 year lifespan, depending on health, location, and care choices.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Why are Finnish Spitz puppies so hard to find?",
+      "a": "The breed is genuinely rare in North America. There are relatively few responsible breeders, and litter sizes are modest. Reputable breeders often have wait lists. This is a breed where patience and thorough research before committing to a breeder are especially important."
+    },
+    {
+      "q": "Are there Finnish Spitz rescue dogs available?",
+      "a": "Occasionally. Nordic breed rescue organizations sometimes have Finnish Spitz and Finnish Spitz mixes available. Check with the Finnish Spitz Club of America and national Nordic breed rescues. Rescue adoption fees are typically $200–$400."
+    }
+  ]
+}

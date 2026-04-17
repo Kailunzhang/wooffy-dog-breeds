@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "name": "Icelandic Sheepdog",
+    "slug": "icelandic-sheepdog",
+    "shopify_handle": "icelandic-sheepdog",
+    "group": "Herding",
+    "size_category": "Medium",
+    "tags": ["icelandic-sheepdog", "herding", "medium"],
+    "published": true,
+    "published_at": "2026-05-04T16:00:00Z",
+    "excerpt": "The Icelandic Sheepdog is Iceland's only native breed and one of the oldest herding dogs in the world. Cheerful, energetic, and people-oriented, this spitz-type herder is an exceptional family companion for active households.",
+    "meta_description": "Icelandic Sheepdog breed guide: temperament, double coat care, herding heritage, and costs. Iceland's only native breed — cheerful, loyal, and people-focused."
+  },
+  "stats": {
+    "height": "16.5–18 inches",
+    "weight": "25–30 lbs",
+    "lifespan": "12–14 years",
+    "energy_level": "High",
+    "grooming_needs": "Moderate",
+    "good_with_kids": true,
+    "good_with_other_dogs": true,
+    "shedding": "High",
+    "trainability": "Easy"
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Icelandic_Sheepdog_Alisa_von_Lehenberg.jpg/330px-Icelandic_Sheepdog_Alisa_von_Lehenberg.jpg",
+      "alt": "Icelandic Sheepdog"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "Iceland's National Breed and Tireless Cheerful Herder",
+      "html": "<p>The Icelandic Sheepdog — Íslenskur fjárhundur in Icelandic — is the only dog breed native to Iceland and one of the oldest herding breeds in the world. Descended from dogs brought to Iceland by Norse settlers over 1,100 years ago, the breed developed in near-total isolation on the island, adapting to Iceland's rugged volcanic terrain, unpredictable weather, and specific demands of shepherding in that unique landscape. Icelandic sheep are semi-wild and ranged freely on the open highland pastures during summer, requiring dogs that could work independently across vast distances, drive sheep down from mountain slopes in autumn, and alert farmers to approaching danger.</p><p>The Icelandic Sheepdog is a spitz-type breed of medium size with a thick double coat, a tail that curls over the back, and a bright, foxy face framed by medium-sized erect ears. The breed is compact and sturdy — heavier in bone and substance than its 25–30 pound weight might suggest. It comes in both long-coated and short-coated varieties, with various coat colors accepted including tan, chocolate, grey, and black, often with white markings.</p><p>In temperament, the Icelandic Sheepdog is one of the most cheerful and people-oriented herding breeds in existence. Unlike many working dogs that are reserved with strangers or independent by nature, the Icie (as owners commonly nickname the breed) is warm, enthusiastic about life, and deeply attached to its human family. It is the kind of dog that makes you smile — its tail curls over its back, its face is bright and expressive, and it greets every person as a potential friend. This combination of herding-breed intelligence with extraordinary friendliness makes the Icelandic Sheepdog an outstanding family companion.</p>"
+    },
+    "appearance": {
+      "label": "Appearance",
+      "heading": "Compact Spitz with a Curling Tail",
+      "html": "<p>The Icelandic Sheepdog is a compact, well-proportioned spitz-type dog. The head is strongly made with a moderately broad skull, a clearly defined stop, and a muzzle that is slightly shorter than the skull length. Ears are erect, medium-sized, and triangular. Eyes are medium-sized, almond-shaped, and typically dark brown. The tail is set high and curls over the back — a characteristic spitz feature. The body is rectangular, slightly longer than it is tall, with well-sprung ribs and a level topline.</p><p>There are two coat varieties: the long coat has a longer outer coat with profuse feathering on the thighs, tail, and ears; the short coat is shorter throughout with less feathering. Both have the thick, weather-resistant double coat. Colors include cream, tan, chocolate, grey, and black, often with white markings and sometimes with a black mask or shading. Dewclaws are characteristically double on the rear feet, which was useful for the breed working on Iceland's steep, rocky terrain.</p>"
+    },
+    "temperament": {
+      "label": "Temperament",
+      "heading": "Enthusiastic, Friendly, and Deeply People-Oriented",
+      "html": "<p>The Icelandic Sheepdog is one of the friendliest herding breeds available. Unlike some Nordic or working breeds that are reserved with strangers, the Icie tends to greet everyone as a potential playmate or friend. This openness extends to children, strangers, other dogs, and generally to other household pets. The breed's enthusiasm for people is genuine and expressed actively — an Icelandic Sheepdog will often vocalize with excitement when greeting beloved humans and may do small happy dances that owners find irresistible.</p><p>The breed is an excellent watchdog in the alert sense — it will bark to announce anything unusual and is attentive to its environment. However, it is not a guarding breed and will not deter intruders. The barking tendency is something to manage with training, particularly in urban settings. The breed responds well to training that redirects barking into appropriate cues.</p><p>The Icelandic Sheepdog retains herding instincts that may manifest as mild attempts to herd children, other pets, or moving objects. This is generally light-hearted rather than intense compared to border collies or Australian Shepherds. The breed is energetic and needs daily vigorous exercise — walks, running, hiking, dog sports — to be its best settled self indoors.</p>"
+    },
+    "mikes_take": {
+      "label": "Mike's Take",
+      "heading": "The Dog That Will Make You Smile Every Day",
+      "html": "<p>I've never met an Icelandic Sheepdog that wasn't enthusiastic about life. This breed has an almost infectious energy and warmth that is genuinely uplifting. The challenge is the shedding (substantial) and the barking (can be significant if not trained). But if you can manage those two things — both of which are trainable and manageable — you have one of the great family dogs in the herding group. It's cheerful, smart, great with kids, and genuinely devoted to its people without being neurotic about it. More people should have Icelandic Sheepdogs.</p>"
+    },
+    "care": {
+      "label": "Care",
+      "heading": "Active Daily Exercise and Regular Coat Maintenance",
+      "html": "<p>The Icelandic Sheepdog needs vigorous daily exercise — at least 45–60 minutes of brisk walking, running, hiking, or dog sport activity. The breed is not content with leashed walks alone and thrives with access to safe off-leash running space. It excels in agility, herding, flyball, and rally and benefits greatly from the mental engagement these activities provide.</p><p>The double coat requires brushing 2–3 times weekly year-round and daily during the two annual heavy shedding seasons. Bathing every 4–6 weeks keeps the coat clean. The long coat variety requires more frequent brushing than the short coat to prevent tangles in the feathering. Professional grooming for a blowout at the start of shedding season is helpful but not required. Nails should be trimmed monthly and dental care maintained regularly.</p>"
+    },
+    "health": {
+      "label": "Health",
+      "heading": "Generally Healthy with Breed-Specific Testing",
+      "html": "<p>The Icelandic Sheepdog is a generally healthy breed, partly due to the genetic diversity that resulted from centuries of relative isolation and adaptation to Iceland's demanding environment. The primary hereditary concerns are hip dysplasia, elbow dysplasia, hereditary cataracts, and distichiasis (abnormal eyelashes that irritate the eye). Reputable breeders perform OFA hip and elbow evaluation and CAER eye certification. The breed has a good lifespan of 12–14 years.</p>"
+    },
+    "cost": {
+      "label": "Cost",
+      "heading": "Rare Breed with Moderate Ongoing Costs",
+      "html": "<p>Icelandic Sheepdog puppies from reputable breeders typically cost $1,500–$2,500. The breed is uncommon in the United States. Annual ongoing costs run $1,200–$2,200, primarily food and veterinary care for a medium-sized active dog.</p>"
+    },
+    "right_for_you": {
+      "label": "Right for You?",
+      "heading": "Perfect for Active, Social Households",
+      "html": "<p>The Icelandic Sheepdog is right for active families or individuals who want a cheerful, people-oriented herding dog and can provide daily vigorous exercise and regular grooming. It is excellent with children and other dogs. It is not ideal for sedentary owners, those in small spaces without outdoor access, or people who cannot tolerate significant seasonal shedding and a tendency to bark.</p>"
+    },
+    "finding": {
+      "label": "Finding an Icelandic Sheepdog",
+      "heading": "Finding US Breeders",
+      "html": "<p>The Icelandic Sheepdog Association of America (ISAA) is the AKC parent club. The breed is rare in the US and breeders often have waitlists. Health testing should include OFA hips/elbows and CAER eye certification. Some buyers import from Icelandic or Scandinavian breeders.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Do Icelandic Sheepdogs bark a lot?",
+      "a": "They can. The breed is alert and vocal — barking to announce visitors, movements, and interesting sounds is natural for a dog bred to alert shepherds. With consistent training, the barking can be managed effectively. It requires attention from early puppyhood."
+    },
+    {
+      "q": "Are Icelandic Sheepdogs good with children?",
+      "a": "Yes, they are among the best herding breeds with children. The Icelandic Sheepdog is gentle, patient, playful, and rarely aggressive. Its natural friendliness and enthusiasm make it an engaging and safe companion for kids of all ages."
+    },
+    {
+      "q": "What is the difference between long-coat and short-coat Icelandic Sheepdogs?",
+      "a": "The long-coat variety has longer fur throughout with feathering on the ears, legs, and tail. The short-coat variety has shorter, denser fur with less feathering. Both have the double coat. The long coat requires more frequent brushing to prevent tangles in the feathering."
+    }
+  ],
+  "related_breeds": ["finnish-lapphund", "norwegian-buhund", "swedish-lapphund"]
+}

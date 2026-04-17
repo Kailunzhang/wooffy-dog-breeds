@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Bull Terrier Grooming Guide",
+    "slug": "bull-terrier-grooming-guide",
+    "shopify_handle": "bull-terrier-grooming-guide",
+    "group": "Bull Terrier",
+    "size_category": "Guide",
+    "tags": ["bull-terrier", "grooming", "short-coat", "low-maintenance", "white-coat-care"],
+    "published": true,
+    "published_at": "2026-04-16T16:00:00Z",
+    "excerpt": "Bull Terrier grooming is minimal — one of the lowest-maintenance coats in any breed. White Bull Terriers need attention to coat staining and sun sensitivity; colored Terriers are even simpler.",
+    "meta_description": "Bull Terrier grooming guide: short coat maintenance, white coat stain management, sun sensitivity in white dogs, and the complete low-effort grooming routine."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bullterrier-3453301920.jpg/330px-Bullterrier-3453301920.jpg",
+      "alt": "Bull Terrier grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Bull Terrier Coat",
+      "heading": "Bull Terrier Grooming: Genuinely Simple",
+      "html": "<p>The Bull Terrier has a short, flat, and harsh-to-the-touch coat that requires almost no professional grooming and minimal home maintenance. Weekly brushing, occasional baths, and routine nail and ear care covers the full grooming requirement. There is no trimming, no professional appointments required, and no seasonal coat management beyond slightly increased shedding in spring and fall.</p><p>White Bull Terriers have one additional consideration: their white coat shows staining from saliva, grass, and environment more visibly than colored dogs, and the lack of melanin in the skin increases sun sensitivity. Neither issue is a serious problem — they're just features of white dogs that require awareness.</p><h3>Grooming Tools You'll Need</h3><ul><li>Rubber curry brush or grooming mitt — primary tool</li><li>Bristle brush — finishing</li><li>Dog-safe whitening shampoo (for white Bull Terriers)</li><li>Standard dog shampoo (for colored dogs)</li><li>Dog ear cleaner and cotton balls</li><li>Nail clippers or grinder</li><li>Dog toothbrush and toothpaste</li></ul>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Rubber curry or grooming mitt brush: 5–10 minutes over the full body. Removes loose hair, stimulates skin, keeps the coat looking polished</li><li>Check ears: clean with ear solution if needed. Bull Terriers are not particularly ear-prone but monthly checks are good practice</li><li>Check and wipe around the eyes if there is any discharge buildup</li></ul><h3>Every 2–3 Weeks</h3><ul><li>Nails: trim when you hear clicking on hard floors. Bull Terriers are active and may naturally wear nails on rough surfaces, but check regularly</li></ul><h3>Monthly</h3><ul><li>Bath every 6–8 weeks. The short coat doesn't hold dirt heavily, and overbathing removes natural oils</li><li>For white Bull Terriers: a whitening or brightening dog shampoo helps manage yellowing and staining. Rinse very thoroughly — whitening shampoos can cause skin irritation if not fully rinsed</li><li>Dental care: 3–4 times per week. Terriers are prone to dental disease; consistent home brushing is the most cost-effective prevention</li></ul>"
+    },
+    "special": {
+      "label": "White Dog Considerations",
+      "heading": "Special Care for White Bull Terriers",
+      "html": "<p>White Bull Terriers require a few additional considerations compared to colored dogs:</p><h3>Sun Sensitivity</h3><p>White dogs with light or pink skin (depigmented areas) are more susceptible to sunburn, particularly on the nose, ear tips, and belly. In high-UV environments, extended sun exposure should be limited. Dog-safe sunscreen on the nose and ear tips is appropriate for dogs spending significant time outdoors in summer. Squamous cell carcinoma is more common in heavily sun-exposed white dogs — monitor the nose and ear tips for changes in pigmentation, texture, or surface integrity.</p><h3>Coat Staining</h3><p>Saliva staining around the mouth and paws (from licking) and grass or dirt staining on the legs and belly are more visible on white coats. Regular bathing with a whitening shampoo manages this cosmetically. It's an aesthetic issue, not a health one — but many owners notice and address it.</p><h3>Allergies and Skin Irritation</h3><p>White Bull Terriers with pink or lightly pigmented skin may show skin reactions more visibly and may be somewhat more prone to contact allergies. If you notice persistent redness, itching, or hot spots, discuss with your vet whether an allergy evaluation is warranted.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Do Bull Terriers shed a lot?",
+      "a": "Moderately — the short coat sheds year-round at a low level, with slightly more during spring and fall. Weekly brushing with a rubber curry removes most loose hair before it ends up on furniture and clothing. The shedding is manageable and doesn't require special equipment or extra effort."
+    },
+    {
+      "q": "Do Bull Terriers need professional grooming?",
+      "a": "No. The short coat requires no trimming, shaping, or professional deshedding. Some owners use a professional groomer for bath convenience, but it's optional. Nail trims at the vet or groomer are the most commonly outsourced task."
+    },
+    {
+      "q": "How do I keep a white Bull Terrier looking clean?",
+      "a": "Regular bathing (every 4–6 weeks for white dogs vs. 6–8 for colored) with a whitening dog shampoo helps manage staining. Rinse completely — whitening shampoos can irritate if residue remains. Between baths, unscented pet wipes on stained areas around the mouth or paws provide a quick refresh. The staining is cosmetic; it doesn't affect the dog's health."
+    }
+  ]
+}

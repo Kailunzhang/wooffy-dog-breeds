@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "name": "Schipperke First Year Costs",
+    "slug": "schipperke-first-year-costs",
+    "shopify_handle": "schipperke-first-year-costs",
+    "group": "Schipperke",
+    "size_category": "Guide",
+    "tags": ["schipperke", "costs", "non-sporting"],
+    "published": true,
+    "published_at": "2026-05-02T16:00:00Z",
+    "excerpt": "A complete cost breakdown for owning a Schipperke through the first year — including puppy price, setup supplies, veterinary care, and the MPS IIIB health testing consideration.",
+    "meta_description": "Schipperke first year cost guide: puppy price, setup, vet care including MPS IIIB testing, food, grooming, and total annual budget."
+  },
+  "stats": {
+    "height": "10–13 inches",
+    "weight": "10–16 lbs",
+    "lifespan": "12–16 years",
+    "energy_level": "High",
+    "grooming_needs": "Moderate",
+    "good_with_kids": true,
+    "good_with_other_dogs": true,
+    "shedding": "Moderate",
+    "trainability": "Moderate"
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schipperke_photo.jpg/330px-Schipperke_photo.jpg",
+      "alt": "Schipperke"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Puppy Price and Initial Setup",
+      "html": "<p>Schipperke puppies from health-tested, responsible breeders typically cost $800–$1,600 in the United States. This price range reflects breeders who perform the important MPS IIIB DNA testing on breeding stock, along with standard health screening for the breed. Be cautious of Schipperkes priced significantly below this range, as health-testing breeders have real costs that are reflected in puppy prices.</p><p>Rescue is available through Schipperke Club of America rescue and regional rescue organizations, with fees typically running $150–$350 including initial vetting. Adult Schipperkes adapt well to new homes and make excellent rescue adoptions for owners who understand the breed's personality.</p><p>One-time setup supplies:</p><ul><li>Crate sized for a 10–16 lb dog: $35–$70</li><li>Crate bedding (washable): $20–$45</li><li>Stainless steel food and water bowls: $15–$30</li><li>Collar, ID tag, and 4–6 foot leash: $20–$45</li><li>Slicker brush, undercoat rake, and metal comb: $30–$55</li><li>Puppy safety gates: $25–$60</li><li>Durable toys (chew toys, puzzle feeder, tug): $30–$60</li><li>Enzyme cleaner: $12–$20</li></ul><p>Total one-time setup estimate: $187–$385. A quality secure-fence escape-proof yard is essential for the Schipperke and should be considered a prerequisite rather than an optional expense.</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Veterinary Care, Food, Grooming, and Training",
+      "html": "<p>First-year veterinary costs for a Schipperke puppy:</p><ul><li>Puppy wellness exams and vaccine series: $250–$450</li><li>Heartworm, flea, and tick prevention: $12–$25/month ($144–$300/year)</li><li>Spay or neuter (if applicable): $250–$550</li><li>Microchip: $25–$50</li></ul><p>Importantly: if you have any uncertainty about whether the breeder's MPS IIIB testing documentation is legitimate, your veterinarian can perform an independent DNA test on your puppy for $70–$120 through an accredited veterinary genetics laboratory. The peace of mind is worth the cost.</p><p>Food for a 10–16 lb Schipperke is modest: quality dry kibble or fresh food runs $25–$40/month ($300–$480/year). The Schipperke does not have specific dietary requirements beyond appropriate small-to-medium breed formulations.</p><p>Professional grooming is not required for the Schipperke but is optional. If you choose professional baths and de-shedding appointments, budget $40–$65 per session, 3–4 times per year ($120–$260/year). At-home grooming with a slicker brush and undercoat rake is fully adequate and reduces this cost to the price of tools and shampoo.</p><p>Puppy training classes: $100–$180 for a standard 6–8 week positive-reinforcement course. The Schipperke benefits from formal training to channel its intelligence constructively. Budget for at least one round of classes in the first year.</p><p>Pet insurance: $25–$45/month ($300–$540/year). Given the breed's longevity and the possibility of thyroid or neurological issues, insurance provides useful financial protection.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Annual Budget",
+      "html": "<p>First year cost summary:</p><ul><li>Puppy price: $800–$1,600</li><li>One-time setup supplies: $187–$385</li><li>First-year veterinary care: $519–$1,050</li><li>Food: $300–$480</li><li>Grooming (optional professional): $120–$260, or minimal with home grooming</li><li>Training: $100–$180</li><li>Pet insurance: $300–$540</li></ul><p><strong>First year total (excluding puppy): $1,526–$2,895</strong><br><strong>First year total (including puppy): $2,326–$4,495</strong></p><p>The Schipperke is one of the more affordable small breeds to purchase and maintain. From year two onward, annual costs typically run $1,500–$2,500, covering food, routine veterinary care, parasite prevention, and optional professional grooming. The breed's exceptional longevity (12–16 years) means the total lifetime cost is spread over many more years than shorter-lived breeds.</p><p>The key variable is hypothyroidism, which is relatively common in the breed and requires lifelong daily medication ($25–$60/month) if diagnosed. Pet insurance covering internal medicine conditions is a meaningful safeguard. Thyroid function screening at annual wellness exams allows early detection and treatment before symptoms become significant.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Schipperke an affordable breed to own?",
+      "a": "Yes, relative to many small breeds. The purchase price is moderate, food costs are low given the breed's small size, professional grooming is optional rather than required, and the breed is generally healthy. The main ongoing expense to budget for is pet insurance and potential hypothyroidism medication if needed."
+    },
+    {
+      "q": "Do I need to pay extra for MPS IIIB testing?",
+      "a": "No — responsible breeders build testing costs into their puppy prices. What you are paying for when you buy from a health-testing Schipperke breeder includes the MPS IIIB DNA test documentation on both parents. If a breeder cannot provide this documentation, that is a significant red flag regardless of price."
+    },
+    {
+      "q": "How long will my Schipperke live, and how does that affect the total cost of ownership?",
+      "a": "Schipperkes typically live 12–16 years, with many reaching 14–15 years in good health. On a per-year-of-life basis, the total cost of ownership is quite favorable. A $1,200 purchase price and $2,000/year in ongoing costs over 14 years represents a very reasonable investment for a breed this engaging."
+    }
+  ],
+  "related_breeds": ["pomeranian", "keeshond", "finnish-spitz"]
+}

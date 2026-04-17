@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Anatolian Shepherd Dog Grooming Guide",
+    "slug": "anatolian-shepherd-dog-grooming-guide",
+    "shopify_handle": "anatolian-shepherd-dog-grooming-guide",
+    "group": "Anatolian Shepherd Dog",
+    "size_category": "Guide",
+    "tags": ["anatolian-shepherd-dog", "grooming"],
+    "published": true,
+    "published_at": "2026-04-27T16:00:00Z",
+    "excerpt": "The Anatolian Shepherd Dog has a low-maintenance coat that requires regular brushing and seasonal attention to heavy shedding. Learn the essentials of keeping this working guardian looking and feeling its best.",
+    "meta_description": "Anatolian Shepherd Dog grooming guide: coat care, brushing routine, shedding management, and bathing tips for this large Turkish livestock guardian."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Anatolian_Shepherd_Dog_Male.jpg/330px-Anatolian_Shepherd_Dog_Male.jpg",
+      "alt": "Anatolian Shepherd Dog grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "A Double Coat Built for Extreme Climates",
+      "html": "<p>The Anatolian Shepherd Dog comes in two coat varieties: short (approximately 1 inch in length) and rough (up to 4 inches), both with a dense, insulating undercoat. This double coat evolved to protect the dog against the extreme temperature swings of the Anatolian plateau — hot summers and frigid winters — and it does its job remarkably well. The outer guard hairs are straight and lie flat, while the thick undercoat provides insulation and weather resistance.</p><p>Overall, the Anatolian is a low-to-moderate grooming breed. The coat does not mat or tangle the way a long-haired or curly-coated breed does, and the dog's natural coat oils keep the outer layer relatively clean and odor-resistant. The main grooming challenge is shedding: the Anatolian blows its undercoat twice a year in dramatic fashion, and during those periods daily brushing becomes essential to stay ahead of the hair. Outside of shedding season, a weekly brush-through is sufficient for most dogs.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Weekly Brushing and Seasonal Management",
+      "html": "<p><strong>Brushing:</strong> Use a slicker brush or a long-toothed undercoat rake for regular maintenance. Work in sections, brushing down to the skin to remove loose undercoat and debris. For rough-coated dogs, a pin brush can help separate the longer guard hairs. During shedding season (typically spring and fall), brush daily using an undercoat rake or deshedding tool like a Furminator to pull out the loosening undercoat before it ends up on your furniture and floors. Bathing before a deshedding session can help release the coat further.</p><p><strong>Bathing:</strong> The Anatolian needs a bath every 6–8 weeks under normal conditions, or more frequently if the dog has been working in muddy or dusty environments. Use a large-breed or sensitive-skin dog shampoo. Rinsing thoroughly is important — residual shampoo trapped in the dense undercoat can cause skin irritation. Drying a thick double coat takes time; a high-velocity dog dryer speeds the process considerably and helps blow out loose undercoat at the same time.</p><p><strong>Nails:</strong> Trim monthly. Anatolians working on varied terrain may naturally wear their nails down, but house dogs will need regular trims to prevent overgrowth and discomfort.</p><p><strong>Ears:</strong> Check weekly for redness, odor, or excessive wax. Clean with a vet-approved ear solution when needed. The drop ears of the Anatolian can trap moisture.</p><p><strong>Teeth:</strong> Brush several times a week with canine toothpaste, or provide dental chews as a supplement to brushing.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Shedding Season and Working-Dog Coat Care",
+      "html": "<p><strong>Heavy shedding seasons:</strong> Expect two major coat blows per year, typically in spring and fall. During these periods the undercoat comes out in large clumps. Daily brushing with an undercoat rake is the only way to manage this without ending up with hair on every surface of your home. Many owners have their Anatolian professionally bathed and blown out at the start of each shedding season to jumpstart the process.</p><p><strong>Working dogs:</strong> Anatolians that live outdoors and work with livestock often accumulate burrs, seeds, and debris in the coat — especially in the ruff (around the neck) and the feathering on the legs and tail. Check these areas after the dog has been in the field and remove any plant material before it causes matting or skin irritation.</p><p><strong>Skin health:</strong> The thick coat can hide skin conditions. While grooming, part the coat and inspect the skin for redness, flaking, hot spots, or parasites. Flea and tick prevention is especially important for dogs that spend time outdoors with livestock or in wooded areas.</p><p><strong>Do not shave:</strong> Never shave the double coat of an Anatolian Shepherd. The coat is an insulating system that protects against both heat and cold. Shaving disrupts this system and can actually make the dog less comfortable in summer heat, while also damaging the coat's ability to regrow properly.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often should I brush my Anatolian Shepherd Dog?",
+      "a": "Once or twice a week during normal periods, and daily during shedding season in spring and fall when the dense undercoat loosens significantly."
+    },
+    {
+      "q": "Should I take my Anatolian to a professional groomer?",
+      "a": "It is not required, but many owners find a professional bath-and-blowout once or twice a year — especially at the start of shedding season — saves a lot of time and mess at home."
+    },
+    {
+      "q": "Can I shave my Anatolian Shepherd to reduce shedding?",
+      "a": "No. Shaving the double coat is counterproductive and potentially harmful. The double coat insulates against both heat and cold and protects the skin. Regular brushing and deshedding are the correct tools for managing shedding."
+    }
+  ]
+}

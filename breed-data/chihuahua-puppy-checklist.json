@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "name": "Chihuahua Puppy Checklist",
+    "slug": "chihuahua-puppy-checklist",
+    "shopify_handle": "chihuahua-puppy-checklist",
+    "group": "Chihuahua",
+    "size_category": "Guide",
+    "tags": ["chihuahua", "puppy", "checklist", "toy-breed", "small-dog-safety"],
+    "published": true,
+    "published_at": "2026-04-15T16:00:00Z",
+    "excerpt": "Everything you need before your Chihuahua puppy comes home — including the safety measures that protect a 2–6 lb dog from everyday household hazards.",
+    "meta_description": "Chihuahua puppy checklist: toy breed safety setup, hypoglycemia prevention for puppies, training from day one, and dental care habits that matter for a long-lived small dog."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chihuahua1_bvdb.jpg/330px-Chihuahua1_bvdb.jpg",
+      "alt": "Chihuahua puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Chihuahua Puppy Prep: Small Dog, Big Safety Considerations",
+      "html": "<p>Chihuahua puppies at 8 weeks may weigh under 1 pound. They're fragile, fast, and can hide in places you can't imagine. Puppy-proofing for a Chihuahua requires thinking at floor level — literally getting on your hands and knees to see what a tiny dog can get into or under.</p><h3>Essential Gear Checklist</h3><ul><li>Small crate (18 inch) or puppy pen enclosure</li><li>Low-sided bed (easy to get in/out safely)</li><li>Small stainless steel food and water bowls</li><li>Harness (critical — never use a collar on a Chihuahua due to tracheal collapse risk)</li><li>Lightweight leash</li><li>Soft slicker brush (smooth coat) or pin brush (long coat)</li><li>Dog toothbrush and enzymatic toothpaste — start dental habits from day one</li><li>Enzymatic cleaner for accidents</li><li>Small, soft training treats (break into tiny pieces — Chis are tiny)</li><li>Appropriately sized toys — avoid anything a Chihuahua could swallow or get a jaw stuck in</li><li>Dog clothing — sweaters, jackets for cold weather (not optional for this breed below 50°F)</li></ul><h3>Home Safety for a Very Small Dog</h3><ul><li>Check under all furniture and appliances before sitting or moving them</li><li>Reclining chairs and sleeper sofas are significant hazards — many small dogs are injured or killed by these</li><li>Close toilet lids — a Chihuahua puppy can fall in and drown</li><li>Block access to stairs until the puppy is old enough to navigate them safely</li><li>Keep all cleaning products, medications, and toxic foods (chocolate, xylitol, grapes) completely inaccessible</li><li>Inform all family members about stepping carefully and not dropping the dog</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit and Hypoglycemia Awareness",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam including fontanelle (molera) assessment — some Chihuahua puppies have an open soft spot on the skull that requires care</li><li>Dental assessment — Chihuahuas have a high rate of retained baby teeth; early identification allows planning</li><li>Vaccine schedule</li><li>Discuss hypoglycemia risk (see section below)</li><li>Parasite prevention appropriate for a toy breed</li><li>Microchip (especially important for a small, easily lost or stolen breed)</li><li>Confirm sex and any anatomical notes</li></ul><h3>Hypoglycemia in Chihuahua Puppies</h3><p>Young Chihuahua puppies — particularly under 12 weeks and under 2 lbs — are at risk for hypoglycemia (low blood sugar). Unlike larger breeds, they have minimal body fat reserves and can crash quickly if they miss meals or are stressed.</p><h3>Signs of Hypoglycemia</h3><ul><li>Weakness, lethargy, or trembling</li><li>Pale gums</li><li>Confusion or glassy eyes</li><li>Seizures in severe cases</li></ul><h3>Emergency Treatment</h3><p>Rub a small amount of corn syrup, honey, or Nutri-Cal on the gums and get to a vet immediately. Keep Nutri-Cal or Karo syrup in the house during the puppy's first months.</p><h3>Prevention</h3><ul><li>Feed small meals 3–4 times daily until 4–6 months old</li><li>Never let the puppy go more than 4–5 hours without food in the first months</li><li>Minimize stressful situations during the first weeks — stress raises glucose demand</li></ul>"
+    },
+    "special": {
+      "label": "Training From Day One",
+      "heading": "Training a Chihuahua: Size Is Not an Excuse",
+      "html": "<p>The single most common Chihuahua owner mistake is allowing behaviors because 'they're so small it doesn't matter.' A Chihuahua that barks aggressively, guards food, bites when uncomfortable, and refuses handling is a dog in a difficult situation — it will be passed around, given up, or live a stressed life. Small size is not a substitute for training.</p><h3>Train Your Chihuahua Like It Weighs 70 Lbs</h3><ul><li>No jumping on people (even if it's cute when they're tiny — it won't be when your senior Chi is still doing it at 15)</li><li>No food guarding — establish hand-feeding and bowl manipulation from puppyhood</li><li>No biting or snapping — redirect immediately with a calm 'no' and ignore the dog briefly</li><li>Sit before meals, before going outside, before receiving any treat</li></ul><h3>Year One Training Priorities</h3><ol><li><strong>Puppy class:</strong> Especially important for socialization. Chihuahuas not socialized early become fearful and reactive to other dogs and strangers.</li><li><strong>Dental care routine:</strong> Brush teeth 3–4 times per week from the start. Make it positive. Chihuahuas that accept toothbrushing as puppies maintain better dental health throughout their 14–17 year life.</li><li><strong>Handling desensitization:</strong> Touch ears, paws, mouth, and examine the dog daily. The molera (soft spot) on some puppies should be handled gently — never apply pressure there.</li><li><strong>Leash training:</strong> Always use a harness. Introduce the harness and leash positively — many Chihuahuas initially freeze or resist. Short, positive sessions with high-value treats.</li></ol>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "What age can Chihuahua puppies come home?",
+      "a": "8 weeks is the legal minimum in most states and the standard recommendation. Some reputable breeders of very small Chihuahuas (under 3 lbs) keep puppies until 10–12 weeks due to hypoglycemia risk and the extra development time tiny puppies need."
+    },
+    {
+      "q": "How do I prevent hypoglycemia in my Chihuahua puppy?",
+      "a": "Feed 3–4 small meals daily until 4–6 months old. Don't let the puppy skip meals or go long periods without food. Keep Nutri-Cal or corn syrup on hand for emergencies. Reduce stressful situations in the first weeks. Contact your vet if the puppy seems lethargic or won't eat."
+    },
+    {
+      "q": "Should I use a collar or harness on my Chihuahua puppy?",
+      "a": "Harness only. Chihuahuas are prone to tracheal collapse, and collar pressure directly on the trachea is a contributing risk factor. A properly fitted H-style or vest harness distributes pressure across the chest instead."
+    },
+    {
+      "q": "Are Chihuahuas good with children?",
+      "a": "With calm, older children who are taught to handle them carefully — yes. With toddlers and young children who may drop, squeeze, or fall on them — the physical fragility of a Chihuahua makes this a real safety concern. Supervise all interactions with small children until you're confident in both the dog's tolerance and the child's handling skills."
+    }
+  ]
+}

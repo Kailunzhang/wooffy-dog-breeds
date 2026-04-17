@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Russell Terrier First Year Costs",
+    "slug": "russell-terrier-first-year-costs",
+    "shopify_handle": "russell-terrier-first-year-costs",
+    "group": "Russell Terrier",
+    "size_category": "Guide",
+    "tags": ["russell-terrier", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-04-28T16:00:00Z",
+    "excerpt": "The Russell Terrier is one of the most affordable small breeds to own year-round. Here's a realistic first-year cost breakdown for prospective owners.",
+    "meta_description": "Russell Terrier first year costs: puppy price, food, vet care, training, and supplies. Budget $1,800–$3,500 for year one with this compact and energetic terrier."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Russell_Terrier_600.jpg/330px-Russell_Terrier_600.jpg",
+      "alt": "Russell Terrier"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Upfront Costs of Getting a Russell Terrier",
+      "html": "<p><strong>Puppy Price: $800–$2,000.</strong> From a health-testing breeder with DNA testing for PLL and Late Onset Ataxia, CAER eye clearances, and BAER hearing documentation.</p><p><strong>Crate: $35–$60.</strong> A 24-inch crate is appropriate for this very small breed.</p><p><strong>Bed, Collar, Leash: $40–$80.</strong> Small-breed appropriate supplies.</p><p><strong>Bowls: $15–$30.</strong> Stainless steel in a small size.</p><p><strong>Initial Vet Visit: $200–$400.</strong> Complete puppy wellness visit including all essential first vaccines and preventives.</p><p><strong>Spay/Neuter: $200–$400.</strong></p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Recurring First Year Costs",
+      "html": "<p><strong>Food: $20–$40/month ($240–$480/year).</strong> This is one of the most economical dog breeds to feed — a 9–15 lb dog consumes approximately 1/2 to 1 cup of premium dry food daily.</p><p><strong>Veterinary Care: $300–$500/year.</strong> Routine wellness and preventives.</p><p><strong>Training: $150–$400/year.</strong> Essential for this independent breed.</p><p><strong>Dog Sports (optional): $150–$400/year.</strong> Agility and earthdog are natural outlets for the breed's energy.</p><p><strong>Pet Insurance: $20–$35/month ($240–$420/year).</strong></p><p><strong>Grooming: Minimal.</strong> Primarily manageable at home.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Costs",
+      "html": "<p><strong>Estimated First Year Total: $1,800–$3,500</strong></p><p>The Russell Terrier is among the most affordable breeds to own long-term.</p><p><strong>Ongoing Annual Costs (Year 2+): $1,000–$1,800/year.</strong></p><p><strong>Lifetime Cost Estimate:</strong> Over a 12–14 year lifespan, total ownership costs typically range from $14,000–$26,000 — one of the lowest lifetime costs among purebred dogs, particularly accounting for the breed's longevity.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Are Russell Terriers expensive to own?",
+      "a": "No, they are one of the most affordable dog breeds thanks to their very small size (minimal food and medication costs), low grooming needs, and generally hardy health. Primary variable cost is veterinary care for breed-specific conditions."
+    },
+    {
+      "q": "How much does a Russell Terrier puppy cost?",
+      "a": "$800–$2,000 from a reputable health-testing breeder is typical."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "German Wirehaired Pointer Grooming Guide",
+    "slug": "german-wirehaired-pointer-grooming-guide",
+    "shopify_handle": "german-wirehaired-pointer-grooming-guide",
+    "group": "German Wirehaired Pointer",
+    "size_category": "Guide",
+    "tags": ["german-wirehaired-pointer", "grooming", "wiry-coat", "hand-stripping", "ear-cleaning"],
+    "published": true,
+    "published_at": "2026-04-22T16:00:00Z",
+    "excerpt": "The GWP's wiry coat is one of its most practical features — low-shedding, dirt-resistant, and weather-proof. Weekly brushing and consistent ear cleaning are the two non-negotiable maintenance tasks. Stripping vs. clipping is a choice with real consequences for working dogs.",
+    "meta_description": "German Wirehaired Pointer grooming guide: wiry coat maintenance, hand-stripping vs. clipping, beard care, ear cleaning for a floppy-eared sporting breed, and the full weekly routine."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dan_vom_hardenberg_%28cropped%29.jpg/250px-Dan_vom_hardenberg_%28cropped%29.jpg",
+      "alt": "German Wirehaired Pointer grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The GWP Coat",
+      "heading": "Understanding the German Wirehaired Pointer Coat",
+      "html": "<p>The German Wirehaired Pointer's double coat is purpose-built — a harsh, wiry outer coat over a dense soft undercoat that insulates and protects in cold water and heavy cover. It sheds significantly less than smooth or flat-coated sporting breeds, repels dried mud and debris, and doesn't mat the way longer coats do. For the maintenance effort required, it's one of the more practical coats in the sporting group.</p><h3>Grooming Tools You'll Need</h3><ul><li>Firm bristle brush or slicker brush — for regular brushing</li><li>Steel comb — for checking the beard and leg furnishings</li><li>Stripping comb or stripping knife — for hand-stripping (working dogs)</li><li>Dog-safe ear cleaner and cotton balls</li><li>Nail clippers or grinder</li><li>Dog-safe shampoo</li></ul><h3>Shedding Reality</h3><p>GWPs shed less than most sporting breeds, but they do shed. The wiry coat doesn't cling to fabric the way double-coated breeds' undercoat does, which makes it more manageable in the home. Regular brushing reduces loose hair further. Don't expect zero shedding — expect notably less than a Lab or Springer.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush through the coat with a firm bristle brush — work from neck to tail and down the legs</li><li>Check the beard for trapped food, debris, or moisture — wipe clean as needed</li><li>Clean the ears thoroughly (see ear section below) — this is the most critical weekly task</li><li>Check between paw pads for debris from field work or walks</li></ul><h3>Monthly</h3><ul><li>Bathe every 6–8 weeks or when the dog is genuinely dirty. Use a dog shampoo suited to wiry coats. Over-bathing softens the coat texture over time</li><li>Trim nails — if you hear clicking on hard floors, they're overdue</li><li>Check and trim any hair around the ear canal to improve airflow</li></ul><h3>Coat Maintenance: Hand-Stripping vs. Clipping</h3><p>This is the most important grooming decision for GWP owners. <strong>Hand-stripping</strong> involves pulling the dead outer coat out by hand (with a stripping comb or fingers), which preserves the hard, wiry texture and protective quality of the coat. It's the traditional method and the right choice for working dogs — a clipped coat gradually softens and loses the weather-resistance the breed was built for.</p><p><strong>Clipping</strong> (using scissors or clippers) is easier, faster, and less expensive at a grooming salon. For companion dogs that don't work in the field, clipping is entirely acceptable — the cosmetic look is maintained even if the coat texture softens over years of clipping. For hunting dogs, hand-stripping 1–2 times per year is worth the investment.</p>"
+    },
+    "special": {
+      "label": "Ear Care",
+      "heading": "Ear Cleaning — The Non-Negotiable Task",
+      "html": "<p>The GWP's floppy, feathered ears trap moisture and debris far more effectively than upright ears. Combine that with a dog that regularly swims or works in heavy cover, and ear infections become predictable without preventive maintenance. Weekly ear cleaning is the single most important grooming habit for this breed.</p><h3>How to Clean GWP Ears</h3><ol><li>Squeeze a veterinarian-recommended ear cleaner into the ear canal — enough to fill it</li><li>Gently massage the base of the ear for 20–30 seconds to loosen debris</li><li>Let the dog shake its head</li><li>Wipe out the accessible ear canal and outer ear with a cotton ball — never insert cotton swabs into the canal</li><li>Repeat on the other ear</li></ol><h3>Signs of Ear Infection</h3><p>Head shaking, scratching at ears, odor from the ear, redness or swelling, or discharge are all signs that require a veterinary visit — not additional home cleaning. Ear infections need treatment; cleaning a infected ear without diagnosis and appropriate medication doesn't resolve the problem and can cause discomfort.</p><h3>After Swimming or Field Work</h3><p>If your GWP swims or works in wet conditions, clean and dry the ears after each session. Moisture trapped in the ear canal after water exposure is a primary driver of chronic ear infections in this breed. A quick post-swim ear wipe takes two minutes and prevents a vet bill.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does a GWP need professional grooming?",
+      "a": "Companion dogs benefit from professional clipping or trimming every 3–4 months. Working dogs that are hand-stripped typically need a full strip 1–2 times per year. Between professional appointments, weekly brushing and beard/ear maintenance are owner responsibilities."
+    },
+    {
+      "q": "Does clipping a GWP ruin the coat?",
+      "a": "Clipping gradually softens the coat texture over time — the harsh, wiry quality that protects in field conditions is maintained by hand-stripping, not clipping. For companion dogs, this is a cosmetic consideration only. For dogs that hunt in cold water or heavy cover, maintaining coat texture through stripping has real practical value."
+    },
+    {
+      "q": "Why does my GWP keep getting ear infections?",
+      "a": "The most common cause is insufficient preventive cleaning. Floppy ears with feathered edges create warm, low-airflow environments where bacteria and yeast thrive. Weekly cleaning, drying ears after water exposure, and keeping ear canal hair trimmed address the primary causes. If infections recur despite consistent prevention, a veterinary workup for underlying allergies is warranted — allergies are a common underlying driver of chronic ear infections in sporting breeds."
+    }
+  ]
+}

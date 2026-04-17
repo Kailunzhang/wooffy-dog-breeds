@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Yorkshire Terrier",
+    "shopify_handle": "yorkshire-terrier-puppy-checklist",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "name": "Yorkshire Terrier Puppy Checklist: What to Do Before and After Bringing One Home",
+    "slug": "yorkshire-terrier-puppy-checklist",
+    "excerpt": "A practical checklist for new Yorkshire Terrier owners — covering harness requirements, dental care from week one, and hypoglycemia prevention.",
+    "meta_description": "A practical checklist for new Yorkshire Terrier owners — covering harness requirements, dental care from week one, and hypoglycemia prevention.",
+    "tags": [
+      "Yorkshire Terrier",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%282_version%29_Grupp_3%2C_YORKSHIRETERRIER%2C_NO_UCH_SE_UCH_Oxzar_Amazing_Bel%E2%80%99s_Toffy_%2824310212305%29.jpg/330px-%282_version%29_Grupp_3%2C_YORKSHIRETERRIER%2C_NO_UCH_SE_UCH_Oxzar_Amazing_Bel%E2%80%99s_Toffy_%2824310212305%29.jpg",
+      "alt": "Yorkshire Terrier"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before the Puppy Arrives",
+      "heading": "Health Testing and Gear to Have Ready",
+      "html": "<h3>Verify Health Testing on Both Parents</h3><ul><li><strong>Patellar luxation OFA evaluation:</strong> Both parents with passing scores</li><li><strong>Cardiac evaluation:</strong> OFA cardiac certification on both parents</li><li><strong>Eye certification (CAER):</strong> Annual exam on both parents</li><li><strong>Legg-Calvé-Perthes disease:</strong> Ask whether this orthopedic condition has appeared in the breeding lines — it is heritable and common in small breeds</li></ul><h3>Harness Is Mandatory — Not a Suggestion</h3><p>Yorkshire Terriers are prone to tracheal collapse. A harness distributes pressure across the chest rather than the neck. Buy a properly fitted small-breed harness before pickup day. Never clip a leash to a Yorkie's collar. The collar is for ID tags only.</p><h3>Gear Checklist</h3><ul><li>Properly fitted small-breed harness</li><li>Small wire or travel crate</li><li>Pin brush and metal comb — brushing starts day one</li><li>Dog-safe enzymatic toothpaste and finger brush — dental care starts week one</li><li>Small-breed puppy food (match the breeder's current food)</li><li>Small tip-proof food and water bowls</li><li>Dog bed or crate mat</li><li>Baby gates to prevent stair falls</li><li>Enzymatic cleaner</li><li>Pet insurance enrolled before first vet visit</li></ul>"
+    },
+    "care": {
+      "label": "First Weeks at Home",
+      "heading": "First Vet Visit and Critical First-Week Habits",
+      "html": "<h3>First Vet Appointment (Within 72 Hours of Pickup)</h3><ul><li>Full physical exam and vaccine status review</li><li>Set vaccination and deworming schedule</li><li>Confirm feeding schedule for hypoglycemia prevention (3–4 small meals daily in puppyhood)</li><li>Discuss spay/neuter timing (typically 6–12 months for small breeds)</li><li>Get dental care instructions and timeline for first professional cleaning</li><li>Confirm harness use and tracheal health discussion</li><li>Get referral for puppy training class</li></ul><h3>Dental Care Starts Week One</h3><p>Start tooth brushing the first week home. Use a finger brush and dog-safe enzymatic toothpaste — never human toothpaste (the fluoride is toxic to dogs). Touch the puppy's lips and teeth briefly in positive sessions, rewarding generously. Build up to a full 60-second brushing within 2–3 weeks. Do this every single day for the dog's entire life. This daily habit is the most important thing you will do for a Yorkshire Terrier's long-term health.</p><h3>Frequent Meals to Prevent Hypoglycemia</h3><p>Like all small breed puppies, Yorkies can experience hypoglycemia (low blood sugar) if they go too long without food, particularly in the first few months. Feed 3–4 small meals daily until the puppy is 6 months old, then transition to 2–3 meals. Keep Nutri-Cal or corn syrup on hand as an emergency glucose supplement. If the puppy becomes lethargic, wobbly, or unresponsive — this is an emergency. Contact your vet immediately.</p>"
+    },
+    "special": {
+      "label": "Training and Safety",
+      "heading": "Living Safely With a Yorkshire Terrier",
+      "html": "<h3>Small Dog — Big Safety Considerations</h3><p>Yorkies are small enough to be seriously injured or killed by a fall from furniture, by larger dogs in play, or by being accidentally stepped on. Establish clear household rules from day one:</p><ul><li>Ramps or steps on furniture the dog is allowed on</li><li>All household members aware of where the puppy is before sitting down or walking through rooms</li><li>Supervised introductions only with larger dogs</li><li>No unsupervised play with children under 8 years old — the dog can be easily injured unintentionally</li></ul><h3>Training a Yorkie</h3><p>Yorkshire Terriers are intelligent, confident, and stubborn. They have all the terrier traits: independent thinking, high prey drive, and a tendency toward bossiness if not given clear rules. Enroll in puppy class early. Positive reinforcement training works well — Yorkies are food motivated and respond to consistent rewards. Housetraining requires patience and strict scheduling. Small accidents are easy to miss with a tiny dog, which allows the behaviour to be reinforced unintentionally. Take the puppy outside every 2 hours during waking hours and reward every successful outdoor elimination immediately.</p><h3>Schedule the First Grooming Appointment Early</h3><p>Book the first professional grooming visit when the puppy is 10–12 weeks old — even before the full coat has grown in. The goal is early positive association with the groomer, the table, the sounds, and the handling. A puppy that has had multiple positive early grooming experiences becomes an adult dog that accepts the process calmly. One that first sees a groomer at 8 months is much harder to work with.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "When should I start brushing my Yorkshire Terrier puppy's teeth?",
+      "a": "Week one — ideally the first few days home. Use a finger brush and a tiny amount of dog-safe enzymatic toothpaste. Keep early sessions short and positive, rewarding generously. The habit should become a daily routine immediately. Yorkshire Terriers are one of the breeds most prone to severe dental disease, and daily brushing from puppyhood significantly reduces the rate of tartar buildup and can delay or reduce the need for professional dental cleanings under anesthesia."
+    },
+    {
+      "q": "Do Yorkshire Terriers need a harness?",
+      "a": "Yes. Yorkies are prone to tracheal collapse, and collar pressure worsens this condition. Always use a properly fitted harness for all walks and activities. The collar is only for ID tags. Choose a harness with an escape-proof design — small dogs can sometimes back out of loosely fitted harnesses."
+    },
+    {
+      "q": "Are Yorkshire Terriers good apartment dogs?",
+      "a": "Yes, generally. Their small size makes them well-suited to apartment living, and their exercise needs are manageable compared to larger or more athletic breeds. However, Yorkies can be vocal — barking at noises in the hallway is common — which requires training from puppyhood to manage in close quarters with neighbours. Basic obedience and a clear no-unnecessary-barking rule, established early, helps considerably."
+    }
+  ]
+}

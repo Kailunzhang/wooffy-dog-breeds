@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Miniature Bull Terrier First Year Costs",
+    "slug": "miniature-bull-terrier-first-year-costs",
+    "shopify_handle": "miniature-bull-terrier-first-year-costs",
+    "group": "Miniature Bull Terrier",
+    "size_category": "Guide",
+    "tags": ["miniature-bull-terrier", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-04-28T16:00:00Z",
+    "excerpt": "The Miniature Bull Terrier is a moderately expensive breed to acquire, with relatively low ongoing costs. Here's a realistic breakdown of first-year expenses for this compact, characterful terrier.",
+    "meta_description": "Miniature Bull Terrier first year costs: puppy price, food, vet care, and supplies. Budget $2,500–$5,000 for year one with this unique and devoted compact terrier."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Miniature_Bull_Terrier.jpg/330px-Miniature_Bull_Terrier.jpg",
+      "alt": "Miniature Bull Terrier"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Upfront Costs of Getting a Miniature Bull Terrier",
+      "html": "<p><strong>Puppy Purchase Price: $1,500–$3,500.</strong> A well-bred Miniature Bull Terrier from a breeder who performs the essential health tests (DNA test for Hereditary Nephritis and Primary Lens Luxation, BAER hearing test, cardiac screening) will fall in this range. Given the breed's relative rarity, waiting lists are common. Breeders producing puppies at significantly lower prices may be skipping critical health testing.</p><p><strong>Crate: $40–$80.</strong> A 30–36 inch crate is appropriate for most adult Miniature Bull Terriers — they're compact but solid.</p><p><strong>Dog Bed: $35–$80.</strong> A washable, durable bed. Mini Bulls are sometimes enthusiastic chewers, so choose something sturdy or be prepared to replace it.</p><p><strong>Collar, Leash, Harness: $35–$70.</strong> A well-fitted flat collar, a no-pull harness for walks, and a 4–6 foot leash.</p><p><strong>Food and Water Bowls: $15–$40.</strong> Stainless steel in an appropriate small-to-medium size.</p><p><strong>Initial Vet Visit and Vaccines: $200–$400.</strong> Full puppy exam, DHPP vaccine series, rabies, deworming, flea/tick prevention, and microchipping if not done by breeder.</p><p><strong>Spay/Neuter: $250–$450.</strong> Timing around 12 months is typical for this breed.</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Recurring First Year Costs",
+      "html": "<p><strong>Food: $40–$60/month ($480–$720/year).</strong> High-quality small-to-medium breed dry food for a 18–28 lb dog, approximately 1–1.5 cups daily.</p><p><strong>Veterinary Care: $300–$500/year.</strong> Routine wellness care, booster vaccines, and parasite prevention.</p><p><strong>Training: $150–$400/year.</strong> Particularly important for this breed — group puppy class plus basic obedience. Private training may be worth the investment for specific behavioral issues that arise.</p><p><strong>Grooming: Minimal.</strong> The short coat requires almost no professional grooming. Occasional bath and nail trim at a groomer: $30–$50 per visit. Home brushing supplies: $20–$40 one-time.</p><p><strong>Pet Insurance: $25–$50/month ($300–$600/year).</strong> Given the breed's specific health concerns (Hereditary Nephritis, Primary Lens Luxation, deafness), insurance is a wise investment. Enroll while the dog is young and healthy.</p><p><strong>Toys and Enrichment: $80–$150/year.</strong> Durable toys are important — Mini Bulls can be destructive with weak toys. Budget for replacements.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Costs",
+      "html": "<p><strong>Estimated First Year Total: $2,500–$5,000</strong></p><p>Including purchase price, setup costs, and recurring first-year expenses.</p><p><strong>Ongoing Annual Costs (Year 2+): $1,500–$2,500/year.</strong> Primarily food, veterinary care, and insurance. Grooming costs are minimal for this breed.</p><p><strong>Health Cost Planning:</strong> Hereditary Nephritis management (regular kidney function monitoring as the dog ages) and Primary Lens Luxation surgery ($1,500–$3,000) if it occurs are potential significant expenses. Pet insurance helps offset these costs significantly.</p><p><strong>Lifetime Cost Estimate:</strong> Over an 11–13 year lifespan, total ownership costs typically range from $20,000–$36,000.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How much does a Miniature Bull Terrier puppy cost?",
+      "a": "From a reputable health-testing breeder, $1,500–$3,500. The breed is relatively uncommon, and waiting lists are typical with quality breeders."
+    },
+    {
+      "q": "Are Miniature Bull Terriers expensive to maintain?",
+      "a": "Moderate — their small size keeps food costs reasonable and their short coat eliminates grooming expenses. The main financial variable is potential health care costs for breed-specific conditions."
+    },
+    {
+      "q": "Should I get pet insurance for a Miniature Bull Terrier?",
+      "a": "Yes, strongly recommended. Hereditary Nephritis management, Primary Lens Luxation surgery, and cardiac care can all be costly. Enrolling while young maximizes coverage and minimizes pre-existing condition exclusions."
+    }
+  ]
+}

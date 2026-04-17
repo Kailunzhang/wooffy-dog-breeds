@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "name": "Black and Tan Coonhound Puppy Checklist",
+    "slug": "black-and-tan-coonhound-puppy-checklist",
+    "shopify_handle": "black-and-tan-coonhound-puppy-checklist",
+    "group": "Black and Tan Coonhound",
+    "size_category": "Guide",
+    "tags": ["black-and-tan-coonhound", "puppy", "checklist", "ear-care", "scent-hound"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "Before your Black and Tan Coonhound comes home: secure fencing is the first priority, followed by establishing the ear cleaning habit from day one.",
+    "meta_description": "Black and Tan Coonhound puppy checklist: secure fencing, ear care setup, nose work enrichment, training approach for a scent hound, and essential gear."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Black_and_Tan_Coonhound.jpg/250px-Black_and_Tan_Coonhound.jpg",
+      "alt": "Black and Tan Coonhound puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Black and Tan Coonhound Prep: Fence, Ear Supplies, and Insurance",
+      "html": "<p>Three things to have ready before your Black and Tan Coonhound puppy arrives:</p><ol><li><strong>Secure fencing.</strong> Six feet of solid fencing minimum — this is a scenthound that will follow a trail out of any unfenced area. Check all gate latches and dig-prevention at the fence base.</li><li><strong>Ear cleaning supplies.</strong> A vet-approved ear cleaner and cotton balls. Start handling and inspecting the puppy's ears from day one — a dog that tolerates ear handling as a puppy becomes a dog that accepts weekly ear checks as an adult without drama.</li><li><strong>Pet insurance enrollment.</strong> Before the first vet visit. Hip dysplasia in a large breed can require expensive surgery; insurance before the first exam ensures no pre-existing exclusions.</li></ol><h3>Essential Gear Checklist</h3><ul><li>Large crate (36–42 inch with divider)</li><li>Orthopedic dog bed</li><li>Stainless steel food and water bowls</li><li>Flat collar + ID tag (engrave on arrival day)</li><li>Harness for walks</li><li>4–6 ft leash</li><li>Rubber grooming mitt or hound glove</li><li>Vet-approved ear cleaner and cotton balls</li><li>High-value training treats</li><li>Enzymatic cleaner</li><li>Durable chew toys</li></ul>"
+    },
+    "care": {
+      "label": "First Week",
+      "heading": "First Week Priorities",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam and vaccine schedule review</li><li>Parasite prevention</li><li>Microchip if not done by breeder</li><li>Ask about spay/neuter timing — many vets now recommend waiting until 18 months in larger breeds</li><li>Confirm pet insurance is active before this appointment</li></ul><h3>Start Ear Handling Immediately</h3><p>Every day from the first day: lift each ear flap, look inside, touch the ear canal area, give a treat. You're not cleaning anything yet — you're teaching the puppy that ear handling means treats and is normal. A puppy that has had its ears handled daily for 8 weeks becomes an adult that accepts weekly cleaning without resistance. An adult dog that was never habituated to ear handling turns weekly ear care into a struggle.</p><h3>Socialization: The Key Window</h3><p>The critical socialization period is 8–16 weeks. Expose the puppy positively to: different people (children, elderly, people in hats or uniforms), different environments, sounds, friendly dogs. The social, friendly nature of the breed is an asset here — Black and Tans are generally not suspicious of strangers, but broad early socialization cements this.</p>"
+    },
+    "special": {
+      "label": "Training a Scent Hound",
+      "heading": "Training Approach for a Nose-Driven Dog",
+      "html": "<p>Black and Tan Coonhounds are intelligent but scent-motivated. Training indoors with minimal distractions is much more productive than training outdoors where every smell competes with you. Start all training inside, then gradually increase environmental difficulty.</p><h3>What to Focus On</h3><ul><li>Leash manners: start loose-leash walking immediately. A dog that pulls at 20 lbs becomes a serious management problem at 90 lbs</li><li>Sit, stay, come (in low-distraction environments) — build the habit before you need it</li><li>Door manners: sit before going outside, sit before greeting visitors</li><li>Crate training: voluntary crate entry and settling — essential for a hound that will be left alone</li></ul><h3>Channel the Nose</h3><p>Rather than fighting the scent drive, channel it: nose work games, treat-find puzzles, and sniff walks (where the dog leads and sniffs at will) are enriching activities that tire the dog more effectively than distance-based exercise. A 20-minute nose work session has an equivalent settling effect to a much longer plain walk. Lean into what the dog is built for.</p><h3>Baying Management</h3><p>The baying voice cannot be trained away entirely, but nuisance baying (from boredom or under-stimulation) can be greatly reduced through adequate exercise and mental enrichment. An under-exercised Coonhound left alone will bay. An adequately exercised dog with enrichment toys settles quietly. The exercise and enrichment are the management tool — not training the bark away.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "At what age should I start ear cleaning?",
+      "a": "Start handling the ears from day one, but actual cleaning depends on what you see. Begin a formal weekly ear check from the first week — even if the ears look fine, you're building tolerance for the handling. Start using a small amount of ear cleaner on a cotton ball to wipe visible areas from around 8–10 weeks. By the time the puppy is an adolescent, ear maintenance should be a practiced routine."
+    },
+    {
+      "q": "How do I train a Black and Tan Coonhound?",
+      "a": "Short sessions (5–10 minutes), high-value food rewards (real meat or cheese, not dry kibble), and low-distraction environments for new skills. Once behaviors are established, gradually increase distraction level. Accept that outdoor recall against a competing scent is not a realistic training goal — use fencing and leash management instead of trying to override the scent drive through training."
+    }
+  ]
+}

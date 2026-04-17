@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "name": "Harrier Puppy Checklist",
+    "slug": "harrier-puppy-checklist",
+    "shopify_handle": "harrier-puppy-checklist",
+    "group": "Harrier",
+    "size_category": "Guide",
+    "tags": ["harrier", "puppy", "checklist", "hound", "scent-hound"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "Everything you need before your Harrier puppy comes home — fence security, insurance enrollment, and a plan for channeling the nose drive.",
+    "meta_description": "Harrier puppy checklist: secure fencing requirements, ear care setup, nose work enrichment, training a pack hound, and essential gear."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Harrier_Hound_-Pedigree_Harrier.jpg/250px-Harrier_Hound_-Pedigree_Harrier.jpg",
+      "alt": "Harrier puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Harrier Puppy Prep",
+      "html": "<p>Harrier puppies are sociable, energetic, and nose-driven from the start. Two things to have in place before the puppy arrives:</p><ol><li><strong>Secure fencing.</strong> The scent drive overrides training outdoors — any unfenced area is escape risk. 5–6 foot fencing recommended, checking gates and dig vulnerabilities.</li><li><strong>Pet insurance enrolled.</strong> Before the first vet visit, before any conditions are documented.</li></ol><h3>Essential Gear Checklist</h3><ul><li>Crate (30–36 inch with divider for a puppy)</li><li>Dog bed</li><li>Stainless steel food and water bowls</li><li>Collar, ID tag, and harness</li><li>Leash (4–6 ft)</li><li>Rubber grooming mitt</li><li>Ear cleaner and cotton balls</li><li>High-value training treats</li><li>Enzymatic cleaner</li><li>Toys — hounds are chewers; get durable options</li></ul>"
+    },
+    "care": {
+      "label": "First Week",
+      "heading": "First Week Essentials",
+      "html": "<h3>Vet Visit (Within 48–72 Hours)</h3><ul><li>Full exam, vaccine continuation, parasite prevention</li><li>Microchip if not done by breeder</li><li>Pet insurance active before this visit</li></ul><h3>Socialization: The Pack Dog Advantage</h3><p>Harriers are naturally social and pack-oriented, which makes socialization easier than with more independent or suspicious breeds. The socialization window is still 8–16 weeks and still critical — expose broadly and positively to people, environments, sounds, and other dogs. The pack orientation means Harriers generally warm to other dogs easily, but still benefit from controlled, positive early exposure.</p><h3>Nose Work From Day One</h3><p>Start nose work games immediately. Hide treats around the yard or in a puzzle toy and let the puppy find them. This channel for the nose drive is enriching, tiring, and builds a positive relationship between the dog's instincts and you as the source of reward. It's also one of the best ways to tire a Harrier more efficiently than distance exercise alone.</p>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Training a Pack Hound",
+      "html": "<p>Harriers are more trainable than some scent hounds because the pack orientation makes them responsive to social reward as well as food. They want to work with their group. Use positive reinforcement, keep sessions short, and build a foundation of reliable indoor obedience before taking training outdoors.</p><h3>Core Commands to Establish Early</h3><ul><li>Sit, down, stay — food reward, short sessions, multiple times daily</li><li>Name response — puppy should look at you reliably when called</li><li>Come — practice in the fenced yard on a long line; never rely on it in open areas</li><li>Loose-leash walking — start from the first walk, prevent pulling from becoming habitual</li><li>Crate entry — voluntary, positive association from day one</li></ul><p>The hound independence is present but less pronounced than in breeds like the Bloodhound or Coonhound. Harriers are reasonably biddable when properly motivated — the training challenge is distraction management, not unwillingness to cooperate.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How do I find a Harrier breeder?",
+      "a": "The Harrier Club of America is the best starting point — they maintain a breeder directory. Harriers are genuinely rare, and you will likely need to contact multiple breeders and wait for availability. This is worth doing correctly rather than purchasing from an unknown source. The wait is typically months, not years."
+    },
+    {
+      "q": "Are Harrier puppies easy to train?",
+      "a": "Easier than some scent hounds because of their pack-oriented, socially responsive nature. They are food-motivated and willing to work with their people. The challenge is environmental distraction outdoors — train new behaviors inside first, then gradually increase distraction level. Accept that outdoor recall is unreliable against a competing scent and manage with leash and fencing rather than trying to train around it."
+    }
+  ]
+}

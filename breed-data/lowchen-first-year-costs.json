@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "name": "Lowchen First Year Costs",
+    "slug": "lowchen-first-year-costs",
+    "shopify_handle": "lowchen-first-year-costs",
+    "group": "Lowchen",
+    "size_category": "Guide",
+    "tags": ["lowchen", "costs", "non-sporting"],
+    "published": true,
+    "published_at": "2026-05-02T16:00:00Z",
+    "excerpt": "A complete first year cost breakdown for Lowchen ownership — covering the premium puppy price, one-time setup, veterinary care, grooming, and ongoing annual expenses for this rare breed.",
+    "meta_description": "Lowchen first year cost guide: puppy price, setup expenses, grooming, vet care, food, and realistic annual budget for this rare small breed."
+  },
+  "stats": {
+    "height": "12–14 inches",
+    "weight": "15 lbs",
+    "lifespan": "13–15 years",
+    "energy_level": "Moderate",
+    "grooming_needs": "Moderate",
+    "good_with_kids": true,
+    "good_with_other_dogs": true,
+    "shedding": "Low",
+    "trainability": "Easy"
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lowchen_dog.jpg/330px-Lowchen_dog.jpg",
+      "alt": "Lowchen"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Puppy Price and Setup Expenses",
+      "html": "<p>The Lowchen is one of the more expensive small breeds to purchase, primarily because of its genuine rarity. Puppies from health-tested, responsibly bred litters typically cost $2,000–$4,000 in the United States, and prices at the top of this range — or higher — are not unusual from breeders with established, health-tested lines. Wait lists of one to two years are common with the best breeders. The Lowchen Club of America's breeder referral is the most reliable starting point.</p><p>The high purchase price reflects the small number of breeders, the careful breeding practices necessary to maintain health in a small gene pool, and the genuine demand for a high-quality rare breed. Imported puppies from European breeders (where the Lowchen remains slightly more common) are another option, though import costs — health certification, airline transport, import fees — add $500–$1,500 or more to the purchase price.</p><p>One-time setup supplies:</p><ul><li>Crate sized for a 15-lb dog: $35–$70</li><li>Dog bed and crate padding: $25–$50</li><li>Stainless steel food and water bowls: $15–$30</li><li>Collar, ID tag, and leash: $20–$45</li><li>Pin brush and metal comb: $25–$45</li><li>Puppy safety gates: $25–$60</li><li>Toys and enrichment items: $25–$55</li><li>Enzyme cleaner: $12–$20</li></ul><p>Total one-time setup estimate: $182–$375.</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Veterinary Care, Food, Grooming, and Training",
+      "html": "<p>First-year veterinary costs include the puppy vaccine series, parasite prevention, and optional spay/neuter. Estimated first-year vet expenses:</p><ul><li>Puppy wellness exams and vaccines: $250–$450</li><li>Heartworm, flea, and tick prevention: $12–$25/month ($144–$300/year)</li><li>Spay or neuter: $250–$550</li><li>Microchip: $25–$50</li></ul><p>Food for a 15-lb Lowchen is one of the lowest-cost categories. Quality dry kibble or fresh food runs $25–$45/month ($300–$540/year). The breed does not have particular dietary sensitivities beyond normal small-breed considerations, though small-breed formula foods are appropriate for this size.</p><p>Professional grooming every 6–8 weeks runs $45–$75 per appointment for a skilled groomer executing the lion clip or natural coat trim. Budget $340–$600/year for 6–8 appointments. Owners who learn to maintain the coat between appointments with home brushing and periodic touch-up trims can extend the interval to 8–10 weeks, reducing annual grooming costs.</p><p>Puppy training classes: $100–$180 for a 6–8 week group course. The Lowchen is easy to train and should progress quickly through basic obedience. One round of puppy classes is typically sufficient for most owners.</p><p>Pet insurance: $25–$45/month ($300–$540/year) is a prudent investment for any purebred dog. For a rare breed with a relatively small gene pool, having coverage in place before any issues manifest is especially wise.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Budget",
+      "html": "<p>First year cost summary:</p><ul><li>Puppy price: $2,000–$4,000</li><li>One-time setup supplies: $182–$375</li><li>First-year veterinary care: $519–$1,050</li><li>Food: $300–$540</li><li>Grooming: $340–$600</li><li>Training: $100–$180</li><li>Pet insurance: $300–$540</li></ul><p><strong>First year total (excluding puppy): $1,741–$3,285</strong><br><strong>First year total (including puppy): $3,741–$7,285</strong></p><p>The high purchase price is the dominant cost driver for the Lowchen. From year two onward, annual costs settle to a very reasonable $1,600–$2,800, covering food, grooming, routine veterinary care, parasite prevention, and pet insurance. The Lowchen is a long-lived breed (13–15 years) with modest food requirements and generally good health — on a per-year-of-life basis, the total cost of ownership is quite favorable once the initial purchase price is amortized.</p><p>The most likely unexpected cost driver is dental care. Small breeds are prone to periodontal disease; professional dental cleanings under anesthesia may be needed every 1–3 years at a cost of $400–$900 each. Consistent at-home tooth brushing can reduce frequency significantly.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Why do Lowchen puppies cost so much?",
+      "a": "Genuine rarity combined with responsible breeding practices. There are very few active Lowchen breeders in the US, litter sizes are small, and quality breeders invest in health testing, whelping care, and puppy socialization. The limited supply relative to demand supports the high price."
+    },
+    {
+      "q": "Are there any ongoing costs unique to the Lowchen?",
+      "a": "The lion clip grooming is the most notable breed-specific cost — it requires a skilled groomer and professional appointments every 6–8 weeks. Beyond that, costs are in line with similar-sized companion breeds. Dental care is an important ongoing investment for small breeds in general."
+    },
+    {
+      "q": "Is pet insurance worth it for a Lowchen?",
+      "a": "Yes. While the Lowchen is generally healthy, the breed's small gene pool makes genetic conditions a real consideration, and any unexpected veterinary cost is easier to manage with insurance in place. Enroll when the puppy is young and healthy to avoid pre-existing condition exclusions."
+    }
+  ],
+  "related_breeds": ["bichon-frise", "maltese", "havanese"]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Collie Grooming Guide",
+    "slug": "collie-grooming-guide",
+    "shopify_handle": "collie-grooming-guide",
+    "group": "Collie",
+    "size_category": "Guide",
+    "tags": ["collie", "grooming", "rough-collie", "double-coat", "mane-maintenance"],
+    "published": true,
+    "published_at": "2026-04-21T16:00:00Z",
+    "excerpt": "The Rough Collie's spectacular mane and flowing coat require daily brushing or regular professional grooming. Here's how to maintain it — and why the mane is where the work actually happens.",
+    "meta_description": "Collie grooming guide: rough coat daily brushing routine, mane mat prevention, professional clip schedule, CEA and MDR1 awareness, and ear and nail care for this herding breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1Dog-rough-collie-portrait.jpg/330px-1Dog-rough-collie-portrait.jpg",
+      "alt": "Collie grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Collie Coat",
+      "heading": "Understanding the Rough Collie Double Coat",
+      "html": "<p>The Rough Collie has one of the most dramatic coats among herding breeds: a dense, flat undercoat topped by a harsh, straight outer coat that stands off the body, with a particularly profuse mane and frill around the neck and chest. The smooth Collie variety has the same double coat in a short, dense form and requires far less maintenance. This guide focuses primarily on the Rough Collie coat, which is the more common variety and the most grooming-intensive.</p><h3>Grooming Tools You'll Need</h3><ul><li>Pin brush — primary tool for the outer coat; prevents damage to the harsh outer guard hairs</li><li>Undercoat rake — for removing loose undercoat</li><li>Wide-tooth steel comb — for checking the mane, frill, and feathering for tangles</li><li>Slicker brush — for finishing and removing fine debris</li><li>Dematting tool or mat splitter — for working out tangles before they develop into mats</li><li>Dog-safe shampoo and conditioner formulated for double coats</li><li>High-velocity dryer (strongly recommended for this coat volume)</li></ul><h3>Grooming Reality: Daily or Professional</h3><p>A Rough Collie in full coat maintained at home requires daily brushing — not weekly, not \"a few times a week.\" Owners who don't brush daily typically choose professional grooming every 6–8 weeks to keep the coat manageable. Both approaches work; the key is committing to one of them and maintaining it consistently.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Daily Brushing and Monthly Maintenance",
+      "html": "<h3>Daily Brushing</h3><ul><li>Work through the coat section by section with a pin brush, starting at the base of the coat and working outward — this lifts the coat off the undercoat rather than sliding over the surface</li><li>The mane and frill are the highest priority areas — these mat fastest and most severely. Brush them first at every session</li><li>Check behind the ears, in the armpits, and along the hindquarters — secondary mat-risk areas</li><li>Follow with an undercoat rake through the body coat to remove loose undercoat</li><li>Finish with a steel comb through the mane and frill to confirm the coat is tangle-free to the skin</li></ul><h3>Professional Grooming Alternative</h3><p>Many Rough Collie owners use professional groomers every 6–8 weeks. A groomer familiar with the breed will provide a thorough deshedding bath, blow-dry, and light tidying without cutting the coat length. Specify that the coat should not be shaped or clipped — the Rough Collie coat should not be trimmed, only maintained.</p><h3>Monthly</h3><ul><li>Full bath every 6–8 weeks. Conditioner is essential — the coat tangles significantly when wet and dried without conditioning</li><li>Blow-dry completely. The dense undercoat holds moisture and can take hours to dry naturally — damp skin under the coat is a hot spot risk</li><li>Trim nails monthly</li></ul><h3>Coat Blow Season (Twice Per Year)</h3><p>Collies blow their undercoat twice a year in spectacular volume. Daily brushing during this 3–4 week period is required. A deshedding bath session removes most of the releasing undercoat efficiently and shortens the blow duration.</p>"
+    },
+    "special": {
+      "label": "Mane and Drug Sensitivity",
+      "heading": "The Mane Is the Work — and Know the MDR1 Status",
+      "html": "<p>The Rough Collie's most distinctive feature — the profuse mane and frill — is also the highest-maintenance part of the coat. Without daily attention, the mane mats from the inside out. Mats that reach the skin require professional dematting (expensive and uncomfortable for the dog) or shaving (which destroys the signature appearance). Daily mane brushing is the foundation of Collie coat care.</p><h3>Mane Technique</h3><ul><li>Brush the mane daily — even a 2-minute daily session is more effective than a 20-minute weekly session</li><li>Work the mane in sections from the outside in, lifting and brushing rather than pulling through from the surface</li><li>Apply a light detangling spray to the dry mane before brushing — it significantly reduces hair breakage and eases comb-through</li><li>A steel comb used through the fully brushed mane confirms you've reached the skin and there are no hidden developing mats</li></ul><h3>MDR1 Drug Sensitivity</h3><p>Rough Collies are affected by the MDR1/ABCB1 mutation at a high rate — up to 70% of Rough Collies may carry at least one mutant copy. This mutation makes the blood-brain barrier permeable to certain medications including some dewormers (ivermectin, milbemycin) and certain anesthetics. Responsible breeders DNA-test both parents; ask for documentation. Have your vet test your dog if breeder documentation is unavailable. The results must be in your dog's medical record and should be carried as a medication alert card.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does a Rough Collie need grooming?",
+      "a": "Daily brushing for owners who maintain the coat at home, or professional grooming every 6–8 weeks for owners who rely on a groomer. There is no middle path for a Rough Collie in full coat — it's daily maintenance or regular professional appointments. The mane specifically requires daily attention to prevent mat formation."
+    },
+    {
+      "q": "Can I shave my Rough Collie to make grooming easier?",
+      "a": "No — shaving a double-coated breed damages the coat structure and destroys the function that makes it weather-resistant. The Rough Collie's coat also contributes substantially to its appearance; a shaved Rough Collie does not look or function as the breed standard describes. Owners who find the full coat too demanding can choose to keep the dog in a maintained, shorter-length cut via professional grooming without shaving to the skin."
+    },
+    {
+      "q": "What is the MDR1 mutation and how does it affect a Collie's care?",
+      "a": "MDR1 (ABCB1) is a genetic mutation affecting up to 70% of Rough Collies. It makes the blood-brain barrier permeable to certain medications — ivermectin (common in many dewormers and heartworm preventives), some anesthetics, and other drugs can cause neurological toxicity in affected dogs. Have the dog DNA-tested if the breeder didn't provide results, and ensure the results are in the dog's medical record before any medications are prescribed."
+    }
+  ]
+}

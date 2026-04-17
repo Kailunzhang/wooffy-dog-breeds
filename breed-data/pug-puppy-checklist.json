@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Pug",
+    "shopify_handle": "pug-puppy-checklist",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "name": "Pug Puppy Checklist: What to Do Before and After Bringing One Home",
+    "slug": "pug-puppy-checklist",
+    "excerpt": "A practical checklist for new Pug owners — covering AC setup, daily wrinkle cleaning, BOAS evaluation, and heat stroke recognition from day one.",
+    "meta_description": "A practical checklist for new Pug owners — covering AC setup, daily wrinkle cleaning, BOAS evaluation, and heat stroke recognition from day one.",
+    "tags": [
+      "Pug",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mops-duke-mopszucht-vom-maegdebrunnen.jpg/330px-Mops-duke-mopszucht-vom-maegdebrunnen.jpg",
+      "alt": "Pug dog"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before the Puppy Arrives",
+      "heading": "Air Conditioning Setup: Do This Before Pickup Day",
+      "html": "<h3>Air Conditioning Is Non-Negotiable for Pugs</h3><p>Pugs are brachycephalic — their restricted airways make it genuinely difficult or impossible for them to cool themselves adequately through panting in hot weather. A Pug left in a warm or hot environment without air conditioning is at serious risk of heat stroke, which can be fatal. Before bringing your puppy home, ensure that your home has reliable air conditioning available, or that the dog will always have access to cool, air-conditioned space. This is not a comfort upgrade — it is a basic safety requirement for the breed.</p><p>Never leave a Pug in a car, sunroom, or outdoor space without shade and airflow in warm weather, even briefly.</p><h3>Verify Health Considerations Before Purchasing</h3><ul><li>Ask the breeder to have your specific puppy evaluated for breathing quality before purchase — watch the puppy at rest and at mild activity, and listen to the breathing. Severely noisy breathing at rest in a young puppy indicates significant BOAS that will likely require surgery.</li><li>Ask about the parents' breathing quality and whether either parent has had airway surgery.</li><li>Ask about eye history in the breeding lines — corneal injuries and eye conditions are common in this breed.</li></ul><h3>Gear Checklist</h3><ul><li>Small crate with soft bedding</li><li>Harness (not collar for walking)</li><li>Unscented pet-safe wipes for daily fold cleaning — have these ready before day one</li><li>Cotton rounds and gentle eye wipe solution for daily eye cleaning</li><li>Dog-safe enzymatic toothpaste and finger brush</li><li>Small-breed puppy food</li><li>Small food and water bowls</li><li>Baby gates to prevent stair falls</li><li>Enzymatic cleaner</li><li>Pet insurance enrolled before first vet visit</li></ul>"
+    },
+    "care": {
+      "label": "First Weeks at Home",
+      "heading": "First Vet Visit and Building Daily Care Habits",
+      "html": "<h3>First Vet Appointment (Within 48–72 Hours of Pickup)</h3><ul><li>Full physical exam and vaccine status review</li><li><strong>BOAS evaluation:</strong> Ask your vet to assess the puppy's airway, nostril diameter, and soft palate. Establish whether early intervention is recommended. Even if surgery is not needed yet, you want a baseline evaluation and a clear discussion of signs to watch for as the dog grows.</li><li>Set vaccination and deworming schedule</li><li>Discuss spay/neuter timing</li><li>Get instructions on proper skin fold cleaning technique</li><li>Confirm the daily eye cleaning routine</li><li>Discuss heat safety guidelines for your climate</li></ul><h3>Start Daily Wrinkle Cleaning From Day One</h3><p>Open each fold gently, wipe inside with an unscented wipe, then dry thoroughly. This takes 3–5 minutes and should happen every day. The morning routine works well — tie it to an existing daily habit. Do not skip days. A fold that looks fine today will develop an infection within days if cleaning lapses.</p><h3>Daily Eye Cleaning</h3><p>Wipe gently around the eyes each day to remove discharge. Use a damp cotton round. Establish positive association with face handling from day one — reward the puppy generously after each cleaning session. An adult Pug that tolerates face handling makes veterinary eye exams and home care far easier.</p>"
+    },
+    "special": {
+      "label": "Heat Safety and Long-Term Management",
+      "heading": "Heat Stroke Signs and Lifetime Care Expectations",
+      "html": "<h3>Memorize These Heat Stroke Warning Signs</h3><p>Heat stroke is a life-threatening emergency. Know the signs and act immediately if you see them:</p><ul><li>Excessive panting or distressed breathing</li><li>Drooling more than usual</li><li>Bright red, pale, or bluish gums</li><li>Lethargy, stumbling, or weakness</li><li>Vomiting or diarrhoea</li><li>Loss of consciousness</li></ul><p>If you suspect heat stroke: move the dog to a cool area, apply cool (not ice cold) water to the paw pads and armpits, and get to a vet immediately. Do not wait to see if the dog improves on its own — heat stroke is an emergency.</p><h3>Exercise Guidelines for Pugs</h3><p>Pugs need exercise, but their airway limitations require adjustments. Walk in the early morning or evening when temperatures are below 70°F (21°C). Keep walks to 15–20 minutes. Avoid exercise on hot, humid days. Never take a Pug jogging or on long hikes in warm weather. Watch breathing throughout activity — if the dog is struggling, stop immediately and allow it to rest in a cool spot.</p><h3>Weight Management Is Critical</h3><p>Obesity significantly worsens BOAS symptoms — excess weight increases the effort required for every breath. Keep your Pug lean throughout its life. Pugs love food and will eat whatever is available; strict portion control and measured feeding (never free feeding) is required. Work with your vet to determine and maintain an ideal body weight.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Do I really need air conditioning for a Pug?",
+      "a": "Yes. Pugs cannot cool themselves effectively through panting due to their restricted airways. In warm weather without air conditioning, they are at serious risk of heat stroke — which can be fatal. Reliable access to cool, air-conditioned space is a basic safety requirement for this breed, not a luxury."
+    },
+    {
+      "q": "What is BOAS and does my Pug puppy need to be evaluated?",
+      "a": "BOAS stands for Brachycephalic Obstructive Airway Syndrome — a collective term for the airway restrictions caused by the Pug's flat-face anatomy, including narrow nostrils, elongated soft palate, and narrow trachea. Have your vet assess your puppy's airway at the first appointment. Surgery is not always required, but knowing the severity early allows you to monitor appropriately and plan for intervention if needed."
+    },
+    {
+      "q": "How do I prevent skin fold infections in my Pug?",
+      "a": "Clean each skin fold daily with unscented pet-safe wipes, then dry the fold completely. Moisture is the primary driver of fold infections. Daily cleaning takes 3–5 minutes and prevents the bacterial and yeast overgrowth that causes skin fold dermatitis. If you notice redness, odor, or the dog scratching at a fold, see your vet — established infections require treatment to clear."
+    }
+  ]
+}

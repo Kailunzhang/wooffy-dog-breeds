@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Finnish Lapphund Grooming Guide",
+    "slug": "finnish-lapphund-grooming-guide",
+    "shopify_handle": "finnish-lapphund-grooming-guide",
+    "group": "Finnish Lapphund",
+    "size_category": "Guide",
+    "tags": ["finnish-lapphund", "grooming"],
+    "published": true,
+    "published_at": "2026-05-04T16:00:00Z",
+    "excerpt": "The Finnish Lapphund's beautiful double coat is moderate to maintain with regular brushing and becomes demanding during the twice-yearly coat blow. This guide covers the full brushing routine, shedding management, and bathing for this Nordic spitz breed.",
+    "meta_description": "Finnish Lapphund grooming guide: double coat care, seasonal shedding management, brushing routine, and bathing tips for this Nordic herding breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Finnish_Lapphund_Glenchess_Revontuli.jpg/330px-Finnish_Lapphund_Glenchess_Revontuli.jpg",
+      "alt": "Finnish Lapphund grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "A Thick Nordic Double Coat",
+      "html": "<p>The Finnish Lapphund's coat is a classic Nordic double coat designed for Arctic conditions: a long, straight-to-slightly-wavy outer coat that repels moisture and debris, over a dense, soft undercoat that provides exceptional insulation. The result is a striking, full-looking coat that comes in a remarkable variety of colors. Outside of the twice-yearly shedding seasons, the coat is moderately easy to maintain with regular brushing 2–3 times per week. During shedding seasons, the dense undercoat loosens and releases in significant volume, requiring daily attention to stay ahead of the hair.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Regular Brushing and Seasonal Deshedding",
+      "html": "<p><strong>Brushing:</strong> 2–3 times weekly with a pin brush or slicker brush for general maintenance. Work through the coat in sections, brushing from the skin out. Follow with a wide-tooth metal comb to check for tangles or mats near the skin, particularly in high-friction areas: armpits, groin, behind the ears, and under the collar.</p><p><strong>Shedding seasons:</strong> Twice yearly (spring and fall), the undercoat loosens and releases in large volumes. During these periods, brush daily with an undercoat rake or deshedding tool to pull out the loosening coat. A bath at the start of the shedding season helps release the coat; follow with a high-velocity dryer blow-out to remove maximum loose undercoat.</p><p><strong>Bathing:</strong> Every 4–6 weeks. Use a moisturizing dog shampoo followed by a coat conditioner. Rinse thoroughly. The thick double coat takes significant time to dry — use a high-velocity dryer on low heat for best results. Air drying is possible outdoors in warm weather but takes several hours.</p><p><strong>Nails:</strong> Monthly trimming. <strong>Ears:</strong> Check weekly — the pendant ears can trap moisture. <strong>Teeth:</strong> Brush several times per week.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Heat Sensitivity and Never-Shave Rule",
+      "html": "<p><strong>Do not shave:</strong> Never shave a Finnish Lapphund's double coat. The coat provides insulation against both cold and heat, and shaving disrupts this thermal regulation system. It also damages the coat's ability to regrow correctly. Regular brushing and deshedding is the correct method for managing the coat in all seasons.</p><p><strong>Heat management:</strong> The Lapphund is built for cold and is sensitive to heat. In summer, limit outdoor exercise to early morning and evening. Ensure the dog has shade and fresh water during warm weather. Indoor air conditioning is beneficial in hot climates.</p><p><strong>Post-outdoor checks:</strong> After outdoor activity — particularly in areas with burrs, seeds, or ticks — inspect the coat for debris. The thick coat can hide embedded items that cause skin irritation if left in place.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How bad is Finnish Lapphund shedding?",
+      "a": "Significant, especially during the twice-yearly coat blows. Regular daily brushing during shedding seasons and an undercoat rake dramatically reduce the volume of hair you find on furniture and floors. Outside of shedding season, moderate year-round shedding is manageable with 2–3 brushings per week."
+    },
+    {
+      "q": "Should I use a Furminator on my Finnish Lapphund?",
+      "a": "A deshedding tool like the Furminator can be useful during shedding season to remove loose undercoat efficiently. Use it sparingly and carefully — aggressive or frequent use can damage the outer coat. It is not a substitute for regular pin brush maintenance."
+    },
+    {
+      "q": "How long does it take to brush a Finnish Lapphund?",
+      "a": "Approximately 20–30 minutes for a thorough brushing during regular maintenance periods. During shedding season, a full deshedding session may take 45–60 minutes. Keeping the coat in good condition with regular brushing makes each session faster and easier."
+    }
+  ]
+}

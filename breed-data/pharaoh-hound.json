@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "name": "Pharaoh Hound",
+    "slug": "pharaoh-hound",
+    "shopify_handle": "pharaoh-hound",
+    "group": "Hound Group",
+    "size_category": "Medium Breed",
+    "tagline": "The Pharaoh Hound is an ancient, athletic sighthound from Malta that blushes when excited — nose and ears flush pink. Elegant, sensitive, and surprisingly playful, they require an owner who understands sighthound independence.",
+    "tags": ["hound-group", "medium-breed", "sighthound", "ancient-breed", "maltese-breed", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-26T16:00:00Z",
+    "excerpt": "The Pharaoh Hound is one of the oldest identifiable dog breeds in the world and the national dog of Malta. They blush — literally, their nose and ears turn pink when excited. Elegant and athletic, they need a sighthound-aware owner and a securely fenced yard.",
+    "meta_description": "Pharaoh Hound breed guide: the blushing trait, sighthound temperament, anesthesia sensitivity, exercise requirements, and what this ancient athletic breed actually needs from its owner."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "45–55 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "11–14 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Very Low" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate-Challenging" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pies_faraona_e34.jpg/250px-Pies_faraona_e34.jpg",
+      "alt": "Pharaoh Hound"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Pharaoh Hound?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Pharaoh Hound is among the oldest of all dog breeds — images resembling the breed appear in ancient Egyptian art, though the modern breed descends from dogs brought to Malta by Phoenician traders thousands of years ago. Malta's relative isolation preserved the breed's ancient type. The Pharaoh Hound is the national dog of Malta, where it is called Kelb tal-Fenek (rabbit dog) and is still used for rabbit hunting.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The breed's most remarkable trait is the blush response: when excited or happy, the nose and inner ear leather flush deep pink due to increased blood flow visible through the hairless, lightly pigmented skin. It is a genuinely unusual and charming characteristic that Pharaoh Hound owners consistently mention as one of the breed's defining joys.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">In terms of what you are actually living with: a lean, elegant, athletic sighthound that is friendlier and more playful than many sighthound breeds, moderately independent, requires a securely fenced yard, and is sensitive to cold. Their health is generally excellent with few breed-specific genetic diseases — a refreshing contrast to many modern breeds.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Pharaoh Hounds Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A medium-sized, lean sighthound with a distinctly elegant build. Males 23–25 inches at the shoulder, females 21–24 inches, both 45–55 lbs. The coat is short, fine, and very low-maintenance — tan or rich tan, sometimes with white markings. The large, erect ears are a signature feature. The amber eyes have an intelligent, alert expression.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The overall silhouette is athletic and streamlined — built for speed and agility rather than power. The blush is visible on the nose (which goes from dark tan to deep rose) and the inner ear leather when the dog is excited, happy, or playful.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Pharaoh Hounds are friendlier and more socially engaged than many sighthound breeds. They enjoy their family's company, play actively, and are typically good with children. They are not aloof dogs in the way a Greyhound or Afghan Hound can be — they are engaged and curious.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With strangers: they can be reserved initially but warm up with time. Proper socialization shapes this significantly. With other dogs: generally good, especially with dogs of similar size and energy. Small animals — including cats and rabbits — trigger prey drive and require careful management or avoidance.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Training: they are intelligent but have sighthound independence — when prey instinct fires or something interesting appears, obedience takes a back seat. Positive reinforcement works well; harshness produces shutdowns. Off-leash recall is unreliable and a securely fenced yard is non-negotiable. They are also sensitive dogs that do not cope well with conflict, harsh corrections, or chaotic households.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Pharaoh Hound",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Pharaoh Hound checks a lot of boxes that are hard to find together: beautiful, athletic, friendly, excellent health profile, very easy coat, good with kids. If you understand sighthound management — specifically, a secure fence and realistic off-leash expectations — there is a lot to recommend here.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The sensitivity to cold is practical, not just trivia. A thin-coated, lean-bodied sighthound living in a cold climate needs a dog coat for outdoor time in winter, may need heating consideration, and genuinely should not be left outside in cold conditions. This is not a cold-weather dog.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Anesthesia sensitivity — which applies to most sighthounds — is worth briefing your vet about before any procedure. It is manageable with an informed vet and appropriate protocols, but it requires your vet to know it applies. Not a reason to avoid the breed; a reason to be an informed owner.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">High energy that needs a daily outlet. 60–90 minutes of exercise, including opportunities for real running in a securely fenced area. On-leash walks alone are insufficient — this is an athletic breed that needs to run. Lure coursing is an excellent and breed-appropriate outlet for the prey drive.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The short, fine coat is one of the easiest coats in the dog world to maintain. A weekly wipe-down with a grooming mitt or chamois removes dead hair. Bathing every 4–6 weeks or as needed. Nails and ears are the primary regular maintenance items. See the <a href=\"/blogs/dog-breeds/pharaoh-hound-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Pharaoh Hound grooming guide</a>.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Cold Sensitivity</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">No body fat, minimal coat, and a lean build make the Pharaoh Hound genuinely sensitive to cold. Below 50°F, a dog coat is appropriate for outdoor activity. The dog should sleep indoors and should not be left outside in cold weather. In very cold climates, winter management requires additional consideration.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Pharaoh Hound has one of the cleaner health profiles of any recognized breed — few breed-specific genetic diseases and generally good longevity at 11–14 years. The primary concerns are shared sighthound vulnerabilities rather than breed-specific conditions.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Anesthesia Sensitivity</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Sighthounds metabolize certain anesthetic agents differently due to low body fat and liver enzyme differences. Standard barbiturate-based anesthesia protocols are inappropriate. Ensure your vet is aware and uses sighthound-appropriate anesthesia protocols. An informed vet handles this routinely — it is manageable, not dangerous, when known.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Minor risk in the breed. OFA hip screening is available and responsible breeders screen. Not a dominant concern at the level seen in heavier breeds, but worth asking about in breeder health clearances.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Cold Sensitivity</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Not a disease but a genuine welfare consideration. Lean build and minimal coat mean the dog gets cold quickly. A dog coat for winter outdoor activity, indoor sleeping only, and climate awareness are required.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip clearances. Ensure your vet notes sighthound anesthesia sensitivity in the record at the first visit.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, bed, dog coat, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$250–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,950–$5,300</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,300–$2,200</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/pharaoh-hound-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Pharaoh Hound first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Pharaoh Hound Right for You?",
+      "good_fit": [
+        "Active owners who can provide daily running in a securely fenced space",
+        "Households with a 6-foot fence — this is mandatory for a sighthound",
+        "People who appreciate a low-maintenance coat and generally excellent health",
+        "Owners willing to manage cold sensitivity with appropriate gear and indoor access",
+        "Those who want a friendly, engaged sighthound that is less aloof than Afghan or Greyhound"
+      ],
+      "not_fit": [
+        "First-time dog owners without sighthound experience",
+        "Households without a securely fenced yard",
+        "Homes with cats, rabbits, or small animals — prey drive is real",
+        "Cold-climate households without a plan for winter management",
+        "Anyone expecting off-leash reliability in open environments"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Pharaoh Hound",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$2,500 from reputable breeders. The Pharaoh Hound Club of America maintains a breeder referral list. The breed is not common — expect limited litter availability and a waiting list. Required health clearances: OFA hip at minimum. Ensure your vet is briefed on sighthound anesthesia sensitivity at the first visit.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Pharaoh Hound rescue is limited due to relatively low breed numbers. Sighthound-specific rescues occasionally have Pharaoh Hounds. The Pharaoh Hound Club of America is the best resource for rescue connections.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Pharaoh Hound comes home, complete the <a href=\"/blogs/dog-breeds/pharaoh-hound-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Pharaoh Hound puppy checklist</a> — fence verification, vet briefing on anesthesia, and cold weather gear are the key pre-arrival priorities.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "Do Pharaoh Hounds really blush?", "a": "Yes — it is one of the most distinctive traits in the dog world. When excited, happy, or playful, the Pharaoh Hound's nose and inner ear leather flush deep rose-pink due to increased blood flow visible through the lightly pigmented skin. It is a genuine physiological response, not a color pattern. Owners universally find it endearing." },
+    { "q": "Are Pharaoh Hounds good with children?", "a": "Generally yes — they are friendlier and more playful than many sighthound breeds and typically do well with children who understand how to interact with dogs calmly. Very young children and the dog's sensitivity require supervision. The Pharaoh Hound does not tolerate rough handling or chaotic interactions well." },
+    { "q": "Why does anesthesia sensitivity matter for sighthounds?", "a": "Sighthounds — including the Pharaoh Hound — metabolize certain anesthetic agents differently than other dogs due to their very low body fat percentage and differences in liver enzyme activity. Standard barbiturate-based protocols that are safe for most breeds can cause prolonged or difficult recovery in sighthounds. An informed vet uses sighthound-appropriate protocols; this is a standard consideration in veterinary practice. The risk is manageable with awareness — brief your vet at the first visit." },
+    { "q": "How much exercise does a Pharaoh Hound need?", "a": "More than their calm indoor manner suggests. 60–90 minutes daily, with real running opportunities in a securely fenced space. Lure coursing is ideal enrichment for the prey drive. On-leash walks alone are insufficient for this athletic breed. A well-exercised Pharaoh Hound is calm and relaxed indoors; an under-exercised one is restless." }
+  ],
+
+  "related_breeds": [
+    {"name": "Ibizan Hound", "slug": "ibizan-hound", "note": "Very similar type and temperament, another ancient Mediterranean sighthound"},
+    {"name": "Whippet", "slug": "whippet", "note": "Similar sighthound profile, more available, excellent athlete"},
+    {"name": "Greyhound", "slug": "greyhound", "note": "Larger sighthound, calmer indoors, many available through racing rescue"},
+    {"name": "Basenji", "slug": "basenji", "note": "Another ancient breed with unusual traits (yodel, not bark), similar independence"}
+  ]
+}

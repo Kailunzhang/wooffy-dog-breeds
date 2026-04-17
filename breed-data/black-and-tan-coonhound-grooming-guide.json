@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Black and Tan Coonhound Grooming Guide",
+    "slug": "black-and-tan-coonhound-grooming-guide",
+    "shopify_handle": "black-and-tan-coonhound-grooming-guide",
+    "group": "Black and Tan Coonhound",
+    "size_category": "Guide",
+    "tags": ["black-and-tan-coonhound", "grooming", "ear-care", "hound", "short-coat"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "The Black and Tan Coonhound coat is nearly maintenance-free. The ears are not. A consistent weekly ear check and cleaning protocol prevents the chronic infections that are the primary health problem in this breed.",
+    "meta_description": "Black and Tan Coonhound grooming guide: short coat care, the critical ear cleaning protocol, preventing chronic ear infections, nail care, and what weekly maintenance actually looks like."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Black_and_Tan_Coonhound.jpg/250px-Black_and_Tan_Coonhound.jpg",
+      "alt": "Black and Tan Coonhound grooming"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Short Coat",
+      "heading": "Black and Tan Coonhound Coat Basics",
+      "html": "<p>The Black and Tan Coonhound has a short, dense, glossy coat that is among the lowest-maintenance coats of any large breed. It sheds moderately year-round but does not blow a coat seasonally like double-coated breeds. A weekly once-over with the right tool keeps it in excellent condition. There is no clipping, no stripping, no elaborate maintenance required.</p><h3>Grooming Tools You'll Need</h3><ul><li>Rubber grooming mitt or hound glove — the primary coat tool, removes loose hair and massages the skin</li><li>Soft bristle brush — optional finishing tool for shine</li><li>Vet-approved ear cleaner — the most important product in your grooming kit for this breed</li><li>Cotton balls — for ear cleaning</li><li>Nail clippers or grinder</li><li>Dog-safe shampoo</li></ul>"
+    },
+    "care": {
+      "label": "Ear Care: The Critical Task",
+      "heading": "Preventing and Managing Ear Infections",
+      "html": "<p>The Black and Tan Coonhound's long, pendulous ears are a functional feature — they help funnel scent toward the nose. They are also the primary health liability of the breed. The ear flap covers the canal, reducing airflow and creating a warm, moist environment where bacteria and yeast thrive. Chronic ear infections cause pain, hearing damage over time, and expensive repeated vet visits.</p><h3>The Weekly Ear Protocol</h3><ol><li>Lift the ear flap and inspect the visible canal. A healthy ear is pale pink, odor-free, and has minimal wax</li><li>If you see any dark discharge, redness, or smell any odor — clean the ear and monitor. If symptoms persist beyond a day or two, or if the dog is shaking its head or pawing at the ear, schedule a vet visit. Established infections need medical treatment, not just cleaning</li><li>For routine maintenance cleaning: apply a small amount of vet-approved ear cleaner to a cotton ball. Wipe the visible part of the ear canal and the inner ear flap. Do not insert cotton balls or any instrument into the ear canal</li><li>Allow the dog to shake its head after cleaning — this brings debris up from deeper in the canal</li><li>Dry the outer ear flap with a clean towel</li></ol><h3>After Swimming or Bathing</h3><p>Water in the ears dramatically increases infection risk. After any water exposure, tilt the dog's head to each side to allow drainage and gently dry the ear flap and visible canal with a clean towel. If your dog swims regularly, increase ear checks to after every swim.</p><h3>The Coat: Weekly Routine</h3><p>Run the rubber grooming mitt over the entire coat once per week — against the grain first to lift dead hair, then with the grain to smooth. This is a 5-minute task. Bathe every 6–8 weeks or when dirty. The hound coat has a distinct 'hound smell' that some owners find bothersome — regular bathing with a deodorizing dog shampoo manages this effectively.</p>"
+    },
+    "special": {
+      "label": "Nail Care and Other Tasks",
+      "heading": "Nail, Dental, and General Maintenance",
+      "html": "<p>Nail care: trim monthly, or whenever you hear nails clicking on hard floors. Long nails affect gait and can cause discomfort in a large active breed. Use heavy-duty clippers or a grinder. If the dog is resistant, build tolerance through regular paw handling from puppyhood.</p><p>Dental care: brush teeth 2–3 times per week with dog-specific toothpaste. Daily is better. Dental disease is the most common health issue in dogs generally and is entirely preventable with consistent brushing. Professional dental cleanings (under anesthesia) are less frequent when home brushing is consistent.</p><p>Eye care: wipe eyes weekly with a damp cloth to remove any discharge. The slight eye droop common in the breed can trap moisture and debris in the corner of the eye. Monitor for excessive tearing, redness, or persistent discharge, which warrants a vet visit.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How do I know if my Black and Tan Coonhound has an ear infection?",
+      "a": "Signs include head shaking, pawing at the ear, redness or swelling in the ear canal, dark brown or black discharge, and a yeasty or foul odor. If you see any of these signs, veterinary treatment is needed — ear infections require prescription medication, not just cleaning. Don't wait and hope it resolves on its own."
+    },
+    {
+      "q": "Can I use ear cleaning wipes instead of liquid ear cleaner?",
+      "a": "Yes — gentle ear cleaning wipes designed for dogs work well for maintenance cleaning. They're convenient for the weekly check. For heavier cleaning (after swimming, after a mild infection clears), a liquid ear cleaner that you can apply and allow the dog to shake out is more thorough. Ask your vet for a product recommendation."
+    },
+    {
+      "q": "How often should I bathe a Black and Tan Coonhound?",
+      "a": "Every 6–8 weeks as a baseline, or when the dog gets dirty or develops the characteristic hound odor. Short hound coats pick up odors from outdoor environments and have a distinct natural scent that regular bathing manages well. Use a deodorizing dog shampoo for best results."
+    }
+  ]
+}

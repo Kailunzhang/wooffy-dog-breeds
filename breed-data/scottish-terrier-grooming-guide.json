@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Scottish Terrier Grooming Guide",
+    "slug": "scottish-terrier-grooming-guide",
+    "shopify_handle": "scottish-terrier-grooming-guide",
+    "group": "Scottish Terrier",
+    "size_category": "Guide",
+    "tags": ["scottish-terrier", "grooming"],
+    "published": true,
+    "published_at": "2026-04-29T16:00:00Z",
+    "excerpt": "The Scottish Terrier's iconic look is maintained through hand-stripping for show dogs or regular clipping for pets, combined with beard care and brushing of the leg furnishings. This guide covers everything you need for a well-groomed Scottie.",
+    "meta_description": "Scottish Terrier grooming guide: hand-stripping vs clipping the wiry coat, beard care, brushing furnishings, and bathing for the iconic Scottie."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Scottish_Terrier_Photo_of_Face.jpg/330px-Scottish_Terrier_Photo_of_Face.jpg",
+      "alt": "Scottish Terrier grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "The Iconic Scottie Look Requires Specific Care",
+      "html": "<p>The Scottish Terrier's distinctive appearance — the full beard, prominent eyebrows, flowing leg furnishings, and hard body coat — is achieved through either hand-stripping (for show dogs and owners committed to proper coat texture) or regular clipping (for most pet dogs). Both approaches maintain the Scottie's appearance, though clipping gradually softens the outer coat's wiry texture over time. The Scottie is a low-shedder, making it more manageable than many double-coated breeds for people sensitive to dog hair.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Brushing, Clipping or Stripping, and Beard Care",
+      "html": "<p><strong>Brushing:</strong> 2–3 times weekly with a slicker brush or pin brush, focusing particularly on the furnishings (leg hair, beard, eyebrows) where tangles form. The body coat is more self-maintaining. Use a metal comb to check the furnishings at the root after brushing.</p><p><strong>Clipping (pet dogs):</strong> Professional clipping every 6–8 weeks to maintain the correct length and shape. Find a groomer familiar with the Scottish Terrier's specific look — the beard, eyebrow arching, and leg furnishings require knowledge of the breed standard. Without breed-specific knowledge, a groomer may produce a generic small-dog clip rather than the authentic Scottie silhouette.</p><p><strong>Hand-stripping (show dogs):</strong> The body coat is hand-stripped 2–3 times per year. This technique, where the dead outer coat is pulled out by hand in the direction of growth, preserves the hard, correct texture and color intensity. It requires significant skill and time and is typically done by the owner or a breed-savvy professional groomer.</p><p><strong>Beard care:</strong> The Scottie's beard collects food and water at every meal and drink. Wipe the beard daily with a soft damp cloth or pet wipe to prevent food buildup, odor, and skin irritation underneath the dense hair. Check the skin under the beard regularly for redness or irritation.</p><p><strong>Bathing:</strong> Every 4–6 weeks. Use a terrier or hard-coat dog shampoo. For clipped dogs, a light conditioner on the furnishings helps prevent tangles. For stripped dogs, avoid conditioners on the body coat as they soften the hard texture. Dry thoroughly.</p><p><strong>Nails:</strong> Monthly trimming — the Scottie's dense coat can hide overgrown nails. <strong>Ears:</strong> Check and clean weekly. <strong>Teeth:</strong> Brush several times per week — small breeds are prone to dental disease.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Finding a Breed-Knowledgeable Groomer and Coat Color Changes",
+      "html": "<p><strong>The importance of a breed-knowledgeable groomer:</strong> The Scottish Terrier's classic silhouette depends on correct grooming: the beard and eyebrow shaping, the body coat length, the blend between body coat and furnishings. A groomer unfamiliar with the breed may produce a result that looks nothing like a Scottie. Ask prospective groomers specifically about their experience with Scotties or similar wiry terrier breeds (Welshies, Wire Fox Terriers). Show your groomer reference photos if needed.</p><p><strong>Wheaten coat care:</strong> Wheaten Scotties (pale cream to golden color) can stain more visibly than black Scotties — particularly around the beard and feet. A whitening or brightening shampoo used periodically helps maintain color clarity. More frequent beard cleaning is especially important for wheatens.</p><p><strong>Coat color after clipping:</strong> Black Scotties that are repeatedly clipped may show subtle color lightening as the clipped regrowth replaces the stripped original coat. Brindle patterns can appear to change slightly for the same reason. This is cosmetic and does not affect the dog's health.</p><p><strong>Ear hair:</strong> The Scottie's upright ears should be checked for excess hair inside the ear canal that can trap moisture. A terrier-experienced groomer can address this appropriately.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How do I maintain the Scottish Terrier's beard?",
+      "a": "Wipe the beard daily after meals and water. Use a soft damp cloth or pet facial wipe to remove food debris. Check the skin under the beard regularly for redness or odor. A light application of dog-safe dry shampoo between baths can help keep the beard fresh."
+    },
+    {
+      "q": "How often does a Scottish Terrier need professional grooming?",
+      "a": "Every 6–8 weeks for clipped dogs. Show dogs on a hand-stripping schedule have a longer between-appointment interval — typically a full strip every 3–4 months with tidying in between."
+    },
+    {
+      "q": "Do Scottish Terriers shed?",
+      "a": "Very little. The wiry double coat is low-shedding, which is one of the breed's practical advantages for people sensitive to dog hair. The dead coat loosens and is either hand-stripped or clipped rather than shed onto furniture."
+    }
+  ]
+}

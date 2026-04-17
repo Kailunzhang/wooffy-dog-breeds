@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "American Water Spaniel Puppy Checklist",
+    "slug": "american-water-spaniel-puppy-checklist",
+    "shopify_handle": "american-water-spaniel-puppy-checklist",
+    "group": "American Water Spaniel",
+    "size_category": "Guide",
+    "tags": ["american-water-spaniel", "puppy", "checklist", "cardiac", "ear-cleaning", "swimming"],
+    "published": true,
+    "published_at": "2026-04-22T16:00:00Z",
+    "excerpt": "Before your American Water Spaniel comes home: cardiac screening documentation from the breeder matters for this breed, insurance must be active before the first vet visit, and the ear cleaning routine starts immediately.",
+    "meta_description": "American Water Spaniel puppy checklist: cardiac health documentation, insurance timing, ear cleaning from day one, water socialization, gear list, and first vet visit priorities."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Chien_d%27eau_americain_champion_1.JPG/250px-Chien_d%27eau_americain_champion_1.JPG",
+      "alt": "American Water Spaniel puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "AWS Puppy Prep: Cardiac Documentation, Insurance, and Ear Care",
+      "html": "<p>Before your American Water Spaniel puppy arrives, confirm health documentation from the breeder, enroll in pet insurance before the first vet visit, and have your ear cleaning supplies ready. The AWS is a breed with documented cardiac concerns — ask specifically whether the breeding dogs have been cardiac-screened by a veterinary cardiologist. Insurance must be active before the first vet visit to preserve maximum coverage.</p><h3>Health Documentation to Confirm Before Purchase</h3><ul><li>Cardiac screening — echocardiography by a veterinary cardiologist is the gold standard; ask specifically what cardiac evaluation was performed on both parents</li><li>OFA hip certification for both parents</li><li>Eye exam (CAER) for both parents</li></ul><h3>Essential Gear Checklist</h3><ul><li>Medium crate (30–36 inch with divider for growth)</li><li>Dog bed</li><li>Stainless steel bowls</li><li>Flat collar + ID tag (engrave immediately on arrival)</li><li>Harness for walks</li><li>4–6 ft leash</li><li>Slicker brush and wide-tooth metal comb</li><li>Veterinary ear cleaning solution and cotton balls — start week one</li><li>High-value training treats</li><li>Retrieve toys: bumpers, floating toys</li><li>Chew toys</li><li>Enzymatic cleaner</li></ul>"
+    },
+    "care": {
+      "label": "First Week Priorities",
+      "heading": "First Vet Visit and Starting Ear Care",
+      "html": "<h3>Insurance Before the First Vet Visit</h3><p>Enroll in pet insurance on arrival day, before the puppy's first veterinary appointment. For the American Water Spaniel, look specifically for a policy that covers cardiac conditions without breed-specific exclusions. Read the policy terms for cardiac coverage limits before enrolling. Enrolling before the first vet visit ensures the broadest coverage for conditions that may develop later.</p><h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam including cardiac auscultation</li><li>Vaccine schedule verification and continuation</li><li>Parasite prevention discussion</li><li>Discuss establishing a cardiac monitoring plan — ask your vet about the frequency and type of cardiac evaluation appropriate for this breed as the dog ages</li><li>Ear exam and ear care technique review if needed</li><li>Microchip if not done by breeder</li></ul><h3>Starting the Ear Cleaning Routine</h3><p>Begin weekly ear cleaning from the first week. Use a veterinary ear cleaning solution — apply, massage the ear base, let the puppy shake, then wipe visible debris with cotton balls. The puppy's ears don't need much cleaning at this stage; the goal is building handling tolerance so that weekly ear cleaning is accepted as normal routine in adulthood. An adult American Water Spaniel that resists ear cleaning is a problem — the ears must be cleaned. Start early.</p>"
+    },
+    "special": {
+      "label": "Water Socialization and Field Introduction",
+      "heading": "Water Introduction and Field Development",
+      "html": "<h3>Water Socialization — The Natural Outlet for This Breed</h3><p>American Water Spaniels are built for water work — retrieving from small boats and through marshes and brush. Access to swimming is the ideal exercise outlet for this breed. Introduce water positively from early: shallow water first, let the puppy choose the depth and pace, use retrieve toys to encourage entry. Never force a puppy into water. By 4–5 months with positive introduction, most AWS puppies are enthusiastic swimmers.</p><p>After every water session, clean and dry the ears immediately. This post-swim ear routine, established from puppyhood, prevents the chronic ear infections that affect many spaniel dogs whose owners skip this step.</p><h3>Socialization Window: 8–16 Weeks</h3><p>Prioritize socialization during the critical window. American Water Spaniels can trend toward wariness with strangers without adequate early exposure. Expose the puppy to:</p><ul><li>Varied people — different ages, appearances, children, visitors</li><li>Novel environments — different settings, sounds, surfaces</li><li>Controlled dog interactions in puppy classes</li><li>Water environments and boats if field work is planned</li></ul><h3>Training — Intelligent Working Dogs</h3><p>AWS puppies are intelligent, working-bred dogs that respond well to positive, consistent training. They can be stubborn with training methods that don't engage them. Start basic obedience from the first week. Positive reinforcement with food and retrieve toys works well. A puppy class by 10–12 weeks provides structured training and socialization simultaneously. For owners planning field or hunt test work, introduce birds and field exposure by 3–4 months while drive is developing.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Why does cardiac screening matter for American Water Spaniel breeders?",
+      "a": "Progressive Cardiac Disease has been documented in this breed. The AWS Club of America has an active cardiac health program specifically because this is a recognized breed concern. A breeder who has had their breeding dogs echocardiographed by a cardiologist — not just listened to with a stethoscope at an annual exam — is taking this seriously. Ask specifically what cardiac evaluation was performed and when."
+    },
+    {
+      "q": "How do I find an American Water Spaniel breeder?",
+      "a": "Start with the American Water Spaniel Club (AWSC) — the national breed club maintains a breeder referral list and breed standard health testing recommendations. Because the breed is relatively rare, wait times for puppies from health-testing breeders are common. Plan 6–12 months ahead if you're looking for a puppy from a responsible breeder. Avoid pet stores and online marketplaces that sell AWS puppies without health documentation."
+    },
+    {
+      "q": "Are American Water Spaniels good family dogs?",
+      "a": "Yes, for active families. They are energetic, working-bred dogs that need meaningful daily exercise. With adequate physical activity — ideally swimming and retrieve games — they are loyal, adaptable family companions that work well in households with children. They can be reserved with strangers without adequate early socialization, so the puppy socialization window requires active attention."
+    }
+  ]
+}

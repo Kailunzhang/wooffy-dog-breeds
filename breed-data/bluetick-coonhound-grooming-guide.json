@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "name": "Bluetick Coonhound Grooming Guide",
+    "slug": "bluetick-coonhound-grooming-guide",
+    "shopify_handle": "bluetick-coonhound-grooming-guide",
+    "group": "Bluetick Coonhound",
+    "size_category": "Guide",
+    "tags": ["bluetick-coonhound", "grooming", "ear-care", "hound", "short-coat"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "Bluetick Coonhound coat maintenance is minimal. Ear care is not — the long pendant ears require weekly attention to prevent the chronic infections that are the breed's primary health management task.",
+    "meta_description": "Bluetick Coonhound grooming guide: short ticked coat care, critical ear cleaning protocol, post-swimming ear care, nail and dental maintenance."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BluetickCoonhound.jpg/250px-BluetickCoonhound.jpg",
+      "alt": "Bluetick Coonhound grooming"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Bluetick Coat",
+      "heading": "Short Coat, Critical Ears",
+      "html": "<p>The Bluetick Coonhound's coat is short, dense, and glossy — the blue mottled ticking on white looks sharp with minimal effort. A weekly rubber mitt or hound glove pass removes loose hair and keeps the coat looking its best. Shedding is moderate and manageable.</p><p>The ears are the primary maintenance task. Long, pendant ears that hang past the muzzle reduce ear canal airflow significantly, creating conditions for bacterial and yeast infections. Weekly ear checks and a consistent cleaning protocol prevent most infections before they start.</p><h3>Tools Needed</h3><ul><li>Rubber grooming mitt or hound glove</li><li>Vet-approved ear cleaning solution</li><li>Cotton balls</li><li>Dog-safe shampoo (deodorizing formula optional)</li><li>Nail clippers or grinder</li></ul>"
+    },
+    "care": {
+      "label": "Ear Care Protocol",
+      "heading": "Weekly Ear Maintenance",
+      "html": "<h3>The Weekly Ear Check</h3><p>Make this a consistent habit — same day every week works well because it's harder to skip when it's scheduled rather than reactive.</p><ol><li>Lift each ear flap. Look at the visible canal and inner ear surface</li><li>Healthy: pale pink, minimal light-colored wax, no odor</li><li>Concerning: redness, dark brown or black discharge, yeasty or sour odor, swelling</li><li>If the ear looks clean and smells normal: wipe with a dry cotton ball to remove surface debris. Done.</li><li>If there's visible wax buildup or light debris: apply vet-approved ear cleaner to a cotton ball and wipe the visible canal and inner flap. Allow the dog to shake out excess</li><li>If you see redness, dark discharge, or smell infection: do not simply clean and wait. Schedule a vet appointment. Established infections need prescription treatment</li></ol><h3>After Swimming or Bathing</h3><p>Always dry the ears after water exposure. Tilt the dog's head to each side, gently dry the outer ear and visible canal with a towel. Moisture trapped under the pendant ear flap is the most common trigger for infection. Dogs that swim regularly need ear checks after every swim, not just weekly.</p>"
+    },
+    "special": {
+      "label": "Coat and Other Care",
+      "heading": "Coat, Nails, and Dental",
+      "html": "<p><strong>Coat:</strong> Weekly rubber mitt wipe removes loose hair and keeps the blue ticking gleaming. Bathe every 6–8 weeks or when the hound smell becomes noticeable. Use a deodorizing dog shampoo if the natural hound coat scent is a concern — it's a normal feature of the breed but manageable.</p><p><strong>Nails:</strong> Trim monthly or when clicking on floors. Use heavy-duty clippers for larger nails. Build paw handling tolerance from puppyhood so nail trimming stays manageable.</p><p><strong>Dental:</strong> Brush teeth 2–3 times weekly with dog toothpaste. The easiest teeth to brush are the front ones; work toward the back molars over time. Consistent home brushing is the best prevention for dental disease and reduces the frequency of professional cleanings needed.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often do Bluetick Coonhounds get ear infections?",
+      "a": "Without preventive care, frequently — especially in dogs that swim or live in humid climates. With consistent weekly ear checks and post-swim drying, many owners manage their dogs through life with few or no infections. The frequency varies by individual dog and how diligently the preventive protocol is followed."
+    },
+    {
+      "q": "Do Bluetick Coonhounds need professional grooming?",
+      "a": "Not for the coat — it's entirely manageable at home. You might bring a Bluetick to a groomer for bathing in a large-capacity tub if you don't have a convenient setup at home. Tell the groomer about the ear care protocol and ask them to inspect and clean the ears as part of the groom."
+    }
+  ]
+}

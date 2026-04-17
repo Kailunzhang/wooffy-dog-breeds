@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Norwegian Elkhound Grooming Guide",
+    "slug": "norwegian-elkhound-grooming-guide",
+    "shopify_handle": "norwegian-elkhound-grooming-guide",
+    "group": "Norwegian Elkhound",
+    "size_category": "Guide",
+    "tags": ["norwegian-elkhound", "grooming", "double-coat", "shedding", "coat-blow", "never-shave"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "The Norwegian Elkhound's dense double coat sheds heavily year-round and dramatically twice per year. The right tools and routine manage it. Never shave the coat — it is a thermoregulation system, not a fur blanket.",
+    "meta_description": "Norwegian Elkhound grooming guide: undercoat rake technique for the dense double coat, coat blow management, NEVER shave the coat and why, bathing, ear and nail care."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Elkhound2020_%28cropped%29.jpg/250px-Elkhound2020_%28cropped%29.jpg",
+      "alt": "Norwegian Elkhound grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Double Coat",
+      "heading": "Understanding the Norwegian Elkhound Coat",
+      "html": "<p>The Norwegian Elkhound's coat is a dense, two-layer system: a thick, woolly grey undercoat and a coarser, slightly harsher outer coat of grey with lighter and darker shadings. This structure provides insulation in both cold and heat, repels water, and protects the skin from external irritation. It was engineered over thousands of years for the Norwegian climate.</p><h3>Grooming Tools You Need</h3><ul><li>Undercoat rake — the primary tool. Nothing removes dense Nordic undercoat more effectively</li><li>Slicker brush — for the outer coat and finishing work</li><li>Wide-tooth steel comb — for checking thoroughness and finding remaining tangles</li><li>Deshedding tool (Furminator or similar) — especially useful during coat blows</li><li>High-velocity dryer — not required but dramatically speeds coat blow management</li><li>Dog shampoo appropriate for double coats</li></ul><h3>NEVER Shave the Coat</h3><p>This must be said clearly because well-meaning people sometimes shave double-coated dogs in summer, believing it will help the dog stay cool. It does the opposite. The double coat is a thermoregulation system: the outer coat blocks direct solar radiation while the undercoat creates an insulating air layer near the skin. Removing the coat eliminates this protection, exposes the skin to direct sun, and impairs the dog's ability to thermoregulate in both heat and cold. Shaving also risks post-clipping alopecia — permanent patchy or abnormal coat regrowth. If the dog is hot, provide shade, cool water, and limit exercise to cooler hours. Do not shave.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly, Monthly, and Seasonal Grooming",
+      "html": "<h3>Weekly (Normal Periods)</h3><ul><li>Work through the entire coat with an undercoat rake — section by section, neck to tail, down each leg. Go slowly and thoroughly. The undercoat compacts if not regularly thinned</li><li>Follow with a slicker brush to smooth the outer coat</li><li>Check ears: lift and inspect for odor or redness; wipe with a dampened cotton ball if needed</li><li>Quick paw check for debris or cracking between pads</li></ul><h3>Monthly</h3><ul><li>Bathe every 6–8 weeks. Use a double-coat appropriate shampoo (avoid heavy moisturizers that can soften the outer coat's texture)</li><li>Dry thoroughly and completely. The dense undercoat holds moisture for hours. Towel dry first, then a stand or high-velocity dryer works through the undercoat. Without complete drying, moisture trapped near the skin risks hot spots — moist dermatitis in the neck, armpit, or groin</li><li>Nail trim: monthly, or whenever clicking on floors</li></ul><h3>Coat Blows: Twice Per Year</h3><p>The semi-annual coat blow is the major event. The undercoat releases in dense clumps over 2–4 weeks — typically in spring and fall. During this period, daily brushing with the undercoat rake is required. The most efficient approach: a thorough deshedding bath (soak, undercoat-release shampoo, rinse, blow out with high-velocity dryer while brushing) in the first week removes the majority of loose undercoat in one session and shortens the overall blow period significantly.</p>"
+    },
+    "special": {
+      "label": "Managing the Shedding",
+      "heading": "Practical Strategies for Heavy Shedding",
+      "html": "<p>Norwegian Elkhound shedding requires an honest household strategy. Hair will be on furniture, clothing, and floors. There is no workaround to this — management, not elimination, is the goal.</p><h3>Vacuum Requirements</h3><p>A vacuum with a motorized brush roll and a HEPA filter handles double-coat shedding better than standard vacuums. Robot vacuums on a daily schedule significantly reduce visible accumulation between manual vacuum sessions. Pet hair rollers and lint brushes for clothing are standard tools in Elkhound households.</p><h3>Furniture and Bedding</h3><p>Machine-washable slipcovers or throws on furniture where the dog is allowed simplify cleanup. Dedicated dog beds (replaced or washed regularly) reduce hair accumulation in other areas of the house.</p><h3>Grooming Outdoors</h3><p>During coat blows, groom outdoors when possible. The amount of undercoat released in a single session is substantial — dealing with it outside rather than inside a bathroom significantly reduces the cleanup involved.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often do Norwegian Elkhounds blow their coat?",
+      "a": "Twice per year — typically spring and fall, though the timing varies by individual dog and climate. Each blow lasts 2–4 weeks and involves the dense undercoat releasing in large quantities. Daily brushing during this period is required. Outside of coat blow periods, weekly brushing and moderate year-round shedding is the norm."
+    },
+    {
+      "q": "My Norwegian Elkhound is hot in summer — should I shave the coat?",
+      "a": "No — and this is important. The double coat actually helps keep the dog cooler in heat by blocking solar radiation and maintaining an insulating air layer near the skin. Shaving removes this protection, exposes the skin to direct sun, and impairs thermoregulation. Manage summer heat with shade, fresh cool water, and exercising during cooler parts of the day. The coat is working for the dog — leave it intact."
+    },
+    {
+      "q": "Can I take my Norwegian Elkhound to a professional groomer?",
+      "a": "Yes — but specify clearly that the coat is not to be clipped or trimmed, only brushed, deshed, bathed, and blown out. A groomer unfamiliar with double-coated Nordic breeds may default to clipping. Ask for a groomer with experience in Huskies, Malamutes, or similar double-coated working breeds."
+    }
+  ]
+}

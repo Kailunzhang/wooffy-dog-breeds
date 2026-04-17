@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "name": "Australian Shepherd",
+    "slug": "australian-shepherd",
+    "shopify_handle": "australian-shepherd",
+    "group": "Herding Group",
+    "size_category": "Medium Breed",
+    "tagline": "The Australian Shepherd is one of the most capable, intelligent, and beautiful herding breeds in the world. They are also one of the most demanding — and they carry a genetic drug sensitivity that every owner must know about.",
+    "tags": ["herding-group", "medium-breed", "active-dogs", "intelligent", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-15T16:00:00Z",
+    "excerpt": "Aussies are exceptional for active people who want a deeply engaged, intelligent companion. The critical facts: they need 90+ min of vigorous daily exercise, they carry an MDR1 gene mutation that makes common drugs toxic, and they're not for sedentary owners.",
+    "meta_description": "Australian Shepherd breed guide: MDR1 drug sensitivity, exercise requirements, herding instinct, health conditions, cost breakdown, and honest fit assessment."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "40–65 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–15 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "90+ min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Very Easy" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Australian_Shepherd_red_bi.JPG/330px-Australian_Shepherd_red_bi.JPG",
+      "alt": "Australian Shepherd"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is an Australian Shepherd?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Despite the name, the Australian Shepherd was developed in the American West, likely from herding dogs that came through Australia during the 19th century. They were bred as working ranch dogs for livestock herding in rugged terrain — and that working heritage defines everything about them. Aussies are exceptionally intelligent, deeply driven, and need both physical exercise and mental work to be content.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The most important medical fact for any Australian Shepherd owner: the MDR1 gene mutation. Approximately 50% of Australian Shepherds carry one or two copies of this mutation, which makes certain common drugs — including some heartworm preventives, anti-diarrheal medications, and anesthetics — potentially toxic at standard doses. Every Aussie should be DNA tested for MDR1 status, and every vet treating the dog should know the result.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">For the right person — active, engaged, experienced — an Australian Shepherd is an extraordinary dog. They are not the right dog for sedentary owners or first-time dog owners who haven't researched the breed's specific needs.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Australian Shepherds Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Medium-sized, athletic, and strikingly colored — 40–65 lbs, 18–23 inches. The coat is medium-length, weather-resistant, and comes in four base colors: black, red (liver), blue merle, and red merle. White and copper markings are common. The merle pattern — a marbled, mottled effect — makes Aussies among the most visually distinctive dogs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Note on double merle: breeding two merle dogs together produces a 25% chance of \"double merle\" puppies, which are predominantly white and at very high risk for blindness, deafness, and other neurological issues. Reputable breeders never breed merle to merle. Eyes can be blue, brown, amber, or parti-colored (multiple colors in one eye) — natural bobtail or full tail, either is correct.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Intelligent, energetic, and intensely focused — Aussies want a job and will create one if you don't provide it. They excel in obedience, agility, herding trials, flyball, frisbee, and any activity that combines physical and mental challenge. Their trainability is exceptional; they can learn complex tasks quickly and remember them reliably.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With families: good, but the herding instinct is present. Running children may trigger heel-nipping and circling behavior — the same behavior used to move livestock. This is manageable with training and consistent redirection, but families should be aware and address it proactively.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Reserve and wariness with strangers is normal for well-bred Aussies. They're not aggressive by default, but they're discriminating — they take their time evaluating new people. Early and ongoing socialization is important for developing appropriate confidence and preventing excessive suspicion from tipping into reactivity.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About an Aussie",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Aussies are the dogs that experienced dog owners get when they're ready for a real working partner. The intelligence, the trainability, the athleticism — it's all real and it's impressive. If you run, do agility, hike long distances, or work livestock, an Australian Shepherd may be one of the best dogs you'll ever own.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">But the exercise requirement is genuinely 90+ minutes of vigorous activity daily, not 30 minutes of leash walking. The mental stimulation requirement is real — a bored Aussie will develop behaviors like obsessive ball chasing, fence pacing, destructive chewing, or herding family members. These aren't character flaws; they're what a working dog does when its working drive has nowhere to go.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The MDR1 mutation is something I take seriously when talking to prospective Aussie owners. Get the dog DNA tested — Washington State University's Veterinary Teaching Hospital originated the MDR1 test and offers it commercially. Give every vet treating your dog the results. The drugs affected (ivermectin at certain doses, acepromazine, loperamide, certain chemotherapy agents) are common enough that not knowing the dog's status is a real risk.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">90+ minutes of vigorous daily activity. Running, hiking, agility, fetch at speed, herding — anything that combines physical effort with focus. Mental exercise is equally important: obedience training, trick training, puzzle feeders, nose work. Dog sports like agility, flyball, or herding trials satisfy both simultaneously and are highly recommended.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate — 2–3x weekly brushing with a slicker brush and undercoat rake. Seasonal coat blows twice yearly require daily brushing and a deshedding bath. Occasional professional deshedding bath during coat blow season is worth the investment. See the <a href=\"/blogs/dog-breeds/australian-shepherd-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Australian Shepherd grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">One of the most trainable breeds. Responds immediately to positive reinforcement and learns complex behaviors quickly. Formal obedience class, then ongoing training in a sport or activity. Training isn't just skill-building for Aussies — it's also mental exercise and relationship-strengthening. The more trained an Aussie is, the more satisfying the dog is to live with.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The MDR1 mutation is the most breed-critical health consideration for Aussies. Beyond that, eye conditions and hip dysplasia are the primary concerns.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">MDR1 / ABCB1 Gene Mutation</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Affects ~50% of Australian Shepherds. Causes sensitivity to several common drugs: ivermectin (in some heartworm preventives and dewormers at certain doses), acepromazine (sedative), loperamide (Imodium), and certain chemotherapy agents. Normal doses of these drugs can cause neurotoxicity in affected dogs. DNA test through WSUC or commercial labs; test all Aussies. Inform every vet treating the dog.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Collie Eye Anomaly (CEA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inherited developmental eye defect. Ranges from mild (no vision impact) to severe (detached retina, blindness). DNA test available. Most affected dogs have mild forms compatible with normal vision.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Common in medium and large herding breeds. OFA hip clearances on both parents reduces risk. Surgery $3,000–$6,000/joint for severe cases.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Epilepsy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Idiopathic epilepsy occurs in Aussies. Seizures can often be managed with medication. Lifelong medication cost: $30–$100/month depending on protocol.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> MDR1 DNA test, OFA hip clearance, CAER eye exam, CEA DNA test. DNA test your own dog for MDR1 status if not done by breeder.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Medium breed costs, with the potential for dog sports fees if you pursue that route (which is recommended for this breed).</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,080</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,080</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,000–$5,500+</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,600–$2,900</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/australian-shepherd-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Australian Shepherd first-year cost breakdown</a> for detailed numbers.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is an Australian Shepherd Right for You?",
+      "good_fit": [
+        "Active households with 90+ min of vigorous daily exercise to offer",
+        "Interested in dog sports, agility, herding, or other structured activities",
+        "Experienced dog owners who can provide consistent structure and training",
+        "Prepared to MDR1 test the dog and maintain the list of affected drugs",
+        "Active families with older children — Aussies are loyal and excellent with kids who engage them"
+      ],
+      "not_fit": [
+        "First-time dog owners unfamiliar with high-drive herding breeds",
+        "Households with 8+ hour work days without a dog walker or daycare plan",
+        "Sedentary lifestyles — an under-exercised Aussie is a destructive, anxious Aussie",
+        "Apartment living without guaranteed daily access to vigorous off-leash exercise",
+        "Families with very young toddlers — herding instinct may produce nipping at running children"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Australian Shepherd",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,500 from reputable breeders. Required health tests: OFA hip and elbow clearances, CAER eye exam, CEA DNA test, MDR1 DNA test. Avoid breeders producing merle-to-merle litters. The United States Australian Shepherd Association maintains a breeder referral list.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Australian Shepherd rescue organizations exist in most regions. Many dogs are surrendered due to exercise and stimulation needs that owners weren't prepared for. Experienced owners willing to invest in training and activity can give these dogs excellent second lives. Get MDR1 status if not already tested.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before pickup, review the <a href=\"/blogs/dog-breeds/australian-shepherd-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Australian Shepherd puppy checklist</a> — the MDR1 DNA test and exercise plan are the two critical items to have sorted before the dog arrives.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "What is the MDR1 mutation in Australian Shepherds?", "a": "A genetic variant (in the ABCB1 gene) that causes sensitivity to several common drugs. Affected dogs can experience neurotoxicity from standard doses of drugs like ivermectin (in some heartworm preventives), acepromazine (a sedative used in anesthesia), and loperamide (Imodium). About 50% of Aussies carry one or two copies. DNA test every Aussie through a commercial lab or vet, and give the results to every vet who treats the dog." },
+    { "q": "Are Australian Shepherds good apartment dogs?", "a": "Not practically for most apartments. They need 90+ minutes of vigorous daily exercise and significant mental stimulation. Without that, they develop destructive and anxious behaviors that are difficult to manage in a small space. Apartments adjacent to parks or off-leash areas with a truly committed exercise plan are the exception, not the rule." },
+    { "q": "Why does my Australian Shepherd herd my children?", "a": "Herding instinct. Aussies were bred to move livestock by circling, nipping at heels, and using body pressure. Fast-moving children trigger the same response. This is manageable: redirect immediately every time it happens, reward appropriate engagement with toys, and train a default 'settle' or 'place' behavior. It rarely disappears completely but becomes manageable with consistency." },
+    { "q": "Are Australian Shepherds the same as Mini Australian Shepherds?", "a": "Different breeds. Miniature American Shepherds (sometimes called Mini Aussies) were selectively bred from smaller Aussies and are now a separate AKC-recognized breed. They're 13–18 inches and 20–40 lbs. Same general temperament and drive as the full-size Aussie, but scaled down." }
+  ],
+
+  "related_breeds": [
+    {"name": "Border Collie", "slug": "border-collie", "note": "More intense herding drive, higher intelligence ceiling, more challenging"},
+    {"name": "Miniature American Shepherd", "slug": "miniature-american-shepherd", "note": "Smaller version with same temperament and MDR1 concern"},
+    {"name": "Australian Cattle Dog", "slug": "australian-cattle-dog", "note": "More independent, tougher, less coat, same working drive"},
+    {"name": "Shetland Sheepdog", "slug": "shetland-sheepdog", "note": "Similar herding heritage and trainability, smaller, more sensitive"}
+  ]
+}

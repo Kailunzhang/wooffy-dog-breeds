@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Boxer Puppy Checklist",
+    "slug": "boxer-puppy-checklist",
+    "shopify_handle": "boxer-puppy-checklist",
+    "group": "Boxer",
+    "size_category": "Guide",
+    "tags": ["boxer", "puppy", "checklist", "brachycephalic", "heat-safety"],
+    "published": true,
+    "published_at": "2026-04-16T16:00:00Z",
+    "excerpt": "Everything you need before your Boxer puppy comes home — including the heat safety setup and ARVC cardiac information your vet needs at the first appointment.",
+    "meta_description": "Boxer puppy checklist: heat management setup for a brachycephalic breed, ARVC DNA test information, puppy exercise limits, socialization priorities, and essential gear."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Male_fawn_Boxer_undocked.jpg/330px-Male_fawn_Boxer_undocked.jpg",
+      "alt": "Boxer puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Boxer Puppy Prep: Heat Safety and ARVC Awareness",
+      "html": "<p>Before your Boxer puppy arrives, two things matter beyond the standard checklist: planning for heat management, and understanding the ARVC cardiac test. Boxers are brachycephalic — the flat face compresses the airway, limiting their ability to dissipate heat through panting. This isn't a problem you can solve; it's a characteristic you manage.</p><h3>Heat Safety Setup</h3><ul><li>Air conditioning — not optional for Boxers in summer. This is a health requirement, not a comfort preference</li><li>Plan exercise timing: early morning and evening only when temperatures are above 75°F</li><li>Cooling mat or pad for indoor rest — Boxers appreciate them in warm months</li><li>Fresh, cool water always accessible — especially during and after any activity</li></ul><h3>Essential Gear Checklist</h3><ul><li>Crate (30–36 inch with divider for growth)</li><li>Dog bed</li><li>Stainless steel food and water bowls</li><li>Flat collar + ID tag</li><li>Harness for walks</li><li>4–6 ft leash</li><li>Rubber curry brush or grooming mitt</li><li>Dog-safe shampoo</li><li>Dog toothbrush and toothpaste</li><li>High-value training treats</li><li>Variety of toys — Boxers are enthusiastic players and need outlets</li><li>Enzymatic cleaner</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit and ARVC Test Information",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam including airway/palate assessment — ask your vet to assess brachycephalic airway severity</li><li>Vaccine schedule verification and continuation</li><li>Parasite prevention</li><li>Cardiac auscultation — any murmur detected warrants echocardiogram referral</li><li>Bring ARVC DNA test results from the breeder if available — your vet needs to know the dog's ARVC status for cardiac monitoring planning</li><li>Microchip if not done by breeder</li><li>Pet insurance before this appointment or immediately after</li></ul><h3>ARVC DNA Test: What You Need to Know</h3><p>Boxers are prone to Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC), a heart arrhythmia that can cause sudden cardiac death. A DNA test identifies dogs carrying the mutation (mutation 1 or mutation 2). Your breeder should have had both parents tested. Ask for the certificates.</p><p>If your dog carries the ARVC mutation:</p><ul><li>Inform every vet who treats the dog</li><li>Annual Holter monitoring (24-hour ECG) starting around age 3–4</li><li>Discuss with your vet whether any medications or restrictions are appropriate</li></ul><h3>Brachycephalic Heat Safety — Active Management</h3><p>Brachycephalic dogs cannot efficiently regulate temperature through panting like other breeds. During summer months:</p><ul><li>Exercise only in early morning (before 9am) or evening (after 7pm) when it's cool</li><li>Never leave in a hot car — even minutes can be fatal</li><li>Watch for signs of heat stress: excessive panting that seems distressed, stumbling, pawing at the face, or collapse</li><li>Cool water and shaded rest areas after any activity</li></ul>"
+    },
+    "special": {
+      "label": "Puppy Training Priorities",
+      "heading": "Training a Boxer: Fun, Consistent, and Early",
+      "html": "<h3>Start Early — They Don't Slow Down</h3><p>Boxers remain puppyish well into adulthood. The enthusiasm that makes them charming as puppies becomes challenging if basic commands aren't established early. A 70-lb Boxer that jumps on everyone, pulls on leash, and ignores commands isn't \"just being friendly\" — it's undertrained.</p><h3>Year One Priorities</h3><ol><li><strong>Puppy class (8–12 weeks):</strong> Socialization and basic commands. Boxers that are well-socialized as puppies are more manageable adults. Puppy class provides controlled socialization with other dogs and people in a safe environment.</li><li><strong>Off command:</strong> No jumping. Establish this from day one — with a puppy it's easy; with a 70-lb adult it's work. Never allow jumping \"just this once.\"</li><li><strong>Leash manners:</strong> Start immediately. Boxers are strong and pull enthusiastically without training. Short, positive sessions from the first walk establish the expectation.</li><li><strong>Alone time practice:</strong> Boxers are people-oriented and can develop separation anxiety. Practice leaving the puppy alone in the crate for increasing periods from early on — before a pattern of distress develops.</li></ol><h3>Exercise Rules for Puppies</h3><p>5 minutes of structured exercise per month of age, twice daily until 18 months. No forced running, jumping, or extended stair climbing. Free play in a yard is appropriate; running beside a bicycle or jogging is not until growth plates close at 18 months.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "What is the ARVC DNA test and does my Boxer need it?",
+      "a": "The ARVC DNA test identifies whether a Boxer carries the mutation(s) associated with Arrhythmogenic Right Ventricular Cardiomyopathy — a heart disease that can cause sudden cardiac death. Reputable breeders test all breeding stock. Ask for test certificates for both parents when buying your puppy. If your dog carries the mutation, annual Holter monitoring from age 3 onward is recommended."
+    },
+    {
+      "q": "How do I keep my Boxer safe in summer heat?",
+      "a": "Exercise only in the cool parts of the day (early morning, evening). Provide air conditioning for indoor rest. Never leave in a hot car. Always have fresh water available. Watch for heat stress signs: labored breathing, stumbling, glazed eyes. Boxers cannot pant as effectively as other breeds due to the flat face — they overheat faster and with less warning."
+    },
+    {
+      "q": "My Boxer puppy is extremely hyper. Is this normal?",
+      "a": "Yes — this is breed-typical and lasts longer than most breeds. Boxers are nicknamed the 'Peter Pan of dogs' for their extended puppyhood. The energy is real and needs management through consistent exercise, training, and appropriate mental stimulation. It does eventually moderate, but expect high energy through at least age 2–3."
+    }
+  ]
+}

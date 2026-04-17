@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Miniature Bull Terrier Grooming Guide",
+    "slug": "miniature-bull-terrier-grooming-guide",
+    "shopify_handle": "miniature-bull-terrier-grooming-guide",
+    "group": "Miniature Bull Terrier",
+    "size_category": "Guide",
+    "tags": ["miniature-bull-terrier", "grooming"],
+    "published": true,
+    "published_at": "2026-04-28T16:00:00Z",
+    "excerpt": "The Miniature Bull Terrier's short, flat coat is one of the lowest-maintenance in the dog world. A quick weekly brush and occasional bath is all this breed needs to look its best.",
+    "meta_description": "Miniature Bull Terrier grooming guide: simple coat care, bathing tips, nail trimming, and skin care for this low-maintenance short-coated breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Miniature_Bull_Terrier.jpg/330px-Miniature_Bull_Terrier.jpg",
+      "alt": "Miniature Bull Terrier"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "A Simple Coat on a Complex Personality",
+      "html": "<p>If the Miniature Bull Terrier's personality is high-maintenance, its coat is the opposite. The short, flat, dense coat requires minimal specialized care and is one of the most forgiving in the dog world in terms of grooming demands. Regular brushing, occasional bathing, and routine nail and dental care cover essentially everything this breed needs.</p><p>The coat is short and lies flat against the body, with a harsh texture and a fine gloss when the dog is in good health. White dogs and colored dogs require the same basic care, though white dogs can show dirt more readily and may need bathing more frequently to maintain their clean appearance. The short coat also makes it easy to spot skin issues, parasites, and any lumps or bumps that warrant veterinary attention.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "The Miniature Bull Terrier's Easy Grooming Routine",
+      "html": "<p><strong>Brushing (once weekly):</strong> Use a rubber curry brush or hound mitt to go over the entire body, removing dead hair and stimulating the skin. Follow with a soft bristle brush for a final polish. The entire process takes 5–10 minutes. This minimal investment keeps the coat looking neat and healthy and removes loose fur before it ends up on your furniture.</p><p><strong>Bathing (every 4–8 weeks):</strong> Bathe with a mild dog shampoo and rinse thoroughly. White dogs may need bathing more frequently to maintain their bright appearance — a whitening shampoo formulated for dogs can help. Dry with a towel; air drying is fine for this short coat.</p><p><strong>Ears (weekly check):</strong> Inspect for wax buildup, redness, or odor. Clean gently with a dog ear cleaner on a cotton ball as needed. The Miniature Bull Terrier's upright ears allow good air circulation, making ear infections less common than in drop-eared breeds, but regular checks remain important.</p><p><strong>Nails (every 3–4 weeks):</strong> Trim with a small nail clipper or rotary grinder. If you hear clicking on hard floors, nails are too long. The breed's active nature may wear nails down somewhat on hard surfaces, but manual trimming should still be maintained.</p><p><strong>Teeth (3–5 times weekly):</strong> Brush with dog-safe enzymatic toothpaste. Small breeds are particularly prone to dental disease. Annual professional cleaning under anesthesia may be recommended by your veterinarian.</p><p><strong>Wrinkle/Skin Check:</strong> While the Mini Bull Terrier doesn't have the pronounced facial wrinkles of some breeds, check the area around the tail and between toes for any moisture accumulation or irritation.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Skin and Coat Care Tips for Mini Bull Terriers",
+      "html": "<p><strong>Sun Protection for White Dogs:</strong> White Miniature Bull Terriers with pink skin are susceptible to sunburn and are at higher risk for skin cancer with prolonged UV exposure. Apply dog-safe sunscreen to exposed areas (nose, ear tips, belly) during extended outdoor activity in summer. Limit sun exposure during peak UV hours.</p><p><strong>Skin Sensitivity:</strong> Some Mini Bull Terriers have sensitive skin prone to allergies. Signs include itching, redness, or recurring hot spots. A hypoallergenic shampoo and dietary management may help. Consult your veterinarian if skin issues are recurring.</p><p><strong>Coat as a Health Indicator:</strong> A dull, flaking, or thinning coat can indicate nutritional deficiency, thyroid issues, allergies, or other health conditions. Any notable change in coat quality warrants a veterinary check.</p><p><strong>Parasite Visibility:</strong> The short coat makes fleas, ticks, and skin abnormalities highly visible. Run your hands through the coat during every brushing session and check common parasite hiding spots (around ears, between toes, groin, armpits).</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How much grooming does a Miniature Bull Terrier need?",
+      "a": "Very little. Weekly brushing with a rubber mitt, bathing every 4–8 weeks, and routine nail trimming covers essentially all grooming needs. This is one of the lowest-maintenance coats in the dog world."
+    },
+    {
+      "q": "Do white Miniature Bull Terriers need special care?",
+      "a": "White dogs can be more prone to sunburn and skin cancer with prolonged UV exposure. Apply dog-safe sunscreen to pink-skinned areas in summer and limit midday sun exposure. Whitening dog shampoo can help maintain coat brightness."
+    },
+    {
+      "q": "Do Miniature Bull Terriers shed?",
+      "a": "Minimally. The short dense coat sheds lightly year-round. Weekly brushing removes loose hair efficiently. They are not heavy shedders."
+    }
+  ]
+}

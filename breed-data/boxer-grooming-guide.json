@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Boxer Grooming Guide",
+    "slug": "boxer-grooming-guide",
+    "shopify_handle": "boxer-grooming-guide",
+    "group": "Boxer",
+    "size_category": "Guide",
+    "tags": ["boxer", "grooming", "short-coat", "wrinkle-care", "low-maintenance"],
+    "published": true,
+    "published_at": "2026-04-16T16:00:00Z",
+    "excerpt": "Boxers are one of the lowest-maintenance coats in any breed. A weekly brush, occasional bath, and routine wrinkle cleaning is essentially the full routine. The time investment is minimal.",
+    "meta_description": "Boxer grooming guide: short coat maintenance, facial wrinkle cleaning to prevent infections, nail care, and the full minimal grooming routine for this low-shedding breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Male_fawn_Boxer_undocked.jpg/330px-Male_fawn_Boxer_undocked.jpg",
+      "alt": "Boxer grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Boxer Coat",
+      "heading": "Boxer Grooming: Low Maintenance, One Important Exception",
+      "html": "<p>The Boxer coat is short, tight, and close-lying — one of the lowest-maintenance coats in the medium-to-large breed category. Shedding is present but not excessive; the coat doesn't mat, doesn't need trimming, and doesn't require professional grooming appointments. Most Boxer owners manage the entire grooming routine at home with minimal time investment.</p><p>The one area requiring consistent attention is the facial wrinkles. Moisture, food particles, and debris accumulate in the skin folds, creating warm, damp conditions ideal for bacterial and yeast growth. Regular wrinkle cleaning prevents skin fold dermatitis — a common and uncomfortable problem in the breed.</p><h3>Grooming Tools You'll Need</h3><ul><li>Rubber curry brush or rubber grooming mitt — primary coat tool</li><li>Bristle brush — finishing</li><li>Unscented baby wipes or dog-specific wipe for wrinkle cleaning</li><li>Dog ear cleaning solution and cotton balls</li><li>Dog toothbrush and toothpaste</li><li>Nail clippers or grinder</li><li>Dog-safe shampoo</li></ul>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush the coat with a rubber curry brush using circular motions — this removes loose hair, stimulates the skin, and distributes natural oils. 5–10 minutes is sufficient</li><li>Clean facial wrinkles: use a damp cloth or unscented wipe to clean inside each fold. Dry thoroughly after cleaning — trapped moisture is the problem. Check for redness, odor, or discharge that might indicate a developing infection</li><li>Check and clean ears with ear cleaning solution and cotton balls. Never use cotton swabs inside the ear canal</li></ul><h3>Every 2 Weeks</h3><ul><li>Check nails. Boxers may need nails trimmed every 2–3 weeks depending on activity level and surface type. If you hear clicking on hard floors, trim. Overgrown nails affect gait and joint comfort, especially in an athletic breed</li></ul><h3>Monthly</h3><ul><li>Bath every 6–8 weeks or when dirty. Boxers don't require frequent bathing — the short coat doesn't retain odor or debris the way longer coats do. Overbathing strips natural oils and can cause dry skin</li><li>Brush teeth 3–4 times per week — dental disease is common in medium breeds; starting early and maintaining a routine prevents costly professional cleanings</li></ul><h3>Post-Exercise Wrinkle Check</h3><p>After exercise, especially in warm weather, check the wrinkles again. Active Boxers sweat into the skin folds, which can lead to faster buildup. A quick wipe during warm months is good practice.</p>"
+    },
+    "special": {
+      "label": "Wrinkle and Ear Care",
+      "heading": "Skin Fold Dermatitis: Prevention and Signs",
+      "html": "<p>Skin fold dermatitis (intertrigo) develops when moisture and debris accumulate in skin folds, allowing bacteria and yeast to overgrow. In Boxers, this occurs most commonly in the muzzle and forehead wrinkles.</p><h3>Prevention</h3><ul><li>Clean wrinkles weekly minimum — more frequently in warm, humid weather or after outdoor activity</li><li>After cleaning, always dry the inside of the folds with a dry cloth or cotton ball — damp folds after cleaning are counterproductive</li><li>Some owners use a small amount of cornstarch after cleaning and drying to absorb residual moisture. Do not use talc-based powder</li></ul><h3>Signs of Skin Fold Dermatitis</h3><ul><li>Redness or raw skin inside the fold</li><li>Odor (distinctive sour or musty smell)</li><li>Discharge or visible buildup</li><li>Dog rubbing the face on surfaces</li></ul><p>If you notice these signs, a vet visit is appropriate. Mild cases respond to cleaning and topical antifungal or antibacterial products; more established infections may need oral treatment.</p><h3>Ear Care for Boxers</h3><p>Whether ears are natural or cropped, check weekly. Natural (uncropped) Boxer ears have reduced airflow, making them more prone to moisture accumulation. Clean monthly or when you notice any odor or head shaking. Cropped ears have better airflow but still require periodic checks during and after healing.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often should I bathe my Boxer?",
+      "a": "Every 6–8 weeks or when visibly dirty or smelly. The short coat doesn't require frequent bathing — overbathing removes natural oils and can cause dry, itchy skin. Between baths, a rubber grooming mitt or damp cloth wipe-down handles light dirt."
+    },
+    {
+      "q": "Do Boxers need professional grooming?",
+      "a": "Rarely, if ever. The short coat requires no trimming, no professional deshedding, and no shaping. Some owners use a professional groomer for the convenience of a thorough bath and blow-dry, but it's not a routine requirement. Professional nail trims are a useful option if you're not comfortable with home nail care."
+    },
+    {
+      "q": "How do I clean my Boxer's facial wrinkles without causing irritation?",
+      "a": "Use a damp, unscented cloth or pet-specific facial wipe. Clean inside each fold with gentle wiping motion, removing all visible debris. Then dry thoroughly with a dry cloth or cotton ball — this is the most important step. Never leave moisture inside the folds. Weekly cleaning prevents buildup; if you see redness or smell something sour, increase frequency and check with your vet if it doesn't clear up."
+    }
+  ]
+}

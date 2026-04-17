@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "name": "Bouvier des Flandres Grooming Guide",
+    "slug": "bouvier-des-flandres-grooming-guide",
+    "shopify_handle": "bouvier-des-flandres-grooming-guide",
+    "group": "Bouvier des Flandres",
+    "size_category": "Guide",
+    "tags": ["bouvier-des-flandres", "grooming"],
+    "published": true,
+    "published_at": "2026-05-03T16:00:00Z",
+    "excerpt": "The Bouvier des Flandres has a thick, rough double coat that requires regular brushing and professional trimming. This guide covers everything from weekly brushing routines to beard maintenance.",
+    "meta_description": "Bouvier des Flandres grooming guide: brush routine, trimming, beard care, and how to maintain this large Belgian working dog's distinctive rough coat."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bouvier_des_Flandres_2.jpg/330px-Bouvier_des_Flandres_2.jpg",
+      "alt": "Bouvier des Flandres grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Understanding the Bouvier's Thick Double Coat",
+      "html": "<p>The Bouvier des Flandres wears a distinctive double coat that was purpose-built for the wet, cold climate of Flanders. The outer coat is rough, dry, and harsh to the touch — not soft or silky. It should stand slightly away from the body rather than lying flat. The dense, soft undercoat provides insulation. Together, these two layers give the Bouvier its characteristic tousled, rugged appearance.</p><p>Unlike some double-coated breeds whose outer coat repels water entirely, the Bouvier's coat will absorb moisture during heavy rain or swimming. It dries relatively quickly but must be brushed as it dries to prevent mat formation. The beard and mustache — signature features of the breed — collect food, water, and debris and require extra attention to keep clean and odor-free.</p><p>The coat grows continuously and must be trimmed regularly to maintain the proper silhouette. Without trimming, the coat becomes excessively long, loses its characteristic standing texture, and mats more readily. Professional grooming every 8–12 weeks is typical for pet Bouviers, supplemented by weekly brushing at home.</p><p>Shedding is moderate — the rough outer coat texture tends to trap loose hair rather than allowing it to fall freely around the home. This is good for housekeeping but means regular brushing is essential to remove dead coat before it can mat.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Weekly and Monthly Grooming Steps",
+      "html": "<p><strong>Weekly Brushing (Minimum):</strong> Use a slicker brush to work through the coat section by section, lifting the outer coat to access the undercoat. Follow with a stiff pin brush and finish with a wide-toothed metal comb to detect any remaining tangles. Focus on high-friction areas: behind the ears, in the armpits, around the collar, and between the hind legs where the coat is densest. For dogs that spend time outdoors in brush or vegetation, brush more frequently — debris becomes trapped in the rough coat quickly.</p><p><strong>Beard and Mustache Care:</strong> The beard and mustache need attention after every meal and drink. They tend to collect food particles and water, which can cause skin irritation, odor, and infection if left uncleaned. Wipe the beard with a clean, damp cloth after meals. Trim the beard and mustache periodically to maintain a tidy appearance and reduce debris accumulation. Some owners keep a dedicated towel near the water bowl for quick wipe-downs.</p><p><strong>Bathing (Every 6–10 Weeks):</strong> Use a harsh-coat shampoo designed for wire or rough-coated breeds — this helps maintain the proper coat texture. Follow with a light conditioner on the undercoat only; applying conditioner to the outer coat can soften it, reducing the breed-typical rough texture. Rinse thoroughly. Blow-dry on a cool or low-heat setting while brushing out the coat to prevent mat formation during drying.</p><p><strong>Trimming (Every 8–12 Weeks):</strong> The Bouvier is traditionally hand-stripped in the show ring, but most pet owners opt for clipping or scissoring instead. A professional groomer familiar with the breed can maintain the characteristic silhouette — shorter on the top of the head and back, slightly longer on the sides and legs. The beard and eyebrows are left full. Feet should be trimmed to keep the round, compact shape, and the area under the tail kept clean for hygiene.</p><p><strong>Tools Required:</strong> Slicker brush, pin brush, wide and fine metal combs, de-shedding tool (for undercoat removal), clippers or thinning shears, blunt-tipped scissors for paws and detail work, beard comb, and appropriate shampoo for rough coats.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Ear Care, Nails, and Managing the Working Coat",
+      "html": "<p><strong>Ear Care:</strong> The Bouvier's ears (whether natural or cropped) collect debris and moisture, particularly given the dog's active lifestyle. Check ears weekly for signs of infection: redness, unusual odor, or excessive head shaking. Clean with a vet-approved ear cleaning solution as needed. The hair in and around the ear canal should be kept trimmed to improve airflow.</p><p><strong>Nail Trimming:</strong> Trim every 3–4 weeks. A large, active dog like the Bouvier will naturally wear down nails somewhat during outdoor exercise, but indoor surfaces don't provide the same abrasion. Long nails can affect gait and cause discomfort. Use a heavy-duty nail clipper appropriate for large breeds, or a rotary grinder. Introduce nail handling from puppyhood.</p><p><strong>After Outdoor Activity:</strong> After hikes or outdoor exercise in brush, mud, or vegetation, check the coat for burrs, thorns, and debris before they work deeper into the coat and create tangles. A quick once-over with a comb immediately after coming inside is far easier than addressing a mat that has been sitting for days.</p><p><strong>Show Coat vs. Pet Trim:</strong> Show Bouviers are hand-stripped to achieve the proper rough texture — clipping softens the outer coat and changes the texture over time. For a pet companion, clipping or scissoring is entirely acceptable and is what the vast majority of owners choose. Discuss your preferences with your groomer to establish a trim style that works for your lifestyle.</p><p><strong>Seasonal Coat Blows:</strong> Like most double-coated breeds, Bouviers shed their undercoat more heavily in spring and fall. During these periods, increase brushing frequency and consider adding a de-shedding tool or an undercoat rake to your routine to remove dead undercoat efficiently before it mats.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often does a Bouvier des Flandres need to be professionally groomed?",
+      "a": "Most pet Bouviers benefit from professional grooming every 8–12 weeks for a full brush-out, bath, blow-dry, and trim. Between professional appointments, weekly at-home brushing is necessary to prevent mat formation, especially in the dense undercoat."
+    },
+    {
+      "q": "Can I clip my Bouvier instead of hand-stripping?",
+      "a": "Yes, most pet owners clip or scissor their Bouvier's coat rather than hand-stripping. Clipping is faster and less expensive. The main trade-off is that clipping softens the outer coat texture over time, so a clipped Bouvier will not have the same rough, standing coat texture as a show dog. For a companion, this is perfectly fine."
+    },
+    {
+      "q": "How do I keep my Bouvier's beard clean?",
+      "a": "Wipe the beard with a damp cloth after every meal and drink. You can also use a dry shampoo or beard-specific dog cleaner between full baths. Keeping the beard trimmed shorter helps reduce accumulation. Some owners invest in a splash-free water bowl to reduce water beard issues."
+    },
+    {
+      "q": "Does the Bouvier des Flandres shed a lot?",
+      "a": "The Bouvier sheds moderately, but the rough coat texture tends to trap shed hair in the coat rather than letting it fall freely. This means less visible shedding around the house but requires regular brushing to remove the trapped dead coat and prevent mats."
+    }
+  ]
+}

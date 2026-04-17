@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Alaskan Malamute",
+    "shopify_handle": "alaskan-malamute-grooming-guide",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-18T16:00:00Z",
+    "name": "Alaskan Malamute Grooming Guide: Coat Care and Shedding Management",
+    "slug": "alaskan-malamute-grooming-guide",
+    "excerpt": "How to groom an Alaskan Malamute's thick double coat — including undercoat raking, blow-out timing, bathing, and why you should never shave the coat.",
+    "meta_description": "How to groom an Alaskan Malamute's thick double coat — including undercoat raking, blow-out timing, bathing, and why you should never shave the coat.",
+    "tags": [
+      "Alaskan Malamute",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alaskan_Malamute.jpg/330px-Alaskan_Malamute.jpg",
+      "alt": "Alaskan Malamute dog"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "The Coat",
+      "heading": "What You're Working With: The Alaskan Malamute Double Coat",
+      "html": "<p>The Alaskan Malamute has one of the most substantial double coats of any domestic dog breed. A dense, woolly undercoat sits beneath a coarse, guard-hair outer coat. This combination insulates the dog against extreme cold — and also traps heat in warm weather if mismanaged. Regular brushing is essential not just for aesthetics but for the dog's thermal regulation.</p><p>The Malamute coat <strong>blows out twice per year</strong> — typically in spring and fall — when the undercoat sheds in large clumps over two to four weeks. During this period, daily brushing is required to remove dead undercoat and prevent severe matting. Outside of blow-out seasons, two to three brushing sessions per week is the baseline.</p><h3>Basic Grooming Schedule</h3><ul><li><strong>Brushing:</strong> 2–3 times per week normally; daily during coat blow-out seasons</li><li><strong>Bathing:</strong> Every 6–8 weeks, or as needed after outdoor adventures</li><li><strong>Nail trimming:</strong> Every 3–4 weeks</li><li><strong>Ear cleaning:</strong> Monthly, or when visibly dirty</li><li><strong>Teeth brushing:</strong> Ideally daily; minimum 3 times per week</li></ul>"
+    },
+    "care": {
+      "label": "Brushing and Tools",
+      "heading": "How to Brush an Alaskan Malamute Coat Properly",
+      "html": "<h3>Start With an Undercoat Rake</h3><p>The undercoat rake is your primary tool for this breed. A long-tooth, rotating-pin undercoat rake reaches through the outer coat into the dense undercoat where dead fur accumulates. During blow-out season, spend 20–30 minutes working section by section from the hindquarters forward. You will remove extraordinary amounts of fur at each session.</p><h3>Follow With a Slicker Brush</h3><p>After raking, use a slicker brush to smooth the outer coat and catch any remaining loose fur. Work in the direction of coat growth. Pay particular attention to the neck mane, chest, and behind the ears — these areas mat most easily.</p><h3>Bathing a Malamute</h3><p>A Malamute's dense double coat does not wet easily, and it takes a very long time to dry completely. Use a high-velocity dryer (a force-air dryer) to blow water out of the coat rather than towel-drying alone — air drying a Malamute coat can take 4–6 hours and leaves the undercoat damp and prone to mold or hot spots. Brush the coat as it dries to prevent mats from forming.</p><h3>Never Shave an Alaskan Malamute</h3><p>Shaving a double-coated breed does not keep the dog cooler — it destroys the coat's insulating and UV-protective function. The guard hairs and undercoat may not grow back correctly after shaving, resulting in a condition called post-clipping alopecia where the coat texture is permanently altered. If your dog is hot in summer, provide shade, fresh water, air conditioning, and limit exercise to cool parts of the day. Never shave as a heat management solution.</p>"
+    },
+    "special": {
+      "label": "Coat Blow-Out",
+      "heading": "Managing Seasonal Shedding",
+      "html": "<h3>What to Expect During Coat Blow-Out</h3><p>Twice a year, your Malamute will shed the entire undercoat over two to four weeks. During this period, fur comes out in large clumps and covers every surface in your home. This is normal and cannot be prevented — only managed. Daily brushing sessions of 30–45 minutes will significantly reduce the fur migrating through your house and prevent the dead undercoat from compacting into dense mats close to the skin.</p><h3>Professional Grooming Options</h3><p>Many Malamute owners bring their dogs to a professional groomer during blow-out season for a deshedding bath and blow-out service. This typically costs $80–$150 and uses professional high-velocity dryers and deshedding shampoos to dramatically accelerate the shedding process. If you groom at home, invest in a quality force-air dryer — it will pay for itself quickly in time saved.</p><h3>Hot Spots and Skin Issues</h3><p>Trapped undercoat is the primary cause of hot spots (acute moist dermatitis) in double-coated breeds. If you notice your Malamute scratching, chewing, or licking a specific area intensely, part the fur and check for red, moist, inflamed skin. Keeping the undercoat properly removed is the best prevention. If hot spots develop, contact your vet — they typically require treatment to clear quickly.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Should I shave my Alaskan Malamute in the summer to keep them cool?",
+      "a": "No. Never shave an Alaskan Malamute. The double coat insulates against both cold and heat and protects the skin from UV radiation. Shaving can cause post-clipping alopecia — a condition where the coat does not grow back correctly — and actually makes it harder for the dog to regulate body temperature. Shade, fresh water, air conditioning, and avoiding exercise during peak heat hours are the appropriate summer management strategies."
+    },
+    {
+      "q": "How often do Alaskan Malamutes shed?",
+      "a": "Malamutes shed year-round but 'blow' their entire undercoat twice a year — typically in spring and fall. During these 2–4 week periods, shedding is dramatic and daily brushing is required. Outside of blow-out seasons, 2–3 brushing sessions per week keeps the coat manageable."
+    },
+    {
+      "q": "What brushes do I need for an Alaskan Malamute?",
+      "a": "The two essential tools are an undercoat rake (long-tooth rotating pins) and a slicker brush. During blow-out season, a deshedding comb like a Furminator-style tool can also help. For bathing, a high-velocity force-air dryer is highly recommended — standard towel drying or a regular hairdryer is inadequate for the thick double coat."
+    }
+  ]
+}

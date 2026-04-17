@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Coton de Tulear Grooming Guide",
+    "slug": "coton-de-tulear-grooming-guide",
+    "shopify_handle": "coton-de-tulear-grooming-guide",
+    "group": "Coton de Tulear",
+    "size_category": "Guide",
+    "tags": ["coton-de-tulear", "grooming"],
+    "published": true,
+    "published_at": "2026-04-30T16:00:00Z",
+    "excerpt": "The Coton de Tulear's cotton-textured coat is beautiful but requires regular brushing to prevent matting. This guide covers full-coat maintenance, the popular puppy trim, bathing, and keeping the white coat bright.",
+    "meta_description": "Coton de Tulear grooming guide: how to brush the cottony coat, prevent mats, bath routine, keeping the coat white, and the popular puppy trim option."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Coton_de_Tulear_600.jpg/330px-Coton_de_Tulear_600.jpg",
+      "alt": "Coton de Tulear grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Cotton-Textured and Beautiful — With Regular Maintenance",
+      "html": "<p>The Coton de Tulear's signature coat is one of its most appealing features and its most significant grooming commitment. The coat is long, profuse, and cottony in texture — not silky, not wiry, but soft and slightly wavy, almost like a high-quality stuffed animal. It does not shed significantly, which is excellent for keeping furniture and clothing hair-free, but it compensates by tangling readily at the roots if not brushed regularly. Mats can form quickly in the armpits, behind the ears, around the collar, and in the groin area — all high-friction zones that need extra attention.</p><p>Most pet owners choose between two approaches: maintaining the full-length coat with daily or every-other-day brushing and professional grooming every 6–8 weeks, or keeping the dog in a shorter puppy trim that reduces brushing needs considerably. Both are completely valid choices — the puppy trim in particular is beloved by busy owners who want the Coton's great temperament without the full grooming commitment of the show coat.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Regular Brushing, Gentle Bathing, and White Coat Care",
+      "html": "<p><strong>Brushing:</strong> Brush the full coat every day or at minimum every other day. Use a pin brush to work through the coat in sections, brushing from the roots to the tips. Follow with a wide-tooth metal comb to check for any tangles or mats at the base of the hair. Do not brush a dry, dirty coat — either mist with a diluted detangling spray or brush right after a bath when the coat is clean. Brushing a dry, coarse coat causes breakage and can damage the soft texture over time.</p><p><strong>Mat prevention:</strong> Check the armpits, groin, behind the ears, and around the collar daily — these areas mat first. Use a dematting comb or mat splitter to gently work through small tangles before they become large mats. If a mat is tight against the skin, it may need to be carefully cut out. Never yank at mats — it is painful and damages the coat.</p><p><strong>Bathing:</strong> Every 2–4 weeks. Use a gentle, moisturizing dog shampoo followed by a coat conditioner or detangling rinse — this is important for the Coton's cottony texture, which can dry out and become rough without conditioning. Rinse thoroughly. Blow dry on low heat while brushing in sections; this gives the best finished appearance and helps prevent the coat from forming tight curls at the root as it dries.</p><p><strong>Keeping the coat white:</strong> The Coton's white coat shows stains from tear stains (under the eyes), food staining (around the mouth), and environmental dirt. Use a whitening or brightening dog shampoo periodically to maintain the coat's brightness. Wipe the face — especially under the eyes — daily with a soft damp cloth to prevent tear stain buildup. Dog-safe tear stain removers can help with existing staining, but daily prevention is more effective.</p><p><strong>Nails:</strong> Trim every 3–4 weeks. <strong>Ears:</strong> Check and clean weekly — the long pendulous ears can trap moisture and heat. <strong>Teeth:</strong> Brush daily or several times per week.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "The Puppy Trim, Coat Transitions, and Professional Grooming",
+      "html": "<p><strong>The puppy trim:</strong> Keeping the Coton in a short all-over trim (typically 1–2 inches of length) dramatically reduces the brushing requirement and is the most popular choice among pet owners who want an easier daily maintenance routine. A good groomer can achieve the puppy trim while still showcasing the breed's fluffy, adorable look. Professional grooming every 6–8 weeks maintains the trim. Between appointments, a quick weekly brush-through is sufficient.</p><p><strong>Coat transition (puppy to adult):</strong> Between approximately 8–14 months of age, the Coton goes through a coat change from the softer, shorter puppy coat to the full adult cottony coat. During this transition, the coat is particularly prone to matting as the two textures coexist. Daily brushing is essential during this period. Many owners keep the dog in a shorter trim during the transition to make management easier.</p><p><strong>Tear staining:</strong> Brown tear stains under the eyes are common in white-coated dogs, including the Coton. Causes include genetics, diet, water mineral content, and facial anatomy. Daily face cleaning is the most reliable prevention. Changing to filtered water and a higher-quality diet sometimes reduces staining. Talk to your vet if staining is severe or accompanied by eye irritation — underlying eye or duct issues can contribute.</p><p><strong>Professional grooming:</strong> Find a groomer who knows the Coton de Tulear or similar cottony-coated breeds (Bichon Frise, Maltese). Tell them explicitly whether you want a full-length coat or a shorter puppy trim, and bring reference photos if needed. The Coton's texture is different from silky or wiry coats and benefits from a groomer who understands how to work with it.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often does a Coton de Tulear need professional grooming?",
+      "a": "Every 6–8 weeks for most pet owners. Some owners with full-coat show-length dogs go every 4–6 weeks. Between appointments, daily or every-other-day brushing at home is necessary to prevent matting."
+    },
+    {
+      "q": "How do I prevent tear stains on my white Coton?",
+      "a": "Wipe under the eyes daily with a soft damp cloth or pet facial wipe. Use a whitening shampoo periodically. Consider filtered water if your tap water is high in minerals. Some owners find that switching to a higher-quality diet reduces staining. If staining is severe, ask your vet about underlying causes."
+    },
+    {
+      "q": "Is the puppy trim easier to maintain than the full-length coat?",
+      "a": "Yes, significantly. A short all-over trim reduces daily brushing to a few minutes per week and requires professional grooming every 6–8 weeks to maintain. It is the most practical choice for pet owners who want the Coton's great temperament without the full grooming commitment."
+    }
+  ]
+}

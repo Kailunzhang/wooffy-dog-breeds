@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Field Spaniel Grooming Guide",
+    "slug": "field-spaniel-grooming-guide",
+    "shopify_handle": "field-spaniel-grooming-guide",
+    "group": "Field Spaniel",
+    "size_category": "Guide",
+    "tags": ["field-spaniel", "grooming", "silky-coat", "feathering", "ear-cleaning"],
+    "published": true,
+    "published_at": "2026-04-23T16:00:00Z",
+    "excerpt": "The Field Spaniel's silky, glossy coat is relatively straightforward to maintain — weekly brushing, attention to the feathering on the ears and legs, and consistent ear cleaning. Professional trimming every 8–10 weeks keeps the coat tidy.",
+    "meta_description": "Field Spaniel grooming guide: maintaining the silky coat and feathering, essential ear cleaning, professional trimming schedule, and the complete home care routine for this gentle spaniel."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Field_spaniel_581.jpg/250px-Field_spaniel_581.jpg",
+      "alt": "Field Spaniel grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Field Spaniel Coat",
+      "heading": "Understanding the Field Spaniel Coat",
+      "html": "<p>The Field Spaniel has a dense, silky, flat or slightly wavy coat of medium length, with longer feathered furnishings on the ears, chest, belly, back of legs, and tail. The coat has a natural sheen and was designed for working in British field conditions — practical, water-resistant, and relatively easy to keep clean after a day's work.</p><p>The coat requires consistent home maintenance but is not excessively demanding. The main maintenance priorities are weekly brushing to prevent mat formation in the feathering, regular ear cleaning (the long floppy ears are a moisture trap), and professional trimming every 8–10 weeks to maintain a neat appearance and prevent the feathering from becoming unmanageably long.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — for the body coat</li><li>Pin brush — for the feathered furnishings</li><li>Wide-tooth metal comb — essential for checking feathering for mats</li><li>Ear cleaning solution and cotton balls</li><li>Scissors or thinning shears — for trimming feet and feathering</li><li>Dog-safe shampoo</li><li>Nail clippers or grinder</li></ul>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush the body coat with a slicker brush, then work through the feathered areas with a pin brush</li><li>Follow with a wide-tooth metal comb through all feathered areas — ears, chest, belly, legs, tail — to check for tangles</li><li>Pay particular attention to behind the ears and under the armpits where mats form most readily</li><li>Clean both ears — weekly, consistently, regardless of activity level; see the ear section</li><li>Check paw pads for debris, especially after outdoor activity</li></ul><h3>Professional Grooming (Every 8–10 Weeks)</h3><p>Field Spaniels benefit from professional trimming every 8–10 weeks. The groomer trims the feathering to a manageable, functional length, tidies the feet, and cleans up the head and ear area. The coat is not clipped short — the natural silky coat is maintained and shaped. Find a groomer experienced with spaniel coats; the approach differs from short-coated or heavily clipped breeds.</p><h3>Bathing</h3><p>Bathe every 6–8 weeks or when the dog is genuinely dirty. Use a dog shampoo suited for silky coats; a light conditioner on the feathering reduces tangles and makes brushing easier after the bath. Rinse thoroughly. Dry the feathered areas completely, especially behind the ears — dampness retained in these areas promotes skin irritation and odor.</p>"
+    },
+    "special": {
+      "label": "Ear Care and Eye Monitoring",
+      "heading": "Ear Cleaning and Eye Health for Field Spaniels",
+      "html": "<p>The Field Spaniel's long, heavily feathered ears trap moisture and debris. Weekly ear cleaning is essential — clean ears in the same session as weekly brushing to establish it as a routine. Apply veterinary ear cleaning solution, massage the ear base, allow the dog to shake, then wipe visible debris with cotton balls. Check for odor, redness, or discharge at each cleaning session.</p><h3>Eye Health Monitoring</h3><p>Field Spaniels can be prone to eye conditions including ectropion (drooping lower eyelid) and entropion (inward-rolling eyelid). During regular grooming sessions, check the eyes: the conjunctiva should be pink rather than red, there should be no visible rolling of the eyelid, and the dog should not be squinting or pawing at the eyes. Any of these signs warrant a veterinary check. Establish an eye baseline at the first vet visit and ask your vet whether ophthalmology screening is appropriate given the line of dogs.</p><h3>Progressive Retinal Atrophy</h3><p>PRA (Progressive Retinal Atrophy) is documented in Field Spaniels. DNA testing of breeding parents reduces risk. When grooming, note any changes in how the dog navigates in low light conditions — difficulty in dimly lit rooms or reluctance on stairs at night may indicate early visual changes and warrant veterinary evaluation.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does a Field Spaniel need professional grooming?",
+      "a": "Every 8–10 weeks for a bath and trim. The Field Spaniel coat doesn't require the frequent professional attention of breeds with continuously growing coats, but without trimming the feathering becomes difficult to manage and prone to matting. Between professional appointments, weekly home brushing and ear cleaning maintains the coat and prevents problems from developing."
+    },
+    {
+      "q": "Do Field Spaniels mat easily?",
+      "a": "The feathering is the mat-prone area — behind the ears, under the armpits, and in the leg furnishings. The body coat is not particularly mat-prone. Weekly brushing and combing through the feathering prevents mat development. If the brushing schedule slips, check the high-risk areas with a metal comb — catching a tangle early is far easier than working out a full mat."
+    },
+    {
+      "q": "How much do Field Spaniels shed?",
+      "a": "Moderately. The silky coat sheds year-round at a moderate rate with slightly heavier seasonal shedding. Regular weekly brushing significantly reduces the amount of loose hair in the home. The feathering doesn't shed as readily as the body coat, which is why it accumulates and can mat without brushing."
+    }
+  ]
+}

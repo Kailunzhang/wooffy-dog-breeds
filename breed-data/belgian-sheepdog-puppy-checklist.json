@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "name": "Belgian Sheepdog Puppy Checklist",
+    "slug": "belgian-sheepdog-puppy-checklist",
+    "shopify_handle": "belgian-sheepdog-puppy-checklist",
+    "group": "Belgian Sheepdog",
+    "size_category": "Guide",
+    "tags": ["belgian-sheepdog", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-05-03T16:00:00Z",
+    "excerpt": "Preparing for a Belgian Sheepdog puppy means getting ready for an intelligent, active, and long-coated herding breed. This checklist covers supplies, home prep, and early training essentials.",
+    "meta_description": "Belgian Sheepdog puppy checklist: supplies, home setup, training plan, and socialization guide for new Groenendael owners."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Belgian_Sheepdog_2.jpg/330px-Belgian_Sheepdog_2.jpg",
+      "alt": "Belgian Sheepdog puppy checklist"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Setting Up for a Belgian Sheepdog Puppy",
+      "html": "<p>Belgian Sheepdog puppies are bright, active, and grow quickly. Getting your home ready before pickup day sets you both up for success.</p><h3>Home Preparation</h3><ul><li>Secure electrical cords and cables from chewing reach</li><li>Install baby gates to manage access to stairs and off-limit areas</li><li>Ensure yard fencing is secure with no gaps along the bottom</li><li>Remove toxic plants and household chemicals from accessible areas</li><li>Prepare a designated puppy-safe zone for unsupervised time</li><li>Set up the crate with bedding in a quiet but included area of the home</li></ul><h3>Essential Supplies</h3><ul><li>Wire crate with divider panel (sized for adult dog)</li><li>Soft crate bedding or washable crate mat</li><li>Stainless steel food and water bowls</li><li>Age-appropriate large-breed puppy food</li><li>Flat collar and ID tag</li><li>4–6 foot leash and a 20-foot long line</li><li>Pin brush and wide-toothed metal comb (start grooming immediately)</li><li>Detangling spray</li><li>Kong toys and durable chews</li><li>Puppy puzzle feeder</li><li>Enzymatic cleaner for accidents</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "Your Belgian Sheepdog Puppy's First Week Home",
+      "html": "<p>Belgian Sheepdog puppies are observant and intelligent — they begin learning the rules of their new home from the moment they arrive. Establishing structure immediately pays dividends for the life of the dog.</p><h3>Daily Structure</h3><ul><li>Outdoor potty trips every 1–2 hours while awake, immediately upon waking, and after every meal</li><li>Meals 3x daily for puppies under 6 months</li><li>Short supervised play periods interspersed with crate nap time</li><li>Brief grooming sessions paired with treats from day one</li><li>Training introduction: start with name recognition and sit on day one</li></ul><h3>Socialization Priorities (Weeks 8–16)</h3><p>This window is critical for a breed with natural protective instincts. Under-socialized Belgian Sheepdogs often become over-reactive adults. Prioritize:</p><ul><li>Meeting many different people (children, elderly, bearded, uniformed, etc.)</li><li>Urban environments: traffic, bicycles, crowds, construction sounds</li><li>Other vaccinated, well-socialized dogs (puppy class is ideal)</li><li>Handling for veterinary procedures: ears, paws, mouth, and body touching</li><li>Various environments: parks, pet-friendly stores, outdoor cafes, rural settings</li></ul><h3>Veterinary First Week</h3><ul><li>Schedule first vet appointment within 72 hours of arrival</li><li>Bring all breeder health documentation</li><li>Confirm vaccination schedule and parasite prevention plan</li><li>Discuss spay/neuter timing (often 12–18 months for medium-to-large breeds)</li><li>Set up pet insurance before any conditions develop</li></ul>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Training Your Belgian Sheepdog Puppy",
+      "html": "<p>Belgian Sheepdogs are among the most trainable breeds in the world. They want to work with you and they learn very quickly. Starting training on day one and maintaining it consistently throughout the dog's life produces a truly exceptional companion.</p><h3>Week 1–4: Foundation Skills</h3><ul><li><strong>Name:</strong> Say name, reward eye contact immediately. Practice dozens of times daily.</li><li><strong>Sit:</strong> Lure with a treat over the head. Practice before meals and at every door.</li><li><strong>Down:</strong> Lure from sit position. Important for impulse control.</li><li><strong>Come:</strong> Begin in tiny spaces, gradually increase distance. Always make coming to you the best possible thing.</li><li><strong>Leave it:</strong> Place a treat on the floor, cover with your hand. Reward when the puppy looks away from it.</li><li><strong>Crate as home:</strong> Feed all meals in crate with door open initially, then begin closing briefly.</li></ul><h3>Puppy and Obedience Classes</h3><p>Enroll in puppy kindergarten as soon as your vet clears attendance after the second vaccination. Follow with basic and advanced obedience classes. Belgian Sheepdogs excel in structured class environments. Consider agility, rally obedience, herding, or tracking as the dog matures — this breed needs a sport or job to stay mentally fulfilled.</p><h3>Managing the Belgian Sheepdog's Intensity</h3><p>Belgian Sheepdog puppies can be very intense in play — nipping, chasing, and herding behaviors are common. Redirect biting to appropriate toys immediately rather than pulling away or reacting dramatically (which escalates arousal). Short timeouts (1 minute of calmly ignoring the puppy) when biting persists are effective. Teaching a 'settle' or 'relax' cue from early puppyhood helps the dog learn to self-regulate arousal — a critical skill for this high-drive breed.</p><h3>Exercise During Growth</h3><p>Limit high-impact structured exercise to 5 minutes per month of age, twice daily, until growth plates close at approximately 12–18 months. Free play at the puppy's own pace is fine. Avoid repetitive jumping, long runs, or stair climbing in very young puppies whose joints are still developing.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "When can a Belgian Sheepdog puppy start agility training?",
+      "a": "Foundation agility training (flat work, targeting, tunnel work without jumps) can begin at any age. Jumping should wait until the growth plates close — typically 12–18 months. Most agility clubs offer foundation classes specifically designed for puppies that avoid high-impact exercises."
+    },
+    {
+      "q": "How do I handle biting from my Belgian Sheepdog puppy?",
+      "a": "Puppy biting (mouthing) is normal but should be redirected, not tolerated. When the puppy bites, immediately redirect to an appropriate toy. If biting continues intensely, calmly end the play session for 1 minute. Avoid rough play that increases the puppy's arousal. Consistent redirection over several weeks teaches the puppy what is acceptable to bite."
+    },
+    {
+      "q": "Should I socialize my Belgian Sheepdog puppy before all vaccinations are complete?",
+      "a": "Yes — the socialization window (8–16 weeks) is more critical than the small disease risk in controlled environments. Many vets and trainers support early puppy class attendance as soon as the second vaccination is completed. Avoid high-risk areas like unvaccinated dog parks or areas frequented by unknown dogs until the full series is complete."
+    },
+    {
+      "q": "How much does a Belgian Sheepdog puppy sleep?",
+      "a": "Belgian Sheepdog puppies sleep 16–18 hours per day. Enforcing regular nap time in the crate prevents overtiredness, which often manifests as biting, zoomies, or other overexcited behavior. A tired puppy that is overstimulated rather than rested is harder to manage than one with a consistent rest schedule."
+    }
+  ]
+}

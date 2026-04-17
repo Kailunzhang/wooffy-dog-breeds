@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Norfolk Terrier Puppy Checklist",
+    "slug": "norfolk-terrier-puppy-checklist",
+    "shopify_handle": "norfolk-terrier-puppy-checklist",
+    "group": "Norfolk Terrier",
+    "size_category": "Guide",
+    "tags": ["norfolk-terrier", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-05-01T16:00:00Z",
+    "excerpt": "Getting ready for a Norfolk Terrier puppy? This checklist covers everything you need before pickup day — from supplies and home prep to first-week routines and early training.",
+    "meta_description": "Norfolk Terrier puppy checklist: supplies, home setup, first-week routines, and early training tips for new Norfolk Terrier owners."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Norfolk_terrier_CAC.jpg/330px-Norfolk_terrier_CAC.jpg",
+      "alt": "Norfolk Terrier puppy"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Preparing Your Home for a Norfolk Terrier Puppy",
+      "html": "<p><strong>Puppy-Proofing:</strong> Norfolk Terriers are small but determined diggers and explorers. Check fence lines for gaps, secure any area where the puppy shouldn't go, remove toxic plants from reach, and secure cabinet doors at ground level. These dogs will investigate every corner.</p><p><strong>Supplies Checklist:</strong></p><ul><li>Small wire crate with a divider panel</li><li>Comfortable crate pad or dog bed</li><li>Stainless steel food and water bowls</li><li>Small-breed puppy food (continue what breeder is feeding for 1–2 weeks, then transition gradually)</li><li>Flat collar and ID tag</li><li>Lightweight harness</li><li>4-foot and 6-foot leash</li><li>Slicker brush and metal comb</li><li>Age-appropriate chew toys and interactive puzzle feeders</li><li>Enzymatic cleaner for house-training accidents</li></ul><p><strong>First Vet Visit:</strong> Schedule within the first week. Bring all health documentation from the breeder. Discuss the full puppy vaccine schedule, deworming protocol, and when to schedule spay/neuter if applicable.</p>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "The First Week: Building Routines With Your Norfolk Puppy",
+      "html": "<p><strong>Crate Training:</strong> Introduce the crate on day one as a positive, safe space. Feed all meals there with the door open initially. Build up to short closed-door sessions while you remain in the room, then gradually extend duration. Norfolk Terriers adapt well to crating when introduced without rushing.</p><p><strong>Potty Training:</strong> Establish a consistent outdoor schedule — first thing in the morning, after every meal and nap, during and after play, and last thing at night. Reward immediately after outdoor success with praise and a small treat. Expect accidents; respond by cleaning up with enzymatic cleaner and adjusting your schedule rather than scolding.</p><p><strong>Grooming Introduction:</strong> Begin handling the puppy's coat, ears, paws, and mouth every day. Use a soft brush gently on the puppy coat to build familiarity. This investment of time during puppyhood makes adult grooming sessions significantly easier and reduces stress at the groomer.</p><p><strong>Other Pets:</strong> Introduce the Norfolk puppy to any resident dogs on neutral territory first if possible. Norfolk Terriers generally do well with other dogs, but careful introductions give the best start. With cats and small pets, close supervision is always necessary given the breed's prey drive.</p>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Early Training Priorities for Norfolk Terrier Puppies",
+      "html": "<p><strong>Positive Reinforcement:</strong> Norfolk Terriers respond best to reward-based training. Short, fun training sessions (3–5 minutes, multiple times daily) yield better results than long drilling sessions. Keep the energy positive and end on success.</p><p><strong>Recall:</strong> A reliable 'come' command is essential for any terrier. Practice indoors and in safely enclosed areas using high-value rewards. The Norfolk's sociable nature actually makes recall training easier than with some other terrier breeds — it genuinely enjoys coming back to you when you've made it rewarding.</p><p><strong>Prey Drive:</strong> The Norfolk will instinctively chase small, fast-moving animals. Begin teaching 'leave it' from day one. Never trust a Norfolk off-leash in unfenced areas — prey drive can override recall training in the presence of a compelling target.</p><p><strong>Bark Management:</strong> Like all terriers, Norfolks are vocal. Teaching 'quiet' early using the interrupt-and-reward method helps manage barking before it becomes a deep habit. Consistency across all household members is key.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Are Norfolk Terrier puppies easy to find?",
+      "a": "Not always. The Norfolk is a relatively rare breed in the US, and reputable breeders often have wait lists. Contact the Norfolk Terrier Club for breeder referrals and plan to wait — quality breeders prioritize placing puppies carefully over producing puppies constantly."
+    },
+    {
+      "q": "How quickly do Norfolk Terrier puppies mature?",
+      "a": "Norfolk Terriers are slow to mature mentally and physically, typically reaching full maturity around 18–24 months. Puppy exuberance and short attention spans persist well into the first year — patience and consistency in training pay off as the dog matures."
+    }
+  ]
+}

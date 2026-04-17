@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "name": "Keeshond",
+    "slug": "keeshond",
+    "shopify_handle": "keeshond",
+    "group": "Non-Sporting Group",
+    "size_category": "Medium Breed",
+    "tagline": "The Keeshond is a friendly, adaptable Dutch barge dog with a spectacular double coat and distinctive 'spectacle' markings around its eyes. Social, alert, and genuinely attached to family — but that coat is a serious shedding commitment.",
+    "tags": ["non-sporting-group", "medium-breed", "friendly", "double-coat", "dutch-breed", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-05-01T16:00:00Z",
+    "excerpt": "The Keeshond is one of the most people-oriented spitz breeds — friendly, alert, and deeply attached to family. The tradeoff for that charming personality is a double coat that sheds dramatically twice a year. Know what you're signing up for on both counts.",
+    "meta_description": "Keeshond breed guide: friendly adaptable personality, heavy double coat shedding, spectacle markings, health concerns including epilepsy and heart disease, and ownership considerations."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "35–45 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–15 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "45–60 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Keeshond_Majic_standing_cropped.jpg/250px-Keeshond_Majic_standing_cropped.jpg",
+      "alt": "Keeshond"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Keeshond?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Keeshond (pronounced KAYZ-hawnd) is a Dutch spitz breed with a history as a barge dog on the Rhine River — a companion and watchdog for the boatmen who worked the waterways of the Netherlands. The breed became a symbol of the Dutch Patriot political movement in the late 18th century, which accounts for both its name and its long association with working-class Dutch life.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">What distinguishes the Keeshond physically is the spectacular coat — dense silver and black double coat with distinctive dark markings around the eyes called \"spectacles.\" These shading patterns give the dog a perpetually alert, wise expression. What distinguishes it temperamentally is a friendliness and social warmth unusual for spitz-type dogs, which tend toward independence and aloofness.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The Keeshond is a genuinely good family dog — adaptable, affectionate, and not particularly demanding in terms of exercise. The honest catch: the double coat sheds very heavily twice per year, and moderately year-round. If you bring a Keeshond into your home, you will be managing dog hair as a permanent lifestyle consideration.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Keeshonds Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Medium-sized and compact — 35 to 45 pounds, 17 to 18 inches at the shoulder. The profuse double coat creates a lion's mane effect around the neck and chest (the ruff), with thick fur on the hindquarters forming distinctive \"trousers.\" The tail curls over the back in classic spitz fashion.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Color is a mixture of grey, black, and cream, with the characteristic spectacle markings — dark lines from the outer corners of the eyes to the ears, creating a framing effect unique to the breed. Eyes are dark brown, almond-shaped, and set obliquely. The overall impression is of an alert, well-balanced dog with a fox-like face surrounded by an impressive mane.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Keeshond is an unusually friendly spitz breed. While most spitz-type dogs are independent and reserved with strangers, Keeshonds lean toward openness and social engagement. They tend to be good with children, comfortable with strangers once introduced, and genuinely interested in being where people are — they often follow their family from room to room and want to participate in household activity.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">This velcro tendency is real: Keeshonds do not enjoy being left alone for long periods and can develop separation anxiety. They were barge dogs that lived in close quarters with their people — solitude doesn't suit the breed's social wiring.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Alert and vocal — the watchdog heritage means they will bark to announce visitors and events. This can be managed with training but is a genuine breed trait. Apartment dwellers should factor this in. They are not guard dogs in the protective sense — they announce, they don't threaten.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Keeshond",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Keeshond is one of those breeds that deserves more recognition than it gets. It's friendly, adaptable, good with kids, doesn't require intense exercise, and has a genuinely warm personality. The coat is spectacular-looking and the spectacle markings are unlike anything else in the dog world.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The coat is also the non-negotiable commitment. During the twice-yearly coat blows, the undercoat releases in volumes that are genuinely surprising — clumps of fur, constant brushing, hair on everything. Owners who find this manageable (or even satisfying) are the right match for this breed. Owners who find dog hair stressful are not.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">One thing to know about health: epilepsy appears in Keeshonds at a meaningful rate. It's manageable with medication, but it's a real concern and worth factoring into pet insurance coverage. Patent Ductus Arteriosus (PDA) — a heart defect — is another breed concern that a puppy's first vet exam should check for.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate — 45 to 60 minutes daily. Walks, play sessions, and some mental enrichment keep a Keeshond content. They're adaptable to smaller living spaces as long as they get consistent daily exercise. The thick double coat means heat sensitivity — avoid vigorous exercise in hot weather.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Weekly brushing is required year-round; daily brushing during the twice-yearly coat blows. An undercoat rake is the primary tool. The Keeshond should never be shaved — the double coat is a thermoregulation system, not a heat trap. See the <a href=\"/blogs/dog-breeds/keeshond-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Keeshond grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Generally willing and moderately easy to train. Keeshonds respond well to positive reinforcement and are sensitive to harsh correction. They're smart enough to learn quickly. Socialization is important for managing the vocal tendencies around strangers and sounds.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Keeshond is generally a healthy medium-sized breed with a lifespan of 12 to 15 years. Epilepsy is the most notable breed health concern and appears at a higher rate than the general dog population.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Epilepsy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Idiopathic epilepsy appears at a meaningful rate in the breed. Seizures typically begin between 1 and 5 years of age. Manageable with anticonvulsant medication in most cases. Pet insurance is particularly relevant here — lifetime medication costs are real.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Malformed hip joint. OFA hip screening available from reputable breeders.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Underactive thyroid — manageable with daily medication. OFA thyroid clearance available.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Patent Ductus Arteriosus (PDA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">A congenital heart defect where a fetal blood vessel fails to close after birth, forcing the heart to work harder. Detected by cardiac exam in puppies — correctable surgically if identified early. Reputable breeders cardiac-screen breeding stock.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Heart Disease (general)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Beyond PDA, other cardiac conditions can develop in the breed. Annual cardiac exams are recommended from middle age.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA thyroid, cardiac screening clearances for breeding stock.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$550</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$550</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Grooming tools + professional</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$200–$400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,200–$5,450</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,250–$2,150</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/keeshond-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Keeshond first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Keeshond Right for You?",
+      "good_fit": [
+        "Families with children — the Keeshond is one of the more family-friendly medium breeds",
+        "Owners who want a friendly, social dog that bonds with the whole household",
+        "People who can commit to regular grooming and accept dog hair as part of life",
+        "Moderately active households — not couch potatoes, but not marathon runners either",
+        "Owners who appreciate an alert watchdog that's not aggressive"
+      ],
+      "not_fit": [
+        "Anyone who cannot tolerate heavy seasonal shedding — this coat produces a lot of hair",
+        "Owners away from home most of the day — Keeshonds need company and can develop separation anxiety",
+        "Apartment dwellers with noise-sensitive neighbors — the breed's vocal tendencies need managing",
+        "Anyone who wants to shave the dog in summer — double coats don't work that way",
+        "People who want a low-maintenance coat on a medium-sized dog"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Keeshond",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$2,500 from reputable breeders. The Keeshond Club of America maintains a breeder referral directory. Required health documentation: OFA hip, OFA thyroid, cardiac screening. Ask breeders specifically about epilepsy in their lines — responsible breeders track this.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Keeshond rescue networks operate in most regions. Dogs are sometimes surrendered when owners underestimated the shedding commitment. Adult rescues are available and the temperament is generally excellent.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Keeshond comes home, complete the <a href=\"/blogs/dog-breeds/keeshond-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Keeshond puppy checklist</a>.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "Do Keeshonds shed a lot?", "a": "Yes — significantly twice per year during coat blows, and moderately year-round. During shedding season, daily brushing is required to manage the volume. Vacuuming becomes a near-daily activity. The double coat should never be shaved — it's a thermoregulation system, not a heat source." },
+    { "q": "Are Keeshonds good with other dogs?", "a": "Generally yes. The breed is social and typically gets along with other dogs. Early socialization helps. Individual Keeshonds vary, but dog-aggression is not a typical breed trait the way it is in some other breeds." },
+    { "q": "What are the spectacle markings on a Keeshond?", "a": "Dark shading lines that run from the outer corners of the eyes to the ears, creating a framing effect that looks like spectacles or glasses. This is a breed-specific marking that's judged in the show ring and is unique to the Keeshond. It gives the breed its characteristically alert, intelligent expression." },
+    { "q": "Are Keeshonds prone to epilepsy?", "a": "The breed has a higher rate of idiopathic epilepsy than many breeds. It typically appears between 1 and 5 years of age and is managed with daily anticonvulsant medication. Pet insurance enrolled before symptoms appear is strongly recommended for this breed." }
+  ],
+
+  "related_breeds": [
+    {"name": "Finnish Spitz", "slug": "finnish-spitz", "note": "Also non-sporting spitz, more vocal and independent, slightly smaller"},
+    {"name": "Samoyed", "slug": "samoyed", "note": "Larger white spitz, similar friendly personality, even more coat"},
+    {"name": "American Eskimo Dog", "slug": "american-eskimo-dog", "note": "Similar spitz type, comes in multiple sizes, similarly people-oriented"},
+    {"name": "Pomeranian", "slug": "pomeranian", "note": "Toy-sized spitz relative, similar coat type, higher energy for its size"}
+  ]
+}

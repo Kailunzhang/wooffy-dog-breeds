@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Beauceron First Year Costs",
+    "slug": "beauceron-first-year-costs",
+    "shopify_handle": "beauceron-first-year-costs",
+    "group": "Beauceron",
+    "size_category": "Guide",
+    "tags": ["beauceron", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-05-03T16:00:00Z",
+    "excerpt": "The Beauceron is a large working breed with significant food and training costs but low grooming expenses. This guide breaks down what to budget for your first year with a Beauceron.",
+    "meta_description": "Beauceron first year cost breakdown: puppy price, food, vet bills, training, and what makes this French herding breed more affordable than many large dogs."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Beauceron_agility.jpg/330px-Beauceron_agility.jpg",
+      "alt": "Beauceron first year costs"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Initial Expenses for a Beauceron",
+      "html": "<p>The Beauceron is rare in North America, which means finding a reputable breeder may require a wait and potentially a significant purchase price. Here are the key upfront expenses to plan for.</p><ul><li><strong>Puppy from reputable breeder:</strong> $1,500–$2,500 (imported European dogs may cost more)</li><li><strong>Rescue adoption fee:</strong> $200–$500 (rare but worth searching for)</li><li><strong>Large wire crate with divider:</strong> $80–$150</li><li><strong>Heavy-duty dog bed:</strong> $60–$120</li><li><strong>Stainless steel bowls (large):</strong> $30–$60</li><li><strong>Collar, ID tag, leash:</strong> $40–$80</li><li><strong>Long training line (30 feet):</strong> $20–$40</li><li><strong>Basic grooming tools</strong> (rubber brush, de-shedding tool, nail clipper): $50–$100</li><li><strong>Baby gates or exercise pen:</strong> $50–$120</li><li><strong>Toys and chews:</strong> $50–$100</li><li><strong>Initial vet visit:</strong> $80–$150</li></ul><p><strong>Estimated Upfront Total: $2,160–$3,420</strong> (including puppy purchase)</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Annual Recurring Costs for a Beauceron",
+      "html": "<p>The Beauceron's size drives food and veterinary costs, but the short coat means minimal grooming expenses — a genuine cost advantage over many herding breeds.</p><ul><li><strong>Puppy vaccination series:</strong> $200–$400</li><li><strong>Spay/neuter:</strong> $300–$700</li><li><strong>Heartworm, flea, and tick prevention:</strong> $200–$400/year</li><li><strong>Annual wellness exam:</strong> $100–$200</li><li><strong>Dog food (large-breed quality formula):</strong> $900–$1,400/year</li><li><strong>Treats:</strong> $120–$250/year</li><li><strong>Grooming (DIY at home — minimal cost):</strong> $30–$60/year for supplies</li><li><strong>Professional nail trims if not done at home:</strong> $15–$25 per visit x 12 = $180–$300/year (optional)</li><li><strong>Training classes (essential for this breed):</strong> $250–$700</li><li><strong>Pet insurance:</strong> $50–$85/month = $600–$1,020/year</li><li><strong>Toys and enrichment:</strong> $100–$250/year</li><li><strong>Boarding or pet sitting:</strong> $300–$700/year estimate</li></ul><p><strong>Estimated Recurring Year-One Total: $3,080–$5,380</strong></p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "Total First Year and Long-Term Cost Planning",
+      "html": "<p><strong>Total First Year Estimate: $3,500–$6,000</strong></p><p>The Beauceron is somewhat more affordable than breeds with intensive grooming needs, because professional grooming is largely unnecessary. This saves $500–$1,000 per year compared to the Bouvier des Flandres or Bearded Collie.</p><p>Ongoing annual costs after the first year typically range from <strong>$2,000–$3,200</strong> for a healthy dog.</p><p><strong>Potential Health Costs to Plan For:</strong></p><ul><li><strong>Hip dysplasia surgery:</strong> $3,500–$7,000+ per hip if needed</li><li><strong>GDV (bloat) emergency surgery:</strong> $3,000–$7,000+. Discuss prophylactic gastropexy ($400–$600 at time of spay/neuter) to dramatically reduce this risk — it is particularly worth considering for deep-chested breeds like the Beauceron.</li><li><strong>Cardiac management</strong> (if DCM develops): $500–$2,000+/year depending on severity</li><li><strong>Professional dental cleaning:</strong> $500–$900 every 1–3 years</li></ul><p><strong>Cost Advantage of the Beauceron:</strong> The short coat eliminates professional grooming costs — a saving of $500–$1,050/year compared to long-coated herding breeds. This partially offsets the breed's otherwise similar costs to other large working breeds.</p><p><strong>Lifetime Cost Estimate (10–12 years):</strong> $25,000–$45,000 depending on health and lifestyle.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Beauceron cheaper to groom than other herding breeds?",
+      "a": "Yes, significantly. The Beauceron's short coat requires only basic at-home brushing and the occasional bath — no professional grooming visits are needed. This saves $500–$1,000 per year compared to long-coated herding breeds like the Bouvier des Flandres or Bearded Collie."
+    },
+    {
+      "q": "How much does a Beauceron puppy cost?",
+      "a": "A Beauceron puppy from a reputable North American breeder typically costs $1,500–$2,500. The breed is relatively rare in the US, so waiting lists are common. Imported European dogs from working bloodlines may cost $3,000 or more. Rescue adoption, when available, runs $200–$500."
+    },
+    {
+      "q": "Should I consider prophylactic gastropexy for my Beauceron?",
+      "a": "Yes, it is worth discussing with your veterinarian. The Beauceron's deep chest places it at elevated risk for GDV (bloat), which is a life-threatening emergency with surgical costs of $3,000–$7,000+. A prophylactic gastropexy performed at the time of spay/neuter costs $400–$600 and virtually eliminates the risk of the fatal stomach-twisting component."
+    }
+  ]
+}

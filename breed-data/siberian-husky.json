@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "name": "Siberian Husky",
+    "slug": "siberian-husky",
+    "shopify_handle": "siberian-husky",
+    "group": "Working Group",
+    "size_category": "Medium Breed",
+    "tagline": "Siberian Huskies are one of the most beautiful, free-spirited breeds — and one of the most escaped, surrendered, and misunderstood. Here's the honest picture.",
+    "tags": ["working-group", "medium-breed", "high-energy", "sled-dog", "dog-breeds"],
+    "published": true,
+    "excerpt": "Huskies are stunning, intelligent, and genuinely athletic. They're also escape artists, serial howlers, bred to run 100 miles a day, and completely indifferent to your recall commands when something interesting is happening.",
+    "meta_description": "Is a Siberian Husky right for you? The honest guide to Husky energy needs, escape behavior, howling, shedding, and what living with one really looks like."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "35–60 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–14 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "90–120 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate–High" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Not recommended" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Husky_L.jpg/330px-Husky_L.jpg",
+      "alt": "Siberian Husky"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Siberian Husky?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Siberian Husky was bred by the Chukchi people of northeastern Siberia to pull sleds long distances in extreme cold. They were designed to run 100+ miles a day at moderate speed in pack formation — efficient, enduring, and with a strong independent streak that allowed them to make decisions without human direction in harsh conditions. Understanding this origin explains almost everything about living with one.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Huskies are one of the most popular breeds, driven largely by their stunning appearance. They're also one of the breeds most frequently surrendered to rescues, usually by owners who didn't understand what the appearance comes packaged with: extraordinary exercise needs, escape artistry that embarrasses most other breeds, selective recall, and a howling volume that carries across neighborhoods.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">For the right owner — active, patient, with secure containment and realistic expectations about off-leash behavior — Huskies are remarkable companions. For everyone else, they're frequently more than bargained for.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Siberian Huskies Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Medium-sized, athletic, and wolf-like in appearance — Huskies weigh 35–60 lbs (females lighter, males heavier) and stand 20–23 inches tall. The dense double coat comes in a wide range of colors — black and white, gray and white, red and white, sable, and pure white. Blue eyes are common and often both eyes are different colors (heterochromia). The expression is alert and often looks mischievous. The overall build is designed for endurance, not power — lean, light-footed, and built to move efficiently for very long distances.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Friendly, outgoing, and genuinely good with people and other dogs — Huskies are pack animals that enjoy social interaction. They're not guard dogs; they'll enthusiastically greet strangers. They're playful, often described as mischievous, and have a strong personality that's engaging but requires patience.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The independent streak that allowed Huskies to make decisions in the field translates to selective obedience at home. They understand commands; they simply evaluate whether compliance is worth their while. This is frustrating for owners accustomed to more biddable breeds. Huskies respond to positive reinforcement and patient consistency — not repetitive commands and frustration.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They're vocal — Huskies howl, \"woo woo\" at their owners, and narrate their experiences in a range of sounds distinct from a regular bark. This is charming until it's 6am. They also have high prey drive; small animals (cats, rabbits, squirrels) may not be safe around an unsupervised Husky.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Husky",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Huskies are one of the breeds I'd tell most people to look at from a distance and admire. They're genuinely beautiful and genuinely great dogs — for about 10% of potential owners who have the specific lifestyle they need. For the other 90%, they're an exercise in daily frustration.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The exercise requirement is not casual — 90–120 minutes of real daily activity, with a preference for running at actual speed (not walking). A Husky that doesn't get adequate exercise becomes a destructive interior decorator. They will dismantle furniture, escape yards, howl for hours, and generally make life difficult. This is not misbehavior; it's a working dog trying to meet its biological needs in a confined environment.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">On escaping: Huskies are world-class escape artists. They jump fences that seem adequate, dig under with impressive speed, find gaps, and problem-solve containment in ways that make owners question their own intelligence. The fence needs to be 6 feet tall, has anti-dig barrier at the base, and has been inspected for any gaps. And off-leash is never safe in unfenced areas — a Husky that gets a scent or a visual is gone, and recall fails in ways that other breeds don't.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">90–120 minutes of vigorous daily exercise. Running, canicross (running with the dog attached), bikejoring, or any activity that lets the Husky operate at speed. Leashed walks are supplemental, not the primary exercise. Many Husky owners also participate in recreational sled sports, skijoring, or weight pulling. Mental stimulation through training and puzzle work helps, but doesn't replace physical output for this breed.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Shedding:</strong> Heavy year-round, with two dramatic blowouts per year — the volume during blowout season is staggering</li><li><strong style=\"color:#1a1a1a;\">Brushing:</strong> 2–3x weekly normally; daily during coat blow</li><li><strong style=\"color:#1a1a1a;\">Bathing:</strong> Infrequently — Huskies have a naturally clean, low-odor coat that self-cleans reasonably well; bath every 3–4 months or when genuinely dirty</li><li><strong style=\"color:#1a1a1a;\">Never shave:</strong> The double coat regulates temperature in both heat and cold; shaving is harmful</li></ul><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">See the <a href=\"/blogs/dog-breeds/siberian-husky-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Siberian Husky grooming guide</a> for coat blow season management.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Patient, positive, reward-based, and realistic. Huskies are intelligent and can learn — they're just selectively motivated. Off-leash recall in open areas may never be fully reliable. Focus on loose-leash walking (challenging with a sled dog instinct to pull), basic commands, and crate training. Start early, keep sessions short and interesting.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Huskies are generally a healthy breed with fewer structural problems than many large breeds. Their main health concerns are eye conditions and some metabolic issues.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Genetic eye condition leading to progressive vision loss. DNA test and annual eye exams in breeding stock identify carriers. Ask breeders for CAER eye exam clearances.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hereditary Cataracts</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">More common in Huskies than many breeds. Genetic test available; responsible breeders screen for this. Can affect vision in middle age.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Less common than in many large breeds but present. OFA clearances on parents recommended.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Relatively common; manageable with daily medication. Signs: weight gain, lethargy, coat changes.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> CAER eye exam clearances, hereditary cataract DNA test, OFA hip clearances</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$600–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,080</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,080</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup + secure fencing (if needed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$2,000+</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,500–$6,700+</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,500–$2,600</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">Fencing is a major variable — if your current fence isn't Husky-proof, budget $500–$2,000+ to upgrade. See the <a href=\"/blogs/dog-breeds/siberian-husky-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Siberian Husky first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Siberian Husky Right for You?",
+      "good_fit": [
+        "Active owner who runs, bikes, or hikes daily and wants a dog partner",
+        "Have or will build 6-foot escape-proof fencing",
+        "Comfortable with heavy shedding twice yearly",
+        "Want a friendly, social dog rather than a guard dog",
+        "Have patience for an independent, selectively obedient breed"
+      ],
+      "not_fit": [
+        "Apartment living or close neighbors sensitive to noise",
+        "Want reliable off-leash recall for hiking",
+        "Cannot provide 90+ minutes of vigorous daily exercise",
+        "Have small pets (cats, rabbits) that would be at risk",
+        "First-time owner expecting an easy, biddable dog"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Siberian Husky",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$600–$1,500 from a reputable breeder. Ask for CAER eye exam clearances, hereditary cataract DNA test, and OFA hip clearances. Siberian Husky Club of America registered breeders generally follow health testing protocols.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Husky-specific rescues have substantial populations — the breed is one of the most surrendered due to exactly the mismatch between appearance and ownership reality described above. Adult Huskies from rescue can be excellent dogs for prepared owners.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Check the <a href=\"/blogs/dog-breeds/siberian-husky-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Siberian Husky puppy checklist</a> — fencing verification is the most important pre-arrival task for this breed.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Can Siberian Huskies be off-leash?",
+      "a": "Not safely in unfenced areas for most owners. Huskies have a strong prey drive and independent nature; when they spot something interesting, recall fails. This is a deep breed instinct, not a training failure that sufficient work resolves. Many experienced Husky owners simply accept that their dog will never be reliably off-leash except in securely fenced areas. Long-line training in open spaces is a practical compromise."
+    },
+    {
+      "q": "How much do Siberian Huskies shed?",
+      "a": "A lot — continuously, with two spectacular blowouts per year (spring and fall) where the volume becomes extraordinary. During coat blow, it looks like a second dog is emerging from the first. Regular brushing (2–3x/week normally, daily during blow season) and a professional deshedding bath during blowout season are the management tools. Never shave a Husky — the double coat serves important thermal regulation functions in both hot and cold weather."
+    },
+    {
+      "q": "Can a Husky live in a hot climate?",
+      "a": "Yes, with management. The double coat that insulates against cold also creates a dead-air layer that provides some heat protection — shaving removes this function and can make heat tolerance worse. In hot climates: exercise in early morning or evening only, always provide shade and water, never leave in a hot car, and watch for overheating signs. Many Huskies live comfortably in warm climates with proper management."
+    },
+    {
+      "q": "Are Huskies good with kids?",
+      "a": "Generally yes — they're friendly, playful, and energetic in ways that match well with active children. They're not typically aggressive or territorial. Their prey drive toward small animals is a relevant consideration if you have very small children, as the same drive can occasionally extend toward very small humans in frantic play situations. Standard supervision applies."
+    }
+  ],
+
+  "related_breeds": [
+    {"name": "Alaskan Malamute", "slug": "alaskan-malamute", "note": "Larger, heavier, even more independent — same sled dog origins"},
+    {"name": "Samoyed", "slug": "samoyed", "note": "Similar appearance, slightly more trainable, even more shedding"},
+    {"name": "German Shepherd Dog", "slug": "german-shepherd-dog", "note": "More trainable and obedient, different guarding temperament"},
+    {"name": "Greyhound", "slug": "greyhound", "note": "Different type of runner, calmer and more apartment-friendly"}
+  ]
+}

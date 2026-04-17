@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "name": "Whippet Grooming Guide",
+    "slug": "whippet-grooming-guide",
+    "shopify_handle": "whippet-grooming-guide",
+    "group": "Whippet",
+    "size_category": "Guide",
+    "tags": ["whippet", "grooming", "short-coat", "low-maintenance", "dog-care", "dog-breeds"],
+    "published": true,
+    "excerpt": "The Whippet's short, smooth coat is genuinely one of the lowest-maintenance coats in the dog world — here's the minimal routine that keeps it clean and healthy, plus the one grooming issue unique to sighthounds.",
+    "meta_description": "Whippet grooming guide: the simple routine for a short smooth coat, what tools you actually need, skin care for thin-skinned dogs, and seasonal cold-weather tips."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Whippet_2018_6.jpg",
+      "alt": "Whippet"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "The Honest Truth About Whippet Grooming: It's Actually Easy",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Whippet's short, smooth, single-layer coat is about as low-maintenance as a dog coat gets. There's no undercoat to rake out, no curly coat to mat, no feathering to tangle. A weekly wipe-down with a rubber grooming mitt, a bath every 6–8 weeks, and regular nail trims covers essentially everything. Professional grooming is optional and almost never necessary.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The one grooming-adjacent issue that's genuinely specific to Whippets — and to sighthounds generally — is their skin. Whippets have very thin skin with minimal fat underneath it. It tears more easily than almost any other breed, and cuts need attention promptly because thin skin also heals more slowly than thick skin. This guide covers the basic routine plus how to handle the skin reality that comes with the breed.</p>"
+    },
+
+    "care": {
+      "label": "Tools & Routine",
+      "heading": "What You Need and When to Use It",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">The Two Tools You Actually Need</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Rubber grooming mitt</strong> — the primary coat tool for a smooth short coat. It removes loose hair, stimulates circulation, and gives the coat a healthy sheen. Takes about 5 minutes once a week.</li><li><strong style=\"color:#1a1a1a;\">Chamois cloth or microfiber towel</strong> — a quick wipe-down with a slightly damp chamois removes surface dust and brings out the coat's natural gloss. Optional but genuinely effective.</li></ul><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">That's genuinely it for the coat itself. No slicker brush, no undercoat rake, no deshedding tools. The Whippet doesn't need them and the short coat doesn't benefit from them.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Weekly Routine at a Glance</h3><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;width:25%;\">Frequency</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Task</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;\">Weekly</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Rubber mitt wipe-down — full body, 5 minutes; check for cuts or scrapes while you're at it</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;\">Every 6–8 weeks</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Bath — use a gentle shampoo; dry thoroughly as Whippets chill quickly when wet</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;\">Every 3–4 weeks</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Nail trim — Whippet nails are fine and grow faster than you expect</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;\">After every outdoor run</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Quick visual check for cuts, scrapes, or tears — thin skin means even minor injuries need prompt attention</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;\">As needed</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Check ears — Whippets aren't particularly prone to ear problems but check monthly</td></tr></tbody></table><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:24px 0 10px 0;\">Bathing Notes</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Whippets are naturally clean and low-odor dogs — they often go 6–8 weeks between baths with no odor problem. The key mistake to avoid: leaving them wet or cold after bathing. Whippets have no insulating undercoat and minimal body fat. Even on warm days, a wet Whippet gets cold faster than you expect. Towel dry thoroughly and keep them warm until they're fully dry.</p>"
+    },
+
+    "special": {
+      "label": "Sighthound Specifics",
+      "heading": "What's Different About Whippet Skin and the Cold",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Thin Skin: What It Means in Practice</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Whippet skin is noticeably thinner than most breeds — it looks almost painted on over the muscle. This has real practical implications. Rough fencing, sharp sticks, and abrasive surfaces cause cuts and tears that a Labrador would shrug off. Even a \"minor\" Whippet cut often looks dramatic because the thin skin gapes rather than staying closed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">After every outdoor run in rough terrain or around fencing, do a quick visual check — run your hands over the body and look at the legs and flanks particularly. Small cuts cleaned promptly and kept clean usually heal without issue. Larger gaping cuts may need stitches; Whippet skin doesn't self-close as well as thicker-skinned breeds. If a cut is more than an inch long or won't stop bleeding, it needs a vet visit.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Cold Weather: Coats Are Not Optional</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Whippets genuinely need a coat in cold weather — not as a fashion accessory but as functional thermoregulation. With no undercoat and almost no body fat, their thin skin provides essentially no insulation. Below about 50°F (10°C), most Whippets will shiver on walks without a coat. Below freezing, they shouldn't be out for extended periods regardless of coat.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">What actually works: a snug-fitting dog coat that covers the neck, chest, and torso. Whippets have deep chests and narrow waists — measure before buying because standard size charts often don't account for this body shape. Greyhound and sighthound-specific coat brands fit much better than generic dog coats.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Indoor Sleeping</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">For the same reason they need outdoor coats in winter, Whippets prefer soft, warm sleeping surfaces indoors. A good dog bed or blanket isn't indulgence — a Whippet sleeping on a hard cold floor is uncomfortable in a way that affects their wellbeing. Most Whippet owners find the dog gravitates toward the softest available spot in the house, which usually means some negotiation about furniture access.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Do Whippets shed much?",
+      "a": "Less than most medium breeds but not zero. The short coat sheds lightly year-round — you'll find some fine hairs on furniture and clothing, but it's a fraction of what a double-coated or long-coated breed produces. Weekly rubber mitt sessions remove most of the loose hair before it ends up on your couch. There's no seasonal coat blow like you get with Huskies or Golden Retrievers."
+    },
+    {
+      "q": "Can I groom a Whippet entirely at home?",
+      "a": "Yes, entirely. The short smooth coat requires no professional grooming — the rubber mitt routine, occasional baths, and nail trims are all doable at home. A professional groom is an option if you want to, but it's not required for coat health at any point. This is one of the genuine advantages of the breed over Bichons, Poodles, or Doodles whose coats require professional maintenance."
+    },
+    {
+      "q": "My Whippet got a cut — when does it need a vet?",
+      "a": "Whippet skin tears more easily and gapes more than other breeds. Clean any cut promptly with saline solution and apply antiseptic. A cut that's under an inch long, not deep, and not actively bleeding after 5 minutes of gentle pressure can usually be managed at home. Any cut that's more than an inch long, gaping, or won't stop bleeding needs stitches — Whippet skin doesn't close well on its own and these wounds can become infected quickly if left open."
+    },
+    {
+      "q": "What size coat does a Whippet need?",
+      "a": "Measure the back length (collar to tail base) and chest circumference — both matter because Whippets have deep chests and dramatically tucked waists that don't fit standard dog coat proportions. Sighthound-specific brands (such as those made for Greyhounds and Whippets) fit far better than generic brands. A coat that slips back or forward indicates wrong sizing; it should sit snug without restricting movement."
+    }
+  ]
+}

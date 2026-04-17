@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "name": "Siberian Husky Grooming Guide",
+    "slug": "siberian-husky-grooming-guide",
+    "shopify_handle": "siberian-husky-grooming-guide",
+    "group": "Siberian Husky",
+    "size_category": "Guide",
+    "tags": ["siberian-husky", "grooming", "shedding", "double-coat", "dog-breeds"],
+    "published": true,
+    "excerpt": "Huskies shed in volumes that impress even experienced dog owners. Here's how to manage it, what tools work, and why shaving is always the wrong answer.",
+    "meta_description": "Siberian Husky grooming guide: managing the dramatic twice-yearly coat blow, daily shedding routine, why never to shave a Husky, and bathing tips."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Husky_L.jpg/330px-Husky_L.jpg",
+      "alt": "Siberian Husky"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "The Husky Shedding Reality",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Siberian Huskies shed — a lot, year-round — with two spectacular coat blows per year (spring and fall) that produce volumes of undercoat that surprise even owners who thought they were prepared. During coat blow, the undercoat comes out in clumps and fills brushes, vacuums, and every corner of your home simultaneously. This is normal. It lasts 3–4 weeks each season.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The Husky's double coat is a functional insulation system — not decorative. The undercoat traps air to insulate in cold; the outer coat shields against UV and moisture. <strong style=\"color:#1a1a1a;\">Never shave a Husky.</strong> Shaving removes this system, increases UV exposure and overheating risk, damages the coat's texture permanently, and does not reduce shedding in any lasting way. The undercoat continues to grow — it just grows in uneven, altered form after shaving.</p>"
+    },
+    "care": {
+      "label": "Tools & Routine",
+      "heading": "Tools and Schedule",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">The Right Tools</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Undercoat rake</strong> — the primary tool; removes loose undercoat before it migrates to your furniture</li><li><strong style=\"color:#1a1a1a;\">Deshedding tool</strong> (Furminator or similar) — for intensive coat blow sessions</li><li><strong style=\"color:#1a1a1a;\">Pin brush</strong> — for surface finishing and general brushing between undercoat sessions</li><li><strong style=\"color:#1a1a1a;\">High-velocity dryer</strong> (optional) — enormously helpful during coat blow to blow out loose undercoat</li></ul><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Schedule</h3><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Task</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Frequency</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Notes</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;\">Undercoat rake</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">2–3x/week; daily during coat blow</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Work in sections; removes the bulk of loose undercoat.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;\">Professional deshedding bath</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">2x/year at coat blow</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Removes more undercoat in one session than weeks of home brushing.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;\">Bath (home)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Every 3–4 months</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Huskies have a self-cleaning, low-odor coat; overbathing is counterproductive.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;\">Nail trim</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Every 3–4 weeks</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Active dogs may naturally wear nails more; check monthly.</td></tr></tbody></table>"
+    },
+    "special": {
+      "label": "Coat Blow Season",
+      "heading": "Managing the Twice-Yearly Coat Blow",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">During coat blow season, undercoat comes out in visible clumps. The volume is genuinely remarkable to new Husky owners — whole handfuls of soft undercoat during each brushing session, for 3–4 weeks. This is normal. It happens twice a year, and daily management during this period is what keeps it from overwhelming.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">During coat blow: switch to daily brushing with the undercoat rake, book a professional deshedding bath with high-velocity blow-out at the start of the blow period, and vacuum on a substantially more frequent schedule. Accepting that fur will be everywhere for 3–4 weeks, twice a year, is part of Husky ownership.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The one intervention that shouldn't happen during coat blow season — or ever: shaving. Shaving destroys the double coat's functionality and permanently alters its texture. It does not resolve the shedding problem. The coat continues to grow — it just grows back differently.</p>"
+    }
+  },
+  "faq": [
+    { "q": "Can I shave my Husky in summer to keep them cool?", "a": "No. This is the most common grooming mistake for Huskies. The double coat actually provides some heat protection through dead-air insulation — shaving it removes this protection and can increase UV exposure and overheating risk. The coat texture changes permanently after shaving. Manage heat exposure through timing (exercise in early morning or evening), shade, water, and air conditioning instead." },
+    { "q": "How often should I brush a Siberian Husky?", "a": "2–3 times per week as a baseline, daily during the twice-yearly coat blow season. Use an undercoat rake as the primary tool. Consistency matters more than session length — 15 minutes three times per week is more effective than an occasional 90-minute marathon." },
+    { "q": "Do Huskies need professional grooming?", "a": "At minimum, twice a year for a professional deshedding bath and high-velocity blow-out during coat blow season. This single appointment removes more loose undercoat than weeks of home brushing. At home, Huskies don't require trimming or styling — just consistent brushing and occasional bathing." },
+    { "q": "Why does my Husky's coat look dull or patchy after shaving?", "a": "Shaving a Husky's double coat causes the outer guard hairs and soft undercoat to grow back at different rates and often at different textures. The coat may not return to its original appearance. This is why grooming professionals and veterinarians consistently advise against shaving double-coated breeds." }
+  ]
+}

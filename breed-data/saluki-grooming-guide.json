@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Saluki Grooming Guide",
+    "slug": "saluki-grooming-guide",
+    "shopify_handle": "saluki-grooming-guide",
+    "group": "Saluki",
+    "size_category": "Guide",
+    "tags": ["saluki", "grooming", "sighthound", "feathered-coat", "low-shedding"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "Saluki grooming is among the easiest of any breed — especially the smooth variety. The feathered coat needs occasional brushing on the silky sections. The real grooming priority is ear and nail care.",
+    "meta_description": "Saluki grooming guide: smooth vs feathered coat care, ear maintenance, nail trimming for an active sighthound, and bathing a sensitive breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Red_Smooth_Saluki.jpg/250px-Red_Smooth_Saluki.jpg",
+      "alt": "Saluki grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Saluki Coat",
+      "heading": "Understanding the Saluki Coat",
+      "html": "<p>Salukis come in two coat varieties: smooth and feathered. The smooth coat is extremely short and close-lying with minimal feathering anywhere on the body — this is one of the lowest-maintenance coats in dogs. The feathered variety has the same short body coat but with silky, longer hair on the ears, backs of the legs, and tail. Both varieties shed lightly year-round.</p><h3>Grooming Tools You'll Need</h3><ul><li>Soft bristle brush or hound glove — for the smooth body coat</li><li>Wide-tooth comb — for feathering on the feathered variety</li><li>Slicker brush — for working through any tangles in feathering</li><li>Dog-safe shampoo (mild; Salukis have sensitive skin)</li><li>Nail clippers or grinder</li><li>Cotton balls and dog ear cleaner</li></ul><h3>Smooth vs Feathered</h3><p>If you have a smooth Saluki, a weekly once-over with a hound glove or soft brush is genuinely all the coat care required. The feathered variety needs attention to the silky sections — particularly behind the ears, which can mat if left unchecked — but is still well below average in grooming demands compared to most breeds.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Smooth coat: run a hound glove or soft brush over the entire body to remove loose hairs and stimulate skin</li><li>Feathered coat: brush through all feathering — ears, backs of legs, tail — with a wide-tooth comb, then follow with a slicker brush on any tangles</li><li>Check ears: Salukis have drop ears that reduce airflow; check weekly for odor, redness, or debris</li><li>Check between paw pads — debris can accumulate, especially after outdoor runs</li></ul><h3>Monthly</h3><ul><li>Bath every 4–8 weeks or as needed. Salukis are generally clean dogs that don't develop strong odor. Use a mild, gentle shampoo — their skin is sensitive</li><li>Dry thoroughly after bathing — despite the short coat, getting wet and cold is uncomfortable for a lean-bodied sighthound with minimal body fat and insulation</li><li>Trim nails monthly. Saluki nails are not especially fast-growing, but an active dog running on hard surfaces may wear them naturally. If you hear clicking on floors, it's time to trim</li></ul><h3>Ear Care</h3><p>The long, drop ears are the primary grooming concern for Salukis. Moisture and debris can accumulate, creating conditions for ear infections. Check weekly, clean with a cotton ball and ear cleaner if there is any debris, and see your vet if you notice odor, redness, or the dog shaking its head frequently.</p>"
+    },
+    "special": {
+      "label": "Grooming Considerations",
+      "heading": "Grooming a Sensitive Sighthound",
+      "html": "<p>Salukis are sensitive dogs — sensitive to temperature, sensitive to handling, and sensitive to stress. Grooming sessions that are calm and positive from puppyhood produce dogs that accept handling well. Rushed or rough grooming produces avoidance and anxiety.</p><h3>Cold Sensitivity</h3><p>Salukis have minimal body fat and a thin coat — they get cold in ways most dogs do not. After bathing, dry the dog completely and keep it warm until fully dry. In cold weather, a dog coat or jacket is not excessive for a Saluki on winter walks.</p><h3>Skin Sensitivity</h3><p>Use gentle, dog-appropriate shampoos. Salukis can react to harsh grooming products with dry skin or irritation. If your Saluki develops dry or flaky skin, switch to a moisturizing shampoo and check with your vet — hypothyroidism can manifest as coat and skin changes in this breed.</p><h3>Professional Grooming</h3><p>Most Saluki owners groom at home given the breed's low-maintenance coat. If using a professional groomer, specify clearly: no trimming of feathering beyond tidying split ends, no shaving, gentle handling. The primary professional service useful for Salukis is nail grinding if the owner is not comfortable with nail trims.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How much do Salukis shed?",
+      "a": "Lightly year-round. Salukis are not a heavy-shedding breed — they lack the thick double coats that produce dramatic seasonal shedding. You'll see some loose hairs, particularly from the feathered sections, but nothing requiring daily management. Weekly brushing keeps it controlled."
+    },
+    {
+      "q": "Do I need to trim my Saluki's feathering?",
+      "a": "Not typically — the feathering is part of the breed's natural appearance and does not need regular trimming. Some owners tidy up split ends on the ear feathering or clean up around the paws. Show dogs may have more meticulous tidying. For a pet Saluki, leave the feathering natural and just keep it brushed free of tangles."
+    },
+    {
+      "q": "Why does my Saluki need a coat in winter?",
+      "a": "Salukis have very low body fat and a short, thin coat with minimal insulating capacity. In cold weather — anything below about 45°F — a lean-bodied Saluki can become genuinely cold and uncomfortable on walks. A properly fitting dog coat is a practical accessory for this breed in winter, not a luxury."
+    }
+  ]
+}

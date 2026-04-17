@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "American Foxhound Grooming Guide",
+    "slug": "american-foxhound-grooming-guide",
+    "shopify_handle": "american-foxhound-grooming-guide",
+    "group": "American Foxhound",
+    "size_category": "Guide",
+    "tags": ["american-foxhound", "grooming", "hound", "short-coat", "ear-care"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "American Foxhound grooming is straightforward — the short, hard coat needs minimal attention. Ear care is the one area that requires consistent weekly maintenance given the long drop ears.",
+    "meta_description": "American Foxhound grooming guide: short coat maintenance, weekly ear care to prevent infections, nail trimming, and bathing a large active hound."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/AmericanFoxhound2.jpg/250px-AmericanFoxhound2.jpg",
+      "alt": "American Foxhound grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The American Foxhound Coat",
+      "heading": "A Low-Maintenance Coat With One Exception",
+      "html": "<p>The American Foxhound has a short, dense, hard outer coat that lies close to the body. It sheds moderately year-round but never dramatically. This is among the most low-maintenance coats in large dog breeds — no brushing tangles, no matting, no seasonal blowout events.</p><p>The one grooming area that requires real attention is the ears. Long, drop ears create a warm, low-airflow environment that is prone to infection. Weekly ear checks and cleaning are a non-negotiable part of American Foxhound ownership.</p><h3>Grooming Tools You'll Need</h3><ul><li>Hound glove or rubber curry brush — primary tool for the short coat</li><li>Soft bristle brush for finishing</li><li>Dog ear cleaner and cotton balls</li><li>Dog-safe shampoo</li><li>Nail clippers or grinder</li></ul>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Run a hound glove or rubber curry brush over the entire body — this removes loose hairs and brings a healthy shine to the short coat. Takes 5 minutes</li><li>Check ears: lift each ear flap and look for redness, debris, odor, or dark discharge. Clean with a cotton ball dampened with ear cleaner. Do not insert anything into the ear canal</li><li>Wipe paws after outdoor runs — dogs that work through fields and brush pick up debris between the pads</li></ul><h3>Monthly</h3><ul><li>Bath every 4–8 weeks or when dirty. American Foxhounds are active outdoor dogs that can get genuinely dirty. Use a dog-safe shampoo and rinse thoroughly</li><li>Trim nails monthly. An active dog running on varied terrain may wear nails naturally, but check monthly. Nails that click on hard floors are too long</li><li>Check teeth — dental disease is a common health issue across all breeds. Brush weekly if the dog will tolerate it; dental chews help for dogs that resist brushing</li></ul><h3>After Field Exercise</h3><p>If your Foxhound runs through brush, tall grass, or fields, check the coat and especially the ears for burrs, foxtails, and debris afterward. Long ears drag through vegetation and pick up plant material that can work into the ear canal if not removed promptly.</p>"
+    },
+    "special": {
+      "label": "Ear Infections: Prevention and Recognition",
+      "heading": "Ear Care Is the Priority",
+      "html": "<p>Long drop ears are beautiful — and they're an infection risk. The anatomy reduces airflow into the ear canal, trapping moisture and creating ideal conditions for bacterial and yeast growth. American Foxhounds that work in wet conditions (crossing streams, hunting in rain) are at higher risk.</p><h3>Weekly Ear Cleaning Protocol</h3><ol><li>Lift the ear flap and inspect visually — healthy ear tissue is pale pink, clean, and odor-free</li><li>Apply a small amount of dog ear cleaner to a cotton ball</li><li>Wipe the visible inner surface of the ear flap and the opening of the ear canal — do not push into the canal</li><li>If there is significant debris, repeat with a fresh cotton ball until clean</li><li>Allow the ear to air dry — hold the flap up for a minute after cleaning to promote airflow</li></ol><h3>Signs of an Ear Infection</h3><ul><li>Odor from the ear (ranging from mildly yeasty to strongly foul)</li><li>Dark brown or black discharge</li><li>Redness or swelling inside the ear flap</li><li>Dog scratching at ears or rubbing its head on surfaces</li><li>Head tilting or shaking</li></ul><p>If you see any of these signs, see your vet. Ear infections don't resolve with cleaning alone — they need diagnosis (bacterial vs. yeast, and which bacteria) and appropriate medication. Treating the wrong type of infection prolongs the problem.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often do American Foxhounds need professional grooming?",
+      "a": "Rarely, if ever. The short coat doesn't require professional cutting, styling, or deshedding treatments. Most American Foxhound owners handle all grooming at home. The only reason to see a professional groomer is if you're uncomfortable with nail trimming — grinders are available at many grooming shops for owners who prefer it to clippers at home."
+    },
+    {
+      "q": "How do I know if my Foxhound has an ear infection?",
+      "a": "The clearest signs are odor (any smell beyond neutral indicates a problem), visible dark discharge, the dog scratching at its ears, shaking its head, or tilting its head. Weekly checks let you catch infections early, when they're easier to treat. If you smell anything from the ear during your weekly check, schedule a vet appointment rather than waiting."
+    },
+    {
+      "q": "My Foxhound's coat looks dull. What should I do?",
+      "a": "A dull coat on a short-haired hound usually indicates diet, skin health, or insufficient grooming frequency. Make sure you're feeding a quality food with adequate fat content. Weekly brushing with a hound glove distributes natural skin oils and produces a noticeable shine. If coat quality doesn't improve with brushing and diet review, have the vet check thyroid function — hypothyroidism can affect coat quality in hound breeds."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Bullmastiff First Year Costs",
+    "slug": "bullmastiff-first-year-costs",
+    "shopify_handle": "bullmastiff-first-year-costs",
+    "group": "Bullmastiff",
+    "size_category": "Guide",
+    "tags": ["bullmastiff", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-04-27T16:00:00Z",
+    "excerpt": "Owning a Bullmastiff means budgeting for large-breed food quantities, proactive health screenings, and the realistic possibility of significant veterinary costs. Here is a full financial breakdown for year one and beyond.",
+    "meta_description": "Bullmastiff first year costs: puppy price, food, vet care, insurance, and ongoing annual expenses for this large working breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bullmastiff_edited2.jpg/330px-Bullmastiff_edited2.jpg",
+      "alt": "Bullmastiff cost guide"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "What to Budget Before the First Month",
+      "html": "<p>The Bullmastiff is a significant financial commitment from day one. Reputable breeders who health-test parents charge accordingly, and setting up the home for a breed that will reach 100–130 pounds requires larger versions of everything.</p><ul><li><strong>Puppy from health-tested parents:</strong> $1,500–$3,000. Avoid breeders who cannot provide OFA hip/elbow certifications and cardiac screening documentation. Cheap puppies from unscreened parents may cost far more in veterinary bills.</li><li><strong>Initial vet visit, exam, and puppy vaccines:</strong> $200–$400</li><li><strong>Spay or neuter (large breed):</strong> $400–$700. Many breeders require waiting until 18–24 months for large breeds before altering.</li><li><strong>XXL wire crate:</strong> $100–$200</li><li><strong>Large stainless steel food and water bowls:</strong> $40–$80</li><li><strong>Collar, leash, ID tag:</strong> $50–$100</li><li><strong>High-quality large-breed puppy food (first months):</strong> $200–$350</li><li><strong>Puppy classes:</strong> $100–$200</li><li><strong>Drool cloths, enzymatic cleaner, grooming tools:</strong> $50–$100</li></ul><p><strong>Upfront total estimate:</strong> $2,640–$5,130</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Ongoing Monthly and Quarterly Expenses",
+      "html": "<p>Food is the primary ongoing cost for a breed this size, and veterinary expenses in the puppy year — multiple vaccine boosters, heartworm testing, parasite prevention — add up quickly.</p><ul><li><strong>Food (large-breed puppy kibble):</strong> $100–$150/month. Adults eat 6–8 cups daily. Annual food cost: $1,200–$1,800.</li><li><strong>Heartworm/flea/tick prevention:</strong> $150–$300/year</li><li><strong>Routine vet visits and puppy booster vaccines:</strong> $300–$500 in the first year</li><li><strong>Pet insurance:</strong> $60–$100/month for a large breed with the Bullmastiff's health profile. This is strongly recommended. Annual cost: $720–$1,200.</li><li><strong>Grooming supplies (curry brush, fold wipes, nail clippers):</strong> $50–$100 one-time</li><li><strong>Toys and chews:</strong> $100–$200/year. The Bullmastiff is not an intense chewer but durable options are wise.</li><li><strong>Boarding or pet-sitting (if applicable):</strong> $40–$70/day for a large breed</li></ul><p><strong>First-year recurring total (without insurance):</strong> $2,000–$3,100<br><strong>First-year recurring total (with insurance):</strong> $2,720–$4,300</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "Full Year One Picture and Annual Budget",
+      "html": "<p><strong>Total first-year estimate (with insurance):</strong> $5,360–$9,430</p><p>This range reflects meaningful variability in puppy prices, regional vet costs, and whether optional expenses like boarding are incurred.</p><p><strong>Annual ongoing costs after year one:</strong></p><ul><li>Food: $1,200–$1,800</li><li>Routine vet care (annual exam + preventives): $400–$700</li><li>Heartworm/parasite prevention: $150–$300</li><li>Pet insurance: $720–$1,440 (premiums increase with age)</li><li>Miscellaneous (grooming, supplies, treats): $200–$400</li></ul><p><strong>Estimated annual ongoing total:</strong> $2,670–$4,640</p><p><strong>Emergency cost considerations:</strong> The Bullmastiff's health profile creates real financial risk. Bloat surgery costs $3,000–$7,000. Hip replacement runs $5,000–$7,000 per hip. Cancer treatment can reach $5,000–$15,000 depending on type and intervention. Pet insurance that covers these events is not a luxury for this breed — it is prudent financial planning. Enroll while the dog is a healthy puppy to get the best rates and broadest coverage.</p><p><strong>Lifetime cost estimate:</strong> Given a lifespan of 7–9 years, total lifetime costs including the puppy typically run $20,000–$40,000, with significant variation based on health outcomes.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is pet insurance worth it for a Bullmastiff?",
+      "a": "Strongly yes. The Bullmastiff's susceptibility to bloat, hip dysplasia, and cancer makes catastrophic veterinary expenses a genuine probability, not just a possibility. Enrolling young, when the dog is healthy, gives you the best coverage at the lowest cost."
+    },
+    {
+      "q": "How much does a Bullmastiff eat per month?",
+      "a": "An adult Bullmastiff typically eats 6–8 cups of quality dry kibble per day, which translates to roughly one 30-pound bag of food every 10–12 days, or about $100–$150 per month depending on the brand."
+    },
+    {
+      "q": "Why are Bullmastiff puppies so expensive?",
+      "a": "Reputable breeders invest significantly in health testing (OFA certifications, cardiac screening), prenatal care, whelping, and early puppy care. These costs are reflected in the price. A puppy priced well below market typically comes from a breeder cutting corners on health testing."
+    }
+  ]
+}

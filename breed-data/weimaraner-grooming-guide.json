@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Weimaraner",
+    "shopify_handle": "weimaraner-grooming-guide",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-18T16:00:00Z",
+    "name": "Weimaraner Grooming Guide: Low-Maintenance Silver-Grey Coat Care",
+    "slug": "weimaraner-grooming-guide",
+    "excerpt": "How to care for a Weimaraner's short, sleek silver-grey coat — minimal professional grooming needed, but weekly rubber mitt and ear care are essential.",
+    "meta_description": "How to care for a Weimaraner's short, sleek silver-grey coat — minimal professional grooming needed, but weekly rubber mitt and ear care are essential.",
+    "tags": [
+      "Weimaraner",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weimaraner_Freika-2.jpg/330px-Weimaraner_Freika-2.jpg",
+      "alt": "Weimaraner dog"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "The Coat",
+      "heading": "The Weimaraner's Short Silver-Grey Coat",
+      "html": "<p>The Weimaraner has a short, smooth, dense coat in distinctive silver-grey shades ranging from mouse-grey to silver. Like the Vizsla, this is a single-layer coat with no undercoat — there is no seasonal blow-out, no professional trimming required, and no complex brushing routine. It is one of the most practical coats for owners who want a large, athletic sporting dog without significant grooming demands.</p><p>Weimaraners do shed, producing short grey hairs that can be noticeable against dark clothing and upholstery. A weekly rubber mitt session removes most loose fur before it spreads. Overall maintenance time is low — perhaps 15–20 minutes per week including ear care and nail checks.</p><h3>Basic Grooming Schedule</h3><ul><li><strong>Coat brushing/mitt:</strong> Once per week with a rubber grooming mitt or natural bristle brush</li><li><strong>Bathing:</strong> Every 4–6 weeks, or after muddy field sessions</li><li><strong>Nail trimming:</strong> Every 3–4 weeks</li><li><strong>Ear cleaning:</strong> Weekly — pendulous ears trap moisture</li><li><strong>Teeth brushing:</strong> Ideally daily; minimum 3 times per week</li></ul>"
+    },
+    "care": {
+      "label": "Weekly Care",
+      "heading": "The Weimaraner Grooming Routine",
+      "html": "<h3>Rubber Mitt or Bristle Brush</h3><p>The rubber grooming mitt is the ideal weekly tool. Work over the entire body in the direction of coat growth — it removes loose fur, stimulates the skin, and gives the coat its natural sheen. Most Weimaraners enjoy the physical contact and will lean into the process. A natural bristle brush is an equally good alternative. Avoid stiff slicker brushes, which are unnecessary on this coat type and can irritate the skin.</p><h3>Bathing</h3><p>The short coat does not trap dirt deeply. A bath every 4–6 weeks, or as needed, keeps the coat clean and the dog smelling fresh. Use a mild dog shampoo. Drying is fast — a towel-dry is sufficient for most dogs. The grey coat shows dirt less than white or light-coloured coats, so bathing frequency depends more on activity than appearance.</p><h3>Ear Cleaning</h3><p>Weimaraners have long, floppy ears that restrict airflow and create a warm environment prone to bacterial and yeast infections. Clean the ears weekly using a vet-approved ear cleaning solution. Apply to the ear canal entrance, massage the base, let the dog shake, and wipe clean. After swimming or bathing, dry the ear flaps and wipe inside the entrance. Watch for head shaking, scratching at ears, odor, or discharge — these are signs of infection requiring veterinary attention.</p>"
+    },
+    "special": {
+      "label": "Coat and Skin Details",
+      "heading": "Cold Weather and Skin Considerations",
+      "html": "<h3>Cold Weather Sensitivity</h3><p>The Weimaraner's single-layer coat provides minimal insulation in cold weather. In climates with cold winters, a fitted dog coat for outdoor exercise in below-freezing temperatures is practical, not optional. Extended outdoor exposure in very cold weather — hunting in winter conditions, for example — warrants appropriate protection. This is simply physics: the coat is thin, and large surface area dogs lose heat efficiently.</p><h3>Shedding on Clothing and Furniture</h3><p>Short grey hairs from a Weimaraner can be particularly visible against dark clothing. A rubber lint roller deals with this quickly. The trade-off is worthwhile — no professional grooming, no matting, no coat blow-outs, and minimal weekly time commitment. For most owners, occasional lint rolling is a fair exchange.</p><h3>Professional Grooming: Occasional, Not Required</h3><p>Some Weimaraner owners visit a professional groomer once or twice a year for a bath, nail trim, and ear cleaning as a convenience — particularly for the nail trimming if the dog dislikes it at home. But there is no professional trimming requirement for this coat. The full home grooming routine costs almost nothing beyond a rubber mitt, ear cleaning solution, and nail clippers.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Do Weimaraners need professional grooming?",
+      "a": "No. The Weimaraner's short, smooth coat requires no professional trimming. At-home care — a weekly rubber mitt, monthly nail trim, and weekly ear cleaning — is the entire routine. Some owners visit a groomer occasionally for a convenience bath or nail trim, but it is not a necessity."
+    },
+    {
+      "q": "Do Weimaraners shed a lot?",
+      "a": "They shed moderately year-round. The short grey hairs can be noticeable against dark-coloured furniture and clothing. A weekly rubber mitt session removes most loose fur before it spreads. There is no seasonal undercoat blow-out with this breed, so shedding is consistent and manageable rather than dramatic and seasonal."
+    },
+    {
+      "q": "Why does a Weimaraner need a dog coat in cold weather?",
+      "a": "The Weimaraner has a single-layer short coat with no undercoat for insulation. In below-freezing temperatures, especially during extended outdoor activity, this coat provides very little thermal protection. A fitted dog coat for cold-weather outings is practical — it keeps the dog comfortable and reduces the risk of hypothermia during cold hunting sessions or long winter walks."
+    }
+  ]
+}

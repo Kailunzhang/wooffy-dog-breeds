@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "name": "Doberman Pinscher",
+    "slug": "doberman-pinscher",
+    "shopify_handle": "doberman-pinscher",
+    "group": "Working Group",
+    "size_category": "Large Breed",
+    "tagline": "The Doberman is one of the most loyal, trainable, and capable breeds ever developed. They're also at significant genetic risk for dilated cardiomyopathy — and every Doberman owner should understand what that means.",
+    "tags": ["working-group", "large-breed", "protection", "loyal", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-15T16:00:00Z",
+    "excerpt": "Dobermans are exceptional dogs for experienced, active owners. Loyalty, trainability, and athleticism in one package. The health reality: DCM affects a large percentage of Dobermans, making cardiac screening and pet insurance non-optional.",
+    "meta_description": "Doberman Pinscher breed guide: DCM cardiac health, temperament, training, cost breakdown, and whether a Doberman fits your household and experience level."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "60–100 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–13 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Very Easy" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dobermann_handling.jpg/330px-Dobermann_handling.jpg",
+      "alt": "Doberman Pinscher"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Doberman Pinscher?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Doberman Pinscher was developed in Germany in the 1890s by Louis Dobermann, a tax collector who wanted a loyal, alert, and physically capable dog for personal protection. The result was one of the most purpose-designed breeds in existence — combining intelligence, athleticism, trainability, and protective instinct in a sleek, powerful package. Dobermans consistently rank in the top tier of working dog intelligence.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The relationship between a Doberman and their owner is distinctive. They bond deeply, want to be physically close to their people, and take that relationship seriously. They are not casual dogs — they're dogs that form genuine partnerships and expect engagement in return.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The most important thing to know before getting a Doberman is dilated cardiomyopathy (DCM). A large percentage of Dobermans develop this serious heart condition, often without early symptoms. Annual cardiac screening starting at age 2–3 is the standard of care, and pet insurance enrolled before the first vet visit is the financial tool that makes this manageable.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Dobermans Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Muscular, athletic, and elegant — Dobermans weigh 60–100 lbs and stand 24–28 inches. The classic look is the black and rust coloration with rust markings above the eyes, on the muzzle, chest, legs, and feet. Other accepted colors include red and rust, blue and rust, and fawn (Isabella) and rust — though blue and fawn colorations carry higher risk for color dilution alopecia (hair loss and skin issues).</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The naturally floppy ears and long tail are often cropped/docked in the US for the traditional look, though this practice is cosmetic and increasingly debated. In Europe, where ear cropping and tail docking are banned in most countries, Dobermans look noticeably different — natural ears and full tails. Both versions are the same dog.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Alert, loyal, and deeply bonded to their family — Dobermans are \"Velcro dogs\" that want to be near their people. They're not typically aggressive without cause, but they are naturally protective and read their environment carefully. A well-socialized Doberman is confident and approachable; an under-socialized one can be reactive and difficult.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With children: Dobermans can be excellent with family children they've been raised with. Their size and energy require supervision with young children not because of aggression risk but because an enthusiastic Doberman can knock a toddler over. They tend to be protective of family children and attentive to their needs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The sensitivity is real: Dobermans pick up on their owner's emotional state readily. Confident, calm handling produces confident, calm dogs. Anxious or inconsistent handling amplifies reactivity. The owner's manner matters more with Dobermans than with many breeds.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Doberman",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Dobermans are exceptional dogs in the hands of someone prepared for them. The trainability is real — they learn faster than almost any breed and genuinely want to work with you. The loyalty is real — they bond in a way that makes the relationship feel different from dogs that are friendly to everyone equally. For active people who want a capable, deeply engaged companion, it's hard to find something better.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">I want to be direct about DCM. Dilated cardiomyopathy is not a rare edge case in this breed — estimates suggest 25–50% of Dobermans will develop it, and some breed-specific studies put the number higher in European lines. It's a progressive heart disease that can develop silently before producing symptoms. Many Dobermans die of sudden cardiac death. Annual Holter monitoring (24-hour heart rhythm recording) and echocardiograms starting at age 2 or 3 are the responsible standard of care for the breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Dobermans are not recommended for first-time dog owners — not because they're dangerous, but because they benefit from a confident, experienced handler who can provide clear structure and ongoing training. A Doberman with no structure and no outlet becomes anxious and difficult.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of vigorous exercise daily. Running, hiking, protection sports, agility, or off-leash activity in a secure area. Dobermans that don't get sufficient exercise become anxious, destructive, and reactive. Mental exercise — training sessions, nose work, puzzle feeders — adds to the daily total and is important for this breed's intelligence level.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Minimal — one of the lowest-grooming large breeds. Weekly wipe-down with a damp cloth or rubber grooming mitt, bath every 6–8 weeks, nails every 3–4 weeks. The short coat sheds year-round but not heavily. See the <a href=\"/blogs/dog-breeds/doberman-pinscher-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Doberman grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Exceptionally trainable — Dobermans rank #5 in working intelligence (Stanley Coren's research) and respond readily to positive reinforcement. Formal obedience training, protection sports, or dog sports are strongly recommended to provide structure and outlets. Dobermans that have \"jobs\" — even just regular training sessions — are significantly better-behaved dogs than those without structure.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">DCM is the dominant health concern for Dobermans and requires proactive management from an early age.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Dilated Cardiomyopathy (DCM)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The heart muscle weakens and enlarges, reducing pumping efficiency. Estimated 25–50%+ of Dobermans develop DCM. Can progress silently before symptoms appear. Holter monitoring (24-hour ECG) and echocardiogram annually after age 2–3 are the responsible standard of care. Treatment options exist but DCM is progressive. This is the most important health consideration for the breed.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Wobbler Syndrome (CVI)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Cervical vertebral instability causing compression of the spinal cord in the neck. Produces wobbling gait, weakness, and neck pain. Medical or surgical management. Great Danes and Dobermans are the breeds most commonly affected.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Von Willebrand's Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited bleeding disorder affecting blood clotting. DNA test available; reputable breeders screen for it. Important to know before any surgery.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Underactive thyroid — manageable with lifelong medication ($30–$60/month). OFA thyroid clearance available.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA cardiac, hip, thyroid, and eye clearances; von Willebrand's DNA test. Plan for annual Holter monitoring and echocardiogram starting at age 2–3.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Health-tested Dobermans from reputable breeders cost more upfront — but the alternative (no health testing) means higher lifetime veterinary costs. Annual cardiac monitoring adds a recurring cost unique to this breed.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,100</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,100</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$720–$1,440</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$720–$1,440</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Cardiac screening (Holter + echo)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$200–$500/yr from age 2–3</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (large crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$4,000–$7,500+</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,100–$3,900</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/doberman-pinscher-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Doberman Pinscher first-year cost breakdown</a> including DCM cardiac monitoring costs.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Doberman Pinscher Right for You?",
+      "good_fit": [
+        "Experienced dog owners who can provide confident, consistent leadership",
+        "Active households committed to 60–90 min of daily vigorous exercise",
+        "Interested in dog sports, protection sports, or formal obedience training",
+        "Prepared for annual cardiac screening (Holter/echo) from age 2–3",
+        "Want a deeply loyal, intelligent companion that actively engages with you"
+      ],
+      "not_fit": [
+        "First-time dog owners without prior large working-breed experience",
+        "Households where the dog would be alone 8+ hours daily without a plan",
+        "Sedentary households or those without access to real exercise outlets",
+        "Unwilling to budget for pet insurance and annual cardiac monitoring",
+        "Want an independent, low-engagement breed"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Doberman",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$2,500 from reputable breeders who perform comprehensive health testing. Required clearances: OFA cardiac (echocardiogram), OFA hip, OFA thyroid, CAER eye exam, von Willebrand's DNA test. The Doberman Pinscher Club of America maintains a breeder referral list and publishes the Recommended Health Testing Protocol.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Doberman rescue exists nationally. Many are surrendered from households that underestimated exercise and training needs. Experienced Doberman owners make the best adopters — the dogs often settle quickly with confident, consistent handling. Get full health disclosure on any rescue with known cardiac history.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before pickup, complete the <a href=\"/blogs/dog-breeds/doberman-pinscher-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Doberman puppy checklist</a> — insurance enrollment, training class reservation, and exercise plan are the critical pre-arrival items.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "Are Dobermans dangerous?", "a": "Not inherently — temperament is significantly shaped by socialization, training, and handling. Well-socialized, properly trained Dobermans are confident, calm, and discriminating about when protective behavior is appropriate. Poorly socialized or mistreated Dobermans can be reactive. The breed is powerful enough that training and socialization aren't optional." },
+    { "q": "What is DCM and why does it matter for Dobermans?", "a": "Dilated cardiomyopathy is a heart disease where the muscle weakens and the heart enlarges. It affects an estimated 25–50%+ of Dobermans, often developing silently before symptoms appear. Annual cardiac screening (24-hour Holter monitor + echocardiogram) starting at age 2–3 is the responsible standard of care. Early detection improves outcomes significantly." },
+    { "q": "Do Dobermans make good family dogs?", "a": "Yes, for the right family — one with experience managing large, active dogs, time for daily exercise, and willingness to invest in training. Dobermans bonded to their family are typically affectionate, protective, and good with household children. They're not recommended for first-time owners." },
+    { "q": "Are American and European Dobermans different?", "a": "Yes, meaningfully. European (working) Dobermans tend to be heavier-boned, higher-drive, and more protective-instinct-oriented. American Dobermans are leaner, more elegant in appearance, and often somewhat softer in temperament. Both are excellent dogs; the choice depends on what you're looking for. European lines have historically been associated with higher DCM prevalence in some research." }
+  ],
+
+  "related_breeds": [
+    {"name": "German Shepherd Dog", "slug": "german-shepherd-dog", "note": "Similar intelligence and loyalty, longer coat, different health profile"},
+    {"name": "Rottweiler", "slug": "rottweiler", "note": "More protective and heavy-boned, lower energy, shorter lifespan"},
+    {"name": "Belgian Malinois", "slug": "belgian-malinois", "note": "Even higher drive and intensity, not for inexperienced owners"},
+    {"name": "Vizsla", "slug": "vizsla", "note": "Similar velcro-dog bonding, sporting not protection background, lower intensity"}
+  ]
+}

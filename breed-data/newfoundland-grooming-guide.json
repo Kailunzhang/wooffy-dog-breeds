@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Newfoundland Grooming Guide",
+    "slug": "newfoundland-grooming-guide",
+    "shopify_handle": "newfoundland-grooming-guide",
+    "group": "Newfoundland",
+    "size_category": "Guide",
+    "tags": ["newfoundland", "grooming", "double-coat", "shedding", "drool-management"],
+    "published": true,
+    "published_at": "2026-04-17T16:00:00Z",
+    "excerpt": "The Newfoundland's heavy double coat requires consistent brushing, professional deshedding twice yearly, and careful attention to drying after water activities. The drool situation requires its own management strategy.",
+    "meta_description": "Newfoundland grooming guide: double coat brushing routine, deshedding sessions, drying after swimming, drool management strategies, and ear care for a giant water breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Newfoundland_dog_Smoky.jpg/330px-Newfoundland_dog_Smoky.jpg",
+      "alt": "Newfoundland grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Newf Coat",
+      "heading": "Understanding the Newfoundland Double Coat",
+      "html": "<p>The Newfoundland's coat evolved for water work — dense, water-resistant, and insulating. The outer coat is coarse and relatively long; the undercoat is dense and oily, providing water resistance and insulation in cold water. This coat is effective for its original purpose and beautiful in a well-maintained dog. It also sheds heavily and requires significant maintenance to stay healthy.</p><h3>Grooming Tools You'll Need</h3><ul><li>Pin brush — primary tool for the longer outer coat</li><li>Undercoat rake — essential for removing loose undercoat</li><li>Wide-tooth metal comb — for mat detection and finishing</li><li>Slicker brush — for working through tangles</li><li>Deshedding tool — during coat blow seasons</li><li>Dog-safe shampoo formulated for heavy-coated breeds</li><li>High-velocity dryer — not optional for a Newf; air drying takes many hours and risks hot spots</li><li>Microfiber towels — multiple, used after bathing and swimming</li></ul><h3>Never Shave a Newfoundland</h3><p>Do not shave the Newfoundland's double coat. The coat is a functional thermoregulation and protection system. Shaving removes the UV and weather protection, disrupts thermoregulation, and can cause permanent coat damage including post-clipping alopecia. If your Newf seems overheated, provide shade, water, cooling mats, and air conditioning — not a shave.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush through the entire coat with the undercoat rake, working section by section</li><li>Follow with a pin brush to smooth and detangle the outer coat</li><li>Check mat-prone areas: behind ears, collar area, armpits, and between the rear legs where friction causes matting</li><li>Wipe and check the ear canals — Newfoundlands are prone to ear infections, and water activities increase the risk. Look for odor, redness, or debris</li><li>Wipe facial skin folds and around the jowl area — moisture accumulates in these folds and can cause skin irritation</li></ul><h3>Monthly</h3><ul><li>Bathe every 4–6 weeks or when noticeably dirty. The coat is quite effective at releasing dried mud and debris, but bathing maintains coat health and reduces odor</li><li>Use a shampoo formulated for heavy double coats; avoid stripping shampoos</li><li>Dry completely and thoroughly — the dense undercoat holds moisture for hours. High-velocity drying while brushing removes loose coat and eliminates moisture. Incomplete drying leads to hot spots</li><li>Trim nails — giant breed nails grow quickly and affect gait when overgrown</li></ul><h3>Professional Deshedding (Twice Per Year)</h3><p>A professional deshedding bath and blow-out twice yearly — typically spring and fall — dramatically reduces the volume of loose coat in the home. Many Newf owners find this the most effective management strategy for the heavy coat blows. Find a groomer experienced with giant, heavy-coated breeds; the session takes considerably longer than a standard dog grooming appointment.</p>"
+    },
+    "special": {
+      "label": "Water and Drool",
+      "heading": "Drying After Water Activities and Drool Management",
+      "html": "<h3>After Swimming</h3><p>The Newfoundland's water-resistant coat holds moisture close to the skin even as the outer coat sheds water. After swimming, towel dry thoroughly and blow-dry the undercoat to prevent hot spots and skin irritation. Pay particular attention to the neck, armpits, and belly area where moisture concentrates. A dog that swims regularly and is never properly dried will develop chronic skin issues.</p><h3>Ear Care After Water</h3><p>Water in the ear canal creates a warm, moist environment ideal for bacterial and yeast growth. After any water activity, gently dry the outer ear with a cotton ball and use an ear-drying solution (available from vets) to help remove moisture from the canal. Regular ear checks are important for any dog that swims — weekly examination and monthly professional cleaning if the dog is a frequent swimmer.</p><h3>Drool Management</h3><p>Drool is not a grooming issue per se, but it is a management reality for Newfoundland owners. Practical approach:</p><ul><li>Keep microfiber cloths in every room — folded and accessible on counters, nightstands, and near furniture</li><li>Wipe the face after every drink and meal — this is when drool output peaks</li><li>Drool bibs (available for large breeds) reduce furniture and floor drool during around-the-house time</li><li>Wipe facial skin folds and jowl areas during grooming to prevent yeast or bacterial growth in the moist folds</li><li>Accept that some amount of drool on clothing and furniture is simply part of Newfoundland ownership</li></ul>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often should I bathe a Newfoundland?",
+      "a": "Every 4–6 weeks is appropriate for most Newfoundlands, or when visibly dirty. The coat has natural oils that provide water resistance — over-bathing strips these oils and can dry out the coat. Dogs that swim frequently may need more frequent post-swim rinses (fresh water to remove chlorine or salt) without full shampooing. Always dry the coat completely after any bathing or swimming."
+    },
+    {
+      "q": "My Newfoundland's ears smell — what do I do?",
+      "a": "Ear odor in a Newfoundland almost always indicates an ear infection or yeast overgrowth — especially in a dog that swims regularly. See your vet for diagnosis and treatment before cleaning; cleaning an infected ear incorrectly can push material deeper. Once treated, establish a regular ear-drying routine after all water activities and weekly ear checks as part of the grooming routine."
+    },
+    {
+      "q": "How do I manage the shedding?",
+      "a": "Consistent weekly brushing year-round, with daily attention during the twice-yearly coat blows, is the foundation. Professional deshedding sessions twice yearly remove a significant volume of undercoat at once and reduce the ongoing shed. A high-velocity blow-out during baths also removes enormous amounts of loose undercoat. Accept that some level of dog hair in the home is part of Newfoundland ownership — no grooming routine eliminates it entirely."
+    }
+  ]
+}

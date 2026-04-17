@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Australian Terrier Grooming Guide",
+    "slug": "australian-terrier-grooming-guide",
+    "shopify_handle": "australian-terrier-grooming-guide",
+    "group": "Australian Terrier",
+    "size_category": "Guide",
+    "tags": ["australian-terrier", "grooming"],
+    "published": true,
+    "published_at": "2026-04-28T16:00:00Z",
+    "excerpt": "The Australian Terrier's harsh double coat needs regular brushing and periodic hand-stripping or trimming to maintain its characteristic texture. Learn the right grooming approach for this distinctive small breed.",
+    "meta_description": "Australian Terrier grooming guide: coat care, hand-stripping technique, topknot maintenance, bathing, and nail care for this low-shedding working terrier."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Australian_Terrier.jpg/330px-Australian_Terrier.jpg",
+      "alt": "Australian Terrier"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "The Australian Terrier's Distinctive Double Coat",
+      "html": "<p>The Australian Terrier has a medium-length double coat: a harsh, straight outer coat approximately 2–2.5 inches long on the body, with a shorter, softer undercoat. The coat is designed to provide weather resistance and protection in the Australian bush, and it performs its function well without requiring extensive maintenance.</p><p>A distinctive feature of the breed is the soft, silky topknot on the skull and a ruff of similar soft hair around the neck and forechest — these areas contrast with the harsher body coat and require slightly different handling during grooming. The coat is low-shedding, which is a practical advantage for indoor living.</p><p>Colors are blue and tan, or sandy/red. Blue and tan dogs should have clearly defined rich tan markings; sandy/red dogs should have an even color throughout. Coat color can be maintained and enhanced through appropriate grooming techniques.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Step-by-Step Grooming for Your Australian Terrier",
+      "html": "<p><strong>Tools Needed:</strong> A firm slicker brush, a medium-tooth comb, a stripping knife or thumb and forefinger for hand-stripping, thinning shears, nail clippers, ear cleaner, and dog-safe toothbrush and toothpaste.</p><p><strong>Brushing (twice weekly):</strong> Use the slicker brush to work through the body coat section by section, then follow with the comb to check for tangles. Pay special attention to the neck ruff and leg furnishings where tangles tend to form. Brush the topknot gently with the comb — it should not be brushed aggressively as it can break the softer hairs.</p><p><strong>Hand-Stripping (every 3–4 months):</strong> Hand-stripping removes dead outer coat and encourages fresh, harsh growth. The body coat, leg furnishings, and edges of the face are stripped. The topknot and neck ruff are NOT stripped — these softer areas are trimmed or scissored lightly if needed to keep them tidy. For show dogs, proper hand-stripping is essential. For pets, clipping is acceptable but changes coat texture over time.</p><p><strong>Topknot Care:</strong> The topknot should be combed free of tangles and can be tied back with a small bow for show presentation. Keep it clean and mat-free with regular gentle combing. In everyday pet life, keeping the topknot trimmed to a manageable length reduces maintenance.</p><p><strong>Bathing:</strong> Every 4–6 weeks for indoor dogs. Use a quality terrier shampoo and ensure thorough rinsing. The medium-length coat dries in a reasonable time — towel dry first, then brush out gently while the coat air-dries.</p><p><strong>Ears:</strong> Check and clean weekly. Pluck excess hair from the ear canal if it's impeding air circulation — your vet or groomer can show you how to do this safely.</p><p><strong>Nails:</strong> Trim every 3–4 weeks.</p><p><strong>Teeth:</strong> Brush several times weekly. Small breeds are prone to dental disease.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Australian Terrier Grooming Tips",
+      "html": "<p><strong>Maintaining Color:</strong> Blue and tan Australian Terriers have distinctive coloring that can be affected by repeated clipping. Hand-stripping preserves the deep blue of the outer coat and maintains clear tan markings. Clipped coats may become softer and the color may become more diffuse over time.</p><p><strong>The Topknot:</strong> This distinctive feature requires slightly different handling than the body coat. Comb gently, avoid harsh brushing, and keep it clean. In humid climates, topknots can accumulate moisture and develop hot spots if not kept clean and dry.</p><p><strong>Finding a Terrier Groomer:</strong> Not all groomers are familiar with Australian Terrier grooming specifics, particularly the topknot and neck ruff treatment and the hand-stripping technique. Ask for groomers with terrier breed experience or those recommended by breed club members.</p><p><strong>Post-Adventure Clean-Up:</strong> Australian Terriers love to dig and explore. The medium-length coat can collect debris. A post-outdoor check with a comb to remove any burrs or debris prevents tangles from forming.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often does an Australian Terrier need professional grooming?",
+      "a": "Every 3–4 months for hand-stripping (or 6–8 weeks if clipping), plus regular home brushing twice weekly. The topknot and neck ruff may need tidying between full grooming appointments."
+    },
+    {
+      "q": "What is the purpose of the Australian Terrier's topknot?",
+      "a": "The topknot is a distinguishing breed feature — a characteristic tuft of softer, silky hair on the skull that contrasts with the harsher body coat. It's part of the breed standard and should be maintained with gentle combing rather than the hand-stripping used on the body coat."
+    },
+    {
+      "q": "Do Australian Terriers shed a lot?",
+      "a": "No, they are low-shedding. The double coat sheds minimally with regular brushing, making them a practical choice for those who prefer to minimize dog hair in the home."
+    }
+  ]
+}

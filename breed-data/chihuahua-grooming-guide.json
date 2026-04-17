@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "name": "Chihuahua Grooming Guide",
+    "slug": "chihuahua-grooming-guide",
+    "shopify_handle": "chihuahua-grooming-guide",
+    "group": "Chihuahua",
+    "size_category": "Guide",
+    "tags": ["chihuahua", "grooming", "toy-group", "small-dog-grooming", "dental-care"],
+    "published": true,
+    "published_at": "2026-04-15T16:00:00Z",
+    "excerpt": "Chihuahua grooming is simple for most dogs — but dental care is the one area that demands real consistency. Small breeds have notoriously bad teeth, and Chihuahuas are among the worst.",
+    "meta_description": "Chihuahua grooming guide: smooth vs. long coat routines, dental care (the most important task), nail trimming, and cold weather coat tips."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chihuahua1_bvdb.jpg/330px-Chihuahua1_bvdb.jpg",
+      "alt": "Chihuahua grooming"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "Chihuahua Grooming: Easy Coat, Critical Dental Care",
+      "html": "<p>Chihuahuas are low-maintenance in grooming terms — neither coat type requires professional styling, and baths are quick. What they do require is consistent dental care, which is the single most important grooming task for this breed.</p><p>Chihuahuas have small mouths with crowded teeth that accumulate tartar rapidly. Without regular brushing, dental disease develops early, causes chronic pain, and can lead to premature tooth loss and systemic infection. This isn't a cosmetic issue — dental disease in small dogs shortens lifespans.</p><p>The other grooming difference is coat type: smooth-coat Chihuahuas take 5 minutes per week, while long-coat Chihuahuas take 15–20 minutes and need more frequent attention.</p>"
+    },
+    "care": {
+      "label": "Tools & Routine",
+      "heading": "Coat Care by Type",
+      "html": "<h3>Smooth Coat Routine</h3><p>The smooth-coat Chihuahua is almost self-maintaining. Weekly care:</p><ul><li>Wipe down with a damp cloth or grooming mitt to remove loose hair and dust</li><li>Bathe every 4–6 weeks or when dirty</li><li>Check ears, eyes, and nail length</li></ul><h3>Long Coat Routine</h3><p>The long-coat Chihuahua has fine, flowing hair that tangles behind the ears, on the chest, and behind the legs. Weekly care:</p><ul><li>Brush 2–3 times per week with a soft slicker brush or pin brush</li><li>Follow with a fine-tooth comb to check for mats, especially behind the ears</li><li>Bathe every 3–4 weeks — fine coats show grease faster than short coats</li><li>Use a light detangling spray before brushing if the coat is dry or knotted</li></ul><h3>All Chihuahuas: The Non-Negotiables</h3><p><strong>Dental care (3–4 times per week):</strong> Use a finger brush or small dog toothbrush with dog-specific toothpaste. This is not optional — it's the most important health habit you can build for a Chihuahua. Annual professional dental cleanings are also recommended from middle age onward.</p><p><strong>Nail trimming:</strong> Every 3–4 weeks. Small dogs tend to be resistant to nail trims — desensitize with treats from puppyhood. Overgrown nails change gait and cause joint problems over a lifetime.</p><p><strong>Eye cleaning:</strong> Chihuahuas have large, prominent eyes that can accumulate discharge in the corners. Wipe daily with a soft damp cloth. Excessive discharge or redness warrants a vet visit.</p>"
+    },
+    "special": {
+      "label": "Cold Weather & Bathing Tips",
+      "heading": "Cold Sensitivity and Bath Safety",
+      "html": "<p>Chihuahuas are notoriously cold-sensitive. At 2–6 lbs with minimal body fat, they chill quickly in cool temperatures — and being cold during or after bathing is uncomfortable and potentially risky for puppies and senior dogs.</p><h3>Bathing Safety</h3><ul><li>Use warm (not hot) water</li><li>Dry thoroughly with a towel immediately after bathing — don't let them air dry in a cool room</li><li>A small pet hair dryer on low heat works well; hold it at a safe distance</li><li>Wrap in a warm towel and hold the dog close after bathing if they seem cold or shivery</li></ul><h3>Cold Weather Care</h3><ul><li>Dog coats or sweaters are practical, not just fashionable — Chihuahuas genuinely benefit from them below 50°F (10°C)</li><li>Don't leave a Chihuahua outside unsupervised in cold weather</li><li>Paw care matters in winter: rinse paws after walks on salted sidewalks, or use dog booties</li></ul><h3>Tracheal Collapse Awareness</h3><p>Chihuahuas are prone to tracheal collapse — always use a harness, never a neck collar. This applies to everyday walks and during grooming — if you need to restrain the dog during a nail trim, avoid pressure on the throat.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Do Chihuahuas need professional grooming?",
+      "a": "Smooth-coat Chihuahuas almost never do. Long-coat Chihuahuas occasionally benefit from a professional tidy-up of the feathering — a few times per year at most. Neither type requires regular professional appointments if you maintain home care."
+    },
+    {
+      "q": "How often should I brush my long-coat Chihuahua?",
+      "a": "2–3 times per week, focusing on the areas behind the ears, under the legs, and on the chest where mats form first. Daily brushing is fine and makes each session faster."
+    },
+    {
+      "q": "Is dental disease really that serious in Chihuahuas?",
+      "a": "Yes. Small breeds, especially Chihuahuas, develop severe tartar and periodontal disease earlier than large breeds. Dental disease causes chronic pain, tooth loss, and can spread bacteria to the heart and kidneys. Brushing 3–4 times per week from puppyhood is the best prevention. Annual vet dental checks help catch buildup early."
+    },
+    {
+      "q": "My Chihuahua refuses to let me trim their nails. What should I do?",
+      "a": "Desensitize gradually — touch and hold the feet during play, then introduce the clippers without cutting, then trim one nail at a time with breaks and treats. Many Chihuahua owners find a groomer or vet technician faster for nail trims if the dog is resistant."
+    }
+  ]
+}

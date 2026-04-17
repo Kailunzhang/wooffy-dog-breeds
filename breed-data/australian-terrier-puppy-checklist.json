@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Australian Terrier Puppy Checklist",
+    "slug": "australian-terrier-puppy-checklist",
+    "shopify_handle": "australian-terrier-puppy-checklist",
+    "group": "Australian Terrier",
+    "size_category": "Guide",
+    "tags": ["australian-terrier", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-04-28T16:00:00Z",
+    "excerpt": "Getting ready for an Australian Terrier puppy? Use this checklist to prepare your home, stock essential supplies, and get started with socialization and training for this adaptable working terrier.",
+    "meta_description": "Australian Terrier puppy checklist: home prep, supplies, first-week routine, and training tips for new owners of this spirited and distinctive small working terrier."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Australian_Terrier.jpg/330px-Australian_Terrier.jpg",
+      "alt": "Australian Terrier"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Preparing Your Home for an Australian Terrier Puppy",
+      "html": "<p>Australian Terrier puppies are curious, active, and surprisingly bold for their small size. Good preparation ensures a smooth start for both of you.</p><ul><li><strong>Secure the fence.</strong> Minimum 5-foot fence with no gaps at ground level. Australian Terriers are diggers — check the base of the fence line and consider burying mesh if needed.</li><li><strong>Puppy-proof at floor level.</strong> Remove electrical cords, toxic plants, small objects, and anything at puppy height that might be chewed or swallowed.</li><li><strong>Gather supplies:</strong><ul><li>24–30 inch crate with divider</li><li>Comfortable washable bed</li><li>Adjustable small collar and ID tag</li><li>4–6 foot leash</li><li>Small harness</li><li>Stainless steel bowls (small size)</li><li>Firm slicker brush and medium-tooth comb</li><li>Small nail clippers</li><li>Enzymatic accident cleaner</li><li>Durable toys appropriate for small breeds</li><li>Puzzle feeder or Kong</li><li>High-value soft training treats</li></ul></li><li><strong>Research terrier-experienced groomers.</strong> Finding a groomer who knows Australian Terrier coat specifics — including the topknot care — before you need one saves scrambling later.</li><li><strong>Book vet appointment.</strong> Schedule within the first week, bringing all health records from the breeder.</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "Your Australian Terrier Puppy's First Week",
+      "html": "<p>The first week establishes the patterns and trust that will define your relationship with your Australian Terrier.</p><ul><li><strong>Allow quiet exploration on arrival day.</strong> Let the puppy investigate its new home at its own pace. Limit visitors and loud events for the first 24 hours.</li><li><strong>Start crate training immediately.</strong> Feed all meals in the crate, drop treats in throughout the day, and build positive associations through gradual practice with door closed.</li><li><strong>Establish a toilet schedule.</strong> Outside every 1–2 hours, after every meal, nap, and play session. Supervise constantly indoors. Reward outdoor toileting with treats and praise immediately.</li><li><strong>Begin name recognition training.</strong> Short, frequent sessions with treat rewards for eye contact when name is called.</li><li><strong>Daily handling exercises.</strong> Touch paws, ears, mouth, and topknot area daily with treats. Builds tolerance for grooming — especially important given the breed's distinctive topknot that requires regular combing.</li><li><strong>Introduce the brush gently.</strong> Let the puppy sniff the slicker brush, do brief treat-paired brushing sessions from day one. The Australian Terrier's coat will need regular brushing throughout its life.</li></ul>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Training Your Australian Terrier Puppy",
+      "html": "<p>The Australian Terrier is slightly more biddable than some terrier breeds, but is still fundamentally a terrier with all that entails: intelligence, independence, and a willingness to test rules. Here's how to approach training effectively.</p><ul><li><strong>Maximize the socialization window.</strong> Expose the puppy to as many people, animals, environments, and sounds as possible before 16 weeks. Australian Terriers socialized well in this window tend to be confident and adaptable adults.</li><li><strong>Use positive reinforcement exclusively.</strong> The breed responds well to reward-based methods. Use the highest-value treats for new behaviors and challenging situations.</li><li><strong>Teach key foundation behaviors:</strong> Sit, down, stay, come, leave it, and watch me. These four behaviors will serve you well for the dog's entire life and are especially important given the breed's prey drive.</li><li><strong>Address digging appropriately.</strong> Provide an acceptable digging outlet (sandbox with buried toys) and block access to areas you want to protect. Redirecting is more effective than punishment for this instinctive behavior.</li><li><strong>Enroll in group puppy class.</strong> Group classes provide socialization and structured training instruction. The Australian Terrier benefits significantly from early group class experience.</li><li><strong>Be consistent with house rules from day one.</strong> Decide your rules before the puppy arrives and hold to them without exception. Australian Terriers are observant and will identify and exploit any inconsistency.</li></ul>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Australian Terrier a good first dog?",
+      "a": "It's more manageable than some terrier breeds, making it a reasonable choice for owners with some dog experience. Complete first-time owners should do thorough research on terrier traits before committing. The breed's relative adaptability makes it less of a challenge than some high-drive terrier types."
+    },
+    {
+      "q": "How do I care for my Australian Terrier puppy's topknot?",
+      "a": "Comb the topknot gently with a medium-tooth comb from the first week. Build a positive association by pairing combing with treats. The topknot is made of softer hair than the body coat and should not be brushed aggressively. Keep it clean and tangle-free."
+    },
+    {
+      "q": "When should I get my Australian Terrier puppy's first professional groom?",
+      "a": "Around 12–16 weeks after initial vaccines is appropriate for a first grooming visit. Before that, focus on home desensitization to all grooming tools so the puppy arrives at the groomer calm and comfortable with handling."
+    }
+  ]
+}

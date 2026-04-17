@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Pekingese First Year Costs",
+    "slug": "pekingese-first-year-costs",
+    "shopify_handle": "pekingese-first-year-costs",
+    "group": "Pekingese",
+    "size_category": "Guide",
+    "tags": ["pekingese", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-04-30T16:00:00Z",
+    "excerpt": "The Pekingese's demanding coat and brachycephalic health concerns make it a more expensive breed to maintain than its small size might suggest. This guide gives a realistic picture of first-year and ongoing costs.",
+    "meta_description": "Pekingese first year costs breakdown — puppy price, professional grooming, vet bills, food, and annual ongoing expenses for new Peke owners."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pekingese_2.jpg/330px-Pekingese_2.jpg",
+      "alt": "Pekingese"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "The Initial Investment for a Pekingese",
+      "html": "<p>Pekingese from reputable, health-testing breeders typically cost between <strong>$1,000 and $3,000</strong>. The breed is less commercially produced than some Toy breeds, and well-bred Pekes from breeders who screen for health and temperament may require a waiting list. Show-quality dogs from titled lines can be priced above $3,000.</p><p>Rescue adoption is an option through Pekingese-specific rescues, typically costing $100 to $350. Rescue Pekes are often adults, and many are surrendered due to previous owners' inability to manage grooming — adopting from rescue offers the chance to see the dog's fully developed personality.</p><p><strong>One-Time Supply Costs:</strong></p><ul><li>Crate (24-inch with divider): $40–$80</li><li>Orthopedic dog bed (Pekes appreciate good cushioning): $40–$90</li><li>Collar (well-fitted — never a choke collar on a brachycephalic dog), leash, ID tag: $25–$55</li><li>Stainless steel food and water bowls: $15–$35</li><li>Pin brush, slicker brush, undercoat rake, wide-tooth comb: $40–$80</li><li>Dematting spray, coat conditioner: $15–$30</li><li>Dog-safe baby wipes for daily facial fold cleaning: $10–$20 (ongoing)</li><li>Nail clippers: $15–$25</li><li>Puppy toothbrush and toothpaste: $10–$20</li><li>Puppy toys (moderate energy — puzzle toys, soft chews): $30–$60</li><li>Steps or ramp (to reduce jumping, which stresses the Peke's spine): $30–$70</li></ul><p>One-time supply total: <strong>$270–$565</strong></p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Year One Ongoing Expenses",
+      "html": "<p><strong>Veterinary Care:</strong> Pekingese may require above-average veterinary attention in year one and beyond due to their brachycephalic anatomy. Budget for standard puppy wellness visits plus potential evaluation for airway function.</p><ul><li>Puppy wellness exams and core vaccinations: $250–$500</li><li>Spay or neuter: $250–$500</li><li>Heartworm testing and 12-month prevention: $80–$150</li><li>Flea and tick prevention (12 months): $80–$150</li><li>Potential BOAS consultation or surgical evaluation: $100–$500 (if breathing concerns are present)</li></ul><p><strong>Grooming:</strong> This is the most significant ongoing cost unique to the Pekingese. Options:</p><ul><li>Full professional grooming every 6–8 weeks: $55–$100/session = <strong>$330–$800/year</strong></li><li>Puppy clip maintenance every 8–10 weeks: $50–$80/session = <strong>$240–$480/year</strong></li><li>Grooming at home (significant time investment, requires proper tools): $50–$100/year in supplies</li></ul><p><strong>Food:</strong> Pekes weigh up to 14 lbs and eat modestly. High-quality small-breed kibble costs approximately $200 to $350 per year. Premium or veterinary diets may cost more.</p><p><strong>Dental Care:</strong> Professional dental cleanings under anesthesia are often needed every 1 to 2 years, costing $300 to $700 per cleaning. Daily home brushing reduces the frequency needed.</p><p><strong>Pet Insurance:</strong> Strongly recommended given BOAS, eye issues, and IVDD risks. Monthly premiums: $30 to $60 for a young Peke. Annual cost: <strong>$360–$720</strong>.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Realistic Long-Term Planning",
+      "html": "<p><strong>First Year Total (excluding purchase price):</strong></p><ul><li>One-time supplies: $270–$565</li><li>Veterinary care (including spay/neuter): $660–$1,300 (higher if BOAS evaluation/surgery needed)</li><li>Professional grooming (6–8 sessions): $330–$800</li><li>Food: $200–$350</li><li>Treats, toys, enrichment: $80–$160</li><li>Pet insurance: $360–$720</li><li>Miscellaneous (license, wipes, dental supplies): $60–$120</li></ul><p><strong>First Year Total (excluding purchase): approximately $1,960–$4,015</strong></p><p>Including purchase price ($1,000–$3,000), first-year total costs typically fall between <strong>$2,960 and $7,015</strong> for most owners — making the Pekingese one of the higher-cost Toy breeds to own in year one, largely due to grooming and potential veterinary expenses.</p><p><strong>Ongoing Annual Costs (Year 2+):</strong></p><ul><li>Professional grooming: $330–$800</li><li>Food: $200–$350</li><li>Annual vet wellness and boosters: $150–$350</li><li>Parasite prevention: $160–$300</li><li>Dental cleaning (every 1–2 years): $150–$350 amortized annually</li><li>Pet insurance: $360–$720</li><li>Treats and enrichment: $80–$160</li></ul><p><strong>Ongoing Annual Total: approximately $1,430–$3,030 per year.</strong> The Pekingese is not an inexpensive breed to maintain when grooming is factored in. Prospective owners who learn to groom at home can significantly reduce costs, but the time investment is substantial.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Are Pekingese expensive to maintain?",
+      "a": "More so than many Toy breeds, primarily due to their high grooming needs. Professional grooming every 6 to 8 weeks can add $330 to $800+ annually. Potential veterinary costs related to their brachycephalic structure are an additional consideration."
+    },
+    {
+      "q": "Can I groom my Pekingese at home to save money?",
+      "a": "Yes, but it requires the right tools, significant time (30 to 60 minutes several times a week in full coat), and a dog accustomed to handling from puppyhood. Many owners opt for a combination of professional grooming and at-home maintenance brushing."
+    },
+    {
+      "q": "Does the puppy clip reduce grooming costs?",
+      "a": "Yes — a puppy clip makes home brushing much more manageable and extends the time between professional grooming appointments. It is a popular and practical choice for pet Pekingese owners."
+    }
+  ]
+}

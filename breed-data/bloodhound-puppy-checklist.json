@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Bloodhound Puppy Checklist",
+    "slug": "bloodhound-puppy-checklist",
+    "shopify_handle": "bloodhound-puppy-checklist",
+    "group": "Bloodhound",
+    "size_category": "Guide",
+    "tags": ["bloodhound", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-04-24T16:00:00Z",
+    "excerpt": "Everything you need before your Bloodhound puppy comes home — fencing, ear cleaning protocol establishment, gastropexy discussion, insurance enrollment, and understanding the drool reality before it arrives.",
+    "meta_description": "Bloodhound puppy checklist: secure fencing, ear cleaning supplies and protocol, gastropexy planning, bloat feeding management, insurance enrollment, and first-week vet priorities."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bloodhound_Erland22.jpg/330px-Bloodhound_Erland22.jpg",
+      "alt": "Bloodhound puppy checklist"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Preparing for Your Bloodhound Puppy",
+      "html": "<ul><li><strong>Secure fencing (mandatory):</strong> A Bloodhound on a scent trail cannot be recalled. Minimum 6-foot fence. Invisible fences are completely ineffective — the scenting drive overrides any aversive stimulus. Physical fence only. Check the full perimeter for gaps and ensure gates self-latch.</li><li><strong>XXL crate (48+ inches):</strong> Select a crate appropriate for adult size. Bloodhounds grow large — a puppy-sized crate will be outgrown quickly. A crate appropriate for a 100 lb dog from the start avoids multiple replacements.</li><li><strong>Heavy orthopedic dog bed:</strong> Large breed joint support matters from puppyhood. Place the bed in the crate and in the dog's favorite rest areas.</li><li><strong>Slow-feeder bowl:</strong> Feeding from a slow-feeder significantly reduces the rate of food intake, which is one of the factors associated with bloat risk in deep-chested breeds. Use a slow-feeder for all meals from the start.</li><li><strong>Ear cleaning supplies:</strong> Purchase veterinarian-recommended ear cleaner before the puppy arrives. Ask your vet at the first appointment to recommend a specific product and demonstrate the cleaning technique. Start weekly ear cleaning in the first week home — build the routine immediately.</li><li><strong>Fold cleaning supplies:</strong> Fragrance-free baby wipes or soft cloths for regular facial wrinkle and dewlap cleaning. Stock these at home before arrival.</li><li><strong>Drool towels:</strong> Stock multiple absorbent towels or old cloths in the kitchen, living area, and near the dog's water bowl. This is a permanent household item for Bloodhound owners.</li><li><strong>Pet insurance enrollment:</strong> Enroll before the first vet visit. The Bloodhound's medical risk profile (bloat, ear infections, joint conditions) makes insurance important from day one.</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit Priorities",
+      "html": "<ul><li><strong>Discuss prophylactic gastropexy:</strong> This is the most important first-vet-visit conversation for a Bloodhound. Ask when the gastropexy can be scheduled — typically at the time of spay/neuter. Confirm the vet is familiar with the procedure and add it to the plan for that appointment. Do not delay this conversation.</li><li><strong>Ear cleaning technique:</strong> Ask your vet to demonstrate the proper ear cleaning technique and recommend a specific ear cleaner. Establish the weekly routine in the first week home.</li><li><strong>Complete puppy vaccination series:</strong> Core vaccines at 8, 12, and 16 weeks. Confirm schedule and discuss any concerns with your vet.</li><li><strong>OFA hip discussion:</strong> Bloodhounds have elevated hip dysplasia rates. Ask when preliminary hip screening is appropriate and what the plan is for monitoring joint health as the dog grows.</li><li><strong>Fold care guidance:</strong> Ask your vet to examine the facial folds and dewlap and confirm they are clean and healthy. Get guidance on cleaning frequency appropriate for your dog's specific anatomy.</li><li><strong>Microchipping:</strong> Essential for a scent-driven breed that may follow a trail through a fence gap before it is discovered. Microchip at or before the first appointment.</li><li><strong>Feeding protocol for bloat risk:</strong> Discuss appropriate meal size, frequency (twice daily), and rest periods after eating with your vet. Some vets recommend waiting 30–60 minutes after exercise before feeding and vice versa for high-risk breeds.</li></ul>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Starting Training Right",
+      "html": "<p>Bloodhound training is primarily about building household manners and channeling the scenting drive productively. Reliable off-leash recall against an active scent is not achievable with this breed — the management approach is leashing and fencing, not command training. Set your expectations accordingly.</p><p><strong>Start leash training immediately.</strong> A Bloodhound puppy that learns to pull on leash becomes a 100-lb Bloodhound that is very hard to manage. Begin loose-leash walking with treats from the first walks. Consistency at this stage prevents a significant problem later. A no-pull harness is helpful for management while training is in progress.</p><p><strong>Crate training from day one.</strong> The crate provides a safe space and prevents unsupervised destruction. Bloodhound puppies are curious and will put their nose (and mouth) on everything. Build crate comfort with treats and meals inside; gradually increase duration.</p><p><strong>Nose work and tracking activities.</strong> Channel the scenting drive constructively through formal nose work classes or informal tracking games. A Bloodhound with a productive outlet for its primary drive is far more settled and content at home. This is one of the few breeds where nose work is as important as physical exercise for overall wellbeing.</p><p><strong>Basic obedience — positive reinforcement.</strong> Sit, stay, heel, and place are achievable with consistent positive training. Bloodhounds are food-motivated and respond well to reward-based approaches. The challenge is distraction — a scent in the air significantly reduces training responsiveness. Practice indoors and in low-distraction environments first, building duration before adding distractions.</p><p><strong>Socialization window: 8–16 weeks.</strong> Introduce the puppy to varied people, dogs, and environments. Bloodhounds are naturally friendly — the socialization investment here is less about temperament management and more about building a confident, adaptable dog that handles different situations calmly.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "What is the most important first-vet-visit conversation for a Bloodhound puppy?",
+      "a": "Prophylactic gastropexy. Ask when it can be scheduled (typically at spay/neuter time) and add it to the plan. This single preventive procedure eliminates the fatal stomach rotation component of GDV — the most life-threatening emergency in deep-chested large breeds. The cost at spay/neuter time is $200–$500 additional; emergency GDV surgery costs $3,000–$8,000 and must happen within hours. Schedule the gastropexy."
+    },
+    {
+      "q": "When should I start cleaning my Bloodhound's ears?",
+      "a": "Week one at home. The weekly ear cleaning routine should be established immediately and maintained without interruption for the dog's entire life. Start at the first appointment by asking your vet to recommend an ear cleaner and demonstrate the technique. A dog whose ears are cleaned weekly from puppyhood almost never develops the chronic ear infections that are otherwise virtually certain in this breed."
+    },
+    {
+      "q": "How do I prepare for the drool before my Bloodhound comes home?",
+      "a": "Stock multiple absorbent towels in every room the dog will frequent. Keep a dedicated towel near the water bowl — Bloodhounds drip after drinking, and a towel on the floor catches most of it. Keep a towel on the kitchen counter for wiping jowls before head shakes (which send drool considerable distances). Accept that surfaces at dog-head height will need regular wiping. This is preparation, not a problem to be solved."
+    }
+  ]
+}

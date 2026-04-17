@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "name": "Basset Hound Grooming Guide",
+    "slug": "basset-hound-grooming-guide",
+    "shopify_handle": "basset-hound-grooming-guide",
+    "group": "Basset Hound",
+    "size_category": "Guide",
+    "tags": ["basset-hound", "grooming", "ear-care", "short-coat", "skin-folds", "dog-breeds"],
+    "published": true,
+    "excerpt": "Basset Hound grooming looks simple — it's a short coat, after all. The reality is that the ears, skin folds, and wrinkles require more attention than the coat itself. Skip the ear routine and you'll be at the vet far more often than you'd like.",
+    "meta_description": "Basset Hound grooming guide: short coat care, ear cleaning routine, skin fold maintenance, and how to manage the hound odor that surprises most new owners."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/BassetHound_profil.jpg",
+      "alt": "Basset Hound"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "The Truth About Basset Hound Grooming",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Basset Hound has a short, dense, weather-resistant coat — and at first glance, that looks like low-maintenance grooming. It is, for the coat. Where Basset grooming gets real is everything else: those extraordinary ears that nearly reach the ground when the head is lowered, the loose skin folds around the face and neck, and a distinctive hound odor from the skin oils that requires regular bathing to manage.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The coat sheds moderately year-round. It's not the dramatic shedding of a double-coated breed, but the short hairs work their way into upholstery and clothing in ways that are surprisingly persistent. A rubber curry brush handles this efficiently.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The ears are the #1 health issue in this breed, and they're entirely preventable with routine. Long, heavy ears pressed against the side of the head block airflow, trap moisture and wax, and create the ideal warm, dark environment for bacterial and yeast infections. If you take one thing from this guide: the ear routine is not optional.</p>"
+    },
+
+    "care": {
+      "label": "Tools & Routine",
+      "heading": "The Right Tools and Weekly Schedule",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Tools You Actually Need</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Rubber curry brush or grooming mitt</strong> — the ideal tool for a short, tight coat; loosens dead hair and stimulates the skin without scratching. Use this 1–2x per week.</li><li><strong style=\"color:#1a1a1a;\">Bristle brush</strong> — use after the curry brush for a final pass that picks up loose hair and distributes skin oils through the coat.</li><li><strong style=\"color:#1a1a1a;\">Ear cleaning solution (vet-recommended)</strong> — not water, not hydrogen peroxide; a purpose-made ear cleaner that dries quickly and has appropriate pH.</li><li><strong style=\"color:#1a1a1a;\">Cotton balls</strong> — for ear cleaning; never use cotton swabs in the ear canal.</li><li><strong style=\"color:#1a1a1a;\">Damp cloth or unscented baby wipes</strong> — for wiping skin folds and wrinkles around the face.</li></ul><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Weekly Grooming Routine</h3><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;width:28%;\">Frequency</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Task</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;\">1–2x per week</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Curry brush full body — removes loose hair before it ends up on furniture; 5–10 minutes</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;\">Weekly (non-negotiable)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Ear check and clean — inspect for odor, redness, or dark discharge; clean with solution and cotton ball</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;\">2–3x per week</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Wipe face wrinkles and skin folds — use a damp cloth; dry thoroughly after wiping to prevent yeast</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;\">Every 6–8 weeks</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Bath — use a deodorizing dog shampoo; the hound oil odor requires more than a rinse to manage</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;\">Every 3–4 weeks</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Nail trim — critical for this breed; long nails alter gait and add stress to the spine and joints that are already under structural load</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;\">Weekly</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Check eyes for ectropion irritation — the drooping lower lids can trap debris; wipe with a damp cloth if needed</td></tr></tbody></table><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:24px 0 10px 0;\">The Ear Cleaning Process</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 10px 0;\">Lift the ear flap and inspect the inner surface. Healthy ears are pale pink, dry, and odor-free. Apply cleaning solution to a cotton ball and wipe the visible ear canal area — never push inward. Let the dog shake their head (this helps dislodge debris from deeper in the canal). Dry the outer ear with a clean towel. If you see dark brown discharge, significant odor, or the dog is scratching or shaking their head before you've even started — that's an infection, not a grooming problem. See the vet.</p>"
+    },
+
+    "special": {
+      "label": "Breed-Specific Tips",
+      "heading": "The Basset-Specific Grooming Challenges",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Managing the Hound Odor</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bassets have a distinctive musky smell from their skin oils — this is the breed, not a hygiene failure. It's more noticeable in humid weather and after walks. You can't eliminate it entirely; you can manage it. Bathing every 6–8 weeks with a quality deodorizing shampoo makes a significant difference. Between baths, a grooming wipe or a dry shampoo spray can freshen the coat. Don't bathe more frequently than every 4 weeks — overwashing strips the oils and causes the skin to overproduce, making the odor worse long-term.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Skin Fold Care — Don't Skip the Drying Step</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The most common mistake with skin fold maintenance is wiping the folds without fully drying them afterward. Trapped moisture between folds is exactly what causes yeast and bacterial growth. Wipe the folds with a damp cloth, then follow immediately with a dry cloth or gauze to remove all moisture. In warm or humid conditions, this needs to happen every 2–3 days rather than weekly.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Nails and Joint Health</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">This matters more for Bassets than for most breeds. Their heavy body on short legs already loads the spine and joints significantly. Long nails alter the angle at which the foot meets the ground, creating additional compensatory strain up through the leg and spine. Trim every 3–4 weeks without exception. If you can hear the nails clicking on hard floors, they're already overdue and affecting how the dog moves.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "My Basset's ears smell despite weekly cleaning. What's happening?",
+      "a": "A persistent odor despite cleaning usually means an active infection is present — not just wax buildup. Bacterial and yeast infections have distinct smells that ear cleaning solution can't resolve on its own. Stop cleaning and see your vet; they'll identify what's there and prescribe appropriate treatment. Cleaning an infected ear without treatment can push debris further in and delay diagnosis."
+    },
+    {
+      "q": "How do I get rid of the Basset Hound smell?",
+      "a": "You manage it — you don't eliminate it entirely. Regular bathing (every 6–8 weeks), consistent ear maintenance, and skin fold wiping address the main sources. Washing the dog's bedding weekly helps significantly. Avoid the temptation to bathe more frequently than every 4 weeks — it backfires. Some owners use a lightly scented grooming spray between baths for day-to-day management."
+    },
+    {
+      "q": "Does a Basset Hound need professional grooming?",
+      "a": "Not regularly — the short coat doesn't require professional trimming. What a professional groomer adds is a thorough bath, blow-dry, nail trim, and ear clean done by someone who's efficient at it. Once or twice a year for a thorough spa day is reasonable. The home routine of weekly ear cleaning and bi-weekly brushing is the maintenance between those visits."
+    },
+    {
+      "q": "How often should I trim a Basset Hound's nails?",
+      "a": "Every 3–4 weeks. Bassets spend a lot of time lying down (they're not wearing their nails down on pavement the way an active dog might), and their nails grow fast. The structural importance is particularly high for this breed — long nails affect how the foot lands, which adds compensatory stress to a spine that's already dealing with a lot. Get them comfortable with nail handling from puppyhood."
+    }
+  ]
+}

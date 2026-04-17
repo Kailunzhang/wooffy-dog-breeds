@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Redbone Coonhound First Year Costs",
+    "slug": "redbone-coonhound-first-year-costs",
+    "shopify_handle": "redbone-coonhound-first-year-costs",
+    "group": "Redbone Coonhound",
+    "size_category": "Guide",
+    "tags": ["redbone-coonhound", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "Redbone Coonhound first-year costs run $2,500–$5,500 including purchase price. Grooming costs are minimal. The main financial priorities are secure fencing, ear care prevention, and insurance for hip dysplasia risk.",
+    "meta_description": "Redbone Coonhound first year costs: puppy price $500–$1,500, minimal grooming costs, fencing investment, vet bills, insurance for hip and ear health, and total first-year expense estimates."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Redbone-coonhound-detail.jpg/250px-Redbone-coonhound-detail.jpg",
+      "alt": "Redbone Coonhound first year costs"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "What Does a Redbone Coonhound Cost to Acquire?",
+      "html": "<p><strong>Puppy from a reputable breeder: $500–$1,500.</strong> The Redbone Coonhound is a working and hunting breed with a more accessible price point than many AKC breeds. Working/hunting-line Redbones from proven tracking ancestry are widely available in the southeastern United States. Show-line or AKC-registered dogs from health-tested parents run $800–$1,500. Ask for OFA hip clearances — hip dysplasia is documented in the breed.</p><p><strong>Rescue adoption: $150–$400</strong> through Redbone Coonhound rescue or general hound rescue organizations. Rescue Redbones are common — the breed's scenting drive and exercise needs mean many are surrendered by owners who underestimated the commitment.</p><p><strong>Initial setup costs: $250–$500</strong></p><ul><li>Large crate (42 inches): $70–$130</li><li>Dog bed: $50–$100</li><li>Collar, harness, leash: $50–$100</li><li>Grooming tools (hound glove, bristle brush — minimal): $20–$40</li><li>Ear cleaning supplies: $20–$40</li><li>Bowls: $25–$50</li></ul><p><strong>Fencing: $500–$2,500+ if not already in place.</strong> A Redbone on a scent trail cannot be recalled — physical fencing is the only reliable containment. A minimum 6-foot fence is recommended. Invisible fences are ineffective for scent-driven hounds. If your property is not already fenced, budget for this before acquiring a Redbone.</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "First Year Ongoing Expenses",
+      "html": "<p><strong>Food: $550–$850 for the first year.</strong> Large breed dry food for a 45–70 lb dog. Budget $45–$75 per month. High-quality formulas support joint health — important for a breed with documented hip dysplasia risk. Active hunting dogs may need slightly higher caloric density during hunting season.</p><p><strong>Veterinary care (first year): $400–$800</strong></p><ul><li>Initial wellness exam and puppy vaccination series: $150–$350</li><li>Spay or neuter: $150–$400</li><li>OFA hip pre-screening at 12–18 months: $150–$250</li><li>Heartworm, flea, tick prevention: $120–$200/year — tick prevention is important for hunting dogs</li><li>Ear infection treatment if cleaning protocol is delayed: $100–$300 per infection</li></ul><p><strong>Pet insurance: $400–$900/year.</strong> Recommended for coverage of hip dysplasia and ear-related health costs. Hunting dogs may benefit from coverage for field injuries. Enroll before the first vet visit.</p><p><strong>Grooming: Near zero ongoing cost.</strong> A hound glove and bristle brush represent the complete tool investment at under $40. Ear cleaning supplies cost $20–$40 per year. No professional grooming required.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Costs",
+      "html": "<p><strong>First year total estimate: $2,500–$5,500</strong> (including purchase price). Fencing investment is the primary variable for owners without existing suitable containment.</p><p><strong>Annual ongoing costs after year one: $1,150–$2,200</strong></p><ul><li>Food: $550–$850</li><li>Routine vet care and preventives: $300–$550</li><li>Pet insurance: $400–$900</li><li>Grooming: minimal</li></ul><p><strong>Budget for potential additional costs:</strong></p><ul><li>Hip dysplasia treatment in significant cases: $2,000–$6,000 per joint</li><li>Chronic ear infections without weekly cleaning protocol: $100–$300 per infection</li><li>Field injuries (cuts, paw injuries from hunting): covered by insurance if enrolled</li></ul><p>Over a 11–14 year lifespan, total ownership cost excluding purchase price is typically $12,000–$25,000 — among the lower ranges for a large breed, driven by minimal grooming costs and the breed's generally robust health. The Redbone is one of the more affordable large breeds to own over a lifetime when preventive care (ear cleaning, fencing) is maintained.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Redbone Coonhound an affordable breed to own?",
+      "a": "Yes — among the more affordable large breeds. Purchase price is accessible, food costs are average for the size, grooming is essentially free, and the breed's health profile is relatively robust. The main financial requirements are secure fencing (a one-time infrastructure cost) and ear care prevention (inexpensive if maintained, expensive in treatment costs if neglected)."
+    },
+    {
+      "q": "What is the most important preventive investment for a Redbone Coonhound?",
+      "a": "Weekly ear cleaning. The Redbone's drop ears create chronic infection risk — without weekly cleaning, infections are nearly inevitable. Each infection costs $100–$300 to treat. A year of weekly ear cleaning costs less than $40 in supplies. The return on that prevention investment is substantial."
+    },
+    {
+      "q": "Do I really need 6-foot fencing for a Redbone Coonhound?",
+      "a": "Physical fencing, yes — the height requirement is less absolute than for sighthounds, but the scenting drive overrides all recall training when the Redbone is on a trail. A 4-foot fence can be jumped by a motivated Redbone; 6 feet is more reliable. Invisible fences are completely ineffective — the scenting drive easily overrides any electronic aversive. Physical containment is the only reliable management approach for off-leash safety."
+    }
+  ]
+}

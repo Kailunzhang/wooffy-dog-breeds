@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Pomeranian",
+    "shopify_handle": "pomeranian-grooming-guide",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "name": "Pomeranian Grooming Guide: Double Coat Care and What Not to Do",
+    "slug": "pomeranian-grooming-guide",
+    "excerpt": "How to groom a Pomeranian's thick double coat — daily brushing, professional trim schedules, and why you should never shave this breed.",
+    "meta_description": "How to groom a Pomeranian's thick double coat — daily brushing, professional trim schedules, and why you should never shave this breed.",
+    "tags": [
+      "Pomeranian",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pomeranian.JPG/330px-Pomeranian.JPG",
+      "alt": "Pomeranian dog"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "The Coat",
+      "heading": "What You're Working With: The Pomeranian Double Coat",
+      "html": "<p>The Pomeranian has a thick, stand-off double coat: a dense, cotton-soft undercoat beneath a longer, harsher outer coat that gives the breed its iconic fluffy appearance. Despite the dramatic look, the coat is manageable with a consistent brushing routine. The critical weekly commitment is brushing, and the critical rule is: <strong>never shave a Pomeranian</strong>.</p><p>Pomeranians shed year-round and blow their undercoat once or twice annually. During coat blow-out, daily brushing is required. Outside of those periods, daily brushing prevents mat formation in the soft undercoat, where tangles develop against the skin before they become visible from the surface.</p><h3>Basic Grooming Schedule</h3><ul><li><strong>Brushing:</strong> Daily — this is not optional for this coat type</li><li><strong>Professional trim:</strong> Every 6–8 weeks for a tidy pet trim</li><li><strong>Bathing:</strong> Every 3–4 weeks</li><li><strong>Nail trimming:</strong> Every 2–3 weeks (small dogs' nails grow quickly)</li><li><strong>Ear cleaning:</strong> Monthly or when dirty</li><li><strong>Teeth brushing:</strong> Daily — toy breeds have severe dental disease risk</li></ul>"
+    },
+    "care": {
+      "label": "Brushing and Professional Grooming",
+      "heading": "How to Brush a Pomeranian Correctly",
+      "html": "<h3>Line Brushing: The Only Method That Works</h3><p>Surface brushing — running a brush over the top of the coat without reaching the undercoat — does nothing to prevent mats. The correct technique is line brushing: use one hand to part the coat horizontally, hold the fur above the parting out of the way, and brush the section below in small strokes from the skin outward. Move the part upward section by section until you've worked through the entire coat. A pin brush works for most of the coat; a slicker brush for areas with finer texture. Finish with a metal comb to verify no tangles remain against the skin.</p><h3>Focus Areas</h3><p>The areas that mat first are behind the ears, under the armpits, around the collar area, and the hindquarters. Check these areas at every brushing session. The soft undercoat in these friction zones compacts quickly.</p><h3>Professional Grooming: Every 6–8 Weeks</h3><p>A professional pet trim every 6–8 weeks keeps the coat tidy, removes split ends, cleans up the feet, and maintains the overall shape. Groomers also handle nail trimming and ear cleaning as part of a full groom. Cost is typically $50–$80 per appointment. This is a recurring, unavoidable cost of owning this breed.</p>"
+    },
+    "special": {
+      "label": "Never Shave",
+      "heading": "Post-Clipping Alopecia: The Risk of Shaving a Pomeranian",
+      "html": "<h3>Why Shaving Is Dangerous for This Breed</h3><p>Shaving a Pomeranian does not help them stay cool — the double coat actually insulates against heat as well as cold, and shields the skin from UV radiation. More importantly, shaving a Pomeranian carries a real risk of permanent coat damage known as <strong>post-clipping alopecia</strong> (also called Black Skin Disease or Alopecia X in Pomeranians).</p><p>Post-clipping alopecia occurs when the coat fails to regrow normally after shaving. The dog is left with patchy, short, or absent coat that does not return to its original texture. The cause is not fully understood but appears related to the disruption of the hair cycle in predisposed dogs. There is no reliable treatment. Some dogs recover partially over months to years; others never fully recover their coat.</p><p>The risk is real enough that it is a standard piece of advice in Pomeranian breed communities: <em>never shave your Pom</em>. Sanitary trims (under the tail, around the genitals) are fine. A general tidy-up trim is fine. Shaving down to the skin — not fine.</p><h3>Seasonal Shedding Management</h3><p>During twice-yearly coat blow-out, daily brushing and a professional deshedding bath and blow-out significantly accelerates the process and reduces fur migration through the home. A high-velocity dryer used during bath time speeds drying and loosens dead undercoat efficiently.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Should I shave my Pomeranian in the summer to keep them cool?",
+      "a": "No. Shaving a Pomeranian carries the risk of post-clipping alopecia — a condition where the coat does not regrow correctly and may leave the dog with permanently patchy or absent fur. The double coat also provides insulation against heat, not just cold. In hot weather, provide shade, fresh water, and air conditioning. Never shave as a summer management strategy."
+    },
+    {
+      "q": "How often does a Pomeranian need to be groomed professionally?",
+      "a": "Every 6–8 weeks for a tidy pet trim. Between professional appointments, daily at-home brushing is required to prevent mat formation in the soft undercoat. A Pomeranian whose coat is not brushed daily will develop mats against the skin that are difficult and sometimes painful to remove."
+    },
+    {
+      "q": "What brushes do I need for a Pomeranian?",
+      "a": "A pin brush for general coat maintenance, a slicker brush for finer areas, and a metal wide-tooth comb to check for mats at the skin level. Use the line brushing technique — part the coat and work from the skin outward in sections. Surface brushing only is insufficient and gives a false impression that the coat is tangle-free when mats may be forming against the skin."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Welsh Springer Spaniel Grooming Guide",
+    "slug": "welsh-springer-spaniel-grooming-guide",
+    "shopify_handle": "welsh-springer-spaniel-grooming-guide",
+    "group": "Welsh Springer Spaniel",
+    "size_category": "Guide",
+    "tags": ["welsh-springer-spaniel", "grooming", "silky-coat", "feathering", "ear-cleaning", "red-white"],
+    "published": true,
+    "published_at": "2026-04-23T16:00:00Z",
+    "excerpt": "The Welsh Springer Spaniel's silky red-and-white coat is relatively straightforward to maintain — weekly brushing, regular ear cleaning, and occasional feathering trims. The coat is less profuse than the English Springer Spaniel, making home maintenance manageable.",
+    "meta_description": "Welsh Springer Spaniel grooming guide: maintaining the silky red-and-white coat, ear cleaning for floppy-eared spaniels, feathering trim schedule, and the complete home care routine."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Welsh_Springer_Spaniel_1.jpg/250px-Welsh_Springer_Spaniel_1.jpg",
+      "alt": "Welsh Springer Spaniel grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Welsh Springer Coat",
+      "heading": "Understanding the Welsh Springer Spaniel Coat",
+      "html": "<p>The Welsh Springer Spaniel has a flat, silky, dense coat in the breed's distinctive rich red and white pattern. The coat has moderate feathering on the ears, chest, belly, and back of legs — less profuse than the English Springer Spaniel, which makes maintenance somewhat more manageable. The coat has natural water-resistance and was designed for Welsh working conditions — wet, rough terrain.</p><p>Maintenance is moderate and largely achievable at home with the right tools and routine. The primary maintenance priorities are weekly brushing to prevent tangling in the feathering, consistent ear cleaning (the floppy ears trap moisture), and occasional trimming of the feathering to keep it functional and tidy.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — for the body coat</li><li>Pin brush — for the feathered furnishings</li><li>Wide-tooth metal comb — for checking feathering and finding tangles</li><li>Ear cleaning solution and cotton balls</li><li>Scissors or thinning shears — for feathering trims and feet</li><li>Dog-safe shampoo</li><li>Nail clippers or grinder</li></ul><h3>Shedding</h3><p>Welsh Springers shed moderately year-round. The silky coat doesn't produce large clumps of shed hair, but consistent loose hair on clothing and furniture is normal. Regular weekly brushing is the most effective management tool.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush the body coat with a slicker brush, then work through the feathered areas with a pin brush</li><li>Run a wide-tooth metal comb through all feathered areas to check for tangles — particularly behind the ears and under the armpits</li><li>Clean both ears thoroughly — the floppy, feathered ears are moisture traps; weekly cleaning is non-optional</li><li>Check paw pads for debris, especially after outdoor activity</li></ul><h3>Monthly / As Needed</h3><ul><li>Bathe every 6–8 weeks or when dirty. The silky coat repels surface dirt reasonably well under normal conditions</li><li>Trim the feathering on the legs, ears, and tail every 6–8 weeks — keeping the feathering at a functional length reduces debris collection and mat risk</li><li>Trim the hair between the paw pads and around the feet for cleanliness</li><li>Trim nails monthly</li></ul><h3>Feathering Maintenance</h3><p>The feathering on Welsh Springers is less profuse than on many other spaniels, but it still collects burrs and plant material after field work or hikes. Check and clear debris from the feathering after every outdoor session. Light trimming every 6–8 weeks keeps the furnishings functional and significantly reduces debris collection.</p>"
+    },
+    "special": {
+      "label": "Ear Care and Eye Monitoring",
+      "heading": "Ear Cleaning and Glaucoma Awareness",
+      "html": "<p>The Welsh Springer Spaniel's long, feathered ears create ideal conditions for moisture retention and ear infection development. Weekly ear cleaning is the standard maintenance. Apply veterinary ear cleaning solution, massage the ear base, let the dog shake, then wipe visible debris with cotton balls. Check for odor, redness, or discharge at each cleaning session. After water exposure or bathing, clean and dry the ears promptly.</p><h3>Glaucoma Monitoring</h3><p>Glaucoma — elevated intraocular pressure that can damage the optic nerve — has been documented in Welsh Springer Spaniels. An eye exam at the first vet visit establishes a baseline. Signs of acute glaucoma include visible eye redness, cloudiness, squinting, or the dog pawing at one eye. These are emergency signs — glaucoma can cause permanent vision loss rapidly and requires immediate veterinary attention. Annual eye monitoring for adult Welsh Springers is prudent for a breed with documented glaucoma risk.</p><h3>Progressive Retinal Atrophy</h3><p>PRA is also documented in Welsh Springer Spaniels. DNA testing of breeding parents reduces the risk. During regular grooming, note any changes in how the dog navigates in low light — this can be an early sign of progressive visual changes.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does a Welsh Springer Spaniel need professional grooming?",
+      "a": "Many Welsh Springer owners manage the coat entirely at home with regular brushing and occasional feathering trims. The coat is less demanding than heavily feathered spaniel breeds. If you prefer professional help, a bath and tidy-up every 2–3 months is reasonable. The coat doesn't require specialized clipping — just maintenance of the natural silky lie and feathering trim."
+    },
+    {
+      "q": "Do Welsh Springers mat easily?",
+      "a": "The body coat is not very mat-prone. The feathering on the ears, legs, and belly is where tangles develop — particularly behind the ears and under the armpits. Weekly brushing and combing through these areas prevents mat development. A metal comb run through the feathering after outdoor activity catches burrs and tangles before they work deeper into the coat."
+    },
+    {
+      "q": "What is glaucoma and why should Welsh Springer owners know about it?",
+      "a": "Glaucoma is a condition involving elevated pressure inside the eye that damages the optic nerve, potentially causing blindness. Welsh Springer Spaniels have a documented predisposition. Acute glaucoma is a medical emergency — the eye can sustain permanent damage within hours. Knowing the signs (eye redness, cloudiness, squinting, pawing at one eye) allows owners to seek emergency care immediately rather than waiting for a scheduled appointment. Annual eye pressure checks for adult Welsh Springers are a reasonable precaution."
+    }
+  ]
+}

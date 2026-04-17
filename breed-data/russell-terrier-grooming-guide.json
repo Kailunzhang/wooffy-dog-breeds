@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Russell Terrier Grooming Guide",
+    "slug": "russell-terrier-grooming-guide",
+    "shopify_handle": "russell-terrier-grooming-guide",
+    "group": "Russell Terrier",
+    "size_category": "Guide",
+    "tags": ["russell-terrier", "grooming"],
+    "published": true,
+    "published_at": "2026-04-28T16:00:00Z",
+    "excerpt": "The Russell Terrier's smooth, broken, or rough coat is easy to maintain at home with minimal tools and time. Learn the simple grooming routine for this compact working terrier.",
+    "meta_description": "Russell Terrier grooming guide: smooth, broken, and rough coat care, bathing schedule, nail trimming, and maintenance tips for this low-maintenance small terrier."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Russell_Terrier_600.jpg/330px-Russell_Terrier_600.jpg",
+      "alt": "Russell Terrier"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Russell Terrier Coat Types and Care Requirements",
+      "html": "<p>Like the Parson Russell Terrier, the Russell Terrier comes in three coat varieties: smooth, broken, and rough. All three are low-shedding and require minimal professional grooming. The predominantly white coat shows dirt readily, so dogs that enjoy outdoor adventures may need more frequent baths than those living primarily indoors.</p><p>The coat is weather-resistant and designed for functional use — it dries quickly and does not mat easily. Regular brushing removes dead hair and keeps the coat looking tidy.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Grooming Your Russell Terrier",
+      "html": "<p><strong>Smooth Coat:</strong> Weekly rubber mitt brushing, bathing every 4–6 weeks, routine nail trimming and ear cleaning. Can be managed entirely at home.</p><p><strong>Broken and Rough Coats:</strong> Weekly slicker brushing with comb check for tangles. Hand-strip 1–2 times per year for proper coat texture maintenance, or clip for a pet trim. Bathe every 4–6 weeks or as needed.</p><p><strong>Nails:</strong> Every 3–4 weeks. Small breed nails can be trimmed with standard small dog nail clippers.</p><p><strong>Ears:</strong> Weekly inspection and cleaning as needed. Small, v-shaped ears have reasonable airflow but benefit from regular checks.</p><p><strong>Teeth:</strong> Brush several times weekly. Small breeds are prone to dental disease.</p><p><strong>White Coat Maintenance:</strong> A whitening dog shampoo can maintain coat brightness. Wipe the face after meals to prevent staining around the mouth.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Russell Terrier Grooming Tips",
+      "html": "<p><strong>Dirt Management:</strong> Russell Terriers love to dig and explore. Keep a towel by the door for quick paw wipes. Mud often brushes out of the short coat once dry.</p><p><strong>Coat Type Choice:</strong> Smooth coats are the lowest maintenance. Rough coats have the most classic terrier appearance but need hand-stripping to preserve texture. Broken coats fall in between. Consider maintenance commitment when choosing a puppy.</p><p><strong>Sun Protection:</strong> White dogs with pink skin are susceptible to sunburn. Apply dog-safe sunscreen to exposed areas during prolonged outdoor activity in summer.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often does a Russell Terrier need grooming?",
+      "a": "Smooth coats need weekly brushing and monthly baths. Rough and broken coats benefit from hand-stripping 1–2 times per year. Overall grooming needs are minimal."
+    },
+    {
+      "q": "Can I groom a Russell Terrier at home?",
+      "a": "Yes, entirely. The short to medium coat requires no specialized equipment beyond a rubber mitt or slicker brush, nail clippers, and basic cleaning supplies."
+    }
+  ]
+}

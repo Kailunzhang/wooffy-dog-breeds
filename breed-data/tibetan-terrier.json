@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "name": "Tibetan Terrier",
+    "slug": "tibetan-terrier",
+    "shopify_handle": "tibetan-terrier",
+    "group": "Non-Sporting Group",
+    "size_category": "Medium Breed",
+    "tagline": "The Tibetan Terrier is a devoted, sensitive monastery dog that is not actually a terrier at all — it's an ancient companion breed with a shaggy double coat and a deeply loyal personality.",
+    "tags": ["non-sporting-group", "medium-breed", "loyal", "sensitive", "ancient-breed", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-05-03T16:00:00Z",
+    "excerpt": "Don't let the name fool you — the Tibetan Terrier has no terrier temperament whatsoever. It's a gentle, devoted companion from the Tibetan monasteries with a long double coat, snowshoe feet, and an alert, sensitive nature that bonds deeply with family.",
+    "meta_description": "Tibetan Terrier breed guide: temperament, grooming the long double coat, health conditions including PRA and lens luxation, and whether this ancient companion breed fits your lifestyle."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "18–30 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "15–16 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "45–60 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Tibet_Terrier_Bennie_%28cropped%29.jpg/250px-Tibet_Terrier_Bennie_%28cropped%29.jpg",
+      "alt": "Tibetan Terrier"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Tibetan Terrier?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Tibetan Terrier is one of the great naming misnomers in dogdom. This breed is not a terrier — it was never used to hunt vermin, dig out prey, or perform any of the tasks terriers were bred for. The name comes from European travelers in the 19th century who encountered the breed in Tibet and labeled it a \"terrier\" due to its medium size, not its temperament or function.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">In reality, the Tibetan Terrier was kept for centuries by Tibetan monks as a companion and good luck charm — never sold, only given as gifts of the highest honor. They were called \"Holy Dogs\" and kept in remote Himalayan monasteries, valued for their devoted companionship and their remarkable sure-footedness on rocky terrain. That surefooted quality comes from their most distinctive physical feature: large, flat, round \"snowshoe\" feet that provide grip on uneven ground.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Today's Tibetan Terrier is still fundamentally that monastery companion — alert, sensitive, devoted to their people, and equipped with a magnificent long double coat that requires genuine grooming commitment.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Tibetan Terriers Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Medium-sized and squarely built, weighing 18–30 lbs and standing 14–17 inches at the shoulder. The hallmark feature is the long, flowing double coat — a soft woolly undercoat beneath a fine, straight-to-wavy outer coat that can be any color or combination. The coat naturally parts down the back.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The feet are the other signature: large, flat, and round — described as \"snowshoe\" feet — which helped the breed navigate rocky Himalayan terrain. A profuse fall of hair covers the eyes (natural protection from wind and snow in Tibet, and perfectly functional vision beneath it). The tail curls up and over the back, well-feathered with long hair.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Devoted and family-oriented. Tibetan Terriers bond closely with their people and are not independent in the way many working breeds are — they want to be with you. They are sensitive dogs that respond poorly to harsh handling and thrive under calm, positive guidance.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">They are alert without being hyperreactive — they'll announce a stranger at the door but don't have the shrill, constant vigilance of some small breeds. With proper socialization, they are friendly and adaptable; without it, they can be reserved or wary with strangers.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With children and other pets, Tibetan Terriers generally do well, particularly when raised together. Their sensitivity means they are better suited to homes where they won't be treated roughly. They are playful and active but not demand-exercise breeds — a good balance of walks, play, and companionship suits them well.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Tibetan Terrier",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Tibetan Terriers are genuinely lovely dogs — not flashy, not extreme in any temperament trait, just consistently good-natured companions with a lot of heart. The loyal, sensitive quality is real; these dogs notice your mood and respond to it.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest conversation is about the coat. That long double coat does not maintain itself, and it mats if neglected. Owners who want the full flowing show coat need to commit to regular grooming or a professional groomer relationship. Many owners keep their Tibetan Terriers in a shorter \"puppy clip\" for practicality — perfectly reasonable, and the dog won't mind at all.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The other thing worth knowing: this breed lives a long time — 15 to 16 years is common, occasionally longer. That's a meaningful commitment. It also means that the investment in this relationship is long and deep, which most Tibetan Terrier owners consider the best part of the deal.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate-high energy that's well-satisfied by 45–60 minutes of activity daily. Brisk walks, play sessions, and mental enrichment cover the need. They're athletic enough to enjoy hiking and more vigorous activity, but they don't demand it the way high-drive working breeds do. A good family companion pace suits them.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The long double coat requires regular brushing — at minimum two to three times per week, daily during coat transitions. Mats form behind the ears and in armpits first. Many owners opt for a professional groomer every 6–8 weeks and a shorter trim. See the <a href=\"/blogs/dog-breeds/tibetan-terrier-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Tibetan Terrier grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Intelligent and willing, but sensitive. Tibetan Terriers respond well to positive reinforcement and are capable of learning quickly when motivated. They do not respond well to compulsion or harsh corrections — this typically produces avoidance and wariness rather than compliance. Keep sessions short, positive, and varied.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Tibetan Terriers are a generally healthy breed with an excellent lifespan of 15–16 years. DNA testing has made it possible for responsible breeders to significantly reduce the incidence of the most serious hereditary conditions.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">PRA / NCL</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Progressive Retinal Atrophy and Neuronal Ceroid Lipofuscinosis — hereditary eye and neurological conditions. DNA tests available; reputable breeders screen and produce clear certificates. No treatment for PRA; prevention through breeding is the only solution.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Primary Lens Luxation (PLL)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Hereditary dislocation of the eye's lens, which can cause secondary glaucoma and pain. DNA test available — ask breeders for PLL clear status. Affected dogs require prompt veterinary attention to preserve vision.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint — less common than in larger breeds but present in the breed. OFA screening available; ask for clearances from both parents.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Underactive thyroid — manageable with daily medication once diagnosed. OFA thyroid screening available.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> PRA DNA test, NCL DNA test, PLL DNA test, OFA hip, OFA thyroid, and CAER eye exam clearances.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,250–$5,550</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,500–$2,500</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/tibetan-terrier-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Tibetan Terrier first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Tibetan Terrier Right for You?",
+      "good_fit": [
+        "Owners who want a devoted, affectionate companion that is present without being demanding",
+        "Families with older children who will handle the dog gently",
+        "Owners willing to commit to regular grooming or a professional groomer relationship",
+        "Active individuals who enjoy daily walks but don't need an extreme sport partner",
+        "Those looking for a long-lived companion — 15+ year lifespans are typical"
+      ],
+      "not_fit": [
+        "Owners who want a low-maintenance coat — the long double coat requires consistent grooming",
+        "Very busy households where the dog would frequently be alone — they bond closely and prefer company",
+        "Anyone expecting terrier-style independence or feistiness — this breed is gentle and sensitive",
+        "Households with very rough-and-tumble young children"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Tibetan Terrier",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$2,500 from reputable breeders. Required health clearances: PRA DNA test, NCL DNA test, PLL DNA test, OFA hip, OFA thyroid, and CAER eye exam. The Tibetan Terrier Club of America maintains a breeder referral directory. This is not a high-volume breed — expect a wait list from quality breeders.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Tibetan Terrier Club of America operates a rescue network. Adult rescues are often available and can be excellent dogs — many are surrendered for lifestyle reasons rather than behavioral issues.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Tibetan Terrier comes home, complete the <a href=\"/blogs/dog-breeds/tibetan-terrier-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Tibetan Terrier puppy checklist</a> — grooming tools and a socialization plan are the priority pre-arrival items for this breed.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "Is the Tibetan Terrier actually a terrier?", "a": "No — the name is a misnomer assigned by European travelers in the 19th century. The Tibetan Terrier has no terrier characteristics in temperament or function. It was bred as a companion and good luck dog by Tibetan monks, not as a hunting or vermin-control dog. The temperament is gentle, devoted, and sensitive — nothing like the typical terrier personality." },
+    { "q": "How much grooming does a Tibetan Terrier need?", "a": "Significant commitment. The long double coat needs brushing two to three times per week minimum, and daily attention during coat transitions. Professional grooming every 6–8 weeks is the practical approach for most owners. Many keep their dogs in a shorter \"puppy clip\" year-round for manageability — the dog is just as happy either way." },
+    { "q": "Are Tibetan Terriers good with children?", "a": "Generally yes, particularly with older children who will handle them respectfully. They are not boisterous or rough in play, and they are sensitive to how they're treated. Very young children who grab or play roughly may stress them. With appropriate supervision and children who understand gentle handling, they make excellent family companions." },
+    { "q": "What health tests should I ask a Tibetan Terrier breeder for?", "a": "PRA DNA test, NCL DNA test, Primary Lens Luxation (PLL) DNA test, OFA hip evaluation, OFA thyroid, and a CAER eye examination. A reputable breeder will have documentation for all of these from both parents. PLL is particularly important — affected dogs can develop painful secondary glaucoma." }
+  ],
+
+  "related_breeds": [
+    {"name": "Lhasa Apso", "slug": "lhasa-apso", "note": "Fellow Tibetan breed, smaller, more reserved and independent temperament"},
+    {"name": "Shih Tzu", "slug": "shih-tzu", "note": "Smaller companion with similar coat, more openly affectionate with strangers"},
+    {"name": "Soft Coated Wheaten Terrier", "slug": "soft-coated-wheaten-terrier", "note": "Similar coat texture and size, actual terrier temperament — more energetic and independent"},
+    {"name": "Bearded Collie", "slug": "bearded-collie", "note": "Similar long shaggy coat, much higher energy and herding drive, larger"}
+  ]
+}

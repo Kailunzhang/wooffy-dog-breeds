@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Greater Swiss Mountain Dog Grooming Guide",
+    "slug": "greater-swiss-mountain-dog-grooming-guide",
+    "shopify_handle": "greater-swiss-mountain-dog-grooming-guide",
+    "group": "Greater Swiss Mountain Dog",
+    "size_category": "Guide",
+    "tags": ["greater-swiss-mountain-dog", "grooming"],
+    "published": true,
+    "published_at": "2026-04-27T16:00:00Z",
+    "excerpt": "The Greater Swiss Mountain Dog's short, dense double coat is low-maintenance between the heavy seasonal shedding periods — weekly brushing, twice-weekly during blowout, and occasional baths keep this breed's coat manageable.",
+    "meta_description": "Greater Swiss Mountain Dog grooming guide: managing the short double coat, seasonal blowout shedding, brushing tools for heavy-shedding periods, and basic bathing and nail care for this large Swiss working breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Greater_Swiss_Mountain_Dog_2018.jpg/250px-Greater_Swiss_Mountain_Dog_2018.jpg",
+      "alt": "Greater Swiss Mountain Dog grooming guide"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Understanding the Greater Swiss Mountain Dog Coat",
+      "html": "<p>The Greater Swiss Mountain Dog has a short, dense double coat — a thick, soft undercoat beneath a dense, slightly coarse outer coat. The tricolor pattern (black with rust and white markings) is a breed signature. The coat is designed for alpine working conditions: weather-resistant, insulating, and durable.</p><p>Day-to-day, the coat is relatively straightforward to maintain — it does not mat, tangle, or require trimming. The significant grooming event is the seasonal coat blowout, typically in spring and fall, when the undercoat releases in substantial volume. During blowout periods, a Greater Swiss Mountain Dog sheds heavily — the short, dense undercoat releases in clumps and distributes itself throughout the home conspicuously. Outside blowout periods, shedding is moderate and year-round.</p><p>The short coat means grooming sessions are quick. A full brushing of a Greater Swiss takes 15–20 minutes. There is no feathering to tangle, no furnishings to mat, and no professional grooming requirement. The maintenance commitment is primarily managing the shedding output rather than the coat structure itself."
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Step-by-Step Grooming Routine",
+      "html": "<p><strong>Frequency:</strong> Once or twice per week routinely; daily during seasonal blowout periods; bathing every 6–8 weeks or as needed.</p><p><strong>Tools needed:</strong> Rubber grooming mitt or curry comb, natural-bristle brush or soft slicker brush, undercoat rake (for blowout periods), deshedding brush, nail clippers or grinder.</p><p><strong>Routine brushing:</strong> Use a rubber curry comb or grooming mitt to loosen shed hair and stimulate the skin — most Greater Swiss Mountain Dogs enjoy this process. Follow with a natural-bristle or soft slicker brush to smooth the outer coat and remove loosened hair. Work over the full body, including the legs and chest. The entire routine takes 10–15 minutes.</p><p><strong>Blowout season brushing:</strong> During spring and fall blowout periods, increase brushing to daily or every other day. Use an undercoat rake or deshedding tool to work through the releasing undercoat — these tools reach through the outer coat to pull out the loosening undercoat. Work in sections, moving with the direction of coat growth. A single blowout brushing session can produce an impressive volume of undercoat. The more consistently you brush during blowout, the less ends up on furniture and clothing.</p><p><strong>Bathing:</strong> Use a gentle dog shampoo appropriate for a double-coated breed. The dense double coat requires thorough saturation — work shampoo down through the outer coat to reach the undercoat. Rinse thoroughly; residue in the thick undercoat causes skin irritation. Towel dry and blow-dry on low heat or allow to air-dry in a warm environment. The dense coat holds moisture — ensure complete drying, especially in humid conditions, to prevent skin irritation.</p><p><strong>Nails:</strong> Every 3–4 weeks. The Greater Swiss Mountain Dog's substantial weight means nail length affects gait and joint load — keep nails consistently short.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Shedding Management and Seasonal Care",
+      "html": "<p><strong>Shedding is the primary grooming challenge:</strong> The Greater Swiss sheds significantly, and the short, dense undercoat fibers embed deeply in fabric and carpet. Lint rollers, a quality pet hair vacuum with a motorized brush, and washable slipcovers for furniture are practical household adaptations. During blowout season, accepting that shedding is temporarily extreme makes the management less frustrating — consistent brushing reduces but does not eliminate the seasonal impact.</p><p><strong>Professional grooming:</strong> Not typically required or sought for Greater Swiss Mountain Dogs. The short coat needs no clipping or trimming. Some owners bring their dog to a professional groomer for bathing and a thorough deshedding treatment during blowout season — this is a convenience choice, not a necessity. Professional fees for a breed-standard bath and deshed are typically $60–$100.</p><p><strong>Hot weather coat management:</strong> The thick double coat is designed for cold weather; Greater Swiss Mountain Dogs can overheat in hot conditions. Do not shave the coat — the double coat provides insulation from heat as well as cold, and shaving damages the coat structure. Instead, limit outdoor activity during peak heat, ensure access to shade and water, and use cooling mats indoors. The coat sheds naturally to a lighter weight as the weather warms; allow the natural process.</p><p><strong>Ear and eye checks:</strong> Include a quick ear and eye inspection at each grooming session. The breed does not have the ear anatomy vulnerabilities of drop-eared breeds, but checking for debris, redness, or discharge as a routine catches problems early.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How bad is the shedding in a Greater Swiss Mountain Dog?",
+      "a": "Moderate year-round with significant seasonal blowouts in spring and fall. The short, dense undercoat releases in substantial volume during blowout periods — it embeds in fabric, collects in corners, and coats furniture visibly. Regular brushing, particularly during blowout, significantly reduces the amount distributed through the house. The Greater Swiss is definitively not a low-shedding breed; owners should expect visible dog hair as a permanent feature of the home."
+    },
+    {
+      "q": "Do I need a professional groomer for a Greater Swiss Mountain Dog?",
+      "a": "Not typically. The short double coat needs no clipping, trimming, or specialized professional maintenance. Weekly home brushing (daily during blowout season) with a rubber mitt, undercoat rake, and bristle brush is fully adequate. Some owners use professional bathing services for convenience, particularly during blowout season for the thorough deshedding treatment, but it is not required."
+    },
+    {
+      "q": "Should I shave my Greater Swiss Mountain Dog in summer?",
+      "a": "No. Shaving a double-coated breed does not keep the dog cooler — the double coat provides insulation from heat as well as cold. Shaving damages the coat structure, disrupts the natural shedding cycle, and can result in coat regrowth problems. Manage summer heat through shade, water access, limited exercise during peak heat, and cooling mats indoors. The coat sheds naturally to a lighter weight as temperatures rise."
+    }
+  ]
+}

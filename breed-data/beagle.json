@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "name": "Beagle",
+    "slug": "beagle",
+    "shopify_handle": "beagle",
+    "group": "Hound Group",
+    "size_category": "Small Breed",
+    "tagline": "Beagles are friendly, sturdy, and genuinely good with families — but their nose runs the show, and owners who don't plan for that end up frustrated.",
+    "tags": ["hound-group", "small-breed", "family-dog", "scent-hound", "dog-breeds"],
+    "published": true,
+    "excerpt": "Beagles are one of the most popular small breeds for a reason — cheerful, sturdy, low-maintenance coats, great with kids. The honest part: they follow their nose, and containment and recall are genuine challenges.",
+    "meta_description": "Is a Beagle right for you? The real guide to Beagle temperament, scent drive, exercise needs, howling, health, and what first-time owners actually deal with."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Small–Medium" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "20–30 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–15 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "45–60 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes, with research" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Beagle_600.jpg/330px-Beagle_600.jpg",
+      "alt": "Beagle"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Beagle?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Beagle is a small-to-medium scent hound, bred for centuries to track game by nose while working with hunters on foot. Today they're one of the most popular family dogs in America — sturdy, friendly, low-maintenance in coat care, long-lived, and genuinely good with children and other dogs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest version: a Beagle's nose is the operating system. Everything else is secondary. When a Beagle picks up an interesting scent, it follows — and the recall you thought you trained evaporates. Beagles have escaped yards, wandered miles, and been hit by cars because they were following a scent trail with complete focus. This isn't a training failure; it's the breed doing exactly what it was designed to do.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Beagles are also vocal — the distinctive Beagle bay is a real sound that carries far and happens regularly. In apartments or close neighborhoods, this is a genuine consideration. Manage the nose and the voice proactively, and Beagles are wonderful family dogs. Ignore those two things, and they become frustrating.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Beagles Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Compact and muscular with a slightly domed skull, long droopy ears, and a sturdy square build. They come in two size varieties: under 13 inches (typically 20–22 lbs) and 13–15 inches (22–30 lbs). The classic tri-color (black, tan, and white) is most common, but lemon-and-white, red-and-white, and other combinations exist. Short, dense, water-resistant coat that needs minimal care. The tail tip is typically white — a historical feature that helped hunters see the dog in tall grass.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Friendly, curious, and merry — Beagles are genuinely upbeat dogs that get along with almost everyone. They're pack animals that enjoy the company of people and other dogs. They're not typically aggressive, not particularly territorial, and generally don't have the wariness or aloofness of some other breeds.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The flip side of the friendly, go-along nature: Beagles are independently minded in a way that makes training require more patience than with retrievers or shepherds. They're not stubborn in the way a Basset Hound is stubborn, but they're motivated by their nose and their stomach more than by pleasing you. High-value treats and short sessions work far better than commands and repetition.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Beagles don't do well alone for long periods. They're pack animals; isolation leads to anxiety that expresses itself as howling, destructive behavior, and general misery. If the household is empty most of the day, a second dog (or a structured daycare arrangement) is worth considering.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Beagle",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Beagles are great dogs, but they're great at being a specific thing: a cheerful, nose-led, moderately energetic dog that does best with a securely fenced yard and a family that's home regularly. For that profile, they're wonderful.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The two things that consistently surprise owners: the containment issue and the howling. On containment — \"my yard has a fence\" is not enough. Beagles dig under, squeeze through, or figure out weak points. A 4-foot fence that works fine for a Labrador won't necessarily contain a motivated Beagle. On howling — Beagles bay. It's a loud, musical sound that carries. If your neighborhood has noise rules or thin walls, this is not a small issue.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Off-leash recall is genuinely difficult for most Beagle owners because the nose overtakes all other training when there's an interesting scent. Off-leash time should be in securely fenced areas. Long-line training helps build recall, but many experienced Beagle owners simply accept that reliable off-leash recall may not be fully achievable for their dog.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">45–60 minutes daily. Beagles need real exercise — not intense, but consistent. Sniff walks (letting the dog follow its nose at a slow pace) count and are highly enriching for a scent hound. A tired, sniff-satisfied Beagle is far easier to live with than a bored one. Always on leash unless in a securely fenced area.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Coat:</strong> Weekly brush — minimal maintenance overall</li><li><strong style=\"color:#1a1a1a;\">Ears:</strong> Weekly check is important — floppy ears trap moisture and are prone to infection</li><li><strong style=\"color:#1a1a1a;\">Bathing:</strong> Every 6–8 weeks or when dirty from outdoor adventures</li><li><strong style=\"color:#1a1a1a;\">Nails:</strong> Every 3–4 weeks</li></ul><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">See the <a href=\"/blogs/dog-breeds/beagle-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Beagle grooming guide</a> for the ear cleaning routine — the most important regular maintenance task for this breed.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Food-motivated and moderately trainable. Short sessions with high-value treats get the best results. Focus on recall (with a long-line first), leave it, and leash manners. Nose work and scent games are excellent enrichment that engages the Beagle's natural drives productively. Off-leash recall should be approached with realistic expectations.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Beagles are generally a healthy, long-lived breed (12–15 years). Ear infections and obesity are the most common ongoing health concerns.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Ear Infections</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The long, heavy ears trap moisture and restrict airflow — one of the highest ear infection rates of any breed. Weekly cleaning and post-water drying are essential prevention.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Obesity</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Beagles are highly food-motivated and will overeat. Obesity in Beagles leads to joint problems, diabetes, and shortened lifespan. Strict portion control is necessary.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">More common in Beagles than average. Signs: weight gain, lethargy, coat changes. Manageable with daily medication ($30–$60/month).</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Intervertebral Disc Disease (IVDD)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">More common in Beagles than in non-chondrodystrophic breeds. Spinal disc issues can range from managed pain to requiring surgery.</td></tr></tbody></table>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Beagles are one of the more affordable breeds to own — smaller food portions, minimal grooming costs, and generally good health make the ongoing cost manageable.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$480–$840</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$480–$840</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,200–$4,300+</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,300–$2,200</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/beagle-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Beagle first-year cost breakdown</a> for a detailed budget.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Beagle Right for You?",
+      "good_fit": [
+        "Family home with a securely fenced yard",
+        "Someone home most of the day — Beagles don't do well with long isolation",
+        "Have other dogs or willing to get a second dog for company",
+        "Want a sturdy, friendly small breed that's excellent with kids",
+        "Accept that off-leash recall may always be limited and can work around it"
+      ],
+      "not_fit": [
+        "Apartment with noise-sensitive neighbors — Beagles bay",
+        "Want a reliable off-leash dog for hiking without a fence",
+        "Away from home 8+ hours daily without company for the dog",
+        "Can't maintain strict food portions — Beagles will overeat to obesity",
+        "Want a quiet dog or a highly obedient breed"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Beagle",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$500–$1,200 from a reputable breeder. Beagles are generally healthy so the health testing requirements are less extensive than some breeds — ask about hip clearances and thyroid testing. Meet the parents if possible; temperament is somewhat heritable.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Beagle rescue organizations are active and have steady populations — the breed ends up surrendered frequently due to the howling and containment issues surprising owners. Rescue Beagles often make excellent adult pets once they're in the right environment.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before pickup, go through the <a href=\"/blogs/dog-breeds/beagle-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Beagle puppy checklist</a> — fencing and containment need to be verified before the dog arrives.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Do Beagles bark a lot?",
+      "a": "They bay — a loud, melodic howl distinct from a standard bark. This happens when they're excited, following a scent, bored, or lonely. It's not random or constant in a well-exercised, well-occupied Beagle, but it's a real part of the breed. In apartments or close housing situations with noise rules, this is a genuine concern to weigh honestly before getting one."
+    },
+    {
+      "q": "Can Beagles be trusted off-leash?",
+      "a": "Not reliably, for most owners. When a Beagle's nose locks onto a scent, training recall tends to fail. This isn't a training problem that sufficient work solves — it's a deep breed instinct. Off-leash time should be in securely fenced areas. Many experienced Beagle owners use long-lines in unfenced areas. Some Beagles develop reliable recall with significant training effort and the right foundation; many don't fully."
+    },
+    {
+      "q": "Are Beagles good apartment dogs?",
+      "a": "Generally not ideal — the howling is the main issue. A Beagle in an apartment with thin walls, close neighbors, and regular boredom will bay and disturb everyone nearby. In a house where the howling can be managed, they can work in smaller spaces. Exercise needs are moderate and walkable in a city. But the noise is a real constraint for dense housing situations."
+    },
+    {
+      "q": "Are Beagles good with kids?",
+      "a": "Among the best. They're sturdy, tolerant, patient, and genuinely enjoy children's energy. They don't get overwhelmed easily, they're not typically nippy with children, and they have the energy to match active kids. Standard supervision applies with any dog and young children, but Beagles are one of the more naturally kid-friendly breeds across the board."
+    }
+  ],
+
+  "related_breeds": [
+    {"name": "Basset Hound", "slug": "basset-hound", "note": "Same scent drive, lower energy, more stubborn"},
+    {"name": "Cavalier King Charles Spaniel", "slug": "cavalier-king-charles-spaniel", "note": "Similar size and family friendliness, less scent-driven"},
+    {"name": "Labrador Retriever", "slug": "labrador-retriever", "note": "Much larger, similarly family-friendly"},
+    {"name": "Whippet", "slug": "whippet", "note": "Similar size range, very different energy and personality"}
+  ]
+}

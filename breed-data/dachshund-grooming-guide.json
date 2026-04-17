@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "name": "Dachshund Grooming Guide",
+    "slug": "dachshund-grooming-guide",
+    "shopify_handle": "dachshund-grooming-guide",
+    "group": "Dachshund",
+    "size_category": "Guide",
+    "tags": ["dachshund", "grooming", "hound-group", "three-coat-types"],
+    "published": true,
+    "published_at": "2026-04-15T16:00:00Z",
+    "excerpt": "Dachshund grooming depends entirely on coat type: smooth coats need almost nothing, wirehaired coats need hand-stripping, and longhaired coats need regular brushing. Here's what each requires.",
+    "meta_description": "Dachshund grooming guide: smooth, wirehaired, and longhaired coat care routines, nail trimming, and what professional grooming each type actually needs."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg/330px-%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg",
+      "alt": "Dachshund grooming"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "Dachshund Grooming: It Depends on Your Coat Type",
+      "html": "<p>Dachshunds come in three coat types — smooth, wirehaired, and longhaired — and the grooming requirements vary significantly between them. Before you start any routine, identify which coat type you have.</p><ul><li><strong>Smooth coat:</strong> Almost no grooming required. The lowest-maintenance option.</li><li><strong>Wirehaired coat:</strong> Requires hand-stripping (or clipping) 1–2 times per year plus regular beard and brow tidying. Moderate maintenance.</li><li><strong>Longhaired coat:</strong> Regular brushing to prevent tangles, especially behind the ears and on the chest feathering. Moderate maintenance.</li></ul><p>All three coat types share the same nail and dental care needs — and nails in particular matter for Dachshunds, since long nails alter gait and put extra stress on a spine that's already at high IVDD risk.</p>"
+    },
+    "care": {
+      "label": "Coat-by-Coat Routine",
+      "heading": "Grooming by Coat Type",
+      "html": "<h3>Smooth Coat</h3><p>The smoothhaired Dachshund is arguably the easiest dog to groom. A quick wipe with a damp cloth or chamois keeps the coat gleaming. Bathe every 6–8 weeks. Brush weekly with a soft bristle brush or grooming mitt to remove loose hair. Professional grooming: optional nail trim only.</p><h3>Wirehaired Coat</h3><p>The wiry outercoat should ideally be maintained through hand-stripping — pulling the dead outer coat by hand rather than cutting it. This preserves coat texture and color. Clipping (using scissors/clippers) is faster but softens the coat over time. Most pet owners use a groomer for this 1–2 times per year. In between, trim the beard and eyebrows monthly to keep them tidy and prevent food from collecting in the beard.</p><h3>Longhaired Coat</h3><p>Brush 2–3 times per week with a slicker brush and steel comb. Focus on the feathering behind the ears, chest, belly, and tail — these areas mat first. A detangling spray helps on knot-prone days. Professional grooming every 8–12 weeks for a tidy trim of the feathering keeps maintenance manageable at home.</p><h3>All Coat Types: Nails & Teeth</h3><p><strong>Nails:</strong> Trim every 3–4 weeks. This is non-optional for Dachshunds — long nails change the way the foot strikes the ground, altering posture and adding load to an already-vulnerable spine. If you hear clicking on hard floors, they're overdue.</p><p><strong>Teeth:</strong> Brush 3–4 times per week. Small breeds are prone to dental disease, and Dachshunds are no exception.</p>"
+    },
+    "special": {
+      "label": "Grooming & Spine Safety",
+      "heading": "Grooming Positions and IVDD Risk",
+      "html": "<p>Because Dachshunds are at significant risk for intervertebral disc disease (IVDD), grooming position matters. A startled or uncomfortable dog on a grooming table may jump — and a fall from even table height can cause spinal injury.</p><h3>Safe Grooming Practices</h3><ul><li>Always groom on a non-slip surface or have one hand supporting the dog</li><li>For nail trims, consider grooming on the floor rather than a raised table</li><li>Avoid positioning the dog in ways that arch or twist the spine</li><li>If your dog is tense or resistant, go slowly — a stressed dog is more likely to lunge</li><li>Professional groomers should be told your dog has IVDD risk and to keep them secured</li></ul><p>Introduce grooming early and pair it with treats so it becomes a calm, cooperative experience. A Dachshund that tolerates handling confidently is safer in any grooming scenario.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "What's the difference between hand-stripping and clipping for wirehaired Dachshunds?",
+      "a": "Hand-stripping removes the dead outer coat by pulling it out at the root — this preserves the wiry texture and correct color of the coat. Clipping cuts the hair, which over time softens the texture and fades the color. For show dogs, hand-stripping is required. For pets, clipping is perfectly acceptable and most groomers offer it."
+    },
+    {
+      "q": "How often should I trim my Dachshund's nails?",
+      "a": "Every 3–4 weeks. Long nails are especially problematic for Dachshunds because they alter gait and add stress to the spine. If you hear clicking on hard floors, trim immediately."
+    },
+    {
+      "q": "My longhaired Dachshund's coat is getting matted — what should I do?",
+      "a": "Apply a detangling spray and work through mats with your fingers before reaching for a comb. Always hold the mat at the base to avoid pulling the skin. Prevention is far easier — brush 2–3 times per week and pay attention to ears, chest, and belly feathering."
+    },
+    {
+      "q": "Do Dachshunds need professional grooming?",
+      "a": "Smooth coats rarely do. Wirehaired coats benefit from professional hand-stripping or clipping 1–2 times per year. Longhaired coats benefit from professional trims every 8–12 weeks. All three types can go to a groomer for nail trims if needed."
+    }
+  ]
+}

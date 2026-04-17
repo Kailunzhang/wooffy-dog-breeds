@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Shetland Sheepdog Puppy Checklist",
+    "slug": "shetland-sheepdog-puppy-checklist",
+    "shopify_handle": "shetland-sheepdog-puppy-checklist",
+    "group": "Shetland Sheepdog",
+    "size_category": "Guide",
+    "tags": ["shetland-sheepdog", "puppy", "checklist", "CEA", "MDR1", "barking-management"],
+    "published": true,
+    "published_at": "2026-04-21T16:00:00Z",
+    "excerpt": "Everything you need before your Shetland Sheepdog puppy comes home — including the CEA/MDR1 documentation to collect and the barking management plan that must start from day one.",
+    "meta_description": "Shetland Sheepdog puppy checklist: CEA and MDR1 documentation, barking management from day one, grooming routine setup, socialization priorities, and essential gear."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Shetland_Sheepdog_sable.jpg/330px-Shetland_Sheepdog_sable.jpg",
+      "alt": "Shetland Sheepdog puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Sheltie Puppy Prep: Documentation, Grooming, and Barking Plan",
+      "html": "<p>Three breed-specific preparations matter before a Shetland Sheepdog arrives: collecting the CEA and MDR1 DNA test documentation from the breeder, setting up the grooming routine and equipment, and having a concrete plan for barking management from day one. Shelties are vocal — this is a herding breed characteristic, and the time to establish quiet-behavior habits is in puppyhood, not after the behavior is established.</p><h3>Documentation to Request From Breeder</h3><ul><li><strong>CEA (Collie Eye Anomaly) DNA test</strong> for both parents</li><li><strong>MDR1/ABCB1 DNA test</strong> for both parents</li><li>OFA hip and patellar evaluation for both parents</li><li>These are standard for any responsible Sheltie breeder</li></ul><h3>Grooming Setup</h3><ul><li>Pin brush and wide-tooth steel comb</li><li>Undercoat rake</li><li>Detangling spray</li><li>Non-slip grooming surface</li><li>Research a professional groomer experienced with double-coat herding breeds for seasonal deshedding appointments</li></ul><h3>Essential Gear Checklist</h3><ul><li>Small crate (24–30 inch with divider)</li><li>Dog bed appropriate for a small herding breed</li><li>Stainless steel food and water bowls</li><li>Flat collar + ID tag (engrave on arrival)</li><li>Harness for walks</li><li>4–6 ft leash</li><li>High-value training treats</li><li>Enzymatic cleaner for accidents</li><li>Puzzle feeders and enrichment toys</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit and Barking Management Start",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam including eye evaluation</li><li>Vaccine schedule verification</li><li>Parasite prevention — communicate MDR1 status from breeder documentation before any medications are prescribed</li><li>Discuss spay/neuter timing</li><li>Microchip if not placed by breeder</li><li>Enroll in pet insurance before this appointment or immediately after</li></ul><h3>Barking Management: Start Now</h3><p>Shetland Sheepdogs are herding dogs bred to use their voice. Barking — at sounds, movement, people, other animals — is instinctual. This is manageable with consistent training from puppyhood but becomes a serious problem if allowed to develop unchecked. The approach:</p><ul><li>Never reward barking with attention — not even negative attention. Turn away, leave the room, or wait for quiet before engaging</li><li>Reward quiet: when the puppy is calm and not barking, reinforce with attention and treats</li><li>Teach \"quiet\" as a command: wait for a natural break in barking, say \"quiet,\" immediately reward the silence</li><li>Alert barking at windows and doors: block visual access to triggers that cause excessive alert barking (baby gates blocking window views, management of exposure to trigger stimuli)</li><li>Consistent training from puppyhood shapes the adult vocal pattern</li></ul><h3>Grooming from Day One</h3><p>Start daily brushing immediately with a soft brush — short, positive sessions that touch all coat areas including the ruff, legs, and underbelly. These are the mat-prone areas in adulthood; habituating the puppy to having them handled makes adult grooming manageable.</p>"
+    },
+    "special": {
+      "label": "Training and Sensitivity Management",
+      "heading": "Training a Sensitive, Intelligent Herding Breed",
+      "html": "<h3>Sheltie Training Character</h3><p>Shetland Sheepdogs are among the most trainable small breeds and typically excel at obedience and dog sports. They are also sensitive dogs that respond poorly to harsh corrections or raised voices. Positive reinforcement works extremely well — Shelties are eager to please and genuinely enjoy the engagement of training sessions.</p><ul><li>Puppy class at 8–10 weeks</li><li>Core commands early and consistently: sit, down, stay, come, leave it</li><li>Consider agility, herding, or rally obedience — Shelties thrive in structured sport environments</li><li>Gentle, patient training produces confident adults; harsh training produces anxious, avoidant dogs</li></ul><h3>Socialization Priorities</h3><p>The 8–16 week window is critical. Shelties that aren't well-socialized can develop fearful reactions to strangers and novel environments:</p><ul><li>Introduce to many types of people, especially strangers at the door (a common Sheltie trigger)</li><li>Varied environments: urban sounds, crowds, vehicles, different surfaces</li><li>Puppy class: controlled dog-to-dog interaction in a safe environment</li><li>Positive-only experiences — forcing a fearful puppy into overwhelming situations worsens anxiety</li></ul><h3>Exercise Rules for Puppies</h3><p>Follow the 5-minutes-per-month-of-age guideline. Shelties are active adults but not high-intensity working dogs — daily moderate exercise plus mental stimulation through training and play is appropriate.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Do Shetland Sheepdogs bark a lot?",
+      "a": "They are vocal dogs — more so than many breeds. Barking at sounds, movement, and strangers is a herding breed characteristic in Shelties. This is manageable with consistent training from puppyhood (rewarding quiet, teaching a \"quiet\" command, managing visual access to triggers), but owners who don't address it during puppyhood typically end up with chronically barky adults. Apartment living or noise-sensitive neighborhoods require particular attention to barking management."
+    },
+    {
+      "q": "Are Shetland Sheepdogs good apartment dogs?",
+      "a": "They can be, with caveats. Shelties are small, adaptable, and don't need intense exercise. However, their vocal tendencies require active management in apartment settings — unmanaged barking affects neighbors significantly. Owners who address barking training from puppyhood and provide adequate daily activity can successfully keep Shelties in apartments."
+    },
+    {
+      "q": "What does a Shetland Sheepdog puppy cost?",
+      "a": "$1,000–$2,500 from responsible breeders who provide CEA and MDR1 DNA test results and OFA hip and patellar clearances for both parents. Shelties are popular, and responsible breeders often have waitlists. The health documentation is standard practice — a breeder without it should prompt reconsideration."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "American Eskimo Dog First Year Costs",
+    "slug": "american-eskimo-dog-first-year-costs",
+    "shopify_handle": "american-eskimo-dog-first-year-costs",
+    "group": "American Eskimo Dog",
+    "size_category": "Guide",
+    "tags": ["american-eskimo-dog", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-04-30T16:00:00Z",
+    "excerpt": "American Eskimo Dog ownership costs vary significantly by size — a Toy Eskie costs noticeably less to feed than a Standard. Grooming is the primary ongoing expense. This guide covers all first-year costs across all three sizes.",
+    "meta_description": "American Eskimo Dog first year costs — puppy price, food (by size), grooming, vet care, and annual expenses for Toy, Miniature, and Standard Eskies."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/American_Eskimo_Dog_1.jpg/330px-American_Eskimo_Dog_1.jpg",
+      "alt": "American Eskimo Dog"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Initial Investment for an American Eskimo Dog",
+      "html": "<p>American Eskimo Dog puppies from reputable, health-testing breeders typically cost between <strong>$1,000 and $2,500</strong>, with some variation by size and bloodline. Standard Eskies from performance or conformation lines may be at the higher end. The breed is moderately available from responsible breeders affiliated with the AEDCA.</p><p>Rescue adoption costs $150 to $400 and often includes veterinary care and spay/neuter.</p><p><strong>One-Time Supply Costs (varies by size):</strong></p><ul><li>Crate: $40–$100 (size-dependent — Standard Eskies need a 36–42 inch crate)</li><li>Dog bed: $35–$80</li><li>Collar, leash, ID tag: $25–$65</li><li>Food and water bowls: $15–$35</li><li>Slicker brush, undercoat rake, wide-tooth comb: $40–$80</li><li>Whitening dog shampoo and conditioner: $20–$40</li><li>Nail clippers: $15–$30</li><li>Puppy toothbrush and toothpaste: $10–$20</li><li>Puzzle toys and training toys: $40–$80</li><li>Baby gates or puppy playpen: $35–$80</li></ul><p>One-time supply total: <strong>$275–$610</strong></p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Year One Ongoing Expenses",
+      "html": "<p><strong>Veterinary Care:</strong></p><ul><li>Puppy wellness exams and vaccinations: $250–$500</li><li>Spay or neuter: $200–$500 (size-dependent)</li><li>Heartworm testing and prevention (12 months): $80–$150</li><li>Flea and tick prevention (12 months): $80–$150</li></ul><p><strong>Food (Significant Size Variation):</strong></p><ul><li>Toy Eskie (6–10 lbs): $150–$280/year</li><li>Miniature Eskie (10–20 lbs): $220–$400/year</li><li>Standard Eskie (25–35 lbs): $350–$600/year</li></ul><p><strong>Grooming:</strong> The double coat is the primary grooming expense. Options:</p><ul><li>Home grooming (brushing, bathing, nail trims): $60–$120/year in supplies</li><li>Professional grooming every 6–8 weeks: $65–$110/session = <strong>$390–$880/year</strong> (plus home brushing between appointments)</li></ul><p><strong>Training:</strong> Group puppy class ($100–$200) is highly recommended. Many Eskie owners continue with advanced obedience or agility classes — beginning agility courses cost $100 to $200 per session.</p><p><strong>Treats and Enrichment:</strong> $100–$200/year for training treats, puzzle toys, and chew items. Eskies need mental enrichment and benefit from varied, engaging toys.</p><p><strong>Pet Insurance:</strong> Recommended given diabetes predisposition. Monthly premiums: $25–$55. Annual cost: <strong>$300–$660</strong>.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Planning",
+      "html": "<p><strong>First Year Total (excluding purchase price) — Toy/Miniature:</strong></p><ul><li>One-time supplies: $275–$610</li><li>Veterinary care: $610–$1,200</li><li>Food: $150–$400</li><li>Grooming: $60–$880</li><li>Training: $100–$200</li><li>Treats and enrichment: $100–$200</li><li>Pet insurance: $300–$660</li><li>Miscellaneous: $50–$100</li></ul><p><strong>First Year Total (excluding purchase, Toy/Miniature): approximately $1,645–$4,250</strong></p><p><strong>First Year Total (excluding purchase, Standard): approximately $1,895–$4,850</strong> (higher food and grooming costs)</p><p>Adding purchase price of $1,000–$2,500, total first year investment ranges from roughly <strong>$2,645 to $7,350</strong> depending on size and choices made regarding professional grooming.</p><p><strong>Ongoing Annual Costs (Year 2+, Toy/Miniature):</strong></p><ul><li>Food: $150–$400</li><li>Annual vet wellness: $150–$350</li><li>Parasite prevention: $160–$300</li><li>Grooming: $60–$880</li><li>Treats and enrichment: $100–$200</li><li>Pet insurance: $300–$660</li></ul><p><strong>Annual ongoing total (Toy/Mini): approximately $920–$2,790 per year.</strong> The primary cost variable is grooming — owners who learn to brush and bathe at home save $400 to $800+ annually compared to those who use professional grooming for every session.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Does the cost differ between Toy, Miniature, and Standard American Eskimo Dogs?",
+      "a": "Yes — primarily in food and grooming costs. Standards eat significantly more and have more coat to maintain. Purchase prices are often similar across sizes, but annual ongoing costs are notably higher for Standards."
+    },
+    {
+      "q": "Can I reduce grooming costs by doing it myself?",
+      "a": "Yes — with the right tools (slicker brush, undercoat rake, whitening shampoo) and consistent weekly brushing, most Eskie owners can manage the coat at home. The main investment is time rather than money. Professional grooming is a convenience choice, not a necessity."
+    },
+    {
+      "q": "Why is pet insurance important for an American Eskimo Dog?",
+      "a": "The breed has above-average rates of diabetes mellitus, which requires daily insulin injections and regular glucose monitoring — an ongoing expense that insurance can help offset. PRA and orthopedic issues are also worth covering."
+    }
+  ]
+}

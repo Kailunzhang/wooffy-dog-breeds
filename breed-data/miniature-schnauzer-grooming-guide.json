@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "name": "Miniature Schnauzer Grooming Guide",
+    "slug": "miniature-schnauzer-grooming-guide",
+    "shopify_handle": "miniature-schnauzer-grooming-guide",
+    "group": "Miniature Schnauzer",
+    "size_category": "Guide",
+    "tags": ["miniature-schnauzer", "grooming", "terrier-group", "wiry-coat"],
+    "published": true,
+    "published_at": "2026-04-15T16:00:00Z",
+    "excerpt": "Mini Schnauzer grooming means professional clipping every 6–8 weeks plus weekly home maintenance on the beard and eyebrows. Here's the full routine and what it costs.",
+    "meta_description": "Miniature Schnauzer grooming guide: professional clipping schedule, beard and brow maintenance, hand-stripping vs. clipping, and home care routine."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Miniature_Schnauzer_salt_%26_pepper_%28cropped%29.jpg/330px-Miniature_Schnauzer_salt_%26_pepper_%28cropped%29.jpg",
+      "alt": "Miniature Schnauzer grooming"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "Mini Schnauzer Grooming: The Double-Layer Wiry Coat",
+      "html": "<p>The Miniature Schnauzer has a distinctive double coat: a harsh, wiry outer coat and a soft undercoat. This coat is low-shedding — a major appeal of the breed — but it requires regular professional attention to maintain its texture and classic Schnauzer appearance.</p><p>The other defining feature is the beard and bushy eyebrows, which are part of the breed's characteristic look. These require weekly tidying at home to stay clean and prevent food from collecting.</p><p><strong>Realistic grooming commitment:</strong> Professional grooming every 6–8 weeks ($60–$100 per appointment) plus 5–10 minutes of home maintenance on the beard, brows, and legs each week.</p>"
+    },
+    "care": {
+      "label": "Tools & Routine",
+      "heading": "Home and Professional Grooming Routine",
+      "html": "<h3>Home Tools</h3><ul><li><strong>Slicker brush</strong> — for body and legs</li><li><strong>Fine-tooth steel comb</strong> — for beard and eyebrows</li><li><strong>Blunt-tipped scissors</strong> — for beard cleanup between appointments</li><li><strong>Dog ear cleaner</strong></li><li><strong>Dog toothbrush and toothpaste</strong></li></ul><h3>Weekly Home Routine (10–15 min)</h3><ol><li><strong>Beard:</strong> Comb through with a fine-tooth comb. Remove any food debris. Check for tangles at the base where the beard meets the muzzle — this area mats easily. Rinse the beard after meals if needed.</li><li><strong>Eyebrows:</strong> Comb forward, then trim if they're long enough to obscure vision. A good groomer will shape these; at home, just maintain.</li><li><strong>Legs and furnishings:</strong> The longer hair on the legs and lower body can mat. Brush through with the slicker brush 2–3 times per week.</li><li><strong>Ears:</strong> Check weekly. Some Schnauzers grow hair inside the ear canal — ask your groomer about plucking if your dog has recurrent ear issues.</li><li><strong>Teeth:</strong> Brush 3–4 times per week. Miniature Schnauzers are prone to dental tartar buildup.</li></ol><h3>Professional Grooming (Every 6–8 Weeks)</h3><p>The traditional Schnauzer clip — short body with longer beard, brows, and leg furnishings — is what most groomers default to. Some owners prefer a shorter, more low-maintenance modified clip. Tell your groomer what level of maintenance you can keep up between appointments.</p><h3>Clipping vs. Hand-Stripping</h3><p>Clipping (using electric clippers) is the standard for pet Schnauzers. Hand-stripping (pulling the dead outer coat by hand) is the traditional method that preserves coat texture and is required for show dogs. Most groomers don't offer hand-stripping, and it takes much longer — but the coat quality is superior. For a pet, clipping is perfectly fine.</p>"
+    },
+    "special": {
+      "label": "Beard Care",
+      "heading": "Keeping the Beard Clean and Mat-Free",
+      "html": "<p>The beard is the most high-maintenance part of a Miniature Schnauzer. It collects food, water, and debris constantly, and the base of the beard is a prime matting zone. Here's how to stay on top of it:</p><h3>Daily After Meals</h3><ul><li>Blot (don't rub) the beard dry after drinking</li><li>Some owners use a dry dog food that doesn't cling to facial hair; wet food is the worst offender</li><li>A quick wipe with a damp cloth after meals prevents staining and buildup</li></ul><h3>Weekly Beard Maintenance</h3><ol><li>Comb through from tip to root with a fine-tooth comb</li><li>Look for tangles at the base, near the skin — work these out gently with fingers and detangling spray</li><li>Trim any stray hairs that are getting too long or uneven</li></ol><h3>Staining</h3><p>Some Miniature Schnauzers, especially light-colored ones, develop reddish-brown staining on the beard from saliva and food. This is cosmetic and not harmful. Specialized whitening or stain-removing dog shampoos can help lighten the staining during baths.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does a Miniature Schnauzer need professional grooming?",
+      "a": "Every 6–8 weeks. The wiry coat continues growing and will become shaggy and uneven without regular clipping. Going longer than 10 weeks makes the grooming appointment more difficult and expensive."
+    },
+    {
+      "q": "Do Miniature Schnauzers shed?",
+      "a": "Very little. The wiry double coat is considered low-shedding, which is one reason the breed is popular for allergy-prone households. You'll notice little hair on furniture and clothing — the trade-off is that the coat requires regular professional grooming."
+    },
+    {
+      "q": "Why does my Schnauzer's beard turn brown?",
+      "a": "Staining from saliva and food is common, especially on lighter-colored dogs. It's not harmful. Regular cleaning with a damp cloth after meals, plus occasional use of a whitening dog shampoo, can reduce the staining."
+    },
+    {
+      "q": "Can I groom my Mini Schnauzer at home?",
+      "a": "Daily brushing and beard maintenance, yes. Full clips require practice and the right equipment. If you want to learn, a grooming tutorial for the Schnauzer pattern is a good starting point — but most owners find professional appointments easier and worth the cost."
+    }
+  ]
+}

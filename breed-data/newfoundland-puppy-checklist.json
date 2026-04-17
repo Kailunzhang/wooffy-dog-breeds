@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Newfoundland Puppy Checklist",
+    "slug": "newfoundland-puppy-checklist",
+    "shopify_handle": "newfoundland-puppy-checklist",
+    "group": "Newfoundland",
+    "size_category": "Guide",
+    "tags": ["newfoundland", "puppy", "checklist", "cardiac", "sas", "giant-breed"],
+    "published": true,
+    "published_at": "2026-04-17T16:00:00Z",
+    "excerpt": "Everything you need before your Newfoundland puppy comes home — including the cardiac exam requirement within 48 hours of arrival and the breeder documentation you should already have in hand.",
+    "meta_description": "Newfoundland puppy checklist: cardiac exam timing, SAS and cystinuria documentation from breeder, drool management setup, giant-breed gear requirements, and first-week priorities."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Newfoundland_dog_Smoky.jpg/330px-Newfoundland_dog_Smoky.jpg",
+      "alt": "Newfoundland puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Documentation First: What to Have Before the Puppy Arrives",
+      "html": "<p>Before your Newfoundland puppy arrives, you should already have specific documentation from your breeder. This is not paperwork for paperwork's sake — it's the health foundation that protects your puppy and informs your vet's monitoring plan from day one.</p><h3>Documentation Checklist (Get From Breeder Before or At Pickup)</h3><ul><li>OFA cardiac certification for both parents — cardiologist-performed, not just a general vet exam. Should specify the exam was performed by an OFA-recognized cardiologist and the dog was cleared</li><li>Cystinuria DNA test results for both parents — ask whether each parent is Clear, Carrier, or Affected. Clear x Clear pairings do not produce affected puppies</li><li>OFA hip and OFA elbow certifications for both parents</li><li>Vaccination records and deworming schedule completed to date</li><li>Microchip number if already implanted</li></ul><h3>Essential Gear Checklist</h3><ul><li>Giant crate (42–48 inch with divider panel)</li><li>Orthopedic dog bed — joint support matters from puppyhood in giant breeds</li><li>Stainless steel food and water bowls — large enough for a growing giant-breed puppy</li><li>Elevated food bowl stand (reduces strain during eating for large breeds)</li><li>Flat collar + ID tag (engrave on arrival day)</li><li>4–6 ft leash and harness</li><li>Pin brush and undercoat rake — begin grooming handling from day one</li><li>Microfiber cloths — many, for drool management from day one</li><li>High-value training treats</li><li>Enzymatic cleaner</li><li>Giant breed-appropriate puppy food — discuss brand and transition plan with your vet</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Cardiac Exam and Setup Priorities",
+      "html": "<h3>Cardiac Exam Within 48 Hours of Arrival</h3><p>Given SAS prevalence in Newfoundlands, a cardiac evaluation should occur within 48 hours of bringing your puppy home — before any strenuous activity, before any health guarantees expire, and before any existing conditions become undocumentable. Ask your vet to auscultate for heart murmurs carefully. If a murmur is detected, request referral to a veterinary cardiologist for echocardiogram evaluation. Mild murmurs are not automatically SAS, but they must be properly characterized.</p><h3>Pet Insurance: Before the First Vet Visit</h3><p>The cardiac evaluation should be your motivation to get pet insurance <em>before</em> the first vet visit. Once any condition is documented in the medical record, it becomes a pre-existing condition that insurers can exclude. Get insurance in place first, then go to the vet.</p><h3>Drool Management Setup</h3><p>Establish drool management infrastructure before the puppy arrives — not after you discover the drool scale on day one:</p><ul><li>Microfiber cloths placed in every main room</li><li>Keep cloths near the water bowl — most drool occurs during and after drinking</li><li>A waterproof mat under the water bowl area</li><li>Drool bibs are available for large-jowled breeds and reduce floor and furniture drool during quiet time</li></ul><h3>Giant Breed Puppy Food</h3><p>Select a giant-breed puppy formula (not just large breed) before the puppy arrives and transition gradually from whatever the breeder was feeding. Giant breed puppy formulas have controlled calcium and phosphorus levels and appropriate calorie density to support slow, healthy growth. Overfeeding a giant-breed puppy accelerates growth rate and increases orthopedic risk.</p>"
+    },
+    "special": {
+      "label": "Training and Management",
+      "heading": "Training a Giant Breed From Puppyhood",
+      "html": "<h3>Loose-Leash Walking: Non-Negotiable from Day One</h3><p>A Newfoundland that learns to pull on the leash as a puppy becomes a 140-lb dog that pulls on the leash as an adult. This is not a preference issue — it is a physical safety issue. Start loose-leash walking practice immediately, use a front-clip harness to reduce pulling mechanics, and reward heavily for walking with slack in the lead. Short, frequent training sessions work better than long frustrated walks.</p><h3>Training Approach</h3><p>Newfoundlands are responsive and willing — one of the more trainable giant breeds. They respond well to positive reinforcement and are motivated by food and praise. Key commands to establish in the first months:</p><ul><li>Sit, down, stay — essential and achievable at puppy stage</li><li>Loose-leash walking — start immediately</li><li>Come — establish in a fenced area with high-value rewards</li><li>No jumping — a 20-lb puppy jumping is endearing; a 140-lb adult jumping is dangerous. Establish the rule from day one and enforce it consistently</li><li>Wait/door manners — sit and wait before going through doors</li></ul><h3>Socialization</h3><p>Newfoundlands are generally social and people-friendly by nature, but the socialization window (8–16 weeks) still matters enormously. Expose the puppy to diverse people, environments, sounds, and friendly dogs during this period. Puppy classes are excellent for both socialization and early obedience — choose one that uses positive reinforcement methods.</p><h3>Exercise Limits for Giant Breed Puppies</h3><p>Giant breed puppies have growth plates that close significantly later than smaller breeds — 18–24 months. Until then, restrict forced running, repetitive jumping, and stair climbing. Free play in a yard is appropriate; jogging, hiking, or long forced exercise sessions are not. Overexercising a giant breed puppy creates orthopedic risk during the most vulnerable growth period.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "When should my Newfoundland puppy have a cardiac exam?",
+      "a": "Within 48 hours of arriving home — ideally before any strenuous play. Given SAS prevalence in the breed, early cardiac evaluation establishes a baseline and catches any murmurs that warrant follow-up with a cardiologist. Get pet insurance in place before this appointment so no findings become pre-existing exclusions."
+    },
+    {
+      "q": "What is cystinuria and how do I check for it?",
+      "a": "Cystinuria is an inherited metabolic disorder causing cystine kidney stones. Newfoundlands carry a breed-specific Type II-A variant. A DNA test is available and reputable breeders test both parents before breeding. Ask your breeder for the test results showing each parent's status (Clear, Carrier, or Affected). A Clear x Clear pairing cannot produce an affected puppy. If you don't have test documentation, ask your vet to discuss monitoring options."
+    },
+    {
+      "q": "What size crate does a Newfoundland need?",
+      "a": "A 48-inch crate for an adult; start with a 42-inch with divider for a growing puppy and remove or adjust the divider as the puppy grows. The crate should be large enough for the adult dog to stand, turn around, and lie down comfortably at full size. Newfoundland adults typically fit comfortably in a 48-inch XXL crate."
+    }
+  ]
+}

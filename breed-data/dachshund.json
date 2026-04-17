@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "name": "Dachshund",
+    "slug": "dachshund",
+    "shopify_handle": "dachshund",
+    "group": "Hound Group",
+    "size_category": "Small Breed",
+    "tagline": "Dachshunds are brave, curious, and deeply loyal — and they carry a spinal risk that every owner needs to understand before the first jump off the couch.",
+    "tags": ["hound-group", "small-breed", "family-dog", "ivdd", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-15T16:00:00Z",
+    "excerpt": "Dachshunds are bold, tenacious, and hilarious companions. They also have the highest IVDD rate of any breed. Managing that risk starts from day one — ramps, weight control, and understanding what 'spine-safe' living looks like.",
+    "meta_description": "Dachshund breed guide: IVDD spinal risk management, three coat types, temperament, cost breakdown, and whether a Dachshund fits your household."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Small" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "8–32 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–16 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "20–30 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Varies" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Moderate" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg/330px-%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg",
+      "alt": "Dachshund"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Dachshund?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Dachshund is one of the most recognizable breeds in the world and has been among the most popular in the US for decades. That distinctive silhouette — long body, short legs, oversized personality — houses a dog that was purpose-built to hunt badgers in underground dens. The same tenacity, independence, and fearlessness that made them effective hunters are what make them entertaining and engaging companions. Dachshunds are brave out of all proportion to their size.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The most important thing to understand about Dachshunds before you get one is the spine. Intervertebral disc disease (IVDD) affects a significant percentage of Dachshunds — some estimates put the lifetime risk as high as 25%. Their elongated spine, combined with a cartilage abnormality (chondrodystrophy) that affects disc composition, makes them uniquely vulnerable. This isn't rare or unlucky — it's a characteristic of the breed that requires proactive management from day one.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The good news: most IVDD risk is meaningfully reducible. Weight management, ramp use, and avoiding high-impact jumping are your tools. None of them require anything dramatic — just consistent habits starting from puppyhood.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Dachshunds Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">There are two sizes: Standard Dachshunds weigh 16–32 lbs; Miniature Dachshunds weigh under 11 lbs. There are also three coat types: smooth (short, close, low maintenance), wirehaired (rough, bristly; needs hand-stripping or trimming), and longhaired (silky, flowing; requires regular brushing). All three coat types come in both sizes.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Color variety is wide: red, cream, black and tan, chocolate and tan, dapple (merle), brindle, and piebald patterns. Note: double dapple breeding (two dapple parents) produces puppies at high risk for blindness and deafness — avoid any breeder producing double dapples.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Dachshunds are curious, stubborn, and deeply devoted to their people. They tend to bond strongly — sometimes very selectively — and can be territorial about their person. They're alert and will vocalize freely, which makes them natural watchdogs but can be a neighbor-relations issue in apartments with thin walls.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With children: moderate caution is warranted. Dachshunds can be snappy if startled, mishandled, or hurt — their long body makes being picked up awkwardly genuinely uncomfortable. They tend to do better with older children who understand how to handle a small dog appropriately, and less well in homes with toddlers who may drop or grab them.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Training honesty: Dachshunds are intelligent but were bred to work independently underground without handler direction. That independence translates to stubborn in a training context. Positive reinforcement with high-value treats works; repetitive drilling frustrates them. Keep sessions short and reward-rich.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Dachshund",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Dachshunds are wonderful companions for households that understand what they're working with. The personality is genuinely entertaining — tenacious, comedic, loyal, and surprisingly bold. Owners who love the breed really love it. The 14–16 year lifespan means you're signing up for a long relationship, which is either a feature or a consideration depending on your perspective.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">IVDD is the thing I can't overstate. The surgery is $3,000–$8,000. Medical management for milder cases is $1,000–$3,000. And crucially — you may do everything right and still have an IVDD episode. The ramps, the weight management, the no-jumping rule: these reduce risk significantly but don't eliminate it. Pet insurance from before the first vet visit is genuinely important for this breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The stubbornness around housetraining is real and documented. Dachshunds are notoriously harder to housetrain than average. Consistency, schedule, crate training, and patience are all required. Some Dachshund owners give up on being 100% reliable indoors in cold weather — it's a known breed trait.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate — two 15-minute walks daily is generally sufficient. Dachshunds need daily movement but shouldn't be pushed into high-impact exercise: no sustained stair-climbing, no jumping from height, no rough-and-tumble play that wrenches the spine. Swimming is an excellent low-impact exercise for Dachshunds.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Spine Management</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Ramps everywhere</strong> — couch, bed, any furniture the dog accesses. No jumping up or down.</li><li><strong style=\"color:#1a1a1a;\">Weight control</strong> — an overweight Dachshund carries dramatically elevated IVDD risk. Measure every meal. No free feeding.</li><li><strong style=\"color:#1a1a1a;\">No rough play</strong> — jumping, twisting, wrestling with larger dogs — all add cumulative load to the disc-compromised spine.</li></ul><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Depends entirely on coat type. Smooth coats: weekly wipe-down with a damp cloth, minimal brushing. Longhaired: several times per week brushing, professional trim occasionally. Wirehaired: professional hand-stripping or clipping 2–3 times per year. See the <a href=\"/blogs/dog-breeds/dachshund-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Dachshund grooming guide</a> for coat-specific routines.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Ears</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Long, floppy ears prone to infection — weekly checks and cleaning as needed.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">IVDD is the dominant health concern for Dachshunds by a wide margin.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">IVDD (Intervertebral Disc Disease)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The most significant Dachshund health concern. Affected discs herniate and compress the spinal cord, causing pain, weakness, or paralysis. Lifetime risk estimated at 19–25%. Medical management $1,000–$3,000; surgery $3,000–$8,000. Prevention: weight management, ramp use, no high-impact jumping.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Patellar Luxation</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Kneecap slipping out of groove — common in small breeds. Ranges from Grade 1 (incidental, no symptoms) to Grade 4 (requires surgical correction $1,500–$4,000).</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited eye disease causing progressive vision loss. DNA test available for several PRA variants in Dachshunds.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Lafora Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Progressive myoclonic epilepsy — more common in miniature wirehaired Dachshunds. DNA test available. Causes seizures that worsen over time.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA patella evaluation, CAER eye exam, PRA DNA test, Lafora DNA test (especially for wirehaired)</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Small breed food costs keep daily expenses reasonable, but IVDD is the financial wildcard that makes insurance non-optional.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (small breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$480–$840</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$480–$840</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, ramps, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,500–$4,500+</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,200–$2,100</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/dachshund-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Dachshund first-year cost breakdown</a> including IVDD treatment costs and insurance guidance.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Dachshund Right for You?",
+      "good_fit": [
+        "Willing to commit to ramp use and weight management to reduce IVDD risk",
+        "Want a long-lived companion (12–16 years) with a big personality in a small body",
+        "Households with older children who know how to handle small dogs gently",
+        "Moderate activity households — walks and play without high-impact jumping",
+        "Apartment or smaller home living — size works, but stairs and furniture-jumping need management"
+      ],
+      "not_fit": [
+        "Households with very young children who may drop or mishandle the dog",
+        "Unwilling to use ramps and manage furniture access consistently",
+        "Expecting quick, easy housetraining — Dachshunds are notoriously stubborn about it",
+        "Want an off-leash reliable dog — their nose and independence make this difficult",
+        "Unwilling to budget for pet insurance given genuine IVDD risk"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Dachshund",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,500 from reputable breeders. Avoid breeders producing double dapple puppies — this pattern combination causes serious health defects. Required health documentation: CAER eye exam, OFA patella evaluation, PRA DNA test, Lafora disease DNA test (especially for wirehaired Minis). The Dachshund Club of America maintains a breeder referral list.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Dachshund-specific rescues exist in most regions. Some rescue Dachshunds have existing IVDD history — get full health disclosure and factor into insurance decisions. Adoption fees $200–$400.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before pickup, review the <a href=\"/blogs/dog-breeds/dachshund-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Dachshund puppy checklist</a> — ramp placement and insurance enrollment are the two items that matter most before the dog arrives.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "Do all Dachshunds get IVDD?", "a": "Not all, but a significant percentage do — estimated 19–25% over their lifetime. IVDD risk is meaningfully reduced by keeping the dog at a healthy weight, using ramps instead of letting them jump on/off furniture, and avoiding high-impact activities. It can't be eliminated, which is why pet insurance before the first vet visit is strongly recommended." },
+    { "q": "Are Dachshunds good with kids?", "a": "Better with older children who know how to handle small dogs carefully. Dachshunds can snap if startled, dropped, or grabbed by the spine — which is a real risk with toddlers. For households with children aged 8+, Dachshunds generally do well with proper introductions and ongoing supervision." },
+    { "q": "Why are Dachshunds so hard to housetrain?", "a": "Breeding history. Dachshunds were bred to work independently underground, making their own decisions without handler input. That independence shows up as stubbornness in housetraining. Consistent crate training, strict schedule, and positive reinforcement work — but it typically takes longer than most small breeds. Some Dachshund owners report imperfect indoor reliability persisting into adulthood, especially in cold or wet weather." },
+    { "q": "What is the difference between standard and miniature Dachshunds?", "a": "Size only: standards weigh 16–32 lbs, miniatures under 11 lbs. Temperament, health concerns, and care requirements are the same. Miniatures are more portable and slightly lower exercise-needing. Both sizes come in all three coat types." }
+  ],
+
+  "related_breeds": [
+    {"name": "Pembroke Welsh Corgi", "slug": "pembroke-welsh-corgi", "note": "Similar elongated spine and IVDD concerns, herding background"},
+    {"name": "Basset Hound", "slug": "basset-hound", "note": "Similar structure and independence, larger and lower energy"},
+    {"name": "Beagle", "slug": "beagle", "note": "Fellow hound, easier to housetrain, higher exercise needs"},
+    {"name": "Miniature Pinscher", "slug": "miniature-pinscher", "note": "Similar size and boldness, very different structure and health profile"}
+  ]
+}

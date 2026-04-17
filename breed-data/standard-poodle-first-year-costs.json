@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Standard Poodle First Year Costs",
+    "slug": "standard-poodle-first-year-costs",
+    "shopify_handle": "standard-poodle-first-year-costs",
+    "group": "Standard Poodle",
+    "size_category": "Guide",
+    "tags": ["standard-poodle", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "excerpt": "Standard Poodle first-year costs run $4,500–$9,500 including purchase price. Professional grooming every 6–8 weeks is the breed's primary recurring cost. The Standard Poodle's health profile requires insurance coverage for Addison's disease, bloat, and hip dysplasia.",
+    "meta_description": "Standard Poodle first year costs: puppy price $1,500–$4,000, mandatory professional grooming every 6-8 weeks, vet bills including OFA and thyroid screening, insurance for Addison's disease and GDV, and total first-year expense estimates."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Full_attention_%288067543690%29.jpg/330px-Full_attention_%288067543690%29.jpg",
+      "alt": "Standard Poodle first year costs"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "What Does a Standard Poodle Cost to Acquire?",
+      "html": "<p><strong>Puppy from a reputable breeder: $1,500–$4,000.</strong> The Standard Poodle is widely bred in both show and performance lines, with pricing reflecting the breeder's health testing investment and reputation. The Poodle Club of America maintains a breeder directory. Ask for OFA hip clearances, CAER eye certifications, cardiac evaluations, thyroid testing, and SA (sebaceous adenitis — a skin condition documented in the breed) testing. Standard Poodles from health-tested parents represent a significant investment in long-term health outcomes.</p><p><strong>Rescue adoption: $200–$500</strong> through Standard Poodle or general poodle rescue organizations. Rescue Standard Poodles are occasionally available — often dogs whose owners underestimated the grooming commitment.</p><p><strong>Initial setup costs: $350–$650</strong></p><ul><li>Large crate (42 inches): $80–$150</li><li>Orthopedic dog bed: $70–$140</li><li>Collar, harness, and leash: $60–$120</li><li>Grooming tools (slicker brush, pin brush, wide-tooth comb — for home maintenance between appointments): $60–$110</li><li>Bowls and slow-feeder: $40–$80</li></ul>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "First Year Ongoing Expenses",
+      "html": "<p><strong>Food: $600–$950 for the first year.</strong> Large breed dry food for a 40–70 lb dog. Budget $50–$80 per month. Feed twice daily — reduces bloat risk in this deep-chested breed. High-quality formulas appropriate for active dogs of this intelligence level.</p><p><strong>Veterinary care (first year): $500–$950</strong></p><ul><li>Initial wellness exam and puppy vaccination series: $150–$350</li><li>Spay or neuter: $200–$500 — discuss prophylactic gastropexy at this appointment; the Standard Poodle's deep chest creates GDV risk, and gastropexy at spay/neuter is strongly recommended</li><li>OFA hip pre-screening: $150–$300</li><li>CAER eye exam: $50–$100</li><li>SA (sebaceous adenitis) skin biopsy if indicated: $200–$400</li><li>Thyroid panel: $80–$150</li><li>Heartworm and parasite prevention: $120–$240/year</li></ul><p><strong>Pet insurance: $500–$1,100/year.</strong> Strongly recommended. The Standard Poodle has a specific documented health profile: Addison's disease (adrenal insufficiency — a serious hormonal condition requiring lifelong management), bloat/GDV, hip dysplasia, sebaceous adenitis, and thyroid disease. Insurance enrolled before the first vet visit — and critically, before any Addison's diagnosis — provides the broadest coverage.</p><p><strong>Professional grooming: $600–$1,200/year.</strong> This is the Standard Poodle's primary breed-specific cost and the largest single annual expense beyond food. At $80–$150 per session every 6–8 weeks, professional grooming is a fixed, permanent expense. The Poodle coat grows continuously and must be clipped — it is not optional maintenance. Owners who learn to clip at home reduce this significantly but require quality clippers and practice.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Costs",
+      "html": "<p><strong>First year total estimate: $4,500–$9,500</strong> (including purchase price). Professional grooming and insurance are the primary ongoing cost drivers.</p><p><strong>Annual ongoing costs after year one: $1,800–$3,500</strong></p><ul><li>Food: $600–$950</li><li>Routine vet care and preventives: $350–$650</li><li>Pet insurance: $500–$1,100</li><li>Professional grooming: $600–$1,200</li></ul><p><strong>Budget for potential additional costs:</strong></p><ul><li>Addison's disease management (if diagnosed): $500–$2,000+/year for lifelong hormone replacement and monitoring</li><li>GDV emergency surgery (if gastropexy not done): $3,000–$8,000 — this is why gastropexy at spay/neuter is strongly recommended</li><li>Hip dysplasia treatment: $2,000–$7,000 per joint in significant cases</li><li>Sebaceous adenitis treatment: $200–$800/year for ongoing management if diagnosed</li></ul><p>Over a 12–15 year lifespan, total ownership cost excluding purchase price is typically $22,000–$50,000 — driven significantly by mandatory professional grooming over a long life. The grooming cost accumulated over 14 years ($8,400–$16,800) makes home grooming skill acquisition the most impactful long-term cost reduction available to Standard Poodle owners.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "What is Addison's disease and why is it important in Standard Poodles?",
+      "a": "Addison's disease (hypoadrenocorticism) is an adrenal gland disorder in which the adrenal glands fail to produce adequate cortisol and aldosterone. The Standard Poodle has an elevated breed prevalence. Symptoms can be subtle and episodic, making diagnosis challenging — the condition is sometimes called 'the great imitator.' Treatment requires lifelong hormone replacement and monitoring. Insurance enrolled before diagnosis covers ongoing management costs; insurance enrolled after an Addison's diagnosis may exclude it as a pre-existing condition."
+    },
+    {
+      "q": "Should I discuss gastropexy for a Standard Poodle?",
+      "a": "Yes — at the first vet appointment. The Standard Poodle's deep chest creates real GDV/bloat risk. Adding a prophylactic gastropexy at spay/neuter costs $200–$500 and eliminates the fatal stomach rotation component of GDV. Emergency GDV surgery costs $3,000–$8,000 and must occur within hours of onset. Add this to the surgical plan at the first appointment."
+    },
+    {
+      "q": "Can I reduce Standard Poodle grooming costs by clipping at home?",
+      "a": "Yes — significantly. Quality clippers ($150–$350), the correct blade sizes, and scissors represent the tool investment. Learning a basic pet clip (not the elaborate show clips) is achievable with practice and instruction. Many Standard Poodle owners learn to clip their own dogs and reduce professional grooming to periodic trim-outs for the areas they find difficult. The cumulative savings over a 14-year lifespan are substantial."
+    }
+  ]
+}

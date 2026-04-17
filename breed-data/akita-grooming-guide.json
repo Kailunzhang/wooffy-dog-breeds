@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Akita Grooming Guide",
+    "slug": "akita-grooming-guide",
+    "shopify_handle": "akita-grooming-guide",
+    "group": "Akita",
+    "size_category": "Guide",
+    "tags": ["akita", "grooming", "double-coat", "shedding", "coat-blow"],
+    "published": true,
+    "published_at": "2026-04-16T16:00:00Z",
+    "excerpt": "Akita grooming is manageable most of the year — and intense twice a year during coat blows. The right tools and a consistent routine keep the double coat healthy and your home livable.",
+    "meta_description": "Akita grooming guide: undercoat rake technique, coat blow management, bathing a large independent breed, and maintaining the double coat without damaging it."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Akita_Collage.png/330px-Akita_Collage.png",
+      "alt": "Akita grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Akita Coat",
+      "heading": "Understanding the Akita Double Coat",
+      "html": "<p>The Akita has a thick double coat consisting of a soft, dense undercoat and a slightly harsh, straight outer coat. This combination provides excellent insulation and weather resistance — the coat functioned as protection in the cold mountains of northern Japan. Managing it properly means preserving this structure, not fighting it.</p><h3>Grooming Tools You'll Need</h3><ul><li>Undercoat rake — primary tool for removing loose undercoat</li><li>Slicker brush — for the outer coat and finishing</li><li>Wide-tooth steel comb — for checking for remaining tangles and mats</li><li>Deshedding tool (Furminator or similar) — useful during coat blows</li><li>Dog-safe shampoo and conditioner</li><li>High-velocity dryer (optional but highly recommended for coat blow season)</li></ul><h3>NEVER Shave an Akita</h3><p>Shaving a double-coated breed disrupts the insulating structure of the coat, impairs thermoregulation in both heat and cold, and can cause post-clipping alopecia — permanent patchy regrowth. The double coat is not warmer than no coat — it's a thermoregulation system that works in both directions. If an Akita seems hot, provide shade and water; do not shave.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly (Normal Periods)</h3><ul><li>Brush through the entire coat with an undercoat rake — work section by section, neck to tail, then legs</li><li>Follow with a slicker brush to smooth the outer coat</li><li>Check ears for odor, redness, or debris; wipe with a cotton ball dampened with ear cleaner</li><li>Check between paw pads and trim any excess hair</li></ul><h3>Monthly</h3><ul><li>Bathe every 6–8 weeks or when dirty. Use dog shampoo and a conditioner appropriate for double coats</li><li>Dry thoroughly — the thick undercoat holds moisture and can stay damp for hours, risking hot spots if not dried completely. A high-velocity dryer speeds this significantly</li><li>Trim nails — Akita nails are hard and thick. If you hear clicking on hard floors, the nails are too long. Overgrown nails affect gait and joint comfort in a large breed</li></ul><h3>Coat Blow Management (Twice Per Year)</h3><p>During shedding season, the undercoat releases in large clumps over 2–4 weeks. Daily brushing with the undercoat rake is required. Many Akita owners find a single thorough deshedding bath — soaking the coat, conditioner, rinse, and blowing out with a high-velocity dryer — removes most of the loose undercoat in one session and shortens the blow duration significantly.</p>"
+    },
+    "special": {
+      "label": "Grooming a Large Independent Breed",
+      "heading": "Handling an Akita for Grooming",
+      "html": "<p>Akitas are large, independent dogs that don't inherently enjoy being handled. Puppies that are handled consistently — touched all over, have ears checked, paws manipulated, body groomed — become manageable adults. Adults that haven't been habituated can resist grooming with their size and strength.</p><h3>Practical Tips</h3><ul><li>Start handling from day one. Every grooming interaction is also a handling exercise</li><li>Use high-value treats to associate grooming tools with positive outcomes</li><li>Work in sections rather than trying to groom the entire dog in one pass — shorter sessions are more productive than exhausting battles</li><li>A non-slip mat on the grooming surface reduces anxiety in most dogs</li><li>If the dog becomes genuinely aggressive during grooming — not just wiggly or uncooperative, but growling and snapping — work with a professional groomer experienced with working breeds until the behavior is addressed through training</li></ul><h3>Ear Care</h3><p>Check ears weekly. The pendant, triangular ear shape reduces airflow, and moisture or debris can accumulate. Signs of a problem: shaking the head, rubbing ears on furniture, odor, or redness. If you notice any of these, see your vet — ear infections need treatment, not just cleaning.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often do Akitas shed?",
+      "a": "Year-round at a moderate level, with two major coat blows per year (typically spring and fall). During coat blows, the undercoat releases dramatically for 2–4 weeks. Daily brushing during this period is required to manage the volume of loose fur."
+    },
+    {
+      "q": "Can I have my Akita professionally groomed?",
+      "a": "Yes — many professional groomers are experienced with double-coated breeds. Tell the groomer explicitly that the coat should not be cut, only brushed, bathed, and blown out. A groomer who shaves a double coat is causing real harm to the coat structure."
+    },
+    {
+      "q": "How do I dry an Akita after a bath?",
+      "a": "Thoroughly and completely — the dense undercoat can hold moisture for hours. Towel dry, then use a high-velocity pet dryer to blow out the undercoat while brushing. Without complete drying, the coat risks hot spots (moist dermatitis) especially in skin folds or the neck area. Air drying alone is insufficient for this coat type."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "name": "Norwegian Elkhound",
+    "slug": "norwegian-elkhound",
+    "shopify_handle": "norwegian-elkhound",
+    "group": "Hound Group",
+    "size_category": "Medium Breed",
+    "tagline": "An ancient Scandinavian spitz that hunted elk, bear, and reindeer for thousands of years. Confident, independent, loyal — and one of the heaviest-shedding breeds you can own.",
+    "tags": ["hound-group", "medium-breed", "spitz", "double-coat", "independent", "nordic-breed", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "The Norwegian Elkhound is an ancient hunting dog with a spitz personality: loyal and confident with family, independent and stubborn with commands, and vocal by nature. The double coat sheds dramatically — never shave it. PHPT is a breed-specific genetic condition to test for in breeding dogs.",
+    "meta_description": "Norwegian Elkhound breed guide: spitz independence, heavy double-coat shedding, NEVER shave the coat, Primary Hyperparathyroidism (PHPT) DNA test, hip dysplasia, and what an independent Nordic hound needs at home."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "48–55 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–15 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High (shedding)" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate–Challenging" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good with family" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Not ideal" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Elkhound2020_%28cropped%29.jpg/250px-Elkhound2020_%28cropped%29.jpg",
+      "alt": "Norwegian Elkhound"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Norwegian Elkhound?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Norwegian Elkhound is one of the oldest dog breeds in existence, with archaeological evidence of similar dogs in Scandinavia dating back over 6,000 years. They were bred to hunt elk, bear, and other large game by tracking and baying at the prey to hold it in place until the hunter arrived. The breed is classified in the AKC Hound Group but is fundamentally a spitz — the same family as the Samoyed, Siberian Husky, and Akita — with all the independence and self-reliance that implies.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Norwegian Elkhound is a medium-sized, sturdy dog with a dense silver-grey double coat, tightly curled tail, and pricked ears — the classic northern spitz silhouette. They are profoundly loyal to their family, alert and communicative, and willing to express opinions vocally.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The honest description of living with a Norwegian Elkhound: a dog that will love you completely, follow your household rules with varying enthusiasm, and shed more than you are prepared for. The coat alone is a significant lifestyle consideration.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Norwegian Elkhounds Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Compact and sturdy at 48–55 lbs, standing 19.5–20.5 inches. The coat is the defining visual feature: a thick double coat with a dense, woolly undercoat and a coarser, grey outer coat with lighter grey shading. The face and ears are darker; the saddle markings are darker grey. No other color variation is correct.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The tightly curled tail carried over the back, erect pricked ears, and dark almond eyes give the Elkhound a characteristic attentive, slightly serious expression. The body is square and compact with excellent bone and substance for the size. Built for endurance in cold, rough terrain.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family: loyal, affectionate, and watchful. Elkhounds bond strongly with their household and are alert to changes in their environment. They are naturally protective without being aggressive — more of a watchdog that communicates through barking than a dog that takes physical action.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The spitz independence: this is a dog that was bred to work without close direction from a human handler — to track, find, and hold large game independently. That independence translates to a dog that understands your request, considers it, and decides whether to comply. They are not disobedient in a reckless way; they are selective in a spitz way. This is not for owners who need automatic compliance.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The voice: Elkhounds communicate through barking. They bark to alert, to express excitement, to communicate boredom, and because barking was the primary function of a hunting dog holding prey at bay. This is not a quiet breed, and it cannot be trained into one entirely. Management through exercise and enrichment reduces nuisance barking, but the vocal nature is fundamental.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Norwegian Elkhound",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The shedding is real and it is significant. If you have not lived with a heavily double-coated breed, prepare yourself: twice a year, the undercoat releases in quantities that will fill vacuum canisters daily and coat every surface. During normal periods, the shedding is moderate but constant. If you want a dog and a hair-free home, these are incompatible goals with a Norwegian Elkhound.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The independence is also worth being direct about. Elkhounds are not difficult dogs, but they are not golden retrievers. They do not live to please you. They live alongside you with affection and loyalty, and they will do what you ask when they agree it's reasonable. Experienced owners with a patient, consistent approach find them deeply rewarding. Owners who expect automatic obedience find them frustrating.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">If you can handle the coat and the independent personality, Norwegian Elkhounds are beautiful, healthy (12–15 year lifespan), and genuinely devoted dogs. The PHPT genetic test is specific to this breed and important for anyone buying from a breeder — ask for it.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes daily. Elkhounds are athletic and were built for working over rough terrain all day — they have real energy. They enjoy hiking, running, and exploration. Cold weather is fine (the double coat was designed for it); hot weather requires extra management — exercise in cooler hours and ensure access to shade and water. Off-leash in enclosed areas is suitable; open areas require a leash given the hunting instinct.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The double coat sheds heavily and MUST NOT BE SHAVED. Shaving a double coat destroys the thermoregulation structure and can cause permanent coat damage. Weekly brushing with an undercoat rake during normal periods; daily brushing during the two annual coat blows is required. See the <a href=\"/blogs/dog-breeds/norwegian-elkhound-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Norwegian Elkhound grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Positive reinforcement works best — punishment-based approaches produce shutdown or stubbornness. Keep sessions short and varied; Elkhounds disengage from repetitive training quickly. Establish household rules from puppyhood. Accept that this dog will make independent judgments sometimes; manage for that rather than trying to eliminate it entirely.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Norwegian Elkhounds are generally healthy with an excellent 12–15 year lifespan. The breed has one specific genetic condition — Primary Hyperparathyroidism — for which a DNA test is available.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Primary Hyperparathyroidism (PHPT)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">A breed-specific condition involving overactive parathyroid glands causing elevated calcium levels. Can lead to kidney disease, urinary stones, and other complications. A DNA test is available; reputable breeders screen for it. Dogs with two copies of the mutation should not be bred. Ask breeders specifically for PHPT DNA test results.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Joint malformation causing pain and arthritis. OFA screening available. Ask breeders for clearances.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited degeneration of the retina leading to blindness. DNA test available; CAER eye exam recommended.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Underactive thyroid — manageable with daily medication. OFA thyroid clearance available. Relatively common in the breed.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA thyroid, CAER eye exam, PRA DNA test, and PHPT DNA test results.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,000–$2,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium-large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$550</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Grooming tools (undercoat rake, etc.)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$100–$200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,600–$4,900</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,400–$2,500</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/norwegian-elkhound-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Norwegian Elkhound first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Norwegian Elkhound Right for You?",
+      "good_fit": [
+        "Owners who have lived with or researched heavily double-coated breeds and accept the shedding",
+        "Active households that can provide 60–90 minutes of daily exercise",
+        "Experienced dog owners comfortable with independent, spitz-type personalities",
+        "Cold-climate households — the Elkhound thrives in the cold",
+        "Owners who value a loyal, watchful dog with genuine character"
+      ],
+      "not_fit": [
+        "Anyone who wants a hair-free home — this is incompatible with the Norwegian Elkhound",
+        "First-time dog owners who haven't researched spitz independence",
+        "Owners in very hot climates (manageable but requires care)",
+        "People who want a quiet dog — Elkhounds communicate through barking",
+        "Anyone who would consider shaving the coat for heat management"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Norwegian Elkhound",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,000–$2,000 from reputable breeders. The Norwegian Elkhound Association of America maintains a breeder directory. Ask for: OFA hip, OFA thyroid, CAER eye exam, PRA DNA test, and PHPT DNA test. The PHPT test is specific to this breed and important.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Norwegian Elkhound Association of America operates a rescue program. Dogs typically enter rescue from owners who underestimated the shedding or the exercise requirements. An experienced dog owner may find a rescue Elkhound an excellent match.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Elkhound comes home, complete the <a href=\"/blogs/dog-breeds/norwegian-elkhound-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Norwegian Elkhound puppy checklist</a> — grooming tools and a deshedding plan before the first coat blow are priority items.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "Do Norwegian Elkhounds really shed that much?", "a": "Yes — more than most people are prepared for. The dense double coat sheds moderately year-round and dramatically twice per year during seasonal coat blows. During a coat blow, the undercoat releases in large amounts over 2–4 weeks; daily brushing and regular deshedding baths are required to manage it. A household with a Norwegian Elkhound will have dog hair on every surface. This is not an exaggeration." },
+    { "q": "Can I shave my Norwegian Elkhound in summer?", "a": "No — and this is important. Shaving a double-coated breed removes the insulating structure that regulates temperature in both heat and cold. The double coat actually protects against heat by blocking solar radiation and allowing airflow near the skin. Shaving causes post-clipping alopecia risk (abnormal coat regrowth), removes thermoregulation, and can cause sunburn. Manage summer heat through exercise timing, shade, and water — not shaving." },
+    { "q": "What is PHPT in Norwegian Elkhounds?", "a": "Primary Hyperparathyroidism (PHPT) is a breed-specific inherited condition causing overactive parathyroid glands and elevated blood calcium. Over time it causes kidney disease, urinary stones, and other complications. A DNA test is available. Responsible breeders test both parents before breeding. Ask any Norwegian Elkhound breeder specifically for PHPT DNA test results for both parents — a dog with two copies of the mutation should not be bred." }
+  ],
+
+  "related_breeds": [
+    {"name": "Siberian Husky", "slug": "siberian-husky", "note": "Similar Nordic spitz type, higher energy, different use (sled dog), heavier shedding"},
+    {"name": "Samoyed", "slug": "samoyed", "note": "Related northern spitz, white coat, friendly and outgoing, very heavy shedder"},
+    {"name": "Shiba Inu", "slug": "shiba-inu", "note": "Smaller Japanese spitz — similar independence and clean-natured personality"},
+    {"name": "Alaskan Malamute", "slug": "alaskan-malamute", "note": "Much larger Nordic breed, powerful, independent, similarly heavy double coat"}
+  ]
+}

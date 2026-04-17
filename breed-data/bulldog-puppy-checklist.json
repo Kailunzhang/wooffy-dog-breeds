@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Bulldog",
+    "shopify_handle": "bulldog-puppy-checklist",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "name": "Bulldog Puppy Checklist: What to Do Before and After Bringing One Home",
+    "slug": "bulldog-puppy-checklist",
+    "excerpt": "A practical checklist for new English Bulldog owners — covering AC requirements, daily wrinkle cleaning, BOAS evaluation, and outdoor temperature limits.",
+    "meta_description": "A practical checklist for new English Bulldog owners — covering AC requirements, daily wrinkle cleaning, BOAS evaluation, and outdoor temperature limits.",
+    "tags": [
+      "Bulldog",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bulldog_inglese.jpg/330px-Bulldog_inglese.jpg",
+      "alt": "English Bulldog"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before the Puppy Arrives",
+      "heading": "Non-Negotiable Preparations Before Your Bulldog Comes Home",
+      "html": "<h3>Air Conditioning: Essential Safety Infrastructure</h3><p>English Bulldogs cannot tolerate heat. Their severely restricted airways make it physiologically difficult to cool down through panting, and they can progress from overheated to heat stroke with alarming speed. Before bringing your puppy home, confirm that your home has reliable air conditioning for warm months. This is not a comfort option — it is safety infrastructure for this breed. A Bulldog in a home without AC on a 75°F (24°C) day is at risk.</p><h3>Temperature Rule: No Outdoor Exercise Above 70°F</h3><p>Establish this rule before the puppy arrives, so it is part of the normal routine from day one: no outdoor exercise when the temperature exceeds 70°F (21°C). Short potty breaks are fine. Extended walks, play sessions, or any sustained outdoor activity in warm weather is not. Morning and evening outdoor time in summer; indoor enrichment during the heat of the day.</p><h3>Fold Care Supplies: Have Everything Ready</h3><ul><li>Unscented pet-safe wipes (or medicated wipes recommended by your vet)</li><li>Cotton rounds for fold drying</li><li>Gentle pet-safe fold cleanser if recommended</li><li>These should be on the counter and ready before pickup day — the cleaning routine starts from day one</li></ul><h3>Gear Checklist</h3><ul><li>Medium crate with cool, washable bedding</li><li>Harness for walking — never a collar on a brachycephalic dog</li><li>Small food and water bowls</li><li>Dog-safe enzymatic toothpaste and finger brush</li><li>Cooling mat for warm weather (optional but useful)</li><li>Baby gates for management</li><li>Enzymatic cleaner</li><li>Pet insurance enrolled before first vet visit</li></ul>"
+    },
+    "care": {
+      "label": "First Weeks at Home",
+      "heading": "First Vet Visit and Establishing the Daily Routine",
+      "html": "<h3>First Vet Appointment (Within 48 Hours of Pickup)</h3><ul><li>Full physical exam and vaccine status review</li><li><strong>BOAS evaluation:</strong> Ask your vet to assess nostril openings, breathing quality, and soft palate length. Even if surgery is not immediately needed, establish a baseline and discuss what to monitor. Some vets recommend early intervention on severely stenotic nares in puppies to prevent downstream strain on the airway.</li><li>Set vaccination and deworming schedule</li><li>Discuss spay/neuter timing and any consideration of gastropexy (Bulldogs are also susceptible to GDV despite their squat build)</li><li>Get instruction on the correct fold cleaning and drying technique</li><li>Confirm temperature safety guidelines for your specific climate</li><li>Discuss heartworm prevention — Bulldogs under significant BOAS stress may react poorly to some heartworm preventives; discuss appropriate options with your vet</li></ul><h3>Start Daily Fold Cleaning From Day One</h3><p>Do not delay starting the fold cleaning routine — even if the folds look clean on day one. Establishing the habit immediately means it becomes automatic. Work through each fold: open gently, wipe inside, dry completely. Cover the nose rope, all facial wrinkles, and the tail pocket. Do this every morning. Pair with tooth brushing and eye cleaning so the full routine is done together in 5 minutes.</p>"
+    },
+    "special": {
+      "label": "Long-Term Management",
+      "heading": "Managing a Bulldog's Health Over a Lifetime",
+      "html": "<h3>Weight Management Is Critical</h3><p>Excess weight dramatically worsens BOAS symptoms in a breed already working hard to breathe. Keep your Bulldog lean throughout its life. Measured feeding — not free feeding — and structured meal times prevent the easy weight gain this breed is prone to. Work with your vet to identify and maintain ideal body weight. A lean Bulldog breathes significantly better than an overweight one.</p><h3>Allergy Awareness</h3><p>English Bulldogs have elevated rates of environmental and food allergies, which often manifest as skin fold infections, ear infections, and paw licking. If your dog has recurrent fold infections despite consistent cleaning, recurring ear infections, or chronic paw chewing, discuss allergy testing with your vet. Managing the underlying allergies often resolves the secondary skin and ear issues.</p><h3>Regular Veterinary Monitoring</h3><p>Annual vet visits for Bulldogs should include assessment of airway status (particularly as the dog ages), skin fold and tail pocket inspection, dental evaluation, cardiac auscultation, and joint assessment. This breed benefits from a vet who is familiar with brachycephalic conditions and can monitor the interaction of multiple structural issues over time.</p><ul><li>Daily fold, nose rope, and tail pocket cleaning — every day</li><li>No outdoor exercise above 70°F (21°C)</li><li>AC access at all times in warm weather</li><li>Harness only for walking</li><li>Weight management throughout life — this directly affects breathing quality</li><li>BOAS evaluation at every annual vet visit</li></ul>"
+    }
+  },
+  "faq": [
+    {
+      "q": "What temperature is too hot for an English Bulldog?",
+      "a": "Sustained outdoor exercise should not happen at temperatures above 70°F (21°C) for an English Bulldog. Even brief outdoor exposure at higher temperatures should be monitored carefully. Heat stroke symptoms in Bulldogs — laboured breathing, excessive drooling, bright red gums, weakness, collapse — require immediate veterinary emergency treatment. Air conditioning in the home is non-negotiable for this breed."
+    },
+    {
+      "q": "When should I talk to the vet about BOAS surgery for my Bulldog?",
+      "a": "At the very first vet appointment. Ask for an airway assessment as part of the initial exam. If the vet identifies significantly stenotic nares, early intervention may be recommended — nostrils can be widened in a short procedure that, if done early, prevents the cumulative strain on the airway that worsens other BOAS components over time. Do not wait until breathing problems are severe before having this conversation."
+    },
+    {
+      "q": "Do I really need to clean a Bulldog's wrinkles every single day?",
+      "a": "Yes. The deep skin folds on an English Bulldog's face, nose, and tail area will develop bacterial or yeast infections within days of inconsistent cleaning — not weeks. Skin fold dermatitis causes pain, odor, and requires veterinary treatment with antibiotics or antifungals to clear. Daily cleaning and thorough drying takes 3–5 minutes and prevents a condition that will otherwise recur throughout the dog's life if neglected."
+    }
+  ]
+}

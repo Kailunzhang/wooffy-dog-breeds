@@ -1,0 +1,245 @@
+import json, os, sys
+sys.stdout.reconfigure(encoding='utf-8')
+
+BREED_DATA = 'breed-data'
+
+CARD_STYLE = 'background:#ffffff;border:1px solid rgba(0,0,0,0.08);border-radius:12px;overflow:hidden;'
+IMG_STYLE = 'width:100%;height:200px;object-fit:cover;display:block;'
+PAD_STYLE = 'padding:16px;'
+H3_STYLE = 'font-size:1em;font-weight:700;color:#1a1a1a;margin:0 0 8px 0;'
+TAGS_STYLE = 'display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px;'
+SPAN_STYLE = "font-family:'figmaMono','SF Mono',monospace;font-size:0.65em;background:#f0f0f0;border-radius:20px;padding:3px 10px;color:#555;"
+P_STYLE = 'font-size:0.85em;line-height:1.6;color:#6b7177;margin:0 0 12px 0;'
+A_STYLE = 'font-size:0.8em;font-weight:600;color:#000000;text-decoration:underline;text-underline-offset:3px;'
+
+FALLBACK_IMG = 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/YellowLabradorLooking_new.jpg/330px-YellowLabradorLooking_new.jpg'
+
+def read_breed(slug):
+    path = os.path.join(BREED_DATA, f'{slug}.json')
+    if not os.path.exists(path):
+        print(f'  WARNING: {slug}.json not found')
+        return None
+    with open(path, encoding='utf-8') as f:
+        return json.load(f)
+
+def get_stat(stats, key, fallback=''):
+    v = stats.get(key, fallback)
+    if isinstance(v, dict):
+        return v.get('value', fallback)
+    return v if v else fallback
+
+def make_card(breed_name, slug, desc):
+    d = read_breed(slug)
+    if d:
+        img_url = d['images']['hero']['url']
+        stats = d.get('stats', {})
+        # Handle both old format (plain strings) and new format (dicts with value key)
+        size = get_stat(stats, 'size') or get_stat(stats, 'size_category') or 'Medium'
+        lifespan_raw = get_stat(stats, 'lifespan') or '10-12 yrs'
+        energy = get_stat(stats, 'exercise') or get_stat(stats, 'energy_level') or 'Moderate'
+    else:
+        img_url = FALLBACK_IMG
+        size = 'Medium'
+        lifespan_raw = '10-12 yrs'
+        energy = 'Moderate'
+
+    # Normalize lifespan tag
+    lifespan_tag = lifespan_raw.replace(' years','').replace(' year','').strip()
+    if 'lifespan' not in lifespan_tag.lower() and 'yr' not in lifespan_tag.lower():
+        lifespan_tag = lifespan_tag + ' yr lifespan'
+    elif 'lifespan' not in lifespan_tag.lower():
+        lifespan_tag = lifespan_tag + ' lifespan'
+
+    c = f'<div style="{CARD_STYLE}">'
+    c += f'<img src="{img_url}" alt="{breed_name}" style="{IMG_STYLE}">'
+    c += f'<div style="{PAD_STYLE}">'
+    c += f'<h3 style="{H3_STYLE}">{breed_name}</h3>'
+    c += f'<div style="{TAGS_STYLE}">'
+    c += f'<span style="{SPAN_STYLE}">{size}</span>'
+    c += f'<span style="{SPAN_STYLE}">{energy}</span>'
+    c += f'<span style="{SPAN_STYLE}">{lifespan_tag}</span>'
+    c += '</div>'
+    c += f'<p style="{P_STYLE}">{desc}</p>'
+    c += f'<a href="/blogs/dog-breeds/{slug}" style="{A_STYLE}">Full guide \u2192</a>'
+    c += '</div></div>'
+    return c
+
+def make_grid(cards):
+    return '<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">' + ''.join(cards) + '</div>'
+
+ROUNDUPS = {
+'best-dogs-for-cold-climates': [
+  ('Siberian Husky','siberian-husky','Developed by the Chukchi people to pull sleds across Arctic tundra, the Siberian Husky thrives in sub-zero temperatures. Their dense double coat insulates against extreme cold, and their high endurance makes them exceptional working dogs in winter climates. They are sociable and energetic, requiring substantial daily exercise.'),
+  ('Alaskan Malamute','alaskan-malamute','Larger and more powerful than the Husky, the Alaskan Malamute was bred to haul heavy freight through Arctic snow. Their extraordinarily thick double coat enables them to sleep comfortably in temperatures well below freezing. Malamutes are affectionate with family but require an experienced owner.'),
+  ('Samoyed','samoyed',"The Samoyed's brilliant white coat isn't just beautiful\u2014it's a highly functional insulating layer developed over millennia in the Siberian tundra. Used by the Samoyedic peoples for herding reindeer and pulling sleds, Sammies are famously gentle and good-natured year-round companions."),
+  ('Norwegian Elkhound','norwegian-elkhound','One of the oldest Scandinavian breeds, the Norwegian Elkhound has hunted alongside Vikings for thousands of years. Its thick silver-grey double coat provides excellent protection against Scandinavian winters. Bold, energetic, and deeply loyal.'),
+  ('Finnish Lapphund','finnish-lapphund','Developed by the Sami people to herd reindeer in the Arctic, the Finnish Lapphund has a lush double coat that keeps it comfortable in extreme cold. They are agile on snow and ice, remarkably gentle with family, and highly adaptable as household companions.'),
+  ('Great Pyrenees','great-pyrenees','Bred in the mountains between France and Spain to guard livestock against wolves and bears, the Great Pyrenees has a dense weather-resistant white double coat designed for alpine conditions. Calm, authoritative, and nocturnal by nature, they prefer cool temperatures over warm ones.'),
+  ('Bernese Mountain Dog','bernese-mountain-dog','Originating from the Swiss Alps, the Bernese Mountain Dog was used as a draft animal and farm guardian in cold mountain terrain. Their long, silky tricolor coat provides warmth. Berners are famously gentle giants especially devoted to children.'),
+  ('Akita','akita',"Japan's national dog was bred in the cold, mountainous Akita prefecture to hunt large game. Their plush double coat and powerful build reflect adaptation to a harsh northern climate. Fiercely loyal to their family, Akitas are natural guardians that thrive in cooler weather."),
+  ('Saint Bernard','saint-bernard','Bred by Alpine monks to rescue travelers lost in mountain snowstorms, the Saint Bernard has a massive build and dense coat suited to cold, snowy environments. Famous for patience, gentleness, and calm temperament\u2014one of the great family giants.'),
+  ('Icelandic Sheepdog','icelandic-sheepdog',"Iceland's only native breed, brought by Norse settlers over 1,000 years ago and herding sheep in volcanic, windswept conditions ever since. Their double coat provides protection from the cold, damp Icelandic climate. Cheerful, curious, and highly energetic."),
+],
+'best-terrier-breeds': [
+  ('Airedale Terrier','airedale-terrier','The largest of all terrier breeds, the Airedale is known as the King of Terriers. Originally bred in Yorkshire for hunting otter and rat, they are intelligent, confident, and versatile\u2014excelling in everything from police work to family companionship. Their wiry double coat requires regular hand-stripping or clipping.'),
+  ('Scottish Terrier','scottish-terrier',"The Scottie's distinctive silhouette and independent spirit have made it one of the most recognizable terrier breeds worldwide. Bold, dignified, and deeply loyal to their family, Scotties are reserved with strangers and possess the classic terrier determination in compact form."),
+  ('West Highland White Terrier','west-highland-white-terrier','Westies are among the most popular small breeds: confident, friendly, and adaptable without losing the feisty terrier spirit. Originally bred to hunt foxes and badgers in Scottish Highland terrain, they bring genuine working-dog toughness in a small, bright-white package.'),
+  ('Bull Terrier','bull-terrier',"The Bull Terrier's egg-shaped head and muscular build make it one of the most distinctive breeds in the world. Despite their tough appearance, they are affectionate and clownish family dogs with a strong sense of humor. Athletic and playful, they need consistent training and regular exercise."),
+  ('Cairn Terrier','cairn-terrier','One of the oldest working terrier breeds, developed in the Scottish Highlands to flush foxes and vermin from rocky cairns. Tenacious, curious, and cheerful, they are excellent family companions who remain surprisingly sturdy despite their small size. Toto from The Wizard of Oz was a Cairn Terrier.'),
+  ('Wire Fox Terrier','wire-fox-terrier','The Wire Fox Terrier has won Best in Show at Westminster more times than any other breed. Bold and curious with a strong prey drive, they were bred to bolt foxes from their dens. Their dense wiry coat requires hand-stripping to maintain proper texture and shape.'),
+  ('Welsh Terrier','welsh-terrier','One of the oldest Welsh breeds, the Welsh Terrier offers terrier spirit with a somewhat calmer edge than many of its relatives. Their classic black-and-tan wiry coat and spirited personality make them appealing companions for active families who want a manageable terrier.'),
+  ('Norfolk Terrier','norfolk-terrier','One of the smallest working terriers, with drop ears that distinguish it from the nearly identical Norwich Terrier. Gregarious, adaptable, and surprisingly hardy for their size, they make excellent family companions while retaining genuine terrier gameness for outdoor activities.'),
+  ('Lakeland Terrier','lakeland-terrier','Bred in the Lake District to protect sheep from foxes, the Lakeland Terrier is bold, confident, and independent. One of the oldest working terrier breeds still recognized, they are remarkably successful in the show ring and make spirited, affectionate family companions.'),
+  ('Kerry Blue Terrier','kerry-blue-terrier',"Ireland's national dog is distinguished by its distinctive blue-gray wavy coat\u2014puppies are born black and gradually change color by 18 months. A versatile working breed used for herding, hunting, and retrieving, they are intelligent, loyal, and low-shedding companions."),
+],
+'best-hunting-dog-breeds': [
+  ('Labrador Retriever','labrador-retriever',"The world's most popular breed is also one of its finest gun dogs. Labs were developed in Newfoundland to retrieve waterfowl, and their soft mouths, webbed feet, and water-resistant coat make them exceptional in the field. Equally celebrated for their gentle, trainable temperament at home."),
+  ('Golden Retriever','golden-retriever','Developed in the Scottish Highlands to retrieve shot game from land and water, Golden Retrievers combine superior athleticism with an eagerness to please. Their soft mouth, endurance, and nose make them reliable upland and waterfowl hunters and beloved family dogs.'),
+  ('Beagle','beagle',"The Beagle's extraordinary sense of smell and musical voice have made it a premier scent hound for centuries. Originally bred to hunt rabbits and hare in packs, they are tireless in the field and equally cheerful at home. Their compact size and friendly nature make them ideal small hunting companions."),
+  ('Vizsla','vizsla',"Hungary's golden pointer is one of the most versatile gun dogs in the world\u2014pointing, flushing, and retrieving with equal skill on land and in water. Vizslas are also uniquely affectionate, forming tight bonds with their owners and excelling as sensitive, energetic household companions."),
+  ('Weimaraner','weimaraner','The Grey Ghost was developed by German nobility for big-game and bird hunting. Weimaraners are powerful, fast, and fearless with exceptional scenting ability. Their sleek silver-grey coat and striking amber eyes make them one of the most distinctive sporting breeds.'),
+  ('German Shorthaired Pointer','german-shorthaired-pointer','The German Shorthaired Pointer is one of the most versatile hunting dogs ever developed\u2014pointing upland birds, tracking wounded game, and retrieving from water with equal proficiency. Athletic, intelligent, and driven, they are the choice of serious hunters who also want a loyal family companion.'),
+  ('Brittany','brittany','The Brittany is the most popular bird dog in France and one of the finest upland gun dogs in North America. Compact, energetic, and easily trainable, they point and retrieve with exceptional drive. Their size makes them manageable in the field and at home.'),
+  ('English Springer Spaniel','english-springer-spaniel','The English Springer Spaniel has been flushing and retrieving game for English hunters for centuries. Fast, athletic, and with an exceptional nose, they excel at flushing birds from cover and retrieving on land and water. Their friendly, trainable temperament makes them excellent family dogs too.'),
+  ('Bloodhound','bloodhound',"No dog on Earth has a nose that compares to the Bloodhound. Their scenting ability is so reliable that Bloodhound trails are admissible as evidence in court. Originally bred to track deer and boar over long distances, they are now used primarily for tracking lost persons and fugitives."),
+  ('Rhodesian Ridgeback','rhodesian-ridgeback','Originally bred in southern Africa to hunt lions alongside human hunters, the Rhodesian Ridgeback is athletic, courageous, and powerfully built. They hold game at bay rather than retrieve, making them a unique type of hunting hound. The distinctive ridge of reversed hair along the spine is the breed trademark.'),
+],
+'best-hypoallergenic-dog-breeds': [
+  ('Standard Poodle','standard-poodle',"The Poodle's curly, non-shedding coat made it a natural choice for those with allergies, but the breed's intelligence and trainability are equally impressive. Originally a water retriever, the Standard Poodle is one of the most capable and adaptable breeds across dog sports, therapy work, and family life."),
+  ('Portuguese Water Dog','portuguese-water-dog',"The Portuguese Water Dog's wavy or curly coat sheds minimally, making it a popular choice for allergy sufferers. Bred to work alongside fishermen off the Portuguese coast, they are athletic, intelligent, and highly trainable with a strong affinity for water and an enthusiastic work ethic."),
+  ('Bichon Frise','bichon-frise',"The Bichon Frise's fluffy white coat produces minimal shedding and low dander, making it one of the most allergy-friendly small breeds. Cheerful, adaptable, and endlessly affectionate, Bichons are ideal companions for apartment dwellers and families who want a social, low-shedding dog."),
+  ('Maltese','maltese',"The Maltese's long, silky coat is single-layered and sheds almost nothing, making it exceptionally friendly for allergy sufferers. This ancient companion breed from Malta has been prized for centuries for its gentle, affectionate temperament and manageable size in any living environment."),
+  ('Soft Coated Wheaten Terrier','soft-coated-wheaten-terrier',"The Wheaten's soft, silky coat sheds minimally compared to most dogs, making it a practical choice for mild allergy sufferers. An all-purpose Irish farm dog, Wheatens balance terrier energy and independence with genuine affection and an adaptable temperament suited to active families."),
+  ('Kerry Blue Terrier','kerry-blue-terrier',"The Kerry Blue's distinctive wavy coat is low-shedding and produces less dander than many breeds, making it a reasonable choice for allergy sufferers. Ireland's national dog is intelligent, loyal, and versatile\u2014formerly used for herding, hunting, and retrieving across the Irish countryside."),
+  ('Lagotto Romagnolo','lagotto-romagnolo',"The Lagotto's thick, curly coat is woolly in texture and sheds very little, making it one of the more allergy-friendly medium breeds. Originally bred as a water retriever in the Italian Romagna region, they are now world-famous as truffle hunters, combining an extraordinary nose with eager trainability."),
+  ('Spanish Water Dog','spanish-water-dog',"The Spanish Water Dog's curly, woolly coat forms natural cords that are low-shedding and hypoallergenic by nature. A versatile working breed from the Iberian Peninsula used for herding, hunting, and fishing assistance. Athletic, intelligent, and loyal to their family."),
+  ('Xoloitzcuintli','xoloitzcuintli','The Xolo is one of the world\'s oldest and rarest breeds, and the hairless variety is essentially allergen-free with no coat to trap dander or shed. Mexico\'s national dog comes in three sizes and two varieties\u2014hairless and coated\u2014and is a loyal, calm, and dignified companion.'),
+  ('Chinese Crested','chinese-crested','The hairless Chinese Crested produces minimal dander and has no coat to shed, making it among the most hypoallergenic breeds available. Affectionate and social, they form close bonds with their owners. The hairless variety requires sunscreen and skin care, while the Powder Puff has a full soft coat.'),
+],
+'best-small-dog-breeds': [
+  ('Chihuahua','chihuahua',"The world's smallest breed packs enormous personality into a tiny frame. Chihuahuas are loyal and bold, often unaware of their small size, and form intensely close bonds with their owners. Their small size makes them ideal apartment dogs, though they require early socialization."),
+  ('French Bulldog','french-bulldog','The French Bulldog has become one of the most popular breeds in the world: affectionate, adaptable, and low-energy enough for apartment living. Their bat ears and compact muscular build are immediately recognizable. As a brachycephalic breed, they do best in moderate temperatures.'),
+  ('Pomeranian','pomeranian','Descended from large Arctic sled dogs, the Pomeranian is a confident, lively toy breed with a magnificent double coat and a foxy face. They are alert, curious, and surprisingly bold for their size\u2014excellent watchdogs and enthusiastic companions that adapt well to apartment life.'),
+  ('Yorkshire Terrier','yorkshire-terrier',"The Yorkshire Terrier's long, silky coat makes it one of the most glamorous toy breeds, yet underneath is a true terrier\u2014feisty, bold, and independent. Originally bred to catch rats in Yorkshire mills, Yorkies are now beloved companions that carry their terrier heritage with pride."),
+  ('Shih Tzu','shih-tzu','Bred for centuries as a companion to Chinese royalty, the Shih Tzu is gentle, affectionate, and supremely adaptable to indoor life. Their long flowing coat requires daily maintenance, though many owners keep them in a practical puppy clip. Friendly with everyone, they suit families and seniors alike.'),
+  ('Cavalier King Charles Spaniel','cavalier-king-charles-spaniel','The Cavalier is one of the most gentle and affectionate small breeds\u2014a true lapdog with a sweet, trusting temperament that suits almost any household. Their silky coat and expressive eyes make them irresistible, and their calm nature makes them ideal for owners of all experience levels.'),
+  ('Maltese','maltese','One of the oldest toy breeds in the world, the Maltese has been a prized companion for over two millennia. Their long, flowing white coat is single-layered and low-shedding. Gentle, responsive, and affectionate, they thrive on close human companionship and adapt well to any living situation.'),
+  ('Pug','pug',"The Pug's wrinkled face and compact build have made it one of the most recognizable and beloved small breeds. Even-tempered, charming, and sociable, Pugs get along with nearly everyone. As a brachycephalic breed, they need protection from heat and their facial wrinkles require regular cleaning."),
+  ('Boston Terrier','boston-terrier','The Boston Terrier\u2014the American Gentleman\u2014combines a tuxedo-like coat pattern with a friendly, adaptable temperament. Intelligent and enthusiastic, they are easy to train and thrive in urban environments. Their compact size, moderate energy, and affectionate nature make them excellent first-time owner dogs.'),
+  ('Papillon','papillon','Named for their butterfly-shaped ears, the Papillon is one of the most trainable toy breeds and a consistent agility champion. Alert, curious, and surprisingly athletic for their size, they are energetic companions who excel in dog sports and thrive on mental stimulation.'),
+],
+'best-dogs-for-seniors': [
+  ('Cavalier King Charles Spaniel','cavalier-king-charles-spaniel','The Cavalier is often considered the ideal senior dog\u2014gentle, affectionate, and content to match their owner\'s pace. They adapt effortlessly to apartment or house living and are deeply loyal companions who thrive on closeness. Their moderate exercise needs and sweet temperament make them endlessly suitable for quieter households.'),
+  ('Maltese','maltese',"The Maltese's gentle, responsive nature and compact size make it a natural fit for seniors. They require minimal exercise, shed almost nothing, and form close bonds with their primary person. Their long flowing coat can be kept in a practical puppy trim to reduce daily maintenance."),
+  ('Shih Tzu','shih-tzu','The Shih Tzu was bred specifically to be a companion\u2014they have no working background, only centuries of being loved. Calm, affectionate, and happy with moderate daily walks, they adapt well to apartment life and get along easily with other pets and people of all ages.'),
+  ('Standard Poodle','standard-poodle','Poodles of all sizes offer intelligence, trainability, and low-shedding coats\u2014qualities that make them particularly appealing for seniors. They are intuitive companions who sense their owner\'s emotional state. The Standard Poodle offers a gentle, sensitive temperament in a medium-to-large frame.'),
+  ('Bichon Frise','bichon-frise',"The Bichon Frise's cheerful disposition, low-shedding coat, and adaptable size make it a consistently popular choice for older adults. They are social and affectionate without being demanding, tolerate apartment living well, and bring a reliable warmth to daily routines."),
+  ('Cocker Spaniel','cocker-spaniel',"The Cocker Spaniel's gentle, merry temperament and moderate exercise needs make it well-suited to seniors who enjoy daily walks. They are devoted companions with expressive eyes and a naturally sweet disposition. Their silky coat requires regular grooming, which many senior owners find enjoyable."),
+  ('Basset Hound','basset-hound',"The Basset Hound's low-energy, easygoing nature makes it ideal for seniors who want canine companionship without high exercise demands. Patient, gentle, and content with moderate daily walks, they are loyal companions who particularly enjoy a calm household routine."),
+  ('Pug','pug','Pugs are affectionate, adaptable, and entertaining companions well-suited to seniors. Their low exercise requirements, love of comfort, and sociable temperament make them easy to manage in smaller living spaces. Their comical expressions and gentle nature bring reliable joy to daily life.'),
+  ('Pembroke Welsh Corgi','pembroke-welsh-corgi','The Pembroke Welsh Corgi offers more activity and trainability than most small breeds without being overwhelming. Intelligent and eager to please, they are responsive companions who enjoy daily walks and mental engagement. Their manageable size and loyalty make them excellent senior companions.'),
+  ('Havanese','havanese',"Cuba's national dog is one of the most reliably gentle and adaptable small breeds. Havanese thrive on companionship, adapt well to indoor living, and are consistently gentle with everyone they meet. Their silky coat requires regular grooming, but their cheerful, easy temperament is well worth the upkeep."),
+],
+'best-herding-dog-breeds': [
+  ('Border Collie','border-collie','Widely regarded as the most intelligent dog breed, the Border Collie was developed in the Anglo-Scottish border region to herd sheep with intense focus and precise control. Their famous stare and extraordinary trainability make them the top choice for competitive dog sports, but they require extensive daily mental and physical stimulation.'),
+  ('German Shepherd','german-shepherd-dog','The German Shepherd is one of the most versatile working breeds in the world\u2014excelling in police work, military service, search and rescue, and herding. Intelligent, loyal, and highly trainable, they are devoted family protectors. Their double coat requires regular brushing and they shed considerably year-round.'),
+  ('Australian Shepherd','australian-shepherd','Despite the name, the Australian Shepherd was developed in the American West as a versatile ranch dog. Highly intelligent and energetic, they excel at herding, agility, and obedience competitions. Aussies form close bonds with their families and need active owners who can provide substantial daily exercise and mental challenge.'),
+  ('Belgian Malinois','belgian-malinois',"The Belgian Malinois has become the world's premier working dog for police and military applications, valued for its drive, trainability, and athleticism. A natural herding breed with intense work ethic, the Malinois demands experienced ownership and substantial daily work\u2014it is not a casual companion breed."),
+  ('Pembroke Welsh Corgi','pembroke-welsh-corgi',"Don't be fooled by the small size\u2014the Pembroke Welsh Corgi is a serious herding breed with surprising speed, agility, and intelligence. Developed in Wales to herd cattle by nipping at their heels, they are bold, responsive, and enthusiastic competitors in herding trials and agility."),
+  ('Shetland Sheepdog','shetland-sheepdog','The Shetland Sheepdog is a miniaturized collie developed on the Shetland Islands to herd the island\'s small sheep and ponies. Remarkably intelligent and highly trainable, Shelties excel at obedience and agility competitions. They are devoted and sensitive family dogs who thrive with consistent training.'),
+  ('Australian Cattle Dog','australian-cattle-dog','Developed in Australia to herd cattle across vast, rough terrain, the Australian Cattle Dog is one of the most durable and intelligent working breeds. They are intensely focused, independent thinkers who need significant daily work to remain manageable. Their loyalty and athleticism are unmatched in the herding group.'),
+  ('Bouvier des Flandres','bouvier-des-flandres','The Bouvier des Flandres was developed in Belgium as an all-purpose farm dog used for cattle herding, cart pulling, and farm work. Powerful, intelligent, and versatile, they have become prominent police and military dogs. Their thick rough double coat requires significant grooming and they need extensive daily exercise.'),
+  ('Collie','collie','The Rough Collie, made famous by Lassie, is an elegant, intelligent herding breed with a gentle and devoted temperament. Sensitive and responsive to their family\'s emotions, Collies are excellent with children and thrive in active households. Their magnificent flowing coat requires regular brushing.'),
+  ('Bearded Collie','bearded-collie','The Bearded Collie is a boisterous, energetic Scottish herding breed with a long flowing double coat and an irrepressible, bouncy personality. Bred to work independently over rough Highland terrain, they are intelligent and resilient. Enthusiastic and playful, they need active owners and daily brushing.'),
+],
+'best-sporting-dog-breeds': [
+  ('Labrador Retriever','labrador-retriever','The Labrador Retriever has been the most popular breed in America for decades, combining exceptional field performance with a gentle, family-friendly temperament. Originally a water retriever from Newfoundland, Labs excel at retrieving waterfowl and upland birds. Their eagerness to please makes them highly trainable.'),
+  ('Golden Retriever','golden-retriever','The Golden Retriever was developed in the Scottish Highlands specifically to retrieve shot game from land and water. Their soft mouth, endurance, and trainability make them outstanding gun dogs, while their gentle, affectionate temperament has made them one of the most beloved family breeds in the world.'),
+  ('English Springer Spaniel','english-springer-spaniel','The English Springer Spaniel is one of the oldest and most capable flushing spaniels, developed to spring game from cover. Fast, athletic, and with an exceptional nose, they excel at flushing birds and retrieving on land and water. Their friendly, enthusiastic temperament makes them excellent family dogs.'),
+  ('German Shorthaired Pointer','german-shorthaired-pointer','The German Shorthaired Pointer is the most versatile all-purpose gun dog\u2014pointing upland birds, tracking, and retrieving from both land and water with equal proficiency. Athletic, driven, and highly intelligent, they are the go-to choice for serious hunters who also want an active, loyal family companion.'),
+  ('Vizsla','vizsla',"Hungary's golden pointer combines superior field performance with a uniquely affectionate temperament rarely found in sporting breeds. Vizslas point and retrieve with great drive and athleticism, yet are also Velcro dogs who form intensely close bonds with their owners and thrive on human companionship."),
+  ('Weimaraner','weimaraner','Developed by German nobility, the Grey Ghost is a powerful, fast hunting dog with exceptional scenting ability and distinctive silver-grey coat. Originally used for big game, Weimaraners transitioned to bird hunting and are now valued as versatile gun dogs with a striking appearance and intense drive.'),
+  ('Cocker Spaniel','cocker-spaniel','The Cocker Spaniel was developed to hunt woodcock, and their enthusiastic flushing and retrieving ability made them favorites with upland bird hunters. Today they are equally celebrated as gentle, merry family companions, with their long silky ears and expressive eyes making them one of the most recognizable sporting breeds.'),
+  ('Brittany','brittany','The Brittany is the most popular bird dog in France and one of the top upland gun dogs in North America. Compact, energetic, and intensely biddable, they point and retrieve with exceptional drive. Their size makes them manageable in the home while retaining full field capability.'),
+  ('Flat-Coated Retriever','flat-coated-retriever','The Flat-Coated Retriever is one of the most enthusiastic and versatile retrievers, excelling on land and in water with equal joy. Developed in Victorian England as a gamekeeper\'s dog, they are highly trainable and exuberantly happy\u2014often described as the Peter Pan of retrievers for their lifelong puppyish enthusiasm.'),
+  ('Nova Scotia Duck Tolling Retriever','nova-scotia-duck-tolling-retriever','The Toller is the smallest of the retrievers and one of the most unique\u2014they were developed to lure ducks within range by playing along the shoreline before retrieving. Energetic, intelligent, and highly capable in the field, Tollers are athletic companions who need active owners.'),
+],
+'best-gun-dog-breeds': [
+  ('Labrador Retriever','labrador-retriever','The Labrador Retriever is the quintessential gun dog\u2014soft-mouthed, trainable, and equally capable on land and in cold water. Originally developed in Newfoundland to retrieve fish and waterfowl, Labs are the most widely used retrievers in North America for waterfowl and upland bird hunting.'),
+  ('Golden Retriever','golden-retriever',"The Golden Retriever's combination of nose, trainability, and gentle mouth makes it one of the finest upland and waterfowl gun dogs available. Developed for Scottish Highland shooting estates, they handle birds with care and retrieve through thick cover with enthusiasm."),
+  ('Pointer','pointer',"The English Pointer's classic stance\u2014nose forward, tail rigid, one foot raised\u2014is the defining image of a pointing breed at work. Developed in England in the 17th century, Pointers have exceptional range and bird-finding ability, covering ground quickly and holding steady on point until the hunter arrives."),
+  ('German Shorthaired Pointer','german-shorthaired-pointer','The GSP is the benchmark for versatile gun dogs. Equally capable at pointing upland birds, tracking, and retrieving on land and water, the German Shorthaired Pointer was engineered for all-day performance across any terrain. Their athletic build and tireless drive make them the standard-bearer of the versatile hunting dog.'),
+  ('Vizsla','vizsla','The Vizsla is one of the most elegant pointing breeds\u2014close-working, responsive, and uniquely bonded to their handler. Originally bred for Hungarian hunters across open plains, they combine exceptional bird-finding ability with a retrieving instinct that makes them complete gun dogs. Their trainability and affectionate nature are exceptional.'),
+  ('English Springer Spaniel','english-springer-spaniel',"The English Springer Spaniel's flushing and retrieving ability has made it a staple for pheasant and grouse hunters for centuries. Working close to the gun in heavy cover, they flush birds reliably and retrieve tenderly on land or in cold water. Their enthusiastic pace and bidability make them a joy to work with."),
+  ('Chesapeake Bay Retriever','chesapeake-bay-retriever','The Chesapeake Bay Retriever was developed specifically for the brutal conditions of the Chesapeake Bay\u2014diving through icy waters and breaking through ice to retrieve fallen ducks. Their distinctive wavy, oily coat provides exceptional cold-water protection. Chessies are tougher and more independent than other retrievers.'),
+  ('Wirehaired Pointing Griffon','wirehaired-pointing-griffon','Dubbed the supreme gun dog by its creator, the Wirehaired Pointing Griffon is a thorough hunter developed to work close to the gun through the densest cover. Their harsh wiry coat protects them in wet, bramble-filled terrain. Loyal, gentle, and highly trainable with a close hunting style.'),
+  ('Brittany','brittany',"The Brittany's compact size, exceptional nose, and tight hunting pattern make it ideal for hunters who want a bird dog that stays close. One of the top upland gun dogs in France and North America, Brittanys point with intensity and retrieve with equal enthusiasm."),
+  ('Irish Setter','irish-setter','The Irish Setter is one of the most beautiful and elegant pointing breeds, developed in Ireland for hunting grouse and woodcock across open moorland. Their speed and range are exceptional. A well-trained Irish Setter is a formidable and stylish bird dog with a distinctive mahogany coat.'),
+],
+'best-hound-dog-breeds': [
+  ('Beagle','beagle',"The Beagle's extraordinary nose and musical bay have made it the classic rabbit and hare hunting hound for centuries. Originally bred to hunt in packs, they are cheerful, sturdy, and companionable\u2014equally at home in the field or as a family dog. Their compact size and friendly nature make them consistently popular."),
+  ('Bloodhound','bloodhound',"No breed in the world can match the Bloodhound's scenting ability. Their trailing is so reliable that Bloodhound evidence is admissible in U.S. courts. Originally bred for deer and boar hunting, they are now used primarily for tracking lost persons and fugitives, often following trails days old."),
+  ('Greyhound','greyhound','The Greyhound is one of the oldest and fastest dog breeds on Earth, capable of reaching 45 mph. A sighthound bred for coursing hare across open terrain, they are surprisingly calm and gentle indoors\u2014often described as 45 mph couch potatoes. Many retired racing Greyhounds make excellent, low-maintenance pets.'),
+  ('Basset Hound','basset-hound',"The Basset Hound's long ears funnel scent toward its extraordinary nose, and their slow, methodical trailing pace allowed hunters on foot to keep up. Developed in France for hunting rabbit and hare, they are gentle, stubborn, and deeply loyal companions with one of the most distinctive silhouettes in all of dogdom."),
+  ('Rhodesian Ridgeback','rhodesian-ridgeback','Developed in southern Africa to hunt lions and large game, the Rhodesian Ridgeback is one of the most athletic and courageous hounds. They hold game at bay rather than kill it, requiring speed, power, and fearlessness. The distinctive ridge of reversed hair along the spine is the breed\'s most recognizable feature.'),
+  ('Afghan Hound','afghan-hound','The Afghan Hound is one of the oldest sighthound breeds, developed in the mountains of Afghanistan to course hare and gazelle at high speed over rough terrain. Their long, flowing coat and aristocratic bearing make them one of the most glamorous breeds in the world. Aloof with strangers but devoted to family.'),
+  ('Irish Wolfhound','irish-wolfhound','The tallest dog breed in the world, the Irish Wolfhound was bred in Ireland to hunt wolves and elk\u2014tasks requiring both speed and power. Despite their imposing size, they are gentle, calm, and surprisingly affectionate. Their lifespan of 6-8 years makes every year with them particularly precious.'),
+  ('Borzoi','borzoi','The Borzoi was bred by Russian aristocracy to course wolf and hare across open steppe at breathtaking speed. Their long, silky coat and elegant build give them one of the most aristocratic appearances of any breed. Quiet and independent at home, they retain strong sighthound prey instincts outdoors.'),
+  ('Scottish Deerhound','scottish-deerhound','The Scottish Deerhound was bred specifically to course red deer in the Scottish Highlands\u2014a task requiring tremendous speed and endurance over rough, hilly terrain. One of the oldest Scottish breeds, they are calm, dignified, and deeply loyal. Gentle giants who are among the most devoted of all hound breeds.'),
+  ('Basenji','basenji','The Basenji is one of the oldest and most primitive dog breeds, originating in Central Africa as a hunting dog. Famous for being the only breed that does not bark (they yodel instead), they are clean, independent, and cat-like in their grooming habits. One of the most distinctive and ancient breeds.'),
+],
+'best-gentle-giant-dog-breeds': [
+  ('Great Dane','great-dane',"The Great Dane is the tallest breed in the world and one of the gentlest. Despite their imposing size\u2014up to 32 inches tall\u2014they are affectionate, patient, and calm indoors. Called the Apollo of Dogs, they are natural people-pleasers especially devoted to children, though their 7-10 year lifespan is a significant trade-off."),
+  ('Mastiff','mastiff','The English Mastiff is one of the heaviest breeds in the world, with adults commonly exceeding 200 lbs. Despite their massive size, they are calm, dignified, and surprisingly gentle with family. Their low energy indoors and devotion to their people make them wonderful family protectors who require modest exercise.'),
+  ('Saint Bernard','saint-bernard','The Saint Bernard was bred by Alpine monks to rescue travelers lost in mountain snowstorms\u2014a role requiring extraordinary gentleness, patience, and power. Massive, calm, and deeply affectionate, they are among the most patient breeds with children. Their gentle temperament is legendary despite considerable drool.'),
+  ('Bernese Mountain Dog','bernese-mountain-dog','The Bernese Mountain Dog is a draft breed from the Swiss Alps that combines impressive size with a remarkably gentle, devoted temperament. Their tricolor coat and calm affectionate nature make them one of the most beloved giant breeds. The 7-9 year lifespan and cancer predisposition are the most significant health considerations.'),
+  ('Newfoundland','newfoundland','The Newfoundland is known as the gentlest of giants and is particularly beloved for its patient, nurturing temperament with children. Bred for water rescue off the coast of Newfoundland, they are powerful swimmers with massive bone and muscle. Their thick double coat requires regular grooming and they drool considerably.'),
+  ('Irish Wolfhound','irish-wolfhound',"The tallest breed in the world, the Irish Wolfhound's gentle, calm temperament belies their imposing size. Bred to hunt wolves and elk, they are now beloved gentle giants who are patient, dignified, and deeply loyal. Their short lifespan of 6-8 years makes early health screening especially important."),
+  ('Great Pyrenees','great-pyrenees','The Great Pyrenees is a majestic livestock guardian bred for harsh alpine conditions. Their dense white double coat, calm authority, and natural protectiveness make them excellent family and property guardians. They are nocturnal, independent, and require secure fencing\u2014but their calm, devoted nature with family is exceptional.'),
+  ('Leonberger','leonberger','The Leonberger was developed in Germany to resemble a lion, combining the Saint Bernard, Newfoundland, and Great Pyrenees. The result is a magnificent, gentle giant with a lion-like mane and a remarkably balanced temperament. Intelligent and versatile, they excel as family companions, therapy dogs, and water rescue workers.'),
+  ('Tibetan Mastiff','tibetan-mastiff','The Tibetan Mastiff is an ancient guardian breed from the Himalayas, developed to protect monasteries and livestock from predators including leopards and wolves. Massive, independent, and deeply loyal to their family, they are reserved with strangers and require experienced ownership. Their thick double coat requires significant seasonal grooming.'),
+  ('Neapolitan Mastiff','neapolitan-mastiff','The Neapolitan Mastiff is one of the most imposing guard dog breeds, with a distinctive heavily wrinkled face and massive, loose-skinned body. Despite their formidable appearance, they are deeply devoted to their family. Their wrinkles require daily cleaning, and their health tends to be challenging throughout their short lifespan.'),
+],
+'best-watchdog-breeds': [
+  ('German Shepherd','german-shepherd-dog','The German Shepherd is one of the most versatile and capable working dogs in the world. Intelligent, loyal, and highly trainable, they serve as police dogs, military working dogs, and personal protection dogs worldwide. Their natural alertness and strong territorial instinct make them exceptional natural watchdogs.'),
+  ('Rottweiler','rottweiler','The Rottweiler is one of the most capable natural guard dogs, combining size, strength, intelligence, and a strong protective instinct. Originally bred to drive cattle for German butchers, they are confident, calm, and deeply loyal to their family. Proper socialization and training from puppyhood are essential.'),
+  ('Doberman Pinscher','doberman-pinscher','Developed specifically as a personal protection dog, the Doberman Pinscher combines athletic elegance with sharp intelligence and intense loyalty. Alert, fearless, and highly trainable, they are exceptional watchdogs. Their natural suspicion of strangers and tight bond with their family make them among the finest guard breeds.'),
+  ('Belgian Malinois','belgian-malinois',"The Belgian Malinois has replaced the German Shepherd as the world's premier police and military dog due to its higher drive, lighter build, and exceptional trainability. Their alertness and work ethic are unmatched\u2014but this intensity also means they are not suitable for inexperienced owners or low-activity households."),
+  ('Akita','akita',"Japan's national dog is a natural protector with a quiet, imposing presence. Akitas are deeply loyal to their family and naturally reserved with strangers, making them effective deterrents without excessive barking. Their large size, intelligence, and independent nature require experienced ownership and early socialization."),
+  ('Bullmastiff','bullmastiff','The Bullmastiff was developed by English gamekeepers to silently track and pin poachers without mauling them\u2014a role requiring stealth, power, and controlled aggression. They are quiet, confident guardians who rarely bark unnecessarily. Their size and natural protective instinct make them one of the most effective deterrent breeds.'),
+  ('Giant Schnauzer','giant-schnauzer','The Giant Schnauzer is an intelligent, powerful, and highly trainable working breed used extensively in European police work. Their natural territorial instinct, alertness, and loyalty make them exceptional watchdogs. They require significant daily exercise, ongoing training, and experienced ownership to direct their considerable drive appropriately.'),
+  ('Rhodesian Ridgeback','rhodesian-ridgeback','Originally bred to hunt lions and guard South African homesteads, the Rhodesian Ridgeback is a confident, athletic watchdog with natural protective instincts. They are not aggressive without cause but are formidable when their family is threatened. Their size, courage, and independence require consistent training from an experienced owner.'),
+  ('Chow Chow','chow-chow','The Chow Chow is one of the oldest and most dignified guard breeds, naturally aloof with strangers and deeply devoted to their immediate family. Originally used as guard dogs in ancient China, their lion-like appearance and quiet authority serve as effective deterrents. Early socialization is essential to prevent excessive territorial behavior.'),
+  ('Bouvier des Flandres','bouvier-des-flandres','The Bouvier des Flandres is a powerful, intelligent Belgian herding breed widely used in European police and protection work. Their natural alertness, trainability, and protective instinct make them exceptional family guardians. Their thick rough coat requires significant grooming, and they need substantial daily exercise to remain balanced.'),
+],
+'most-popular-dog-breeds': [
+  ('French Bulldog','french-bulldog',"The French Bulldog's rise to the most popular breed in America reflects its perfect fit for modern urban life: adaptable, affectionate, low-exercise, and endlessly charming with their bat ears and compact build. As a brachycephalic breed, they need protection from heat and are prone to respiratory issues\u2014but their personality is irresistible."),
+  ('Labrador Retriever','labrador-retriever','The Labrador Retriever held the top spot in America for over 30 consecutive years\u2014a record that reflects the breed\'s extraordinary combination of intelligence, trainability, and genuinely gentle temperament. Equally at home as a service dog, hunting companion, or family pet, Labs are the standard against which other family breeds are measured.'),
+  ('Golden Retriever','golden-retriever',"The Golden Retriever's combination of intelligence, patience, and warmth has made it one of the most beloved breeds in the world. Consistently gentle with children and responsive to training, they excel as service dogs, therapy dogs, and family companions. Their enthusiasm for life is genuinely infectious."),
+  ('German Shepherd','german-shepherd-dog',"The German Shepherd's combination of intelligence, loyalty, and versatility has kept it among the world's most popular breeds for over a century. Used in virtually every working dog application\u2014police, military, search and rescue, service work\u2014they are also devoted, protective family dogs who excel with consistent training."),
+  ('Bulldog','bulldog',"The Bulldog's wrinkled face, shuffling gait, and gentle temperament have made it one of the most recognizable breeds in the world. Modern Bulldogs are calm, affectionate, and surprisingly good with children despite their tough appearance. As a brachycephalic breed, they need careful management in warm weather."),
+  ('Standard Poodle','standard-poodle',"The Poodle's reputation for intelligence is well-earned\u2014they consistently rank among the most trainable breeds. Their hypoallergenic coat, athletic ability, and gentle temperament make them popular across all sizes. The Standard Poodle combines elegance and capability in a versatile, long-lived package."),
+  ('Beagle','beagle',"The Beagle's friendly, sturdy, and adaptable nature has made it one of America's most consistently popular breeds. Originally a scent hound for rabbit hunting, they are now primarily beloved family companions. Their compact size, cheerful temperament, and love of food make them highly trainable\u2014though their nose can lead them astray."),
+  ('Rottweiler','rottweiler',"The Rottweiler's combination of power, intelligence, and loyalty has made it one of America's most popular large breeds. With proper training and socialization, they are calm, confident, and devoted family companions who are exceptionally loyal to those they love and natural protectors of their home."),
+  ('German Shorthaired Pointer','german-shorthaired-pointer',"The German Shorthaired Pointer's surge in popularity reflects growing interest in active, versatile breeds. Equally capable as a gun dog and family companion, the GSP's intelligence, athleticism, and affectionate nature appeal to active families. They need substantial daily exercise but reward owners with extraordinary loyalty."),
+  ('Dachshund','dachshund',"The Dachshund's iconic silhouette\u2014long body, short legs, expressive eyes\u2014has made it one of the most recognizable breeds in the world. Originally bred to hunt badgers underground, they are bold, curious, and surprisingly tenacious. Their adaptability to apartment life and loyal, entertaining personality explain their enduring popularity."),
+],
+}
+
+for slug, breeds in ROUNDUPS.items():
+    path = os.path.join(BREED_DATA, f'{slug}.json')
+    with open(path, encoding='utf-8') as f:
+        data = json.load(f)
+
+    cards = []
+    for breed_name, breed_slug, desc in breeds:
+        cards.append(make_card(breed_name, breed_slug, desc))
+
+    grid_html = make_grid(cards)
+    data['sections']['care']['html'] = grid_html
+
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f'Updated {slug}')
+
+print('All done!')

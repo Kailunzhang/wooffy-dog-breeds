@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "name": "Irish Setter Puppy Checklist",
+    "slug": "irish-setter-puppy-checklist",
+    "shopify_handle": "irish-setter-puppy-checklist",
+    "group": "Irish Setter",
+    "size_category": "Guide",
+    "tags": ["irish-setter", "puppy", "checklist", "clad", "gastropexy", "socialization"],
+    "published": true,
+    "published_at": "2026-04-21T16:00:00Z",
+    "excerpt": "Everything you need before your Irish Setter comes home — including CLAD documentation verification, exercise plan for a high-energy breed, and the gastropexy conversation for your first vet visit.",
+    "meta_description": "Irish Setter puppy checklist: CLAD DNA test documentation review, energy plan, gastropexy discussion, socialization priorities for a friendly sporting breed, and first-week setup."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Can_Setter_dog_GFDL.jpg/330px-Can_Setter_dog_GFDL.jpg",
+      "alt": "Irish Setter puppy checklist"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Irish Setter Puppy Prep: CLAD Documentation and Exercise Plan",
+      "html": "<p>Before your Irish Setter puppy arrives, two items matter most: verifying the CLAD DNA test documentation from both parents, and having a realistic daily exercise plan in place. Irish Setters are high-energy breeds that need an outlet — starting that plan from week one sets habits that serve the dog for life.</p><h3>CLAD Documentation Checklist</h3><ul><li>Request CLAD (Canine Leukocyte Adhesion Deficiency) DNA test result for the sire — must show \"clear\"</li><li>Request CLAD DNA test result for the dam — must show \"clear\"</li><li>Also request: PRA DNA test results (rcd-1 form), OFA hip clearance for both parents</li></ul><h3>Essential Gear Checklist</h3><ul><li>Large crate (42-inch, with divider for puppyhood)</li><li>Orthopedic dog bed</li><li>Stainless steel food and water bowls</li><li>Flat collar + ID tag</li><li>Harness for walks</li><li>6 ft leash</li><li>Pin brush and wide-tooth comb</li><li>Dog ear cleaning solution</li><li>High-value training treats</li><li>Enzymatic cleaner</li><li>Durable toys — Irish Setters in the puppy phase go through toys</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Vet Visit: Gastropexy Discussion and Insurance",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam and health verification</li><li>Vaccine continuation and parasite prevention</li><li>Enroll in pet insurance before this appointment</li><li>Share CLAD and PRA documentation with your vet for their records</li><li><strong>Discuss prophylactic gastropexy:</strong> Ask your vet about scheduling this procedure during spay/neuter — it eliminates the GDV volvulus risk in this deep-chested breed. This is a timing decision, not a later-add-on, so discuss at the first visit</li><li>Microchip if not done by breeder</li></ul><h3>Energy Management From Day One</h3><p>Irish Setters need exercise, but puppy joints need protection. Use the 5-minute rule until the dog is 18 months old — 5 minutes per month of age, twice daily. Free play in a safe yard is appropriate; jogging is not until 18 months when growth plates close. The exercise habits you establish now become the daily routine for 12–15 years.</p>"
+    },
+    "special": {
+      "label": "Socialization and Training",
+      "heading": "A Friendly Breed That Still Needs Consistency",
+      "html": "<h3>Socialization Window (8–16 Weeks)</h3><p>Irish Setters are naturally social — the socialization window for this breed is about maximizing that natural friendliness rather than managing a challenging temperament. Expose broadly and positively:</p><ul><li>Diverse people: ages, appearances, uniforms, children</li><li>Environments: urban sounds, traffic, buildings, outdoor spaces</li><li>Other dogs: puppy class is ideal and well-suited to this breed's social nature</li></ul><h3>Priority Training Commands</h3><ul><li><strong>Recall (Come):</strong> The most important command for a sporting breed. Start recall training early and practice constantly in progressively more distracting environments. A reliable recall is never fully safe in open unfenced areas with birds present, but it's essential for daily management.</li><li>Loose-leash walking: the exuberance translates to pulling — address from the first walk</li><li>Sit and Down: foundation commands for impulse control</li><li>Patience: Irish Setters are slow to mature — expect puppy behavior for 3–4 years and train accordingly</li></ul>"
+    }
+  },
+  "faq": [
+    {"q": "Why is the CLAD test non-negotiable for Irish Setters?", "a": "CLAD is fatal — affected puppies die from infection before age six months. It's an autosomal recessive disease; two tested-clear parents cannot produce an affected puppy. The test is inexpensive relative to the puppy price. A breeder without CLAD test documentation is not testing for a preventable fatal disease. Walk away."},
+    {"q": "How do I manage an Irish Setter's energy in the first year?", "a": "Follow the 5-minute puppy exercise rule (5 minutes per month of age, twice daily) until 18 months when growth plates close. Focus exercise on play, controlled walks, and mental enrichment rather than forced running. A puppy's energy is real; your job is to channel it appropriately rather than letting it translate to destructive behavior indoors."}
+  ]
+}

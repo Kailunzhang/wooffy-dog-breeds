@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Lakeland Terrier Grooming Guide",
+    "slug": "lakeland-terrier-grooming-guide",
+    "shopify_handle": "lakeland-terrier-grooming-guide",
+    "group": "Lakeland Terrier",
+    "size_category": "Guide",
+    "tags": ["lakeland-terrier", "grooming"],
+    "published": true,
+    "published_at": "2026-04-29T16:00:00Z",
+    "excerpt": "The Lakeland Terrier's wiry double coat is maintained through hand-stripping for show dogs or clipping for pets. This guide covers both techniques, regular home brushing, and the basic care routine for this hardy working terrier.",
+    "meta_description": "Lakeland Terrier grooming guide: hand-stripping vs clipping the wiry coat, brushing routine, bathing, and beard care for this classic British terrier."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lakeland_Terrier.jpg/330px-Lakeland_Terrier.jpg",
+      "alt": "Lakeland Terrier grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "A Hard Wiry Coat with Show and Pet Options",
+      "html": "<p>The Lakeland Terrier has a classic terrier double coat: a hard, dense, wiry outer coat over a softer undercoat. The coat's hard texture is not merely aesthetic — it is a functional adaptation that repels moisture and protects against abrasion when working in rocky terrain. Maintaining this correct texture requires hand-stripping, the traditional technique for wiry terrier coats. Clipping is the practical alternative for pet owners: faster, easier, and less expensive, but it gradually softens the coat texture and may affect color intensity over time.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Brushing, Stripping or Clipping, and Beard Care",
+      "html": "<p><strong>Brushing:</strong> 2–3 times weekly with a slicker brush or pin brush to remove loose hair and prevent tangles in the furnishings (leg hair, beard, eyebrows). The body coat is relatively self-maintaining with regular brushing, but the longer facial furnishings and leg hair need more attention.</p><p><strong>Hand-stripping (show dogs):</strong> The dead outer coat is pulled out by hand in the direction of growth, typically 2–3 times per year for a full strip-and-grow cycle. This requires skill and time — most pet owners who want a properly stripped Lakeland work with a groomer experienced in terrier coats. The stripped coat grows back hard and wiry with the correct color intensity.</p><p><strong>Clipping (pet dogs):</strong> Professional clipping every 6–8 weeks is the typical schedule. The groomer will clip the body, tidy the furnishings, and shape the beard and eyebrows. Over multiple clipping cycles, the outer coat gradually softens. This is cosmetically noticeable to breed enthusiasts but functionally irrelevant for a companion dog.</p><p><strong>Beard and facial hair care:</strong> The Lakeland's beard collects food and water and should be wiped after meals and drinking. Check the beard for tangles and clean regularly to prevent odor and skin irritation underneath.</p><p><strong>Bathing:</strong> Every 4–6 weeks for clipped dogs; as needed between strips for hand-stripped dogs. Use a terrier-specific or firm-coat dog shampoo. Avoid heavy conditioning products on stripped coats — they soften the correct hard texture.</p><p><strong>Nails:</strong> Monthly trimming. <strong>Ears:</strong> Check weekly. Ear canal hair may need plucking — discuss with your groomer or vet. <strong>Teeth:</strong> Brush several times per week.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Finding a Terrier-Savvy Groomer",
+      "html": "<p><strong>Finding a qualified groomer:</strong> The most important special consideration for Lakeland Terrier grooming is finding a groomer who understands wiry terrier coats. Many groomers are trained primarily in scissors-and-clipper techniques designed for poodles and bichons — the approach for wiry terrier coats is quite different. Look for a groomer with experience with Wire Fox Terriers, Welshies, or other wiry terrier breeds, and ask specifically whether they know how to hand-strip if that is your preference.</p><p><strong>Coat color after repeated clipping:</strong> Lakelands in colors like black and tan or grizzle may show color fading after repeated clipping cycles as the soft, new-growth hair replaces the original harder, more richly colored coat. This is cosmetically noticeable but does not affect the dog's health or happiness.</p><p><strong>Ear hair:</strong> Some Lakelands grow excess hair in the ear canal that can trap moisture and contribute to ear infections. A groomer experienced with terriers can safely pluck this hair. Do not attempt to pluck ear hair at home without instruction.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "What is the difference between hand-stripping and clipping a Lakeland Terrier?",
+      "a": "Hand-stripping removes the dead outer coat by pulling it out by hand, preserving the wiry texture and color. Clipping cuts the hair to a uniform length but leaves the dead coat in the follicle, which gradually softens the regrowth. Show dogs must be hand-stripped; pet dogs can be clipped for ease and cost."
+    },
+    {
+      "q": "How often does a Lakeland Terrier need professional grooming?",
+      "a": "Clipped pets need professional grooming every 6–8 weeks. Hand-stripped show dogs have a longer between-appointment cycle depending on the stripping schedule — typically every 3–4 months for a full strip, with tidying appointments in between."
+    },
+    {
+      "q": "Do Lakeland Terriers shed?",
+      "a": "Very little. The wiry double coat is low-shedding, making the Lakeland a good option for people sensitive to dog hair. The dead outer coat loosens and is either hand-stripped or clipped rather than shedding onto furniture and clothing."
+    }
+  ]
+}

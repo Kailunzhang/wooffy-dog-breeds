@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Pointer First Year Costs",
+    "slug": "pointer-first-year-costs",
+    "shopify_handle": "pointer-first-year-costs",
+    "group": "Pointer",
+    "size_category": "Guide",
+    "tags": ["pointer", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-04-22T16:00:00Z",
+    "excerpt": "Pointer first-year costs run $2,500–$6,500 including purchase price. Grooming is essentially free. Exercise and field trial activities are the variable costs. Hip dysplasia and hypothyroidism are the main health concerns to insure against.",
+    "meta_description": "Pointer first year costs: puppy price $800–$3,000, minimal grooming costs, vet bills, insurance for hip and thyroid health, and total first-year and ongoing expense estimates for this athletic sporting breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/English_Pointer_orange-white.jpg/330px-English_Pointer_orange-white.jpg",
+      "alt": "Pointer first year costs"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "What Does a Pointer Cost to Acquire?",
+      "html": "<p><strong>Puppy from a reputable breeder: $800–$3,000.</strong> Field-bred Pointers from proven hunting lines typically run $1,000–$3,000. Show-line puppies are available at similar or slightly lower prices. The American Pointer Club and the American Field maintain contacts for reputable breeders. Ask for OFA hip clearances and thyroid health documentation from both parents — hip dysplasia and hypothyroidism are the primary documented health concerns in the breed.</p><p><strong>Rescue adoption: $150–$400</strong> through Pointer rescue organizations or general sporting dog rescues. Rescue Pointers are sometimes available — often dogs surrendered by owners who underestimated the exercise requirements.</p><p><strong>Initial setup costs: $250–$500</strong></p><ul><li>Large crate (42 inches): $70–$130</li><li>Dog bed: $50–$100</li><li>Collar, harness, leash: $50–$100</li><li>Grooming tools (rubber mitt, soft brush — truly minimal): $20–$40</li><li>Bowls: $25–$50</li><li>Toys and fetch equipment: $30–$60</li></ul><p><strong>Note on grooming costs:</strong> The Pointer has the lowest grooming cost of virtually any sporting breed. A rubber grooming mitt and a soft brush represent the total tool investment. No professional grooming is needed. This is a meaningful cost advantage compared to long-coated sporting breeds.</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "First Year Ongoing Expenses",
+      "html": "<p><strong>Food: $550–$850 for the first year.</strong> Large breed dry food for a 45–75 lb active dog. Budget $45–$75 per month. Active field dogs may need more caloric density than the breed average. High-quality formulas appropriate for active sporting breeds support the Pointer's energy demands and joint health.</p><p><strong>Veterinary care (first year): $400–$800</strong></p><ul><li>Initial wellness exam and puppy vaccination series: $150–$350</li><li>Spay or neuter: $150–$400</li><li>Heartworm, flea, and tick prevention: $100–$200/year — tick prevention is important for field dogs</li><li>OFA hip pre-screening at 12–18 months: $150–$250 for radiographs</li></ul><p><strong>Pet insurance: $400–$900/year.</strong> Recommended for covering the Pointer's main health risks: hip dysplasia (moderate prevalence), hypothyroidism (manageable but lifelong), and field injury risk (cuts, paw injuries, and occasional trauma from hunting activity). Enroll before the first vet visit.</p><p><strong>Grooming: Near zero ongoing cost.</strong> A rubber mitt and soft brush represent the complete investment. No professional grooming, no specialty shampoos required, no trims. This is one of the genuinely free-maintenance coats in the dog world.</p><p><strong>Field activities: $100–$500/year.</strong> Field trials, hunt tests, and organized hunting add entry fees, club memberships, and travel. These activities provide the intense exercise and purpose the Pointer needs. Budget according to your planned participation level.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Costs",
+      "html": "<p><strong>First year total estimate: $2,500–$6,500</strong> (including purchase price). The wide range reflects purchase price variation between field and show lines and field activity investments.</p><p><strong>Annual ongoing costs after year one: $1,150–$2,300</strong></p><ul><li>Food: $550–$850</li><li>Routine vet care and preventives: $300–$550</li><li>Pet insurance: $400–$900</li><li>Grooming: effectively zero</li></ul><p><strong>Budget for potential additional costs:</strong></p><ul><li>Hip dysplasia treatment for significant cases: $2,000–$6,000 per joint</li><li>Hypothyroidism medication (lifelong if diagnosed): $200–$500/year — low ongoing cost but permanent</li><li>Field injury treatment (cuts, paw injuries, occasional trauma): covered by insurance if enrolled</li></ul><p>Over a 12–15 year lifespan, total ownership cost excluding purchase price is typically $13,000–$26,000 — lower than most comparable sporting breeds due to virtually zero grooming costs. The Pointer's relatively robust health profile and simple coat make it one of the lower total cost sporting breeds to own.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Pointer an expensive dog to own?",
+      "a": "Below average cost for a sporting breed. Purchase price is moderate, food costs are average for the size, and grooming is essentially free — no professional grooming, no specialty tools, no trims. The main financial risks are hip dysplasia treatment and, if field active, occasional hunting injury costs. Insurance covering orthopedic conditions is the primary protective investment."
+    },
+    {
+      "q": "What health conditions should I insure a Pointer against?",
+      "a": "Hip dysplasia and hypothyroidism are the primary documented breed concerns. Hip dysplasia treatment in significant cases can run $2,000–$6,000 per joint. Hypothyroidism requires lifelong medication but costs $200–$500/year to manage — manageable but indefinite. For field dogs, injury coverage is also worthwhile. Enroll before the first vet visit for maximum coverage."
+    },
+    {
+      "q": "Are field-line Pointers more expensive to own than show-line dogs?",
+      "a": "They may cost more at purchase from proven hunting lines. Ongoing costs are similar between lines, but field-active dogs require hunt test or field trial investments ($100–$500/year) and may have slightly elevated vet costs from field activity. The exercise benefit — a properly worked field dog is satisfied and manageable — is a significant quality-of-life return on that investment."
+    }
+  ]
+}

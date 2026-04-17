@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "name": "French Bulldog",
+    "slug": "french-bulldog",
+    "shopify_handle": "french-bulldog",
+    "group": "Non-Sporting Group",
+    "size_category": "Small Breed",
+    "tagline": "The French Bulldog became America's most popular breed for a reason — but there are real health costs and physical limits behind the charm. Here's the honest version.",
+    "tags": ["non-sporting-group", "small-breed", "apartment-dog", "brachycephalic", "dog-breeds"],
+    "published": true,
+    "excerpt": "French Bulldogs are affectionate, low-exercise, and genuinely funny to live with. They're also one of the most expensive breeds to own long-term, with structural health issues built into the breed standard.",
+    "meta_description": "Is a French Bulldog right for you? The real picture on breathing issues, heat sensitivity, health costs, temperament, and what first-time owners actually deal with."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Small" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "20–28 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–12 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "20–30 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With research" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2008-07-28_Dog_at_Frolick_Field.jpg/330px-2008-07-28_Dog_at_Frolick_Field.jpg",
+      "alt": "French Bulldog"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a French Bulldog?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The French Bulldog is a compact, muscular small breed with a flat face, large bat ears, and a personality that fills whatever room it's in. They became America's #1 breed in 2022 — and the popularity is genuinely earned. Frenchies are affectionate, adaptable, quieter than most small dogs, and they require far less exercise than breeds their size. For apartment living or households without a yard, they make a lot of sense.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">What the popularity doesn't always come with: an honest conversation about the health realities. French Bulldogs are a brachycephalic breed — their flat faces are the product of selective breeding that also compresses their airways. Most Frenchies breathe with some degree of difficulty; many require surgery to breathe adequately. They cannot tolerate heat or intense exercise. They're almost exclusively born by C-section. Spinal issues are common. Vet bills for a French Bulldog over a lifetime are substantially higher than most other breeds.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">None of that disqualifies the breed — it means you go in knowing what you're choosing. A Frenchie that fits your lifestyle and has appropriate health coverage is a wonderful dog. A Frenchie purchased impulsively from a pet store or backyard breeder, without pet insurance, in a hot climate — that's a different story. This guide gives you the full picture.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What French Bulldogs Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Compact, muscular, and low to the ground — French Bulldogs weigh 20–28 lbs and stand about 11–13 inches tall. Their most recognizable features are the large, upright bat ears (set apart, not close together like English Bulldogs), the extremely flat face (brachycephalic skull), and the wrinkled, loose skin around the face and neck. The body is heavy-boned for its size, with a broad chest and a short, screwed or straight tail.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Coat colors include brindle, fawn, cream, and white — as well as \"rare\" colors like blue, merle, and lilac that have become fashionable. Be cautious around rare-color Frenchies: many come from breeders optimizing for coat color rather than health, and the merle gene in particular is associated with additional health problems. Standard colors from health-tested parents are the safer choice.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">French Bulldogs are companion dogs in the most literal sense — they were bred specifically to be close to people, and they take that seriously. They follow their people around, want to be on or near the sofa, and have a strong preference for being in the same room as you. This makes them excellent for households where someone is usually home; it also means they can develop separation anxiety in households where they're frequently alone for long stretches.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">They have genuine character — stubborn in a funny way, playful in short bursts, often described as clowns. They're not particularly barky for a small breed, which matters in apartments. They generally get along well with children and other dogs, though early socialization matters as with any breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The stubbornness is real. Frenchies are not difficult to train, but they will occasionally decide a command is beneath them and ignore you with complete confidence. Positive reinforcement works; frustration and repetition don't. Keep training sessions short and treat-motivated.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Frenchie",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">French Bulldogs are a great match for a specific type of person: someone who wants a dog that's genuinely funny and affectionate, doesn't need a yard or an hour of exercise a day, is fine with a dog that wants to be near them constantly, and is prepared for above-average veterinary costs. That's a real category of person and a real lifestyle fit.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The health issue is not hypothetical. BOAS (brachycephalic obstructive airway syndrome) surgery — to widen the nostrils and sometimes shorten the soft palate — runs $1,500–$4,000, and a meaningful percentage of Frenchies need it before age 2. Spinal issues (IVDD) are common in middle age. Emergency vet visits for breathing episodes in heat are not rare. Pet insurance for a French Bulldog is more expensive than average because the risk is genuinely higher — but skipping it is the decision that turns a manageable situation into a financial crisis.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The other thing: heat. A French Bulldog on a hot summer day is not fine the way other dogs are fine. They cannot pant effectively to cool themselves. If you live somewhere hot, this requires real planning — air conditioning is not optional, hot-weather walks need to be early morning or evening only, and you need to know the signs of overheating. This is manageable, but it's not nothing.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">20–30 minutes of moderate activity daily is sufficient for most Frenchies. This is one of their genuine advantages — they don't need a yard, they don't need to run, and a couple of short walks per day plus indoor play covers their needs. The limits are real: no jogging partners, no long hikes, nothing in heat above 75°F (24°C). Water access and shade are essential any time they're outside in warm weather.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Coat:</strong> Short and low-maintenance — brush weekly with a rubber mitt or soft bristle brush; bathe every 6–8 weeks</li><li><strong style=\"color:#1a1a1a;\">Wrinkles:</strong> Clean skin folds daily, especially the facial wrinkles and tail pocket — trapped moisture causes skin infections</li><li><strong style=\"color:#1a1a1a;\">Ears:</strong> Check and clean weekly — the bat ear shape can trap debris</li><li><strong style=\"color:#1a1a1a;\">Nails:</strong> Every 3–4 weeks</li></ul><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">See the <a href=\"/blogs/dog-breeds/french-bulldog-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">French Bulldog grooming guide</a> for the wrinkle cleaning routine — this is the most important maintenance task for skin health.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Intelligent but stubborn — they understand what you're asking, they just may not comply immediately. Short sessions (5–10 min), high-value treats, positive reinforcement. They respond poorly to harsh correction. Basic obedience is achievable; advanced work requires more patience than with retrievers. Housetraining can take longer than average.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">French Bulldogs have above-average health costs compared to most breeds. The structural issues below are not rare edge cases — they affect a significant percentage of the breed population. This is not a reason to avoid the breed, but it is a reason to budget honestly and get insurance before the first vet visit.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">BOAS (Brachycephalic Airway Syndrome)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Narrowed nostrils, elongated soft palate, and narrowed trachea restrict airflow. Mild: noisy breathing, snoring. Severe: exercise intolerance, overheating, breathing episodes. Surgery ($1,500–$4,000) significantly improves quality of life for affected dogs.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">IVDD (Intervertebral Disc Disease)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Spinal disc herniation is common in chondrodystrophic (short-legged) breeds including Frenchies. Ranges from back pain to partial or full paralysis. Medical management $1,000–$3,000; surgery $3,000–$8,000.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Skin Fold Dermatitis</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Moisture and bacteria trapped in the facial wrinkles and tail pocket. Preventable with daily cleaning. Untreated: chronic skin infections requiring ongoing vet treatment.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Heat Stroke</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Frenchies cannot cool themselves effectively. Heat stroke can occur rapidly on warm days, especially with exercise. This is an emergency requiring immediate vet care. Preventable with management.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Eye Conditions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Prominent eyes are more prone to corneal ulcers, cherry eye, and entropion. Check eyes regularly for cloudiness, discharge, or squinting.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Note:</strong> No standard health tests fully screen for BOAS or IVDD — buy from breeders who select for open nostrils and upright posture, not extreme flatness.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">French Bulldogs are one of the most expensive breeds to own long-term. The purchase price is high due to artificial insemination and C-section births being standard. The ongoing costs are driven by above-average health issues. Budget honestly before committing.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$2,500–$5,000+</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$1,080–$2,400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$1,080–$2,400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$5,000–$10,000+</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,000–$4,000</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/french-bulldog-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full French Bulldog first-year cost breakdown</a> before you commit — the insurance math alone is worth reviewing.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a French Bulldog Right for You?",
+      "good_fit": [
+        "Apartment or small home — no yard needed",
+        "Lower-energy household that wants a companion dog, not a running partner",
+        "Someone home most of the day — Frenchies don't do well with long isolation",
+        "Willing to budget for above-average vet costs and carry pet insurance",
+        "Want a quiet, affectionate dog with genuine personality"
+      ],
+      "not_fit": [
+        "Active owner wanting a running or hiking partner",
+        "Live in a hot climate without reliable air conditioning",
+        "Not prepared for or can't afford higher-than-average vet bills",
+        "Looking for an easy-to-train, highly obedient dog",
+        "Away from home 8+ hours daily without a plan for the dog"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your French Bulldog",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$2,500–$5,000+ from a reputable breeder. French Bulldogs cannot breed or whelp naturally in most cases — artificial insemination and C-sections are standard, which drives cost at every level of the supply chain. Be extremely skeptical of Frenchies priced under $2,000: this almost always indicates a backyard breeder skipping health testing and veterinary oversight. Ask to see the parent's health records, nostrils (should be wide, not pinched), and any BOAS screening the breeder performs. Responsible breeders will select against extreme flatness.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">French Bulldog rescues do exist, though demand usually exceeds supply. Rescue Frenchies may already have known health conditions, which requires transparency from the rescue and potentially affects insurability. Some owners surrender Frenchies due to unexpected vet costs — getting a health history from the rescue is important.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before pickup day, go through the <a href=\"/blogs/dog-breeds/french-bulldog-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">French Bulldog puppy checklist</a> — insurance timing is especially critical for this breed.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Are French Bulldogs good apartment dogs?",
+      "a": "Yes — they're one of the best breeds for apartment living. Low exercise needs, quiet compared to most small breeds, and they don't need outdoor space. The main requirement is that someone is home or nearby most of the day; they don't handle long isolation well. Air conditioning is essential in any climate that gets warm."
+    },
+    {
+      "q": "Do all French Bulldogs have breathing problems?",
+      "a": "Most Frenchies have some degree of airway narrowing due to the brachycephalic skull structure. Many live full lives with manageable symptoms — snoring, snorting, reduced exercise tolerance. A meaningful percentage (estimates range from 30–60% depending on the study) have symptoms significant enough to affect quality of life and benefit from surgical correction. How severe the issues are depends heavily on breeding — dogs with wider nostrils and less extreme flatness breathe better."
+    },
+    {
+      "q": "How much do French Bulldogs cost to own?",
+      "a": "More than most breeds. Purchase price $2,500–$5,000+, food around $500/year, and insurance premiums of $90–$200/month. The high insurance cost reflects a real risk — BOAS surgery, IVDD treatment, and skin fold infections are common and expensive. Over a 10-year lifespan, expect $30,000–$50,000+ in total costs, with substantial variation based on whether major health issues arise."
+    },
+    {
+      "q": "Can French Bulldogs be left alone during the day?",
+      "a": "For moderate periods (3–4 hours), most Frenchies adjust. For an 8-hour workday, they struggle more than many breeds. They're companion dogs that bond closely with their people, and prolonged daily isolation can cause anxiety that manifests as destructiveness and distress. If you're away most of the day, a dog walker midday, a second dog, or doggy daycare should be part of the plan."
+    }
+  ],
+
+  "related_breeds": [
+    {"name": "Boston Terrier", "slug": "boston-terrier", "note": "Similar size and apartment friendliness, slightly less extreme brachycephalic features"},
+    {"name": "English Bulldog", "slug": "english-bulldog", "note": "Larger, more laid-back, even more significant health concerns"},
+    {"name": "Pug", "slug": "pug", "note": "Similar brachycephalic issues, even more compact"},
+    {"name": "Cavalier King Charles Spaniel", "slug": "cavalier-king-charles-spaniel", "note": "Similar companion temperament, different health profile"}
+  ]
+}

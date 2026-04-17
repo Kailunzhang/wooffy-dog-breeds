@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Havanese",
+    "shopify_handle": "havanese-grooming-guide",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "name": "Havanese Grooming Guide: Silky Coat Care and Tear Stain Management",
+    "slug": "havanese-grooming-guide",
+    "excerpt": "How to groom a Havanese — including coat length choices, daily brushing, professional trim schedules, and managing the tear staining common to the breed.",
+    "meta_description": "How to groom a Havanese — including coat length choices, daily brushing, professional trim schedules, and managing the tear staining common to the breed.",
+    "tags": [
+      "Havanese",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/A_Havanese_judging.jpg/330px-A_Havanese_judging.jpg",
+      "alt": "Havanese dog"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "The Coat",
+      "heading": "The Havanese Coat: Beautiful, But Requires Consistent Effort",
+      "html": "<p>The Havanese has a long, silky, lightweight coat that can range from straight to wavy to loosely curled. It is a low-shedding coat — loose hairs tend to stay in the coat rather than falling to the floor — but this means regular brushing is essential to prevent those loose hairs from tangling into mats against the skin. The coat grows continuously and requires professional trimming to stay manageable.</p><p>Like the Yorkshire Terrier and Poodle, the Havanese owner chooses between the long natural coat and a shorter, lower-maintenance trim. Most pet owners opt for a shorter pet cut trimmed every 4–6 weeks, which is significantly easier to maintain than the full-length show coat.</p><h3>Basic Grooming Schedule</h3><ul><li><strong>Brushing:</strong> Daily — both for long and short coats</li><li><strong>Professional trim:</strong> Every 4–6 weeks for a short pet cut</li><li><strong>Bathing:</strong> Every 2–3 weeks</li><li><strong>Eye cleaning and tear stain management:</strong> Daily</li><li><strong>Nail trimming:</strong> Every 2–3 weeks</li><li><strong>Ear cleaning:</strong> Weekly — hair grows in the ear canal</li><li><strong>Teeth brushing:</strong> Daily — small breeds need this</li></ul>"
+    },
+    "care": {
+      "label": "Brushing and Tear Stains",
+      "heading": "At-Home Grooming for the Havanese",
+      "html": "<h3>Daily Brushing: Line Brushing Method</h3><p>The Havanese coat mats quickly if not brushed properly. Surface brushing is insufficient — you must reach the skin. Use the line brushing technique: part the coat horizontally, hold the section above out of the way, and brush from the skin outward in small strokes. Move the part upward section by section. Focus extra attention on the areas that mat fastest: behind the ears, under the armpits, around the collar, and the hindquarters. A pin brush for the body coat and a slicker brush for stubborn tangles, followed by a metal comb to verify, is the correct toolkit.</p><h3>Tear Stain Management</h3><p>Reddish-brown staining below the eyes is very common in Havanese, particularly in light-coloured dogs. The staining is caused by porphyrins — compounds in tears — and can be minimised but rarely eliminated entirely. Daily management:</p><ul><li>Wipe below the eyes daily with a damp cloth or tear stain wipe to remove fresh discharge before it oxidises and stains</li><li>Keep the fur around the eyes trimmed short to reduce the surface area that catches tears</li><li>Some owners find that switching to filtered water or stainless steel water bowls (instead of plastic) reduces staining</li><li>Ask your vet about underlying causes — blocked tear ducts, minor eye irritation, or allergies can all increase tear production</li></ul>"
+    },
+    "special": {
+      "label": "Professional Grooming",
+      "heading": "Grooming Schedule and Costs",
+      "html": "<h3>Professional Trimming Every 4–6 Weeks</h3><p>The Havanese coat grows quickly. A short pet cut needs professional trimming every 4–6 weeks to stay neat — slightly more frequent than some other small breeds. At $50–$75 per appointment, this runs $400–$900 per year depending on frequency and location. Budget this as a fixed ongoing cost.</p><h3>Bathing Frequency</h3><p>Havanese benefit from more frequent bathing than many breeds — every 2–3 weeks. The silky coat gets oily and attracts dirt. Use a gentle dog shampoo and a coat conditioner, rinse thoroughly, and blow dry while brushing. Allowing the coat to air dry while the dog moves around leads to tangles. A detangling spray used before brushing a freshly dried coat prevents breakage.</p><h3>Ear Canal Hair</h3><p>Havanese grow hair inside the ear canal that traps moisture and debris, increasing infection risk. Have your groomer remove this hair at every professional appointment. Clean the ears weekly with a vet-approved solution. Watch for head shaking, scratching, or odor as signs of infection.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How do I manage tear stains on my Havanese?",
+      "a": "Wipe below the eyes daily with a damp cloth to remove fresh discharge before it oxidises and stains. Keep the fur around the eyes trimmed short. Some dogs have reduced staining with filtered water instead of tap water, or with stainless steel bowls instead of plastic. If staining is severe, ask your vet about underlying causes — increased tear production can be due to blocked tear ducts, eye irritation, or allergies."
+    },
+    {
+      "q": "How often does a Havanese need professional grooming?",
+      "a": "Every 4–6 weeks for a short pet cut. The coat grows quickly and requires regular trimming to stay manageable. At $50–$75 per appointment, budget $400–$900 per year for professional grooming. Daily at-home brushing between appointments prevents mat formation and keeps professional sessions efficient."
+    },
+    {
+      "q": "Do Havanese shed a lot?",
+      "a": "They shed minimally — they are often described as low-shedding because loose hairs stay in the coat rather than falling to the floor. However, this means the loose hairs must be brushed out regularly to prevent mats. If you don't brush daily, you trade a clean floor for a matted coat. Regular grooming is the exchange for low shedding."
+    }
+  ]
+}

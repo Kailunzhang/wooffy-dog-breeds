@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "name": "Dalmatian",
+    "slug": "dalmatian",
+    "shopify_handle": "dalmatian",
+    "group": "Non-Sporting Group",
+    "size_category": "Large Breed",
+    "tagline": "The Dalmatian is a high-energy, athletic breed with a striking appearance and a set of unique health requirements — particularly around hearing and diet — that every prospective owner must understand before bringing one home.",
+    "tags": ["non-sporting-group", "large-breed", "high-energy", "athletic", "spotted", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-20T16:00:00Z",
+    "excerpt": "Dalmatians are energetic, athletic, and genuinely beautiful dogs — and they come with two non-negotiable health requirements that most people don't know about: deafness testing and a low-purine diet. Know these before you commit.",
+    "meta_description": "Dalmatian breed guide: deafness (BAER testing), urate stones and low-purine diet requirements, high exercise needs, heavy shedding, and whether a Dalmatian fits your household."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "45–70 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "11–13 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "90–120 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low (high shed)" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good with energy match" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Manageable" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Dog_Dalmatian.jpg/250px-Sun_Dog_Dalmatian.jpg",
+      "alt": "Dalmatian"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Dalmatian?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Dalmatian is one of the most visually recognizable dog breeds in existence — white with black or liver spots, athletic build, and that distinctive expression. They were historically used as coach dogs, running alongside horse-drawn carriages for miles, and that history explains their exercise requirements. Dalmatians were bred for endurance and activity, and a Dalmatian without an adequate exercise outlet becomes a Dalmatian that destroys things.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Beyond the exercise requirement, there are two health facts about Dalmatians that every owner needs to understand before getting one: deafness is genetically common in the breed, and Dalmatians have a unique purine metabolism that makes their diet management a lifelong consideration.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">These aren't disqualifying — Dalmatians with hearing loss can live excellent lives with management, and the dietary requirements are straightforward once you understand them. But they're not optional knowledge. They affect which breeder you choose, what you feed your dog, and how you manage your household.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Dalmatians Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Medium to large, 45–70 lbs, with a lean, athletic, well-muscled build. The coat is short, dense, and close-fitting — and despite being short, it sheds constantly and heavily year-round. The distinctive spots (black or liver on white) develop after birth; Dalmatian puppies are born white and develop their spots in the first few weeks.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Dalmatian hair has a particular quality that makes it embed itself into fabric and upholstery rather than sitting on top. A lint roller is a permanent household necessity. This is one of those breeds where \"low grooming\" means almost no coat maintenance — but the shedding reality is significant.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Energetic, playful, and affectionate with family. Dalmatians bond closely with their people and are often described as \"velcro dogs\" within the family unit. They have the athletic build and energy of a working dog, which translates to a need for serious daily exercise — not a walk around the block, but real running or sustained activity.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With strangers: variable. Many Dalmatians are outgoing and friendly; others can be reserved or even wary. Early socialization shapes which direction they go. Under-socialized Dalmatians can develop anxiety-based reactivity that makes them difficult to manage in public.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With children: generally good with appropriate exercise and training — their energy can match active kids well. That same energy means an under-exercised Dalmatian around small children is a recipe for accidental knockdowns. Exercise first, then kids.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Dalmatian",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The 101 Dalmatians problem is real — the movies created a generation of people who wanted Dalmatians without any idea what owning one involves. The shelters filled up. The breed has recovered somewhat, but the mismatch between the image and the reality persists.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Here's what you actually get: a dog that needs 90 minutes to two hours of real exercise daily, sheds constantly in a way that gets into everything, requires a low-purine diet for life, and may have varying degrees of hearing loss that you need to know about and manage. That's not a complaint — it's a description of an active, engaging, beautiful breed for active owners who do their homework.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The deafness issue gets glossed over because it sounds alarming. It shouldn't be alarming — unilaterally deaf Dalmatians live completely normal lives and most owners never even know unless the dog is tested. The important part is that you work with a breeder who BAER tests their litters, so you know what you have. Bilaterally deaf dogs require more specialized management but are still placed in appropriate homes by responsible breeders.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">90–120 minutes of real exercise daily — not casual walking. Dalmatians excel at running, cycling alongside, hiking, agility, and any sustained athletic activity. An under-exercised Dalmatian becomes destructive, hyperactive indoors, and difficult to manage. If you're not an active person who will genuinely exercise your dog daily, this breed is not the right choice.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Diet</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">This is critical: Dalmatians have a unique purine metabolism that causes them to excrete uric acid rather than converting it to allantoin. This leads to urate crystal and stone formation in the urinary tract. High-purine foods must be avoided for life: organ meats, anchovies, sardines, herring, and some legumes. Choose a commercial food formulated with moderate protein from lower-purine sources, and ensure fresh water is always available. Discuss diet specifically with your vet at the first visit.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Minimal actual coat maintenance — weekly rubber mitt brush-out removes loose hair before it embeds in furniture. But accept that Dalmatian hair gets into everything. Lint rollers in every room and car are not optional. See the <a href=\"/blogs/dog-breeds/dalmatian-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Dalmatian grooming guide</a> for the full routine.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Dalmatians have two major breed-specific health considerations that are non-negotiable knowledge, plus standard large-breed concerns.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Congenital Deafness</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">15–30% of Dalmatians have some degree of hearing loss. About 8% are bilaterally deaf (both ears). Linked to the same piebald gene that creates the white coat. BAER (Brainstem Auditory Evoked Response) testing identifies affected dogs. Responsible breeders test entire litters. Unilaterally deaf dogs are indistinguishable from hearing dogs in daily life. Ask for BAER documentation before purchasing.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Urate Urinary Stones</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Dalmatians cannot metabolize purines normally, leading to uric acid buildup and urate crystal/stone formation. High-purine foods (organ meats, anchovies, sardines) must be avoided for life. Urinary blockage from stones is a veterinary emergency. Low-purine diet and fresh water access prevent most cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Present in the breed. OFA clearances should be confirmed from both parents. Managed with medication; severe cases require surgery.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Skin Allergies</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Atopic dermatitis is common. Presents as itching, skin irritation, and secondary infections. Management involves identifying triggers, appropriate diet, and in severe cases, medication.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Elevated rate in the breed. Manageable with daily medication once diagnosed.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> BAER hearing test results for the specific puppy, OFA hip clearances for both parents.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (moderate protein, low-purine)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,600–$4,700</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,500–$2,800</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/dalmatian-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Dalmatian first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Dalmatian Right for You?",
+      "good_fit": [
+        "Active owners who run, cycle, hike, or have a very active lifestyle",
+        "Owners who do their homework on the low-purine diet requirement",
+        "Families who want an athletic, energetic dog that matches their activity level",
+        "People who appreciate a striking, unique dog with personality",
+        "Owners who work with a breeder that BAER tests litters"
+      ],
+      "not_fit": [
+        "Owners who can't provide 90+ minutes of real exercise daily",
+        "People who can't tolerate constant, year-round heavy shedding",
+        "Households that feed organ meats or high-purine diets without adjusting for the breed",
+        "Anyone who sources a puppy from a breeder who doesn't BAER test",
+        "People who want a calm, low-key house dog"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Dalmatian",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,500 from reputable breeders. Non-negotiable: ask whether the entire litter was BAER tested, and ask for the results for your specific puppy. Ask for OFA hip clearances for both parents. The Dalmatian Club of America maintains a breeder referral. Breeders who don't BAER test are producing puppies with unknown hearing status — this is a meaningful welfare and management concern.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Dalmatian-specific rescue organizations exist. Many dogs are surrendered after owners underestimated the exercise requirements. Verify hearing status through BAER testing if it wasn't done previously.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Dalmatian comes home, review the <a href=\"/blogs/dog-breeds/dalmatian-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Dalmatian puppy checklist</a> — especially the diet setup and hearing test documentation items.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "Do all Dalmatians go deaf?", "a": "No — but it's common enough to take seriously. Approximately 15–30% of Dalmatians have some degree of hearing loss, and about 8% are bilaterally deaf (both ears). The condition is linked to the piebald gene responsible for the white coat. BAER testing identifies affected dogs at 5–6 weeks old. Unilaterally deaf Dalmatians (one functional ear) live completely normal lives and most owners don't know without testing." },
+    { "q": "What can't Dalmatians eat?", "a": "High-purine foods must be avoided: organ meats (liver, kidney, heart), anchovies, sardines, herring, and some shellfish. Dalmatians have a unique purine metabolism that leads to urate stone formation when fed high-purine diets. Standard commercial dog foods with moderate protein from chicken or beef are generally appropriate; organ-meat-based or fish-heavy foods are not. Discuss diet with your vet at the first visit." },
+    { "q": "How much exercise does a Dalmatian actually need?", "a": "More than most owners expect — 90 to 120 minutes of real exercise daily, not casual leash walking. Dalmatians were bred as coach dogs running alongside carriages for miles. They are endurance athletes. Running, cycling, agility, fetch, and hiking are appropriate activities. A Dalmatian that isn't adequately exercised becomes destructive, hyperactive, and difficult to live with." },
+    { "q": "Are Dalmatians good with kids?", "a": "Generally yes, particularly with active children who can match their energy. The main consideration is managing the dog's own energy level — an under-exercised Dalmatian's enthusiasm can knock over small children accidentally. With adequate daily exercise, Dalmatians are typically playful, affectionate family dogs." }
+  ],
+
+  "related_breeds": [
+    {"name": "Weimaraner", "slug": "weimaraner", "note": "Similar high-energy athletic profile, similar exercise needs, shorter coat"},
+    {"name": "Pointer", "slug": "pointer", "note": "Similar athletic build and exercise requirements, sporting group hunting background"},
+    {"name": "Australian Cattle Dog", "slug": "australian-cattle-dog", "note": "Similar endurance and work drive, different build and purpose"}
+  ]
+}

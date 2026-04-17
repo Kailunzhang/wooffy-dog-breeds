@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Chesapeake Bay Retriever Grooming Guide",
+    "slug": "chesapeake-bay-retriever-grooming-guide",
+    "shopify_handle": "chesapeake-bay-retriever-grooming-guide",
+    "group": "Chesapeake Bay Retriever",
+    "size_category": "Guide",
+    "tags": ["chesapeake-bay-retriever", "grooming", "oily-coat", "ear-cleaning", "water-resistant"],
+    "published": true,
+    "published_at": "2026-04-22T16:00:00Z",
+    "excerpt": "The Chessie's oily, wavy coat is a functional feature — not a grooming problem. Regular brushing distributes those oils and removes loose hair. Minimal bathing is the rule; over-washing strips the waterproofing this breed was built around. Ears need weekly attention.",
+    "meta_description": "Chesapeake Bay Retriever grooming guide: managing the oily water-resistant coat, why minimal bathing is essential, ear cleaning for a water dog, and the full maintenance routine."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/CH_Chesapeake.jpg/250px-CH_Chesapeake.jpg",
+      "alt": "Chesapeake Bay Retriever grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Chessie Coat",
+      "heading": "Understanding the Chesapeake Bay Retriever's Oily Coat",
+      "html": "<p>The Chesapeake Bay Retriever's wavy double coat with its characteristic oily texture is one of the most functionally adapted coats in the sporting group. The natural oils create water resistance — the coat sheds water, retains body heat even when wet, and dries relatively quickly after water work. This is not a grooming problem to be corrected; it is the breed's defining physical characteristic.</p><p>The practical implication: bathing must be infrequent and careful. Over-bathing strips the natural oils and degrades the coat's water-resistant function. A Chessie that smells slightly of dog after outdoor activity is a Chessie with a healthy, functional coat.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — for regular brushing and loose hair removal</li><li>Wide-tooth metal comb — for checking the coat and any tangles</li><li>Undercoat rake — useful during shedding season</li><li>Veterinary ear cleaner and cotton balls</li><li>Dog-safe shampoo formulated for double coats (used sparingly)</li><li>Nail clippers or grinder</li></ul>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush through the coat 2–3 times per week with a slicker brush — this removes loose hair and distributes the coat oils</li><li>Clean the ears thoroughly — critical for a breed that regularly swims (see ear section)</li><li>Check between paw pads for debris</li><li>Check for any mats — uncommon in this coat type, but check behind ears and in leg areas</li></ul><h3>Bathing: The Minimal-Bath Rule</h3><p>Bathe a Chesapeake Bay Retriever only when genuinely necessary — exposure to contaminants, strong odors beyond normal dog smell, or before a show. In practice, this typically means 3–4 baths per year for most dogs, fewer for working hunting dogs whose coat should be preserved.</p><p>When bathing, use a gentle shampoo designed for double coats. Rinse thoroughly. Do not use degreasing shampoos or dish soap — these strip the protective oils aggressively. After bathing, allow the coat to air dry or use a low-heat dryer; the coat restores its natural oils over a few days. Do not bathe immediately before cold-water work.</p><h3>Shedding Management</h3><p>Chessies shed moderately year-round with heavier seasonal shedding. During shedding periods, increase brushing to daily with an undercoat rake to manage loose hair volume. The wavy, dense coat doesn't release hair as freely as some breeds — consistent brushing is the most effective management tool.</p>"
+    },
+    "special": {
+      "label": "Ear Care",
+      "heading": "Ear Cleaning — Essential for Water Dogs",
+      "html": "<p>The Chesapeake Bay Retriever's ear conformation — floppy, close to the head — combined with frequent water exposure makes ear infections a predictable problem without preventive cleaning. Moisture trapped in the ear canal after swimming creates ideal conditions for bacterial and yeast growth. Weekly ear cleaning is non-optional for this breed.</p><h3>Post-Swim Ear Care</h3><p>After any swimming or significant water exposure, clean and dry the ears before moisture has time to create problems. This takes two minutes and prevents a cycle of chronic ear infections that many Chessie owners deal with when they skip this step. Make it part of the post-swim routine alongside drying the dog.</p><h3>Signs of Ear Problems</h3><p>Head shaking, scratching at ears, odor, redness, swelling, or discharge indicate an infection requiring veterinary treatment. Home ear cleaning treats prevention; it does not treat an active infection. If you're seeing these signs, see the vet — a culture may be needed to identify the specific pathogen before prescribing treatment.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "My Chessie smells like a wet dog even when dry. Is this normal?",
+      "a": "Yes — the oily coat that makes Chessies exceptional water dogs produces a distinctive smell that is normal and healthy for the breed. It's the same oils that make the coat water-resistant. Over-bathing to address the smell strips those oils and compromises what makes the Chessie unique. If the smell is extreme or accompanied by skin irritation, a vet visit is warranted to check for skin conditions — but moderate 'dog smell' is entirely normal."
+    },
+    {
+      "q": "How often should I brush a Chesapeake Bay Retriever?",
+      "a": "2–3 times per week during normal periods, daily during heavier seasonal shedding. The goal is to remove loose hair and distribute the natural coat oils. Use a slicker brush for regular maintenance and an undercoat rake when shedding is heavy."
+    },
+    {
+      "q": "Do Chessies need professional grooming?",
+      "a": "Not typically. The coat doesn't require trimming or specialized cuts, and the maintenance is manageable at home with consistent brushing and ear cleaning. Occasional professional baths for convenience are fine, but ensure the groomer understands the importance of not stripping the coat oils."
+    }
+  ]
+}

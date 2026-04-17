@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Finnish Spitz Grooming Guide",
+    "slug": "finnish-spitz-grooming-guide",
+    "shopify_handle": "finnish-spitz-grooming-guide",
+    "group": "Finnish Spitz",
+    "size_category": "Guide",
+    "tags": ["finnish-spitz", "grooming"],
+    "published": true,
+    "published_at": "2026-05-01T16:00:00Z",
+    "excerpt": "The Finnish Spitz's golden-red double coat is self-cleaning but sheds heavily twice a year. This guide covers brushing routines, managing seasonal shedding, and keeping that brilliant coat looking its best.",
+    "meta_description": "Finnish Spitz grooming guide: double coat care, seasonal shedding management, bathing tips, and brushing routines for this Nordic breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Finnish_Spitz_Aske.JPG/330px-Finnish_Spitz_Aske.JPG",
+      "alt": "Finnish Spitz grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Understanding the Finnish Spitz Double Coat",
+      "html": "<p>The Finnish Spitz has a classic Nordic double coat: a dense, wooly undercoat that provides insulation, covered by a longer, harsher outer coat that repels dirt and moisture. The coat is always golden-red in color, ranging from pale honey to deep auburn. The outer coat is particularly full around the neck and shoulders, giving the breed a mane-like effect.</p><p>This coat is remarkably self-cleaning — it sheds dirt effectively and rarely needs frequent bathing. However, it sheds significantly during two annual coat blows (typically spring and fall), when the undercoat is shed in large quantities. Outside of these periods, routine weekly brushing keeps the coat in excellent condition.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Weekly Brushing, Seasonal Shedding, and Bathing",
+      "html": "<p><strong>Regular Brushing:</strong> Brush the coat thoroughly once a week using a slicker brush followed by a metal comb. Work through the entire coat, paying extra attention to the neck ruff, behind the ears, and the pantaloons on the rear legs where tangles are more likely to form.</p><p><strong>Seasonal Shedding:</strong> During spring and fall coat blows, daily brushing — ideally with an undercoat rake or de-shedding tool — is necessary to manage the volume of loose undercoat. An undercoat rake used before the slicker brush dramatically speeds up this process. A professional de-shedding bath and blow-out during peak shedding is worth the investment.</p><p><strong>Bathing:</strong> Bathe every 6–8 weeks during normal periods, more frequently during shedding season to help loosen and remove the dead undercoat. Use a volumizing or double-coat dog shampoo. Thorough rinsing is critical — any shampoo residue left in the dense undercoat can cause skin irritation. Dry completely with a high-velocity dryer for best results.</p><p><strong>Nails and Ears:</strong> Trim nails every 3–4 weeks. Check and clean ears weekly. The erect ears of the Finnish Spitz allow good airflow, reducing infection risk, but routine checks are still important.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Coat Trimming and Common Issues",
+      "html": "<p><strong>No Clipping:</strong> The Finnish Spitz coat should never be shaved or clipped. Shaving a double-coated Nordic breed damages the coat's structure, disrupts the natural insulating function, and the coat often grows back incorrectly. The breed is shown in its natural coat with only minimal tidying of the feet and ears.</p><p><strong>Matting:</strong> Mats are uncommon in a properly maintained Finnish Spitz coat, but they can develop behind the ears and in the groin area if weekly brushing is neglected. Address any mats early with a detangling spray and careful combing — never try to brush out a dense mat dry.</p><p><strong>Coat Color:</strong> The golden-red color should remain vibrant with proper nutrition. A diet rich in omega-3 fatty acids (fish oil supplementation) supports coat luster and skin health, which is especially apparent in this breed's golden coat.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How bad is the Finnish Spitz shedding?",
+      "a": "During the twice-yearly coat blow, shedding is very heavy — large clumps of undercoat come out, and daily brushing is necessary. Year-round shedding outside these periods is moderate. This breed is not suitable for owners who are particular about keeping dog hair off furniture and clothing."
+    },
+    {
+      "q": "Can I take my Finnish Spitz to a regular groomer?",
+      "a": "Yes, though finding a groomer experienced with Nordic double coats is ideal. The most useful professional service is a de-shedding bath during peak shedding seasons. Avoid any groomer who suggests shaving or clipping a Finnish Spitz — this should never be done."
+    }
+  ]
+}

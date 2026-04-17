@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Yorkshire Terrier",
+    "shopify_handle": "yorkshire-terrier-grooming-guide",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "name": "Yorkshire Terrier Grooming Guide: Silky Coat Care and Styling Options",
+    "slug": "yorkshire-terrier-grooming-guide",
+    "excerpt": "How to groom a Yorkshire Terrier — from daily brushing for the show coat to the practical puppy cut, plus dental care that's essential for this breed.",
+    "meta_description": "How to groom a Yorkshire Terrier — from daily brushing for the show coat to the practical puppy cut, plus dental care that's essential for this breed.",
+    "tags": [
+      "Yorkshire Terrier",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%282_version%29_Grupp_3%2C_YORKSHIRETERRIER%2C_NO_UCH_SE_UCH_Oxzar_Amazing_Bel%E2%80%99s_Toffy_%2824310212305%29.jpg/330px-%282_version%29_Grupp_3%2C_YORKSHIRETERRIER%2C_NO_UCH_SE_UCH_Oxzar_Amazing_Bel%E2%80%99s_Toffy_%2824310212305%29.jpg",
+      "alt": "Yorkshire Terrier"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "The Coat",
+      "heading": "The Yorkshire Terrier's Silky Coat: Two Very Different Approaches",
+      "html": "<p>The Yorkshire Terrier has a fine, silky, human hair-like coat that grows continuously and does not shed seasonally in the way double-coated breeds do. This is a low-shedding coat, but it requires significant grooming effort to maintain. The choice of coat length dramatically affects the daily grooming commitment:</p><ul><li><strong>The long show coat:</strong> Floor-length, silky, and parted down the back. Stunning to look at, but requires daily brushing, regular bathing, and considerable time. Practical for show dogs or dedicated owners — not for most pets.</li><li><strong>The puppy cut (or teddy bear cut):</strong> Trimmed to a uniform 1–2 inch length all over. Significantly easier to maintain, requires professional trimming every 6–8 weeks, and daily brushing is still needed but takes much less time. This is the practical choice for most pet Yorkie owners.</li></ul><h3>Basic Grooming Schedule (Puppy Cut)</h3><ul><li><strong>Brushing:</strong> Daily, even with a short trim</li><li><strong>Professional trim:</strong> Every 6–8 weeks</li><li><strong>Bathing:</strong> Every 2–3 weeks</li><li><strong>Nail trimming:</strong> Every 2–3 weeks</li><li><strong>Ear cleaning:</strong> Weekly — Yorkies grow hair inside the ear canal</li><li><strong>Teeth brushing:</strong> Daily — toy breeds have critical dental disease risk</li></ul>"
+    },
+    "care": {
+      "label": "Brushing and Coat Care",
+      "heading": "How to Brush a Yorkie's Silky Coat",
+      "html": "<h3>Daily Brushing Is Required Regardless of Length</h3><p>The Yorkie's fine, silky coat tangles easily. Even in a short puppy cut, daily brushing prevents mats from forming — particularly behind the ears, under the armpits, and around the collar area. Use a pin brush for the body coat and a small slicker brush for tangled areas. Follow with a metal comb to verify no tangles remain against the skin.</p><h3>For Long Coats</h3><p>Long Yorkie coats require daily brushing with a pin brush using the line brushing technique — part the coat, hold the section above out of the way, and brush from the skin outward in small sections. Spraying lightly with a coat conditioner or water mist before brushing prevents static and breakage. Long coats should never be brushed dry without a mist — this damages the fine hair. Many owners keep long coats in paper wraps between grooming sessions to protect the ends.</p><h3>Bathing</h3><p>Yorkies benefit from more frequent bathing than most breeds — every 2–3 weeks. The fine coat gets greasy and attracts dirt quickly. Use a gentle, moisturising dog shampoo and a coat conditioner. Rinse thoroughly. Blow dry on a low heat setting while brushing — allowing the coat to air dry while the dog runs around leads to tangles and mats.</p>"
+    },
+    "special": {
+      "label": "Dental and Ear Care",
+      "heading": "The Two Non-Negotiable Health Care Tasks",
+      "html": "<h3>Daily Tooth Brushing: Critical for Yorkies</h3><p>Yorkshire Terriers are among the breeds most prone to severe dental disease. Their small mouths with crowded teeth are ideal environments for rapid tartar buildup and gum disease. Dental disease in this breed is painful, leads to early tooth loss, and the bacteria from periodontal infections enter the bloodstream and affect kidneys, liver, and heart. Daily tooth brushing — with a finger brush and dog-safe enzymatic toothpaste — from puppyhood is the most effective preventive measure. Start on the first day home.</p><h3>Ear Canal Hair</h3><p>Yorkies grow hair inside the ear canal, which traps moisture and debris and increases infection risk. Your groomer should remove excess ear canal hair at every professional appointment. Clean the ears weekly with a vet-approved ear cleaning solution to remove debris and moisture. Watch for head shaking, scratching at ears, or odor — these indicate infection requiring veterinary treatment.</p><h3>Professional Grooming Costs</h3><p>Professional grooming every 6–8 weeks typically costs $50–$80 per appointment — totaling $300–$640 per year. This is an unavoidable ongoing cost of owning a Yorkie in a puppy cut. If you choose a long coat, grooming appointments are typically longer and may cost more, but are slightly less frequent.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "What is the difference between a Yorkie show coat and a puppy cut?",
+      "a": "The show coat grows to floor length and is parted down the back — it requires daily brushing, frequent bathing, and considerable dedication. The puppy cut is a uniform short trim of 1–2 inches all over — much easier to maintain, requiring professional trimming every 6–8 weeks and daily brushing. Most pet Yorkie owners choose the puppy cut for its practicality."
+    },
+    {
+      "q": "How often should a Yorkie be brushed?",
+      "a": "Daily, regardless of coat length. The Yorkie's fine, silky coat tangles easily — even in a short puppy cut. Daily brushing prevents mat formation, particularly behind the ears and under the armpits where friction causes tangles most quickly."
+    },
+    {
+      "q": "Why is dental care so important for Yorkshire Terriers?",
+      "a": "Yorkshire Terriers have small, crowded mouths that accelerate tartar buildup and gum disease. Dental disease is painful, causes premature tooth loss, and the bacteria from periodontal infections enter the bloodstream. Daily tooth brushing from puppyhood and regular professional dental cleanings under anesthesia are essential, not optional, health care for this breed."
+    }
+  ]
+}

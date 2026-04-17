@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Skye Terrier Puppy Checklist",
+    "slug": "skye-terrier-puppy-checklist",
+    "shopify_handle": "skye-terrier-puppy-checklist",
+    "group": "Skye Terrier",
+    "size_category": "Guide",
+    "tags": ["skye-terrier", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-05-02T16:00:00Z",
+    "excerpt": "Bringing home a Skye Terrier puppy requires special preparation — including exercise restrictions for growing puppies. This checklist covers everything you need for a safe, positive start.",
+    "meta_description": "Skye Terrier puppy checklist: exercise restrictions, supplies, grooming introduction, socialization tips, and first-week routines for new owners."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Skye_Terrier_600.jpg/330px-Skye_Terrier_600.jpg",
+      "alt": "Skye Terrier puppy"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Special Preparations for a Skye Terrier Puppy",
+      "html": "<p><strong>Critical: Exercise Restrictions:</strong> The Skye Terrier's unusual skeletal proportions make it essential to restrict puppy exercise until approximately 18 months of age. Remove access to stairs (use baby gates), block the ability to jump on and off furniture (provide ramps or lift the puppy), and avoid any high-impact activities. Failure to follow these restrictions can cause serious, permanent orthopedic damage during the growth phase.</p><p><strong>Supplies Checklist:</strong></p><ul><li>Medium crate (the Skye weighs more than its height suggests — 35–45 lbs adult)</li><li>Ramps or steps to furniture if you plan to allow the puppy on the sofa</li><li>Baby gates for blocking stairs</li><li>Dog bed at floor level</li><li>Stainless steel food and water bowls</li><li>Age-appropriate food matching the breeder's diet</li><li>Flat collar and ID tag</li><li>Harness for low-impact walks</li><li>4-foot leash</li><li>Pin brush, wide-toothed comb, and conditioning spray</li><li>Appropriate chew toys</li><li>Enzymatic cleaner for accidents</li></ul><p><strong>First Vet Visit:</strong> Schedule within the first week. Discuss the breed-specific exercise restrictions with your vet and get their guidance for your specific puppy's development pace.</p>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "The First Week With a Skye Terrier Puppy",
+      "html": "<p><strong>Exercise Limits:</strong> Short, gentle walks on flat surfaces are appropriate. Avoid repetitive stair climbing, jumping, rough play, and running on hard surfaces. The puppy will have energy — channel it into calm indoor play and training rather than high-impact activity.</p><p><strong>Crate Training:</strong> Introduce the crate positively from day one. Skye Terriers are selective in their trust but respond very well to a safe, predictable den space. Use meals and treats to build positive crate associations gradually.</p><p><strong>Potty Training:</strong> Consistent outdoor schedule — first thing in the morning, after each meal, after naps, after play, and last thing at night. Carry the puppy to and from the door rather than allowing it to navigate stairs during house-training. Reward outdoor success immediately.</p><p><strong>Grooming Introduction:</strong> The adult coat develops over 18–24 months, but grooming habits should be established from day one. Gentle daily handling of the coat, ears, paws, and mouth with positive reinforcement prevents grooming from becoming a battle later — which is especially important given the high maintenance demands of the adult coat.</p>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Training and Socialization for a Selective Breed",
+      "html": "<p><strong>Socialization Is Critical:</strong> The Skye Terrier's natural tendency toward reserve with strangers can develop into problematic fearfulness without thorough, positive socialization during puppyhood. Expose your Skye puppy to a wide variety of people, sounds, environments, and other dogs during the 3–14 week window. Make every new experience positive and never force interactions.</p><p><strong>Building the Bond:</strong> The Skye Terrier is a breed where the human-dog relationship is the foundation of everything. Spend time daily in positive interaction — gentle training sessions, calm handling, quiet companionship. The depth of loyalty the Skye is capable of is earned through consistent, respectful relationship-building.</p><p><strong>Positive Reinforcement Only:</strong> Harsh training methods are counter-productive with the Skye Terrier. Punishment undermines trust and damages the bond. Reward-based training using treats, praise, and play is the only effective approach. Keep sessions short, positive, and frequent.</p><p><strong>Puppy Class:</strong> A well-run puppy class is valuable for both socialization and foundation training. Look for a class using force-free methods. The socialization opportunities are as important as the training content for a naturally reserved breed like the Skye.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Why can't Skye Terrier puppies use stairs?",
+      "a": "The Skye Terrier's extremely long-bodied, short-legged proportions put unusual stress on the developing spine and joints when navigating stairs and jumping. Allowing this during the growth phase (up to 18 months) can cause permanent orthopedic damage. Use ramps and gates, and carry the puppy when necessary."
+    },
+    {
+      "q": "Will my Skye Terrier be friendly with visitors?",
+      "a": "The Skye tends to be reserved with strangers throughout its life — this is a fundamental breed trait, not a training failure. Thorough socialization in puppyhood reduces the intensity of this reserve and helps the dog remain calm rather than fearful. But the Skye will never be the dog that greets every guest enthusiastically — and that's okay."
+    }
+  ]
+}

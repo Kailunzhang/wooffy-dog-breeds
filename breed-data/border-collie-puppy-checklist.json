@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Border Collie Puppy Checklist",
+    "slug": "border-collie-puppy-checklist",
+    "shopify_handle": "border-collie-puppy-checklist",
+    "group": "Border Collie",
+    "size_category": "Guide",
+    "tags": ["border-collie", "puppy", "checklist", "MDR1", "CEA", "mental-stimulation"],
+    "published": true,
+    "published_at": "2026-04-20T16:00:00Z",
+    "excerpt": "Everything you need before your Border Collie puppy comes home — including the DNA test documentation to request from the breeder and the mental stimulation plan this breed needs from day one.",
+    "meta_description": "Border Collie puppy checklist: CEA and MDR1 DNA test verification, mental stimulation plan, exercise limits for puppies, herding instinct management, and essential gear."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Border_Collie_600.jpg/250px-Border_Collie_600.jpg",
+      "alt": "Border Collie puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Border Collie Puppy Prep: Health Docs and Stimulation Plan",
+      "html": "<p>Two preparations matter before a Border Collie puppy arrives: collecting the correct DNA test documentation from the breeder, and building a mental stimulation and exercise plan. Border Collies are the most cognitively demanding herding breed — their need for mental engagement is not a preference, it's a requirement. A puppy that doesn't get it will find ways to use its brain that you won't enjoy.</p><h3>DNA Test Documentation to Request From Breeder</h3><ul><li><strong>CEA (Collie Eye Anomaly) DNA test</strong> for both parents — should be documented as Clear, Carrier, or Affected</li><li><strong>MDR1/ABCB1 DNA test</strong> for both parents — should be documented as Normal/Normal, Normal/Mutant, or Mutant/Mutant</li><li>OFA hip evaluation for both parents</li><li>These are standard documentation for any responsible Border Collie breeder — if unavailable, reconsider the source</li></ul><h3>Essential Gear Checklist</h3><ul><li>Medium crate (30–36 inch with divider panel)</li><li>Dog bed appropriate for a medium active breed</li><li>Stainless steel food and water bowls</li><li>Flat collar + ID tag (engrave on arrival day)</li><li>Harness for walks</li><li>4–6 ft leash</li><li>Slicker brush for coat maintenance (both rough and smooth)</li><li>High-value training treats</li><li>Enzymatic cleaner for accidents</li><li>Multiple puzzle feeders and enrichment toys</li><li>Fetch toys, herding balls (treibball), and tug toys for drive-channeling play</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit and Mental Engagement Start",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam including eye assessment</li><li>Vaccine schedule verification and continuation</li><li>Parasite prevention — inform the vet of the dog's MDR1 status from breeder documentation. MDR1-affected dogs cannot safely receive ivermectin and certain other medications</li><li>Discuss spay/neuter timing — some evidence favors waiting 12–18 months for medium breeds</li><li>Microchip if not placed by breeder</li><li>Enroll in pet insurance before this appointment or immediately after</li></ul><h3>MDR1: What Your Vet Needs to Know</h3><p>If the puppy's MDR1 test shows any mutant copies (Normal/Mutant or Mutant/Mutant), this information must be in the medical record before any medication is prescribed. MDR1-affected dogs require alternative dewormers, and their anesthetic protocols must be adjusted. Bring the breeder's DNA documentation to the first vet visit and ensure it is entered in the record.</p><h3>Mental Stimulation from Day One</h3><p>Start using puzzle feeders for meals immediately — there is no reason to feed a Border Collie from a plain bowl when a puzzle feeder provides the same nutrition plus cognitive engagement. Begin short training sessions (3–5 minutes, multiple times per day). The socialization window (8–16 weeks) is also the primary learning window — begin basic commands immediately.</p>"
+    },
+    "special": {
+      "label": "Training and Drive Management",
+      "heading": "Channeling the Border Collie Mind",
+      "html": "<h3>Training for the World's Most Trainable Breed</h3><p>Border Collies are generally considered the most trainable breed in the world — they learn quickly, retain reliably, and can master extremely complex tasks. This capacity is an asset if channeled; a problem if not. An undertrained Border Collie applies its intelligence to things you don't want it to: compulsive behaviors, managing the household, herding children and other pets.</p><ul><li>Puppy class at 8–10 weeks — start formal training as early as possible</li><li>Progress quickly through training levels — most Border Collies outpace standard puppy class curriculum fast</li><li>Consider agility, herding, treibball, or disc dog — structured sports use the cognitive drive productively</li><li>Teach impulse control exercises: wait, leave it, stay — these manage the intensity that comes with high drive</li></ul><h3>Managing Herding Instincts</h3><p>Border Collies will attempt to herd children, other pets, and sometimes moving vehicles. This is instinctual and must be redirected consistently from puppyhood:</p><ul><li>Never chase or encourage the herding stare at children or pets — redirect to a toy immediately</li><li>Consistent redirection to appropriate outlets (herding balls, structured fetch) builds the habit</li><li>Puppies that practice herding behaviors on children develop them as adult habits</li></ul><h3>Exercise Rules for Puppies</h3><p>Despite their energy, Border Collie puppies have developing joints. Follow the 5-minutes-per-month-of-age guideline for structured leash walks. Cognitive engagement — training, puzzle toys, controlled play — meets the mental need without joint stress. Growth plates close around 12–14 months. Adult exercise levels (which are high) are appropriate after growth is complete.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "What DNA tests should my Border Collie breeder provide?",
+      "a": "CEA (Collie Eye Anomaly) and MDR1/ABCB1 DNA test results for both parents are the minimum standard for responsible Border Collie breeding. OFA hip evaluations should also be provided. Any breeder that can't produce these documents is either not testing, or testing and concealing results — both are reasons to look elsewhere."
+    },
+    {
+      "q": "How much mental stimulation does a Border Collie need?",
+      "a": "Significantly more than most other breeds. A Border Collie that gets only physical exercise without mental engagement is not a content dog — it's a dog with physical energy spent but cognitive drive fully intact, which typically manifests as anxiety, compulsive behaviors, or destructiveness. Training sessions, puzzle toys, dog sports, and working with the breed's intelligence daily is the correct approach. This is not an exaggeration of the breed's needs."
+    },
+    {
+      "q": "Are Border Collies good family dogs?",
+      "a": "For families that can meet their exercise and stimulation requirements, yes. For households with very young children or inactive owners, the match is harder — the herding instinct directed at running children can be persistent, and the breed's energy and intelligence requirements don't pause for family life. Active families who enjoy dog sports or outdoor activities are typically the best fit for this breed."
+    }
+  ]
+}

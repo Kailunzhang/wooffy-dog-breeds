@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Gordon Setter Grooming Guide",
+    "slug": "gordon-setter-grooming-guide",
+    "shopify_handle": "gordon-setter-grooming-guide",
+    "group": "Gordon Setter",
+    "size_category": "Guide",
+    "tags": ["gordon-setter", "grooming", "silky-coat", "feathering", "black-and-tan"],
+    "published": true,
+    "published_at": "2026-04-23T16:00:00Z",
+    "excerpt": "The Gordon Setter's black-and-tan silky coat is beautiful and requires consistent weekly maintenance. Here's the full routine — including ear care, feathering management, and bathing.",
+    "meta_description": "Gordon Setter grooming guide: brushing the silky black-and-tan coat, managing feathering, ear cleaning for drop-eared sporting dogs, and professional grooming intervals."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Orrvilas_enska_w800px.jpg/250px-Orrvilas_enska_w800px.jpg",
+      "alt": "Gordon Setter grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Gordon Setter Coat",
+      "heading": "Understanding the Black-and-Tan Silky Coat",
+      "html": "<p>The Gordon Setter's coat is silky and slightly wavy — a single coat without the dense undercoat of northern breeds. The distinctive black-and-tan coloring requires no special maintenance beyond what any silky feathered coat needs, but the feathering on legs, chest, and tail does accumulate tangles and must be brushed consistently. The rich black of the coat shows dust and debris readily, so regular brushing and periodic bathing keeps the coat looking its best.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — primary tool for regular coat maintenance</li><li>Wide-tooth steel comb — for checking feathering for tangles</li><li>Dematting comb — for working out tangles before they become mats</li><li>Thinning shears — for tidying feathering and feet</li><li>Dog-safe shampoo formulated for silky or black coats (color-enhancing formulas can deepen the black)</li><li>Conditioner — essential for silky coats to reduce tangles</li><li>Ear cleaning solution and cotton balls</li></ul><h3>Shedding Level</h3><p>Moderate year-round. Less than double-coated breeds but present — the black hair is particularly visible on light-colored furnishings. Regular brushing is the primary management tool. There is no dramatic seasonal blow as with northern breeds; shedding is consistent year-round.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Full brush-through with the slicker brush — work head to tail, then spend time on the feathering on the legs, chest, belly, and tail where mats form</li><li>Follow with the wide-tooth comb through all feathered areas — the comb finds tangles the brush passes over</li><li>Ear check and cleaning — weekly minimum for all drop-eared breeds. Wipe the outer ear canal with a cotton ball dampened with ear cleaner. Any odor, redness, or discharge warrants a vet visit.</li><li>Check paw pads for debris and trim hair between pads if needed</li></ul><h3>Monthly</h3><ul><li>Bathe every 4–6 weeks or when dirty. Use a silky coat shampoo and follow with conditioner — conditioner is not optional for this coat type, it prevents the feathering from tangling during and after the bath</li><li>Blow dry while brushing to prevent the feathering from drying tangled. Low heat, work through the feathering with the slicker brush as you dry</li><li>Trim nails — use a grinder if the dog will tolerate it, clippers otherwise. Overgrown nails in a large athletic breed affect gait over time</li></ul><h3>Every 6–8 Weeks: Professional Grooming</h3><p>A professional groomer can shape the feathering, tidy the head, ears, and feet, and maintain the overall presentation. For field dogs, a shorter working trim reduces maintenance considerably. Tell the groomer explicitly what you want — show presentation, tidied but natural, or field trim — and confirm they won't significantly alter the coat without instruction.</p>"
+    },
+    "special": {
+      "label": "Ear Care and Field Dog Maintenance",
+      "heading": "Ear Health and Working Dog Grooming",
+      "html": "<p>Two grooming areas deserve specific attention for Gordon Setters: chronic ear health management (the drop ear creates real infection risk) and post-field-work coat care for dogs that hunt or work in cover.</p><h3>Ear Infections: Prevention Is Much Easier Than Treatment</h3><p>Gordon Setters' drop ears restrict airflow to the ear canal, creating conditions where yeast and bacteria thrive. Weekly ear maintenance is genuine preventive care. After any water exposure — bathing, swimming, rain — dry the outer ear canal with a cotton ball. Chronic ear infections become increasingly difficult to treat as the ear canal tissues change; catching infections early when they're still acute and responsive to medication is far preferable to managing chronic otitis.</p><ul><li>Weekly routine: dampen a cotton ball with ear cleaner, gently wipe the outer canal, let dry</li><li>Post-water: dry the outer canal after every swimming or bathing session</li><li>Watch for: head shaking, ear scratching, discharge, or odor — any of these is a vet visit, not a cleaning</li></ul><h3>Field and Hunting Dog Coat Care</h3><p>Gordon Setters that work in cover (brush, heavy grass, woodland) accumulate burrs, seeds, and plant material in the feathering. Check the entire coat after every field outing — burrs left in the coat mat quickly and become difficult to remove without cutting. Many hunting owners keep their Gordons in a field trim (shorter feathering) during hunting season to simplify post-outing maintenance. This is a practical choice; the shorter trim grows back.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How do I keep my Gordon Setter's black coat looking good?",
+      "a": "Regular brushing removes dust and loose hair that dulls the coat's appearance. Bathing every 4–6 weeks with a quality shampoo formulated for black or silky coats keeps the color rich. Some owners use color-enhancing shampoos formulated for black dogs — these can deepen the black and add shine. Conditioner during every bath is essential for the silky feathering."
+    },
+    {
+      "q": "How often do Gordon Setter ears need cleaning?",
+      "a": "Weekly at minimum for routine maintenance. After any water exposure (bathing, swimming), the outer canal should be dried with a cotton ball. Drop-eared sporting dogs develop ear infections at higher rates than prick-eared breeds, and consistent weekly maintenance significantly reduces infection frequency. If you notice odor, discharge, redness, or the dog shaking or scratching at ears, see your vet — that's an infection, not something cleaning alone will resolve."
+    },
+    {
+      "q": "Should I get my Gordon Setter professionally groomed?",
+      "a": "Every 6–8 weeks is practical for most owners. A professional groomer manages feathering length and shape, which simplifies at-home brushing significantly. Owners who learn to trim feathering themselves can extend intervals between professional appointments. The key instruction to give any groomer: specify the style you want (show presentation, tidied-up natural look, or field trim) before the appointment begins."
+    }
+  ]
+}

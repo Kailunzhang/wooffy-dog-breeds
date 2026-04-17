@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Pug",
+    "shopify_handle": "pug-grooming-guide",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "name": "Pug Grooming Guide: Wrinkle Care, Eye Cleaning, and Coat Maintenance",
+    "slug": "pug-grooming-guide",
+    "excerpt": "How to groom a Pug — including the daily skin fold cleaning and eye cleaning that are essential health maintenance, not just cosmetics.",
+    "meta_description": "How to groom a Pug — including the daily skin fold cleaning and eye cleaning that are essential health maintenance, not just cosmetics.",
+    "tags": [
+      "Pug",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mops-duke-mopszucht-vom-maegdebrunnen.jpg/330px-Mops-duke-mopszucht-vom-maegdebrunnen.jpg",
+      "alt": "Pug dog"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Grooming Overview",
+      "heading": "Pug Grooming: It's More Health Maintenance Than Coat Care",
+      "html": "<p>The Pug's short, smooth coat is easy to maintain — a quick brush and occasional bath is all the coat itself requires. What makes Pug grooming demanding is the daily care required for the skin folds, wrinkles, and prominent eyes. Neglecting these areas leads to skin fold dermatitis, eye infections, and chronic discomfort. Pug owners should think of daily wrinkle and eye cleaning not as optional grooming extras but as basic, non-negotiable health care.</p><h3>Basic Grooming Schedule</h3><ul><li><strong>Wrinkle and skin fold cleaning:</strong> Daily — especially the nose roll and facial wrinkles</li><li><strong>Eye cleaning:</strong> Daily — wipe discharge from the corners</li><li><strong>Coat brushing:</strong> 2–3 times per week with a soft bristle brush (Pugs shed more than the short coat suggests)</li><li><strong>Bathing:</strong> Every 3–4 weeks, or when the dog smells</li><li><strong>Ear cleaning:</strong> Weekly</li><li><strong>Nail trimming:</strong> Every 3–4 weeks</li><li><strong>Teeth brushing:</strong> Daily — small brachycephalic dogs have severe dental disease risk</li></ul>"
+    },
+    "care": {
+      "label": "Wrinkle and Eye Care",
+      "heading": "Daily Skin Fold Cleaning: The Most Important Task",
+      "html": "<h3>Why Wrinkle Cleaning Is Non-Negotiable</h3><p>The deep skin folds on a Pug's face — particularly the nose roll (the large fold above the nose), the forehead wrinkles, and any body folds around the tail area — trap moisture, debris, and bacteria. This creates the perfect environment for skin fold dermatitis: a painful, malodorous bacterial and yeast infection of the skin within the fold. In moderate cases it causes redness, odor, and itching. In neglected cases, the infection can cause open sores requiring veterinary treatment.</p><h3>How to Clean the Folds</h3><p>Use unscented baby wipes or pet-safe cleansing wipes designed for skin folds. Gently open each fold and wipe the skin inside — remove any debris or discharge. Then dry the fold thoroughly. Moisture left in the fold after cleaning is counterproductive — the warm, wet environment is what drives infection. A soft dry cloth or cotton round can finish the job. Do this every day as part of the morning or evening routine.</p><h3>Daily Eye Cleaning</h3><p>Pugs have prominent, shallow eye sockets that make their eyes vulnerable to discharge buildup and to contact injuries. Wipe gently around the eyes daily with a damp cotton round to remove discharge from the corners. Watch for cloudiness, excessive squinting, redness, or pawing at the eyes — these can indicate corneal injuries (corneal ulcers are common in brachycephalic breeds) or other issues requiring prompt veterinary attention.</p>"
+    },
+    "special": {
+      "label": "Coat and Ear Care",
+      "heading": "Managing the Pug's Surprisingly Heavy Shedding",
+      "html": "<h3>Pugs Shed More Than You'd Expect</h3><p>The Pug's short coat sheds year-round, and fawn Pugs in particular shed a noticeable amount. A soft bristle brush or rubber curry comb used 2–3 times per week removes loose fur before it ends up on furniture and clothing. During seasonal shedding periods, daily brushing reduces fur migration through the house significantly.</p><h3>Ear Cleaning</h3><p>Clean the ears weekly with a vet-approved ear cleaning solution. Pugs have small ear canals that can trap debris. Wipe the visible inner ear flap and the entrance of the canal — do not insert anything deep into the canal. Watch for odor, discharge, or scratching at the ears, which indicate infection requiring veterinary treatment.</p><h3>Tail Pocket</h3><p>Some Pugs have a skin fold around the base of the tail — a 'tail pocket' — that requires the same daily cleaning as the facial folds. Not all Pugs have a pronounced tail pocket, but if yours does, it is one of the most infection-prone areas on the dog. Check and clean it daily alongside the facial folds.</p><h3>Bathing</h3><p>Bathe the Pug every 3–4 weeks. After bathing, it is particularly important to dry all skin folds thoroughly — a damp fold after a bath is an ideal infection environment. Use a soft dry cloth or blow-dryer on a low, warm setting to dry inside the folds before the dog has a chance to trap moisture.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often do I need to clean a Pug's wrinkles?",
+      "a": "Daily. The skin folds on a Pug's face — particularly the nose roll — trap moisture and bacteria and will develop skin fold dermatitis if not cleaned regularly. Wipe inside each fold with an unscented wipe, then dry thoroughly. This takes 2–3 minutes and prevents a painful, expensive condition. Once per week is not sufficient for most Pugs."
+    },
+    {
+      "q": "Why do Pugs get eye problems so often?",
+      "a": "Pugs have brachycephalic (flat-faced) skull structure that leaves their eyes prominent and somewhat exposed — the eye socket is shallower than in longer-muzzled breeds, which means the cornea is more vulnerable to contact injuries. Corneal ulcers are common and painful. Daily eye cleaning removes discharge, and any sign of squinting, cloudiness, or redness should be evaluated by a vet promptly — corneal injuries worsen quickly without treatment."
+    },
+    {
+      "q": "Do Pugs shed a lot for a short-haired dog?",
+      "a": "More than most owners expect. Despite the short coat, Pugs — particularly fawn ones — are moderate to heavy shedders year-round. Regular brushing 2–3 times per week significantly reduces fur on furniture and clothing. A rubber curry comb or bristle brush works well on the short coat."
+    }
+  ]
+}

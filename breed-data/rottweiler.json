@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "name": "Rottweiler",
+    "slug": "rottweiler",
+    "shopify_handle": "rottweiler",
+    "group": "Working Group",
+    "size_category": "Large Breed",
+    "tagline": "Rottweilers are calm, confident, and deeply loyal — one of the most capable guard dogs available as a family pet. They require experienced, consistent handling to become the dog they're capable of being.",
+    "tags": ["working-group", "large-breed", "guard-dog", "family-dog", "dog-breeds"],
+    "published": true,
+    "excerpt": "Rottweilers are loyal, calm, and naturally protective — excellent dogs for the right owner. They need consistent training, early socialization, and experienced handling. In the wrong hands, their power and protective instincts become a liability.",
+    "meta_description": "Is a Rottweiler right for you? The honest guide to Rottweiler temperament, guarding instinct, exercise needs, health costs, and what experienced ownership actually requires."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "80–135 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "9–10 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–80 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low–Moderate" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate (needs it)" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good with family" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Not recommended" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rottweiler_standing_facing_left.jpg/330px-Rottweiler_standing_facing_left.jpg",
+      "alt": "Rottweiler"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Rottweiler?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Rottweiler is a powerful working dog with a history as a cattle driver, draft dog, and police and military service animal. In the right home, they're calm, confident, loyal to family, and naturally protective — one of the most capable guard dogs that can simultaneously be a genuine family companion.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest version: Rottweilers are not a breed to get casually. They're large (80–135 lbs), physically powerful, and have strong protective instincts that require consistent training and early socialization to develop appropriately. A well-trained Rottweiler with a competent owner is an exceptional dog. A poorly socialized, undertrained Rottweiler with an inexperienced owner is a genuine problem — and the consequences of mistakes with a 120-lb dog are proportionally significant.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They're also shorter-lived than many breeds (9–10 years average) with specific health concerns that require proactive management. Go into this ownership decision with eyes open.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Rottweilers Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Large, massively built, and powerful — Rottweilers weigh 80–135 lbs (females on the lower end, males on the higher) and stand 22–27 inches at the shoulder. The characteristic black-and-mahogany or black-and-rust coloring is consistent across the breed — a black base with tan/rust markings on the muzzle, cheeks, chest, and legs. Short, dense double coat. Naturally docked tail (though this is becoming less common where docking is banned). The overall impression is of power, substance, and confident calm — a well-bred Rottweiler has an air of settled self-assurance, not nervousness or aggression.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A well-bred, well-socialized Rottweiler is calm, self-assured, and deeply loyal to its family. They're not hyperactive or frantic; a settled Rottweiler is quiet in the house, manageable on leash when trained, and affectionate with family members. They take their guarding role seriously and are naturally alert to unusual activity — this makes them effective deterrents and protectors.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Rottweilers are naturally aloof with strangers — not aggressive by default, but not warmly welcoming either. This is appropriate protective behavior that requires channeling through early socialization and training. Without adequate socialization, the aloofness can develop into reactivity.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Important: Rottweilers have a strong instinct to herd — they physically push and bump into family members, especially children. This is not aggression; it's herding behavior. With small children, this can be dangerous simply due to size. Supervision and training to redirect this behavior matter for safety.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Rottweiler",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Rottweilers are genuinely excellent dogs — calm, loyal, impressive, and capable. They're also a breed that punishes underprepared ownership more than most. A first-time owner who gets a Rottweiler without a training plan, proper socialization, and realistic expectations about what a 120-lb protective dog requires is setting themselves up for a difficult experience.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The liability aspect is real and worth addressing directly. Rottweilers are on the restricted breeds list for many homeowner's insurance policies and rental agreements. Verify your insurance and housing situation before committing. This is an annoying practical reality of ownership that people often discover after the fact.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The lifespan is shorter than most people expect — 9–10 years average. And the health costs are real: joint issues, heart problems, and cancer rates are elevated. Insurance is especially important for this breed. Go into it knowing you'll likely have 9–10 years with this dog, not 15, and budget accordingly.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–80 minutes of daily exercise. Rottweilers need real physical activity but are not as high-energy as some working breeds. Structured walks, play sessions, and training exercises satisfy their needs well. Mental engagement through training and problem-solving is as important as physical exercise.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Coat:</strong> Weekly brush; minimal maintenance overall</li><li><strong style=\"color:#1a1a1a;\">Shedding:</strong> Moderate year-round with seasonal increase; less than double-coated breeds but present</li><li><strong style=\"color:#1a1a1a;\">Bathing:</strong> Every 6–8 weeks</li><li><strong style=\"color:#1a1a1a;\">Ears:</strong> Weekly check; semi-floppy ears can trap moisture</li><li><strong style=\"color:#1a1a1a;\">Nails:</strong> Every 3–4 weeks</li></ul><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">See the <a href=\"/blogs/dog-breeds/rottweiler-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Rottweiler grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Early socialization (8–16 weeks) is critical. Consistent positive reinforcement training from puppyhood. Basic obedience at minimum; ongoing training through adulthood is recommended for this breed. Rottweilers respond well to clear, consistent leadership and positive reinforcement. Harsh methods produce a stressed, less reliable dog. Professional training or obedience classes are strongly recommended for first-time Rottweiler owners.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip &amp; Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Common in large heavy breeds. OFA clearances on both parents essential. Ranges from managed medically to surgical intervention ($3,000–$6,000 per joint).</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Aortic Stenosis (Heart)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inherited heart condition. Annual cardiac exams and cardiac clearance on breeding stock recommended. Can be life-limiting in severe cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Life-threatening emergency in large deep-chested breeds. Feed 2 meals daily, no exercise immediately after eating. Surgery $3,000–$7,000.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Cancer</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Rottweilers have above-average cancer rates, particularly osteosarcoma (bone cancer) and lymphoma. This is a primary driver of the shorter average lifespan. Regular vet checks catch early signs.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Osteochondrosis (OCD)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Developmental joint condition. Controlled growth through appropriate large-breed puppy food and exercise limits during development helps reduce risk.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip and elbow clearances, cardiac clearance from a cardiologist</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,000–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large/XL breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$800–$1,400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$800–$1,400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$960–$1,800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$960–$1,800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Training (non-optional)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$4,000–$8,000+</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,200–$4,200</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/rottweiler-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Rottweiler first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Rottweiler Right for You?",
+      "good_fit": [
+        "Experienced dog owner with large breed history",
+        "Committed to proper early socialization and ongoing training",
+        "Want a loyal, protective family dog with genuine guarding capability",
+        "Have secure fencing and appropriate space for a large dog",
+        "Verified homeowner's insurance and housing allows the breed"
+      ],
+      "not_fit": [
+        "First-time dog owner without a serious training commitment",
+        "Households with very young children and no management plan for a large herding dog",
+        "Renting where breed restrictions apply",
+        "Away from home most of the day without adequate stimulation and exercise plan",
+        "Want a friendly, welcoming dog with strangers"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Rottweiler",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,000–$2,500 from a reputable breeder. Required health tests: OFA hip and elbow clearances, cardiac clearance from a board-certified cardiologist. The temperament of the parents matters significantly for this breed — meet them if at all possible. Avoid breeders producing dogs specifically for aggression or extreme guarding traits.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Rottweiler rescues have dogs surrendered from owners who underestimated the breed's needs. Many are sound dogs in difficult circumstances. Get a thorough behavioral assessment — history and temperament evaluation matter especially for this breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Review the <a href=\"/blogs/dog-breeds/rottweiler-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Rottweiler puppy checklist</a> — insurance and training enrollment before pickup are especially important for this breed.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Are Rottweilers good family dogs?",
+      "a": "Yes — a well-socialized, trained Rottweiler can be an excellent family dog: loyal, affectionate with their people, and naturally protective. The 'good family dog' outcome requires early socialization and consistent training. With small children, the herding instinct to bump and push needs to be managed through training and supervision — a 120-lb dog being playful is physically significant around toddlers."
+    },
+    {
+      "q": "Are Rottweilers aggressive?",
+      "a": "Not inherently. A properly socialized and trained Rottweiler is confident and appropriate in its responses — protective without being unpredictably aggressive. The breed has naturally strong protective instincts that need to be developed through training. Poor socialization, harsh handling, or deliberate training for aggression produces dangerous dogs. The breed's capabilities make the consequences of bad handling significant."
+    },
+    {
+      "q": "Will my homeowner's insurance cover a Rottweiler?",
+      "a": "Not automatically. Rottweilers are on the restricted or excluded breeds list for many insurance carriers. Check your specific policy before getting the dog — and if you're renting, check your lease. Some insurers will cover restricted breeds with additional documentation or riders; others will not. Discovering your coverage is voided after a bite incident is a costly situation."
+    },
+    {
+      "q": "How long do Rottweilers live?",
+      "a": "9–10 years on average — shorter than most breeds their size. The elevated cancer rates (particularly osteosarcoma and lymphoma) are the primary driver. This shorter lifespan is a real emotional and practical consideration. It makes regular vet checkups and pet insurance especially important for early detection and financial management of health events."
+    }
+  ],
+
+  "related_breeds": [
+    {"name": "German Shepherd Dog", "slug": "german-shepherd-dog", "note": "Similar guarding instinct, more intense working drive"},
+    {"name": "Doberman Pinscher", "slug": "doberman-pinscher", "note": "Sleeker, higher energy, similar protective temperament"},
+    {"name": "Bernese Mountain Dog", "slug": "bernese-mountain-dog", "note": "Similar large size, calmer and friendlier temperament"},
+    {"name": "Boxer", "slug": "boxer", "note": "Similar working group background, more playful and energetic"}
+  ]
+}

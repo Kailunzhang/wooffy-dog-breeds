@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Toy Fox Terrier Puppy Checklist",
+    "slug": "toy-fox-terrier-puppy-checklist",
+    "shopify_handle": "toy-fox-terrier-puppy-checklist",
+    "group": "Toy Fox Terrier",
+    "size_category": "Guide",
+    "tags": ["toy-fox-terrier", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-05-01T16:00:00Z",
+    "excerpt": "Ready to bring home a Toy Fox Terrier puppy? This checklist covers supplies, home setup, the first week routine, and essential early training priorities.",
+    "meta_description": "Toy Fox Terrier puppy checklist: everything you need before bringing your TFT puppy home — supplies, vet visits, crate training, and more."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Toy_Fox_Terrier_2.jpg/330px-Toy_Fox_Terrier_2.jpg",
+      "alt": "Toy Fox Terrier puppy"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Preparing Your Home for a Toy Fox Terrier Puppy",
+      "html": "<p><strong>Puppy-Proofing:</strong> The TFT is small and quick — gaps under furniture, loose electrical cords, and open staircases are all hazards. Use baby gates to limit access to areas that aren't yet safe. Remove toxic houseplants and secure any chemicals or medications at floor level.</p><p><strong>Supplies Checklist:</strong></p><ul><li>Airline-size or small wire crate with a cozy pad</li><li>Small stainless steel food and water bowls</li><li>Small-breed puppy food (continue whatever the breeder was feeding initially)</li><li>Lightweight flat collar with ID tag</li><li>Step-in harness (recommended for everyday walks)</li><li>4-foot and 6-foot leashes</li><li>Rubber curry brush or grooming mitt</li><li>Puppy-safe interactive toys and a few chews</li><li>Enzymatic cleaner for accidents</li><li>Dog sweater or coat for cold weather (essential for this breed)</li></ul><p><strong>First Vet Appointment:</strong> Book within 3–5 days of bringing puppy home. Bring all health records from the breeder and ask about the vaccination and deworming schedule going forward.</p>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "The First Week: Building Routines",
+      "html": "<p><strong>Crate Introduction:</strong> Start crate training immediately but positively. Feed all meals inside the crate, place familiar-smelling bedding inside, and leave the door open initially. Build up to closed-door sessions incrementally. TFTs generally adapt to crating well when not rushed.</p><p><strong>Potty Training:</strong> Establish a strict outdoor potty schedule: immediately after waking, after every meal, after play sessions, and before bed. At 8–10 weeks, puppies may need to go outside every 1–2 hours. Mark success with calm praise and a tiny treat. Don't punish accidents — simply clean up and adjust the schedule.</p><p><strong>Handling and Socialization:</strong> Handle paws, ears, mouth, and tail daily. This makes vet exams and grooming much easier later. Introduce your puppy to different people, surfaces, sounds, and environments during the socialization window (3–14 weeks).</p><p><strong>Cold Weather:</strong> If bringing a TFT puppy home in autumn or winter, have a puppy-sized sweater ready. Their thin coat provides almost no protection against cold. Short outdoor bathroom trips are fine; prolonged cold exposure is not.</p>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Early Training for a Bright Terrier Brain",
+      "html": "<p><strong>Start Early:</strong> Toy Fox Terriers are highly trainable and genuinely enjoy learning. Start with basic cues — sit, down, come, leave it — using positive reinforcement from the first week home. Short sessions of 3–5 minutes work best for puppies with short attention spans.</p><p><strong>Prey Drive Management:</strong> The TFT has a natural instinct to chase small, fast-moving things. Begin teaching a solid 'leave it' command early, and practice recall in safe, enclosed spaces. This investment pays off for the lifetime of the dog.</p><p><strong>Bark Training:</strong> TFTs are alert dogs that will bark at sounds. Teach a 'quiet' cue early using the interrupt-and-reward method. Consistency here prevents nuisance barking from becoming deeply ingrained.</p><p><strong>Leash Manners:</strong> Small terriers can be determined pullers despite their size. Start loose-leash walking practice in low-distraction environments early. A front-clip harness helps manage pulling while teaching proper leash manners.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "At what age can a Toy Fox Terrier puppy go to obedience classes?",
+      "a": "Most puppy classes accept dogs from 7–8 weeks after their first round of vaccines. Puppy socialization classes are highly recommended for TFTs — the breed benefits greatly from early, positive exposure to other dogs and people in a controlled environment."
+    },
+    {
+      "q": "How long can a Toy Fox Terrier puppy be left alone?",
+      "a": "Very young puppies (8–12 weeks) should not be left alone for more than 1–2 hours. As they mature, they can handle longer periods, but no dog should be isolated for more than 6–8 hours regularly. TFTs can develop separation anxiety if left alone too long too soon."
+    }
+  ]
+}

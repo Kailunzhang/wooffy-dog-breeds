@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "name": "Pekingese",
+    "slug": "pekingese",
+    "shopify_handle": "pekingese",
+    "group": "Toy",
+    "size_category": "Small",
+    "tags": ["pekingese", "toy-group", "small-dog"],
+    "published": true,
+    "published_at": "2026-04-30T16:00:00Z",
+    "excerpt": "The Pekingese is an ancient Chinese imperial breed of extraordinary dignity and flowing beauty. Opinionated, loyal, and unmistakably regal, the Peke carries centuries of palace breeding in every deliberate step.",
+    "meta_description": "Complete guide to the Pekingese dog — temperament, grooming, health, costs, and care for this ancient Chinese Toy breed with a flowing double coat."
+  },
+  "stats": {
+    "height": "6–9 inches",
+    "weight": "Up to 14 lbs",
+    "lifespan": "12–14 years",
+    "energy_level": "Low",
+    "grooming_needs": "High",
+    "good_with_kids": false,
+    "good_with_other_dogs": true,
+    "shedding": "High",
+    "trainability": "Difficult"
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pekingese_2.jpg/330px-Pekingese_2.jpg",
+      "alt": "Pekingese"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "The Pekingese: Imperial China's Most Beloved Companion",
+      "html": "<p>The Pekingese is one of the oldest dog breeds in the world, with a history stretching back over 2,000 years in the imperial courts of China. These dogs were the exclusive property of the Chinese imperial family — common citizens were forbidden from owning one, and stealing a Peke was punishable by death. It was not until the sacking of the Summer Palace in Beijing during the Second Opium War in 1860 that Pekingese dogs were brought to the West, where they became immediate sensations in aristocratic households.</p><p>Today, the Pekingese retains every bit of that imperial bearing. They are dignified, opinionated, and utterly convinced of their own importance — characteristics that owners find endearing once they understand them. The Peke does not so much obey commands as consider them and decide whether to comply based on his own judgment. Training a Pekingese requires patience, respect, and a sense of humor.</p><p>Physically, the Peke is immediately recognizable: a long, flowing double coat, a flat face with wide-set dark eyes, a mane of heavier hair around the neck and shoulders, and a distinctive rolling gait caused by his wide front and somewhat bowed forelegs. He is a small dog — typically 6 to 9 inches tall and weighing up to 14 pounds — but carries himself with the gravity of a much larger animal.</p>"
+    },
+    "appearance": {
+      "label": "Appearance",
+      "heading": "Long, Flowing, and Unmistakably Imperial",
+      "html": "<p>The Pekingese is built close to the ground with a heavy front end, wide chest, and somewhat bowed forelegs that give him his characteristic rolling, unhurried gait. The body is pear-shaped — heavier in the front than the rear — and surprisingly solid and substantial despite a small overall frame. The topline is level and the hindquarters are lighter than the front.</p><p>The head is large relative to the body, with a very flat face (brachycephalic), a broad skull, and wide, dark, luminous eyes that express a deep sense of dignity. The muzzle is very short, wrinkled, and broad. The nose is black and broad. The ears are heart-shaped, dropping flat against the sides of the head, and heavily feathered.</p><p>The coat is the Peke's crowning glory: a long, thick double coat with a coarser outer layer and a soft, thick undercoat. A heavy mane of fur around the neck and shoulders accentuates the lion-like appearance that is central to the breed standard. The tail is set high and carried over the back, covered in long, flowing hair. Coat colors include all colors and patterns, including red, fawn, sable, black, black and tan, grey, and cream.</p><p>The overall impression is of a compact, dignified, lion-like dog with an abundance of beautiful coat. Show Pekingese are among the most elaborately coated dogs in the Toy group and require significant grooming to maintain their full glory.</p>"
+    },
+    "temperament": {
+      "label": "Temperament",
+      "heading": "Dignified, Devoted, and Definitively Opinionated",
+      "html": "<p>The Pekingese personality is one of the most distinctive in dogdom. These are not dogs who live to please — they are dogs who have decided to grace you with their presence, and they expect to be treated accordingly. The Peke approaches life with a serene confidence that borders on arrogance. He is rarely anxious, rarely frantic, and almost never submissive. When he loves you, he loves you deeply and demonstrably — but on his own terms and on his own schedule.</p><p>With their chosen person or family, Pekingese are warmly affectionate and deeply loyal. They tend to be one-person or one-family dogs who show their love with quiet devotion rather than exuberant display. They will follow their person from room to room, curl up beside them on the sofa, and offer dignified companionship at all hours.</p><p>With strangers, the Peke is typically reserved or aloof. They are naturally suspicious of people they do not know and need time and positive introductions to warm up. Early and consistent socialization from puppyhood helps prevent this natural reserve from hardening into anxiety or aggression toward unfamiliar people and situations.</p><p>Pekingese are generally not recommended for families with young children. Their small size and their low tolerance for rough handling or disrespectful interaction make them vulnerable to injury and apt to snap if they feel threatened or cornered. They can be excellent companions for older children and adults who respect their space and personality. With other animals, properly socialized Pekingese generally coexist peacefully, though they can be surprisingly stubborn and territorial with other dogs who do not show appropriate deference.</p>"
+    },
+    "mikes_take": {
+      "label": "Mike's Take",
+      "heading": "Mike's Honest Opinion",
+      "html": "<p>The Pekingese is not a dog for everyone — and it absolutely knows that. If you want a dog that follows commands eagerly and lives to please, look elsewhere. But if you appreciate a dog with genuine personality, ancient dignity, and the kind of quiet, devoted loyalty that is earned rather than given automatically, the Peke might just be the most satisfying companion you will ever have. Just be prepared to earn that loyalty, and be ready to do a lot of brushing.</p>"
+    },
+    "care": {
+      "label": "Care",
+      "heading": "Grooming, Exercise, and Daily Needs",
+      "html": "<p>The Pekingese has moderate exercise needs — they are not a highly active breed and will not demand long hikes or vigorous play sessions. A couple of short daily walks and some indoor playtime are generally sufficient to keep a Peke physically content. Their brachycephalic (flat-faced) anatomy limits their ability to breathe efficiently during strenuous exercise, so it is important not to over-exercise them, especially in warm or humid weather. Never exercise a Peke in hot weather — they are extremely susceptible to heat stroke.</p><p>The coat is the primary care commitment for this breed. The long double coat requires brushing at least 3 to 4 times per week, and ideally daily, to prevent matting. The undercoat is dense and sheds heavily, particularly during seasonal coat blows in spring and fall. Without regular brushing, the coat mats rapidly and severely, especially behind the ears, in the armpits, and around the collar area. Many pet owners opt for a shorter 'puppy clip' to make coat maintenance more manageable.</p><p>The face requires additional attention. The facial skin folds and wrinkles must be cleaned daily with a soft, dry cloth or unscented baby wipe to prevent moisture and bacteria buildup that can cause skin infections. The eyes are large and prominent, making them susceptible to irritation and injury — check daily for discharge or signs of irritation.</p><p>Dental care is critical, as with all brachycephalic breeds — the shortened jaw causes tooth crowding that accelerates periodontal disease. Daily brushing is strongly recommended.</p>"
+    },
+    "health": {
+      "label": "Health",
+      "heading": "Health Concerns Specific to the Pekingese",
+      "html": "<p>The Pekingese lifespan of 12 to 14 years is respectable for a Toy breed, but the breed's unique physical structure — particularly its brachycephalic face — creates a specific set of health considerations that owners must understand and monitor.</p><p><strong>Brachycephalic Obstructive Airway Syndrome (BOAS):</strong> The shortened skull and flattened face of the Peke can cause narrowed nostrils, an elongated soft palate, and a narrowed trachea, all of which restrict airflow and make breathing more labored. Symptoms include noisy breathing, snoring, exercise intolerance, and overheating. Surgical correction of narrow nostrils and elongated soft palate can significantly improve quality of life in affected dogs.</p><p><strong>Intervertebral Disc Disease (IVDD):</strong> The Peke's long body and relatively short legs create spinal stresses that can predispose them to disc herniation. Symptoms include back pain, reluctance to move, hind limb weakness, and in severe cases, paralysis. Keeping Pekes at a healthy weight and minimizing jumping from heights can help reduce risk.</p><p><strong>Eye Issues:</strong> The large, prominent eyes of the Pekingese are vulnerable to corneal injuries, ulcers, and conditions like progressive retinal atrophy (PRA) and dry eye (keratoconjunctivitis sicca). Regular eye checks and prompt treatment of any eye injury are essential.</p><p><strong>Patellar Luxation:</strong> Common in Toy breeds, slipping kneecaps range from mild to severe and may require surgical correction.</p><p><strong>Skin Fold Dermatitis:</strong> The facial wrinkles and skin folds are prone to bacterial and yeast infections if not kept clean and dry. Daily cleaning of skin folds is an important preventive measure.</p><p><strong>Heat Sensitivity:</strong> Pekingese are among the breeds most susceptible to heat stroke. Outdoor activity during warm weather should be limited to the coolest parts of the day, and the dog should never be left in a car or hot environment.</p>"
+    },
+    "cost": {
+      "label": "Cost",
+      "heading": "Pekingese Costs: What to Expect",
+      "html": "<p>Pekingese puppies from reputable, health-testing breeders typically cost between <strong>$1,000 and $3,000</strong>. Show-quality puppies from well-known lines may be priced higher. The breed is less common than some Toy breeds, which can mean fewer available breeders and somewhat longer wait times for well-bred puppies.</p><p>Rescue is available through organizations like <strong>Pekingese Rescue</strong> and regional groups, with adoption fees typically ranging from $100 to $350.</p><p><strong>Key Cost Considerations:</strong></p><ul><li>Grooming is the primary ongoing expense: professional grooming every 6 to 8 weeks costs $50 to $100 per visit, or $300 to $800 per year. This can be reduced by learning to groom at home, but home grooming a Peke requires significant skill and time.</li><li>Veterinary expenses may be above average for this breed due to potential brachycephalic airway correction surgery ($500 to $2,000+), eye care, and IVDD treatment</li><li>Food costs are modest given the small size: $200 to $350 per year for high-quality small-breed kibble</li><li>Pet insurance is strongly recommended: $300 to $600 per year</li></ul><p><strong>First Year Total (excluding purchase): approximately $2,000–$4,000</strong>, driven largely by veterinary care, grooming, and supplies. Ongoing annual costs typically run $1,500 to $2,500 when professional grooming is included.</p>"
+    },
+    "right_for_you": {
+      "label": "Right for You?",
+      "heading": "Is the Pekingese Right for Your Household?",
+      "html": "<p>The Pekingese is a wonderful companion for the right owner but has specific requirements that make it a poor fit for some lifestyles.</p><p><strong>The Pekingese may be right for you if:</strong></p><ul><li>You want a devoted, dignified companion rather than an obedient, task-oriented dog</li><li>You live in a quiet household without young children</li><li>You have time for regular, thorough coat maintenance</li><li>You appreciate a dog with real personality and strong opinions</li><li>You prefer a low-energy dog who enjoys indoor life</li></ul><p><strong>The Pekingese may NOT be right for you if:</strong></p><ul><li>You have very young children who may handle the dog roughly</li><li>You want a highly trainable, command-following dog</li><li>You cannot commit to regular grooming (matting in this breed is a serious welfare issue)</li><li>You live in a hot climate where heat stroke risk is significant</li><li>You are a first-time dog owner expecting an easy, agreeable temperament</li></ul>"
+    },
+    "finding": {
+      "label": "Finding a Pekingese",
+      "heading": "How to Find a Reputable Pekingese",
+      "html": "<p>The <strong>Pekingese Club of America (PCA)</strong> is the AKC parent club and provides a breeder referral list. Responsible Pekingese breeders will screen for eye conditions and patellar luxation and will raise puppies in a home environment with early socialization. Given the brachycephalic health concerns in this breed, it is important to find a breeder who selects for moderate facial conformation with open nostrils and good breathing — not extreme flatness that exacerbates health problems.</p><p>Ask breeders about BOAS history in their lines, and inquire whether they perform any cardiac or eye testing. A good Peke breeder cares as much about health and temperament as about coat and conformation.</p><p>For rescue, search for Pekingese-specific rescues in your region, or check Petfinder and Adopt-a-Pet for available Pekingese and Peke mixes. Many rescue Pekes are adults whose original owners were unprepared for the grooming demands, so adopting an adult can be a very rewarding option.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Are Pekingese good apartment dogs?",
+      "a": "Yes — Pekingese are relatively low-energy and adapt well to apartment life. They do not need a yard and are not demanding about outdoor exercise. Their indoor contentment makes them excellent city companions."
+    },
+    {
+      "q": "Do Pekingese shed a lot?",
+      "a": "Yes — the Pekingese has a heavy double coat that sheds significantly, particularly during seasonal coat blows in spring and fall. Regular brushing greatly reduces the amount of hair left around the house."
+    },
+    {
+      "q": "Are Pekingese hard to train?",
+      "a": "They are independent and opinionated, which makes traditional obedience training challenging. Positive reinforcement, patience, and a healthy respect for the Peke's personality work better than corrections. They are not impossible to train — just on their own timetable."
+    },
+    {
+      "q": "Can Pekingese tolerate warm weather?",
+      "a": "No — Pekingese are extremely heat-sensitive due to their flat face and thick coat. Never exercise them in warm weather, never leave them in a car, and ensure they have access to cool, air-conditioned spaces in summer."
+    },
+    {
+      "q": "How long do Pekingese live?",
+      "a": "The average Pekingese lifespan is 12 to 14 years. Well-cared-for individuals with moderate facial structure and good health management can live beyond this range."
+    }
+  ],
+  "related_breeds": ["japanese-chin", "shih-tzu", "lhasa-apso"]
+}

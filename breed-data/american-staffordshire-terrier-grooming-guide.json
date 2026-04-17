@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "American Staffordshire Terrier Grooming Guide",
+    "slug": "american-staffordshire-terrier-grooming-guide",
+    "shopify_handle": "american-staffordshire-terrier-grooming-guide",
+    "group": "American Staffordshire Terrier",
+    "size_category": "Guide",
+    "tags": ["american-staffordshire-terrier", "grooming", "short-coat", "low-maintenance", "skin-allergy"],
+    "published": true,
+    "published_at": "2026-04-16T16:00:00Z",
+    "excerpt": "AmStaff grooming is minimal — one of the easiest coats in medium breeds. The main watchpoint is atopic dermatitis, which the breed is prone to, and which shows up as recurring skin irritation requiring management.",
+    "meta_description": "American Staffordshire Terrier grooming guide: short coat maintenance, allergy-related skin care, ear care, and the complete low-effort routine for this athletic breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/AMERICAN_STAFFORDSHIRE_TERRIER%2C_Zican%E2%80%99s_Bz_Ez_Dragon_%2824208348891%29.2.jpg/330px-AMERICAN_STAFFORDSHIRE_TERRIER%2C_Zican%E2%80%99s_Bz_Ez_Dragon_%2824208348891%29.2.jpg",
+      "alt": "American Staffordshire Terrier grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The AmStaff Coat",
+      "heading": "AmStaff Grooming: Simple Coat, Skin to Watch",
+      "html": "<p>The American Staffordshire Terrier has a short, close-lying coat that requires virtually no professional grooming and minimal home effort. Weekly brushing, baths every 6–8 weeks, and routine nail and ear care is the entire routine. No trimming, no deshedding appointments, no coat management beyond seasonal shedding.</p><p>The grooming watchpoint for AmStaffs is the skin. The breed has a higher-than-average incidence of atopic dermatitis (environmental allergies), which presents as recurring itching, skin redness, paw licking, and ear infections. Regular skin inspection during grooming allows early detection of developing allergic reactions before they become established.</p><h3>Grooming Tools You'll Need</h3><ul><li>Rubber curry brush or grooming mitt — primary tool</li><li>Bristle brush — finishing</li><li>Dog-safe shampoo (consider hypoallergenic formula if your dog shows skin sensitivity)</li><li>Dog ear cleaner and cotton balls</li><li>Nail clippers or grinder</li><li>Dog toothbrush and toothpaste</li></ul>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Rubber curry or grooming mitt: 5–10 minutes over the full body. Removes loose hair, stimulates circulation, and provides an opportunity to feel for any new lumps, skin changes, or areas of irritation</li><li>Visual skin check: look for redness between the toes, in the groin, armpits, and belly — these are the first areas where atopic dermatitis typically appears</li><li>Check ears: odor, redness, or discharge can indicate a yeast or bacterial infection secondary to allergies. Allergic dogs often have recurring ear infections as part of the allergy presentation</li></ul><h3>Every 2–3 Weeks</h3><ul><li>Nails: trim when you hear clicking on floors. AmStaffs are athletic and active, which may naturally maintain nail length on rough surfaces, but check regularly</li></ul><h3>Monthly</h3><ul><li>Bath every 6–8 weeks. For dogs with skin allergies, a medicated shampoo (chlorhexidine or antifungal formula) prescribed by your vet may be more appropriate than standard dog shampoo — ask your vet during routine visits</li><li>Paw inspection: check between toes for redness, swelling, or excessive licking damage. Paw licking is a common allergy symptom that, if chronic, damages the skin and creates secondary infections</li><li>Dental care: brush 3–4 times per week</li></ul>"
+    },
+    "special": {
+      "label": "Skin and Allergy Management",
+      "heading": "Recognizing and Managing Atopic Dermatitis",
+      "html": "<p>Atopic dermatitis (environmental allergies) is the most significant grooming-related health issue in AmStaffs. It doesn't develop overnight and often begins appearing at 1–3 years of age. Understanding what to look for during grooming allows early intervention.</p><h3>Signs to Watch For</h3><ul><li>Recurring paw licking or chewing — often the first visible sign</li><li>Redness in the groin, armpits, between toes, or on the belly</li><li>Recurring ear infections (yeast or bacteria) — in allergic dogs, ear infections that come back after treatment suggest an underlying allergy</li><li>Hair thinning or loss in affected areas from chronic scratching or licking</li><li>Rubbing the face on carpet or furniture</li></ul><h3>What to Do</h3><p>If you notice recurring signs, consult your vet. Allergy management options range from antihistamines (mild cases) to Apoquel or Cytopoint (veterinary prescription medications) to allergy testing and immunotherapy for dogs with severe or widespread allergies. Regular medicated baths reduce environmental allergen load on the skin surface and can reduce symptom frequency in many dogs.</p><h3>Shampoo Selection</h3><p>For allergic AmStaffs, fragrance-free or hypoallergenic shampoos are preferred. Some owners find that switching to a gentle, fragrance-free formula reduces skin reactivity compared to standard scented dog shampoos. Consult your vet if you're unsure which shampoo formula is appropriate for your dog's specific situation.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often should I groom my AmStaff?",
+      "a": "Weekly brushing, baths every 6–8 weeks, nail trims every 2–3 weeks, and dental care 3–4 times per week. The short coat makes this quick — a full weekly brushing takes under 10 minutes. The skin inspection during brushing is the most important ongoing health monitoring task for this breed."
+    },
+    {
+      "q": "My AmStaff keeps licking their paws. Is this a grooming issue?",
+      "a": "Paw licking that is persistent or recurring is almost always a sign of allergies (environmental or food) rather than a grooming issue. Grooming can address the secondary effects (keeping paws clean and inspecting for secondary infections), but the underlying cause requires veterinary evaluation. Chronic paw licking damages skin and creates yeast infections between the toes — don't wait to address it."
+    },
+    {
+      "q": "Do AmStaffs need professional grooming?",
+      "a": "No. The short coat requires no trimming or professional deshedding. Professional nail trims and baths are options for convenience but are not routinely necessary. Dogs with significant atopic dermatitis may benefit from professional medicated baths administered by a groomer or vet clinic experienced with allergy management protocols."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "name": "Tibetan Spaniel Grooming Guide",
+    "slug": "tibetan-spaniel-grooming-guide",
+    "shopify_handle": "tibetan-spaniel-grooming-guide",
+    "group": "Tibetan Spaniel",
+    "size_category": "Guide",
+    "tags": ["tibetan-spaniel", "grooming", "non-sporting"],
+    "published": true,
+    "published_at": "2026-05-02T16:00:00Z",
+    "excerpt": "A practical grooming guide for the Tibetan Spaniel — one of the easiest long-coated breeds to maintain. Covers brushing routine, managing seasonal shedding, bathing, and the minimal trimming this ancient breed requires.",
+    "meta_description": "Tibetan Spaniel grooming guide: brushing schedule, seasonal shedding management, bathing, and low-maintenance coat care for this ancient small breed."
+  },
+  "stats": {
+    "height": "10 inches",
+    "weight": "9–15 lbs",
+    "lifespan": "12–15 years",
+    "energy_level": "Moderate",
+    "grooming_needs": "Low",
+    "good_with_kids": true,
+    "good_with_other_dogs": true,
+    "shedding": "Moderate",
+    "trainability": "Moderate"
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tibetan_Spaniel_600.jpg/330px-Tibetan_Spaniel_600.jpg",
+      "alt": "Tibetan Spaniel"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Silky, Practical, and Lower-Maintenance Than It Looks",
+      "html": "<p>The Tibetan Spaniel's silky double coat is one of the pleasant surprises for first-time owners of this breed. Despite flowing hair and feathering on the ears, legs, tail, and neck, the coat is remarkably easy to maintain compared to other long-coated small breeds. The silky texture is less prone to matting than softer, fluffier coats, and the coat length — medium rather than floor-length — reduces the accumulation of debris and tangles that floor-length coats require constant attention to manage.</p><p>The coat is double: a soft, dense undercoat beneath a silky, flat-lying outer coat. It comes in all colors and combinations. The mane around the neck is one of the breed's distinctive features, as is the plumed tail carried over the back. Feathering on the ears and the backs of the legs adds to the flowing appearance without significantly increasing maintenance requirements.</p><p>The Tibetan Spaniel sheds moderately twice a year — spring and fall — when the undercoat drops more heavily. Between these seasonal sheds, daily shedding is present but not excessive for a double-coated breed. The overall grooming time commitment for the Tibetan Spaniel is genuinely modest: twice-weekly brushing year-round, daily during shed periods, with professional grooming entirely optional.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Brushing, Bathing, and Routine Maintenance",
+      "html": "<p>Brush your Tibetan Spaniel twice a week using a pin brush or soft slicker brush. Work through the coat section by section, then follow with a medium-toothed metal comb to check for tangles near the skin. The areas most prone to matting are behind the ears, where the pendant ear meets the neck, and in the armpit area. Five to ten minutes twice a week is sufficient for most Tibetan Spaniels in good coat condition.</p><p>During the seasonal shed (spring and fall), increase brushing to daily. An undercoat rake or de-shedding brush helps pull loose undercoat efficiently, significantly reducing the volume of fur that ends up on furniture and clothing. A thorough bath at the start of the shed, followed by blow-drying while brushing, removes much of the loose undercoat in one session.</p><p>The Tibetan Spaniel does not require professional grooming for structural trimming — no scissoring, stripping, or shaping is needed to maintain the correct natural appearance. Professional appointments for bathing, blow-out, and coat conditioning are optional and can be done every 6–10 weeks if preferred, or skipped entirely in favor of home baths. Bathe at home every 4–6 weeks with a gentle shampoo appropriate for silky coats. Avoid heavy moisturizing conditioners that weigh the coat down and reduce its natural silky texture.</p><p>Ear care requires weekly attention — clean the ear canal with a veterinarian-approved cleaner and check for redness or odor. The feathered ears trap moisture and debris more than erect ears. Trim nails every 3–4 weeks. Brush teeth at least twice weekly.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Managing the Mane, Shed Periods, and Coat Condition Through the Years",
+      "html": "<p>The neck mane is one of the Tibetan Spaniel's most beautiful features and one of the areas requiring the most grooming attention. The long hair around the neck is prone to tangling at the base, particularly where it meets the short body coat at the shoulders and chest. Brushing the mane in multiple directions — first against the grain to lift the undercoat, then in the direction of growth to lay it flat — keeps it full and mat-free.</p><p>Some Tibetan Spaniels develop heavier coats than others — males typically carry more coat than females, and individual variation is significant. Heavy-coated dogs may need more frequent brushing and are more prone to matting during shed periods. If your dog's coat is particularly thick, consider increasing brushing to three times weekly during non-shed periods as a precaution.</p><p>Tibetan Spaniels can develop coat changes as they age. Spayed or neutered dogs may develop slightly fuller, softer coats than intact dogs — softening of the outer coat texture can increase mat risk marginally. Senior dogs may develop slightly thinner coats; reduce brushing pressure to avoid skin irritation on older, thinner-skinned dogs.</p><p>The Tibetan Spaniel's coat does not require trimming for pets, but some owners choose to trim the paw fur for cleanliness and to reduce debris tracking. Use blunt-ended scissors to trim the fur between the pads flush with the foot for traction and cleanliness. This is purely optional and has no effect on the dog's appearance from above.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Does the Tibetan Spaniel really need as little grooming as claimed?",
+      "a": "Yes — it is genuinely one of the lower-maintenance long-coated breeds. The silky coat texture, medium length, and absence of structural trimming requirements make twice-weekly brushing sufficient for most dogs outside of shed periods. Owners coming from breeds like the Shih Tzu or Maltese often find the Tibetan Spaniel a refreshing contrast."
+    },
+    {
+      "q": "Should I have my Tibetan Spaniel professionally groomed?",
+      "a": "Professional grooming is optional rather than required. A skilled groomer can provide a thorough bath, blow-out, and de-shedding treatment that is difficult to replicate at home, but the breed does not need structural trimming that only a professional can execute. Home maintenance is completely adequate for most Tibetan Spaniel owners."
+    },
+    {
+      "q": "Can I trim my Tibetan Spaniel's coat shorter for the summer?",
+      "a": "It is not recommended. The double coat provides insulation against both cold and heat; shaving or significantly shortening it removes this natural temperature regulation and can also damage the coat texture. During hot weather, provide shade, limit exercise to cooler parts of the day, and ensure access to fresh water."
+    }
+  ],
+  "related_breeds": ["lhasa-apso", "tibetan-terrier", "pekingese"]
+}

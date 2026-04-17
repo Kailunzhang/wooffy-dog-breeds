@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Icelandic Sheepdog Puppy Checklist",
+    "slug": "icelandic-sheepdog-puppy-checklist",
+    "shopify_handle": "icelandic-sheepdog-puppy-checklist",
+    "group": "Icelandic Sheepdog",
+    "size_category": "Guide",
+    "tags": ["icelandic-sheepdog", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-05-04T16:00:00Z",
+    "excerpt": "The Icelandic Sheepdog puppy is cheerful and people-oriented from day one. This checklist covers supplies, grooming setup, and the socialization and training priorities for this active Nordic herding breed.",
+    "meta_description": "Icelandic Sheepdog puppy checklist: supplies, brushing habits, socialization, and training for this friendly Nordic herding breed puppy."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Icelandic_Sheepdog_Alisa_von_Lehenberg.jpg/330px-Icelandic_Sheepdog_Alisa_von_Lehenberg.jpg",
+      "alt": "Icelandic Sheepdog puppy checklist"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Supplies and Setup for an Active Nordic Puppy",
+      "html": "<p>The Icelandic Sheepdog puppy is energetic, friendly, and eager to engage. Preparation focuses on outdoor safety, grooming tools, and training resources for a breed that thrives on activity and connection.</p><h3>Supplies Checklist</h3><ul><li>Large wire crate with divider</li><li>Stainless steel food and water bowls</li><li>Adjustable collar and 6-foot leash</li><li>ID tag with phone number</li><li>Puppy food confirmed with breeder</li><li>Pin brush, metal comb, undercoat rake</li><li>Enzymatic cleaner for accidents</li><li>Varied toys — puzzle feeders, tug toys, balls</li><li>Baby gates for managing puppy access in the home</li></ul><h3>Home and Yard Safety</h3><ul><li>Secure yard fencing — an active herding breed will find gaps</li><li>Block stairs until the puppy is coordinated</li><li>Remove chewable hazards and secure cords</li></ul><h3>Vet Setup</h3><ul><li>First wellness exam within 48–72 hours</li><li>Pet insurance enrolled before or at first vet visit</li><li>Ask about double rear dewclaw removal if present and preferred</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "Cheerful Puppy, Active Start",
+      "html": "<p>The Icelandic Sheepdog puppy settles in quickly with its friendly, adaptable nature.</p><h3>Day 1–2</h3><ul><li>Crate introduction with meals and comfort item</li><li>House training schedule begins</li><li>First brief brushing sessions — positive and treat-rewarded</li></ul><h3>Day 3–7</h3><ul><li>Short harness walks, working on loose-leash manners from the first step</li><li>Friendly adult visitors with food rewards</li><li>Ear, feet, and mouth handling daily</li><li>Vet wellness visit</li></ul><h3>Socialization Focus (Weeks 8–16)</h3><ul><li>Adults, children, other dogs — the Icie is naturally friendly but benefits from broad socialization</li><li>Urban sounds, varied environments</li><li>Managing barking early — redirect and reward quiet on cue</li><li>Building alone time gradually from day one</li></ul>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Friendly, Vocal, and Very Trainable",
+      "html": "<p>The Icelandic Sheepdog is one of the more trainable herding breeds. Its people-oriented nature and eagerness to engage make positive training sessions effective from the start.</p><h3>Priority Commands</h3><ul><li>Sit, stay, come, down, off</li><li>Quiet — managing barking is important early; the breed is alert and vocal</li><li>Loose-leash walking from day one</li></ul><h3>Barking Management</h3><ul><li>Teach a quiet cue in the first weeks — reward any pause in barking with treats and praise</li><li>Do not inadvertently reinforce barking by giving attention when the dog barks</li><li>Provide adequate exercise and mental stimulation — a tired, well-exercised Icie barks significantly less</li></ul><h3>Exercise Guidelines</h3><ul><li>5 minutes per month of age, twice daily for structured exercise during puppyhood</li><li>Off-leash play in a secure area provides natural exercise without the impact stress of runs on hard surfaces</li><li>Dog sports foundation classes can begin at 6 months for most activities</li></ul>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Do Icelandic Sheepdog puppies bark a lot?",
+      "a": "They can. The breed is naturally alert and vocal. Beginning bark-management training in the first weeks — teaching a quiet cue and ensuring adequate exercise — prevents the barking from becoming a persistent problem."
+    },
+    {
+      "q": "How do I socialize an Icelandic Sheepdog puppy?",
+      "a": "The Icelandic Sheepdog is naturally friendly, which makes socialization enjoyable. Expose the puppy broadly to adults, children, other dogs, and varied environments in positive, treat-rewarded contexts during the critical 8–16 week window, and continue regularly through the first two years."
+    },
+    {
+      "q": "What is the best way to exercise an Icelandic Sheepdog puppy?",
+      "a": "Short, frequent play sessions and gentle walks are ideal during puppyhood to protect growing joints. Mental exercise through training and puzzle toys is equally valuable. Avoid long runs or significant jumping until the dog is at least 12–14 months old."
+    }
+  ]
+}

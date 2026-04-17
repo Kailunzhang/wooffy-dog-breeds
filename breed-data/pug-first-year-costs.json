@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Pug",
+    "shopify_handle": "pug-first-year-costs",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "name": "Pug First-Year Costs: Full Budget Breakdown",
+    "slug": "pug-first-year-costs",
+    "excerpt": "A realistic breakdown of Pug ownership costs — including BOAS surgery, ongoing skin fold care, and why this breed costs more to own than the size suggests.",
+    "meta_description": "A realistic breakdown of Pug ownership costs — including BOAS surgery, ongoing skin fold care, and why this breed costs more to own than the size suggests.",
+    "tags": [
+      "Pug",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mops-duke-mopszucht-vom-maegdebrunnen.jpg/330px-Mops-duke-mopszucht-vom-maegdebrunnen.jpg",
+      "alt": "Pug dog"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "The Numbers",
+      "heading": "What Does a Pug Cost in Year One?",
+      "html": "<p>Pugs are one of the more expensive small breeds to own — not because of purchase price or food, but because of the structural health issues that come with the brachycephalic (flat-faced) anatomy. BOAS surgery (to open the airways), corneal injuries, skin fold infections, and dental disease are all meaningful expense categories. First-year costs typically range from <strong>$3,500 to $7,500</strong>, and can be higher if BOAS surgery is needed.</p><table style='width:100%;border-collapse:collapse;margin:1.5rem 0;'><thead><tr style='background:#f5f5f5;'><th style='text-align:left;padding:10px 12px;border-bottom:2px solid #ddd;'>Expense</th><th style='text-align:right;padding:10px 12px;border-bottom:2px solid #ddd;'>Estimated Cost</th></tr></thead><tbody><tr><td style='padding:9px 12px;border-bottom:1px solid #eee;'>Puppy from reputable breeder</td><td style='text-align:right;padding:9px 12px;border-bottom:1px solid #eee;'>$800 – $2,000</td></tr><tr><td style='padding:9px 12px;border-bottom:1px solid #eee;'>Initial vet visit, vaccines, microchip</td><td style='text-align:right;padding:9px 12px;border-bottom:1px solid #eee;'>$200 – $400</td></tr><tr><td style='padding:9px 12px;border-bottom:1px solid #eee;'>Spay or neuter</td><td style='text-align:right;padding:9px 12px;border-bottom:1px solid #eee;'>$200 – $500</td></tr><tr><td style='padding:9px 12px;border-bottom:1px solid #eee;'>BOAS evaluation and possible surgery</td><td style='text-align:right;padding:9px 12px;border-bottom:1px solid #eee;'>$200 – $3,000</td></tr><tr><td style='padding:9px 12px;border-bottom:1px solid #eee;'>Food</td><td style='text-align:right;padding:9px 12px;border-bottom:1px solid #eee;'>$200 – $400</td></tr><tr><td style='padding:9px 12px;border-bottom:1px solid #eee;'>Skin fold care supplies (wipes, etc.)</td><td style='text-align:right;padding:9px 12px;border-bottom:1px solid #eee;'>$100 – $200</td></tr><tr><td style='padding:9px 12px;border-bottom:1px solid #eee;'>Crate, harness, collar, supplies</td><td style='text-align:right;padding:9px 12px;border-bottom:1px solid #eee;'>$150 – $300</td></tr><tr><td style='padding:9px 12px;border-bottom:1px solid #eee;'>Pet insurance (strongly recommended)</td><td style='text-align:right;padding:9px 12px;border-bottom:1px solid #eee;'>$400 – $800</td></tr><tr style='font-weight:bold;background:#fafafa;'><td style='padding:10px 12px;border-top:2px solid #ddd;'>Total estimate</td><td style='text-align:right;padding:10px 12px;border-top:2px solid #ddd;'>$2,250 – $7,600</td></tr></tbody></table>"
+    },
+    "care": {
+      "label": "Biggest Costs",
+      "heading": "The Pug Health Expenses That Catch Owners Off Guard",
+      "html": "<h3>BOAS: Brachycephalic Obstructive Airway Syndrome</h3><p>Many Pugs are born with narrowed nostrils (stenotic nares), an elongated soft palate, and a narrowed trachea — structural features that restrict airflow and cause the characteristic snoring and laboured breathing. In mild cases, management involves weight control and avoiding heat. In moderate to severe cases, surgical correction — widening the nostrils and/or shortening the soft palate — is needed. This surgery costs <strong>$1,000–$3,000</strong> and is not elective when breathing impairment is significant. Many Pugs need this before age 2.</p><h3>Corneal Injuries</h3><p>The prominent, exposed eyes of Pugs are vulnerable to corneal scratches and ulcers. A single corneal ulcer treated at an emergency vet or specialist can cost $300–$800. Repeated incidents are not uncommon. Eye conditions are one of the top reasons Pug owners visit the vet.</p><h3>Skin Fold Infections</h3><p>Skin fold dermatitis requires veterinary treatment when it becomes established — typically antifungal or antibiotic medications. A single skin fold infection visit costs $100–$250. Multiple infections per year are common in Pugs whose folds are not cleaned daily. The cost of daily cleaning supplies ($100–$200/year) is far less than recurring vet visits for infections.</p><h3>Pet Insurance: Essential for This Breed</h3><p>Pugs have one of the highest rates of veterinary claims among all breeds. Monthly premiums of $35–$65 are meaningful but will likely pay off for most Pug owners. Enroll before the first vet appointment.</p>"
+    },
+    "special": {
+      "label": "Long-Term Budget",
+      "heading": "Annual Costs After Year One",
+      "html": "<p>Annual costs for a Pug are higher than most small breeds due to ongoing health maintenance requirements.</p><table style='width:100%;border-collapse:collapse;margin:1.5rem 0;'><thead><tr style='background:#f5f5f5;'><th style='text-align:left;padding:10px 12px;border-bottom:2px solid #ddd;'>Annual Expense</th><th style='text-align:right;padding:10px 12px;border-bottom:2px solid #ddd;'>Estimated Cost</th></tr></thead><tbody><tr><td style='padding:9px 12px;border-bottom:1px solid #eee;'>Food</td><td style='text-align:right;padding:9px 12px;border-bottom:1px solid #eee;'>$200 – $400</td></tr><tr><td style='padding:9px 12px;border-bottom:1px solid #eee;'>Routine vet care</td><td style='text-align:right;padding:9px 12px;border-bottom:1px solid #eee;'>$300 – $600</td></tr><tr><td style='padding:9px 12px;border-bottom:1px solid #eee;'>Pet insurance</td><td style='text-align:right;padding:9px 12px;border-bottom:1px solid #eee;'>$400 – $800</td></tr><tr><td style='padding:9px 12px;border-bottom:1px solid #eee;'>Skin fold care supplies</td><td style='text-align:right;padding:9px 12px;border-bottom:1px solid #eee;'>$100 – $200</td></tr><tr><td style='padding:9px 12px;border-bottom:1px solid #eee;'>Professional dental cleaning</td><td style='text-align:right;padding:9px 12px;border-bottom:1px solid #eee;'>$300 – $600</td></tr><tr><td style='padding:9px 12px;border-bottom:1px solid #eee;'>Supplies, toys, misc.</td><td style='text-align:right;padding:9px 12px;border-bottom:1px solid #eee;'>$100 – $200</td></tr><tr style='font-weight:bold;background:#fafafa;'><td style='padding:10px 12px;border-top:2px solid #ddd;'>Annual total (years 2+)</td><td style='text-align:right;padding:10px 12px;border-top:2px solid #ddd;'>$1,400 – $2,800</td></tr></tbody></table><p>Over a 12–15 year lifespan, expect total lifetime costs of <strong>$18,000–$45,000</strong>, potentially significantly more if cancer, spinal disease (IVDD is elevated in this breed), or major eye surgery is needed. Pug owners should approach ownership with clear financial preparation.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Why are Pugs so expensive to own if they're small dogs?",
+      "a": "Small size does not mean low veterinary costs for brachycephalic breeds. Pugs commonly need BOAS airway surgery ($1,000–$3,000), have frequent eye injuries due to their prominent corneas, develop skin fold infections without daily maintenance, and are prone to dental disease. These are structural health consequences of the breed's flat-face anatomy, not random bad luck."
+    },
+    {
+      "q": "Does every Pug need BOAS surgery?",
+      "a": "Not every Pug requires surgery, but a significant proportion do. A vet or veterinary specialist can assess your Pug's airway at the first appointment. Signs that suggest surgery is warranted include loud snoring, exercise intolerance, noisy breathing at rest, open-mouth breathing during light activity, or blue-tinged gums. If surgery is recommended, it is not elective — restricted airways significantly reduce quality of life."
+    },
+    {
+      "q": "Is pet insurance worth it for a Pug?",
+      "a": "Yes, strongly. Pugs have one of the highest veterinary claim rates of any breed. BOAS surgery, corneal injuries, skin conditions, and spinal disease (IVDD) are all potential major expenses. Pet insurance enrolled before the first vet appointment (when no conditions are yet documented) provides the broadest coverage and is one of the best financial decisions a Pug owner can make."
+    }
+  ]
+}

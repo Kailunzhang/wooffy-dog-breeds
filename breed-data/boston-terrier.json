@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "name": "Boston Terrier",
+    "slug": "boston-terrier",
+    "shopify_handle": "boston-terrier",
+    "group": "Non-Sporting Group",
+    "size_category": "Small Breed",
+    "tagline": "The Boston Terrier is an American original — friendly, enthusiastic, and genuinely good-natured. They are also a brachycephalic breed that needs respiratory evaluation, AC in summer, and daily eye care. The tradeoffs are manageable; they just need to be understood.",
+    "tags": ["non-sporting-group", "small-breed", "brachycephalic", "american-breed", "apartment-friendly", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "excerpt": "Boston Terriers are friendly, adaptable, and genuinely easy to live with — but they're brachycephalic, heat-sensitive, and their prominent eyes are an injury risk. Get the respiratory evaluation done early and keep the AC on in summer.",
+    "meta_description": "Boston Terrier breed guide: BOAS respiratory evaluation, heat management, hemivertebrae, hereditary cataracts, deafness screening, and what responsible ownership actually costs."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Small" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "12–25 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "11–13 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "30–45 min (weather permitting)" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Easy-Moderate" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes, with caveats" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Boston-terrier-carlos-de.JPG/330px-Boston-terrier-carlos-de.JPG",
+      "alt": "Boston Terrier"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Boston Terrier?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Boston Terrier holds the distinction of being one of the few dog breeds developed entirely in the United States. They originated in Boston in the 1870s from crosses between bulldogs and white English terriers, initially bred as pit fighters before the breed evolved toward the gentle, companionable dog seen today. The tuxedo-like black-and-white markings earned them the nickname \"the American Gentleman\" — a description that fits both the appearance and the temperament.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Boston Terriers are one of the most genuinely friendly and adaptable small breeds available. They are enthusiastic, people-oriented, low-maintenance on the grooming front, and good with children and strangers. They are excellent city and apartment dogs. They are also a brachycephalic breed, and that comes with specific requirements around heat, respiratory health, and eye care that any prospective owner needs to understand.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The good news compared to Pugs and French Bulldogs: Boston Terriers are generally less severely affected by BOAS, and many live comfortable lives without surgical intervention. The category still requires a respiratory evaluation and AC access in warm weather. It is a manageable reality, not a disqualifier.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Boston Terriers Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Compact and muscular, weighing 12–25 lbs (they come in three weight classes: under 15 lbs, 15–20 lbs, and 20–25 lbs) with a height of 15–17 inches. The short, smooth, fine coat requires minimal grooming. Classic coloring is black and white in the tuxedo pattern; brindle and white and seal and white are also acceptable. The square head, flat face, erect bat ears, and large, round eyes are instantly recognizable.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The prominent, large round eyes give the Boston its characteristic expression — and are also a practical vulnerability. They protrude more than typical dog eyes, making them more easily injured by branches, cat swipes, or rough play, and more susceptible to corneal ulcers.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Friendly, enthusiastic, and sociable. Boston Terriers are people-oriented dogs that enjoy activity and engagement — they are not couch ornaments, but they are also not high-drive working dogs that need a job. They find a comfortable middle ground that makes them genuinely easy to live with for most households.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">They have a playful, occasionally silly quality that is part of their charm. They enjoy games, learn tricks readily, and engage enthusiastically with their owners. Training is generally easy — they are intelligent, food-motivated, and responsive to positive reinforcement. They do not have the stubborn independence of terriers or the standoffish nature of guardian breeds.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With children: excellent. With strangers: friendly and approachable. With other dogs: generally good with proper socialization. Bostons are one of the few small breeds that genuinely fit the description of universally social.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Boston Terrier",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bostons deserve their popularity. They are genuinely easy to recommend for people who want a small, friendly, low-grooming-maintenance dog for an apartment or city household. The personality is consistent and pleasant, they travel well, and their moderate size (not fragile, not too large) makes them practical.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest requirements: get a respiratory evaluation at the first vet visit. Know where your dog falls on the BOAS spectrum. Most Bostons are less severely affected than Pugs or French Bulldogs, but \"less severe\" is not the same as \"normal airway.\" If your vet recommends surgical correction, the surgery meaningfully improves the dog's quality of life and long-term respiratory health.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Eye injuries are a real-world concern — know where the nearest emergency vet is, and know that any eye symptom (squinting, discharge, cloudiness, pawing) needs same-day attention. A corneal ulcer that progresses untreated can cost the dog an eye. This is not alarmist; it is a practical reality of owning a dog with prominent eyes.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate — 30–45 minutes daily. Same temperature caveat as all brachycephalic breeds: in temperatures above 75°F, outdoor exercise should be minimized. Heat and humidity are dangerous for Boston Terriers. Air conditioning is not a luxury — it is a health requirement in warm climates and warm summers.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">One of the lower-maintenance coats in the breed world. Weekly brushing with a soft bristle brush, periodic baths. Clean facial fold (if present) daily. Clean around eyes daily with a damp cloth to remove discharge. Nail trimming every 3–4 weeks. See the <a href=\"/blogs/dog-breeds/boston-terrier-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Boston Terrier grooming guide</a>.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Responsive and food-motivated. Positive reinforcement works well. Bostons are intelligent enough to learn quickly and social enough that they enjoy the interaction. Basic obedience, leash manners, and house training are all achievable without specialized training experience.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Boston Terriers are generally less medically complex than Pugs or French Bulldogs, but several conditions deserve attention.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">BOAS (Brachycephalic Obstructive Airway Syndrome)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Narrowed nostrils, elongated soft palate, and related structural issues restricting airflow. Generally less severe in Bostons than in Pugs or French Bulldogs, but present in many individuals. A graded respiratory evaluation by a vet familiar with BOAS tells you where your dog falls. Surgical correction available when needed.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hemivertebrae</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Malformed vertebrae — related to the screw-tail characteristic of the breed. In the tail, it is breed-typical and cosmetic. Spinal hemivertebrae can cause cord compression ranging from mild to severe. Spinal X-rays can identify affected individuals.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Corneal Ulcers</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The prominent eyes are easily injured and prone to ulceration. Requires same-day veterinary attention — symptoms: squinting, tearing, redness, cloudiness, pawing at eye. Untreated corneal ulcers can progress to perforation.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hereditary Cataracts</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Juvenile cataracts are found in Boston Terrier lines. DNA test available. CAER eye exam and DNA testing for hereditary cataracts should be present in health-tested breeding dogs.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Deafness</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Congenital deafness occurs, particularly in dogs with more white in the coat. BAER testing available; responsible breeders test breeding dogs.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Patellar Luxation</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Kneecap displacement — common in small breeds. OFA patella certification available.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA patella, CAER eye exam, hereditary cataract DNA test, BAER hearing test, and spinal evaluation.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$2,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (small-medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">BOAS surgery (if needed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$0–$3,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$350</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,100–$7,250</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,000–$1,700</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">The wide first-year range reflects whether BOAS surgery is needed. Get insurance before the first vet visit. See the <a href=\"/blogs/dog-breeds/boston-terrier-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Boston Terrier first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Boston Terrier Right for You?",
+      "good_fit": [
+        "Apartment and city dwellers — highly adaptable to smaller spaces",
+        "First-time owners who want a friendly, trainable small dog with genuine personality",
+        "Families with children — Bostons are excellent with kids",
+        "Active owners who want an engaged but not high-drive companion",
+        "Owners prepared for heat management and respiratory health monitoring"
+      ],
+      "not_fit": [
+        "Owners in warm climates without AC — heat intolerance is a real medical concern",
+        "Anyone who wants a running or jogging partner for warm-weather exercise",
+        "Owners who won't do the respiratory evaluation or budget for potential BOAS surgery",
+        "Households with lots of eye-level hazards the dog could injure its prominent eyes on"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Boston Terrier",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$2,000 from reputable breeders. The Boston Terrier Club of America maintains a breeder referral. Required health clearances: CAER eye exam, hereditary cataract DNA test, BAER hearing test, OFA patella. Ask about spinal evaluation and whether their lines have been evaluated for hemivertebrae frequency.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Boston Terrier rescues are active and well-organized. Adults often come with known health histories and are past the most unpredictable early health period. Their social, adaptable nature makes the transition to a new home manageable.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Boston Terrier comes home, complete the <a href=\"/blogs/dog-breeds/boston-terrier-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Boston Terrier puppy checklist</a> — respiratory evaluation scheduling, AC setup, and eye injury awareness are the priorities.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "Are Boston Terriers less affected by BOAS than Pugs?", "a": "Generally, yes — the breed standard for Boston Terriers produces less extreme facial compression than for Pugs or French Bulldogs, and many Bostons have better airflow. That said, BOAS exists on a spectrum, and some Bostons have significant airway obstruction that benefits from surgery. A formal respiratory evaluation from a vet familiar with BOAS gives you the accurate picture for your specific dog." },
+    { "q": "Do Boston Terriers do well in apartments?", "a": "Excellent apartment dogs — adaptable, moderate exercise needs, friendly with neighbors and strangers, not excessively vocal. The one apartment consideration is heat: Boston Terriers need a cool environment, and a top-floor apartment without AC in summer is not a safe situation for a brachycephalic breed." },
+    { "q": "How much do Boston Terriers shed?", "a": "Moderate — less than double-coated breeds, but the short fine coat does shed and will be visible on furniture and clothing. Weekly brushing reduces the loose hair significantly. They are not a low-shedding choice if that is a priority." },
+    { "q": "Are Boston Terriers good with cats?", "a": "Generally yes, especially if socialized together from puppyhood. Bostons are not high-prey-drive dogs and tend to be social across species. The caveat is that cat swipes to the face are an injury risk for the Boston's prominent eyes — if you have cats, pay attention to where they interact." }
+  ],
+
+  "related_breeds": [
+    {"name": "French Bulldog", "slug": "french-bulldog", "note": "Similar brachycephalic profile, stockier build, typically higher purchase price"},
+    {"name": "Pug", "slug": "pug", "note": "Similar companion role, more severe BOAS on average, different coat"},
+    {"name": "Bulldog", "slug": "bulldog", "note": "Same brachycephalic family, much larger and lower energy, higher medical complexity"},
+    {"name": "Miniature Schnauzer", "slug": "miniature-schnauzer", "note": "Similar small-medium size, terrier personality versus companion personality"}
+  ]
+}

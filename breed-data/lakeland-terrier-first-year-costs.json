@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Lakeland Terrier First Year Costs",
+    "slug": "lakeland-terrier-first-year-costs",
+    "shopify_handle": "lakeland-terrier-first-year-costs",
+    "group": "Lakeland Terrier",
+    "size_category": "Guide",
+    "tags": ["lakeland-terrier", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-04-29T16:00:00Z",
+    "excerpt": "The Lakeland Terrier is a moderately priced small breed with ongoing professional grooming as the primary recurring cost. Here is a realistic first-year and annual budget breakdown.",
+    "meta_description": "Lakeland Terrier first year costs: puppy price, grooming, vet care, and annual expenses for this classic British working terrier."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lakeland_Terrier.jpg/330px-Lakeland_Terrier.jpg",
+      "alt": "Lakeland Terrier cost guide"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Moderate Puppy Cost for a Rare Working Terrier",
+      "html": "<ul><li><strong>Puppy from health-tested breeder:</strong> $1,200–$2,000. Health testing should include CAER eye certification and ideally vWD testing.</li><li><strong>Initial vet visit and vaccines:</strong> $150–$300</li><li><strong>Spay or neuter (small breed):</strong> $200–$400</li><li><strong>Crate (medium):</strong> $50–$100</li><li><strong>Bowls, collar, harness, leash, ID tag:</strong> $60–$120</li><li><strong>Small-breed puppy food (first months):</strong> $60–$120</li><li><strong>Puppy classes:</strong> $100–$200</li><li><strong>Grooming tools:</strong> $30–$60</li></ul><p><strong>Upfront total estimate:</strong> $1,850–$3,300</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Grooming as the Main Recurring Cost",
+      "html": "<ul><li><strong>Food (small-breed kibble):</strong> $30–$60/month. Annual: $360–$720.</li><li><strong>Professional grooming (clip every 6–8 weeks):</strong> $50–$80/session, 6–8 sessions/year. Annual: $300–$640.</li><li><strong>Routine vet visits and vaccines:</strong> $200–$400</li><li><strong>Heartworm/flea/tick prevention:</strong> $80–$150/year</li><li><strong>Pet insurance:</strong> $25–$45/month. Annual: $300–$540.</li><li><strong>Toys and enrichment:</strong> $80–$150/year</li></ul><p><strong>First-year recurring total (with insurance):</strong> $1,320–$2,600</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "Year One and Annual Budget",
+      "html": "<p><strong>Total first-year estimate (with insurance):</strong> $3,170–$5,900</p><p><strong>Annual ongoing costs after year one:</strong></p><ul><li>Food: $360–$720</li><li>Professional grooming: $300–$640</li><li>Routine vet care: $200–$400</li><li>Parasite prevention: $80–$150</li><li>Pet insurance: $300–$600</li><li>Miscellaneous: $80–$150</li></ul><p><strong>Estimated annual ongoing total:</strong> $1,320–$2,660</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Lakeland Terrier expensive to own?",
+      "a": "Moderate cost overall. The main elevated ongoing expense compared to a short-coated small dog is professional grooming every 6–8 weeks. Food and veterinary costs are reasonable for a small, healthy breed."
+    },
+    {
+      "q": "Is hand-stripping more expensive than clipping for a Lakeland Terrier?",
+      "a": "Yes. Hand-stripping takes significantly more time and skill, which is reflected in the cost. Professional hand-stripping appointments typically cost $100–$200 or more versus $50–$80 for a standard clip. The interval between stripping appointments is longer, which partially offsets the higher per-appointment cost."
+    },
+    {
+      "q": "Should I get pet insurance for a Lakeland Terrier?",
+      "a": "Yes. Lens luxation is a breed-associated condition that, if it causes glaucoma, requires expensive emergency treatment or surgery. Pet insurance that covers hereditary eye conditions provides valuable protection."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Scottish Deerhound Grooming Guide",
+    "slug": "scottish-deerhound-grooming-guide",
+    "shopify_handle": "scottish-deerhound-grooming-guide",
+    "group": "Scottish Deerhound",
+    "size_category": "Guide",
+    "tags": ["scottish-deerhound", "grooming"],
+    "published": true,
+    "published_at": "2026-04-26T16:00:00Z",
+    "excerpt": "The Scottish Deerhound's harsh, ragged coat is one of the more forgiving rough coats — low-shedding, moderately mat-resistant, and requiring brushing only a few times per week. The beard and leg feathering need the most attention.",
+    "meta_description": "Scottish Deerhound grooming guide: brushing the harsh ragged double coat, managing the beard and leg furnishings, hand-stripping versus clipping options, bathing, and coat care for this elegant giant sighthound."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Karrie.JPG/250px-Karrie.JPG",
+      "alt": "Scottish Deerhound grooming guide"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Understanding the Scottish Deerhound Coat",
+      "html": "<p>The Scottish Deerhound has a harsh, crisp, ragged-textured double coat — a wiry outer coat over a soft, dense undercoat. The body coat has the characteristic rough texture of the sighthound coursing coats designed for protection in field conditions. The beard, mustache, and leg feathering are softer than the body coat and require more grooming attention.</p><p>The coat is moderately low-maintenance for its appearance. The harsh texture is naturally less prone to severe matting than soft-coated breeds, and the breed's cleanliness (a sighthound characteristic) reduces how quickly the coat becomes dirty. Shedding is moderate and relatively low compared to double-coated breeds of similar size — the harsh outer coat sheds minimally, though the softer undercoat contributes some seasonal shedding.</p><p>The Scottish Deerhound coat does not require professional clipping to maintain its natural appearance. Many pet owners maintain the breed entirely through home brushing and occasional hand-stripping or tidying of the furnishings. This is a more manageable coat than the breed's striking appearance might suggest."
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Step-by-Step Grooming Routine",
+      "html": "<p><strong>Frequency:</strong> Brushing 2–3 times per week; bathing every 6–8 weeks; hand-stripping or tidying the furnishings every few months.</p><p><strong>Tools needed:</strong> Pin brush, wide-tooth metal comb, slicker brush for furnishings, detangling spray, stripping comb or fingers for hand-stripping, blunt scissors for tidying.</p><p><strong>Brushing:</strong> Use a pin brush through the body coat, working with the direction of coat growth. The harsh outer coat is straightforward to brush and does not tangle readily. Follow with a wide-tooth comb through the beard, leg furnishings, and belly feathering — these softer areas tangle more than the body coat. Pay particular attention to: behind the ears (high mat risk in the softer feathering), armpits (friction zone), and the collar zone.</p><p>A light misting of detangling spray on the softer furnishing areas before brushing reduces friction and breakage. The body coat itself rarely needs detangling spray.</p><p><strong>Bathing:</strong> Use a gentle dog shampoo appropriate for a wiry coat. The harsh coat texture benefits from a shampoo that maintains texture rather than softening it excessively. Rinse thoroughly. Minimal conditioner on the furnishings only — conditioning the body coat can soften the harsh texture. Towel dry and blow-dry on low heat or allow to air-dry; the coat does not mat severely during drying the way some longer soft coats do.</p><p><strong>Hand-stripping and tidying:</strong> The Scottish Deerhound's natural ragged appearance does not require precise trimming for the pet coat. Twice yearly, or when the coat becomes excessively shaggy, the longer, dead outer coat can be removed by hand-stripping (pulling the dead coat rather than cutting) or scissor-trimming the furnishings for neatness. Show dogs require more precise presentation work — consult a Deerhound-experienced groomer or handler for show preparation.</p><p><strong>Nails:</strong> Every 3–4 weeks. The Scottish Deerhound's long legs and size mean nail maintenance directly affects gait and posture.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Sighthound Coat Care and Tail Protection",
+      "html": "<p><strong>Tail care:</strong> Like the Borzoi, the Scottish Deerhound's long tail is both a breed signature and a vulnerability. In close quarters — hallways, against furniture, through door openings — the tail can strike hard surfaces and develop 'happy tail' injuries: chronic splitting from repeated impact. Ensure the dog has adequate turning space, and be attentive with doors and tight spaces. A split tail tip is difficult to heal and painful for the dog.</p><p><strong>Professional grooming:</strong> Not typically required for pet Deerhounds. The coat is manageable entirely at home with appropriate tools. Owners who want the breed's natural appearance preserved without hand-stripping can manage with regular brushing and occasional scissor tidying of the furnishings. Show preparation requires more precise work — consult a Scottish Deerhound Club grooming guide or a breed-experienced groomer for show presentation.</p><p><strong>Coat after lure coursing or field activity:</strong> Check the coat for burrs, seeds, and debris after any coursing or field activity — particularly in the beard, leg furnishings, and between the toes. The harsh coat catches less debris than long soft coats, but seeds can work through to the skin. Remove debris promptly before bathing; wet coats tangle debris more than dry coats.</p><p><strong>Shedding is manageable:</strong> The moderate, relatively low shedding of the Deerhound coat is one of its practical advantages. Regular brushing 2–3 times per week captures most loose hair. The total volume shed is modest compared to double-coated or undercoated breeds of similar size.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Scottish Deerhound coat difficult to maintain?",
+      "a": "Less difficult than it looks. The harsh, ragged coat is moderately mat-resistant and low-shedding. Brushing 2–3 times per week (20–25 minutes per session) with a pin brush and wide-tooth comb on the furnishings is the baseline routine. Bathing every 6–8 weeks and occasional hand-stripping or scissor tidying of the furnishings complete the maintenance. This is a more manageable coat than the Afghan Hound or Leonberger, though more work than short-coated breeds."
+    },
+    {
+      "q": "Does the Scottish Deerhound shed a lot?",
+      "a": "Moderately — lower than most double-coated breeds of similar size. The harsh outer coat sheds minimally; the softer undercoat contributes some seasonal volume. Regular brushing captures most of the loose hair before it distributes through the home. The Deerhound is not a significant household shedding problem compared to heavily undercoated or long-coated breeds."
+    },
+    {
+      "q": "Does the Scottish Deerhound need professional grooming?",
+      "a": "Not typically for pet dogs. The natural ragged appearance is managed entirely at home with basic brushing and occasional trimming. Show dogs require precise presentation work that benefits from professional guidance. Many Scottish Deerhound owners manage all grooming at home throughout the dog's life without professional assistance."
+    }
+  ]
+}

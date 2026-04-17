@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "name": "Labrador Retriever",
+    "slug": "labrador-retriever",
+    "shopify_handle": "labrador-retriever",
+    "group": "Sporting Group",
+    "size_category": "Large Breed",
+    "tagline": "The Labrador Retriever has been America's most popular breed for decades. Here's why — and what they actually need from you to live up to that reputation.",
+    "tags": ["sporting-group", "large-breed", "family-dog", "retrievers", "dog-breeds"],
+    "published": true,
+    "excerpt": "Labs are genuinely great family dogs — friendly, trainable, and adaptable. But they need real daily exercise, shed constantly, and will become obese if you're not strict about food. Here's the full picture.",
+    "meta_description": "Is a Labrador Retriever right for you? The honest guide to Lab energy needs, shedding, health costs, temperament, and what life with one actually looks like."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "55–80 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–12 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Very Easy" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Labrador_on_Quantock_%282175262184%29.jpg/330px-Labrador_on_Quantock_%282175262184%29.jpg",
+      "alt": "Labrador Retriever"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Labrador Retriever?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Labrador Retriever held the title of America's most popular breed for over 30 consecutive years — a record that reflects something real about the breed. Labs are friendly, intelligent, highly trainable, and genuinely good with families, children, and other pets. They're also the foundation breed for most guide dogs, search-and-rescue dogs, and detection dogs, which tells you something about their working ability and trainability.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The challenge with the Lab's reputation is that \"great family dog\" can obscure what they actually require. Labs are working sporting dogs — they were bred to retrieve game in water and on land all day. That drive doesn't disappear because the dog lives in a suburb. A Lab that gets adequate daily exercise is calm, biddable, and wonderful to live with. A Lab that doesn't gets destructive, anxious, and difficult in ways that surprise owners who expected an easy dog.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">This guide covers what Labs actually need, what they cost, and whether one fits your current life — not your ideal life, but the one you're actually living.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Labs Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Large, athletic, and solidly built — Labs weigh 55–80 lbs and stand 21–24 inches at the shoulder. They have a dense, water-resistant double coat that comes in three colors: black, yellow (ranging from pale cream to fox red), and chocolate. The thick \"otter tail\" is a distinctive feature, used as a rudder when swimming.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">There are two general types within the breed: English (show) Labs, which are stockier, broader, and calmer; and American (field) Labs, which are leaner, more athletic, and higher energy. If you're buying from a breeder, ask whether the line is field or show oriented — this makes a real practical difference in exercise needs. Most family pets land somewhere in the middle.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Labs are known for their friendly, outgoing nature — and this reputation is accurate. They greet strangers warmly, rarely show aggression without provocation, and integrate into families with relative ease. They're social animals that do best with regular human interaction.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Where Labs stand apart is trainability. They consistently rank in the top tier of working intelligence — they learn quickly, retain commands well, and actively want to please their owners. This makes training effective and often genuinely enjoyable. It also means they get bored easily if not mentally stimulated.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Important honesty: Labs are mouthy puppies. They chew on things, they grab hands and clothing, and they're exuberant in ways that can be physically challenging with young children. The \"great with kids\" reputation is accurate for adult Labs — getting there requires managing a large, enthusiastic puppy first.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Lab",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Labs are genuinely great dogs — but they're great at being a specific kind of dog. Active, engaged, high-energy. If that matches your life, you'll probably love one. If you're expecting a calm companion that's happy with light exercise and independent time, you're likely to find Labs more than you signed up for.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The exercise requirement is the thing people most consistently underestimate. A 20-minute leash walk doesn't cut it. Labs need 60–90 minutes of real daily activity — off-leash running, swimming, fetch, something with actual effort. A well-exercised Lab is a dramatically different dog than an under-exercised one. The destruction, the anxiety, the difficulty — these are symptoms of unmet energy needs, not character flaws.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Two other things worth saying plainly: the shedding is substantial and year-round. And Labs are genetically predisposed to food obsession — a mutation in the POMC gene affects satiety signaling in many Labs, meaning they will eat past fullness if allowed. Strict portion control from day one is not optional. Overweight Labs develop joint problems that are painful, expensive, and entirely preventable.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of real daily exercise — off-leash running, swimming, fetch, or trail work. Mental exercise (training sessions, puzzle feeders) adds to the total. Two 30-minute sessions work better than one long weekend effort. Swimming is excellent and joint-friendly. Labs that get adequate exercise are notably calmer and easier to live with at every stage of life.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Brushing:</strong> 2–3x per week with an undercoat rake; daily during seasonal coat blow</li><li><strong style=\"color:#1a1a1a;\">Bathing:</strong> Every 6–8 weeks; overbathing strips the coat's water resistance</li><li><strong style=\"color:#1a1a1a;\">Ears:</strong> Check and clean weekly, especially after swimming — floppy ears trap moisture and Labs love water</li><li><strong style=\"color:#1a1a1a;\">Nails:</strong> Every 3–4 weeks</li></ul><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">See the <a href=\"/blogs/dog-breeds/labrador-retriever-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Labrador Retriever grooming guide</a> for the full coat blow management routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">One of the most trainable breeds — they want to get it right and respond immediately to positive reinforcement. Puppy classes, then ongoing training through adolescence (Labs stay puppy-brained until 2–3 years). Focus on recall, loose-leash walking, \"leave it,\" and \"settle\" — these four commands make daily life significantly easier with a large, energetic dog.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Labs are generally robust, but several conditions are common enough to budget for. Hip and elbow dysplasia and obesity are the most significant long-term health considerations.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip &amp; Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The most common structural issue in Labs. Ranges from mild (managed with exercise and NSAIDs) to severe (surgery $3,000–$6,000 per joint). OFA clearances on both parents significantly reduce but don't eliminate risk.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Obesity</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Labs are genetically wired for food obsession — a mutation in the POMC gene affects satiety signaling. They will overeat to obesity if allowed. Strict portion control from day one is essential; overweight Labs develop joint problems that compound other health issues.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Gastric dilatation and volvulus — life-threatening in large, deep-chested breeds. Feed 2 meals daily, avoid exercise immediately after eating. Know the signs: unproductive retching, distended abdomen, restlessness. Emergency surgery $3,000–$7,000.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Exercise-Induced Collapse (EIC)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Genetic condition causing sudden weakness during intense exercise. DNA test available; responsible breeders screen for it. Affected dogs can live full lives with exercise management.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited eye condition leading to progressive vision loss. DNA test available; ask breeders for eye clearances.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip and elbow clearances, EIC DNA test, PRA eye clearance, cardiac clearance</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Labs are moderately expensive — large breed food costs, larger-format vet procedures, and the training investment that pays dividends for years. Not in French Bulldog territory, but more than a small companion dog.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$720–$1,440</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$720–$1,440</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Training classes</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (large crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,500–$6,500+</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,800–$3,200</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/labrador-retriever-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Labrador Retriever first-year cost breakdown</a> before you commit.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Labrador Retriever Right for You?",
+      "good_fit": [
+        "Active household committed to 60–90 min of real daily exercise",
+        "Have outdoor access — yard, park, or water nearby",
+        "Want a highly trainable dog that's excellent with family and other pets",
+        "Comfortable with heavy year-round shedding",
+        "Willing to enforce strict food portions — Labs will become obese otherwise"
+      ],
+      "not_fit": [
+        "Work 8+ hours daily without a dog walker or daycare plan",
+        "Want a calm, low-energy companion dog",
+        "Not prepared for heavy shedding on furniture, clothing, and everywhere else",
+        "Looking for an independent, aloof breed",
+        "Expecting an easy puppy — Lab puppies are large, mouthy, and exuberant for 2+ years"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Labrador",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,500 from a reputable breeder. Required health tests: OFA hip and elbow clearances on both parents, EIC DNA test, PRA eye clearance. Ask to see documentation. Breeders who skip these are producing dogs at higher risk for expensive structural problems. Ask whether the line is field or show oriented — this affects energy level significantly.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Lab rescues are common — the breed ends up surrendered frequently when owners underestimate exercise needs. Many rescue Labs are young adults (1–3 years) who've been surrendered for behavioral reasons that resolve with exercise and consistent training. Adoption fees $200–$500 typically include spay/neuter and health check.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before you put down a deposit, go through the <a href=\"/blogs/dog-breeds/labrador-retriever-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Labrador Retriever puppy checklist</a> — it covers what to have ready before they arrive.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Are Labrador Retrievers good for first-time owners?",
+      "a": "Yes — with the caveat that they require real exercise and consistent training. Labs are forgiving of inexperienced owners who are willing to learn and put in the work. The first year is genuinely challenging. Puppy classes, daily exercise, and patience pay off in an exceptional adult dog."
+    },
+    {
+      "q": "How much do Labs really shed?",
+      "a": "A lot. Their dense double coat sheds continuously year-round, with two major seasonal blowouts in spring and fall. During coat blow, the volume is significant. If you're not comfortable with dog hair on furniture, clothing, and seemingly inside sealed containers, a Lab is not the right dog."
+    },
+    {
+      "q": "When do Labs calm down?",
+      "a": "Most Labs start maturing around age 2–3, with the worst of the puppy chaos settling around 18 months. Individual variation is significant — some Labs remain exuberant until age 4. Exercise is the biggest variable: a well-exercised Lab is notably calmer at any age than an under-exercised one."
+    },
+    {
+      "q": "Are chocolate Labs different from black or yellow Labs?",
+      "a": "Temperamentally, the differences are minimal. Health-wise, studies suggest chocolate Labs have shorter average lifespans (about 1 year shorter) and higher rates of skin and ear problems. This is generally attributed to narrower gene pools from selecting for chocolate color rather than health. Individual chocolate Labs can be perfectly healthy — it's a population-level statistic."
+    }
+  ],
+
+  "related_breeds": [
+    {"name": "Golden Retriever", "slug": "golden-retriever", "note": "Similar temperament, slightly more mellow, same shedding volume"},
+    {"name": "Chesapeake Bay Retriever", "slug": "chesapeake-bay-retriever", "note": "More independent and protective, stronger retrieve drive"},
+    {"name": "Beagle", "slug": "beagle", "note": "Much smaller, similarly family-friendly, very different exercise needs"},
+    {"name": "Vizsla", "slug": "vizsla", "note": "Similar energy, lighter build, less shedding"}
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Kerry Blue Terrier Grooming Guide",
+    "slug": "kerry-blue-terrier-grooming-guide",
+    "shopify_handle": "kerry-blue-terrier-grooming-guide",
+    "group": "Kerry Blue Terrier",
+    "size_category": "Guide",
+    "tags": ["kerry-blue-terrier", "grooming"],
+    "published": true,
+    "published_at": "2026-04-29T16:00:00Z",
+    "excerpt": "The Kerry Blue Terrier's soft, wavy, non-shedding coat requires professional clipping every 6–8 weeks and home brushing several times per week to prevent matting. The beard and eyebrows need daily attention.",
+    "meta_description": "Kerry Blue Terrier grooming guide: professional clipping schedule, home brushing to prevent matting in the soft wavy coat, beard and eyebrow maintenance, and the distinctive Kerry Blue grooming pattern."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kerry_Blue_Terrier.jpg/330px-Kerry_Blue_Terrier.jpg",
+      "alt": "Kerry Blue Terrier grooming guide"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Understanding the Kerry Blue Terrier Coat",
+      "html": "<p>The Kerry Blue Terrier has a soft, wavy, dense coat — not wiry like most terriers, but genuinely soft to the touch. The coat is single-layered (no undercoat) and low-shedding, making it one of the more practical terrier coats for allergy-sensitive households. However, the soft texture comes with a tradeoff: it mats readily if not brushed consistently, and it requires professional clipping to maintain both appearance and coat health.</p><p>The distinctive Kerry Blue silhouette — with the fall of hair over the eyes, the beard, and the characteristic body outline — is achieved through professional trimming with clippers and scissors. This is not a coat that looks after itself; it requires regular professional attention combined with consistent home maintenance between appointments.</p><p>The blue-gray color that gives the breed its name develops over time — Kerry Blue puppies are born black and transition to the breed's characteristic blue-gray color between 18 months and 2 years of age. The coat texture and maintenance requirements remain consistent through this color transition."
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Step-by-Step Grooming Routine",
+      "html": "<p><strong>Frequency:</strong> Brushing 3–4 times per week; professional clipping every 6–8 weeks; beard cleaning after meals.</p><p><strong>Tools needed:</strong> Slicker brush, pin brush, wide-tooth metal comb, detangling spray, blunt-tipped scissors for face work; for professional groomers: clippers with appropriate blade sizes.</p><p><strong>Home brushing:</strong> The Kerry Blue's soft coat mats readily — particularly at the armpits, behind the ears, in the collar area, and in the leg furnishings. Work through the coat section by section with a slicker brush followed by a wide-tooth comb to confirm no remaining tangles. A light misting of detangling spray before brushing reduces static and breakage in the soft coat. Brushing 3–4 times per week prevents mat formation between professional clipping appointments.</p><p>Priority mat areas: behind the ears, collar zone (where rubbing causes matting), armpits, and the inside leg crease. Address any tangles found immediately — soft-coated mats tighten quickly and become difficult to remove without cutting.</p><p><strong>Beard care:</strong> The beard collects food and water with every meal and drink. Wipe the beard with a damp towel after meals. Brush the beard with a wide-tooth comb daily to prevent tangling. A clean, untangled beard significantly reduces the grooming burden at professional appointments.</p><p><strong>Professional clipping every 6–8 weeks:</strong> The Kerry Blue's characteristic shape is maintained through professional clipping — the body coat is clipped to a specific length, the beard and eyebrows are shaped, and the leg furnishings are managed. A groomer experienced with Kerry Blues (or at minimum with soft-coated terriers) will know the correct pattern. Budget for professional grooming as a fixed, recurring cost.</p><p><strong>Nails:</strong> Every 3–4 weeks. The low-shedding, soft coat means owners are often less attuned to regular nail maintenance — check frequently.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Color Development and Professional Grooming",
+      "html": "<p><strong>The color transition period:</strong> Kerry Blue puppies are born black and develop the blue-gray adult color between 18 months and 2 years. During this period, the coat may appear uneven in color as the blue develops. This is normal and not a coat health concern. Reputable breeders will inform buyers about the expected color transition timeline for their specific lines.</p><p><strong>Professional grooming is required:</strong> The Kerry Blue Terrier cannot maintain its appearance without professional clipping. Budget $70–$120 per session at 6–8 week intervals — approximately $550–$1,000 per year. This is a fixed ownership cost. Owners who learn to clip at home (a Kerry Blue pattern is learnable but takes practice and quality clippers) can reduce professional grooming to periodic touch-ups.</p><p><strong>Non-shedding coat management:</strong> The low-shedding property is an advantage for housekeeping but a grooming trade-off — dead hair does not fall out; it stays in the coat and causes matting. This is why consistent brushing frequency is critical for this coat type. Regular professional clipping removes the accumulated dead hair along with the grown-out coat.</p><p><strong>Bathing:</strong> Every 4–6 weeks with a gentle shampoo and conditioner — the soft coat benefits from conditioning to reduce tangle formation. Rinse thoroughly. Blow-dry while brushing through the coat for the smoothest result; air-drying leaves the soft coat wavy and prone to tangling as it dries.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often does a Kerry Blue Terrier need professional grooming?",
+      "a": "Every 6–8 weeks for pet dogs maintained with clippers. This is a fixed, non-negotiable cost of the breed — the soft coat grows continuously and requires professional management to maintain the correct shape and prevent matting. Home brushing 3–4 times per week between appointments maintains the coat in good condition and reduces the work required at professional appointments."
+    },
+    {
+      "q": "Does the Kerry Blue Terrier really not shed?",
+      "a": "It is a low-shedding breed, not a truly zero-shedding breed. Dead hair stays in the coat rather than falling out, which means less hair on furniture and clothing but higher mat risk if brushing is inconsistent. For households with mild dog allergies, the low-shedding property can make a difference. Regular professional clipping removes the accumulated dead coat."
+    },
+    {
+      "q": "How do I keep the Kerry Blue beard from smelling?",
+      "a": "Wipe after every meal and drink with a damp towel. Brush daily with a wide-tooth comb to prevent tangles and remove food debris. Dry the beard thoroughly after contact with water — a chronically damp beard develops odor and skin irritation underneath. Some owners trim the beard slightly shorter than the show standard for easier daily maintenance. Regular bathing (every 4–6 weeks) addresses overall coat freshness."
+    }
+  ]
+}

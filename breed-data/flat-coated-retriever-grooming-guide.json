@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Flat-Coated Retriever Grooming Guide",
+    "slug": "flat-coated-retriever-grooming-guide",
+    "shopify_handle": "flat-coated-retriever-grooming-guide",
+    "group": "Flat-Coated Retriever",
+    "size_category": "Guide",
+    "tags": ["flat-coated-retriever", "grooming", "flat-coat", "feathering", "shedding"],
+    "published": true,
+    "published_at": "2026-04-22T16:00:00Z",
+    "excerpt": "The Flat-Coat's glossy coat is straightforward to maintain — weekly brushing, attention to feathering on the legs and tail, and baths every 6–8 weeks. The feathered furnishings need occasional trimming to stay neat and mat-free.",
+    "meta_description": "Flat-Coated Retriever grooming guide: maintaining the flat glossy coat, managing feathering on legs and tail, trimming schedule, bathing, and what regular brushing accomplishes for this breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flat_Coated_Retriever_-_black.jpg/250px-Flat_Coated_Retriever_-_black.jpg",
+      "alt": "Flat-Coated Retriever grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Flat-Coat's Coat",
+      "heading": "Understanding the Flat-Coated Retriever Coat",
+      "html": "<p>The Flat-Coated Retriever's coat is one of the breed's most appealing physical features — a dense, flat, glossy coat that lies close to the body with silky feathering on the ears, chest, legs, and tail. It sheds moderately, is not prone to severe matting, and has a natural sheen that looks striking when well-maintained. For the level of maintenance it requires, it's a reasonable coat in the sporting group.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — primary tool for the body coat</li><li>Pin brush — for the feathered furnishings on ears, legs, and tail</li><li>Wide-tooth metal comb — for checking feathering and finding any hidden tangles</li><li>Scissors (blunt-tipped) or thinning shears — for trimming feathering</li><li>Dog-safe shampoo and conditioner</li><li>Nail clippers or grinder</li></ul><h3>Shedding Reality</h3><p>Flat-Coats shed moderately year-round with heavier seasonal shedding. The flat, somewhat dense coat releases hair that collects on furniture and clothing. Regular weekly brushing significantly reduces loose hair in the environment. Don't expect a low-shedding coat — expect moderate management with consistent brushing.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush the body coat thoroughly with a slicker brush — neck to tail, then chest and legs</li><li>Work through the feathered areas (ears, chest, legs, tail) with a pin brush and follow with a metal comb to check for tangles</li><li>Check behind the ears and in the armpit area where mats most commonly develop</li><li>Clean ears — check for odor or debris; wipe as needed</li><li>Check paw pads for debris or interdigital issues</li></ul><h3>Monthly / As Needed</h3><ul><li>Bathe every 6–8 weeks or when dirty. Use a dog shampoo and a light conditioner for the feathering to reduce tangles</li><li>Dry thoroughly before the dog goes outside in cold weather — the coat holds moisture in the feathered areas</li><li>Trim nails monthly</li><li>Trim feathering: the leg feathering, ear feathering, and tail plume benefit from light trimming to keep a neat, tidy appearance and reduce debris collection after outdoor activity</li></ul><h3>Feathering Maintenance</h3><p>The feathering on the legs, tail, and chest is the highest-maintenance area of the Flat-Coat. It collects burrs, sticks, and plant material after field work or hiking. Check and clear debris after every outdoor session. Without regular attention, feathering can mat in the areas where it's densest — behind the ears and in the leg furnishings. Light trimming every 6–8 weeks keeps the feathering functional and tidy.</p>"
+    },
+    "special": {
+      "label": "Health Monitoring During Grooming",
+      "heading": "Grooming as a Health Monitoring Opportunity",
+      "html": "<p>Given the Flat-Coated Retriever's elevated cancer rate — particularly malignant histiocytosis — regular handling during grooming sessions provides an important opportunity to notice changes early. While grooming, make it a habit to:</p><ul><li>Palpate along the neck, shoulders, chest, and abdomen for any unusual lumps or swellings</li><li>Check lymph nodes (under the jaw, in front of the shoulders, behind the knees) — enlargement can be an early sign of lymphoma or histiocytic disease</li><li>Note any changes in coat quality — dullness, patchy growth, or hair loss can reflect systemic health changes</li><li>Check overall body condition — weight loss that shows up as visible ribs or spine may not be apparent in the glossy coat</li></ul><p>These checks take two minutes and cost nothing. They are not a substitute for regular veterinary exams, but they can prompt earlier veterinary consultation that matters for cancer outcomes. A lump found early is far better than one found late.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does a Flat-Coated Retriever need professional grooming?",
+      "a": "Flat-Coats don't require the frequent professional attention of breeds with continuously growing coats. Many owners manage the coat entirely at home with regular brushing and occasional feathering trims. If you prefer professional help, a bath and tidy-up every 2–3 months is reasonable. The coat doesn't need clipping or shaping — just maintenance of the natural flat lie and feathering trim."
+    },
+    {
+      "q": "Do Flat-Coated Retrievers mat easily?",
+      "a": "Not significantly — the flat-lying coat is far less mat-prone than wavy or curly coats. The areas to watch are behind the ears and in the leg furnishings, where the feathering is densest. Weekly brushing through these areas prevents any mat development. A steel comb run through the feathering weekly catches any tangles before they become mats."
+    },
+    {
+      "q": "How do I keep the feathering from collecting debris after hikes?",
+      "a": "Check and clear debris after each outdoor session — this takes a few minutes with a wide-tooth comb. Keeping the feathering trimmed to a functional (not excessively long) length reduces collection significantly. Some owners trim the foot feathering shorter than the leg feathering to reduce picking up mud and plant material in that area."
+    }
+  ]
+}

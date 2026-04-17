@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Shiba Inu Grooming Guide",
+    "slug": "shiba-inu-grooming-guide",
+    "shopify_handle": "shiba-inu-grooming-guide",
+    "group": "Shiba Inu",
+    "size_category": "Guide",
+    "tags": ["shiba-inu", "grooming", "double-coat", "coat-blow", "shedding"],
+    "published": true,
+    "published_at": "2026-04-20T16:00:00Z",
+    "excerpt": "The Shiba Inu's double coat is naturally clean and easy to manage most of the year — and dramatic during twice-yearly coat blows. Never shave it. Here's what to do instead.",
+    "meta_description": "Shiba Inu grooming guide: double coat maintenance, undercoat rake technique for coat blows, why shaving a Shiba destroys coat function, and managing a clean but stubborn breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Taka_Shiba.jpg/250px-Taka_Shiba.jpg",
+      "alt": "Shiba Inu grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Shiba Inu Coat",
+      "heading": "Understanding the Shiba Inu Double Coat",
+      "html": "<p>The Shiba Inu has a plush double coat: a soft, thick undercoat beneath a stiff, straight outer coat. The combination is naturally weather-resistant and remarkably self-cleaning — Shibas often groom themselves like cats and don't develop the typical dog odor of many other breeds. This coat is beautiful and functional, but it comes with two characteristics owners must understand: it must never be shaved, and it blows twice a year in significant volume.</p><h3>Grooming Tools You'll Need</h3><ul><li>Undercoat rake — primary tool during coat blows</li><li>Slicker brush — for regular maintenance and outer coat finishing</li><li>Wide-tooth steel comb — for checking for tangles, especially behind ears</li><li>Deshedding tool (optional but useful during heavy coat blows)</li><li>Dog-safe shampoo — gentle, pH-balanced formula</li><li>High-velocity dryer (strongly recommended for coat blows)</li></ul><h3>NEVER Shave a Shiba Inu</h3><p>The double coat regulates temperature in both summer heat and winter cold. Shaving removes this thermoregulation system and leaves the dog more vulnerable — not less — to both extremes. Post-clipping alopecia (permanent patchy coat regrowth) is a known risk in Shibas after shaving. The coat may never fully recover its proper structure. If a Shiba seems hot, provide shade and cool water; the coat itself helps manage heat when intact.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly (Normal Periods)</h3><ul><li>Brush through the coat with a slicker brush to remove loose outer coat hair and debris</li><li>Run an undercoat rake through once to pull any loose undercoat</li><li>Check ears for debris or odor; wipe with a cotton ball and ear cleaner</li><li>Check paw pads for debris, overgrown hair between pads, or irritation</li><li>Check behind ears — this area can mat in Shibas despite the relatively short coat</li></ul><h3>Monthly</h3><ul><li>Bathe every 6–8 weeks — Shibas are naturally clean and don't need frequent bathing</li><li>Dry thoroughly after baths — the dense undercoat holds moisture. Towel dry first, then use a high-velocity dryer or warm forced-air to fully dry the undercoat</li><li>Trim nails monthly — long nails affect comfortable movement and the tight Shiba foot structure</li></ul><h3>Coat Blow Season (Twice Per Year)</h3><p>Shiba Inus shed their entire undercoat twice a year — typically spring and fall — over 2–4 weeks. During this period, the undercoat releases in large clumps and the shedding volume is dramatic. Daily brushing with the undercoat rake is required. A thorough deshedding bath — full soak, conditioner, rinse, and complete blow-dry — removes the majority of the loose undercoat efficiently and shortens the blow period significantly.</p>"
+    },
+    "special": {
+      "label": "Grooming the Independent Shiba",
+      "heading": "Handling a Shiba Inu for Grooming",
+      "html": "<p>Shibas are intelligent, independent, and often stubborn about handling they haven't been habituated to. A Shiba puppy that is handled daily — paws touched, ears examined, body brushed — develops tolerance for grooming. An adult Shiba that has never been handled can be very vocal and resistant during grooming sessions (the famous \"Shiba scream\" is a real phenomenon during unwanted restraint).</p><h3>Building Grooming Tolerance</h3><ul><li>Start handling daily from day one — every grooming session is also a handling exercise</li><li>Use very high-value treats to associate grooming tools with positive outcomes</li><li>Keep early sessions short and positive — end before the dog becomes frustrated</li><li>A non-slip mat on the grooming surface reduces anxiety significantly in most dogs</li><li>Never chase a fleeing Shiba around to groom it — this teaches avoidance. Instead, make grooming a predictable, treat-rewarded routine</li></ul><h3>Professional Grooming</h3><p>Many Shiba owners use professional groomers for deshedding baths during coat blow season. Ensure the groomer is experienced with double-coated spitz breeds and give explicit instructions that the coat should not be clipped or trimmed — only brushed, bathed, and blown out. A groomer who doesn't know the breed may attempt to cut the coat, which is not appropriate for this breed.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often do Shiba Inus blow their coat?",
+      "a": "Twice per year — typically spring and fall — with each blow lasting 2–4 weeks. During coat blows, the undercoat releases in significant volume and daily brushing is required. Outside of coat blow season, Shibas shed moderately year-round but are generally manageable with weekly brushing."
+    },
+    {
+      "q": "Why shouldn't I shave my Shiba Inu in summer?",
+      "a": "The double coat is a thermoregulation system that works in both heat and cold. A shaved Shiba is more vulnerable to sunburn and heat stress, not more comfortable. The outer coat also provides physical protection from grass seeds, insects, and UV radiation. Post-clipping alopecia — permanent patchy coat regrowth — is a real risk in Shibas after shaving. The coat intact is the right approach for a hot summer; shade and cool water are the appropriate interventions."
+    },
+    {
+      "q": "How do I groom a Shiba Inu that hates being brushed?",
+      "a": "Start with very short sessions and very high-value treats, associating the brush with something the dog actively enjoys. Touch the brush to the coat for a few seconds, reward, stop. Gradually extend duration over multiple sessions. For established resistance in adult dogs, the same approach works but takes longer. A groomer experienced with spitz breeds who uses positive handling techniques is a useful option when home grooming is genuinely not working."
+    }
+  ]
+}

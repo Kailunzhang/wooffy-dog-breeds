@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Norwich Terrier Puppy Checklist",
+    "slug": "norwich-terrier-puppy-checklist",
+    "shopify_handle": "norwich-terrier-puppy-checklist",
+    "group": "Norwich Terrier",
+    "size_category": "Guide",
+    "tags": ["norwich-terrier", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-05-02T16:00:00Z",
+    "excerpt": "Bringing home a Norwich Terrier puppy? This complete checklist covers home prep, supplies, the first-week routine, and the training foundations that set your terrier up for a lifetime of good behavior.",
+    "meta_description": "Norwich Terrier puppy checklist: home setup, essential supplies, first-week routines, and early training tips for new Norwich Terrier owners."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Norwich_Terrier.jpg/330px-Norwich_Terrier.jpg",
+      "alt": "Norwich Terrier puppy"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Home Preparation for a Norwich Terrier Puppy",
+      "html": "<p><strong>Fencing:</strong> A secure, escape-proof yard is essential for any terrier. Check all fence lines for gaps, make sure gates latch securely, and watch for digging potential at the base of fences. Norwich Terriers are small but determined — don't underestimate what they can squeeze through or under.</p><p><strong>Supplies Checklist:</strong></p><ul><li>Small wire crate with removable divider for puppy sizing</li><li>Soft crate pad or dog bed</li><li>Stainless steel food and water bowls</li><li>Small-breed puppy food (match what the breeder was feeding)</li><li>Flat collar with ID tag</li><li>Lightweight harness for walks</li><li>Short (4-foot) and longer (6-foot) leashes</li><li>Slicker brush and metal comb</li><li>Durable chew toys and interactive puzzles</li><li>Enzymatic cleaner for accidents</li><li>Long line (15–20 feet) for recall practice</li></ul><p><strong>Vet Visit:</strong> Schedule within the first week. Bring all health and vaccination records from the breeder. Discuss deworming, vaccination schedule, and spay/neuter timing if applicable.</p>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "Routines and Settling In During the First Week",
+      "html": "<p><strong>Crate Training:</strong> The crate is your most important tool in the first weeks. Make it cozy, feed all meals inside it, and build up duration gradually. A well-crate-trained Norwich Terrier is a safer, calmer dog at home and at the vet or groomer.</p><p><strong>Potty Schedule:</strong> Young Norwich puppies need to go outside every 1–2 hours during waking hours. Key times: immediately upon waking, after every meal, after play, and before bed. Consistent schedule plus immediate reward after going outside builds the habit reliably.</p><p><strong>Grooming Handling:</strong> Start gentle grooming handling from day one. Touch paws, ears, and mouth daily, run a soft brush through the coat, and make it all a positive experience with treats and calm praise. This is the single best investment you can make for your puppy's adult grooming comfort.</p><p><strong>First Night:</strong> Some Norwich Terrier puppies settle quickly; others take several nights. Placing the crate near your bed — so the puppy can hear and smell you — typically shortens the adjustment period. Resist the urge to bring the puppy into your bed unless you want that arrangement permanently.</p>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Training Foundations for Your Norwich Terrier Puppy",
+      "html": "<p><strong>Basic Obedience Early:</strong> Norwich Terriers are bright and pick up cues quickly when motivation is high. Start teaching sit, down, and come within the first week at home using small, soft treats. Keep sessions short (3–5 minutes) and end on a win.</p><p><strong>Socialization:</strong> Use the critical window (3–14 weeks) to expose your puppy to as many positive new experiences as possible. Different surfaces, sounds, people of all ages, friendly dogs, and new environments all contribute to building a confident, adaptable adult Norwich Terrier.</p><p><strong>Impulse Control:</strong> Teaching 'wait' before meals, 'leave it' on walks, and 'off' when jumping builds the impulse control that makes a terrier much easier to live with. These cues are particularly valuable for a prey-driven breed.</p><p><strong>Enroll in Puppy Class:</strong> A well-run puppy class offers socialization opportunities, foundation training, and guidance from a professional trainer — all in one. Enroll as soon as vaccines allow. Norwich Terriers generally enjoy the stimulation of class environments.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How do you keep a Norwich Terrier from barking excessively?",
+      "a": "Start bark training early by teaching a 'quiet' cue. When the puppy barks, wait for a natural pause, immediately mark and reward the quiet with a treat. Consistency and early intervention prevent nuisance barking from becoming entrenched. Note that some barking is natural and normal for terriers."
+    },
+    {
+      "q": "When should Norwich Terrier puppies start puppy classes?",
+      "a": "Most puppy classes accept dogs 7–8 weeks old with initial vaccines. Starting as early as possible is ideal — the socialization benefits of puppy class are most powerful during the 8–14 week window. Ask your veterinarian for specific vaccine requirements before enrolling."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "name": "Bloodhound",
+    "slug": "bloodhound",
+    "shopify_handle": "bloodhound",
+    "group": "Hound Group",
+    "size_category": "Large Breed",
+    "tagline": "The Bloodhound is the greatest scent-tracking dog in the world — and one of the most demanding to own. When the nose is working, training doesn't exist. They drool, they require weekly ear cleaning, and they need a fence their determination can't defeat.",
+    "tags": ["hound-group", "large-breed", "scent-hound", "droopy-ears", "drool", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-23T16:00:00Z",
+    "excerpt": "The Bloodhound's tracking ability is unmatched — a scent trail 14 days old, from 130 miles away. That same nose makes off-leash life permanently unsafe. Add in significant drool, weekly mandatory ear cleaning to prevent chronic infections, and a large friendly personality, and you have a very specific ownership experience.",
+    "meta_description": "Bloodhound breed guide: world's best scent tracker, off-leash dangers, mandatory weekly ear cleaning protocol, drool management, bloat risk, hip and elbow dysplasia, and honest ownership expectations."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "80–110 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–12 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "45–60 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Not ideal" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bloodhound_Erland22.jpg/330px-Bloodhound_Erland22.jpg",
+      "alt": "Bloodhound"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Bloodhound?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Bloodhound is the world's most capable scent-tracking dog — a fact recognized by law enforcement agencies globally. With approximately 300 million scent receptors (compared to roughly 5 million in humans), the Bloodhound can follow a track 14 days old, over 130 miles, through multiple weather changes. Evidence gathered by a working Bloodhound is admissible in US courts. The nose is extraordinary.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">As a companion dog, the Bloodhound is friendly, affectionate, and good-natured. They're not guard dogs, not aggressive, and generally gentle with children and other animals. What they are is single-mindedly devoted to following scent trails — and when the nose engages, nothing else matters. Training doesn't exist. You don't exist. The track exists.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Practical ownership realities: significant drool (expect it on walls, furniture, and yourself); weekly ear cleaning that is mandatory, not optional (the long ears drag the ground collecting bacteria and are prone to chronic infection without maintenance); and a dog that cannot be trusted off-leash outside a securely fenced area under any circumstances.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Bloodhounds Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A large, powerful, wrinkled hound with long, pendulous ears, deep-set diamond-shaped eyes showing significant haw (red lining), and an extraordinarily loose skin that forms deep folds around the head and neck. Males weigh 90–110 lbs and stand 25–27 inches; females 80–100 lbs at 23–25 inches.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Colors include black and tan, liver and tan, and red. The loose facial skin and long ears serve a functional purpose: the ears sweep scent toward the nose, and the wrinkles and dewlap (loose throat skin) trap scent molecules. The entire physical structure is engineered for scent work. The tail is carried upright when working.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Friendly, gentle, and affectionate — Bloodhounds are good-natured hounds with no aggression toward people. They're social dogs that do well with children and are generally fine with other dogs. The mild, equable temperament is one of the breed's genuine strengths as a companion.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The challenge is the nose. The scenting instinct is so powerful and fundamental that it overrides everything else when engaged. A Bloodhound on a scent trail is not a dog you can call back. It will follow the track until something physically stops it. This is not a training problem — it's a biological imperative that has been refined over centuries.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They can be stubborn in general — hounds work independently by nature and evaluate instructions on their own terms. They are not disobedient so much as deeply distracted. Patient, reward-based training achieves results; attempts to use force or corrections produce nothing useful.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Bloodhound",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bloodhounds are remarkable animals. If you find the scent-tracking ability fascinating, want a gentle giant that's genuinely good with family, and can accept a large-dog commitment with some specific management requirements — they're extraordinary companions. The personality is warm, the temperament is reliable, and the experience of watching a Bloodhound work a scent trail is unlike anything in the dog world.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest requirements: the drool is real and unavoidable. If drool on the walls, furniture, and your clothing is a genuine problem, this is not the breed. And the ear cleaning is not optional — it is a mandatory weekly health maintenance task. The long ears that drag the ground and collect every bacterium and fungus in the environment will develop chronic infection if not cleaned weekly. This creates recurring vet bills and ongoing antibiotic treatment. Weekly cleaning prevents that entirely.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The fence is the safety item: a Bloodhound on a scent trail cannot be recalled. A 6-foot solid fence is the minimum. Invisible fences are worthless — when the nose engages, no aversive stimulus registers. Budget for gastropexy discussion at spay/neuter time: the deep chest creates real bloat risk.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">45–60 minutes daily. Bloodhounds need daily exercise but are not extreme-energy dogs indoors. Leashed walks — always leashed — and play in a securely fenced yard are the primary formats. Scent work activities like tracking are excellent mental exercise that tires a Bloodhound more effectively than physical exercise alone.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The short coat is low-maintenance, but ear cleaning is a non-negotiable weekly task. The facial folds and dewlap also require regular cleaning to prevent skin fold dermatitis. Drool wiping is a daily reality. See the <a href=\"/blogs/dog-breeds/bloodhound-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Bloodhound grooming guide</a> for the full routine including the ear protocol.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Positive reinforcement with food. Focus on household manners and reliable leash behavior. Accept that off-leash recall is not achievable for this breed. Channel the scenting instinct into formal tracking or nose work activities — a Bloodhound with an appropriate outlet for its primary drive is a significantly more settled household companion.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bloodhounds live 10–12 years. Their anatomy creates several specific health management requirements. Ear health is the most preventable ongoing concern.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Ear Infections (Chronic)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The long, pendulous ears restrict airflow and drag the ground, collecting bacteria, yeast, and debris. Without weekly cleaning, chronic ear infections are essentially certain — requiring repeated antibiotic treatment and contributing to hearing loss over time. Weekly cleaning with a veterinarian-recommended ear cleaner is the prevention protocol. This is the single most important ongoing maintenance task for a Bloodhound.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Deep-chested large breed risk. Gastric dilatation-volvulus is a life-threatening emergency. Know the signs: distended abdomen, unproductive retching, restlessness. Discuss prophylactic gastropexy at spay/neuter time — it eliminates the volvulus risk.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip / Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed joints — more common in large and heavy breeds. OFA hip and elbow clearances available; ask breeders. A large heavy dog with significant dysplasia has substantially limited quality of life.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Entropion / Ectropion</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Eye lid abnormalities from the droopy facial anatomy. The haw exposure can lead to chronic eye irritation. Monitor for redness, discharge, or squinting — surgical correction may be needed.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Skin Fold Infections</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The facial wrinkles and dewlap trap moisture and bacteria. Regular cleaning of skin folds prevents dermatitis. Check and clean folds during weekly grooming.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip and elbow clearances. Discuss gastropexy with your vet. Establish weekly ear cleaning from day one.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$3,500–$7,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (large crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$5,550–$10,600</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,550–$2,700</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/bloodhound-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Bloodhound first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Bloodhound Right for You?",
+      "good_fit": [
+        "Households with securely fenced outdoor areas (6-foot solid fence minimum)",
+        "Owners who find scent-tracking fascinating and will channel the instinct appropriately",
+        "People who can accept and manage significant drool without it being a dealbreaker",
+        "Owners committed to weekly ear cleaning as a non-optional health maintenance task",
+        "Families looking for a gentle, friendly large dog with a good nature toward children"
+      ],
+      "not_fit": [
+        "Anyone who cannot tolerate drool on surfaces, furniture, and clothing",
+        "Owners expecting off-leash freedom outside a secured fence",
+        "People unwilling to commit to the weekly ear cleaning protocol",
+        "Those wanting a responsive, obedient companion when scent is present"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Bloodhound",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$3,500–$7,000 from reputable breeders. The American Bloodhound Club maintains a breeder directory. Ask for OFA hip and elbow clearances. Discuss gastropexy with your vet at the first appointment — it's a strong recommendation for this breed given the bloat risk.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bloodhound rescue organizations operate nationally. Surrendered dogs are often from households overwhelmed by the drool, ear care, or sheer size and determination of the breed. An experienced, committed home can give a rescue Bloodhound an excellent life.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Bloodhound comes home, complete the <a href=\"/blogs/dog-breeds/bloodhound-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Bloodhound puppy checklist</a> — ear cleaning protocol established with your vet, fencing assessed, gastropexy decision made, and insurance enrolled before the first visit.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "How important is ear cleaning for Bloodhounds?", "a": "It's mandatory. The long, pendulous ears create an environment where bacteria and yeast accumulate with virtually no airflow — and the ears drag the ground and collect even more. Without weekly cleaning, chronic ear infections develop. These require repeated antibiotic courses, cause discomfort, and contribute to permanent hearing damage over time. A dog whose ears are cleaned weekly almost never develops ear infections. This is the most impactful single health maintenance task for this breed." },
+    { "q": "Can you train a Bloodhound to come when called?", "a": "In low-distraction environments, yes. When a scent trail is active — no. This is biological, not behavioral. A Bloodhound tracking a scent is not ignoring you; the scenting process is occupying the dog's attention entirely. The practical implication: all outdoor exercise must be in a securely fenced area or on-leash. Off-leash recall in open areas with any scent stimulus is not a reasonable training goal for this breed." },
+    { "q": "How much do Bloodhounds drool?", "a": "Significantly and constantly. The loose lips and facial anatomy create continuous drool production. Owners describe it as 'ropes of drool' — it swings from the jowls and flings off when the dog shakes its head. Towel management and accepting drool on walls and furniture at head height is part of Bloodhound ownership. If this is a firm dealbreaker, this is not the breed." },
+    { "q": "Are Bloodhounds good family dogs?", "a": "Yes — the temperament toward people is gentle and friendly. They're not aggressive, they tolerate children well, and they're generally good-natured with other household dogs. The management challenges are the drool, ear care, and containment — not the personality. A well-managed Bloodhound is an excellent, affectionate family companion." }
+  ],
+
+  "related_breeds": [
+    {"name": "Coonhound", "slug": "black-and-tan-coonhound", "note": "American scent hound cousin, similar trailing ability and hound temperament"},
+    {"name": "Basset Hound", "slug": "basset-hound", "note": "Smaller relative, similar scenting ability and ear care requirements, more manageable size"},
+    {"name": "Beagle", "slug": "beagle", "note": "Smaller scent hound, similar nose-driven independence, much more manageable in size and drool"},
+    {"name": "Saint Bernard", "slug": "saint-bernard", "note": "Similar size and drool volume, gentle giant temperament, less scenting intensity"}
+  ]
+}

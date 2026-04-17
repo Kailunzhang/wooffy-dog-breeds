@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Miniature American Shepherd Puppy Checklist",
+    "slug": "miniature-american-shepherd-puppy-checklist",
+    "shopify_handle": "miniature-american-shepherd-puppy-checklist",
+    "group": "Miniature American Shepherd",
+    "size_category": "Guide",
+    "tags": ["miniature-american-shepherd", "puppy", "checklist", "CEA", "MDR1", "dog-sports"],
+    "published": true,
+    "published_at": "2026-04-21T16:00:00Z",
+    "excerpt": "Everything you need before your Miniature American Shepherd puppy comes home — including the CEA and MDR1 documentation that are required from any responsible breeder.",
+    "meta_description": "Miniature American Shepherd puppy checklist: CEA and MDR1 test documentation, exercise plan, sport training research, socialization priorities, and essential gear."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blue_Merle_Miniature_American_Shepherd_in_Grass.jpg/330px-Blue_Merle_Miniature_American_Shepherd_in_Grass.jpg",
+      "alt": "Miniature American Shepherd puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "MAS Puppy Prep: Documentation and Sport Plan",
+      "html": "<p>Two breed-specific preparations matter before a Miniature American Shepherd arrives: collecting the CEA and MDR1 DNA test documentation from the breeder, and researching dog sport options in your area. MAS are athletic, intelligent dogs that thrive with structured sport activity — having this plan in place before the puppy arrives ensures you start in the right direction.</p><h3>Documentation to Request From Breeder</h3><ul><li><strong>CEA (Collie Eye Anomaly) DNA test</strong> for both parents</li><li><strong>MDR1/ABCB1 DNA test</strong> for both parents</li><li>OFA hip and patellar evaluation for both parents</li><li>A responsible MAS breeder should provide all of this documentation without special request — it is standard practice</li></ul><h3>Dog Sport Research Checklist</h3><ul><li>Research agility clubs in your area — MAS excel at agility and most areas have accessible introductory programs</li><li>Check for USBCHA herding trial programs or local herding instinct testing</li><li>Look into disc dog, rally obedience, or trick dog programs</li><li>Book a sport introduction class starting around 12–14 months (growth-plate-appropriate age)</li></ul><h3>Essential Gear Checklist</h3><ul><li>Small-medium crate (24–30 inch with divider)</li><li>Dog bed appropriate for an active small breed</li><li>Stainless steel food and water bowls</li><li>Flat collar + ID tag (engrave on arrival day)</li><li>Harness for walks</li><li>4–6 ft leash</li><li>Slicker brush, undercoat rake, and steel comb for grooming</li><li>High-value training treats</li><li>Enzymatic cleaner for accidents</li><li>Puzzle feeders and enrichment toys</li><li>Fetch toys and tug toys appropriate for an active small breed</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit and MDR1 Communication",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam including eye evaluation</li><li>Vaccine schedule verification and continuation</li><li>Parasite prevention — communicate MDR1 status from breeder documentation before any medications are prescribed</li><li>Discuss spay/neuter timing</li><li>Microchip if not placed by breeder</li><li>Enroll in pet insurance before this appointment or immediately after</li></ul><h3>MDR1 in Medical Records</h3><p>Ensure the puppy's MDR1 status from the breeder's documentation is entered in the vet's medical record. An MDR1-affected dog that receives ivermectin (found in many common heartworm preventives) or an incompatible anesthetic can suffer serious neurological harm. Document the status, confirm it's in the record, and mention it at every vet visit and emergency visit.</p><h3>Grooming Habituation from Day One</h3><p>Start brushing the puppy coat immediately — even 2–3 minutes daily. The adult MAS coat requires 2–3 times per week brushing with particular attention to the feathering. A puppy that learns brushing is a normal daily activity becomes an adult that accepts grooming without resistance.</p><h3>Socialization: Start Immediately</h3><p>The 8–16 week window shapes adult temperament:</p><ul><li>Diverse people, environments, sounds, and controlled dog interactions</li><li>Puppy class at 8–10 weeks — socialization and training foundation</li><li>MAS are generally outgoing and social — they take to broad socialization well when introduced positively</li></ul>"
+    },
+    "special": {
+      "label": "Training and Sport Introduction",
+      "heading": "Building a Sport Foundation From Puppyhood",
+      "html": "<h3>MAS Training Capacity</h3><p>Miniature American Shepherds are highly trainable, eager dogs that learn quickly and retain reliably. They respond well to positive reinforcement and genuinely enjoy the engagement of training sessions. Establish all foundation commands during puppyhood: sit, down, stay, come, leave it, loose-leash walking. These form the basis for any future sport work.</p><ul><li>Puppy class at 8–10 weeks</li><li>Progress to intermediate obedience — MAS are capable of advanced work</li><li>Introduce sport-specific foundations at appropriate developmental age</li></ul><h3>Age-Appropriate Exercise</h3><p>MAS puppies are energetic, but growing joints must be protected. Follow the 5-minutes-per-month-of-age guideline for structured leash walks. Full sport training — jumping sequences, weave poles, etc. — should wait until growth plates close around 12–14 months. Foundation skills (attention, targeting, basic agility body awareness exercises) can begin much earlier on the flat.</p><h3>Mental Stimulation as a Daily Constant</h3><p>Like all herding breeds, MAS need cognitive engagement as much as physical exercise:</p><ul><li>Feed meals from puzzle feeders</li><li>Multiple short training sessions daily — the breed learns quickly and tires of repetition</li><li>Rotate toy types to maintain novelty</li><li>New environments, surfaces, and experiences keep the herding brain engaged</li></ul>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Why do both CEA and MDR1 tests matter for the Miniature American Shepherd?",
+      "a": "CEA (Collie Eye Anomaly) can cause vision loss ranging from none to severe depending on severity — DNA testing from breeders identifies affected puppies and prevents producing them from known carriers. MDR1 affects medication safety — dogs with the mutation cannot safely receive ivermectin and certain other medications. Both conditions have available DNA tests, and both should be tested in any responsible MAS breeding program. These are standard requirements, not extra precautions."
+    },
+    {
+      "q": "Are Miniature American Shepherds good for apartment living?",
+      "a": "With sufficient daily exercise and mental stimulation, some MAS do well in apartments. However, they are herding dogs with significant activity requirements, and apartment life makes meeting those requirements more demanding — it requires intentional daily exercise (not just yard access) and structured enrichment. MAS that don't get adequate activity develop behavioral problems regardless of living situation."
+    },
+    {
+      "q": "When can I start agility training with my MAS puppy?",
+      "a": "Foundation skills — attention, targeting, basic body awareness, and flat work — can begin from puppyhood. Full agility with jumping sequences and contact equipment should wait until growth plates close at approximately 12–14 months. Starting foundation work early builds the vocabulary and enthusiasm that make the full sport introduction smooth when the puppy is physically ready."
+    }
+  ]
+}

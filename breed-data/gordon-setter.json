@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "name": "Gordon Setter",
+    "slug": "gordon-setter",
+    "shopify_handle": "gordon-setter",
+    "group": "Sporting Group",
+    "size_category": "Large Breed",
+    "tagline": "The Gordon Setter is the steadiest and most family-loyal of the three setter breeds — a serious bird dog that's also a committed family companion. They're slower to mature, prone to bloat, and need real daily exercise.",
+    "tags": ["sporting-group", "large-breed", "loyal", "bird-dog", "black-and-tan", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-23T16:00:00Z",
+    "excerpt": "Gordon Setters are the heaviest, most family-oriented of the setter breeds — loyal, steady, and serious about their work. They mature slowly, need consistent exercise, and carry real bloat risk. Less flashy than Irish Setters, more devoted to their people.",
+    "meta_description": "Gordon Setter breed guide: temperament compared to other setters, bloat/GDV risk, health conditions, grooming the black-and-tan coat, and what to expect from this loyal sporting breed."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "45–80 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–13 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise",  "value": "60–90 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming",  "value": "Moderate" },
+    "training": { "emoji": "🎓", "label": "Training",  "value": "Moderate" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Very Good" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Manageable" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Orrvilas_enska_w800px.jpg/250px-Orrvilas_enska_w800px.jpg",
+      "alt": "Gordon Setter"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Gordon Setter?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Gordon Setter is the Scottish member of the setter family, developed in the Scottish Highlands in the early 19th century under the patronage of the fourth Duke of Gordon. They are the heaviest and most substantial of the three setter breeds — built for endurance in rugged terrain rather than the speed-focused field trial work that shaped their Irish and English cousins.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Among setters, the Gordon is the most family-oriented and reserved. They bond deeply with their household but are more measured with strangers than the ebullient Irish Setter. They're described as steady, loyal, and thorough — qualities that make them excellent family dogs and reliable in the field, but also dogs that need their owner to invest time in the relationship.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The black-and-tan silky coat is striking and distinctive — no other setter breed shares this coloring. It requires consistent maintenance but is not dramatically high-maintenance. The significant health concern to know going in is bloat/GDV: Gordon Setters are deep-chested and carry meaningful risk, and owners need to know the signs and discuss preventive gastropexy with their vet.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Gordon Setters Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Males weigh 55–80 lbs, females 45–70 lbs — Gordon Setters are the heaviest of the setter breeds, with a more substantial, muscular build than Irish or English Setters. They're built for endurance work in rough Scottish terrain, not for the lighter, faster style of field trial competition.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The coat is shining black with chestnut or mahogany tan markings in specific places: muzzle, throat, two spots above the eyes, chest, legs, and under the tail. The coat is silky and slightly wavy, with feathering on the chest, belly, legs, and tail. The combination of the substantial build and distinctive coloring gives Gordon Setters a regal appearance that turns heads reliably.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Gordon Setters are loyal family dogs with a steadier, more reserved temperament than Irish Setters. They're not standoffish, but they don't greet every stranger like a long-lost friend either — they'll warm up at their own pace and are typically polite rather than exuberant with new people. With their own family, they're devoted and affectionate.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">One important characteristic: Gordon Setters mature slowly. A two-year-old Gordon is still mentally a puppy in many ways — they can maintain goofy, high-energy adolescent behavior longer than some breeds. This isn't a flaw; it just means patience with the adolescent phase is required. The settled, devoted adult dog that emerges is worth it.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">In the field, Gordon Setters work methodically and thoroughly — not the fastest, but reliable and persistent. For hunting owners, this translates to a dog that covers ground systematically and doesn't blow past birds. For non-hunting owners, it means a dog that investigates everything carefully on walks — the same systematic quality applied to the neighborhood.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Gordon Setter",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Gordon Setters don't get the attention of Irish Setters, and they're rarer than English Setters — but for the right owner, they're outstanding dogs. The combination of genuine loyalty, good-natured family temperament, striking appearance, and real working ability makes them underrated among sporting breeds.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest part: they need exercise. Not just a 20-minute walk, but real daily activity — running, hiking, active play, field work if that's your thing. An under-exercised Gordon Setter in a small home becomes a frustrated dog with destructive outlets. They're manageable dogs, but manageable within the context of their sporting heritage.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Bloat/GDV is real and potentially fatal — know the signs (distended abdomen, unproductive retching, restlessness after eating) and have a plan with your vet before it happens. Many deep-chested breed owners elect a preventive gastropexy during spay/neuter; discuss this with your vet. It's a meaningful conversation to have before a crisis, not during one.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of vigorous activity daily. Gordon Setters were bred for full days in the field — they have real stamina and need real outlets. Running, hiking, active fetching, or field work. A fenced yard for additional free running is strongly recommended. They're not the right dog for a purely urban, walk-based lifestyle.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The black-and-tan silky coat requires weekly brushing and attention to the feathered areas. Moderate shedding year-round. Professional grooming every 6–8 weeks keeps the feathering trimmed and manageable. Ear cleaning is critical — drop ears restrict airflow and infections are a real risk. See the <a href=\"/blogs/dog-breeds/gordon-setter-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Gordon Setter grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Moderate trainability — Gordon Setters are intelligent and responsive to consistent positive reinforcement. They're not as immediately biddable as retrievers, but they're not stubborn in the way northern or primitive breeds can be. The slow maturation means you may feel like you're training a perpetual adolescent for the first two years — maintain consistency and the settled dog will emerge.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Gordon Setters have a 12–13 year average lifespan. The most serious acute health risk is bloat/GDV, which can be fatal within hours and requires emergency intervention. This should be on every Gordon Setter owner's radar before bringing the dog home.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Gastric dilatation-volvulus — the stomach fills with gas and twists, cutting off blood supply. A life-threatening emergency with hours-to-minutes urgency. Signs: distended abdomen, unproductive retching, drooling, restlessness after eating. Know the nearest emergency veterinary clinic before you need it. Preventive gastropexy (stomach tacking surgery) performed during spay/neuter significantly reduces risk.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Malformed hip joint causing pain and arthritis. OFA or PennHIP screening available — ask breeders for clearances on both parents.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited retinal degeneration leading to blindness. DNA test available — reputable breeders screen for it.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Underactive thyroid — common in setters. Manageable with daily medication once diagnosed. OFA thyroid clearances available.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip clearances, OFA thyroid, CAER eye exam, PRA DNA test. Discuss gastropexy with your vet at the first puppy appointment.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,700–$5,100</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,500–$2,800</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/gordon-setter-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Gordon Setter first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Gordon Setter Right for You?",
+      "good_fit": [
+        "Active owners who can provide 60–90 minutes of real exercise daily",
+        "Families who want a loyal, devoted sporting dog that's good with children",
+        "Owners who appreciate a reserved but warm temperament — not the most outgoing breed but deeply bonded",
+        "Hunters or outdoor enthusiasts who can engage the breed's working instincts",
+        "Owners prepared to be patient through slow adolescent maturation"
+      ],
+      "not_fit": [
+        "Apartment dwellers or owners who can only provide short walks",
+        "Owners wanting an immediately biddable, fast-maturing dog",
+        "Anyone who isn't prepared for bloat/GDV risk and hasn't discussed gastropexy with their vet",
+        "Households wanting a highly social, greets-everyone dog — Gordons are reserved with strangers",
+        "People who haven't researched the breed's exercise requirements and think 'sporting dog' means a short daily walk"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Gordon Setter",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,500 from reputable breeders. Gordon Setters are less common than English or Irish Setters — you may wait for a litter. The Gordon Setter Club of America maintains a breeder directory. Required clearances: OFA hip, OFA thyroid, CAER eye exam, PRA DNA test. Ask about gastropexy options at spay/neuter time.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Gordon Setter rescue organizations exist though placement volume is lower given the breed's rarity. Rescued Gordons are often adults and frequently come from owners who couldn't meet their exercise needs. An adult Gordon with a known history can be an excellent option for an active household.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Gordon Setter comes home, complete the <a href=\"/blogs/dog-breeds/gordon-setter-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Gordon Setter puppy checklist</a>.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "How do Gordon Setters compare to Irish Setters?", "a": "Gordon Setters are heavier, more reserved, and more family-focused than Irish Setters. Irish Setters are more outgoing, higher-energy, and faster in the field. Gordons are steadier and more methodical — they mature more slowly and bond more specifically to their family. Both are sporting dogs that need real exercise; the Gordon is the more home-oriented of the two." },
+    { "q": "What is bloat/GDV and how serious is it for Gordon Setters?", "a": "Gastric dilatation-volvulus (bloat/GDV) is a life-threatening condition where the stomach fills with gas and twists on itself, cutting off blood supply. It requires emergency surgery and can be fatal within hours without intervention. Deep-chested breeds like Gordon Setters have higher risk. Know the signs: distended abdomen, unproductive retching, and restlessness. A preventive gastropexy procedure can be performed during spay/neuter to significantly reduce the risk." },
+    { "q": "Are Gordon Setters good with children?", "a": "Yes — Gordon Setters are generally good family dogs that are patient and affectionate with children in their household. They're not hyper-reactive and their steadier temperament makes them well-suited to family life. As with any large breed, supervision with very young children is appropriate due to size." },
+    { "q": "How long does it take a Gordon Setter to mature?", "a": "Gordon Setters are slow to mature mentally — many remain in an adolescent, goofy high-energy phase until 2–3 years of age. Physical maturity comes earlier, but behavioral maturity takes patience. The settled, devoted adult dog is worth the wait — but owners need to go in knowing the adolescent phase is longer than with many breeds." }
+  ],
+
+  "related_breeds": [
+    {"name": "English Setter", "slug": "english-setter", "note": "More common, similar sporting purpose, belton coloring, field vs show line distinction"},
+    {"name": "Irish Setter", "slug": "irish-setter", "note": "Higher energy, more overtly social, striking red coat, faster in the field"},
+    {"name": "Flat-Coated Retriever", "slug": "flat-coated-retriever", "note": "Similar silky coat, more biddable, enthusiastic retriever rather than setter"},
+    {"name": "Vizsla", "slug": "vizsla", "note": "Similar athletic sporting profile, shorter coat, Hungarian origin, highly velcro personality"}
+  ]
+}

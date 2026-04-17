@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "name": "Tibetan Spaniel First Year Costs",
+    "slug": "tibetan-spaniel-first-year-costs",
+    "shopify_handle": "tibetan-spaniel-first-year-costs",
+    "group": "Tibetan Spaniel",
+    "size_category": "Guide",
+    "tags": ["tibetan-spaniel", "costs", "non-sporting"],
+    "published": true,
+    "published_at": "2026-05-02T16:00:00Z",
+    "excerpt": "A complete first year cost breakdown for Tibetan Spaniel ownership — from puppy purchase price through setup, veterinary care, food, and the breed's notably low grooming costs.",
+    "meta_description": "Tibetan Spaniel first year cost guide: puppy price, setup expenses, low grooming costs, vet care, and realistic annual budget for this small long-lived breed."
+  },
+  "stats": {
+    "height": "10 inches",
+    "weight": "9–15 lbs",
+    "lifespan": "12–15 years",
+    "energy_level": "Moderate",
+    "grooming_needs": "Low",
+    "good_with_kids": true,
+    "good_with_other_dogs": true,
+    "shedding": "Moderate",
+    "trainability": "Moderate"
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tibetan_Spaniel_600.jpg/330px-Tibetan_Spaniel_600.jpg",
+      "alt": "Tibetan Spaniel"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Puppy Price and One-Time Setup Expenses",
+      "html": "<p>Tibetan Spaniel puppies from health-tested, responsible breeders typically cost $1,200–$2,200 in the United States. The breed is moderately rare — there are relatively few breeders, and quality breeders with documented PRA testing and breed health records are a subset of that small number. Wait lists are common with reputable breeders; plan ahead and connect with the Tibetan Spaniel Club of America's breeder referral well before you need a puppy.</p><p>Rescue is available through the TSCA rescue network and occasionally through general small-breed rescue organizations. Adult Tibetan Spaniels are available periodically and make excellent companions for experienced small-breed owners; rescue fees typically run $150–$350.</p><p>One-time setup supplies:</p><ul><li>Crate sized for a 9–15 lb dog: $35–$70</li><li>Washable crate bedding: $20–$45</li><li>Stainless steel food and water bowls: $15–$30</li><li>Collar, ID tag, and 4–6 foot leash: $20–$45</li><li>Pin brush and medium-toothed metal comb: $20–$40</li><li>Puppy safety gates: $25–$60</li><li>Toys appropriate for a small, intelligent dog: $25–$55</li><li>Enzyme cleaner: $12–$20</li></ul><p>Total one-time setup estimate: $172–$365.</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Veterinary Care, Food, Grooming, and Training",
+      "html": "<p>First-year veterinary costs:</p><ul><li>Puppy wellness exams and vaccine series: $250–$450</li><li>Heartworm, flea, and tick prevention: $12–$25/month ($144–$300/year)</li><li>Spay or neuter (if applicable): $250–$550</li><li>Microchip: $25–$50</li></ul><p>Request PRA testing documentation from the breeder at purchase. If verification is needed, your veterinarian can run an independent DNA test for $70–$120. This is a one-time cost worth considering given PRA's impact on quality of life.</p><p>Food for a 9–15 lb Tibetan Spaniel runs $25–$40/month ($300–$480/year) on quality dry kibble or appropriate small-breed wet food. The Tibetan Spaniel has no specific dietary requirements beyond appropriate small-breed formulation, and food costs are among the lowest of any recognized breed given its small size.</p><p>Grooming is where the Tibetan Spaniel stands out favorably from most long-coated breeds. Professional grooming is optional — the breed requires no structural trimming, and most owners manage the coat entirely at home with twice-weekly brushing and periodic home baths. For owners who prefer professional appointments, budget $40–$65 per bath/blow-out session, 4–6 times per year ($160–$390/year). Home grooming cost is negligible beyond brush and comb purchase.</p><p>Puppy training: $100–$180 for a group positive-reinforcement course. One round is typically sufficient; the Tibetan Spaniel learns quickly when training is approached correctly.</p><p>Pet insurance: $25–$45/month ($300–$540/year) is recommended for this long-lived breed with PRA risk.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Annual Budget",
+      "html": "<p>First year cost summary:</p><ul><li>Puppy price: $1,200–$2,200</li><li>One-time setup supplies: $172–$365</li><li>First-year veterinary care: $519–$1,050</li><li>Food: $300–$480</li><li>Grooming (optional professional): $160–$390, or minimal with home grooming</li><li>Training: $100–$180</li><li>Pet insurance: $300–$540</li></ul><p><strong>First year total (excluding puppy): $1,551–$3,005 (professional grooming) or $1,391–$2,615 (home grooming)</strong><br><strong>First year total (including puppy): $2,751–$5,205</strong></p><p>The Tibetan Spaniel is one of the most cost-effective small breeds to maintain long-term. Low food costs, minimal to zero professional grooming expense, and generally good health translate to annual recurring costs of $1,400–$2,600 from year two onward. Over a 13–15 year lifespan, the total cost of ownership is very favorable.</p><p>The most likely unexpected cost is progressive retinal atrophy (PRA) if it manifests despite clear parental testing (a carrier-to-carrier pairing can produce affected offspring). PRA management focuses on environmental adaptation rather than treatment, so direct veterinary costs are relatively low — but the emotional impact underscores the importance of PRA testing verification at purchase. Dental cleanings under anesthesia every 1–3 years ($400–$900 each) are the more common unexpected recurring expense for small breeds.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Tibetan Spaniel a low-cost breed to own?",
+      "a": "Yes, especially on the ongoing side. Small food requirements, minimal or zero professional grooming costs, and generally good health make the Tibetan Spaniel one of the more affordable recognized breeds to maintain year to year. The purchase price is the main upfront investment."
+    },
+    {
+      "q": "What is PRA and do I need to worry about it?",
+      "a": "Progressive retinal atrophy is a genetic disease causing gradual vision loss leading to blindness. It is autosomal recessive — a dog must inherit two copies of the gene to be affected. DNA testing identifies clear, carrier, and affected dogs. A puppy from two clear parents cannot be affected. Confirm testing documentation on both parents before purchase."
+    },
+    {
+      "q": "Does the Tibetan Spaniel really not need professional grooming?",
+      "a": "Correct — for most pet owners, home brushing twice a week and periodic home baths are completely sufficient. The breed requires no structural trimming, and the silky coat is forgiving enough that at-home maintenance keeps it in excellent condition. Professional appointments are available when convenient but are not a budget requirement."
+    }
+  ],
+  "related_breeds": ["lhasa-apso", "tibetan-terrier", "pekingese"]
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Standard Schnauzer Puppy Checklist",
+    "slug": "standard-schnauzer-puppy-checklist",
+    "shopify_handle": "standard-schnauzer-puppy-checklist",
+    "group": "Standard Schnauzer",
+    "size_category": "Guide",
+    "tags": ["standard-schnauzer", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-04-27T16:00:00Z",
+    "excerpt": "Everything you need before your Standard Schnauzer puppy comes home — find a Schnauzer-experienced groomer before pickup, enroll in training class before arrival, and understand the intelligent, independent working dog temperament.",
+    "meta_description": "Standard Schnauzer puppy checklist: find a Schnauzer-experienced groomer before pickup, training class enrollment, OFA hip and eye screening plan, insurance, and first-week vet priorities for this capable working breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Standard_Grey_Schnauzer_%28cropped%29.JPG/250px-Standard_Grey_Schnauzer_%28cropped%29.JPG",
+      "alt": "Standard Schnauzer puppy checklist"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Preparing for Your Standard Schnauzer Puppy",
+      "html": "<ul><li><strong>Find a Schnauzer-experienced groomer before pickup:</strong> The Standard Schnauzer requires professional clipping every 6–8 weeks, and a groomer unfamiliar with the Schnauzer pattern will not maintain the correct silhouette. Contact groomers before the puppy arrives, confirm experience with Standard Schnauzers or other Schnauzer varieties, and book the first appointment. Groomer availability is a breed management requirement, not an afterthought.</li><li><strong>Enroll in a training class before pickup:</strong> Research trainers and register for a puppy class beginning at 8–10 weeks before the puppy comes home. The Standard Schnauzer is intelligent and benefits from early structured training — missing the first training window wastes the breed's peak learning period. Book the class before arrival.</li><li><strong>Medium crate (36–42 inches):</strong> Select for adult size. The crate is the management foundation for this curious, active breed.</li><li><strong>Dog bed:</strong> Comfortable bedding inside the crate and in the primary rest area.</li><li><strong>Collar, harness, and leash:</strong> Flat collar for ID. A front-clip harness for walks while leash training is in progress.</li><li><strong>Grooming tools:</strong> Slicker brush, pin brush, and wide-tooth comb. Start home brushing and beard handling from the first week.</li><li><strong>Pet insurance enrollment:</strong> Before the first vet visit. Coverage should include hip dysplasia and hypothyroidism — the primary documented health concerns in the breed.</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit Priorities",
+      "html": "<ul><li><strong>OFA hip screening plan:</strong> Discuss timing for preliminary and formal OFA hip evaluations at the first appointment. Hip dysplasia is documented in the breed — establish the screening plan early.</li><li><strong>Eye certification:</strong> Ask about scheduling a CAER eye exam with a veterinary ophthalmologist. Eye conditions are documented in the Schnauzer group.</li><li><strong>Thyroid baseline:</strong> Ask your vet about baseline thyroid screening. Hypothyroidism is a documented Standard Schnauzer health concern — a baseline established while the dog is young makes future comparison straightforward.</li><li><strong>Complete puppy vaccination series:</strong> Core vaccines at 8, 12, and 16 weeks. Confirm schedule.</li><li><strong>Exercise restriction guidance:</strong> The Standard Schnauzer's growth plates close at 12–18 months. Sustained running, jumping, and stair climbing before that point risks orthopedic damage. Ask for puppy-appropriate exercise guidelines.</li><li><strong>Microchipping:</strong> An independent, clever dog is an escape risk — microchip at or before the first appointment.</li></ul>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Starting Training Right",
+      "html": "<p>The Standard Schnauzer is among the most trainable of the working breeds — intelligent, responsive, and capable of learning a wide range of commands and activities. The training approach that works is positive reinforcement with consistent boundaries; the Standard is sensitive enough to respond to positive methods and confident enough to test boundaries when they are unclear. Clear, fair, consistent handling produces an excellent companion; inconsistent handling produces a dog that makes its own rules.</p><p><strong>Begin training from the first day.</strong> Basic commands at 8 weeks, puppy class enrollment confirmed before pickup, and consistent daily interaction that reinforces desired behaviors. The Standard Schnauzer learns quickly — keep sessions short (5–10 minutes for a puppy), varied, and always ending on success.</p><p><strong>Leash training is important early.</strong> A Standard Schnauzer on a scent or after something interesting will pull. Loose-leash training with treats from the first walks establishes the habit before it becomes a problem. A front-clip harness provides management during the training process.</p><p><strong>Beard handling from day one.</strong> Build positive associations with beard wiping, face touch, and ear handling from the first week — always with treats. The beard-wiping routine that starts now is a permanent daily task. A dog that accepts it readily makes the process fast and stress-free.</p><p><strong>Crate training establishes independent security.</strong> Build crate comfort gradually with treats and meals inside. A well-crate-trained Standard Schnauzer is manageable during alone time and less likely to develop the anxiety or destructive behavior that an uncrated, under-supervised puppy may exhibit.</p><p><strong>Channel the breed's intelligence into activities.</strong> The Standard Schnauzer excels in agility, nose work, obedience trials, rally, and tracking. Introducing the dog to dog sports during puppyhood and adolescence channels the breed's energy and intelligence productively. A mentally engaged Standard Schnauzer is a calmer, more focused household companion.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is finding a groomer a pre-arrival task for a Standard Schnauzer?",
+      "a": "Yes. Professional clipping every 6–8 weeks is a permanent breed maintenance requirement. A groomer unfamiliar with the Schnauzer pattern will not achieve the correct silhouette — the flat body, shaped beard and eyebrows, and leg furnishings require specific technique. Call groomers before the puppy arrives, confirm Schnauzer experience, and book the first appointment. This is breed infrastructure planning, not an optional convenience."
+    },
+    {
+      "q": "Is the Standard Schnauzer a good family dog?",
+      "a": "Yes, for active families willing to invest in training and exercise. The Standard is loyal, alert, and affectionate with its family, good with children it has grown up with, and adaptable to various living situations. The breed's intelligence means it benefits from mental stimulation and structured activity. Families who provide consistent training, adequate exercise, and engagement with the dog will find the Standard Schnauzer an exceptional companion."
+    },
+    {
+      "q": "What dog sports are good for Standard Schnauzers?",
+      "a": "Agility, obedience, rally, tracking, and nose work are all well-suited to the breed. The Standard Schnauzer's intelligence, athleticism, and working drive make it competitive across a wide range of AKC and UKC activities. Starting with basic obedience and introducing a sport at 6–12 months gives the dog the foundation and physical readiness for more demanding activities."
+    }
+  ]
+}

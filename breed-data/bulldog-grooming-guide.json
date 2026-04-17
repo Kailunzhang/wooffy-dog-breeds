@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Bulldog",
+    "shopify_handle": "bulldog-grooming-guide",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "name": "Bulldog Grooming Guide: Wrinkle Cleaning, Tail Pocket, and Ear Care",
+    "slug": "bulldog-grooming-guide",
+    "excerpt": "How to groom an English Bulldog — the daily skin fold and wrinkle cleaning that is medical maintenance, not optional, plus coat brushing and ear care.",
+    "meta_description": "How to groom an English Bulldog — the daily skin fold and wrinkle cleaning that is medical maintenance, not optional, plus coat brushing and ear care.",
+    "tags": [
+      "Bulldog",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bulldog_inglese.jpg/330px-Bulldog_inglese.jpg",
+      "alt": "English Bulldog"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Grooming Overview",
+      "heading": "Bulldog Grooming: Daily Health Maintenance Required",
+      "html": "<p>The English Bulldog's short coat is easy to maintain. What makes Bulldog grooming a serious daily commitment is the extensive skin fold maintenance required. Bulldogs have multiple deep skin folds — on the face, around the nose rope, around the tail, and sometimes on the body — that trap moisture, debris, and bacteria. Without daily cleaning, these folds develop infections. This is not cosmetic grooming; it is preventive veterinary care performed at home.</p><p>New Bulldog owners sometimes underestimate the time and diligence required for this daily routine. The owners who handle it well establish it as a fixed part of their daily schedule — like brushing their own teeth — and it becomes effortless. The owners who skip days have dogs with chronic skin infections and frequent expensive vet visits.</p><h3>Basic Grooming Schedule</h3><ul><li><strong>Facial wrinkle and nose rope cleaning:</strong> Daily — every single day</li><li><strong>Tail pocket cleaning:</strong> Daily</li><li><strong>Eye cleaning:</strong> Daily</li><li><strong>Coat brushing:</strong> 2–3 times per week</li><li><strong>Bathing:</strong> Every 3–4 weeks; dry all folds thoroughly afterwards</li><li><strong>Ear cleaning:</strong> Weekly</li><li><strong>Nail trimming:</strong> Every 3–4 weeks</li><li><strong>Teeth brushing:</strong> Daily</li></ul>"
+    },
+    "care": {
+      "label": "Fold and Wrinkle Cleaning",
+      "heading": "The Daily Cleaning Routine: How to Do It Right",
+      "html": "<h3>Facial Folds and Nose Rope</h3><p>The deep fold above the nose (nose rope) and the facial wrinkles on either side of the face are the most infection-prone areas. Clean them daily:</p><ol><li>Open the fold gently and wipe inside with an unscented pet-safe wipe or a cotton round dampened with a gentle cleanser. Some vets recommend medicated wipes (chlorhexidine or ketoconazole-based) for dogs prone to recurrent infections.</li><li>Remove all debris and discharge from inside the fold.</li><li>Dry the fold completely with a dry cotton round or soft cloth. Leaving moisture inside the fold is counterproductive — the damp, warm environment is what allows bacteria and yeast to flourish.</li></ol><h3>Tail Pocket</h3><p>Many English Bulldogs have a skin pocket at the base of the tail — a fold of skin that surrounds the tail stub. This area is extremely prone to infection because it is difficult to air out and traps everything. Clean the tail pocket every day using the same wipe-and-dry technique. If the pocket is very deep, your vet can show you the appropriate technique. Watch for redness, odor, or the dog scooting excessively — signs of an established infection requiring veterinary treatment.</p><h3>Managing Recurrent Infections</h3><p>Some Bulldogs have recurrent skin fold infections despite consistent cleaning. If your dog experiences this, discuss a management plan with your vet — medicated cleansers, prescription topical antifungals, or allergy management may reduce frequency. Chronic skin fold infections in Bulldogs are sometimes driven by underlying allergies.</p>"
+    },
+    "special": {
+      "label": "Coat, Ears, and Bathing",
+      "heading": "Routine Coat and Ear Maintenance",
+      "html": "<h3>Coat Brushing</h3><p>The Bulldog's short, fine coat sheds moderately year-round. A soft bristle brush or rubber curry comb used 2–3 times per week removes loose fur and keeps the skin healthy. Bulldogs often enjoy brushing as physical contact. Check the skin during brushing sessions — any areas of redness, scaling, or hair loss warrant veterinary attention, as Bulldogs are prone to skin conditions.</p><h3>Bathing: Thorough Drying Is Critical</h3><p>Bathe the Bulldog every 3–4 weeks with a gentle dog shampoo. After bathing — this is important — dry every skin fold completely before the dog is released. A damp fold after a bath is an optimal infection environment. Use a soft dry cloth or a low-heat blow dryer to dry inside all folds before allowing the dog to shake and rub against furniture or carpet. This step takes extra time but prevents a predictable post-bath infection.</p><h3>Ear Cleaning</h3><p>Clean the ears weekly with a vet-approved ear cleaning solution. Bulldogs have deep, narrow ear canals that are prone to infection. Wipe out visible debris and apply a few drops of cleaner to the canal entrance, massage, let the dog shake, and wipe clean. Watch for odor, discharge, or head shaking — signs of infection requiring veterinary treatment.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often do I need to clean a Bulldog's wrinkles?",
+      "a": "Every single day — this is not optional. The English Bulldog's deep facial folds and nose rope trap moisture and debris that create skin fold dermatitis (a painful bacterial or yeast infection) within days if not cleaned. Wipe inside each fold with an unscented or medicated wipe, then dry completely. Daily cleaning prevents infections; skipping days causes them."
+    },
+    {
+      "q": "What is a Bulldog tail pocket and how do I care for it?",
+      "a": "The tail pocket is the fold of skin surrounding the tail stub on many English Bulldogs. It is one of the most infection-prone areas on the dog because it traps moisture, cannot air out, and is difficult to clean. Wipe inside the tail pocket daily with a pet-safe wipe and dry thoroughly. Redness, odor, or excessive scooting indicates an infection that needs veterinary treatment."
+    },
+    {
+      "q": "Do Bulldogs need professional grooming?",
+      "a": "Not for the coat, which requires no trimming. Some owners take their Bulldog to a groomer for a convenience bath and nail trim, but the most important grooming work — daily fold cleaning — is home maintenance. Professional groomers can assist with the bathing and thorough drying process, which is time-intensive for a heavily-folded dog."
+    }
+  ]
+}

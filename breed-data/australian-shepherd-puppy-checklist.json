@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "name": "Australian Shepherd Puppy Checklist",
+    "slug": "australian-shepherd-puppy-checklist",
+    "shopify_handle": "australian-shepherd-puppy-checklist",
+    "group": "Australian Shepherd",
+    "size_category": "Guide",
+    "tags": ["australian-shepherd", "puppy", "checklist", "herding-breed", "mdr1-testing"],
+    "published": true,
+    "published_at": "2026-04-15T16:00:00Z",
+    "excerpt": "Everything you need before your Aussie puppy comes home — including the MDR1 DNA test that every Australian Shepherd owner needs to do before their first vet visit.",
+    "meta_description": "Australian Shepherd puppy checklist: MDR1 DNA test, gear for a high-energy herding breed, training priorities for an intelligent working dog, and merle coat safety notes."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Australian_Shepherd_red_bi.JPG/330px-Australian_Shepherd_red_bi.JPG",
+      "alt": "Australian Shepherd puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Aussie Puppy Prep: MDR1 Test and Herding Dog Setup",
+      "html": "<p>Australian Shepherds are brilliant, high-energy puppies that need structure, activity, and mental engagement from the start. The most important action before your puppy comes home: order an MDR1/ABCB1 DNA test kit. The test identifies whether your Aussie carries the drug-sensitivity mutation that makes common medications toxic at standard doses. You need this information before your vet prescribes anything.</p><h3>MDR1 Test: Do This First</h3><p>Order a mail-in MDR1 test from Washington State University Veterinary Clinical Pharmacology Lab (WSU) or another provider before or on the day your puppy comes home. It's a simple cheek swab. Results take 1–2 weeks. Share results with every vet who treats your dog. This $80–$150 test is potentially life-saving.</p><h3>Essential Gear Checklist</h3><ul><li>Medium crate (30–36 inch) with divider</li><li>Dog bed or crate mat</li><li>Stainless steel food and water bowls</li><li>Flat collar + ID tag (engrave on day of arrival)</li><li>4–6 ft leash</li><li>20–30 ft long line for recall training (critical for a breed with strong working drive)</li><li>Undercoat rake — the primary grooming tool for this breed</li><li>Slicker brush</li><li>Wide-tooth steel comb</li><li>Dog toothbrush + toothpaste</li><li>Enzymatic cleaner</li><li>High-value training treats</li><li>Variety of durable toys — Aussie puppies are mouthy and energetic</li><li>Puzzle feeders and enrichment toys — mental stimulation is non-negotiable</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit and MDR1 Protocol",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam</li><li>Bring MDR1 test results if already available; if not, inform the vet that MDR1 testing is pending and no MDR1-sensitive drugs should be prescribed until results are known</li><li>Vaccine schedule verification and continuation</li><li>Eye exam recommended — CEA (Collie Eye Anomaly) can be detected in puppies</li><li>Hip baseline discussion for a medium-active breed at mild hip dysplasia risk</li><li>Parasite prevention — discuss MDR1-safe heartworm prevention options with your vet (several are safe regardless of MDR1 status)</li><li>Microchip if not done by breeder</li></ul><h3>MDR1 Drugs to Avoid or Use Cautiously</h3><p>Until you have confirmed MDR1 results, discuss these medications with your vet before use:</p><ul><li>Ivermectin (common in many heartworm preventives and livestock wormers)</li><li>Milbemycin oxime (in some heartworm preventives at higher doses)</li><li>Acepromazine (sedative used in anesthesia)</li><li>Loperamide (Imodium — anti-diarrhea medication)</li><li>Several chemotherapy agents</li></ul><p>Note: Many commonly used heartworm preventives (Heartgard, Interceptor) are safe at standard preventive doses even in MDR1-affected dogs. Your vet can confirm safe options.</p><h3>Grooming From Day One</h3><p>The double coat hasn't developed yet, but start handling and brushing routines immediately. Touch all areas of the body, handle paws and ears, run the brush through the coat. Aussies that accept full grooming calmly as adults are those that were handled consistently as puppies.</p>"
+    },
+    "special": {
+      "label": "Training & Mental Stimulation",
+      "heading": "Training an Australian Shepherd: Commit to the Work",
+      "html": "<p>Australian Shepherds are working dogs. They were bred to make decisions, solve problems, and work intensively alongside humans. As pets, this intelligence is an asset — they train faster than almost any other breed. It's also a challenge: a bored, under-stimulated Aussie will find its own work to do, and that work usually involves herding children, rearranging furniture, or escaping the yard.</p><h3>Year One Training Priorities</h3><ol><li><strong>Puppy class immediately (8–12 weeks):</strong> Aussies have a socialization window too — expose them to different people, dogs, environments, and sounds during 8–16 weeks.</li><li><strong>Herding instinct management:</strong> Aussies may nip at moving children or try to herd family members. Interrupt and redirect immediately with a 'leave it' cue. This behavior responds well to training but needs to be addressed early and consistently.</li><li><strong>Recall:</strong> A solid 'come' command on a long line before any off-leash time. Aussies can have high prey drive and high working drive — they'll chase things. Reliable recall is a safety skill.</li><li><strong>Mental stimulation daily:</strong> Training sessions, puzzle feeders, scent games. A 20-minute training session may exhaust an Aussie more effectively than an hour's walk.</li><li><strong>Canine sport:</strong> Seriously consider agility, herding trials, obedience sport, or frisbee. Aussies that have a job are dramatically calmer and happier dogs.</li></ol><h3>Merle Coat Notes</h3><p>If your puppy is merle-coated: do not breed it to another merle. Double merle puppies (merle × merle) have a high risk of being blind, deaf, or both. This is strictly a breeding consideration, not a health issue for your individual dog.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How important is the MDR1 test for Australian Shepherd puppies?",
+      "a": "Critical. Approximately 50% of Aussies carry one or two copies of the MDR1 mutation. Without knowing your dog's status, your vet may prescribe medications that are toxic at standard doses for MDR1-affected dogs. The test is $80–$150, takes 1–2 weeks, and should be done before or immediately after getting your puppy."
+    },
+    {
+      "q": "When can I start exercising my Aussie puppy?",
+      "a": "Controlled play, short training sessions, and leash walks are fine immediately. Avoid forced running, jumping, or high-impact activity until growth plates close at 12–18 months. Free play in a safe enclosed yard is preferred to structured exercise for young puppies."
+    },
+    {
+      "q": "My Aussie puppy is nipping at my children. Is this normal?",
+      "a": "Yes — herding instinct causes Aussies to nip at fast-moving things, including running children. This needs to be addressed immediately with consistent redirection and training. A firm 'leave it' and redirecting to a toy interrupts the behavior. If unaddressed, it escalates."
+    },
+    {
+      "q": "Do Australian Shepherd puppies need professional training?",
+      "a": "Strongly recommended. Aussies learn incredibly fast — good habits and bad habits both. A positive reinforcement trainer with working breed experience will help you channel the intelligence productively. Many Aussie owners continue with advanced training or canine sports after basic obedience."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "name": "Pembroke Welsh Corgi Grooming Guide",
+    "slug": "pembroke-welsh-corgi-grooming-guide",
+    "shopify_handle": "pembroke-welsh-corgi-grooming-guide",
+    "group": "Pembroke Welsh Corgi",
+    "size_category": "Guide",
+    "tags": ["pembroke-welsh-corgi", "grooming", "shedding", "double-coat", "dog-breeds"],
+    "published": true,
+    "excerpt": "Corgis shed more than most small dogs — the double coat blows twice yearly. Here's the complete routine for managing a Corgi's coat.",
+    "meta_description": "Pembroke Welsh Corgi grooming guide: managing shedding and coat blow seasons, the right tools for a double coat, and bathing tips."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Welsh_Pembroke_Corgi.jpg/330px-Welsh_Pembroke_Corgi.jpg",
+      "alt": "Pembroke Welsh Corgi"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "More Shedding Than You Expect from a Small Dog",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Pembroke Welsh Corgis surprise owners with how much they shed relative to their size. The medium-length double coat — a dense, weather-resistant undercoat and a slightly longer outer coat — sheds continuously year-round with two significant seasonal blowouts in spring and fall. \"I didn't expect a small dog to shed this much\" is one of the most common new Corgi owner statements.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Management is achievable with the right tools and consistent routine. The Corgi coat doesn't require professional styling or clipping — just regular brushing, seasonal deshedding, and occasional baths. Never shave a Corgi's double coat; it disrupts the insulation system and doesn't reduce future shedding.</p>"
+    },
+    "care": {
+      "label": "Tools & Routine",
+      "heading": "Tools and Weekly Schedule",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">What You Need</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Undercoat rake</strong> — reaches through the outer coat to remove loose undercoat at the source</li><li><strong style=\"color:#1a1a1a;\">Slicker brush</strong> — for finishing and surface smoothing after the rake</li><li><strong style=\"color:#1a1a1a;\">Wide-toothed metal comb</strong> — for checking behind the ears and ruff where tangles start</li><li><strong style=\"color:#1a1a1a;\">Deshedding shampoo</strong> — loosens undercoat during bath, makes blow-dry removal more effective</li></ul><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Weekly Routine</h3><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Task</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Frequency</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Notes</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;\">Undercoat rake</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">2–3x/week; daily during coat blow</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Primary shedding management tool. Work across the whole body including the mane, sides, and hindquarters.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;\">Slicker brush finish</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">2–3x/week</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Follow the rake. Smooth the outer coat and check for tangles.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;\">Bath</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Every 6–8 weeks</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Dry the dense undercoat thoroughly after bathing — incomplete drying can cause hot spots.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;\">Ear check</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Weekly</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Upright ears have good airflow; still check for debris and redness.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;\">Nail trim</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Every 3–4 weeks</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Long nails add load to a Corgi's elongated spine — keep trimmed consistently.</td></tr></tbody></table>"
+    },
+    "special": {
+      "label": "Coat Blow & Spine Care",
+      "heading": "Seasonal Shedding and the Drying Step",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Managing Coat Blow Season</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">During the twice-yearly coat blow (spring and fall), shedding volume increases dramatically. Switch to daily brushing with the undercoat rake during this period. Book a professional deshedding bath with high-velocity blow-out — this removes more undercoat in one appointment than weeks of home brushing.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Dry Thoroughly After Every Bath</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The Corgi's dense undercoat can appear dry on the surface while remaining damp near the skin. Incomplete drying leads to hot spots — localized skin infections that are uncomfortable and require treatment. Use your fingers to check for damp patches near the skin, particularly in the neck, armpits, and hindquarters. A blow dryer on a low heat or cool setting helps significantly.</p>"
+    }
+  },
+  "faq": [
+    { "q": "How much do Corgis shed?", "a": "More than you'd expect from a small breed. The dense double coat sheds year-round, with two pronounced seasonal blowouts. Regular brushing (2–3x/week) keeps most loose hair on the brush rather than the furniture. During coat blow season, daily brushing plus a professional deshedding bath is the effective management approach." },
+    { "q": "Should I shave my Corgi in summer?", "a": "No. Like all double-coated breeds, the Corgi's coat serves as insulation in both directions — shaving removes the heat protection as well as the cold protection. The coat texture changes permanently after shaving, and shedding isn't reduced meaningfully. Manage summer heat through shade, water, and exercise timing instead." },
+    { "q": "How often should a Corgi go to a professional groomer?", "a": "At minimum twice a year for a deshedding bath during coat blow season. Beyond that, professional grooming every 6–8 weeks is a nice convenience but not required — Corgis don't need clipping or styling. Many owners handle home grooming entirely, visiting a groomer only at coat blow." },
+    { "q": "Can I use a regular brush on my Corgi?", "a": "A slicker brush is useful but should follow an undercoat rake — it's not sufficient on its own for managing the Corgi's dense undercoat. The undercoat rake is the tool that does the real shedding management work by reaching through the outer coat to pull loose undercoat. Start with the rake, finish with the slicker brush." }
+  ]
+}

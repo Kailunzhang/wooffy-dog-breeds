@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Basenji Puppy Checklist",
+    "slug": "basenji-puppy-checklist",
+    "shopify_handle": "basenji-puppy-checklist",
+    "group": "Basenji",
+    "size_category": "Guide",
+    "tags": ["basenji", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-04-24T16:00:00Z",
+    "excerpt": "Everything you need before your Basenji puppy comes home — with emphasis on escape-proof fencing, Fanconi DNA documentation review, and setting realistic training expectations for this independent primitive breed.",
+    "meta_description": "Basenji puppy checklist: escape-proof fencing audit, Fanconi documentation review, crate setup, insurance enrollment, and training approach for this independent, cat-like breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Basenji_Profile_%28loosercrop%29.jpg/330px-Basenji_Profile_%28loosercrop%29.jpg",
+      "alt": "Basenji puppy checklist"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Preparing for Your Basenji Puppy",
+      "html": "<ul><li><strong>Escape-proof fencing audit (critical):</strong> Basenjis are athletic, creative escape artists. Inspect every inch of fencing: check for gaps the dog could squeeze through (they can fit through surprisingly small spaces), dig under, or climb over. Minimum 6-foot fence. Consider a dig-proof barrier at the base (hardware cloth buried 6–12 inches). Basenjis cannot be trusted off-leash outside a truly secure enclosure — this is not negotiable.</li><li><strong>Verify Fanconi DNA documentation:</strong> Before you pick up the puppy, confirm that the actual Fanconi Syndrome DNA test certificates name the sire and dam individually and show both as clear or carrier status. Do not accept a verbal assurance. This is the most important pre-arrival check for this breed.</li><li><strong>Medium crate (30–36 inches):</strong> Crate training is essential for a Basenji — this is a dog that will be destructive when bored and unsupervised. Select a crate appropriate for adult size.</li><li><strong>Dog bed and blanket:</strong> Basenjis enjoy soft, warm bedding. A fleece blanket in the crate creates a welcoming space.</li><li><strong>Collar and harness:</strong> A flat collar for ID tags; a comfortable harness for walks. Basenjis are strong for their size — a no-pull harness helps manage leash behavior.</li><li><strong>Rubber grooming mitt:</strong> Minimal grooming tools needed. A rubber mitt for weekly coat maintenance and bonding.</li><li><strong>Interactive puzzle toys:</strong> Mental stimulation is important for Basenjis. Licki mats, snuffle mats, and food-dispensing toys keep the mind engaged and prevent boredom destruction.</li><li><strong>Pet insurance enrollment:</strong> Enroll before the first vet visit. Ensure the policy covers hereditary conditions, including Fanconi Syndrome monitoring.</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit Priorities",
+      "html": "<ul><li><strong>Bring Fanconi documentation:</strong> Have the DNA test paperwork available for your vet to copy and file. Note the Fanconi carrier or clear status in the dog's permanent record.</li><li><strong>Complete puppy vaccination series:</strong> Core vaccines at 8, 12, and 16 weeks. Confirm schedule. Basenjis can be sensitive — discuss any concerns about reactions with your vet.</li><li><strong>Spay/neuter discussion:</strong> Many vets recommend waiting until 12–18 months for small to medium breeds. Discuss timing and approach given the breed's seasonal breeding cycle.</li><li><strong>CAER eye exam scheduling:</strong> PRA (Progressive Retinal Atrophy) monitoring — schedule the first CAER exam before 12 months.</li><li><strong>Kidney function baseline:</strong> Given the Fanconi Syndrome prevalence, some vets recommend an early urinalysis baseline to document normal kidney function. Discuss with your vet.</li><li><strong>Microchipping:</strong> Essential for an escape-prone breed. Microchip at the first appointment if not already done by the breeder.</li><li><strong>Discuss IPSID awareness:</strong> Inform your vet this is a Basenji and ask them to be alert to symptoms of Immunoproliferative Small Intestinal Disease (chronic diarrhea, weight loss, protein loss) at future visits.</li><li><strong>Heartworm and parasite prevention:</strong> Confirm appropriate preventives for your region.</li></ul>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Starting Training Right",
+      "html": "<p>Basenji training requires accepting the fundamental truth about this breed: they are not wired to please their owners the way retrievers are. They are intelligent, curious, and capable of learning — but they evaluate every request on its own merit. Training a Basenji is more like negotiating with a very smart, food-motivated colleague than training a compliant dog.</p><p><strong>Crate training is the first priority.</strong> The crate is not punishment — it is safety. A Basenji left unsupervised in an un-crated house will find every trouble available. Build crate comfort with meals and high-value treats placed inside. Start with short sessions and gradually increase duration. A well-crate-trained Basenji is a significantly more manageable household member.</p><p><strong>Leash training from day one.</strong> Start leash walking early, using treats to reward loose-leash behavior. Basenjis are strong for their size and will pull without consistent training. A no-pull harness helps until leash manners are established.</p><p><strong>Indoor recall training.</strong> Practice name recognition and indoor recall consistently with high-value treats. Understand that outdoor recall against distractions or prey stimuli is not a realistic goal — manage the environment (leash and fencing) rather than relying on recall commands outdoors.</p><p><strong>Positive reinforcement only.</strong> Basenjis shut down, become avoidant, or simply ignore harsh training methods. Short, engaging sessions with exceptional treats (real meat, cheese, or other high-value rewards) produce the best results. Sessions under 5 minutes are more effective than longer drilling sessions.</p><p><strong>Socialization window: 8–16 weeks.</strong> Introduce to varied people, dogs, sounds, and environments. Note the prey drive: introductions to cats or small animals must be careful and supervised. Many adult Basenjis raised from puppyhood with a cat can coexist — but the management requirement is permanent, not resolved by familiarity.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "What is the most important pre-arrival check for a Basenji puppy?",
+      "a": "Verifying the Fanconi Syndrome DNA test certificates. Confirm that both parents (sire and dam) have been individually tested and that the actual documentation names them. Puppies from two clear parents cannot be affected by Fanconi Syndrome — but this guarantee only holds if the documentation is real and complete. Don't accept verbal assurances for this specific test."
+    },
+    {
+      "q": "How do I make my yard escape-proof for a Basenji?",
+      "a": "Check for gaps the dog can squeeze through (Basenjis fit through surprisingly small openings), potential climbing surfaces near the fence, and any areas where digging is possible. Install a dig-proof barrier (hardware cloth buried at the base) in any soft-soil areas. 6-foot minimum height. Coyote rollers or inward-angled fence tops are effective for persistent climbers. Test the fence before the dog arrives — walk the entire perimeter and physically probe every section."
+    },
+    {
+      "q": "Are Basenjis difficult to train?",
+      "a": "Training is challenging primarily because Basenjis are independently minded — they evaluate instructions rather than automatically complying. They are not unintelligent; in fact they're very quick to learn. The challenge is motivation. High-value food rewards, short sessions, and building genuine relationship through positive interactions produce results. Harsh methods produce nothing useful. Expect to achieve solid household manners and some functional commands — don't expect the responsiveness of a Border Collie."
+    }
+  ]
+}

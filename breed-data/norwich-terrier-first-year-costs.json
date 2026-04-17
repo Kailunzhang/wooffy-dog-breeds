@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Norwich Terrier First Year Costs",
+    "slug": "norwich-terrier-first-year-costs",
+    "shopify_handle": "norwich-terrier-first-year-costs",
+    "group": "Norwich Terrier",
+    "size_category": "Guide",
+    "tags": ["norwich-terrier", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-05-02T16:00:00Z",
+    "excerpt": "Norwich Terriers are a rare breed with a higher purchase price. This guide breaks down all first-year ownership costs from puppy price to food, vet care, and grooming.",
+    "meta_description": "Norwich Terrier first year costs: puppy price, vet bills, grooming, food, and complete annual budget for new Norwich Terrier owners."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Norwich_Terrier.jpg/330px-Norwich_Terrier.jpg",
+      "alt": "Norwich Terrier costs"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Initial Investment in a Norwich Terrier",
+      "html": "<p><strong>Puppy Price:</strong> Norwich Terrier puppies from health-testing, reputable breeders typically cost $1,500–$2,800. Small litter sizes and a relatively small breeding population contribute to the higher price. Rescue adoption fees are $150–$400.</p><p><strong>Supplies:</strong> Budget $175–$300 for a small crate, bedding, food and water bowls, collar, harness, leash, ID tag, grooming tools (slicker brush, metal comb), and toys.</p><p><strong>Spay/Neuter:</strong> $200–$500 depending on sex and veterinary clinic.</p><p><strong>First Vet Visits:</strong> Initial wellness exam, puppy vaccines, fecal testing, and parasite prevention: $250–$500 over the first few months.</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Monthly and Annual Ongoing Expenses",
+      "html": "<p><strong>Food:</strong> High-quality small-breed food for a 12-pound Norwich costs $30–$50 per month, totaling $360–$600 annually.</p><p><strong>Grooming:</strong> Professional trimming or clipping every 8–12 weeks costs $50–$80 per session, totaling $200–$480 annually. Home brushing supplies are a one-time investment of $40–$80. Show exhibitors pursuing hand-stripping will have higher professional grooming costs.</p><p><strong>Veterinary Care:</strong> Routine wellness, boosters, heartworm prevention, and flea/tick prevention total $400–$700 for the first full year. Pet insurance averages $30–$55/month for this breed.</p><p><strong>Training:</strong> A puppy class costs $100–$250. Norwich Terriers are intelligent and benefit from early positive training to establish good leash manners, recall, and impulse control.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Budget",
+      "html": "<p><strong>Estimated First Year Total:</strong> $3,000–$5,500 including the puppy purchase and all first-year expenses.</p><p><strong>Annual Costs After Year One:</strong> $1,400–$2,400 per year including food, routine vet care, grooming, and supplies.</p><p><strong>Lifetime Estimate:</strong> $19,000–$36,000 over a 12–15 year lifespan. Dental care costs tend to increase with age for small breeds, and unexpected health costs are a reason to maintain pet insurance throughout the dog's life.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Why are Norwich Terrier puppies so expensive?",
+      "a": "The breed is genuinely rare in North America. Responsible breeders have small litters, invest in health testing, and do not over-produce. This scarcity drives up puppy prices relative to more common small breeds."
+    },
+    {
+      "q": "Are there less expensive ways to add a Norwich Terrier to my family?",
+      "a": "Rescue adoption is significantly less expensive than buying a puppy. Terrier rescue organizations and breed-specific networks occasionally have Norwich Terriers available. Adult dogs from responsible breeders who are retiring show dogs may also be placed at reduced cost."
+    }
+  ]
+}

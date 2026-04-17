@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "name": "Chinese Shar-Pei",
+    "slug": "chinese-shar-pei",
+    "shopify_handle": "chinese-shar-pei",
+    "group": "Non-Sporting",
+    "size_category": "Medium",
+    "tags": ["chinese-shar-pei", "non-sporting-group", "medium-dog"],
+    "published": true,
+    "published_at": "2026-04-30T16:00:00Z",
+    "excerpt": "The Chinese Shar-Pei is one of the world's most recognizable dogs — a medium-sized guardian breed with a face and body covered in distinctive loose wrinkles and a blue-black tongue. Independent, devoted, and reserved with strangers, the Shar-Pei is a powerful dog requiring experienced ownership.",
+    "meta_description": "Complete guide to the Chinese Shar-Pei — wrinkle care, health concerns, temperament, and costs for this uniquely wrinkled Non-Sporting breed."
+  },
+  "stats": {
+    "height": "18–20 inches",
+    "weight": "45–60 lbs",
+    "lifespan": "8–12 years",
+    "energy_level": "Moderate",
+    "grooming_needs": "Moderate",
+    "good_with_kids": true,
+    "good_with_other_dogs": false,
+    "shedding": "Low",
+    "trainability": "Difficult"
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Shar_Pei.jpg/330px-Shar_Pei.jpg",
+      "alt": "Chinese Shar-Pei"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "The Chinese Shar-Pei: Ancient Wrinkled Guardian",
+      "html": "<p>The Chinese Shar-Pei is among the most instantly recognizable dog breeds in the world, defined by the extraordinary loose, wrinkled skin that folds over the face and body of younger dogs and the characteristic rough, bristly coat that gives the breed its name — Shar-Pei means 'sand-skin' in Cantonese, a reference to the unique prickly texture of the coat. Combine these with a hippopotamus-like muzzle, small sunken eyes, small folded ears, and a distinctive blue-black tongue, and you have a dog utterly unlike any other.</p><p>The Shar-Pei is one of the oldest dog breeds, with DNA evidence supporting its ancient origins in southern China. Historically used as a hunting dog, herder, and guardian, the Shar-Pei was nearly extinct by the 1970s when Hong Kong breeder Matgo Law made an international appeal that sparked Western interest in the breed. The AKC recognized the Shar-Pei in 1992.</p><p>Modern Shar-Pei come in two coat types: the 'horse coat' (extremely short, rough, and prickly — the traditional type) and the 'brush coat' (slightly longer, softer). Both coats are correct by the standard, though the horse coat is considered more traditional. The Shar-Pei is a medium-sized dog of considerable substance, typically standing 18 to 20 inches and weighing 45 to 60 pounds.</p>"
+    },
+    "appearance": {
+      "label": "Appearance",
+      "heading": "Wrinkles, a Hippo Muzzle, and a Blue-Black Tongue",
+      "html": "<p>The Chinese Shar-Pei's appearance is unique in the dog world. The head is large and somewhat disproportionate to the body, covered in excess loose skin that creates deep folds over the forehead and face. In adults, the wrinkles are typically concentrated on the head and neck; in puppies, the entire body appears to be one size too big for the dog inside it, with skin rolls covering the shoulders, back, and flanks. As Shar-Pei mature, many of these body wrinkles fill out, though the head and neck typically retain their characteristic folds.</p><p>The muzzle is broad and full, often described as resembling a hippopotamus in shape. The lips and jowls are full and slightly padded. The tongue and inner mouth are a distinctive blue-black or lavender color — a trait shared with only one other breed (the Chow Chow) and considered a breed hallmark. The small ears fold flat against the head, and the eyes are small, sunken, and almond-shaped, giving the Shar-Pei an ancient, slightly disapproving expression.</p><p>The coat is harsh and prickly in the horse coat variety — so rough that petting against the grain feels distinctly uncomfortable, like touching coarse sandpaper. The brush coat is somewhat less prickly but still rougher than most smooth-coated breeds. Colors include a wide range: fawn, cream, red, black, chocolate, blue, and various dilutes and shades are all recognized.</p>"
+    },
+    "temperament": {
+      "label": "Temperament",
+      "heading": "Reserved, Devoted, and Independently Minded",
+      "html": "<p>The Chinese Shar-Pei is not a dog for everyone. This is a breed with a strong, independent character — one who was historically bred to make its own decisions in the field, and who has not entirely shed that independent mindset in the domestic setting. Shar-Pei are devoted and deeply loyal to their families but are rarely overtly demonstrative in the way of Labrador Retrievers or Golden Retrievers. Their affection is quieter, more dignified, and deeply genuine.</p><p>With strangers, the Shar-Pei is typically reserved to wary. They do not warm up quickly to unfamiliar people and will often maintain a watchful distance until they have made their own assessment. This natural guardedness, combined with their physical substance, makes the Shar-Pei an effective deterrent — they do not need to bark excessively or show aggression to make their presence felt. A well-socialized Shar-Pei is a confident, stable guardian, not an anxious or reactive one.</p><p>Dog aggression is a genuine concern with this breed. Shar-Pei have a history as dog-fighting breeds in China, and many retain a strong tendency toward intolerance of other dogs, particularly same-sex dogs. Not all individuals are dog-aggressive, and careful socialization from puppyhood can significantly improve tolerance, but prospective owners of multi-dog households should research this trait carefully and introduce dogs under controlled conditions.</p><p>With children in their own family, well-socialized Shar-Pei can be patient and gentle. They are typically not the romping, boisterous playmates that some breeds are, preferring calm interaction. Their tolerance for child-directed rough handling is limited, and supervision with young children is always advised.</p>"
+    },
+    "mikes_take": {
+      "label": "Mike's Take",
+      "heading": "Mike's Honest Opinion",
+      "html": "<p>The Shar-Pei is a remarkable dog, but it is absolutely not a beginner's dog. The health concerns alone — wrinkle infections, eye entropion, Familial Shar-Pei Fever — require owners who are both observant and proactive. Add the independent temperament and potential dog aggression, and you have a dog that demands an experienced, committed owner. Get all of that right, however, and the Shar-Pei's quiet, deep devotion is genuinely moving. They are not showy with their love, but when a Shar-Pei trusts you, it is one of the most profound things in dog ownership.</p>"
+    },
+    "care": {
+      "label": "Care",
+      "heading": "Wrinkle Care, Exercise, and Daily Needs",
+      "html": "<p>The Shar-Pei's wrinkles are the primary care consideration that sets this breed apart from all others. The skin folds — particularly on the face, around the eyes, and in the neck — must be checked and cleaned regularly to prevent moisture, bacteria, and yeast from accumulating in the folds. Skin fold dermatitis is one of the most common health issues in the breed and is entirely preventable with consistent hygiene.</p><p>The exercise requirements of the Shar-Pei are moderate — they need daily exercise but are not high-endurance athletes. Two moderate daily walks of 20 to 30 minutes, plus some yard time or play sessions, generally meet their physical needs. Like brachycephalic breeds, Shar-Pei are somewhat heat-sensitive and should not be exercised vigorously in hot or humid weather.</p><p>The short coat requires minimal grooming — a weekly wipe-down or brush with a rubber grooming mitt removes loose hair and keeps the coat clean. The horse coat in particular is self-maintaining in many ways. Bathing every 4 to 6 weeks is generally sufficient. Ears should be checked and cleaned monthly, as the small, tight ear canal of the Shar-Pei can be prone to infection. Nails should be trimmed every 3 to 4 weeks.</p><p>Training the Shar-Pei requires patience and consistency. This is an independent-minded breed that does not thrive with repetitive, drill-style training. Short sessions, high-value rewards, and building a genuine relationship of mutual respect produce better results than force or repetition. Early socialization is critical — expose puppies to many people, animals, and environments during the socialization window to build the stable, confident temperament the breed can achieve with proper handling.</p>"
+    },
+    "health": {
+      "label": "Health",
+      "heading": "Shar-Pei Health: Wrinkles, Fever, and Eyes",
+      "html": "<p>The Chinese Shar-Pei has one of the most complex health profiles of any AKC breed. The same characteristics that make it visually distinctive — the extraordinary wrinkled skin and the genetic variants that produce it — are directly responsible for several serious health conditions. Prospective owners must research these conditions thoroughly and factor them into their decision.</p><p><strong>Familial Shar-Pei Fever (FSF):</strong> A breed-specific inflammatory condition causing episodic fever, swollen joints (particularly the hocks), and abdominal pain. Episodes typically last 24 to 36 hours. Repeated episodes can lead to amyloidosis — a deposition of protein in organs, particularly the kidneys, that can cause organ failure. There is no definitive cure, but anti-inflammatory medications can manage episodes. FSF is heritable, and responsible breeders minimize its frequency in their lines through selective breeding.</p><p><strong>Skin Fold Problems:</strong> The excess skin creates warm, moist environments where bacteria and yeast flourish. Regular cleaning of all skin folds — especially face folds, neck rolls, and body wrinkles — is essential. Untreated skin fold infections cause significant pain and can become severely infected.</p><p><strong>Entropion:</strong> The excess skin around the eyes causes the eyelids to roll inward (entropion), so that the eyelashes scratch the cornea. This is extremely common in Shar-Pei, causes significant pain and eventual corneal damage, and almost always requires surgical correction. Many Shar-Pei puppies need entropion surgery by 12 weeks of age.</p><p><strong>Hypothyroidism:</strong> Underactive thyroid is common in this breed. Manageable with daily medication.</p><p><strong>Allergies:</strong> Shar-Pei have a notably high rate of environmental and food allergies, which can manifest as skin problems, ear infections, and gastrointestinal issues. Identifying and managing allergens often requires veterinary guidance and dietary trials.</p><p><strong>Hip and Elbow Dysplasia:</strong> Orthopedic issues occur in this breed. Responsible breeders screen breeding stock.</p>"
+    },
+    "cost": {
+      "label": "Cost",
+      "heading": "Chinese Shar-Pei Costs: Purchase and Ongoing",
+      "html": "<p>Shar-Pei puppies from reputable, health-screening breeders typically cost between <strong>$1,500 and $3,500</strong>. The breed's complex health profile means responsible breeding requires significant investment in health testing, which is reflected in higher purchase prices. Beware of unusually cheap Shar-Pei puppies — the savings upfront are almost invariably consumed by veterinary bills in the first year.</p><p>Rescue adoption costs $150 to $450 through Shar-Pei rescues operating nationally.</p><p><strong>Notable Cost Considerations:</strong></p><ul><li>Entropion surgery (very common in puppies): $400–$1,500 per eye</li><li>Ongoing FSF management (anti-inflammatory medications, regular vet visits): $300–$1,000+/year for affected dogs</li><li>Allergy management (dietary trials, dermatology consultations, medications): $200–$1,500+/year for affected dogs</li><li>Pet insurance: <strong>Strongly recommended</strong> — $450–$800/year (note that some insurers restrict coverage for breed-specific conditions; read policies carefully)</li><li>Food: $500–$800/year for a medium-sized dog on premium diet</li><li>Wrinkle care supplies (wipes, medicated cleansers): $50–$120/year</li></ul><p><strong>First Year Total (excluding purchase): $2,500–$6,000+</strong>, potentially higher if entropion surgery or FSF management is needed in year one. Ongoing annual costs typically run $1,800 to $3,500+ depending on individual health status.</p>"
+    },
+    "right_for_you": {
+      "label": "Right for You?",
+      "heading": "Is the Shar-Pei Right for Your Household?",
+      "html": "<p><strong>The Shar-Pei may be right for you if:</strong></p><ul><li>You have experience with independent, strong-willed breeds</li><li>You are prepared for potentially significant veterinary expenses</li><li>You want a devoted, loyal companion who is also an effective deterrent</li><li>You have a single-dog household or are very experienced with introducing dogs</li><li>You appreciate a dignified, reserved personality rather than an effusively friendly one</li></ul><p><strong>The Shar-Pei may NOT be right for you if:</strong></p><ul><li>You are a first-time dog owner</li><li>You want a highly social dog who loves all people and animals</li><li>You have a multi-dog household without experience managing potential dog-dog conflict</li><li>You cannot commit to regular wrinkle care, monitoring, and proactive veterinary attention</li><li>You are not prepared for potentially higher-than-average veterinary costs</li></ul>"
+    },
+    "finding": {
+      "label": "Finding a Chinese Shar-Pei",
+      "heading": "Finding a Responsible Shar-Pei Breeder",
+      "html": "<p>The <strong>Chinese Shar-Pei Club of America (CSPCA)</strong> is the AKC parent club and provides breeder referrals. Responsible breeders test for FSF history, hip dysplasia, thyroid function, and eye conditions including entropion. They will disclose health history honestly and be available for ongoing support.</p><p>Given the Shar-Pei's significant health concerns, finding a breeder who is transparent and knowledgeable about the breed's health challenges is particularly important. Ask specifically about FSF history in the breeding lines and whether puppies have been evaluated for entropion before placement.</p><p>Rescue organizations like <strong>Shar-Pei Rescue Alliance</strong> operate nationally. Adult Shar-Pei with known health and behavioral histories can be excellent adoption candidates for experienced dog owners.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How do I clean my Shar-Pei's wrinkles?",
+      "a": "Check and gently wipe all skin folds with a dry cloth or fragrance-free baby wipe at least 3 to 4 times per week, and daily during warm or humid weather. Ensure folds are dried thoroughly after cleaning. Any redness, odor, discharge, or crust indicates an infection that requires veterinary treatment."
+    },
+    {
+      "q": "What is Shar-Pei Fever?",
+      "a": "Familial Shar-Pei Fever is a breed-specific inflammatory condition causing episodic fever and swollen hocks. Episodes typically last 24 to 36 hours. Repeated episodes can lead to kidney-damaging amyloidosis. It is managed with anti-inflammatory medications prescribed by a veterinarian."
+    },
+    {
+      "q": "Are Chinese Shar-Pei good with other dogs?",
+      "a": "Many Shar-Pei have dog-dog aggression tendencies, particularly toward same-sex dogs. Not all individuals are affected, and early socialization significantly improves tolerance, but prospective multi-dog household owners should research this trait carefully."
+    },
+    {
+      "q": "Do Shar-Pei need a lot of grooming?",
+      "a": "The coat itself needs minimal grooming. However, the skin folds require regular cleaning and monitoring — this is the primary care requirement that distinguishes the Shar-Pei from simpler short-coated breeds."
+    },
+    {
+      "q": "What is entropion and why is it common in Shar-Pei?",
+      "a": "Entropion is a condition where the eyelid rolls inward, causing the eyelashes to scratch the cornea. It is very common in Shar-Pei due to the excess skin around the eyes. It causes significant pain and requires surgical correction, often as early as 12 weeks of age."
+    }
+  ],
+  "related_breeds": ["chow-chow", "mastiff", "bullmastiff"]
+}

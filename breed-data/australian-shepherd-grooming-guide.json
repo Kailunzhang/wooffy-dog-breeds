@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "name": "Australian Shepherd Grooming Guide",
+    "slug": "australian-shepherd-grooming-guide",
+    "shopify_handle": "australian-shepherd-grooming-guide",
+    "group": "Australian Shepherd",
+    "size_category": "Guide",
+    "tags": ["australian-shepherd", "grooming", "herding-group", "double-coat", "shedding"],
+    "published": true,
+    "published_at": "2026-04-15T16:00:00Z",
+    "excerpt": "Australian Shepherd grooming means brushing 2–3 times per week year-round and daily during coat blows. The double coat requires consistency — or it becomes a matted, shed-everywhere problem.",
+    "meta_description": "Australian Shepherd grooming guide: brushing routine for the double coat, seasonal shedding management, professional deshedding, and keeping the coat healthy without trimming."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Australian_Shepherd_red_bi.JPG/330px-Australian_Shepherd_red_bi.JPG",
+      "alt": "Australian Shepherd grooming"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "Aussie Grooming: The Double Coat Reality",
+      "html": "<p>The Australian Shepherd has a medium-length double coat — a weather-resistant outer coat and a dense, insulating undercoat. It's beautiful, functional, and produces significant shedding year-round with two major coat blows per year (spring and fall) when they shed their entire undercoat over 2–3 weeks.</p><p>The honest grooming commitment: brush 2–3 times per week during normal periods, daily during coat blows. Without consistent brushing, the undercoat mats against the skin, creating painful, potentially infected hot spots underneath what looks like a normal surface coat.</p><p>Professional deshedding treatments (force-blow deshedding) 2 times per year — timed to the coat blows — dramatically reduce the amount of hair in your home and make the home brushing routine more manageable.</p>"
+    },
+    "care": {
+      "label": "Tools & Routine",
+      "heading": "Regular Grooming Routine",
+      "html": "<h3>Essential Tools</h3><ul><li><strong>Undercoat rake</strong> — reaches through the outer coat to remove loose undercoat; the primary tool for Aussies</li><li><strong>Slicker brush</strong> — for the outer coat and finishing</li><li><strong>Steel wide-tooth comb</strong> — for checking behind ears, legs, and collar area for mats</li><li><strong>Detangling spray</strong> — helpful during coat blows when the undercoat is releasing heavily</li><li><strong>High-velocity pet dryer (optional)</strong> — for post-bath deshedding at home</li></ul><h3>Regular (Non-Blow) Brushing Routine (2–3x per week, 15–20 min)</h3><ol><li>Start with the undercoat rake — work in sections, going with the hair growth. You'll pull out significant loose undercoat even when the dog isn't in a blow.</li><li>Follow with the slicker brush for the outer coat and to catch any remaining loose hair.</li><li>Finish with the steel comb in mat-prone areas: behind the ears, collar area, armpits, back of thighs, and where the collar rests.</li></ol><h3>Coat Blow Season (Daily brushing, 20–30 min)</h3><p>During spring and fall coat blows, brush daily. The undercoat comes out in massive clumps. A high-velocity dryer (or a professional groomer's force dryer) blows out loose undercoat faster than any brush. This is when a professional deshedding treatment is most valuable — a good groomer can remove 70–80% of the loose undercoat in a single appointment.</p><h3>Bathing</h3><p>Every 6–8 weeks, or after particularly dirty outdoor activities. The double coat holds water — rinse thoroughly and dry with a high-velocity dryer or allow extended drying time. Never let a double-coated dog stay wet — trapped moisture against the skin causes hot spots.</p>"
+    },
+    "special": {
+      "label": "The No-Shave Rule",
+      "heading": "Never Shave a Double-Coated Dog",
+      "html": "<p>One of the most damaging mistakes Aussie owners make is shaving the coat in summer to keep the dog cool. This is a myth that causes real harm.</p><h3>Why Shaving Is Harmful</h3><ul><li>The double coat insulates in both directions — it keeps cold out in winter and reflects heat while allowing air circulation in summer. Shaving removes this natural thermoregulation.</li><li>After shaving, the coat may grow back with an altered texture — softer, cottony undercoat that mats more easily. This is called post-clipping alopecia and can be permanent in some dogs.</li><li>Shaved coats offer no UV protection — Aussies can actually sunburn on exposed skin.</li></ul><h3>The Right Way to Keep an Aussie Cool</h3><ul><li>Regular brushing removes the dead undercoat, which is what actually traps heat</li><li>Professional deshedding treatments before hot months</li><li>Fresh water, shade, and exercise during cooler morning/evening hours</li><li>Cooling mats for dogs that overheat</li></ul><p>If you're spending time managing excessive shedding, that's a sign brushing frequency needs to increase — not that the coat should be cut.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often should I brush my Australian Shepherd?",
+      "a": "2–3 times per week minimum during normal periods. Daily during spring and fall coat blows, when the undercoat sheds heavily. Skipping brushing during coat blows leads to matting under the outer coat."
+    },
+    {
+      "q": "Do Australian Shepherds need professional grooming?",
+      "a": "A professional deshedding treatment 2 times per year (timed to coat blows) is highly recommended — it removes far more loose undercoat than home brushing alone. Some owners also get feet, ears, and tail feathering trimmed occasionally. Regular full haircuts are not needed or recommended."
+    },
+    {
+      "q": "Can I shave my Aussie in summer to help with the heat?",
+      "a": "No. Shaving a double-coated dog actually impairs their ability to regulate temperature. The double coat insulates against both heat and cold. Remove loose undercoat through regular brushing and professional deshedding instead."
+    },
+    {
+      "q": "My Aussie has a mat forming near the collar. How do I remove it?",
+      "a": "Apply detangling spray and let it sit for 2–3 minutes. Hold the mat at the base to prevent pulling the skin, and work through the outer edges with your fingers before using a wide-tooth comb. For tight mats, a mat splitter is safer than scissors. Prevent future matting by removing the collar or checking that area daily."
+    }
+  ]
+}

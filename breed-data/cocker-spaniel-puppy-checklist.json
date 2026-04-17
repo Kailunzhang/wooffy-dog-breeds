@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "name": "Cocker Spaniel Puppy Checklist",
+    "slug": "cocker-spaniel-puppy-checklist",
+    "shopify_handle": "cocker-spaniel-puppy-checklist",
+    "group": "Cocker Spaniel",
+    "size_category": "Guide",
+    "tags": ["cocker-spaniel", "puppy", "checklist", "new-dog-owner", "grooming-training"],
+    "published": true,
+    "published_at": "2026-04-15T16:00:00Z",
+    "excerpt": "Everything you need before your Cocker Spaniel puppy comes home — with a focus on starting the grooming routine early so your dog accepts handling for life.",
+    "meta_description": "Cocker Spaniel puppy checklist: essential gear, first vet visit, ear care from day one, grooming desensitization, and training priorities."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gessa_d%27Aran_Copo_de_Nieve-_arancio_roano-_prop.Kalesa.jpg/330px-Gessa_d%27Aran_Copo_de_Nieve-_arancio_roano-_prop.Kalesa.jpg",
+      "alt": "Cocker Spaniel puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Cocker Spaniel Puppy Prep: Gear and Grooming Setup",
+      "html": "<p>Cocker Spaniels are gentle, relatively easy-to-manage puppies. The most important early investment isn't equipment — it's time spent getting your puppy comfortable with handling and grooming. A Cocker that tolerates ears being touched, teeth brushed, and coat brushed from 8 weeks will be easy to groom for life. Skip this early work and you'll struggle with every grooming session permanently.</p><h3>Essential Gear Checklist</h3><ul><li>Medium crate (24–30 inch) with divider</li><li>Dog bed or crate mat</li><li>Stainless steel food and water bowls</li><li>Flat collar + ID tag (engrave on arrival day)</li><li>4–6 ft leash</li><li>Slicker brush — start brushing day one even if the puppy coat doesn't need it</li><li>Fine-tooth steel comb</li><li>Detangling spray</li><li>Ear cleaner solution (vet-approved)</li><li>Soft finger brush + puppy-safe toothpaste — start dental habits immediately</li><li>Enzymatic cleaner for accidents</li><li>Soft training treats</li><li>Variety of toys (Cocker puppies are curious and playful, not destructive)</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet, Ears, and Grooming Desensitization",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam including ear canal inspection</li><li>Verify vaccine schedule from breeder</li><li>Discuss ear cleaning protocol — important to establish early</li><li>Parasite prevention plan (heartworm, fleas, ticks)</li><li>Schedule for spay/neuter if needed</li><li>Ophthalmology baseline exam recommended given PRA risk in the breed</li><li>Microchip if not done by breeder</li></ul><h3>Ear Care From Day One</h3><p>Cocker Spaniels are the #1 breed for ear infections. Start a weekly ear inspection and cleaning routine immediately. Use a vet-approved ear cleaner. Lift the ear flap gently, apply cleaner, let the dog shake, then wipe the visible outer canal with a cotton ball. Never insert anything deeply into the ear canal.</p><p>More importantly: handle the ears frequently outside of cleaning — during cuddle time, play, and handling practice. A puppy that accepts ear handling calmly will make ear infection detection and treatment far easier throughout its life.</p><h3>Daily Grooming Desensitization (5 min/day)</h3><p>Even if the puppy coat doesn't tangle, brush every day with the slicker brush. The goal isn't coat maintenance yet — it's creating a dog that accepts grooming calmly. Touch paws, look in ears, lift lips to look at teeth, run hands all over the body. Pair everything with treats. This 5-minute daily habit pays dividends for 14 years.</p>"
+    },
+    "special": {
+      "label": "Training Priorities",
+      "heading": "Training Priorities for Cocker Spaniel Puppies",
+      "html": "<h3>Training Notes for Cockers</h3><p>Cocker Spaniels are among the most trainable family breeds — eager to please, gentle, and food-motivated. Positive reinforcement works extremely well. Never use harsh corrections or punishment with a Cocker; they can become timid and shut down if treated roughly.</p><h3>Year One Priorities</h3><ol><li><strong>Puppy class:</strong> Enroll as soon as vaccinated. Socialization during the 8–16 week window is critical. Cockers are sociable by nature, but early positive exposure builds confidence.</li><li><strong>Basic obedience:</strong> Sit, down, stay, come, leave it. These dogs learn fast — keep sessions short (5–10 min) and positive.</li><li><strong>Grooming tolerance:</strong> Practice all elements of grooming daily. This is not optional for a breed that needs professional grooming every 6–8 weeks for life.</li><li><strong>Leash manners:</strong> Cockers are not hard pullers, but establish loose-leash walking habits from the start.</li><li><strong>Crate training:</strong> Creates a safe space and prevents destructive behavior when unsupervised. Most Cockers adapt to crate training quickly.</li></ol><h3>Find a Groomer Early</h3><p>Don't wait until your Cocker needs their first professional groom. Visit a groomer for a 'puppy introduction' appointment — just a bath, blow-dry, and gentle handling with no cutting. This gets the dog comfortable with the groomer environment before a full appointment is needed at 4–6 months.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "When should I start grooming my Cocker Spaniel puppy?",
+      "a": "Day one. Even if the puppy coat doesn't need it, daily brushing and handling builds the tolerance you'll need for the professional grooming appointments your Cocker will have every 6–8 weeks for life."
+    },
+    {
+      "q": "When should a Cocker Spaniel puppy have their first professional groom?",
+      "a": "A gentle 'puppy introduction' bath and handling session at 10–12 weeks (after second vaccines) is ideal. The first actual trim typically happens at 4–6 months when the adult coat starts coming in."
+    },
+    {
+      "q": "How do I prevent ear infections from the start?",
+      "a": "Weekly ear inspection and cleaning with a vet-approved ear cleaner. After every bath or swim, clean and dry the ears. Keep the ears handled positively from puppyhood so your dog accepts inspection easily."
+    },
+    {
+      "q": "Are Cocker Spaniels easy to train as puppies?",
+      "a": "Yes. They're one of the more trainable family breeds — eager to please and highly food-motivated. Keep sessions short, positive, and consistent. They respond poorly to harsh corrections."
+    }
+  ]
+}

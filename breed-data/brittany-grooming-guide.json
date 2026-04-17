@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Brittany Grooming Guide",
+    "slug": "brittany-grooming-guide",
+    "shopify_handle": "brittany-grooming-guide",
+    "group": "Brittany",
+    "size_category": "Guide",
+    "tags": ["brittany", "grooming"],
+    "published": true,
+    "published_at": "2026-04-21T16:00:00Z",
+    "excerpt": "The Brittany's flat, dense coat is one of the lower-maintenance sporting dog coats — weekly brushing, occasional trimming of feathering and ear fringe, and bathing after field work keep it in good condition.",
+    "meta_description": "Brittany grooming guide: weekly brushing routine, managing the feathering on ears and legs, bathing after field work, ear care for floppy-eared sporting dogs, and trimming the dense flat coat."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/American_Brittany_standing.jpg/330px-American_Brittany_standing.jpg",
+      "alt": "Brittany grooming guide"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Understanding the Brittany Coat",
+      "html": "<p>The Brittany has a flat, dense, and slightly wavy coat that lies close to the body — a working dog coat designed to shed debris and dry quickly after field work. The coat is not heavily textured or prone to severe matting, making it one of the more manageable sporting dog coats. The feathering on the ears, chest, backs of the legs, and belly is moderate compared to breeds like the Irish Setter or Golden Retriever.</p><p>Shedding is moderate and year-round, with heavier seasonal blowouts in spring and fall. The dense undercoat contributes to shedding volume but also makes the coat weather-resistant. Regular brushing manages shedding effectively.</p><p>The ears are floppy and covered with feathering — they require regular inspection and cleaning to prevent the ear infections common in drop-eared sporting dogs. Field-active Brittanys are particularly prone to picking up burrs and seeds in the coat and ears during hunting or trail work; checking and clearing the coat after outdoor activity is essential."
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Step-by-Step Grooming Routine",
+      "html": "<p><strong>Frequency:</strong> Brushing once or twice per week; bathing every 4–6 weeks or after field work.</p><p><strong>Tools needed:</strong> Slicker brush, pin brush, wide-tooth comb, ear cleaner, cotton balls, nail clippers or grinder, blunt-tipped scissors for trimming.</p><p><strong>Brushing:</strong> Work through the coat section by section with a slicker brush, following with a wide-tooth comb to confirm no tangles remain. Pay particular attention to the feathering on the ears, chest, and back of the legs — these areas tangle more readily than the body coat. The armpits and groin are friction zones that mat in active dogs.</p><p>For field dogs, check the entire coat for burrs and seeds after each outing. Pay special attention to the ears, paw pads, and between the toes — seeds can work their way into skin and cause infections if left. Remove debris before bathing.</p><p><strong>Bathing:</strong> Use a gentle dog shampoo appropriate for a medium-coated working dog. Rinse thoroughly — residue in the dense coat causes skin irritation. A light conditioner on the feathering reduces tangle formation. Towel dry or blow-dry on low heat; the dense coat takes time to dry fully.</p><p><strong>Trimming:</strong> The Brittany coat does not require elaborate trimming. Neaten the ear fringe with blunt scissors for a tidy appearance. Trim the hair between the paw pads to prevent debris accumulation and improve traction. Some owners trim the feathering on the legs to reduce field debris pickup — this is functional, not aesthetic.</p><p><strong>Ear care:</strong> Check and clean ears weekly. Use a veterinarian-recommended ear cleaner applied to a cotton ball — never insert anything into the ear canal. The floppy, feathered ears trap moisture and debris; regular cleaning prevents chronic infections.</p><p><strong>Nails:</strong> Every 3–4 weeks. Active field Brittanys often wear their nails naturally; check regularly and trim when you hear clicking on hard floors.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Field Work and Professional Grooming",
+      "html": "<p><strong>Field coat maintenance:</strong> A working Brittany's coat is put through real stress during hunting season — burrs, seeds, water, and dense cover all take a toll. Many field owners keep the feathering trimmed shorter during hunting season to reduce debris accumulation and speed cleanup after hunts. A shorter working trim does not affect function and significantly reduces post-field maintenance time.</p><p><strong>Professional grooming:</strong> The Brittany is not a high-frequency professional grooming breed. Many owners handle grooming entirely at home. Some opt for a professional bath and brush-out once or twice a year, or before the show season if exhibiting. Professional fees are modest for this coat type — $50–$80 per session is typical.</p><p><strong>Shedding management:</strong> The spring and fall shedding periods are notable — the dense undercoat releases in volume. During these periods, increasing brushing to daily or every other day significantly reduces the amount of hair that ends up throughout the house. An undercoat rake or deshedding brush is useful during heavy shed periods.</p><p><strong>Skin inspection:</strong> The dense coat can hide skin irritation, hot spots, and tick attachment. Run your hands through the coat during each grooming session and inspect the skin, particularly in warm months. Active outdoor dogs are at elevated tick risk; check carefully around the ears, neck, and groin after field activity.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often does a Brittany need grooming?",
+      "a": "Weekly brushing is the minimum to manage shedding and prevent tangles in the feathering. Field-active Brittanys benefit from a quick check and debris removal after every outing. Bathing every 4–6 weeks is typical for household dogs; field dogs may need bathing after heavy work. Ears should be checked and cleaned weekly regardless of activity level."
+    },
+    {
+      "q": "Do Brittanys need professional grooming?",
+      "a": "Not typically. The flat, dense coat does not require clipping or elaborate trimming. Most Brittany owners manage grooming entirely at home with basic tools — slicker brush, wide-tooth comb, and blunt scissors for neatening. Some owners choose professional bathing for convenience, but it is not a requirement."
+    },
+    {
+      "q": "How do I remove burrs from a Brittany's coat?",
+      "a": "Work through burrs while the coat is dry — wet coats tangle more severely around burrs. Apply a small amount of detangling spray to the area, then use your fingers and a wide-tooth comb to work the burr free, starting from the outer edge and working inward. Stubborn burrs can be carefully cut out with blunt scissors if they cannot be combed free. Prevent buildup by checking the coat immediately after field work."
+    }
+  ]
+}

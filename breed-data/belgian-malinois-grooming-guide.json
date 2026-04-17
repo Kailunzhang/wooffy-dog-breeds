@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Belgian Malinois Grooming Guide",
+    "slug": "belgian-malinois-grooming-guide",
+    "shopify_handle": "belgian-malinois-grooming-guide",
+    "group": "Belgian Malinois",
+    "size_category": "Guide",
+    "tags": ["belgian-malinois", "grooming", "short-coat", "shedding", "low-maintenance"],
+    "published": true,
+    "published_at": "2026-04-20T16:00:00Z",
+    "excerpt": "The Belgian Malinois has a short, practical coat that needs minimal grooming — weekly brushing and occasional bathing is all it takes. The real investment with a Malinois is training, not coat care.",
+    "meta_description": "Belgian Malinois grooming guide: short double coat maintenance, minimal grooming routine, seasonal shedding management, and ear and nail care for a high-drive working breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Malinois_Shepherd3.JPG/250px-Malinois_Shepherd3.JPG",
+      "alt": "Belgian Malinois grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Malinois Coat",
+      "heading": "Understanding the Belgian Malinois Short Coat",
+      "html": "<p>The Belgian Malinois has a short to medium-length double coat: a dense undercoat and a straight, hard outer coat that lies close to the body. This is a working-dog coat designed for durability and weather resistance — low on maintenance demands relative to longer-coated breeds. Weekly brushing, monthly baths, and seasonal attention during coat blows covers the full grooming requirement. The Malinois sheds year-round with two seasonal increases, but the volume is manageable with consistent basic maintenance.</p><h3>Grooming Tools You'll Need</h3><ul><li>Rubber curry brush or grooming mitt — most effective for the short outer coat</li><li>Undercoat rake — for coat blow seasons</li><li>Soft bristle brush — for finishing</li><li>Dog-safe shampoo</li><li>Nail clippers or grinder</li><li>Ear cleaning solution and cotton balls</li></ul><h3>Coat Areas to Watch</h3><p>The Malinois has slightly longer, denser hair around the neck, chest, and base of the tail. These areas don't mat significantly but accumulate more loose undercoat than the rest of the body. A quick extra pass with the undercoat rake through these areas during weekly brushing keeps them clear.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush the entire coat with a rubber curry brush using circular motions — this is the most effective tool for removing loose hair from a short coat</li><li>Give extra attention to the neck, chest, and tail base where undercoat is densest</li><li>Check ears for debris, odor, or redness — wipe with ear cleaner and cotton ball</li><li>Check paw pads for cuts, debris, or cracking — Malinois are active dogs that work their feet hard</li><li>Check for skin irritation, especially around the collar area</li></ul><h3>Monthly</h3><ul><li>Bathe every 6–8 weeks or when dirty. A working Malinois may need more frequent bathing if regularly active outdoors</li><li>Trim nails monthly. Short nails are particularly important for an athletic working breed that needs unrestricted, comfortable movement</li><li>Check and clean ears if visible buildup is present</li></ul><h3>Coat Blow Season (Twice Per Year)</h3><p>Seasonal coat blows occur twice a year, typically spring and fall. Daily brushing during this 2–3 week period manages the increased shedding volume. A deshedding bath that fully saturates the coat, adds conditioner, and is blown dry removes the bulk of releasing undercoat efficiently.</p>"
+    },
+    "special": {
+      "label": "Grooming a High-Drive Working Dog",
+      "heading": "Practical Grooming for an Active Working Breed",
+      "html": "<p>Belgian Malinois are high-drive, high-energy working dogs. Grooming sessions require the dog to be calm and compliant — this is a training exercise as much as a coat maintenance task. A Malinois that has been properly trained to accept handling and grooming from puppyhood is straightforward to groom. One that hasn't been trained can be difficult to manage even for short grooming sessions.</p><h3>Habituation Matters</h3><ul><li>Start handling and grooming from day one — every session is also a calm-behavior training exercise</li><li>A Malinois that must be still for nail trimming or ear cleaning is practicing impulse control, not just hygiene</li><li>Use the grooming routine as an opportunity to do a full body check — skin condition, lumps, paw pad integrity, body weight assessment</li></ul><h3>Post-Work Checks</h3><p>Malinois used in protection, tracking, or field work need post-activity inspections:</p><ul><li>Check paw pads for cuts, abrasions, or embedded debris after field work</li><li>Check between toes for grass seeds in tall grass environments</li><li>Rinse the coat after saltwater swimming to prevent salt residue buildup</li><li>Check ears after water activities</li></ul>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Do Belgian Malinois shed a lot?",
+      "a": "Moderately year-round, with two seasonal increases during spring and fall coat blows. The volume is manageable with weekly brushing using a rubber curry brush. During coat blows, daily brushing for 2–3 weeks keeps the shedding under control. Overall, this is a lower-maintenance coat than many other herding and working breeds."
+    },
+    {
+      "q": "How often should I bathe a Belgian Malinois?",
+      "a": "Every 6–8 weeks under normal conditions. Malinois used in active fieldwork or that spend significant time outdoors may need more frequent bathing. The short coat dries quickly and doesn't hold odor the way longer-coated breeds do. Use a gentle, pH-balanced dog shampoo — no need for specialized coat treatments for this coat type."
+    },
+    {
+      "q": "Is Belgian Malinois grooming difficult?",
+      "a": "The coat itself is easy — weekly brushing and monthly bathing is all it requires. The training component matters more: a Malinois needs to accept handling calmly, and this is built through consistent habituation from puppyhood. A trained Malinois is effortless to groom; an untrained high-drive dog that doesn't want to be still is a different experience entirely."
+    }
+  ]
+}

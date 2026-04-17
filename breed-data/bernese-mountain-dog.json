@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "name": "Bernese Mountain Dog",
+    "slug": "bernese-mountain-dog",
+    "shopify_handle": "bernese-mountain-dog",
+    "group": "Working Group",
+    "size_category": "Large Breed",
+    "tagline": "Bernese Mountain Dogs are gentle, affectionate, and wonderful family dogs — with a heartbreaking reality: their lifespan averages 7–8 years, and cancer claims around half of them. Going in with eyes open makes all the difference.",
+    "tags": ["working-group", "large-breed", "family-dog", "gentle", "cancer-risk", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-16T16:00:00Z",
+    "excerpt": "Berners are calm, loving family dogs with a tricolor coat that stops people on the street. The honest part: the average lifespan is 7–8 years, cancer affects roughly half of the breed, and the grief at the end hits hard. Know this going in.",
+    "meta_description": "Bernese Mountain Dog breed guide: gentle temperament, short lifespan reality, cancer risk, health costs, and whether a Berner is the right fit for your family."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "70–115 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "7–10 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "45–60 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Easy" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes, with research" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/3-BerneseMountainDogInGrass.jpg/330px-3-BerneseMountainDogInGrass.jpg",
+      "alt": "Bernese Mountain Dog"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Bernese Mountain Dog?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Bernese Mountain Dog is a Swiss working breed, bred for centuries in the canton of Bern as a draft dog, herding dog, and farm companion. The tricolor coat — jet black, rich rust, and clear white — makes them one of the most visually striking large breeds. In temperament, they're equally compelling: calm, patient, devoted, and gentle in a way that makes them outstanding family dogs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Berner Sennenhund community has a phrase that speaks to the one dark truth about the breed: \"three years a young dog, three years a good dog, three years an old dog — and all too soon gone.\" The average Bernese Mountain Dog lives 7–8 years. Shorter-lived individuals die at 5–6. Exceptional ones reach 10–12. Cancer is the primary culprit, affecting approximately half the breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">This is not a reason to avoid the breed. Berner owners are among the most devoted breed communities anywhere, and those years are typically exceptional. But it is a fact to know and grieve in advance, because the end arrives earlier than it should.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Berners Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Large and sturdy — 70–115 lbs, 23–27.5 inches at the shoulder. The tricolor coat is the breed's signature: a base of jet black with rich rust markings above the eyes, on the cheeks, legs, and chest, and white on the blaze, chest, and paws. The coat is moderately long and slightly wavy or straight, with a thick undercoat that sheds significantly year-round and explosively twice a year.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The expression is soft and patient — dark almond eyes, a broad skull, and a calm, confident bearing that makes even strangers want to approach. Berners are often stopped on walks. Their appearance genuinely matches their temperament.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bernese Mountain Dogs are gentle giants in the truest sense. They're patient, calm, and affectionate with their family — particularly good with children, where their gentle nature and calm temperament make them excellent companions even for young kids. They tend to be reserved rather than exuberant, and they read emotional situations well.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With strangers, they're typically polite but reserved — they watch, assess, and warm up in their own time. They're not guard dogs in any meaningful sense; a Berner will alert to something unusual but isn't bred for protection. Their size provides natural deterrence, but their temperament doesn't back it up aggressively.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">One notable trait: many Berners are \"one-person dogs\" within the family — they bond particularly deeply with one person while remaining affectionate with everyone. This isn't exclusivity, just a visible preference that expresses the depth of their attachment.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Berner",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A Bernese Mountain Dog is an exceptional family companion. The temperament is genuine — calm, gentle, devoted, easy to train. They're not demanding dogs. They don't need marathon exercise, they don't need advanced training, and they get along with nearly everyone and everything. For a family wanting a large, beautiful, genuinely good-natured dog, Berners deliver consistently.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">I want to be direct about the lifespan. Seven to eight years average means that when you get a Berner puppy at 8 weeks old, there's a good chance you'll say goodbye when you're still relatively young, when your kids are still in school, when you feel you just found your rhythm with this dog. Some owners describe the grief of losing a Berner as disproportionately heavy relative to the time — possibly because the dogs are so present, so emotionally available, that the loss feels larger than the years alone would suggest.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Get pet insurance before the first vet visit. Cancer treatment costs and orthopedic surgery costs for large breeds are significant. The insurance doesn't change the outcome, but it removes the financial barrier to pursuing all available options when the time comes.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">45–60 minutes of moderate exercise daily. Berners are working dogs but not high-energy athletes — they enjoy walks, hikes, drafting, and time outdoors. They're sensitive to heat and should not be exercised vigorously in hot weather. Puppies: strict limits on exercise until growth plates close (18 months) to protect developing joints — no forced running, jumping, or stairs for extended periods.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The long double coat requires 3–4 brushing sessions per week to prevent matting and manage shedding. Daily brushing during shedding seasons. Berners are heavy shedders and leave hair on everything. See the <a href=\"/blogs/dog-breeds/bernese-mountain-dog-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Bernese Mountain Dog grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Easy to train — eager to please and responsive to positive reinforcement. Early basic obedience is essential given adult size. A 115-lb dog that pulls on leash or jumps on people is difficult to manage regardless of temperament. Formal puppy class and basic obedience are strongly recommended. Many Berners excel at drafting (carting) as a breed-appropriate activity.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Bernese Mountain Dog has a significant health burden concentrated in two areas: cancer and orthopedic disease. Proactive screening and pet insurance are not optional for this breed.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Cancer</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The leading cause of death in Berners — histiocytic sarcoma, lymphoma, and mast cell tumors are most common. Affects approximately 50% of the breed. No reliable screening test exists; early detection depends on regular vet exams and owner awareness of lumps, swelling, or behavior changes.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip &amp; Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Both hips and elbows should be OFA or PennHIP evaluated in breeding stock. Dysplasia causes arthritis and may require surgery. Significant in the breed — choose breeders who provide OFA clearances for both parents.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Life-threatening emergency in deep-chested breeds. Signs: distended abdomen, unproductive retching, restlessness after eating. Prophylactic gastropexy can be performed at time of spay/neuter.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Degenerative Myelopathy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Progressive neurological disease causing hindlimb weakness and eventual paralysis. DNA test available. No cure; managed with supportive care and physical rehabilitation.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA elbow, CAER eye, DM DNA test clearances. Pet insurance before first vet visit is critical for this breed.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$3,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,100</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,100</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$800–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$800–$1,500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Grooming supplies</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$80–$150</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$50–$100</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (large crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,930–$7,250</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,100–$3,700</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/bernese-mountain-dog-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Bernese Mountain Dog first-year cost breakdown</a>. Budget for cancer treatment — it will statistically be needed.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Bernese Mountain Dog Right for You?",
+      "good_fit": [
+        "Families with children — Berners are patient, gentle, and excellent with kids",
+        "Owners who want a calm, affectionate large dog that's easy to train",
+        "Households that can handle significant shedding (hair is everywhere)",
+        "People prepared for a shorter lifespan and committed to health monitoring",
+        "Active families who want a moderate-exercise companion for hiking and outdoor activities"
+      ],
+      "not_fit": [
+        "Anyone not prepared emotionally or financially for a likely 7–8 year lifespan",
+        "Hot climates — Berners struggle in heat and should not be heavily exercised above 65°F",
+        "Households that cannot tolerate heavy shedding and frequent grooming",
+        "Owners unwilling to invest in pet insurance given the cancer and orthopedic risk",
+        "Very small living spaces — their size requires room to move comfortably"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Bernese Mountain Dog",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$3,000 from reputable breeders with full health testing. Required clearances: OFA hip, OFA elbow, CAER eye exam, DM DNA test. The Bernese Mountain Dog Club of America maintains a breeder referral list and publishes the recommended health testing protocol for the breed.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bernese Mountain Dog rescue exists nationally. Given the short lifespan, be prepared that rescue dogs may have existing health conditions. Request full health disclosure and vet records. Older dogs are fully viable adoption candidates given the breed's gentle temperament.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Berner comes home, complete the <a href=\"/blogs/dog-breeds/bernese-mountain-dog-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Bernese Mountain Dog puppy checklist</a> — giant-breed nutrition plan, insurance enrollment, and orthopedic bed selection are priorities.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "How long do Bernese Mountain Dogs live?", "a": "The average lifespan is 7–8 years. Some Berners die at 5–6; exceptional individuals reach 10–12. This is shorter than most large breeds. Cancer is the primary cause of death, affecting approximately half the breed. The short lifespan is a defining reality of the breed — going in prepared for this is important for both practical planning and emotional readiness." },
+    { "q": "Do Bernese Mountain Dogs do well in hot weather?", "a": "No — they're a cold-climate breed. The thick double coat makes them heat-sensitive. In temperatures above 65–70°F, limit exercise to early morning and evening. In summer heat, provide shade, water, and air conditioning. Overheating is a real risk and can be serious. Do not move a Berner to a hot climate without a plan for climate control." },
+    { "q": "Are Bernese Mountain Dogs good with children?", "a": "Excellent with children — one of the most consistently gentle large breeds in interactions with kids. Their patience, soft temperament, and size make them good companions even for younger children. Supervise as with any large dog, primarily to prevent accidental knockdowns (not aggression)." },
+    { "q": "How much do Bernese Mountain Dogs shed?", "a": "Significantly. The double coat produces year-round shedding at a moderate level, plus two major seasonal coat blows per year where shedding is dramatic. Regular brushing (3–4 times per week minimum) reduces but does not eliminate the hair. Berners are not appropriate for households with severe allergies or zero tolerance for dog hair." }
+  ],
+
+  "related_breeds": [
+    {"name": "Great Pyrenees", "slug": "great-pyrenees", "note": "Similar size and coat, more independent, strong guardian instinct, even more shedding"},
+    {"name": "Labrador Retriever", "slug": "labrador-retriever", "note": "Better lifespan, similar family temperament, lower maintenance coat"},
+    {"name": "Golden Retriever", "slug": "golden-retriever", "note": "Similar gentle temperament, longer lifespan, lower shedding intensity"},
+    {"name": "Greater Swiss Mountain Dog", "slug": "greater-swiss-mountain-dog", "note": "Swiss sibling breed, short coat version of the Berner, slightly longer lifespan"}
+  ]
+}

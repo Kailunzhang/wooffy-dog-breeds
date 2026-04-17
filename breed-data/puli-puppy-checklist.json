@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Puli Puppy Checklist",
+    "slug": "puli-puppy-checklist",
+    "shopify_handle": "puli-puppy-checklist",
+    "group": "Puli",
+    "size_category": "Guide",
+    "tags": ["puli", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-05-04T16:00:00Z",
+    "excerpt": "The Puli puppy arrives with a fluffy coat that will begin forming cords around 9 months. This checklist covers what to prepare before the puppy arrives, how to begin the cord formation process, and training priorities for this energetic Hungarian herding breed.",
+    "meta_description": "Puli puppy checklist: supplies, cord formation preparation, training plan, and socialization for Hungary's corded herding breed puppy."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Puli_standing.jpg/330px-Puli_standing.jpg",
+      "alt": "Puli puppy checklist"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Preparing for the Corded Herder",
+      "html": "<p>The Puli puppy at 8 weeks looks like a fluffy black (or white or gray) ball of fluff — the iconic cords are still years away. Your preparation focuses on learning about cord formation, acquiring the right equipment, and setting up for a high-energy herding breed.</p><h3>Supplies Checklist</h3><ul><li>Large wire crate with divider panel</li><li>Stainless steel food and water bowls</li><li>Adjustable collar and 6-foot leash</li><li>Well-fitted front-clip harness for leash training</li><li>ID tag with phone number</li><li>Medium-breed puppy food confirmed with breeder</li><li>Gentle, moisturizing dog shampoo</li><li>High-velocity dryer (budget for this now — it's essential for bathing a corded coat later)</li><li>Slicker brush (for the puppy coat and the brushed coat option if chosen)</li><li>Enzymatic cleaner for accidents</li><li>Interactive toys and puzzle feeders</li></ul><h3>Education Before Purchase</h3><ul><li>Contact the Puli Club of America and read their cord management resources thoroughly</li><li>Ideally, find a Puli mentor — an experienced owner or breeder who can demonstrate cord separation in person</li><li>Decide in advance whether you will maintain a corded or brushed coat; discuss this with your breeder</li></ul><h3>Vet Setup</h3><ul><li>Find a vet familiar with herding breeds</li><li>First wellness exam within 48–72 hours</li><li>Pet insurance enrolled immediately</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "Structure, Socialization, and Coat Awareness",
+      "html": "<p>The Puli puppy coat at 8 weeks does not require cord management yet — that comes later. The first weeks focus on crate training, house training, socialization, and beginning the training habits that will serve this smart, independent breed well.</p><h3>Day 1–2</h3><ul><li>Crate introduction with meals and comfort item</li><li>House training schedule begins immediately</li><li>Brief handling sessions daily: feet, ears, and body — build tolerance for grooming from day one</li></ul><h3>Day 3–7</h3><ul><li>Short harness walks with loose-leash training from day one</li><li>Friendly adult visitors with positive food-reward introductions</li><li>Vet wellness visit</li><li>Begin name recognition and sit training with high-value treats</li><li>Book puppy obedience class</li></ul><h3>Coat Monitoring (from approximately 9 months)</h3><ul><li>When the coat begins to change texture and clump, cord formation has begun</li><li>Begin weekly cord separation sessions using your fingers</li><li>Consult your breeder or a Puli mentor to confirm you are separating correctly</li><li>This phase requires patience — it takes 12–18 months of ongoing separation for cords to fully establish</li></ul><h3>Socialization Focus (Weeks 8–16)</h3><ul><li>Varied adults, children, other dogs</li><li>Novel environments, surfaces, and sounds</li><li>Car travel and vet visits</li><li>Building independence: crate time while home, increasing duration gradually</li></ul>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Training a Smart, Active Herding Puppy",
+      "html": "<p>The Puli is intelligent and trainable with positive reinforcement. It is also energetic and assertive — beginning training early and maintaining consistent rules is important for this breed.</p><h3>Priority Commands</h3><ul><li>Sit, stay, come, down, leave it — the safety fundamentals</li><li>Loose-leash walking — work on this from day one</li><li>Off — the Puli is athletic and jumps readily; teach this before it becomes a habit</li></ul><h3>Mental Stimulation</h3><ul><li>Puzzle feeders at meals provide daily mental engagement without extra time investment</li><li>Short trick training sessions (5 minutes, 2–3 times daily) satisfy the breed's intelligence</li><li>Agility foundation work can begin at 6 months with low-impact exercises</li></ul><h3>Exercise During Puppyhood</h3><ul><li>5 minutes of structured exercise per month of age, twice daily</li><li>The Puli's athleticism is impressive — but growth plates need protection until 12–14 months</li><li>Mental exercise compensates for limited physical exercise during puppyhood</li></ul><h3>Herding Instinct</h3><ul><li>Many Pulik show strong herding instinct that may manifest as circling or attempting to move children and other pets</li><li>Redirect this behavior to appropriate outlets — herding instinct testing and herding lessons are excellent options when the dog is mature</li></ul>"
+    }
+  },
+  "faq": [
+    {
+      "q": "When do Puli cords start forming?",
+      "a": "Around 9 months of age the coat begins transitioning from fluffy puppy coat to developing cords. The owner needs to begin regular cord separation at this point to guide proper cord formation. Full cords take approximately 2 years to complete."
+    },
+    {
+      "q": "Do I have to cord my Puli?",
+      "a": "No. Maintaining the coat brushed out is a valid alternative that many pet owners choose. A brushed Puli still has a full, attractive coat without the cord management commitment. Discuss your preference with your breeder before purchasing a puppy."
+    },
+    {
+      "q": "Is a Puli a good first dog?",
+      "a": "Generally not. The combination of high energy, herding breed independence, and the unique coat management commitment makes the Puli challenging for first-time dog owners. Experienced owners familiar with active herding breeds are the best match."
+    }
+  ]
+}

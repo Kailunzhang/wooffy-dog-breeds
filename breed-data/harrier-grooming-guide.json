@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "name": "Harrier Grooming Guide",
+    "slug": "harrier-grooming-guide",
+    "shopify_handle": "harrier-grooming-guide",
+    "group": "Harrier",
+    "size_category": "Guide",
+    "tags": ["harrier", "grooming", "short-coat", "hound", "ear-care"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "Harrier grooming is minimal — the short, hard coat needs little attention. Ear care and nail maintenance are the primary regular tasks.",
+    "meta_description": "Harrier grooming guide: short hound coat care, ear cleaning protocol, nail maintenance, and what weekly grooming for this low-maintenance breed actually looks like."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Harrier_Hound_-Pedigree_Harrier.jpg/250px-Harrier_Hound_-Pedigree_Harrier.jpg",
+      "alt": "Harrier grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Harrier Coat",
+      "heading": "Low-Maintenance by Design",
+      "html": "<p>The Harrier's short, dense, hard coat is one of the lowest-maintenance coats of any medium-large breed. It sheds moderately year-round, resists dirt and debris reasonably well, and requires almost nothing beyond a weekly wipe-down. There is no clipping, no stripping, no professional grooming required.</p><h3>Tools Needed</h3><ul><li>Rubber grooming mitt or hound glove — all you need for regular coat maintenance</li><li>Vet-approved ear cleaner and cotton balls</li><li>Dog shampoo</li><li>Nail clippers or grinder</li></ul>"
+    },
+    "care": {
+      "label": "Weekly Routine",
+      "heading": "Coat and Ear Care",
+      "html": "<h3>Coat: Weekly</h3><p>Run a rubber mitt or hound glove over the entire coat once per week. Work against the grain first to lift dead hair, then with the grain to smooth. This 5-minute task removes most loose hair and keeps the coat clean and glossy. Bathe every 6–8 weeks or as needed — hound breeds develop a characteristic scent over time that regular bathing manages effectively.</p><h3>Ears: Weekly Check</h3><p>The Harrier's pendant ears reduce ear canal airflow, creating conditions for bacterial and yeast infections. Lift each ear flap and inspect: a healthy ear is pale pink, odor-free, and has minimal light-colored wax. If you see redness, dark discharge, or smell an off odor — see your vet. For routine maintenance, wipe visible areas with a cotton ball dampened with ear cleaner. Do not insert anything into the ear canal. Dry ears thoroughly after swimming or bathing.</p>"
+    },
+    "special": {
+      "label": "Other Maintenance",
+      "heading": "Nails and Dental Care",
+      "html": "<p><strong>Nails:</strong> Trim monthly. Active dogs that run on hard surfaces wear nails down naturally; less active dogs need more frequent trimming. Clicking on hard floors is the signal to trim. Use standard dog nail clippers or a grinder — Harrier nails are not especially thick and are straightforward to maintain.</p><p><strong>Dental:</strong> Brush teeth 2–3 times weekly minimum. Start a dental routine early so the dog accepts it calmly as an adult. Regular home brushing is the most effective and affordable prevention for dental disease, reducing the frequency of professional cleanings needed.</p><p><strong>Eyes:</strong> Wipe the eye corners weekly with a damp cloth to remove any discharge. The slight hound eye droop common in the breed can accumulate discharge in the inner corner.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does a Harrier need grooming?",
+      "a": "Weekly coat wipe with a rubber mitt (5 minutes), weekly ear check, monthly nail trim, and a bath every 6–8 weeks. It's one of the most low-maintenance grooming profiles of any medium-large breed."
+    },
+    {
+      "q": "Do Harriers need professional grooming?",
+      "a": "Not for the coat — everything is manageable at home. You might visit a groomer occasionally for a bath if you prefer, but there's nothing a professional groomer can do for a Harrier coat that you can't easily do yourself."
+    }
+  ]
+}

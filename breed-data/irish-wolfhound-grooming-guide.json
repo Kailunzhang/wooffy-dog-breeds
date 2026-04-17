@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Irish Wolfhound Grooming Guide",
+    "slug": "irish-wolfhound-grooming-guide",
+    "shopify_handle": "irish-wolfhound-grooming-guide",
+    "group": "Irish Wolfhound",
+    "size_category": "Guide",
+    "tags": ["irish-wolfhound", "grooming", "wire-coat", "rough-coat", "giant-breed"],
+    "published": true,
+    "published_at": "2026-04-24T16:00:00Z",
+    "excerpt": "The Irish Wolfhound's rough, wiry coat is lower-maintenance than it looks — weekly brushing, attention to the beard, and occasional tidying keep it healthy and presentable on a giant dog.",
+    "meta_description": "Irish Wolfhound grooming guide: maintaining the rough wire coat, beard care, hand-stripping versus trimming, bathing a giant sighthound, and ear and nail care."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/%282%29_Irish_Wolfhound_4.jpg/250px-%282%29_Irish_Wolfhound_4.jpg",
+      "alt": "Irish Wolfhound grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Wire Coat",
+      "heading": "Understanding the Irish Wolfhound Coat",
+      "html": "<p>The Irish Wolfhound's coat is rough and wiry — harsh to the touch, with a harder outer coat and a softer undercoat layer. This texture provides weather resistance and is part of the breed standard. It does not need to be clipped or shaped like a terrier's coat; the goal is simply to keep it clean, mat-free, and tidy around the face and ears.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — for regular brushing and removing debris</li><li>Wide-tooth steel comb — for working through the beard, ears, and any denser areas</li><li>Stripping knife or thinning shears — for tidying the face, ears, and transition areas when needed</li><li>Nail grinder or heavy-duty clippers — giant-breed nails are thick</li><li>Dog-safe shampoo suitable for harsh/wire coats</li><li>High-velocity or stand dryer — useful for drying a dog this size efficiently</li></ul><h3>NEVER Shave the Coat</h3><p>The rough coat should not be clipped down. Clipping a wire coat softens the texture permanently — the harsh guard hairs are replaced by soft, cottony regrowth that mats more easily and loses weather resistance. If the coat becomes too thick, hand-stripping (pulling dead coat by hand or with a stripping knife) is the correct technique to maintain texture. Most Wolfhound owners find a light tidy every few months is sufficient to keep the coat at a practical length.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush through the entire coat with a slicker brush, working from head to tail and down each leg</li><li>Follow with a wide-tooth comb through the beard, ear fringes, and any areas prone to matting (armpits, collar area, groin)</li><li>Wipe and dry the beard — it gets food- and water-wet multiple times per day and can develop skin irritation or odor if left chronically damp</li><li>Check ears: lift each ear, inspect for odor, redness, or debris. Wipe with a cotton ball dampened with ear cleaner</li></ul><h3>Monthly</h3><ul><li>Bathe every 6–8 weeks or when dirty. Use a shampoo appropriate for harsh coats — moisturizing shampoos can soften the wire texture</li><li>Dry thoroughly after bathing. A dog this size retains moisture in the coat for hours. A stand dryer or high-velocity dryer speeds drying and helps remove any loose undercoat</li><li>Trim nails — giant-breed nails grow quickly and become uncomfortable if left too long. If you can hear the nails clicking on hard floors, they need attention</li><li>Tidy the face: use thinning shears to neaten the beard and eyebrow area if it's obscuring vision or becoming unkempt</li></ul><h3>Every 3–4 Months</h3><p>Some owners hand-strip or thin the outer coat to remove dead wire coat and keep overall length manageable. This is more involved but maintains coat texture correctly. If you prefer, a professional groomer experienced with wire-coated breeds can perform this. Communicate clearly that the coat should be stripped, not clipped.</p>"
+    },
+    "special": {
+      "label": "Giant-Breed Logistics",
+      "heading": "Grooming a Very Large Dog",
+      "html": "<p>Grooming an Irish Wolfhound is primarily a logistics challenge — the dog is large, and working efficiently around a dog this size takes practice. A grooming table rated for heavy dogs is extremely useful; bending over a standing Wolfhound for a full brushing session is hard on your back. A non-slip rubber mat on any grooming surface reduces anxiety and movement.</p><h3>Beard Management</h3><p>The beard is the highest-maintenance part of the Wolfhound coat. It gets wet at every meal and drink, and chronically wet skin folds can develop contact dermatitis or yeast. Dry the beard after meals with a towel, check weekly for redness or smell, and keep it trimmed short enough that it drains and dries reasonably quickly. Some owners use a small bowl stand to reduce the beard dragging through water bowls.</p><h3>Ear Care</h3><p>The pendant drop ears reduce airflow and can trap moisture. Check weekly — more frequently if the dog swims. A clean ear should have no odor and look pale pink. Any redness, brown discharge, or head-shaking warrants a vet visit. Clean monthly with a vet-approved ear cleaner on a cotton ball. Do not insert anything into the ear canal.</p><h3>Nail Care</h3><p>Giant-breed nails are thick and hard. A heavy-duty nail grinder or large-breed clipper is necessary. Nails that are too long affect gait, which is a particular concern in a giant breed with musculoskeletal health concerns. If your dog is uncomfortable with nail handling, build tolerance through daily paw handling from puppyhood and use high-value treats throughout the process.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does an Irish Wolfhound need grooming?",
+      "a": "Weekly brushing with a slicker brush and comb is the baseline, with particular attention to the beard and ear fringes. Bathing every 6–8 weeks, nail trimming monthly, and a light coat tidy every few months is typical. It's less intensive than a heavily coated breed like a Bichon, but more than a short-coated breed."
+    },
+    {
+      "q": "Can I take my Irish Wolfhound to a regular groomer?",
+      "a": "Yes, but specify that the coat should not be clipped — only brushed, bathed, and hand-stripped or tidied with thinning shears. A groomer unfamiliar with wire-coated breeds may default to clipping, which softens the coat texture permanently. Look for a groomer who has experience with wire-coated sighthounds or terriers."
+    },
+    {
+      "q": "What do I do about the beard smell?",
+      "a": "The beard gets wet constantly from food and water and can develop a sour or yeasty odor if not maintained. Towel-dry after meals, check weekly for skin redness, and keep the beard trimmed short enough to dry reasonably quickly. If the odor persists despite maintenance, or if you see redness or irritation, check with your vet — it may be a skin fold dermatitis requiring treatment."
+    }
+  ]
+}

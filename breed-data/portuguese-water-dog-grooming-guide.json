@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Portuguese Water Dog",
+    "shopify_handle": "portuguese-water-dog-grooming-guide",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-18T16:00:00Z",
+    "name": "Portuguese Water Dog Grooming Guide: Curly Coat Care and Trims",
+    "slug": "portuguese-water-dog-grooming-guide",
+    "excerpt": "How to maintain a Portuguese Water Dog's curly or wavy coat — including professional trim schedules, the lion clip vs. retriever clip, and at-home brushing routines.",
+    "meta_description": "How to maintain a Portuguese Water Dog's curly or wavy coat — including professional trim schedules, the lion clip vs. retriever clip, and at-home brushing routines.",
+    "tags": [
+      "Portuguese Water Dog",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/C%C3%A3o_de_agua_Portugu%C3%AAs_2.jpg/330px-C%C3%A3o_de_agua_Portugu%C3%AAs_2.jpg",
+      "alt": "Portuguese Water Dog"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "The Coat",
+      "heading": "Understanding the Portuguese Water Dog's Non-Shedding Coat",
+      "html": "<p>The Portuguese Water Dog has a single-layer coat — no undercoat — that is either curly or wavy. Because there is no undercoat to shed seasonally, loose hairs tend to tangle back into the coat rather than falling to the floor. This is why the breed is often described as low-shedding or hypoallergenic. In practice, it means less fur on your furniture, but more active grooming effort to prevent matting.</p><p>Left ungroomed, the curly coat will mat tightly against the skin within weeks. Regular brushing and professional trimming every 6–8 weeks are not optional for this breed — they are basic coat health maintenance.</p><h3>Basic Grooming Schedule</h3><ul><li><strong>Brushing:</strong> 3–4 times per week minimum; daily for curly-coated dogs or when the coat is longer</li><li><strong>Professional trim:</strong> Every 6–8 weeks</li><li><strong>Bathing:</strong> Every 3–4 weeks, or as needed</li><li><strong>Nail trimming:</strong> Every 3–4 weeks</li><li><strong>Ear cleaning:</strong> Weekly — hair grows inside the ear canal and must be managed</li><li><strong>Teeth brushing:</strong> Ideally daily; minimum 3 times per week</li></ul>"
+    },
+    "care": {
+      "label": "Brushing and Ear Care",
+      "heading": "At-Home Grooming for a Portuguese Water Dog",
+      "html": "<h3>Brushing the Curly or Wavy Coat</h3><p>Use a slicker brush for daily maintenance and a wide-tooth comb to check for mats at the skin level. Part the coat in sections and work from the skin outward — if you only brush the surface, mats will form underneath against the skin. Pay extra attention to friction areas: behind the ears, under the armpits, collar area, and behind the elbows. These areas mat first.</p><h3>Ear Care Is Critical</h3><p>Portuguese Water Dogs grow hair inside the ear canal, which traps moisture and debris and significantly increases the risk of ear infections — especially in a breed that loves swimming. Clean the ears weekly with a veterinarian-approved ear cleaner. Your groomer should remove excess hair from the ear canal at each professional appointment. If you notice head shaking, scratching at ears, or odor, see your vet — ear infections are common and need prompt treatment.</p><h3>After Swimming</h3><p>The PWD's water-loving nature means wet ears after swimming are a regular occurrence. Dry the ear flaps and wipe just inside the ear opening after every swim. Do not allow water to sit in the ear canal — this is a primary cause of otitis externa (ear infection) in this breed.</p>"
+    },
+    "special": {
+      "label": "Professional Trims",
+      "heading": "The Lion Clip vs. the Retriever Clip",
+      "html": "<h3>The Two Traditional Trims</h3><p>Portuguese Water Dogs have two traditional clip styles associated with the breed, both originally functional for fishing work in Portugal.</p><p><strong>The Lion Clip:</strong> The hindquarters, muzzle, and flanks are clipped short, while the front of the body, head, and tail tip are left at full length. This is the traditional working clip. It is striking-looking but requires more skill from the groomer to execute well.</p><p><strong>The Retriever Clip (or Working Clip):</strong> The entire coat is trimmed to a uniform length of 1–1.5 inches all over. This is the more practical choice for most pet owners — easier to maintain at home between appointments and less dramatic when regrowth is uneven. Most PWD owners use the retriever clip.</p><h3>Grooming Costs</h3><p>Professional grooming every 6–8 weeks costs approximately $60–$100 per appointment, totaling $450–$800 per year. Curly coats that are not brushed between appointments will require more dematting time at the groomer — which increases cost and is uncomfortable for the dog. Regular at-home brushing keeps professional appointments efficient.</p><h3>What Happens If You Delay Grooming</h3><p>A PWD coat that is not trimmed for 3+ months will develop mats that may require a full shave-down to resolve. Shave-downs are not harmful, but the dog is left with very short fur and the coat takes months to grow back. Staying on the 6–8 week schedule is far easier and more comfortable for the dog.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Are Portuguese Water Dogs truly non-shedding?",
+      "a": "They shed minimally compared to most breeds because they have a single-layer coat with no heavy undercoat. Loose hairs tend to tangle back into the coat rather than falling to the floor. However, they are not zero-shedding, and people with severe dog allergies may still react. The coat does require more active grooming effort to prevent matting in exchange for the reduced shedding."
+    },
+    {
+      "q": "How often does a Portuguese Water Dog need professional grooming?",
+      "a": "Every 6–8 weeks. This is a firm schedule — longer than 8 weeks without a trim and the coat develops mats that are difficult to brush out. Most owners use the retriever clip (uniform short coat all over), which is the most practical for home maintenance between professional appointments."
+    },
+    {
+      "q": "Why does my Portuguese Water Dog keep getting ear infections?",
+      "a": "PWDs are prone to ear infections for two reasons: they grow hair inside the ear canal, and they love water. Both factors trap moisture and debris. Clean the ears weekly, have your groomer remove excess ear canal hair at every appointment, and dry the ears thoroughly after every swimming session. Persistent or recurring infections should be evaluated by a vet — chronic ear problems can indicate underlying allergies."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Silky Terrier First Year Costs",
+    "slug": "silky-terrier-first-year-costs",
+    "shopify_handle": "silky-terrier-first-year-costs",
+    "group": "Silky Terrier",
+    "size_category": "Guide",
+    "tags": ["silky-terrier", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-05-01T16:00:00Z",
+    "excerpt": "Budgeting for a Silky Terrier? First-year costs include the puppy price, setup supplies, vet care, and frequent grooming appointments. Here's what to expect.",
+    "meta_description": "Silky Terrier first year costs breakdown: puppy price, vet bills, grooming, food, and supplies — full budget guide for new owners."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Silky_Terrier_600.jpg/330px-Silky_Terrier_600.jpg",
+      "alt": "Silky Terrier costs"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "What You'll Spend Before Your Silky Terrier Comes Home",
+      "html": "<p><strong>Puppy Price:</strong> Silky Terrier puppies from health-tested, reputable breeders typically cost $1,200–$2,500. Champion-line show puppies can exceed this. Rescue adoption fees are $150–$400.</p><p><strong>Initial Supplies:</strong> Budget $200–$400 for a crate, dog bed, food and water bowls, collar, harness, leash, ID tag, puppy-safe toys, and grooming tools (pin brush, metal comb, detangling spray).</p><p><strong>Spay/Neuter:</strong> If not already done by the breeder, expect $200–$500 depending on your location and veterinary practice.</p><p><strong>First Vet Visit:</strong> An initial wellness exam, vaccine series, fecal test, and heartworm prevention setup typically run $250–$450 in the first few months.</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Ongoing Costs Through the First 12 Months",
+      "html": "<p><strong>Food:</strong> A high-quality small-breed dry food costs $30–$55 per month for a Silky Terrier, totaling approximately $360–$660 for the year.</p><p><strong>Grooming:</strong> Professional grooming every 6–8 weeks costs $50–$90 per session, totaling $350–$780 for the year. Home grooming tools (brushes, combs, shampoo, conditioner) add another $50–$100 initially.</p><p><strong>Veterinary Care:</strong> Routine wellness visits, boosters, heartworm prevention, and flea/tick prevention add up to $400–$700 for the first year. Pet insurance ($30–$60/month) can offset unexpected illness or injury costs.</p><p><strong>Training:</strong> A puppy obedience class runs $100–$250 for a 6-week course. Silky Terriers benefit from early training for leash manners and managing their vocal tendencies.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Annual Costs Going Forward",
+      "html": "<p><strong>Estimated First Year Total:</strong> $3,000–$6,000 including the puppy purchase price, setup, and all first-year expenses. Rescue owners will fall toward the lower end of this range.</p><p><strong>Annual Costs After Year One:</strong> Expect $1,500–$2,800 per year for food, routine vet care, grooming, toys, and supplies. This does not account for unexpected veterinary costs, which is why pet insurance is strongly recommended.</p><p><strong>Lifetime Cost Estimate:</strong> Over a 13–15 year lifespan, total ownership costs commonly range from $20,000–$40,000 depending on health, grooming choices, and geographic location.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Silky Terrier expensive to maintain?",
+      "a": "Moderately so. The main ongoing cost driver is professional grooming, which is needed every 6–8 weeks due to the breed's continuously growing coat. Food costs are low given the small size, but grooming keeps annual expenses meaningful."
+    },
+    {
+      "q": "Can I groom my Silky Terrier at home to save money?",
+      "a": "Yes, with practice. Investing in quality grooming tools and learning basic scissoring techniques can reduce professional grooming frequency to every 3–4 months, saving several hundred dollars per year. Daily brushing at home is still essential regardless."
+    }
+  ]
+}

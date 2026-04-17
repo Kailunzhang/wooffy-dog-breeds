@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Bearded Collie First Year Costs",
+    "slug": "bearded-collie-first-year-costs",
+    "shopify_handle": "bearded-collie-first-year-costs",
+    "group": "Bearded Collie",
+    "size_category": "Guide",
+    "tags": ["bearded-collie", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-05-03T16:00:00Z",
+    "excerpt": "Owning a Bearded Collie involves significant upfront and ongoing costs. This guide breaks down everything from the purchase price to food, grooming, and veterinary care in the first year.",
+    "meta_description": "Bearded Collie first year cost breakdown: puppy price, vet bills, grooming, food, and supplies. Budget $3,500–$5,500 for year one."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bearded_Collie_laying.jpg/330px-Bearded_Collie_laying.jpg",
+      "alt": "Bearded Collie first year costs"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "What You'll Spend Before Your Beardie Comes Home",
+      "html": "<p>The Bearded Collie is not among the most common herding breeds, which means reputable breeders are selective and puppy prices reflect both the rarity and the investment made in health testing. Here's what to budget before your Beardie even arrives home.</p><ul><li><strong>Puppy Purchase Price:</strong> $1,500–$2,500 from a reputable breeder. Show-quality puppies can reach $3,000+. Rescue adoption fees are typically $200–$500.</li><li><strong>Crate (appropriately sized):</strong> $60–$120 for a quality wire or travel crate</li><li><strong>Dog bed or bedding:</strong> $40–$100</li><li><strong>Food and water bowls:</strong> $20–$50 (stainless steel recommended)</li><li><strong>Collar, ID tag, and leash:</strong> $30–$60</li><li><strong>Initial grooming kit</strong> (pin brush, slicker, metal comb, detangling spray): $80–$150</li><li><strong>Baby gates or exercise pen:</strong> $40–$100</li><li><strong>Starter toys and chews:</strong> $40–$80</li><li><strong>Initial vet visit and puppy exam:</strong> $75–$150</li></ul><p><strong>Estimated Upfront Total: $1,985–$3,310</strong> (including puppy purchase from a breeder)</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Ongoing Monthly and Quarterly Costs in Year One",
+      "html": "<p>After the initial purchases, recurring costs make up the bulk of first-year spending. The Bearded Collie's grooming needs and predisposition to certain health conditions are the main cost drivers beyond the basics.</p><ul><li><strong>Puppy vaccinations series:</strong> $150–$300 (series of 3–4 visits in the first 16 weeks)</li><li><strong>Spay/neuter surgery:</strong> $250–$600 depending on sex and location</li><li><strong>Heartworm, flea, and tick prevention:</strong> $150–$300 for the year</li><li><strong>Annual wellness exam (adult):</strong> $75–$150</li><li><strong>Dog food (quality kibble or fresh):</strong> $600–$900/year ($50–$75/month)</li><li><strong>Treats:</strong> $100–$200/year</li><li><strong>Professional grooming visits</strong> (every 8–10 weeks): $80–$150 per visit, $480–$900/year for 6 visits</li><li><strong>Training classes (puppy and basic obedience):</strong> $150–$400 for group classes</li><li><strong>Pet insurance:</strong> $40–$80/month = $480–$960/year (highly recommended for this breed)</li><li><strong>Toys, replacements, and enrichment items:</strong> $100–$200/year</li><li><strong>Boarding or pet sitting</strong> (estimate 1–2 weeks/year): $300–$600</li></ul><p><strong>Estimated Recurring Year-One Total: $2,835–$5,310</strong></p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "Total First Year and Long-Term Cost Projections",
+      "html": "<p><strong>Total First Year Estimate: $3,500–$5,500</strong> (wide range depending on breeder vs. rescue, grooming choices, and whether any health issues arise)</p><p>After the first year, annual costs typically settle in the range of <strong>$2,000–$3,500</strong>, with the major variables being grooming (home vs. professional), veterinary care, and pet insurance premiums.</p><p><strong>Potential Additional Costs to Plan For:</strong></p><ul><li><strong>Addison's disease management</strong> (if diagnosed): $150–$300/month for medication and monitoring. This is the most significant potential health cost unique to Beardies.</li><li><strong>Hip dysplasia treatment:</strong> $3,000–$7,000+ per hip for surgical correction if needed</li><li><strong>Dental cleaning</strong> (professional, under anesthesia): $400–$800 every 1–3 years</li><li><strong>Emergency vet fund:</strong> Budget $1,000–$3,000 in savings or rely on comprehensive pet insurance</li></ul><p><strong>Lifetime Cost Estimate (12–14 years):</strong> $28,000–$50,000+, depending heavily on health issues and lifestyle choices. Pet insurance significantly reduces financial risk from unexpected medical expenses.</p><p>The Bearded Collie is a moderately expensive breed to own largely due to grooming requirements and the potential for Addison's disease. Budgeting carefully and investing in pet insurance from puppyhood are the two most important financial decisions a Beardie owner can make.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is pet insurance worth it for a Bearded Collie?",
+      "a": "Yes, pet insurance is strongly recommended for Bearded Collies given the breed's elevated risk for Addison's disease, which requires lifelong medication, and potential for other autoimmune conditions. A comprehensive policy costing $40–$80/month can save thousands if these conditions develop."
+    },
+    {
+      "q": "How much does it cost to groom a Bearded Collie professionally?",
+      "a": "Professional grooming for a Bearded Collie typically costs $80–$150 per visit depending on coat condition, location, and the services included (bath, blow-dry, brush-out, trim). Budget for approximately 5–6 professional grooming visits per year alongside regular at-home brushing."
+    },
+    {
+      "q": "Is it cheaper to adopt a Bearded Collie from rescue?",
+      "a": "Yes, rescue adoption fees of $200–$500 are far lower than breeder puppy prices of $1,500–$2,500. However, rescue dogs still require the same ongoing food, grooming, veterinary, and insurance costs. Rescues often provide dogs that are already spayed/neutered and vaccinated, which reduces first-year vet costs."
+    }
+  ]
+}

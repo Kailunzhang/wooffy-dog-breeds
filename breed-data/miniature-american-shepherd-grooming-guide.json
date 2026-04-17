@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Miniature American Shepherd Grooming Guide",
+    "slug": "miniature-american-shepherd-grooming-guide",
+    "shopify_handle": "miniature-american-shepherd-grooming-guide",
+    "group": "Miniature American Shepherd",
+    "size_category": "Guide",
+    "tags": ["miniature-american-shepherd", "grooming", "double-coat", "feathering", "shedding"],
+    "published": true,
+    "published_at": "2026-04-21T16:00:00Z",
+    "excerpt": "The Miniature American Shepherd's medium double coat with feathering requires consistent 2–3 times per week brushing. The legs and ears need the most attention — here's how to manage them.",
+    "meta_description": "Miniature American Shepherd grooming guide: double coat maintenance, feathering care on legs and ears, coat blow season, and tools for maintaining a manageable but active herding dog coat."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blue_Merle_Miniature_American_Shepherd_in_Grass.jpg/330px-Blue_Merle_Miniature_American_Shepherd_in_Grass.jpg",
+      "alt": "Miniature American Shepherd grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The MAS Coat",
+      "heading": "Understanding the Miniature American Shepherd Double Coat",
+      "html": "<p>The Miniature American Shepherd has a medium-length double coat: a dense undercoat beneath a straight-to-slightly-wavy outer coat, with moderate feathering on the backs of the legs, behind the ears, and on the chest. This coat type is more manageable than the full coat of an Australian Shepherd, but it still requires regular attention to prevent tangles in the feathered areas. The coat sheds moderately year-round with two seasonal coat blows.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — primary maintenance tool</li><li>Undercoat rake — for regular undercoat removal and essential during coat blows</li><li>Wide-tooth steel comb — for checking feathering and confirming tangle-free coat to the skin</li><li>Pin brush — useful for the longer feathered areas</li><li>Dog-safe shampoo and conditioner</li></ul><h3>Feathering: The Attention Areas</h3><p>The feathering on the backs of the legs and behind the ears is the most mat-prone area of the MAS coat. These long, fine hairs tangle readily — particularly after outdoor activity in brush or long grass. Check and brush these areas specifically at every session.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Grooming Routine: 2–3 Times Per Week",
+      "html": "<h3>Regular Sessions (2–3 Times Per Week)</h3><ul><li>Brush through the full body coat with a slicker brush, section by section from skin outward</li><li>Use the undercoat rake through the body coat to pull out loose undercoat</li><li>Brush the leg feathering with the pin brush — work from the base of the feathering outward, checking for tangles</li><li>Check behind the ears — feathering here mats quickly and is a frequent problem area in this breed</li><li>Finish with a steel comb through all feathered areas to confirm tangle-free to the skin</li><li>Check ears for debris or odor; wipe with ear cleaning solution</li><li>Check paw pads for debris or grass seeds — active outdoor dogs need regular paw checks</li></ul><h3>Monthly</h3><ul><li>Bathe every 6–8 weeks. Use a conditioner to reduce post-bath tangles in the feathering</li><li>Dry thoroughly — the medium-length coat holds more moisture than a short coat</li><li>Trim nails monthly</li></ul><h3>Coat Blow Season (Twice Per Year)</h3><p>MAS blow their undercoat twice yearly. Daily brushing during this 2–3 week period is required. A deshedding bath session removes the majority of releasing undercoat efficiently and shortens the blow period.</p>"
+    },
+    "special": {
+      "label": "Active Dog Coat Considerations",
+      "heading": "Grooming an Athletic, Outdoor Herding Dog",
+      "html": "<p>The Miniature American Shepherd is a highly active, agility-capable breed that spends significant time outdoors. Their coat picks up debris readily, and post-exercise coat checks are a practical maintenance habit.</p><h3>Post-Exercise Coat Checks</h3><ul><li>Run hands through the coat after outdoor sessions in long grass or brush — grass seeds target the feathering and skin folds</li><li>Check between toes and in the ear feathering specifically — grass seeds penetrate these areas and cause abscesses if missed</li><li>Check paw pads for cuts or embedded debris after rough terrain exercise</li></ul><h3>Ear Feathering Mat Prevention</h3><p>The ear feathering is a chronic problem area for MAS. This hair is fine, grows in multiple directions, and mats rapidly without regular attention. A light application of detangling spray to the dry ear feathering before brushing significantly reduces breakage and makes comb-through easier. Check this area at every grooming session — a mat forming behind the ear is very easy to miss until it's well established.</p><h3>Managing Coat Across Life Stages</h3><p>MAS coat texture can change slightly with age and hormonal status. Intact females often have richer, longer feathering; spayed females may see some coat texture change. Coat texture naturally develops fully around 18–24 months — the puppy coat is softer and less feathered than the adult coat.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often should I groom my Miniature American Shepherd?",
+      "a": "Brush 2–3 times per week to prevent tangle formation in the feathering, with daily brushing during seasonal coat blows. Bathe every 6–8 weeks. Active outdoor dogs may need more frequent paw checks and coat inspections for debris. The coat is more manageable than a full Australian Shepherd, but consistent attention to the feathered areas is required."
+    },
+    {
+      "q": "Where do Miniature American Shepherds mat most?",
+      "a": "Behind the ears and on the backs of the legs — these are the highest-mat-risk areas due to fine feathering that tangles readily. Check these areas specifically at every grooming session. A steel comb at the end of each session, worked through the feathering, confirms the coat is tangle-free to the skin."
+    },
+    {
+      "q": "Do Miniature American Shepherds need professional grooming?",
+      "a": "Not necessarily — owners who maintain consistent 2–3 times per week brushing at home can manage the coat entirely without professional help. Many owners choose professional deshedding appointments during coat blow season to reduce the home burden. The MAS coat does not require trimming or shaping in the way that groomed breeds do — just maintenance brushing, occasional baths, and coat blow management."
+    }
+  ]
+}

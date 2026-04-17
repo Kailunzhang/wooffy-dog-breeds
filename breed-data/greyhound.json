@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "name": "Greyhound",
+    "slug": "greyhound",
+    "shopify_handle": "greyhound",
+    "group": "Hound Group",
+    "size_category": "Large Breed",
+    "tagline": "The world's fastest dog spends 18 hours a day on the couch — and turns out to be one of the best apartment dogs you can own.",
+    "tags": [
+      "hound-group",
+      "large-breed",
+      "sighthounds",
+      "low-energy-indoors",
+      "dog-breeds"
+    ],
+    "published": true,
+    "published_at": "2026-04-14T01:00:00Z",
+    "excerpt": "Greyhounds are the great misconception of the dog world: built for 45 mph but content with a quiet apartment and a couple of daily walks. If you're open to adopting a retired racer, you may find the easiest large dog you've ever owned.",
+    "meta_description": "Greyhound owner's guide: temperament, exercise needs, health issues, adoption from racing rescue, costs, and whether a Greyhound fits your home and lifestyle."
+  },
+  "stats": {
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "60–70 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "30–45 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "With guidance"
+    }
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/GraceTheGreyhound.jpg",
+      "alt": "Greyhound"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Greyhound?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Greyhounds are the oldest purebred dog type in recorded history — depicted in Egyptian tomb paintings and mentioned in Greek literature. They were built for one purpose: explosive short-distance speed. A Greyhound can hit 45 mph in three strides. They are, by almost any measure, the most aerodynamically efficient land animal on earth relative to their body size.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">And then they come home and sleep for 18 hours. This is the great paradox of the breed, and it's the reason Greyhounds work in apartments and smaller homes in a way that surprises everyone who expects an endurance athlete. They sprint, and then they're done. Their \"off\" switch is remarkably well developed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Most Greyhounds available for adoption are retired racing dogs — typically 2–5 years old, already leash-trained, crate-trained, and mannerly. Greyhound adoption organizations have refined the transition process to the point where it's genuinely smooth for most families.</p>"
+    },
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Greyhounds Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Greyhound's physique is unmistakable: a narrow, aerodynamic head, deep chest, tucked abdomen, long muscular legs, and a lean, almost architectural body. Their skin is thin and their coat is short, smooth, and comes in nearly every color — fawn, brindle, black, blue, white, red, and combinations of each.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They have almost no body fat, which matters practically: they get cold easily and need a coat in winter, and they can't lie on hard surfaces for long without pressure sores. A good dog bed isn't optional — it's a health requirement for a dog with this little padding. They look elegant and delicate, but their muscle mass is extraordinary. Pick one up and you'll be surprised how heavy 65 lbs of pure muscle actually feels.</p>"
+    },
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Greyhounds are gentle, quiet, and surprisingly sensitive. They tend to be reserved with strangers but not fearful, and they warm up steadily over weeks and months. They're not the effusive, tail-whacking greeters that Labradors are — they're more dignified about affection, but it's real when it comes. Many Greyhound owners describe them as cat-like in their self-possession.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The two temperament traits that matter most practically: they have a strong prey drive, and they're sensitive to harsh handling. Sighthounds chase moving things — small dogs, cats, squirrels, cyclists. Whether a particular Greyhound can live with cats requires an individual assessment; many do fine, many don't. Responsible adoption organizations test this before placement.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They respond to calm, positive handling and do not do well with corrections or raised voices. They're not the most obedient breed — they'll look at you when you call, consider it, and decide based on what else is happening — but they're manageable and not difficult to live with.</p>"
+    },
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Greyhound",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Greyhound is one of the most underrated breeds for people who want a large, calm dog that doesn't need two hours of exercise a day. Two good walks and a couple of brief off-leash sprints in a securely fenced space are genuinely enough. They're quiet — not prone to barking. They don't chew things compulsively. They don't demand constant stimulation. They'll just be there with you, which is its own kind of wonderful.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The non-negotiable: you cannot let a Greyhound off-leash outside of a fully enclosed area. Their prey drive and speed together mean that once they spot something and run, they're gone — and they have no road sense. This is not trainable away. Every single Greyhound owner will tell you this. It's fencing or a leash, always, outside.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The other thing worth knowing: retired racers have often never climbed stairs, seen a mirror, been in a house, or navigated a slippery floor. The first few weeks involve a lot of \"this dog has never encountered a glass door\" moments. It's actually charming, and the adoption organizations prepare you for it. Within a month, most Greyhounds settle in as if they've always lived there.</p>"
+    },
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Two 20-minute walks daily, plus the opportunity to sprint in a safely fenced area a few times per week. That's genuinely it. They're sprinters, not endurance athletes — a 5-mile run would exhaust and stress them in a way a quick burst doesn't. Never exercise heavily in heat; their thin skin and low body fat make them vulnerable to overheating.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Brushing:</strong> Once a week with a soft brush or grooming mitt — minimal shedding</li><li><strong style=\"color:#1a1a1a;\">Bathing:</strong> Every 6–8 weeks; they're naturally low-odor</li><li><strong style=\"color:#1a1a1a;\">Teeth:</strong> Daily brushing recommended — Greyhounds are prone to dental disease</li><li><strong style=\"color:#1a1a1a;\">Nails:</strong> Every 3–4 weeks; nails grow fast on athletic breeds</li><li><strong style=\"color:#1a1a1a;\">Winter coat:</strong> Required in cold climates — they have no insulating undercoat</li></ul><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Sleeping</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">A thick, padded dog bed is a genuine health requirement — not a luxury. Without adequate padding, their bony prominences develop pressure sores quickly. Many Greyhound owners use orthopedic foam beds or even a dedicated couch spot.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:20px 0 0 0;\">I put together a <a href=\"/blogs/dog-breeds/greyhound-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">full Greyhound grooming guide</a> with the specific tools and routine that work best for this coat type.</p>"
+    },
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Greyhounds are one of the healthier large breeds — they don't have the hip dysplasia prevalence of Labradors or the cardiac issues of Cavaliers. Their structural health vulnerabilities are specific and largely manageable.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;width:30%;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What to Know</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Dental Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The #1 health issue in the breed. Greyhounds have crowded, thin-enameled teeth that develop tartar and periodontal disease unusually fast. Daily brushing and professional cleanings every 1–2 years are standard for this breed.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Anesthesia Sensitivity</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Critical: Greyhounds metabolize barbiturate-based anesthetics differently due to low body fat and liver enzyme differences. Any vet treating your Greyhound must know this. Most use propofol-based protocols instead. Inform every vet and emergency clinic.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Bloat (GDV)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Deep-chested breeds are at higher risk. Feed two meals daily, avoid exercise 1–2 hours before and after eating, and know the symptoms: distended abdomen, unproductive retching, restlessness. GDV is a surgical emergency.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Osteosarcoma</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Bone cancer affects large breeds at higher rates. Greyhounds are not more prone than other large breeds, but it's worth knowing in the context of any limb lameness in older dogs.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Pressure Sores</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Result from lying on hard surfaces. Preventable with adequate bedding. Check elbows and hips regularly.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Important:</strong> Always carry a card noting Greyhound anesthesia sensitivity to any veterinary appointment.</p>"
+    },
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Most Greyhounds are adopted through rescue at $250–$450, which typically includes spay/neuter, vaccinations, heartworm test, and a basic health check. Breeder puppies (show/companion lines) run $1,500–$2,500 but are much less common. Dental care is the primary ongoing health cost to budget for.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Adoption / Puppy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$250–$450 / $1,500–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + dental)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Bedding (quality required)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$100–$200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$50–$100</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$800</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,000–$3,500+</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,600–$2,700</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;line-height:1.6;\">See the <a href=\"/blogs/dog-breeds/greyhound-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Greyhound first-year cost breakdown</a> with real numbers before you commit.</p>"
+    },
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Greyhound Right for You?",
+      "good_fit": [
+        "Want a large, calm dog that doesn't need intense daily exercise",
+        "Live in an apartment or home without a big yard",
+        "Open to adopting an adult dog from a racing rescue",
+        "Appreciate a gentle, quiet, dignified companion",
+        "Can commit to dental care and safe fencing"
+      ],
+      "not_fit": [
+        "Want a dog you can let off-leash in an open area",
+        "Have small pets (cats, rabbits) without careful introduction",
+        "Want an enthusiastically obedient, high-energy working partner",
+        "Can't provide adequate soft bedding and winter warmth",
+        "Need a dog comfortable with rough handling or loud environments"
+      ]
+    },
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Greyhound",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Adoption from Racing Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The vast majority of Greyhound adoptions come through National Greyhound Adoption Program (NGAP), Greyhound Pets of America (GPA), and regional rescue groups. Adoption fees of $250–$450 typically include neuter/spay, vaccinations, heartworm treatment if needed, and a health exam. These organizations also assess each dog's compatibility with cats and children before placement — which matters a lot with a breed that has a strong prey drive.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Companion-bred (non-racing) Greyhound puppies do exist but are uncommon. Expect $1,500–$2,500 and a wait. The Greyhound Club of America can provide referrals. Health testing expectations include cardiac evaluation and thyroid testing. For most people, rescue is the better path — you get an adult dog with a known personality, already past the chaotic puppy stage.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before you put down a deposit, go through the <a href=\"/blogs/dog-breeds/greyhound-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Greyhound puppy checklist</a> — it covers what to have ready before they arrive.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Can Greyhounds live in apartments?",
+      "a": "Yes — they're genuinely excellent apartment dogs despite their size, which surprises almost everyone. They sleep 16–18 hours a day, don't bark much, and don't pace or need constant stimulation. The main requirement is two decent walks a day and access to a securely fenced area for occasional sprinting. No yard required."
+    },
+    {
+      "q": "Why can't Greyhounds be off-leash?",
+      "a": "Two reasons: prey drive and speed. When a Greyhound sees something move — a squirrel, a cyclist, a distant dog — a hardwired chase response activates. At 45 mph, they're across a road and out of sight in seconds. There's no reliably training this away in an uncontrolled environment. Every Greyhound owner will tell you this is the one absolute rule: leash or fence, always. It's not negotiable."
+    },
+    {
+      "q": "Are Greyhounds good with kids?",
+      "a": "Generally yes, with some considerations. They're gentle and not aggressive, but they're sensitive and can be overwhelmed by very loud or chaotic young children. They also move fast enough to knock over a toddler by accident. With school-age kids who've been taught to interact calmly, they're typically excellent. Very young children require supervision and taught boundaries."
+    },
+    {
+      "q": "What's special about Greyhound anesthesia?",
+      "a": "Greyhounds lack the body fat that other dogs use to metabolize barbiturate-based anesthetics (like thiopental), which means standard doses can be fatal. They also have different liver enzyme levels. Any vet treating your Greyhound must know this — most sighthound-aware vets use propofol-based protocols instead. Carry a card in your dog's vet file and mention it at every appointment, including emergencies."
+    }
+  ],
+  "related_breeds": [
+    {
+      "name": "Whippet",
+      "slug": "whippet",
+      "note": "Smaller version, equally gentle and low-maintenance indoors"
+    },
+    {
+      "name": "Italian Greyhound",
+      "slug": "italian-greyhound",
+      "note": "Toy-sized sighthound, similar temperament, more fragile"
+    },
+    {
+      "name": "Saluki",
+      "slug": "saluki",
+      "note": "Similar sighthound family, more aloof, higher endurance"
+    }
+  ]
+}

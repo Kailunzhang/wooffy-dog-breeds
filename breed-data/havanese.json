@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "name": "Havanese",
+    "slug": "havanese",
+    "shopify_handle": "havanese",
+    "group": "Toy Group",
+    "size_category": "Small Breed",
+    "tagline": "The Havanese is Cuba's national dog and one of the best all-around small-breed companions available — sociable, trainable, low-shedding, and genuinely cheerful. They are also velcro dogs with a real separation anxiety tendency and spinal vulnerability worth knowing about.",
+    "tags": ["toy-group", "small-breed", "low-shedding", "apartment-friendly", "easy-training", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "excerpt": "Havanese are sociable, cheerful, and easy to train — genuinely one of the better small companion breeds. They're also velcro dogs prone to separation anxiety, and their chondrodysplastic build means IVDD awareness and jump management are real considerations.",
+    "meta_description": "Havanese breed guide: sociable temperament, IVDD prevention, PRA and deafness screening, separation anxiety management, grooming options, and first-year costs."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Toy" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "7–13 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "14–16 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "30–45 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Easy" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/A_Havanese_judging.jpg/330px-A_Havanese_judging.jpg",
+      "alt": "Havanese"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Havanese?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Havanese is Cuba's only native breed, descended from the Blanquito de la Habana — a small bichon-type dog brought to Cuba by Spanish settlers and developed in Havana's aristocratic households. When many Cuban families fled to the United States following the revolution in 1959, they brought their dogs with them. The US breed population descends largely from those dogs. The Havanese was recognized by the AKC in 1996 and has been climbing in popularity since — consistently landing in the top 25 most registered breeds.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">What has driven that popularity is legitimate. Havanese are genuinely easy to live with. They are trainable, sociable with people and other animals, adaptable to apartment life, low-shedding, long-lived, and cheerful without being frantic. They are one of the most consistently recommended small breeds for city dwellers and first-time dog owners.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The honest trade-offs: they are velcro dogs that struggle with long periods of isolation, their long coat requires significant maintenance, and their chondrodysplastic (short-legged, long-backed) build creates IVDD risk that requires some management around jumping and stairs.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Havanese Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Small and sturdy, weighing 7–13 lbs and standing 8.5–11.5 inches at the shoulder. The build is slightly longer than tall with a characteristic springy, buoyant gait. The coat is long, silky, and slightly wavy — it flows freely and comes in virtually every color and pattern imaginable. The double coat is low-shedding, making this a reasonable choice for people who want to reduce dog hair in their home.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The Havanese face is gentle and expressive with large, dark eyes and a moderate muzzle. They are not brachycephalic (flat-faced), which is a meaningful health advantage over other toy companions. The coat, if kept long, often develops into soft cords — a distinctive look called the \"corded\" Havanese — through natural matting that is then separated and maintained.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Sociable, cheerful, and people-oriented to a degree that is one of the breed's defining characteristics. Havanese want to be with their people — not nearby, but on or next to them. They are classic velcro dogs. This makes them wonderful companions and deeply rewarding to live with. It also means they do not handle being left alone for long periods well.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Training is one of this breed's genuine strengths. Havanese are eager to please, food-motivated, and responsive to positive reinforcement. They excel at tricks, dog sports, and any activity that involves working with their person. They are not independent thinkers in the way terriers are — they genuinely want to do what you want them to do.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With other animals: generally excellent. Havanese are social with other dogs and typically coexist well with cats. With children: very good — they are more robust than many toy breeds, patient, and playful. Their moderate size (up to 13 lbs) means they are less fragile than very small toys, though young children should still be supervised.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Havanese",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Havanese is one of the genuinely easy recommendations in the small-breed category. They hit a lot of marks — manageable size, low shedding, excellent temperament with children and strangers, real trainability, long lifespan. For a city apartment or a busy household that wants a small companion, it's hard to argue against them.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The separation anxiety consideration is real and worth managing proactively from puppyhood. Build planned alone time into the early routine so the dog learns that your departures are temporary and non-eventful. A Havanese that has never been left alone develops much more severe anxiety than one conditioned to short separations from puppyhood.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">On the IVDD front: this is about management, not diagnosis. The Havanese's chondrodysplastic build (shortened limbs relative to body length) creates the same spinal vulnerability as Dachshunds — just less severe. Ramps to furniture, no jumping from heights, no roughhousing that involves twisting the back. Most Havanese never have a spinal event, but being aware and preventing the worst-case scenarios is straightforward.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate — 30–45 minutes of daily activity. Walks, play sessions, and indoor games all count. Havanese enjoy activity and playtime but are not high-drive dogs that become destructive without extensive exercise. They adapt well to apartment life as long as they get consistent daily exercise.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">One of the more demanding grooming coats in the toy group. The long, silky coat mats readily without regular brushing. Options: maintain the long coat (daily brushing, bath every 1–2 weeks, professional grooming for trimming every 4–6 weeks) or keep in a shorter puppy cut (brushing every few days, professional grooming every 6–8 weeks). Tear staining is common and needs daily attention. See the <a href=\"/blogs/dog-breeds/havanese-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Havanese grooming guide</a>.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Jump and Stair Management</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Use ramps or steps to furniture and beds — eliminate the need to jump up or down from significant heights. This is simple, inexpensive, and meaningfully reduces IVDD risk in a chondrodysplastic breed.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Havanese are generally healthy with one of the longer lifespans in the toy group (14–16 years). The health concerns below are important to understand but do not define the typical Havanese experience.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Chondrodysplasia (CDDY) / IVDD Risk</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The Havanese's chondrodysplastic build predisposes them to intervertebral disc disease (IVDD) — disc material that herniates and presses on the spinal cord. Managed by reducing jump heights, providing ramps, and avoiding activities that stress the spine. DNA test (CDDY/IVDD) available.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inherited retinal degeneration leading to progressive vision loss and eventual blindness. DNA test available — responsible breeders screen for it. No treatment currently.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Deafness</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Congenital deafness occurs in the breed, particularly in certain color lines. BAER (Brainstem Auditory Evoked Response) testing is available and should be performed on breeding dogs.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Mitral Valve Disease (MVD)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Cardiac valve deterioration — common in small and toy breeds in general. Annual cardiac auscultation from middle age. OFA cardiac certification available.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Patellar Luxation</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Kneecap displacement — common in small breeds. OFA patella certification available from breeders.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia / Legg-Calvé-Perthes</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Hip malformation (OFA screening) or femoral head degeneration (typically presenting at 6–12 months in young dogs). OFA hip screening available.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA patella, OFA cardiac, CAER eye exam, PRA DNA test, BAER hearing test, and CDDY/IVDD DNA test.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,000–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (small breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Professional grooming</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (ramps, crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,700–$5,600</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,400–$2,500</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/havanese-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Havanese first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Havanese Right for You?",
+      "good_fit": [
+        "Apartment and city dwellers who want a sociable, adaptable small companion",
+        "First-time dog owners — one of the most genuinely beginner-friendly breeds",
+        "Households with children or other pets — Havanese are social across the board",
+        "Work-from-home owners or households where the dog won't be alone for long periods",
+        "Owners willing to invest in consistent grooming (professional or at-home)"
+      ],
+      "not_fit": [
+        "Owners who will be gone for 8–10 hours daily — separation anxiety is a real concern",
+        "Anyone wanting a low-grooming-maintenance dog",
+        "Households with steps or furniture the dog would need to jump from without ramps"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Havanese",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,000–$2,500 from reputable breeders. The Havanese Club of America maintains a breeder referral directory. Required health tests: OFA hip, OFA patella, OFA cardiac, CAER eye exam, PRA DNA test, and BAER hearing test. Breeders offering the CDDY/IVDD DNA test demonstrate above-average commitment to health screening.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Havanese-specific rescues exist, though this breed is less frequently surrendered than some others due to its manageable temperament. The Havanese Club of America maintains rescue resources.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Havanese comes home, complete the <a href=\"/blogs/dog-breeds/havanese-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Havanese puppy checklist</a> — ramps, grooming supplies, and a separation anxiety prevention plan are the priorities before day one.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "Are Havanese good for first-time dog owners?", "a": "Yes — they are one of the better recommendations for first-time owners in the small-breed category. Their trainability and desire to please make the training process much more rewarding than with terrier or independent breeds. Their sociable temperament means they generally handle new environments and people without difficulty. The main requirement to prepare for is the grooming commitment and the separation anxiety tendency." },
+    { "q": "Do Havanese shed a lot?", "a": "No — they are a low-shedding breed. The silky coat does not shed the way double-coated breeds do. However, low-shedding does not mean low-maintenance — the coat mats readily without regular brushing and requires consistent professional grooming." },
+    { "q": "Can Havanese be left alone during the day?", "a": "For moderate periods, yes — but this breed is significantly more prone to separation anxiety than more independent dogs. Building a graduated alone-time routine from puppyhood is the most effective prevention. A Havanese conditioned to alone time from week one handles it much better than one that has been with its owner constantly for months. Crate training provides a secure space that helps most dogs settle." },
+    { "q": "What is IVDD and how does it affect Havanese?", "a": "Intervertebral disc disease (IVDD) occurs when disc material between vertebrae herniates and compresses the spinal cord, causing pain, weakness, or paralysis. The Havanese's chondrodysplastic (shortened-limb) build predisposes them to this condition — the same mechanism that affects Dachshunds. The practical prevention is simple: use ramps to furniture, avoid drops from significant heights, and discourage rough twisting play. Most Havanese do not develop clinical IVDD, but the prevention measures are easy to implement." }
+  ],
+
+  "related_breeds": [
+    {"name": "Bichon Frise", "slug": "bichon-frise", "note": "Similar bichon-type temperament, slightly less coat complexity, white coat only"},
+    {"name": "Maltese", "slug": "maltese", "note": "Similar silky coat, smaller size, similar companion personality"},
+    {"name": "Coton de Tulear", "slug": "coton-de-tulear", "note": "Related bichon type, similar personality and coat, less common breed"},
+    {"name": "Cavalier King Charles Spaniel", "slug": "cavalier-king-charles-spaniel", "note": "Similar gentle companion personality, slightly larger, cardiac health concern"}
+  ]
+}

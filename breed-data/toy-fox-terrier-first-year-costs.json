@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Toy Fox Terrier First Year Costs",
+    "slug": "toy-fox-terrier-first-year-costs",
+    "shopify_handle": "toy-fox-terrier-first-year-costs",
+    "group": "Toy Fox Terrier",
+    "size_category": "Guide",
+    "tags": ["toy-fox-terrier", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-05-01T16:00:00Z",
+    "excerpt": "The Toy Fox Terrier is one of the more affordable small breeds to own, thanks to minimal grooming costs and a small appetite. Here's a full first-year cost breakdown.",
+    "meta_description": "Toy Fox Terrier first year costs: puppy price, vet care, food, grooming, and supplies — complete budget guide for new TFT owners."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Toy_Fox_Terrier_2.jpg/330px-Toy_Fox_Terrier_2.jpg",
+      "alt": "Toy Fox Terrier costs"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Initial Investment in a Toy Fox Terrier",
+      "html": "<p><strong>Puppy Price:</strong> From a health-tested, reputable breeder, Toy Fox Terrier puppies typically cost $1,000–$2,000. Rescue and rehoming fees run $150–$350.</p><p><strong>Supplies:</strong> Budget $150–$280 for a small crate, bed, food and water bowls, collar, harness (recommended over collar for trachea health), leash, ID tag, toys, and a rubber grooming brush.</p><p><strong>Spay/Neuter:</strong> If not provided by the breeder, expect $200–$450 depending on your location and whether any complications arise.</p><p><strong>Initial Vet Visits:</strong> A puppy wellness exam, vaccine series, deworming, fecal test, and parasite prevention setup costs approximately $250–$450 in the first few months.</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Monthly and Annual Ongoing Costs",
+      "html": "<p><strong>Food:</strong> Small-breed high-quality dry kibble runs $25–$45 per month, totaling $300–$540 for the year. The TFT's small size makes food costs very manageable.</p><p><strong>Grooming:</strong> Nearly all grooming can be done at home. The one-time investment in a rubber curry brush ($10–$20) and nail clippers ($15–$25) covers most needs. No professional grooming sessions are typically required, saving hundreds of dollars versus higher-maintenance breeds.</p><p><strong>Vet Care:</strong> Routine annual wellness visits, booster vaccines, heartworm prevention, and flea/tick prevention total $350–$600 for the first full year. Pet insurance is recommended at $25–$50/month.</p><p><strong>Training:</strong> A basic puppy obedience class runs $100–$250. The TFT's intelligence means it picks up quickly, so one course is usually sufficient to establish solid foundations.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Costs",
+      "html": "<p><strong>Estimated First Year Total:</strong> $2,500–$4,500 including the puppy price and all first-year expenses. Rescue owners save significantly on acquisition costs.</p><p><strong>Annual Costs After Year One:</strong> Approximately $1,000–$1,800 per year for food, routine veterinary care, heartworm/flea prevention, toys, and supplies. The TFT is among the more economical small breeds to maintain annually.</p><p><strong>Lifetime Estimate:</strong> Over 13–15 years, total ownership typically runs $15,000–$28,000. Dental care and age-related veterinary costs increase in later years.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Toy Fox Terrier an expensive breed to own?",
+      "a": "No — it's one of the more affordable small breeds. Food costs are minimal given the size, and the smooth coat requires no professional grooming. The main costs are initial purchase price and routine veterinary care."
+    },
+    {
+      "q": "What's the biggest unexpected expense with Toy Fox Terriers?",
+      "a": "Dental care. Like most small breeds, TFTs are prone to dental disease, and professional dental cleanings under anesthesia can cost $300–$700 per session. Consistent home brushing reduces this frequency significantly."
+    }
+  ]
+}

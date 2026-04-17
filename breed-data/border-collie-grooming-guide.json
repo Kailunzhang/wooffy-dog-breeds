@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Border Collie Grooming Guide",
+    "slug": "border-collie-grooming-guide",
+    "shopify_handle": "border-collie-grooming-guide",
+    "group": "Border Collie",
+    "size_category": "Guide",
+    "tags": ["border-collie", "grooming", "double-coat", "rough-coat", "smooth-coat"],
+    "published": true,
+    "published_at": "2026-04-20T16:00:00Z",
+    "excerpt": "Border Collies come in rough and smooth coat varieties — both double-coated and both requiring the same fundamental approach. Here's the routine that keeps either coat healthy and manageable.",
+    "meta_description": "Border Collie grooming guide: rough and smooth coat maintenance, seasonal coat blow management, tools and brushing technique, and ear and nail care for an active herding breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Border_Collie_600.jpg/250px-Border_Collie_600.jpg",
+      "alt": "Border Collie grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Border Collie Coat",
+      "heading": "Understanding the Border Collie Double Coat",
+      "html": "<p>Border Collies come in two coat varieties. The rough coat is medium-length with feathering on the legs, chest, and belly — it's the more glamorous variety and requires more brushing time. The smooth coat is short and lies flat, requiring minimal brushing outside of coat blows. Both varieties have a dense, weather-resistant double coat and shed at similar rates. Neither should be shaved.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — primary tool for both coat varieties</li><li>Undercoat rake — essential during coat blow season, useful regularly for rough coats</li><li>Wide-tooth steel comb — for checking feathering for tangles (rough coat) and confirming comb-through</li><li>Pin brush — alternative to slicker for daily maintenance on rough coats</li><li>Rubber curry brush — especially useful for smooth coat weekly maintenance</li><li>Dog-safe shampoo and conditioner</li></ul><h3>Coat Varieties: What to Expect</h3><p>Rough coats need brushing 2–3 times per week to prevent tangles in the feathering — particularly on the legs, chest, and behind the ears. Smooth coats need weekly brushing. During coat blows, both varieties need daily brushing and produce similar shedding volumes.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly (Rough Coat)</h3><ul><li>Brush through the full coat with a slicker brush, working from skin outward in sections</li><li>Pay particular attention to feathering on legs and the chest mane — highest mat-risk zones</li><li>Use a steel comb to check that you've cleared the coat to skin level — the slicker can smooth the surface while tangles remain below</li><li>Check ears for debris or odor; wipe with ear cleaner</li><li>Check between paw pads for debris or excess hair</li></ul><h3>Weekly (Smooth Coat)</h3><ul><li>Brush with a rubber curry brush to remove loose hair</li><li>Follow with an undercoat rake for any dense undercoat accumulation</li><li>Same ear, paw, and nail checks as rough coat</li></ul><h3>Monthly</h3><ul><li>Bathe every 6–8 weeks, or when dirty. Rough coats benefit from a conditioner to prevent post-bath tangles</li><li>Dry the rough coat with a blow dryer or high-velocity dryer to prevent tangles forming as the coat air-dries</li><li>Trim nails monthly — Border Collies are active dogs and benefit from short nails for unrestricted movement</li></ul><h3>Coat Blow Season (Twice Per Year)</h3><p>Both varieties blow their undercoat twice yearly. Daily brushing for 2–3 weeks manages the volume. A deshedding bath is particularly helpful for rough coats — thorough soak, conditioner, rinse, and blow-dry removes most of the releasing undercoat in a single session.</p>"
+    },
+    "special": {
+      "label": "Active Dog Coat Care",
+      "heading": "Grooming an Outdoor Working Breed",
+      "html": "<p>Border Collies are active outdoor dogs. Field work, herding, agility, and everyday exercise in varied terrain means the coat picks up grass seeds, burrs, and debris regularly. Post-exercise coat checks are a practical part of grooming for this breed.</p><h3>Post-Exercise Checks</h3><ul><li>Run your hands through the rough coat after outdoor sessions in long grass — grass seeds travel toward the skin and can cause abscesses if left embedded</li><li>Check between toes, around the ears, and under the collar — grass seed entry points</li><li>Paw pad checks after rough terrain work — cuts and abrasions are common in working dogs</li></ul><h3>Feathering Maintenance (Rough Coat)</h3><p>The feathering on the legs and chest is the highest-maintenance part of the rough coat. These long, silky hairs tangle faster than the body coat, especially if the dog is active in rough terrain. Brush the feathering separately at each grooming session, working in sections. A light application of conditioner or detangling spray to the dry feathering before brushing prevents snapping and reduces tangle formation.</p><h3>Ear Care</h3><p>Border Collies have semi-erect or fully erect ears that generally provide good airflow. However, active outdoor dogs accumulate debris in the ear canal more readily than house dogs. Check weekly and clean with ear solution when visible debris is present or odor occurs.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often do Border Collies need grooming?",
+      "a": "Rough coat Border Collies need brushing 2–3 times per week to prevent tangles in the feathering, with daily brushing during seasonal coat blows. Smooth coat Border Collies need weekly brushing, with daily brushing during coat blows. Both varieties need bathing every 6–8 weeks. Active outdoor dogs may need more frequent coat checks for embedded debris."
+    },
+    {
+      "q": "Do Border Collies shed a lot?",
+      "a": "Moderately year-round, with two significant seasonal coat blows in spring and fall. Both rough and smooth coat varieties shed at comparable rates — the smooth coat's hair is less visible in some surfaces but both varieties produce notable shedding volumes during coat blows. Regular brushing keeps shedding manageable."
+    },
+    {
+      "q": "Can I trim my Border Collie's feathering?",
+      "a": "Light trimming of the feathering for tidiness is acceptable and practiced by many owners. What should not be done is cutting the full coat short or shaving — this disrupts the double coat's structure and thermoregulation function. A light tidy-up trim around the paws and feathering edges is fine; a full clip is not appropriate for this coat type."
+    }
+  ]
+}

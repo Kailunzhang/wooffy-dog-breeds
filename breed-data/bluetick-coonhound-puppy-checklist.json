@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "name": "Bluetick Coonhound Puppy Checklist",
+    "slug": "bluetick-coonhound-puppy-checklist",
+    "shopify_handle": "bluetick-coonhound-puppy-checklist",
+    "group": "Bluetick Coonhound",
+    "size_category": "Guide",
+    "tags": ["bluetick-coonhound", "puppy", "checklist", "ear-care", "coonhound"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "Before your Bluetick Coonhound comes home: secure fencing is essential, ear handling starts day one, and ask your breeder for the Krabbe's disease DNA test results.",
+    "meta_description": "Bluetick Coonhound puppy checklist: Krabbe's disease test confirmation, secure fencing, ear handling from day one, nose work enrichment planning, and essential gear."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BluetickCoonhound.jpg/250px-BluetickCoonhound.jpg",
+      "alt": "Bluetick Coonhound puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Bluetick Coonhound Puppy Prep",
+      "html": "<p>Four things to have confirmed before your Bluetick puppy arrives:</p><ol><li><strong>Krabbe's (GCL) DNA test results from your breeder.</strong> Confirm that both parents have been tested for Globoid Cell Leukodystrophy and that the litter is not at risk for this fatal neurological disease. Do not skip this. Ask for documentation.</li><li><strong>Secure 6-foot fencing.</strong> Coonhounds follow scent out of any unfenced area. Check gates, latches, and dig vulnerabilities before the puppy arrives.</li><li><strong>Pet insurance enrolled.</strong> Before the first vet visit. Hip dysplasia in a large breed is the main financial risk.</li><li><strong>Ear cleaning supplies ready.</strong> Vet-approved ear cleaner and cotton balls. Start ear handling from day one.</li></ol><h3>Essential Gear Checklist</h3><ul><li>Large crate with divider (36–42 inch)</li><li>Dog bed</li><li>Food and water bowls (stainless steel)</li><li>Collar, ID tag, and harness</li><li>4–6 ft leash</li><li>Rubber grooming mitt</li><li>Ear cleaner and cotton balls</li><li>High-value training treats</li><li>Enzymatic cleaner</li><li>Durable toys</li></ul>"
+    },
+    "care": {
+      "label": "First Week",
+      "heading": "First Week Setup",
+      "html": "<h3>Vet Visit (Within 48–72 Hours)</h3><ul><li>Physical exam, vaccine review, parasite prevention</li><li>Microchip</li><li>Discuss spay/neuter timing</li><li>Pet insurance confirmed active before this visit</li></ul><h3>Ear Handling From Day One</h3><p>Pick up each ear flap, look inside, gently touch around the ear canal opening. Give a treat. Do this every day. You're not cleaning anything at first — you're building tolerance. A puppy that has had its ears handled daily for 8 weeks becomes an adult dog that accepts weekly ear cleaning without a fight. This investment of 30 seconds per day during puppyhood pays dividends for 10+ years.</p><h3>Exercise: Moderate and Age-Appropriate</h3><p>Bluetick puppies have energy but also have developing joints. Follow the 5-minute-per-month-of-age guideline for structured exercise. A 3-month-old puppy gets 15-minute structured sessions. Free play in a safe fenced area at the puppy's own pace is appropriate and doesn't count toward the structured exercise limit.</p>"
+    },
+    "special": {
+      "label": "Enrichment and Training",
+      "heading": "Setting Up for Success",
+      "html": "<p>Blueticks are energetic, nose-driven dogs. Start nose work games early — simple hide-the-treat puzzles, scent articles, sniff walks where the dog leads and explores. This channel for the nose drive reduces the energy and boredom that causes excessive baying.</p><h3>Training Priorities</h3><ul><li>Loose-leash walking from the first walk — habituate pulling prevention before it becomes a pattern</li><li>Sit and stay — food-motivated Blueticks learn this quickly indoors</li><li>Crate training: positive associations with crate entry and voluntary settling</li><li>Name recognition and come — practice in the backyard on a long line</li></ul><p>Accept from the beginning that outdoor recall off a scent trail is not a realistic goal. Build reliable recall within a fenced area, use the leash in open areas, and don't set up the dog to fail in situations where the nose wins.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "What is the Krabbe's disease test and why does it matter?",
+      "a": "Globoid Cell Leukodystrophy (GCL), also called Krabbe's disease, is a fatal inherited neurological condition present in some Bluetick Coonhound bloodlines. Puppies with two copies of the mutation develop progressive neurological deterioration. A DNA test exists — reputable breeders test both parents before breeding and will provide documentation showing the litter is clear. Always ask for this documentation before purchasing a Bluetick puppy."
+    },
+    {
+      "q": "How much exercise does a Bluetick Coonhound puppy need?",
+      "a": "Less structured exercise than adults, and carefully managed. Follow the 5 minutes per month of age guideline for walks and structured exercise. A 4-month-old puppy: 20-minute sessions twice daily. No jogging, no jumping, no stair climbing until growth plates close around 18 months. Free play at the puppy's own pace in a safe area is fine and beneficial for socialization."
+    }
+  ]
+}

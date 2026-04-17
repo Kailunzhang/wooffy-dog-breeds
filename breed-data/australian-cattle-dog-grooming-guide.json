@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Australian Cattle Dog Grooming Guide",
+    "slug": "australian-cattle-dog-grooming-guide",
+    "shopify_handle": "australian-cattle-dog-grooming-guide",
+    "group": "Australian Cattle Dog",
+    "size_category": "Guide",
+    "tags": ["australian-cattle-dog", "grooming", "double-coat", "shedding", "low-maintenance"],
+    "published": true,
+    "published_at": "2026-04-20T16:00:00Z",
+    "excerpt": "The Australian Cattle Dog's short double coat is one of the easiest to maintain of any working breed — but it sheds steadily and blows twice a year. Here's the simple routine that works.",
+    "meta_description": "Australian Cattle Dog grooming guide: short double coat maintenance, seasonal coat blow management, minimal bathing needs, and ear and nail care for an active working breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ACD-blue-spud.jpg/250px-ACD-blue-spud.jpg",
+      "alt": "Australian Cattle Dog grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The ACD Coat",
+      "heading": "Understanding the Australian Cattle Dog Double Coat",
+      "html": "<p>The Australian Cattle Dog has a smooth, short double coat designed for harsh Australian outdoor conditions: a dense, water-resistant undercoat beneath a flat, hard outer coat. This is one of the lower-maintenance double coats among herding breeds — weekly brushing is sufficient during normal periods, with more attention required during the twice-yearly coat blows. The coat is naturally weather-resistant and doesn't typically develop a strong odor.</p><h3>Grooming Tools You'll Need</h3><ul><li>Rubber curry brush or grooming mitt — primary tool for the short outer coat</li><li>Undercoat rake — for coat blow seasons when the undercoat releases</li><li>Soft bristle brush — for finishing and distributing coat oils</li><li>Dog-safe shampoo</li><li>Nail clippers or grinder</li><li>Ear cleaning solution and cotton balls</li></ul><h3>Short Double Coat Characteristics</h3><p>The short outer coat means grooming sessions are quick. The undercoat is dense enough that during seasonal shedding, loose hair accumulates significantly. Weekly brushing with a rubber curry brush removes loose hair before it ends up on furniture. During coat blows, the undercoat rake becomes the primary tool.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush the entire coat with a rubber curry brush using circular motions — this loosens and collects dead hair effectively</li><li>Follow with an undercoat rake if significant undercoat is releasing</li><li>Check ears for debris or odor; wipe with ear cleaner and cotton ball</li><li>Check paw pads — ACDs are active outdoor dogs and may develop debris-packed pads, cuts, or cracked skin</li><li>Check legs and underbelly for grass seeds or burrs that can embed in the coat</li></ul><h3>Monthly</h3><ul><li>Bathe every 6–8 weeks or when dirty — ACDs are active outdoor dogs that can get genuinely muddy, so bath frequency may increase depending on lifestyle</li><li>Dry thoroughly — while the short coat dries faster than long coats, the dense undercoat still holds moisture longer than it appears</li><li>Trim nails monthly — ACDs are active dogs and may wear nails down naturally, but check regularly. Overgrown nails affect movement in an athletic breed</li></ul><h3>Coat Blow Season (Twice Per Year)</h3><p>Australian Cattle Dogs shed their undercoat twice a year, typically spring and fall. During this 2–3 week period, daily brushing with the undercoat rake keeps the shedding manageable. A deshedding bath helps accelerate the blow and removes most of the loose undercoat in one session.</p>"
+    },
+    "special": {
+      "label": "Active Dog Coat Care",
+      "heading": "Grooming an Active Working Dog",
+      "html": "<p>Australian Cattle Dogs are built to work outdoors in rough conditions. This affects grooming in practical ways: grass seeds, thorns, burrs, and mud are routine encounters. The coat handles these well, but post-exercise checks matter.</p><h3>Post-Exercise Coat Checks</h3><ul><li>After walks or outdoor sessions in long grass or brush, run your hands through the coat to check for embedded grass seeds — these can work through the skin if left in place</li><li>Check between toes, around the ears, and under the collar — common grass seed locations</li><li>Check paw pads for cuts, cracked skin, or irritation — active ACDs work their feet hard</li></ul><h3>Ear Care for an Active Breed</h3><p>Check ears weekly. Active outdoor dogs can accumulate debris in their ears. ACD ears are erect, which provides better airflow than pendant ears, but debris and moisture from swimming or rain still require monitoring. Clean with ear solution when visibly dirty or when odor is present. Signs of infection: head shaking, scratching, odor, or discharge. Treat with veterinary guidance, not home remedies.</p><h3>Bathing After Dog Sport Activity</h3><p>Many ACD owners participate in herding, agility, flyball, or other dog sports. After intense physical activity or events, a thorough rinse or bath removes sweat residue, field debris, and anything the dog rolled in. A gentle shampoo that doesn't strip coat oils is appropriate — this breed doesn't need medicated or heavy shampoos under normal conditions.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Do Australian Cattle Dogs shed a lot?",
+      "a": "Moderately, with two heavier seasonal coat blows per year. During normal periods, the short double coat sheds at a manageable level with weekly brushing. During coat blows (spring and fall), shedding increases significantly for 2–3 weeks and daily brushing is needed. Overall, this is a lower-maintenance coat than many herding breeds."
+    },
+    {
+      "q": "How often should I bathe an Australian Cattle Dog?",
+      "a": "Every 6–8 weeks under normal conditions, or more frequently if the dog is actively working outdoors. ACDs are naturally clean and weather-resistant dogs that don't develop strong odor. Over-bathing can strip the coat's natural oils. A thorough rinse after muddy outdoor sessions is preferable to a full shampoo bath every time."
+    },
+    {
+      "q": "What grooming tool works best for Australian Cattle Dog shedding?",
+      "a": "A rubber curry brush is the most effective tool for the short outer coat — it loosens dead hair without scratching the skin. During coat blow season, add an undercoat rake to pull out the releasing undercoat. The combination of rubber curry and undercoat rake handles the full range of shedding this breed produces."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Polish Lowland Sheepdog Grooming Guide",
+    "slug": "polish-lowland-sheepdog-grooming-guide",
+    "shopify_handle": "polish-lowland-sheepdog-grooming-guide",
+    "group": "Polish Lowland Sheepdog",
+    "size_category": "Guide",
+    "tags": ["polish-lowland-sheepdog", "grooming"],
+    "published": true,
+    "published_at": "2026-05-04T16:00:00Z",
+    "excerpt": "The Polish Lowland Sheepdog's long, shaggy double coat is one of the most demanding in the herding group. Regular brushing, mat prevention, and professional grooming every 6–8 weeks are essential for keeping the PON's coat healthy and manageable.",
+    "meta_description": "Polish Lowland Sheepdog grooming guide: preventing mats in the shaggy coat, brushing routine, eye hair management, and professional grooming schedule."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Polski_Owczarek_Nizinny_600.jpg/330px-Polski_Owczarek_Nizinny_600.jpg",
+      "alt": "Polish Lowland Sheepdog grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "A Shaggy, High-Maintenance Double Coat",
+      "html": "<p>The Polish Lowland Sheepdog has one of the more demanding coats in the herding group. The long, shaggy double coat — with its characteristic curtain of hair over the eyes — tangles readily and mats with particular persistence in high-friction areas. Unlike spitz breeds whose coats naturally separate, the PON's coat hangs in a dense, flowing mass that needs active management to stay healthy and mat-free. Professional grooming every 6–8 weeks is strongly recommended for pet owners, combined with regular home brushing between appointments.</p><p>The coat does not shed heavily like double-coated spitz breeds, but hair that sheds stays caught in the surrounding coat rather than falling to the floor, which paradoxically makes mat prevention more important — the trapped dead hair creates tangles that progress to mats if not brushed out regularly.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Frequent Brushing and Regular Professional Care",
+      "html": "<p><strong>Brushing:</strong> At minimum 3–4 times per week; daily is better for maintaining a mat-free coat. Work in sections using a pin brush or slicker brush, brushing from the skin outward in layers. Follow each section with a wide-tooth metal comb to confirm no tangles remain at the root. Pay special attention to mat-prone zones: armpits, groin, behind and inside the ears, and around the collar. Small tangles removed promptly prevent large painful mats from forming.</p><p><strong>Eye area:</strong> The coat over the eyes needs regular checking to ensure it is not irritating the eyes. Gently part the hair to inspect for discharge, redness, or evidence of the hair rubbing on the cornea. Some owners use a small clip or band to keep the hair out of the eyes for comfort — this is not required by the breed standard for pet dogs.</p><p><strong>Bathing:</strong> Every 3–4 weeks. Use a moisturizing or detangling dog shampoo followed by a coat conditioner. Rinse extremely thoroughly — shampoo residue trapped in the dense coat causes skin irritation and accelerates matting. Blow dry on medium heat while brushing in sections; this produces the best coat texture and prevents the coat from drying in a tangled mass.</p><p><strong>Professional grooming:</strong> Every 6–8 weeks. Find a groomer experienced with similar coats (Bearded Collie, Old English Sheepdog). Many pet owners keep the coat in a shorter, more manageable trim — discuss options with your groomer. Show-length coat maintenance is significantly more demanding.</p><p><strong>Nails:</strong> Monthly trimming. <strong>Ears:</strong> Check and clean weekly. <strong>Teeth:</strong> Brush several times per week.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Mat Emergencies, Coat Shortening, and Eye Care",
+      "html": "<p><strong>Dealing with mats:</strong> When mats are found, work them out with a dematting comb or mat splitter by holding the base of the mat to prevent skin pulling and working from the edges inward. Do not yank. For very tight mats against the skin, cutting out is sometimes the only humane option — use blunt-tipped scissors and cut into the mat (not parallel to the skin) to split it before combing. If the coat has been allowed to mat severely, a professional groomer should assess whether a full-body clip is the more humane solution.</p><p><strong>Short trim option:</strong> Many pet PON owners keep the coat clipped to 2–3 inches all over — the breed's personality and working capability are unaffected and the grooming commitment is dramatically reduced. This is entirely reasonable and widely practiced.</p><p><strong>Eye hair and eye health:</strong> The characteristic hair over the PON's eyes can occasionally irritate the eyes if it grows into them. Regular checking and trimming the hair near the eye margin (not the full crest, just the lowest strands) prevents irritation. If you notice the dog pawing at its eyes or squinting, check the eye area immediately.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often does a Polish Lowland Sheepdog need professional grooming?",
+      "a": "Every 6–8 weeks for pet owners who maintain a moderate-length coat. Show-length coats require more frequent professional attention. Combined with regular home brushing, this schedule keeps the coat healthy and mat-free."
+    },
+    {
+      "q": "Can I keep my PON in a short clip?",
+      "a": "Yes, and many pet owners do. A shorter trim dramatically reduces the grooming commitment and is a perfectly reasonable choice for dogs that are companions rather than show dogs."
+    },
+    {
+      "q": "How do I manage the hair over my PON's eyes?",
+      "a": "Check the eye area regularly to ensure the hair is not rubbing on the cornea or trapping discharge. For pet dogs, trimming the lowest strands slightly or using a small clip is acceptable. For show dogs, the full eye coverage is part of the breed standard."
+    }
+  ]
+}

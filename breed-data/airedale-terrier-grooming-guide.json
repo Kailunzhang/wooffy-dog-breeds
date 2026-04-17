@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Airedale Terrier Grooming Guide",
+    "slug": "airedale-terrier-grooming-guide",
+    "shopify_handle": "airedale-terrier-grooming-guide",
+    "group": "Airedale Terrier",
+    "size_category": "Guide",
+    "tags": ["airedale-terrier", "grooming", "wiry-coat", "hand-stripping", "terrier-coat"],
+    "published": true,
+    "published_at": "2026-04-28T16:00:00Z",
+    "excerpt": "The Airedale's wiry double coat is low-shedding but not low-maintenance. Hand-stripping preserves the correct texture and color; clipping is an acceptable pet alternative. Either way, the coat and beard need consistent attention.",
+    "meta_description": "Airedale Terrier grooming guide: hand-stripping vs clipping, beard cleaning, weekly routine, and how to maintain the wiry double coat without damaging its texture."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Airedale_Terrier.jpg",
+      "alt": "Airedale Terrier grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Airedale Coat",
+      "heading": "Understanding the Airedale Wiry Double Coat",
+      "html": "<p>The Airedale Terrier has a dense, wiry outer coat over a softer undercoat — a combination designed for working in rough terrain and wet conditions. This coat is low-shedding compared to smooth or double-coated breeds, which is one of the breed's practical advantages. But \"low-shedding\" does not mean \"low-maintenance.\" The coat grows continuously and requires regular removal to stay functional and healthy.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — for regular brushing and finishing</li><li>Metal comb (medium/wide tooth) — for working through the beard and leg furnishings</li><li>Stripping knife (for hand-stripping) — used to pull dead coat rather than cut it</li><li>Thinning shears — for blending if clipping</li><li>Dog-safe shampoo and conditioner</li><li>Small comb or beard brush — for the characteristic beard and mustache</li></ul><h3>Hand-Stripping vs. Clipping: What's the Difference?</h3><p>Hand-stripping removes dead coat by pulling it from the root — this preserves the wiry texture and rich tan-and-black color. Clipping cuts the coat at the surface, which over time softens the texture and dulls the color to a more uniform grizzle. For pet dogs, clipping is perfectly acceptable. For dogs shown in the conformation ring, hand-stripping is required. Either way, the coat needs professional attention every 8–12 weeks.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush through the coat with a slicker brush, working from neck to tail and down the legs</li><li>Follow with a metal comb through the beard, mustache, and leg furnishings — these areas mat most readily</li><li>Clean the beard after every meal and water session — accumulated food and moisture in the beard causes odor and skin irritation</li><li>Check ears for odor, redness, or debris; wipe with a cotton ball dampened with ear cleaner</li><li>Inspect paw pads and trim excess hair between toes</li></ul><h3>Every 8–12 Weeks: Professional Grooming</h3><p>Whether hand-stripping or clipping, the Airedale needs professional attention on this schedule. The standard Airedale trim involves:</p><ul><li>Body coat stripped or clipped to appropriate length</li><li>Head, ears, and topskull trimmed short and neat</li><li>Beard shaped and cleaned</li><li>Leg furnishings tidied</li><li>Underline and chest trimmed for a clean outline</li></ul><h3>Bath Routine</h3><p>Bathe every 6–8 weeks or as needed. Use a shampoo appropriate for wiry coats — harsh texturizing shampoos can be used before hand-stripping appointments to make the dead coat easier to remove. Dry thoroughly, especially through the undercoat and beard areas where moisture can linger.</p>"
+    },
+    "special": {
+      "label": "Beard Care",
+      "heading": "The Beard: Most Important and Most Neglected",
+      "html": "<p>The Airedale's characteristic beard is a breed hallmark — and the single most maintenance-intensive part of the coat. It collects food, water, mud, and debris constantly. Neglected beards develop a permanent damp odor, mat heavily, and can cause skin fold dermatitis where the beard contacts the face.</p><h3>Daily Beard Maintenance</h3><ul><li>Wipe the beard with a dry cloth or paper towel after every meal and water session</li><li>Comb through daily with a small metal comb to prevent matting at the base</li><li>During wet weather or outdoor adventures, towel-dry the beard when the dog comes inside</li><li>If beard odor develops despite regular cleaning, schedule a professional bath — the undercoat at the beard root may need thorough cleaning</li></ul><h3>Finding a Groomer Experienced with Terrier Coats</h3><p>Not all groomers know how to hand-strip or properly shape a terrier coat. When researching groomers, ask specifically about experience with Airedales or other wire-coated terriers (Welsh, Irish, Wire Fox). A groomer who only clips and has no hand-stripping experience is still functional for pet maintenance, but will not achieve the correct terrier silhouette or coat texture.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Can I groom my Airedale at home?",
+      "a": "The weekly brushing and beard maintenance are straightforward home tasks. Full hand-stripping requires practice and the right technique — it's a skill worth learning from a professional groomer or experienced breeder if you want to maintain the coat yourself. Clipping is easier to learn at home and acceptable for pets who won't be shown."
+    },
+    {
+      "q": "How often does an Airedale need professional grooming?",
+      "a": "Every 8–12 weeks for a full groom (trim, tidy, and bath). The beard needs daily at-home attention between appointments. Budget for 4–5 professional appointments per year as a baseline."
+    },
+    {
+      "q": "Will clipping ruin my Airedale's coat?",
+      "a": "It won't ruin the coat permanently, but it does change it over time. Clipping cuts the hair shaft rather than removing the dead root, which softens the wiry texture and can dull the rich color. For a pet dog this is cosmetic — the coat is still functional and the dog is comfortable. For show dogs, clipping disqualifies the correct coat texture required in the ring."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Brussels Griffon Grooming Guide",
+    "slug": "brussels-griffon-grooming-guide",
+    "shopify_handle": "brussels-griffon-grooming-guide",
+    "group": "Brussels Griffon",
+    "size_category": "Guide",
+    "tags": ["brussels-griffon", "grooming"],
+    "published": true,
+    "published_at": "2026-04-29T16:00:00Z",
+    "excerpt": "Brussels Griffons come in rough and smooth coat varieties with very different grooming requirements. This guide covers hand-stripping versus clipping for rough coats, smooth coat care, and facial hygiene for both varieties.",
+    "meta_description": "Brussels Griffon grooming guide: rough coat stripping versus clipping, smooth coat care, facial wrinkle cleaning, and nail and dental care."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Brussels_Griffon_2010.jpg/330px-Brussels_Griffon_2010.jpg",
+      "alt": "Brussels Griffon grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Two Coat Types, Two Very Different Routines",
+      "html": "<p>The Brussels Griffon exists in two coat varieties that have almost nothing in common in terms of grooming requirements. The <strong>rough coat</strong> is dense, wiry, and hard in texture, with pronounced facial furnishings — eyebrows, beard, and mustache — that give the breed its signature expression. Maintaining the proper texture requires either hand-stripping (the traditional method) or clipping. The <strong>smooth coat</strong> is short, flat, and glossy, similar to a Pug's coat, and needs only basic brushing and bathing to maintain.</p><p>Both varieties are low shedders, making the Brussels Griffon a good option for people sensitive to dog hair. Both also need attention to facial hygiene around the short muzzle, where skin folds and deep eye sockets can trap moisture and debris. Dental care is important for both as the shortened jaw can lead to crowded teeth and elevated dental disease risk.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Rough Coat vs. Smooth Coat Care",
+      "html": "<p><strong>Rough Coat — Hand-Stripping:</strong> Hand-stripping is the traditional method for maintaining the wiry texture of a rough Brussels Griffon coat. It involves manually pulling out dead outer coat by grasping small amounts of hair between the thumb and finger and pulling in the direction of growth. This process removes the dead outer layer and allows a fresh, hard coat to grow in. Hand-stripping is time-consuming but preserves the coat's proper texture and color. Most show dogs are hand-stripped. Many pet owners learn to do basic maintenance stripping at home and supplement with a professional groomer every few months.</p><p><strong>Rough Coat — Clipping:</strong> Clipping is faster and easier but has a trade-off: repeated clipping gradually softens and dulls the coat's texture, making the dog look and feel more like a soft-coated breed over time. The color may also lighten. For pet-quality dogs whose appearance is not being judged, clipping is a perfectly acceptable and practical choice. Schedule a professional clip every 6–8 weeks to keep the coat at a tidy length.</p><p><strong>Smooth Coat:</strong> Weekly brushing with a soft bristle brush or rubber curry mitt is sufficient. Bathe monthly. Shedding is minimal but the smooth coat does shed — a lint roller will become a household staple.</p><p><strong>Facial hygiene (both varieties):</strong> The skin folds around the muzzle and under the eyes collect moisture and debris. Wipe with a damp soft cloth or pet facial wipe several times per week. Keep the skin under the large eyes clean and dry — eye discharge (common in the breed) should be wiped away gently with a clean damp cloth to prevent staining and irritation.</p><p><strong>Nails:</strong> Trim every 3–4 weeks. Small dog nails grow quickly and overgrown nails affect gait.</p><p><strong>Ears:</strong> Check and clean weekly with a vet-approved ear solution.</p><p><strong>Teeth:</strong> Brush daily or at least 3–4 times per week. The brachycephalic muzzle crowds teeth in a small jaw, making Brussels Griffons highly prone to dental disease. Regular professional cleanings are also recommended.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Eye Care and Heat Sensitivity",
+      "html": "<p><strong>Eye care:</strong> The large, prominent eyes of the Brussels Griffon are both a hallmark of the breed and a health vulnerability. The eyes can be scratched by vegetation, branches, or playful swipes from other dogs. Check the eyes daily for redness, cloudiness, discharge, or squinting — any of these warrant a vet visit, as corneal issues can deteriorate quickly. Dry eye (keratoconjunctivitis sicca) is also common in the breed; symptoms include thick discharge and a dull eye surface. It is easily managed with prescription eye drops when diagnosed.</p><p><strong>Heat and brachycephalic grooming:</strong> The Brussels Griffon's pushed-in muzzle means it cannot cool itself as efficiently as long-nosed breeds. Keep grooming sessions in a cool environment. Never blow-dry on high heat. In summer, schedule baths and trims in air-conditioned spaces.</p><p><strong>Finding a groomer:</strong> Look for a groomer experienced with terrier-type coats and, ideally, one who knows the Brussels Griffon specifically. Some groomers attempt to use standard poodle or schnauzer clip patterns on a Griffon, which does not suit the breed. If you want hand-stripping, expect to search for a specialist — this is a specific skill not all groomers offer.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Do I need to hand-strip my Brussels Griffon?",
+      "a": "Not necessarily. Hand-stripping is the traditional method that preserves the correct wiry texture and is required for show dogs. For a pet, clipping is a perfectly acceptable alternative that is easier, faster, and less expensive, though it gradually softens the coat texture over time."
+    },
+    {
+      "q": "How do I clean around my Brussels Griffon's eyes?",
+      "a": "Use a soft damp cloth or pet facial wipe to gently wipe away discharge from the inner corners of the eyes. Do this daily to prevent staining and skin irritation. Never use the same cloth on both eyes to avoid spreading any potential infection."
+    },
+    {
+      "q": "How often should a rough Brussels Griffon be professionally groomed?",
+      "a": "Every 6–8 weeks for a clip, or every 3–4 months for hand-stripping (with maintenance stripping in between). Some owners do their own maintenance and visit a groomer only a few times per year."
+    }
+  ]
+}

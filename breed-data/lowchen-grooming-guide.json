@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "name": "Lowchen Grooming Guide",
+    "slug": "lowchen-grooming-guide",
+    "shopify_handle": "lowchen-grooming-guide",
+    "group": "Lowchen",
+    "size_category": "Guide",
+    "tags": ["lowchen", "grooming", "non-sporting"],
+    "published": true,
+    "published_at": "2026-05-02T16:00:00Z",
+    "excerpt": "A complete grooming guide for the Lowchen — covering the traditional lion clip, natural coat maintenance, brushing routine, and how to keep that long wavy coat mat-free and beautiful.",
+    "meta_description": "Lowchen grooming guide: lion clip technique, natural coat care, brushing schedule, and professional grooming tips for the Little Lion Dog."
+  },
+  "stats": {
+    "height": "12–14 inches",
+    "weight": "15 lbs",
+    "lifespan": "13–15 years",
+    "energy_level": "Moderate",
+    "grooming_needs": "Moderate",
+    "good_with_kids": true,
+    "good_with_other_dogs": true,
+    "shedding": "Low",
+    "trainability": "Easy"
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lowchen_dog.jpg/330px-Lowchen_dog.jpg",
+      "alt": "Lowchen"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "The Lowchen's Long Wavy Coat: Natural Beauty and Practical Care",
+      "html": "<p>The Lowchen's coat is long, moderately wavy, and soft — one of the more forgiving long coats among small companion breeds in terms of mat resistance and overall maintenance burden. It is a single coat (or very lightly double-coated) in most individuals, which contributes to minimal shedding and lower mat risk compared to heavily double-coated long-haired breeds. The coat comes in virtually any color — white, black, cream, blue, chocolate, and all combinations — and the texture is similar to human hair in its behavior and care needs.</p><p>The Lowchen's coat can be presented in two primary ways: the traditional lion clip, which is required in the AKC show ring and gives the breed its name and distinctive silhouette, or the natural coat trim, in which the full length coat is maintained and tidied at the edges without the dramatic rear clip. Both presentations are beautiful; the choice for a pet owner is entirely a matter of personal preference.</p><p>Regardless of trim style, the Lowchen's coat requires consistent brushing and combing to remain tangle-free. The areas most prone to matting are behind and under the ears, in the armpits, around the collar line, and in the transition zone between clipped and unclipped areas in the lion clip. Establishing a regular maintenance routine from puppyhood makes grooming a pleasant bonding activity rather than a periodic ordeal.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Brushing Schedule, Professional Appointments, and Bathing",
+      "html": "<p>Brush your Lowchen three to four times per week using a pin brush or a slicker brush, followed by a thorough combing with a medium-toothed metal comb. The metal comb is the critical tool — working the comb through to the skin confirms that no hidden mats are forming beneath the surface layer of the coat. Do not rely on the brush alone; surface brushing can leave the lower coat mat-free on top while tangles develop underneath.</p><p>Professional grooming appointments every 6 to 8 weeks maintain the lion clip or keep the natural coat in tidy condition. The lion clip requires a groomer who is familiar with the traditional Lowchen trim pattern — the shaved portions should be clean and smooth, the demarcation line between clipped and unclipped coat precisely placed at the last rib, and the pompoms on the ankles and tail tip neatly defined. If your local groomer is unfamiliar with the lion clip, bring reference photos and discuss the trim in detail before the appointment.</p><p>Bathe your Lowchen every 3 to 5 weeks. The coat benefits from a gentle, hydrating shampoo and a light conditioner, which help keep the long wavy coat manageable and reduce static and tangles between brushings. After bathing, blow-dry on a low heat setting while brushing through to prevent the coat from drying in tangles. The coat can be air-dried if brushed out and set before drying begins, but blow-drying produces a tidier result.</p><p>Weekly ear cleaning is important — the long pendant ears create a warm, low-airflow environment that can encourage moisture and odor. Trim nails every 3 to 4 weeks. Brush teeth at least twice a week; small breed dental health requires consistent attention.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "The Lion Clip in Detail, Color Coat Care, and Puppy Coat Transition",
+      "html": "<p>The traditional lion clip is more complex than it appears. The precise placement of the clip line at the last rib, the clean shave of the hindquarters, and the placement and size of the ankle pompoms all require skill and an eye for proportion. An improperly executed lion clip — whether the clip line is too far forward or the pompoms are poorly placed — changes the appearance of the dog significantly. For show dogs, working with a groomer who has direct Lowchen experience is essential. For pets, the clip is less critically precise, but a skilled small-breed groomer with reference photos can execute a very attractive result.</p><p>Dark-colored Lowchens (black, chocolate, blue) can show sun bleaching if exposed to prolonged direct sunlight. The coat may develop a reddish or brownish tint in the areas most exposed to sun. This is largely cosmetic, but for show dogs or owners who want to maintain rich color, limiting sun exposure during peak hours is advisable. UV-protective sprays for pet coats are available and can slow fading.</p><p>Lowchen puppies have a softer, shorter coat that transitions to the adult coat texture between 8 and 14 months. During this transition, the coat is at its highest mat risk — the combination of puppy coat and emerging adult coat creates tangles more readily than either coat type alone. Increase brushing frequency during this period and consider a slightly shorter trim to manage the transition coat more easily.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Lowchen's lion clip high-maintenance?",
+      "a": "It requires regular professional appointments (every 6–8 weeks) to maintain the shaved portions and keep the clip lines neat. Between appointments, the unclipped portions need consistent brushing. Overall the maintenance level is moderate — lower than some long-coated breeds due to the Lowchen's less mat-prone coat texture."
+    },
+    {
+      "q": "Can I groom my Lowchen in the lion clip at home?",
+      "a": "Experienced at-home groomers with quality clippers and a thorough understanding of the trim pattern can maintain a lion clip between professional appointments. However, learning the clip from scratch at home is challenging. Beginning with professional appointments and gradually learning touch-up techniques is the recommended approach."
+    },
+    {
+      "q": "How do I prevent mats from forming in my Lowchen's coat?",
+      "a": "Consistent brushing and combing three to four times per week is the only reliable prevention. Pay special attention to the behind-the-ears and armpit areas, which mat most quickly. Do not let the coat go more than a few days without brushing during the puppy coat transition phase."
+    }
+  ],
+  "related_breeds": ["bichon-frise", "maltese", "havanese"]
+}

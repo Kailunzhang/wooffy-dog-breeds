@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Australian Terrier First Year Costs",
+    "slug": "australian-terrier-first-year-costs",
+    "shopify_handle": "australian-terrier-first-year-costs",
+    "group": "Australian Terrier",
+    "size_category": "Guide",
+    "tags": ["australian-terrier", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-04-28T16:00:00Z",
+    "excerpt": "The Australian Terrier is an affordable small breed to own, with modest food and grooming costs — though potential diabetes management costs should factor into long-term planning.",
+    "meta_description": "Australian Terrier first year costs: puppy price, food, vet care, grooming, and supplies. Budget $2,000–$4,000 for year one with this hardy small working terrier."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Australian_Terrier.jpg/330px-Australian_Terrier.jpg",
+      "alt": "Australian Terrier"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Upfront Costs of Getting an Australian Terrier",
+      "html": "<p><strong>Puppy Price: $1,000–$2,500.</strong> The Australian Terrier is relatively uncommon in North America. Reputable breeders may have waiting lists. Look for breeders who OFA test for hips and patellas.</p><p><strong>Crate: $35–$65.</strong> A 24–30 inch crate appropriate for this small breed.</p><p><strong>Bed: $30–$60.</strong> A washable, comfortable bed.</p><p><strong>Collar, Leash, Harness: $30–$60.</strong></p><p><strong>Bowls: $15–$35.</strong></p><p><strong>Initial Vet Visit: $200–$400.</strong> Complete puppy wellness visit including all essential first vaccines and preventives.</p><p><strong>Spay/Neuter: $200–$400.</strong></p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Recurring First Year Costs",
+      "html": "<p><strong>Food: $30–$50/month ($360–$600/year).</strong> Small-breed high-quality dry food for a 15–20 lb dog.</p><p><strong>Veterinary Care: $300–$500/year.</strong> Routine wellness and preventives. Annual blood glucose screening in older dogs is recommended for this breed's diabetes predisposition.</p><p><strong>Grooming: $240–$400/year.</strong> Professional grooming every 3–4 months at $60–$100 per session, plus home brushing supplies.</p><p><strong>Training: $150–$350/year.</strong> Puppy class and basic obedience.</p><p><strong>Pet Insurance: $25–$45/month ($300–$540/year).</strong> Particularly important given diabetes risk. Enroll early.</p><p><strong>Toys and Enrichment: $80–$150/year.</strong></p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Cost Planning",
+      "html": "<p><strong>Estimated First Year Total: $2,000–$4,000</strong></p><p><strong>Ongoing Annual Costs (Year 2+): $1,200–$2,500/year.</strong></p><p><strong>Diabetes Cost Planning:</strong> If an Australian Terrier develops diabetes — a real possibility given the breed's predisposition — monthly management costs including insulin, syringes, dietary adjustment, and regular vet monitoring can add $100–$300/month to ongoing costs. This is the single largest variable in long-term ownership costs for this breed. Pet insurance with good chronic condition coverage is strongly recommended.</p><p><strong>Lifetime Cost Estimate:</strong> Over an 11–15 year lifespan, costs typically range from $18,000–$40,000 depending on health outcomes, particularly diabetes management.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How much does an Australian Terrier puppy cost?",
+      "a": "$1,000–$2,500 from a reputable breeder. The breed is uncommon in North America, so waiting lists are normal."
+    },
+    {
+      "q": "What is the biggest financial risk with an Australian Terrier?",
+      "a": "Diabetes mellitus. The breed has a higher-than-average incidence, and ongoing management is expensive (insulin, monitoring, regular vet visits). Pet insurance with chronic condition coverage is strongly recommended."
+    },
+    {
+      "q": "Are Australian Terriers expensive to groom?",
+      "a": "Moderately. Professional grooming 3–4 times per year at $60–$100 per session adds up but is reasonable for a small breed. Home brushing twice weekly between appointments manages the coat well."
+    }
+  ]
+}

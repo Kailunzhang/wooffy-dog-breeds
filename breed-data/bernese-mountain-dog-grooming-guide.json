@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Bernese Mountain Dog Grooming Guide",
+    "slug": "bernese-mountain-dog-grooming-guide",
+    "shopify_handle": "bernese-mountain-dog-grooming-guide",
+    "group": "Bernese Mountain Dog",
+    "size_category": "Guide",
+    "tags": ["bernese-mountain-dog", "grooming", "double-coat", "shedding", "mat-prevention"],
+    "published": true,
+    "published_at": "2026-04-16T16:00:00Z",
+    "excerpt": "Bernese Mountain Dogs have a beautiful tricolor coat that requires consistent effort to maintain — 3–4 brushing sessions per week and twice-yearly professional deshedding. The alternative is matting and a home covered in hair.",
+    "meta_description": "Bernese Mountain Dog grooming guide: brushing routine for the thick double coat, mat prevention, shedding season management, and bathing a large breed at home."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/3-BerneseMountainDogInGrass.jpg/330px-3-BerneseMountainDogInGrass.jpg",
+      "alt": "Bernese Mountain Dog grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Berner Coat",
+      "heading": "Understanding the Bernese Mountain Dog Double Coat",
+      "html": "<p>The Bernese Mountain Dog has a moderately long, slightly wavy or straight double coat: a thick, dense undercoat and a longer outer coat. The tricolor pattern — jet black, rich rust, and white — is the breed's most visually striking feature. Maintaining it requires genuine commitment: without regular brushing, the coat mats quickly, particularly in friction areas.</p><h3>Grooming Tools You'll Need</h3><ul><li>Undercoat rake — primary tool for removing loose undercoat</li><li>Slicker brush — for the outer coat and mat detection</li><li>Wide-tooth steel comb — essential for working through mats and checking coat completeness</li><li>Stainless steel pin brush — finishing brush</li><li>Dog-safe shampoo and conditioner formulated for long coats</li><li>High-velocity pet dryer (highly recommended)</li><li>Detangling spray for mat-prone areas</li></ul><h3>NEVER Shave a Berner</h3><p>The double coat regulates body temperature in both directions. Shaving permanently disrupts this system and risks post-clipping alopecia — abnormal, patchy regrowth. In summer heat, provide shade, water, and air conditioning. The coat itself is not the problem.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Mat-Prone Areas — Check These First, Every Session</h3><p>Before brushing the full body, always check and work through these areas where matting develops first:</p><ul><li>Behind and inside the ears</li><li>Collar and neck area</li><li>Armpits and groin (friction zones)</li><li>Between the rear legs</li><li>Feathering on the back of the legs</li></ul><p>Use the wide-tooth comb in these areas. If the comb doesn't pass through freely, work out the tangle before brushing. Never brush over a mat — it tightens the base and makes removal harder.</p><h3>3–4 Times Per Week (Normal Periods)</h3><ul><li>Undercoat rake through the entire body — neck, back, sides, belly, legs, tail</li><li>Slicker brush over the full coat</li><li>Comb through mat-prone areas</li><li>Check ears; clean if needed</li></ul><h3>Monthly</h3><ul><li>Bathe every 6–8 weeks or when dirty. The thick coat requires thorough soaking, complete lathering, and full rinse — partial shampooing leads to residue and coat dullness</li><li>Dry completely with a high-velocity dryer. Incomplete drying in a dense coat like the Berner's creates ideal conditions for hot spots. Air drying alone can take 6+ hours</li><li>Trim nails every 3–4 weeks</li><li>Dental brushing 3–4 times per week — the Berner's deep breeding community emphasizes dental health given the short lifespan</li></ul><h3>Shedding Season (Spring and Fall)</h3><p>Daily brushing required during the 3–4 week coat blows. A professional deshedding bath — soak, condition, blow out with high velocity — shortens the duration and removes the bulk of loose undercoat efficiently. Many Berner owners schedule professional grooming sessions timed to the coat blow for this purpose.</p>"
+    },
+    "special": {
+      "label": "Managing Mats",
+      "heading": "Mat Prevention and Removal",
+      "html": "<p>Matting is the primary grooming challenge for Berners. The combination of the long outer coat and dense undercoat creates matting conditions whenever the coat is neglected for more than a week, especially in friction zones.</p><h3>Prevention</h3><ul><li>Never skip the mat-prone areas during regular brushing</li><li>Use a detangling spray before brushing if the coat is dry</li><li>Check under collar and harness regularly — these create constant friction</li><li>After swimming or getting wet, brush the coat before it fully dries to prevent matting as the coat dries in clumps</li></ul><h3>Removing Existing Mats</h3><ul><li>Apply detangling spray and let it work for a few minutes</li><li>Hold the base of the mat against the skin with one hand to prevent pulling skin while working</li><li>Use fingers to separate large mats, then use a mat splitter or dematting comb</li><li>Work from the outer edge inward toward the skin — never pull through a mat from the skin outward</li><li>For tight, dense mats close to the skin: consider clipping them out. A professional groomer may need to remove severe matting before regular brushing can resume</li></ul><h3>Grooming Costs</h3><p>Professional grooming for Berners runs $80–$150 per session due to the size and coat. Most Berner owners groom at home between professional sessions and book professionals for full deshedding baths 2–3 times per year. Annual professional grooming costs: $200–$450.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often should I brush my Bernese Mountain Dog?",
+      "a": "3–4 times per week minimum during normal periods; daily during the twice-yearly coat blows. Less frequent brushing leads to matting, especially in friction areas behind the ears, armpits, and groin. A Berner that isn't brushed regularly will require painful mat removal sessions."
+    },
+    {
+      "q": "Do Bernese Mountain Dogs shed a lot?",
+      "a": "Yes — significantly. Year-round moderate shedding, plus two major seasonal shed cycles (spring and fall) when the undercoat releases heavily. Regular brushing removes most of the loose coat before it ends up on your furniture and clothing, but some shedding is a constant reality of Berner ownership."
+    },
+    {
+      "q": "Can I bathe my Berner at home?",
+      "a": "Yes, with the right equipment. The challenge is rinsing and drying thoroughly. The thick double coat traps shampoo if not fully rinsed, and holds moisture for hours if not dried with a high-velocity dryer. Air drying alone risks hot spots. Many owners use a bathtub or outdoor area with a good nozzle for bathing and a pet dryer for drying. At professional grooming size (large breed, thick coat), home grooming requires 1.5–2 hours for a bath and dry."
+    }
+  ]
+}

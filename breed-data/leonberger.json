@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "name": "Leonberger",
+    "slug": "leonberger",
+    "shopify_handle": "leonberger",
+    "group": "Working Group",
+    "size_category": "Giant Breed",
+    "tagline": "The Leonberger is a gentle, patient giant bred to look like a lion and act like a family dog. They succeed at both — but their short lifespan, very heavy grooming demands, and serious genetic health risks require clear-eyed preparation before you commit.",
+    "tags": ["working-group", "giant-breed", "gentle-giant", "lion-dog", "family-dog", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-27T16:00:00Z",
+    "excerpt": "Leonbergers are magnificent, gentle giant dogs with a lion-like mane and a 7–9 year lifespan. Their warmth and patience are exceptional; their grooming demands and genetic health risks require serious preparation.",
+    "meta_description": "Leonberger breed guide: gentle giant temperament, LPN and LEMP genetic conditions, bloat risk, grooming commitment, and honest lifespan expectations for this magnificent breed."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Giant" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "90–170 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "7–9 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Very High" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Easy–Moderate" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With research" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Leonberger_male.jpg/250px-Leonberger_male.jpg",
+      "alt": "Leonberger"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Leonberger?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Leonberger was deliberately created in the 1840s in Leonberg, Germany by Heinrich Essig, who crossed Saint Bernards, Newfoundlands, and Great Pyrenees to produce a dog that resembled the lion on the Leonberg town crest. The result was an enormous, lion-maned dog with the gentleness of the breeds that built it. Leonbergers were popular with European royalty — Napoleon III, Tsar Alexander II, and Prince of Wales among their admirers — and nearly disappeared during both World Wars before dedicated breeders restored the population.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Modern Leonbergers weigh 90–170 lbs and stand 25.5–31.5 inches at the shoulder. The flowing lion-yellow to red-brown coat with a black mask and magnificent mane makes them one of the most visually striking breeds in existence. They are consistently described by their owners as patient, friendly, and deeply affectionate family dogs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">What prospective owners need to understand upfront: Leonbergers live 7–9 years on average. This is the honest reality, not a pessimistic estimate. They also carry specific genetic conditions — Leonberger Polyneuropathy (LPN) and Leukoencephalomyelopathy (LEMP) — for which DNA tests exist and should be required from any responsible breeder. The combination of short lifespan and known genetic conditions makes breeder selection and DNA test documentation non-negotiable for this breed.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Leonbergers Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Massive, lion-like, and striking. Males are considerably larger than females — males typically weigh 130–170 lbs and stand 28–31.5 inches; females 90–130 lbs and 25.5–29.5 inches. The overall impression is of a powerful but elegant giant — not the shapeless bulk of some mastiff breeds, but a well-proportioned, muscular dog with clear working-dog structure.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The double coat is long and flowing, ranging from lion-yellow to mahogany, always with a black mask. The mane — particularly developed in males — is the breed's visual signature. The coat requires substantial maintenance; it mats, it collects debris, and it sheds heavily year-round with dramatic seasonal blows. This is one of the highest-grooming-commitment breeds in the Working Group. Do not acquire a Leonberger unless you are prepared to spend meaningful time on coat maintenance every week.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Leonbergers are consistently gentle, patient, and affectionate. They are one of the most family-friendly breeds in the giant category — more reliably tolerant with children than many working breeds of similar size. Their patience is real, not just absence of aggression. Well-bred Leonbergers have an emotionally warm, attentive quality that their owners find deeply compelling.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">They are sociable with strangers compared to guardian breeds — not suspicious or aloof. A well-socialized Leonberger is typically friendly and approachable, making them poor guard dogs by temperament (though their size alone deters casual intruders). They do not like being left alone for extended periods and can develop separation anxiety.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They retain a working spirit from their heritage — they enjoy water, are natural swimmers, and do well in activities like drafting, tracking, and therapy work. Mental engagement matters as much as physical exercise. A Leo with nothing to do becomes restless and sometimes vocal.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Leonberger",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Every Leonberger owner I've spoken with describes the same two things: how extraordinary the dog was, and how much it hurt when they died too soon. Seven to nine years is not a long time with a dog you love. Going in with your eyes open about the lifespan is essential — the grief of giant breed ownership arrives earlier than with most breeds, and it's real.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The genetic health conditions — LPN and LEMP — are serious. LPN (Leonberger Polyneuropathy) is a progressive neurological disease affecting the peripheral nervous system. LEMP (Leukoencephalomyelopathy) affects the spinal cord. Both have DNA tests available. A responsible breeder tests both parents and provides documentation. If a breeder cannot produce LPN and LEMP DNA test results for both parents, do not buy that puppy. Full stop. This is not precautionary — it's the minimum standard for responsible Leonberger breeding.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The grooming commitment is genuine. Long-coated giant breeds shed constantly, mat if not maintained, and require regular baths that become productions at 150 lbs. Budget time for this, not just money. If you do all of this knowingly, the Leonberger may be the most rewarding breed you'll ever have.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of moderate exercise daily. Leonbergers are moderate-energy for their size — they enjoy activity but are not relentless working dogs requiring exhausting output. They particularly love water and are natural swimmers. Avoid heavy exercise in heat — like most large breeds, they are heat-sensitive. Follow the puppy exercise rule strictly (5 min per month of age, twice daily): giant breed growth plates close later than in smaller breeds, and joint damage from over-exercise in puppyhood is lasting.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">This is the most significant daily commitment of Leonberger ownership. Weekly brushing (minimum) with thorough line-brushing to prevent mats. Daily brushing during coat blows. The mane and rear furnishings are the highest-maintenance areas. Bathing a 150-lb dog requires preparation and proper drying to prevent hot spots in the dense undercoat. See the <a href=\"/blogs/dog-breeds/leonberger-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Leonberger grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Leonbergers are willing and relatively easy to train compared to dominant working breeds. They respond well to positive reinforcement and are sensitive dogs — harsh corrections produce shutdown rather than compliance. Their size makes basic obedience non-negotiable: a 160-lb dog that pulls on leash or jumps on people is a safety hazard regardless of friendly intent. Start training from the first day home and never let the puppy do anything you wouldn't want the adult to do.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Leonberger carries significant health burdens that contribute to its short lifespan. Understanding these conditions before acquiring the dog is essential.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">LPN (Leonberger Polyneuropathy)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Progressive neurological disease affecting peripheral nerves. Causes weakness, incoordination, exercise intolerance progressing to paralysis. DNA test available. Both parents must be tested — ask for documentation before committing to a puppy. No treatment; management only.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">LEMP (Leukoencephalomyelopathy)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Progressive spinal cord condition causing increasing hind limb weakness and incoordination. DNA test available. Require clear documentation from both parents. Fatal; no treatment.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Very high incidence in the breed. OFA or PennHIP clearances required from both parents. Managed with medication and joint support; severe cases require surgical intervention.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Developmental elbow abnormality causing lameness. Ask breeders for OFA elbow clearances. Surgical treatment in significant cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Dilated Cardiomyopathy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Enlarged, weakened heart muscle. Giant breeds have elevated cardiac risk. Cardiac screening by a veterinary cardiologist should be part of the health testing protocol. Manageable with medication; can limit lifespan.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Deep-chested giant breed with significant GDV risk. Prophylactic gastropexy at the time of spay/neuter is strongly recommended. Know the signs of bloat: distended abdomen, unproductive retching, restlessness, rapid deterioration.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Require from breeders:</strong> LPN DNA test (both parents), LEMP DNA test (both parents), OFA hip, OFA elbow, cardiac evaluation. No exceptions.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$2,000–$4,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (giant breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$900–$1,400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$900–$1,400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$800–$1,600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$800–$1,600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (giant crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$5,100–$9,700</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,700–$4,900</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/leonberger-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Leonberger first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Leonberger Right for You?",
+      "good_fit": [
+        "Families wanting a gentle, patient giant-breed companion",
+        "Owners fully committed to the significant grooming requirements",
+        "People who have honestly accepted the 7–9 year lifespan",
+        "Owners who will require and verify LPN and LEMP DNA test documentation",
+        "Active families who enjoy outdoor activities and water sports"
+      ],
+      "not_fit": [
+        "Anyone who cannot or will not commit to daily/weekly coat maintenance",
+        "Owners expecting a 12+ year companion — the realistic average is 7–9 years",
+        "Those who will purchase from breeders without full genetic health documentation",
+        "Hot climates without reliable air conditioning — Leos struggle in heat",
+        "Households where dog hair is a significant problem — shedding is very heavy"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Leonberger",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$2,000–$4,000 from reputable breeders who health-test. Non-negotiable clearances: LPN DNA test (both parents), LEMP DNA test (both parents), OFA hip, OFA elbow, cardiac evaluation. The Leonberger Club of America maintains a breeder directory. Wait lists are common for health-tested litters.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Leonberger rescue operates through the Leonberger Club of America Health and Rescue Committee. Surrendered Leos are often from owners who could not meet the grooming demands or underestimated the size. Adults in rescue can be wonderful placements for experienced giant-breed owners.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Leonberger comes home, complete the <a href=\"/blogs/dog-breeds/leonberger-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Leonberger puppy checklist</a> — LPN/LEMP documentation verification and gastropexy planning are the most critical pre-arrival items.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "What is LPN and why does it matter?", "a": "Leonberger Polyneuropathy (LPN) is a progressive inherited neurological disease that causes weakness, incoordination, and eventually paralysis. It is specific to Leonbergers and has no treatment. A DNA test identifies carriers and affected dogs, allowing responsible breeders to avoid producing affected puppies. Any reputable Leonberger breeder tests both parents and can provide documentation. If a breeder cannot show you LPN (and LEMP) test results for both parents, do not buy that puppy." },
+    { "q": "How long do Leonbergers live?", "a": "7–9 years is the realistic average. This is shorter than most dog owners expect and shorter than most large breeds. It reflects the cumulative health challenges in the breed — orthopedic conditions, cardiac disease, and genetic conditions all contribute. Going into Leonberger ownership with honest lifespan expectations is important. The short time with them is still extraordinary; it just ends sooner than you're ready for." },
+    { "q": "How much grooming does a Leonberger actually need?", "a": "A lot — this is one of the highest-grooming-commitment breeds in the Working Group. The long double coat mats without regular maintenance and sheds heavily year-round. Minimum is a thorough brushing twice a week; during coat blows, daily brushing is required. The mane and rear furnishings are particularly prone to matting. Add bathing every 6–8 weeks and complete drying to prevent hot spots. If this sounds like too much, the Leonberger is the wrong breed." },
+    { "q": "Are Leonbergers good with children?", "a": "Yes — they are among the most reliably gentle and patient giant breeds with children. Their temperament with kids is genuinely exceptional. The caveat is size: a 150-lb dog moving enthusiastically can knock a small child over without any aggressive intent. Supervision with toddlers is necessary simply due to mass, and children should be taught to interact safely with a very large dog." }
+  ],
+
+  "related_breeds": [
+    {"name": "Bernese Mountain Dog", "slug": "bernese-mountain-dog", "note": "Similar gentle giant temperament, similar lifespan challenges, more widely available"},
+    {"name": "Greater Swiss Mountain Dog", "slug": "greater-swiss-mountain-dog", "note": "Swiss giant breed, shorter coat, similar health challenges"},
+    {"name": "Saint Bernard", "slug": "saint-bernard", "note": "Similar origin breeds in the Leo's creation, gentle giant temperament, heavy drooler"},
+    {"name": "Newfoundland", "slug": "newfoundland", "note": "Ancestor breed, water-loving, similar gentle temperament, even heavier coat"}
+  ]
+}

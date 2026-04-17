@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "name": "Cane Corso",
+    "slug": "cane-corso",
+    "shopify_handle": "cane-corso",
+    "group": "Working Group",
+    "size_category": "Large Breed",
+    "tagline": "The Cane Corso is a large, muscular Italian mastiff built for protection and work. Deeply loyal to family, reserved and suspicious of strangers, and emphatically not a breed for inexperienced owners.",
+    "tags": ["working-group", "large-breed", "guardian", "loyal", "italian-breed", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-18T16:00:00Z",
+    "excerpt": "Cane Corsos are confident, powerful guardian dogs that bond intensely to their family and treat strangers with deep suspicion. They require experienced ownership, rigorous early socialization, and serious health screening. They are not beginner dogs — full stop.",
+    "meta_description": "Cane Corso breed guide: temperament, guardian instincts, health risks including JLPP and bloat, BSL restrictions, and what experienced ownership actually looks like."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "88–110+ lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "9–12 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Family only" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cane_corso_temi_1_1024x768x24_(cropped).png/330px-Cane_corso_temi_1_1024x768x24_(cropped).png",
+      "alt": "Cane Corso"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Cane Corso?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Cane Corso is an ancient Italian mastiff-type breed with roots in Roman war dogs and centuries of use as a property guardian, livestock driver, and big-game hunter. The name derives from the Latin cohors, meaning guardian or protector. It was nearly extinct by the mid-20th century and revived through dedicated Italian breeding programs. The AKC recognized the breed in 2010.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">In the right context, a Cane Corso is an extraordinary dog: calm and confident with family, deeply loyal, naturally protective without being neurotic about it. The physical presence alone is commanding. A well-bred, well-raised Corso is one of the most stable guardian breeds available.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The honest context: Cane Corsos are not beginner dogs by any definition. Their size, strength, guardian instinct, and reserved nature toward strangers require an owner who has done the work — extensive early socialization, structured training, and the management capacity that comes with owning a 110-lb dog that takes its protective role seriously. Before purchasing, verify whether your jurisdiction has Breed Specific Legislation (BSL) restrictions on Cane Corsos — they are banned or restricted in some cities and counties.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Cane Corsos Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Large and muscular, with a heavy rectangular head and a serious, watchful expression. Males typically weigh 99–110+ lbs; females 88–99 lbs. Height at the withers is 23.5–27.5 inches. The build is athletic and powerful — this is a working dog, not a sedentary giant.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The short, stiff double coat sheds moderately. Colors include black, gray (all shades), fawn, red, and brindle. Black or gray masks are typical. The natural ears are cropped in the traditional Italian style in some lines; uncropped ears are medium-sized and triangular. Dewclaws are typically removed. The Corso projects an unmistakable presence — people notice this dog immediately.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family: calm, affectionate, and profoundly loyal. Corsos bond deeply with their household and are typically gentle and patient with family members including children they've been raised with. They are present and attentive — not aloof or indifferent like some guardian breeds.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With strangers: naturally reserved and suspicious. A well-socialized Corso assesses strangers with quiet watchfulness and accepts them when introduced appropriately. An under-socialized Corso can be reactive or threatening in ways that create real liability. The difference between these two outcomes is almost entirely the work done in the first 16 weeks of life.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With other animals: can be dog-aggressive, particularly toward same-sex dogs or dominant dogs. The prey drive toward small animals is real. Careful, early socialization can improve coexistence, but these tendencies are in the breed and require ongoing management.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Cane Corso",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">If you're drawn to the Cane Corso because of the look — that massive, dignified head, that commanding presence — you're not wrong to be drawn. It's a remarkable-looking dog with a personality that matches. A well-bred Corso in a skilled home is one of the most impressive breeds you'll encounter.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The questions you need honest answers to before you commit: Have you owned a large guardian breed before? Do you have the physical capacity to manage a 110-lb dog that decides something is threatening? Do you live somewhere BSL isn't an issue? Can you provide the socialization this dog needs in its first 4 months? Are you prepared for the gastropexy conversation at your first vet visit?</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">If all those answers are yes — and especially if you've done this before — a Cane Corso can be a truly exceptional companion. If any of those answers is no, a different breed will serve you and the dog better.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of daily exercise. Leashed walks, structured yard play, or hiking. Corsos are athletic and need real activity — a tired Corso is a calm Corso. Exercise must be on-leash or in a securely fenced area; their guarding instinct and size make off-leash work in unsecured areas inappropriate. Minimum 6-foot privacy fence.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Low maintenance for the coat — weekly brushing with a rubber mitt or bristle brush is sufficient. Wrinkle and face-fold cleaning is important if the dog has significant facial folds; moisture and debris trap in skin folds and cause dermatitis if not kept dry and clean. Ears need weekly cleaning. See the <a href=\"/blogs/dog-breeds/cane-corso-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Cane Corso grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Intelligent and trainable, but requires consistent, confident handling. Corsos respond well to positive reinforcement with clear structure. They don't respond well to harsh or adversarial corrections — a Corso that has lost trust in its handler is a management problem. Enroll in obedience class immediately and work with a trainer experienced in large guardian breeds if needed.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Cane Corsos are a relatively healthy breed with a lifespan of 9–12 years. The critical health concerns include some that are fatal if unscreened, and one — JLPP — that is a non-negotiable DNA test requirement from the breeder.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">JLPP (Juvenile-onset Laryngeal Paralysis and Polyneuropathy)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">A progressive, fatal neurological disease that is autosomal recessive — a puppy must inherit two copies of the gene to be affected. DNA testing of both parents confirms carrier or clear status. Do not purchase a puppy from a breeder who cannot provide JLPP DNA test results for both parents. There is no treatment; affected puppies deteriorate and die.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Common in large breeds. OFA hip evaluation required from breeders. Managed with medication and physical therapy in moderate cases; surgical intervention in severe cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformation of the elbow joint causing lameness and arthritis. OFA elbow screening available. Surgical options exist for severe cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Cardiac Issues (Subaortic Stenosis)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Narrowing of the outflow tract of the heart. OFA cardiac evaluation required from breeders. Severity varies; affects exercise tolerance and longevity in significant cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Eyelid Issues (Ectropion / Entropion)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Outward or inward rolling of the eyelid, both causing irritation and potential corneal damage. Surgical correction is available and often curative.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Deep-chested breeds are at significant risk for gastric dilatation-volvulus. A life-threatening emergency requiring immediate surgery. Discuss prophylactic gastropexy at your first vet visit — this procedure, performed during spay/neuter, eliminates the torsion risk and is strongly recommended for male Corsos especially.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> JLPP DNA test (both parents), OFA hip, OFA elbow, OFA cardiac clearances. JLPP documentation is non-negotiable.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$3,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,100</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,100</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Gastropexy (strongly recommended)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$700–$1,400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$700–$1,400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Secure fencing (if needed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$2,500+</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (large crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Training</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$4,500–$9,000</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,000–$3,600</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/cane-corso-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Cane Corso first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Cane Corso Right for You?",
+      "good_fit": [
+        "Experienced owners who have previously owned large guardian or working breeds",
+        "Households without BSL restrictions — verify local laws before purchasing",
+        "Owners with secure 6-foot fencing already in place or budgeted",
+        "People committed to rigorous early socialization starting at 8 weeks",
+        "Owners who want a loyal, protective family dog and understand the management responsibility that entails"
+      ],
+      "not_fit": [
+        "First-time dog owners — this is not the breed to learn on",
+        "Households in jurisdictions with Cane Corso BSL — check before you commit",
+        "People who cannot provide structured daily exercise and consistent training",
+        "Owners not prepared to discuss and budget for gastropexy",
+        "Anyone who cannot physically manage a 100–110 lb dog if it becomes unruly"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Cane Corso",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">BSL Check First</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Before doing anything else, verify that your city, county, and any HOA permit Cane Corsos. BSL varies by jurisdiction and is not always well-publicized. Some homeowner's insurance policies also exclude specific breeds — check yours.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$3,500 from reputable breeders. Required health clearances: JLPP DNA test for both parents (non-negotiable), OFA hip, OFA elbow, OFA cardiac. The Cane Corso Association of America maintains a breeder referral list. Any breeder who cannot produce JLPP documentation should be declined.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Cane Corso rescue organizations exist but are heavily oversubscribed. Many dogs are surrendered by owners who underestimated the breed. Rescue Corsos require experienced handlers and careful assessment of the individual dog's history and temperament.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Corso comes home, complete the <a href=\"/blogs/dog-breeds/cane-corso-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Cane Corso puppy checklist</a> — fence verification, insurance enrollment, and training class reservations are the critical pre-arrival items.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "Are Cane Corsos good family dogs?", "a": "With their own family — yes, when properly raised. Corsos are calm, affectionate, and protective of the people they consider theirs, including children in the household. The critical qualifier is upbringing: a Corso raised with consistent socialization and structure is a very different dog from one that isn't. With unfamiliar people and animals, the breed's natural guardedness requires ongoing management." },
+    { "q": "Are Cane Corsos restricted by Breed Specific Legislation?", "a": "Yes, in some jurisdictions. BSL varies significantly by city, county, and country. Some locations ban or restrict Cane Corsos outright; others require special permits, liability insurance, or muzzling in public. Verify your local laws and your homeowner's insurance policy before purchasing. This is non-negotiable due diligence." },
+    { "q": "What is JLPP and why does it matter for Cane Corsos?", "a": "JLPP (Juvenile-onset Laryngeal Paralysis and Polyneuropathy) is a progressive, fatal neurological disease with an identified genetic mutation in Cane Corsos. It is autosomal recessive — a puppy must inherit the defective gene from both parents to be affected. DNA testing of both parent dogs eliminates the risk of producing affected puppies. Reputable breeders test for JLPP and can provide documentation. Do not purchase a puppy from a breeder who cannot provide JLPP test results for both parents." },
+    { "q": "What does gastropexy mean and should I get one for my Cane Corso?", "a": "Gastropexy is a surgical procedure that tacks the stomach to the abdominal wall, preventing it from twisting (which is the life-threatening component of bloat/GDV). It is typically performed during spay or neuter. For deep-chested breeds like the Cane Corso, prophylactic gastropexy is strongly recommended — GDV can kill a dog within hours and is not always survivable even with emergency surgery. Discuss it at your first vet visit." }
+  ],
+
+  "related_breeds": [
+    {"name": "Rottweiler", "slug": "rottweiler", "note": "Similar guardian profile, more widely established, slightly more trainable"},
+    {"name": "Mastiff", "slug": "mastiff", "note": "Calmer temperament, lower energy, more drool, shorter lifespan"},
+    {"name": "Doberman Pinscher", "slug": "doberman-pinscher", "note": "Athletic guardian, more trainable, significant cardiac health concern"},
+    {"name": "German Shepherd Dog", "slug": "german-shepherd-dog", "note": "More versatile and trainable, less guarding instinct, longer lifespan"}
+  ]
+}

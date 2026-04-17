@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "name": "Australian Cattle Dog",
+    "slug": "australian-cattle-dog",
+    "shopify_handle": "australian-cattle-dog",
+    "group": "Herding Group",
+    "size_category": "Medium Breed",
+    "tagline": "The Australian Cattle Dog is one of the most intelligent, driven, and capable working breeds in existence — and one of the most mismatched breeds for typical pet life. Without a job and serious daily mental and physical work, they become a problem you didn't sign up for.",
+    "tags": ["herding-group", "medium-breed", "high-energy", "working-dog", "intelligent", "blue-heeler", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-20T16:00:00Z",
+    "excerpt": "Australian Cattle Dogs — Blue Heelers, Red Heelers — are extraordinary working dogs that need extraordinary owners. If you can't give one a job, don't get one.",
+    "meta_description": "Australian Cattle Dog breed guide: herding instinct, heel-nipping with children, extreme work drive, health conditions including PRA and deafness, and whether an ACD fits your household."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "35–50 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–16 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "90–120+ min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low-Moderate" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Mod-Challenging" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Needs management" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ACD-blue-spud.jpg/250px-ACD-blue-spud.jpg",
+      "alt": "Australian Cattle Dog"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is an Australian Cattle Dog?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Australian Cattle Dog was developed in 19th-century Australia specifically for mustering cattle across vast, rough terrain — work that required an extraordinarily tough, fast, intelligent, independent dog with a drive that could sustain hours of demanding physical work. The Blue Heeler (blue mottled coat) and Red Heeler (red speckled coat) are the same breed, differentiated by coat color genetics.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The ACD's working method is heeling — nipping at the heels of cattle to move them. This instinct does not stay at the farm. It transfers directly to children running in the backyard, joggers, bikes, and anything else moving quickly near the dog. It's not aggression — it's deeply ingrained herding behavior — but it requires management from day one.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The Guinness World Record for oldest dog ever was an Australian Cattle Dog named Bluey, who lived to 29 years. The breed regularly lives to 15–16. This is a very long commitment to a very high-needs dog.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Australian Cattle Dogs Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Medium-sized, compact, and heavily muscled for their weight. 35–50 lbs, 17–20 inches. The blue mottled variety has a blue, blue-mottled, or blue speckled coat with or without black, blue, or tan markings. The red speckled variety has an even red speckle. Both have a double coat with a short, dense outer coat and a thick undercoat.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">ACDs are born white — the color and pattern develops in the first few weeks. This is shared with Dalmatians due to the same piebald genetics, which is also why both breeds have elevated deafness rates. The characteristic alert expression and pricked ears reflect a dog that is constantly processing its environment.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Loyal, alert, intensely devoted to their person, and relentlessly driven to work. ACDs bond very closely to one person or family and can be wary of strangers. They're not unfriendly — they're discriminating. Once you're their person, you're their person completely.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The work drive is the defining temperament trait and the primary management challenge. An ACD with nothing to do will find something to do — and what they find to do is never what you wanted. Digging, chewing, obsessive behaviors, and attempts to herd every moving thing in the household are the direct result of insufficient mental and physical stimulation.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With children: the heel-nipping instinct is real and needs active management from puppyhood. An ACD puppy that isn't taught from day one that nipping at running children is not acceptable will be an ACD adult with a firmly established habit. They can be excellent family dogs for older children who understand dog behavior — but the herding instinct does not disappear with training, it is managed with it.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About an Australian Cattle Dog",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Australian Cattle Dog attracts people who want an intelligent, active dog. That's entirely the right instinct — ACDs are genuinely exceptional animals with a work ethic and intelligence that is remarkable to witness. The problem is that \"active\" for an ACD means something categorically different from what most people imagine when they say they want an active dog.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">An under-exercised and under-stimulated ACD doesn't just get bored — it gets compulsive, destructive, and difficult. The work drive turns inward and produces behaviors: obsessive ball-fixation, herding the kids, digging every inch of the yard, barking at everything. This isn't a badly trained dog; it's a dog that was built for a job and isn't getting one.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">If you're genuinely active — you trail run, do agility, herd actual livestock, or have a working farm — the ACD will be one of the best dogs you've ever had. If you have a normal job, a yard, and two walks a day, this is not the right breed. The gap between what this dog needs and what typical ownership provides is the source of a large number of surrendered ACDs.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">90–120+ minutes daily of real physical exercise — not casual walking. Running, cycling, swimming, agility, herding trials, flyball. This breed needs both physical and mental stimulation; physical exercise alone without mental engagement doesn't fully address the work drive. A tired ACD is a manageable ACD.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Mental Stimulation</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">As important as physical exercise. Training sessions, puzzle toys, nose work, trick training, dog sports. An ACD that gets adequate physical exercise but no mental engagement will still develop problematic behaviors. The brain needs a job as much as the body does.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Relatively low maintenance — weekly brushing, more during seasonal shedding. The double coat is dense but short. No professional grooming required. See the <a href=\"/blogs/dog-breeds/australian-cattle-dog-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">ACD grooming guide</a> for the full routine.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Generally hardy with an excellent lifespan of 12–16 years. Key health concerns are musculoskeletal and genetic.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint. OFA clearances required from responsible breeders. Ask for both parents' OFA numbers and verify them at ofa.org.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inherited degeneration of the retina leading to blindness. PRCD-PRA DNA test available. Reputable breeders test both parents; affected dogs should not be bred. No treatment, but DNA testing eliminates the condition from responsible breeding lines.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Congenital Deafness</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Like Dalmatians, ACDs share piebald genetics that can cause deafness. BAER testing is recommended for breeding stock. Ask whether the puppy's parents were BAER tested.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">OCD (Osteochondrosis Dissecans)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">A joint condition where cartilage develops abnormally. Causes pain and lameness, typically in the shoulder. Most often presents in young, rapidly growing dogs. Surgical treatment in severe cases.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Lens Luxation</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The lens of the eye shifts out of position. A painful condition requiring prompt treatment to prevent glaucoma and blindness. DNA test available. More common in terrier and herding breeds.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, PRCD-PRA DNA test, BAER hearing test, and CAER eye exam clearances.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed, high activity)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Training (puppy + obedience + sport)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$200–$400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,700–$5,000</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,400–$2,600</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/australian-cattle-dog-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full ACD first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is an Australian Cattle Dog Right for You?",
+      "good_fit": [
+        "Owners who run, hike, or participate in dog sports and want an athletic partner",
+        "Working farms or ranches where the dog can have a genuine job",
+        "Experienced handlers who understand high-drive working breeds",
+        "People willing to commit to 90+ minutes of daily structured exercise",
+        "Owners who will enroll in agility, herding, flyball, or another dog sport"
+      ],
+      "not_fit": [
+        "First-time dog owners or casual pet owners",
+        "Households with very young children (heel-nipping instinct is hard to fully eliminate)",
+        "Anyone who can't provide extensive daily physical AND mental exercise",
+        "Apartment dwellers without access to large secure exercise areas",
+        "People who want a relaxed, low-key companion"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Australian Cattle Dog",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,500 from reputable breeders. Required clearances: OFA hip, PRCD-PRA DNA test, BAER hearing test, CAER eye exam. The Australian Cattle Dog Club of America maintains a breeder referral directory. Verify OFA numbers at ofa.org.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">ACD rescue organizations exist nationwide. Many are surrendered by owners who didn't anticipate the exercise and stimulation requirements. Experienced handlers only for rescue ACDs — these dogs often arrive with established behaviors that need patient, consistent management.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your ACD comes home, complete the <a href=\"/blogs/dog-breeds/australian-cattle-dog-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">ACD puppy checklist</a> — exercise plan, mental enrichment strategy, and herding-instinct management plan are the critical pre-arrival items.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "Why is an Australian Cattle Dog called a Blue Heeler?", "a": "The 'heeler' name comes from the breed's cattle-working method: nipping at the heels of cattle to move them. 'Blue' refers to the blue mottled coat color. Red Heelers are the same breed with a red speckled coat. Both are officially called Australian Cattle Dogs." },
+    { "q": "Will an Australian Cattle Dog herd my children?", "a": "Quite possibly yes, especially with running children. The heel-nipping instinct is deeply ingrained and doesn't disappear with training — it's managed with training. ACDs raised from puppyhood with consistent boundaries around nipping are manageable, but the instinct is always there. Families with very young children who run unpredictably should be honest about whether this is the right match." },
+    { "q": "How much exercise does an ACD really need?", "a": "More than most people provide — 90 to 120+ minutes of real, sustained activity daily. This is a cattle-working dog built for all-day physical endurance. Casual walks don't come close. Running, cycling, agility, herding, swimming, and vigorous fetch all work. Mental stimulation is equally critical — the brain needs exercise as much as the body." },
+    { "q": "Are Australian Cattle Dogs good apartment dogs?", "a": "Generally no. Their exercise and stimulation requirements make apartment life a significant challenge. An ACD in an apartment can work if the owner has extraordinary commitment to daily exercise and enrichment — but any lapse in that routine creates behavioral problems quickly. A house with a securely fenced yard is a much more appropriate environment." }
+  ],
+
+  "related_breeds": [
+    {"name": "Border Collie", "slug": "border-collie", "note": "Similarly extreme intelligence and work drive, herding background, requires even more mental stimulation"},
+    {"name": "Belgian Malinois", "slug": "belgian-malinois", "note": "Even higher drive, police/military working background, requires working handler"},
+    {"name": "Kelpie", "slug": "kelpie", "note": "Australian herding breed, similar drive and intelligence, slightly smaller"}
+  ]
+}

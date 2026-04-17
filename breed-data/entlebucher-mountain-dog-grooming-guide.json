@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Entlebucher Mountain Dog Grooming Guide",
+    "slug": "entlebucher-mountain-dog-grooming-guide",
+    "shopify_handle": "entlebucher-mountain-dog-grooming-guide",
+    "group": "Entlebucher Mountain Dog",
+    "size_category": "Guide",
+    "tags": ["entlebucher-mountain-dog", "grooming"],
+    "published": true,
+    "published_at": "2026-05-04T16:00:00Z",
+    "excerpt": "The Entlebucher Mountain Dog has a short, dense tricolor coat that is easy to maintain. Weekly brushing, seasonal deshedding, and basic care keep this hardworking Swiss breed looking sharp.",
+    "meta_description": "Entlebucher Mountain Dog grooming guide: short coat care, seasonal shedding, bathing, and basic maintenance for Switzerland's smallest Sennenhund."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Entlebucher_Sennenhund_600.jpg/330px-Entlebucher_Sennenhund_600.jpg",
+      "alt": "Entlebucher Mountain Dog grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "A Low-Maintenance Working Coat",
+      "html": "<p>The Entlebucher Mountain Dog's coat is short, dense, and tight to the body — a practical working coat designed for the Swiss alpine environment rather than for show-ring drama. It requires minimal professional grooming and is straightforward to maintain at home. The distinctive tricolor pattern (black, rust, and white) stays vivid with basic upkeep. The main grooming event is seasonal shedding: the Entlebucher sheds its undercoat moderately twice a year, which requires more frequent brushing during those periods. Outside of shedding season, a weekly brush-through is entirely sufficient.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Weekly Brush and Seasonal Deshedding",
+      "html": "<p><strong>Brushing:</strong> Once weekly with a medium-bristle brush or rubber curry brush to remove loose hair and keep the coat clean and healthy. During shedding seasons (spring and fall), increase to 2–3 times per week and use an undercoat rake or deshedding tool to pull out the loosening undercoat.</p><p><strong>Bathing:</strong> Every 4–8 weeks or as needed. The Entlebucher is an active outdoor dog and may need bathing more frequently after muddy hikes or farm work. Use a dog shampoo appropriate for short, dense coats. Drying is quick given the coat length.</p><p><strong>Nails:</strong> Trim monthly. Active dogs that run on varied terrain may wear nails down naturally, but regular checking is still needed.</p><p><strong>Ears:</strong> Check weekly for redness or odor. The drop ears can trap moisture, especially after swimming or wet outdoor activity.</p><p><strong>Teeth:</strong> Brush several times per week. Dental disease is the most common preventable health issue across all dog breeds.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Post-Activity Coat Checks for Working Dogs",
+      "html": "<p><strong>Active lifestyle coat care:</strong> The Entlebucher's working heritage means many individuals spend significant time outdoors — hiking, running, herding, or participating in dog sports. After outdoor activity, check the coat for burrs, seeds, ticks, and debris. The short coat makes this check quick and easy. Pay particular attention to the armpits, groin, and between the toes where debris tends to lodge.</p><p><strong>Tick prevention:</strong> Active outdoor dogs have higher parasite exposure. Use veterinarian-recommended tick prevention year-round in endemic areas, and check the dog after every outdoor session during tick season. The short coat makes tick detection easier than in long-coated breeds.</p><p><strong>Seasonal shedding:</strong> The twice-yearly coat blows are the main grooming challenge. A high-velocity dryer or deshedding grooming tool can dramatically speed the process of removing the loosening undercoat. Many owners find that one thorough deshedding session at the start of each shedding period, ideally after a bath, makes the subsequent weeks much more manageable.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Do Entlebucher Mountain Dogs need professional grooming?",
+      "a": "No. The short, dense coat requires no trimming or professional styling. All maintenance can be done at home with basic tools. Some owners treat their dog to an occasional professional bath and blowout, but it is not necessary."
+    },
+    {
+      "q": "How much does an Entlebucher shed?",
+      "a": "Moderate shedding year-round with two heavier shedding seasons in spring and fall. During those periods, daily brushing or a thorough deshedding session helps manage the volume significantly."
+    },
+    {
+      "q": "What brush works best for an Entlebucher Mountain Dog?",
+      "a": "A rubber curry brush or medium-bristle brush for regular maintenance, and an undercoat rake or deshedding tool (like a Furminator for short coats) during shedding season."
+    }
+  ]
+}

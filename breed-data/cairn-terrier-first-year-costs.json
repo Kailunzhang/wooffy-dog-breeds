@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Cairn Terrier First Year Costs",
+    "slug": "cairn-terrier-first-year-costs",
+    "shopify_handle": "cairn-terrier-first-year-costs",
+    "group": "Cairn Terrier",
+    "size_category": "Guide",
+    "tags": ["cairn-terrier", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-04-28T16:00:00Z",
+    "excerpt": "The Cairn Terrier is one of the more affordable terrier breeds to own, thanks to its small size and hardy constitution. Here's a realistic first-year cost breakdown for prospective owners.",
+    "meta_description": "Cairn Terrier first year costs: puppy price, food, vet care, grooming, and supplies. Budget $2,500–$4,500 for year one with this sturdy Scottish terrier."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cairn-Terrier-Garten1.jpg/330px-Cairn-Terrier-Garten1.jpg",
+      "alt": "Cairn Terrier"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Upfront Costs of Getting a Cairn Terrier",
+      "html": "<p>The Cairn Terrier's small size makes the initial costs of ownership relatively manageable compared to larger breeds. Here's what to budget before your puppy arrives.</p><p><strong>Puppy Purchase Price: $1,200–$2,500.</strong> A responsibly bred Cairn Terrier from a health-tested breeder falls in this range. Breeders who DNA test for Globoid Cell Leukodystrophy (Krabbe disease) and check for eye conditions demonstrate the commitment to health you want. Show-quality puppies from champion lines may be priced higher.</p><p><strong>Crate: $40–$80.</strong> A 24–30 inch crate is appropriate for an adult Cairn Terrier. Start with a divider panel to make the space appropriately sized for a puppy.</p><p><strong>Dog Bed: $30–$70.</strong> A comfortable, washable dog bed. Cairns are not as demanding on joint support as large breeds, but a good bed is still worthwhile.</p><p><strong>Collar and Leash: $25–$50.</strong> A small adjustable collar (the Cairn will grow into it) and a 4–6 foot leash. Consider a harness for walks if the dog pulls, as small breed tracheas can be vulnerable to collar pressure.</p><p><strong>Food and Water Bowls: $15–$35.</strong> Stainless steel bowls in a size appropriate for a small breed.</p><p><strong>Initial Vet Visit: $200–$400.</strong> First exam, DHPP puppy vaccine series, rabies, deworming, and flea/tick prevention. Microchipping if not already done by the breeder ($25–$75).</p><p><strong>Spay/Neuter: $250–$450.</strong> Typically performed around 6–12 months for small breeds.</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Recurring First Year Costs",
+      "html": "<p><strong>Food: $30–$50/month ($360–$600/year).</strong> Cairn Terriers eat approximately half a cup to 1 cup of high-quality small-breed dry food daily. Small-breed formulas provide the higher calorie density appropriate for their fast metabolism.</p><p><strong>Veterinary Care: $300–$500/year.</strong> Annual wellness exam, booster vaccines, heartworm test, and monthly flea/tick/heartworm prevention. Small-breed medication is less expensive than large-breed due to lower weight-based dosing.</p><p><strong>Grooming: $180–$400/year.</strong> Professional grooming every 6–8 weeks for a clipped coat ($60–$80 per visit for a small dog, 4–6 visits per year). If you opt for hand-stripping, visits are less frequent (2–3 per year) but may cost slightly more per session. Home brushing supplies cost $30–$60 one-time.</p><p><strong>Training: $150–$350/year.</strong> Puppy socialization class plus basic obedience. Group classes are especially valuable for this breed. Budget $100–$200 per 6-week session, 1–2 sessions in the first year.</p><p><strong>Pet Insurance: $20–$40/month ($240–$480/year).</strong> Worth considering given the breed's specific health risks including luxating patella and ocular melanosis. Enrolling early ensures the best coverage.</p><p><strong>Toys and Enrichment: $80–$150/year.</strong> Cairns enjoy chew toys, rope toys, and interactive puzzle feeders. Budget for replacement as toys wear out — terriers are enthusiastic chewers.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Cost Planning",
+      "html": "<p><strong>Estimated First Year Total: $2,500–$4,500</strong></p><p>Including purchase price ($1,200–$2,500), initial setup ($360–$635), and recurring first-year costs ($1,010–$2,030).</p><p><strong>Ongoing Annual Costs (Year 2+): $1,200–$2,200/year.</strong> The Cairn Terrier is one of the more economical breeds to maintain long-term, thanks to small size reducing food and medication costs, a long 13–15 year lifespan that spreads lifetime costs over many years, and relatively minimal grooming needs compared to some terrier breeds.</p><p><strong>Lifetime Cost Estimate:</strong> Over a 13–15 year lifespan, total ownership costs including purchase price typically range from $18,000–$35,000 — making the Cairn Terrier one of the more affordable purebred companion dog options.</p><p><strong>Health Cost Considerations:</strong> The potential for luxating patella ($1,500–$3,000 per knee for surgery if needed), liver shunt treatment (can be $3,000–$6,000), and ongoing management of ocular melanosis or hypothyroidism should be factored into emergency planning. Pet insurance or a dedicated savings fund is strongly recommended.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How much does a Cairn Terrier puppy cost?",
+      "a": "From a reputable health-testing breeder, $1,200–$2,500 is typical. Show-quality dogs from champion lines may cost more. Rescue adoption runs $200–$500."
+    },
+    {
+      "q": "Are Cairn Terriers expensive to maintain?",
+      "a": "No, they are one of the more affordable breeds. Their small size means lower food and medication costs, and their grooming needs, while real, are manageable. Annual ongoing costs average $1,200–$2,200."
+    },
+    {
+      "q": "What are the biggest unexpected costs with Cairn Terriers?",
+      "a": "Luxating patella surgery ($1,500–$3,000 per knee) and dental cleaning under anesthesia ($300–$600 annually for some dogs) are the most common unexpected expenses. Pet insurance can help offset these."
+    }
+  ]
+}

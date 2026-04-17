@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Cane Corso Grooming Guide",
+    "slug": "cane-corso-grooming-guide",
+    "shopify_handle": "cane-corso-grooming-guide",
+    "group": "Cane Corso",
+    "size_category": "Guide",
+    "tags": ["cane-corso", "grooming", "short-coat", "wrinkle-care", "large-breed"],
+    "published": true,
+    "published_at": "2026-04-18T16:00:00Z",
+    "excerpt": "Cane Corso grooming is low-effort for the coat but requires consistent attention to facial folds, ears, and nails. A 100+ lb dog that isn't accustomed to handling becomes difficult to groom — start from day one.",
+    "meta_description": "Cane Corso grooming guide: short coat maintenance, facial wrinkle and fold cleaning, ear care, nail trimming for a large breed, and habituating a powerful dog to handling from puppyhood."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cane_corso_temi_1_1024x768x24_(cropped).png/330px-Cane_corso_temi_1_1024x768x24_(cropped).png",
+      "alt": "Cane Corso grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Cane Corso Coat",
+      "heading": "Low-Maintenance Coat, Non-Negotiable Hygiene",
+      "html": "<p>The Cane Corso has a short, stiff double coat that sheds moderately year-round. Coat maintenance is genuinely minimal — this is not a high-grooming breed. The areas that require regular attention are the facial folds (if present), ears, and nails. Neglect in these areas leads to skin infections, ear disease, and mobility problems respectively.</p><h3>Grooming Tools You'll Need</h3><ul><li>Rubber grooming mitt or bristle brush — for weekly coat maintenance</li><li>Dog-safe ear cleaning solution and cotton balls</li><li>Heavy-duty nail clippers or a Dremel rotary tool — Corso nails are thick</li><li>Fragrance-free dog wipes or a soft damp cloth — for fold cleaning</li><li>Dog shampoo suitable for short coats</li></ul><h3>The Handling Imperative</h3><p>Cane Corsos are large, powerful dogs. A puppy that hasn't been accustomed to full-body handling — paws touched, ears examined, mouth opened, body brushed — will not simply accept it as an adult because you need it to. The time to habituate a Corso to grooming is during puppyhood. Every session from day one is also a handling exercise. This matters more for a 100-lb dog than for a 20-lb one.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush the coat with a rubber mitt or bristle brush — removes loose hair and distributes natural oils. Takes 5–10 minutes.</li><li>Inspect and clean facial folds if present — use a soft damp cloth or fragrance-free wipe to remove debris and moisture from skin folds. Dry thoroughly. Moist skin folds develop bacterial and yeast infections (intertrigo) if not kept clean and dry.</li><li>Check and clean ears — use a vet-approved ear cleaning solution. Look for redness, odor, or discharge. These are signs of infection requiring vet attention, not just cleaning.</li><li>Check between paw pads for debris or irritation.</li></ul><h3>Monthly / Every 6–8 Weeks</h3><ul><li>Bathe when dirty or on a regular schedule. Use dog shampoo and rinse thoroughly. The short coat dries relatively quickly.</li><li>Trim nails — Corso nails are thick and hard. If you hear clicking on hard floors, the nails are overdue. Overgrown nails affect posture and joint health in a large breed. If hand clipping is difficult, a rotary Dremel tool is an alternative; professional groomer nail trims are also available.</li></ul>"
+    },
+    "special": {
+      "label": "Fold and Ear Care",
+      "heading": "The Important Stuff: Folds, Ears, and Handling",
+      "html": "<h3>Facial Fold Management</h3><p>Not all Cane Corsos have significant facial folds, but those with deeper wrinkles around the muzzle and between the eyes need regular cleaning. Moisture, food debris, and bacteria accumulate in folds and cause pyoderma (bacterial skin infection) if not addressed. The routine: clean with a damp soft cloth, then dry thoroughly. The drying step is as important as the cleaning step — wet folds are the problem.</p><p>Signs of fold infection: redness, odor, discharge, or the dog rubbing its face persistently. Fold infections require veterinary antibiotic treatment; cleaning alone doesn't resolve an established infection.</p><h3>Ear Care for Drop-Eared Dogs</h3><p>The Cane Corso's natural drop ears limit airflow to the ear canal. Weekly cleaning reduces the risk of infection. Use a vet-approved cleaner — squirt into the ear canal, massage the base of the ear gently, let the dog shake, then wipe the outer canal with a cotton ball. Never insert cotton swabs into the ear canal.</p><h3>Building Tolerance in a Powerful Dog</h3><p>Start grooming sessions early and keep them brief. Use high-value treats throughout. The goal is to associate grooming tools and handling with positive outcomes before the dog has any negative associations to override. A Cane Corso that tolerates full-body handling, ear examination, and nail trimming calmly is the result of consistent work starting from puppyhood — not something that just happens.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often should I bathe my Cane Corso?",
+      "a": "Every 6–8 weeks routinely, or when the dog gets dirty. The short coat doesn't hold odor or debris the way long coats do. Overbathing strips natural oils; under-bathing in a dog with active skin folds allows bacterial buildup. A regular schedule every 6–8 weeks works well for most Corsos."
+    },
+    {
+      "q": "Do all Cane Corsos have facial wrinkles that need cleaning?",
+      "a": "Not to the same degree. Some Corsos have minimal facial wrinkling; others have deeper folds that require consistent maintenance. Inspect your dog's face during weekly grooming and clean any folds where moisture or debris could accumulate. When in doubt, wipe and dry — it takes 30 seconds and prevents infections."
+    },
+    {
+      "q": "How do I trim the nails on a large breed dog?",
+      "a": "Gradually, with habituated cooperation. Start handling paws from puppyhood so the adult dog accepts nail trimming without resistance. Use heavy-duty clippers designed for large breeds or a rotary Dremel tool. Trim small amounts at a time to avoid the quick. If the dog is resistant to nail trimming despite training, a professional groomer or vet can do it — it's worth the $15–$30 rather than fighting about it monthly."
+    }
+  ]
+}

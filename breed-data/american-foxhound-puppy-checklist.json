@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "American Foxhound Puppy Checklist",
+    "slug": "american-foxhound-puppy-checklist",
+    "shopify_handle": "american-foxhound-puppy-checklist",
+    "group": "American Foxhound",
+    "size_category": "Guide",
+    "tags": ["american-foxhound", "puppy", "checklist", "hound", "fence", "exercise"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "Everything you need before your American Foxhound comes home — including the fence check, exercise plan, and neighbor conversation you need to have before the baying starts.",
+    "meta_description": "American Foxhound puppy checklist: fencing requirements, exercise planning, socialization for a pack-bred hound, and essential gear for a large active scent hound."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/AmericanFoxhound2.jpg/250px-AmericanFoxhound2.jpg",
+      "alt": "American Foxhound puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "American Foxhound Puppy Prep: Fence, Exercise Plan, Neighbor Awareness",
+      "html": "<p>Before your American Foxhound puppy arrives, three practical items need to be in place: a secure fence, a realistic exercise plan you can actually execute daily, and an honest assessment of whether your neighbors will be affected by baying. The last item sounds minor — it is not. An American Foxhound baying in the yard at 6am is a neighbor relationship issue that gets serious fast.</p><h3>Fence Security Check</h3><ul><li>Minimum 5-foot fence — Foxhounds are athletic and motivated by scent trails outside the yard</li><li>Check all gates for secure latches; add a secondary latch or carabiner to any gate that has play in it</li><li>Check for gaps at the base or corners where a determined dog could push through</li><li>Chain-link or solid panel fencing both work — height and integrity matter more than type</li><li>No invisible fence — a Foxhound on a scent will run through the correction</li></ul><h3>Essential Gear Checklist</h3><ul><li>Large crate (36-inch for adults; use divider for puppies)</li><li>Orthopedic dog bed</li><li>Stainless steel food and water bowls</li><li>Flat collar + ID tag (engrave before the dog arrives)</li><li>4–6 ft leash</li><li>Harness option — for puppies and dogs still learning leash manners</li><li>Hound glove or rubber curry brush</li><li>Ear cleaning supplies (this starts immediately — begin the weekly habit from day one)</li><li>High-value training treats — food motivation is your primary training tool with this breed</li><li>Durable chew toys</li><li>Enzymatic cleaner</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit, Ear Baseline, and Exercise Establishment",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam</li><li>Vaccine schedule continuation</li><li>Parasite prevention appropriate for an outdoor-active hound</li><li>Microchip if not done by breeder</li><li>Mention thrombocytopathy (breed-specific platelet disorder) — ask your vet to note sighthound status in the dog's file for surgical reference</li><li>Discuss ear care routine — get a vet-recommended ear cleaner at this visit</li><li>Enroll in pet insurance before this visit or immediately after</li></ul><h3>Establish the Ear Care Habit Immediately</h3><p>Start checking and gently cleaning your Foxhound puppy's ears in the first week — not because they'll be infected yet, but because you're building a tolerance for ear handling that matters for the dog's lifetime. A puppy that grows up accepting ear examination becomes an adult you can clean and check without a struggle. Start with treats and calm handling; make it a positive, short interaction.</p><h3>Socialization: Pack-Bred and People-Friendly</h3><p>American Foxhounds are naturally social and don't require the intensive stranger-introduction work of more reserved breeds. The socialization window still matters for confidence and exposure:</p><ul><li>Introduce to different environments, sounds, and surfaces</li><li>Puppy socialization class is excellent for this breed — they tend to do well with other dogs</li><li>Expose to the sounds and situations specific to your life: traffic, children, urban environments if relevant</li></ul>"
+    },
+    "special": {
+      "label": "Training and Management",
+      "heading": "Managing a Scent-Driven, Voice-Prominent Hound",
+      "html": "<h3>Training: Work With the Nose, Not Against It</h3><p>American Foxhounds are intelligent and food-motivated — training basic commands is achievable. What isn't achievable is a dog that reliably ignores a scent trail when outdoors. Train for reliable behavior indoors and in controlled settings; manage the outdoors through containment.</p><ul><li>Sit, down, stay, come — all trainable with consistent positive reinforcement</li><li>Loose-leash walking takes patient work — start early and don't allow pulling to become habitual</li><li>Never rely on recall in unfenced outdoor areas — containment is the only reliable solution</li><li>Consider scent work, tracking, or nose work activities as constructive outlets for the scent drive</li></ul><h3>The Baying Voice: Management, Not Training</h3><p>Baying is a breed characteristic, not a behavior problem. It can be somewhat reduced through ensuring the dog gets adequate exercise (bored or under-exercised Foxhounds bay much more) and not reinforcing baying with attention. It cannot be eliminated through training. If you have neighbors who will hear the dog:</p><ul><li>Have an honest conversation with neighbors before the dog arrives</li><li>Ensure exercise happens at times when baying is least disruptive</li><li>Avoid leaving the dog outdoors unsupervised in situations where baying will be prolonged</li></ul><h3>Exercise: Start a Realistic Routine From Day One</h3><p>Puppy exercise rules apply — 5 minutes per month of age for structured exercise — but free yard play and exploration are appropriate and important. Build toward the 90+ minute daily requirement gradually as the dog grows. By 12 months, a Foxhound that doesn't get significant daily exercise is a frustrated, noisy, potentially destructive dog. Getting the exercise habit established from the beginning is much easier than correcting the consequences of under-exercise.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How do I get an American Foxhound to stop baying?",
+      "a": "You can reduce baying frequency by ensuring the dog is adequately exercised and not leaving it isolated outdoors when bored. You cannot eliminate baying through training — it's a fundamental breed characteristic. If you're in an environment where any baying is unacceptable, the American Foxhound is genuinely the wrong breed for that situation."
+    },
+    {
+      "q": "Are American Foxhound puppies easy to train?",
+      "a": "They're trainable with patience and food motivation. Basic obedience (sit, down, come, stay) is achievable. The challenge is the scent drive — once a nose-on-the-ground tracking mode activates outdoors, commands don't compete. Focus training on reliable indoor and controlled-environment behavior; manage outdoor freedom through containment."
+    },
+    {
+      "q": "Can American Foxhounds be left alone during the day?",
+      "a": "They can, but an under-exercised Foxhound left alone will bay. The solution is adequate exercise before isolation — a dog that has run and played for an hour in the morning is a different dog than one that goes directly from crate to yard to crate. Some dogs benefit from canine companionship; the pack-bred nature of Foxhounds means they often do better with another dog in the household."
+    }
+  ]
+}

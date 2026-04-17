@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Afghan Hound Puppy Checklist",
+    "slug": "afghan-hound-puppy-checklist",
+    "shopify_handle": "afghan-hound-puppy-checklist",
+    "group": "Afghan Hound",
+    "size_category": "Guide",
+    "tags": ["afghan-hound", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-04-24T16:00:00Z",
+    "excerpt": "Everything you need before your Afghan Hound puppy comes home — with special emphasis on fencing requirements, anesthesia sensitivity documentation, grooming tool investment, and insurance enrollment.",
+    "meta_description": "Afghan Hound puppy checklist: fencing audit, anesthesia sensitivity vet briefing, grooming tool list, crate setup, insurance enrollment, and first-week priorities for this sighthound breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Afghan_dog_-_cropped.jpg/330px-Afghan_dog_-_cropped.jpg",
+      "alt": "Afghan Hound puppy checklist"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Preparing for Your Afghan Hound Puppy",
+      "html": "<ul><li><strong>Fencing audit (non-negotiable):</strong> Afghan Hounds cannot be trusted off-leash outside a securely fenced area. Minimum 6-foot fence, solid panel preferred (so the dog cannot see prey animals through gaps). Check for gaps at the base and any potential escape points. This is the single most important infrastructure item for Afghan Hound ownership.</li><li><strong>Large crate:</strong> A crate sized for an adult Afghan (roughly 42–48 inches) used from puppyhood builds a safe space and aids in house training. Line with washable bedding.</li><li><strong>XL dog bed:</strong> Afghans prefer soft, elevated surfaces. A quality orthopedic bed provides joint support throughout life.</li><li><strong>Harness (not collar) for walks:</strong> A fitted harness reduces friction at the neck and under the front legs — two prime mat-formation zones. Purchase a flat collar for ID tags only.</li><li><strong>Grooming tools:</strong> Pin brush, wide-tooth metal comb, detangling spray, and (ideally) a high-velocity dryer. Starting grooming handling from day one, while the puppy coat is soft and easy, builds tolerance for the more intensive adult coat sessions.</li><li><strong>Bowls:</strong> Deep bowls can trap the long ears in food and water. Narrow, tall bowls or bowls with ear guards keep the coat out of the food.</li><li><strong>Pet insurance enrollment:</strong> Enroll before the first vet visit to avoid pre-existing condition exclusions. Afghan Hounds need insurance that covers anesthesia complications, hip dysplasia, and hereditary eye conditions.</li><li><strong>Anesthesia sensitivity documentation:</strong> Prepare a written note for your vet records stating: \"This dog is a sighthound. Sighthound anesthesia protocols required — standard dosing may be fatal.\" Ask your vet to flag this on the permanent file at the first visit.</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit Priorities",
+      "html": "<ul><li><strong>Flag sighthound anesthesia sensitivity:</strong> The most critical first-vet-visit conversation. Request that the anesthesia sensitivity be permanently noted in the dog's file. Confirm the practice is familiar with sighthound protocols. If not, ask for a referral to a vet who is — this is particularly important before any scheduled procedure.</li><li><strong>Complete puppy vaccination series:</strong> Typically 3 rounds at 8, 12, and 16 weeks. Confirm schedule with your vet. Core vaccines: distemper, parvovirus, adenovirus (DAP), rabies.</li><li><strong>Discuss spay/neuter timing:</strong> Afghans are large breed sighthounds — many vets recommend delaying spay/neuter until 18–24 months for joint development. Confirm anesthesia protocol requirements will be followed when the procedure is scheduled.</li><li><strong>OFA hip baseline:</strong> Ask your vet about hip evaluation timing. Preliminary hip screening can be done from 4 months; official OFA evaluation at 24 months.</li><li><strong>Eye exam scheduling:</strong> CAER eye exams for hereditary cataracts — schedule the first eye exam by 12 months.</li><li><strong>Microchipping:</strong> Essential for a sighthound — if the dog ever gets out, a microchip significantly improves return odds given their speed and range.</li><li><strong>Heartworm and parasite prevention:</strong> Confirm appropriate preventives. Note that some ivermectin-based products require dose adjustment in sighthounds with certain genetic variants — discuss with your vet.</li></ul>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Starting Training Right",
+      "html": "<p>Afghan Hound training requires a specific mindset: this is a breed that responds to positive engagement and relationship-building, not command-and-compliance training. The goal is a dog with reliable household manners and a strong bond with its owner — not competition-level obedience.</p><p><strong>Start grooming handling immediately.</strong> Begin gentle brushing and handling of ears, paws, and body from the first week home. Afghan puppies have soft, relatively easy coats — this is the ideal time to build tolerance for the more intensive adult grooming sessions. Pair every grooming session with high-value treats to build positive associations.</p><p><strong>Crate training from day one.</strong> The crate is a lifelong management tool for a breed that cannot be trusted unsupervised in unfenced areas or during home-alone time. Build crate comfort gradually using treats and meals placed in the crate.</p><p><strong>Recall training — realistic expectations.</strong> Work on indoor recall (name recognition and coming when called) using high-value treats. Understand that reliable recall outside a fence near any moving stimulus is not achievable with this breed. The training goal is a responsive, attentive dog within the confines of fenced and leashed environments — not an off-leash recall that competes with the prey drive.</p><p><strong>Positive reinforcement only.</strong> Afghan Hounds are sensitive dogs. Harsh corrections produce anxiety and a deteriorating relationship. Short, engaging training sessions with high-value food rewards (the silkier or smellier the better) build the cooperative relationship this breed can achieve with patient handling.</p><p><strong>Socialization window.</strong> The critical socialization period is 8–16 weeks. Introduce the puppy to varied people, surfaces, sounds, and environments during this window. Controlled, positive introductions to the outside world during this period prevent the excessive aloofness that under-socialized Afghans can develop.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "What is the most important thing to do before an Afghan Hound puppy comes home?",
+      "a": "Verify the fencing. A secure 6-foot fence is the non-negotiable infrastructure item for Afghan Hound ownership — this is a 40 mph dog with a prey drive that overrides everything. Check every inch of the perimeter, close gaps at the base, and ensure gates self-latch. No fence, no Afghan Hound."
+    },
+    {
+      "q": "When should I start grooming my Afghan Hound puppy?",
+      "a": "From day one — even light brushing and handling sessions. Afghan puppies have soft puppy coats that are much easier to manage than the adult silky coat. Building grooming tolerance now, with treats and positive reinforcement, pays dividends when the adult coat arrives and full sessions become 2–4 hour commitments. The earlier and more consistently you handle paws, ears, and body, the more cooperative the adult dog will be."
+    },
+    {
+      "q": "Do I need to tell my vet about Afghan Hound anesthesia sensitivity at every visit?",
+      "a": "Yes — every visit, every emergency, every new vet. Add it to the file permanently AND mention it verbally at intake every time. The consequences of standard anesthetic dosing in a sighthound can be fatal. Vets who see many breeds may not automatically adjust protocols unless reminded. This is one case where being repetitive can save your dog's life."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Soft Coated Wheaten Terrier Grooming Guide",
+    "slug": "soft-coated-wheaten-terrier-grooming-guide",
+    "shopify_handle": "soft-coated-wheaten-terrier-grooming-guide",
+    "group": "Soft Coated Wheaten Terrier",
+    "size_category": "Guide",
+    "tags": ["wheaten-terrier", "grooming", "silky-coat", "professional-grooming", "mat-prevention"],
+    "published": true,
+    "published_at": "2026-04-17T16:00:00Z",
+    "excerpt": "The Wheaten's silky single coat looks effortless but mats quickly without a consistent grooming routine. Regular combing between professional appointments is what keeps it manageable.",
+    "meta_description": "Soft Coated Wheaten Terrier grooming guide: Irish trim vs American trim, mat prevention in high-risk areas, professional grooming schedule, and home combing routine."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Soft-Coated_Wheaten_Terrier.jpg/330px-Soft-Coated_Wheaten_Terrier.jpg",
+      "alt": "Soft Coated Wheaten Terrier grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Wheaten Coat",
+      "heading": "Understanding the Wheaten Single Coat",
+      "html": "<p>The Soft Coated Wheaten Terrier has a single coat — unlike most terriers with harsh, wiry double coats, the Wheaten has a silky, wavy or loosely curled single coat with no undercoat. This makes it relatively low-shedding but highly prone to matting. Hair that would normally shed falls back into the coat and tangles rather than releasing onto furniture.</p><h3>Grooming Tools You'll Need</h3><ul><li>Wide-tooth steel comb — primary tool for daily and weekly combing</li><li>Slicker brush — for surface tangles and finishing</li><li>Mat splitter or dematting comb — for handling established tangles</li><li>Pin brush — for general brushing</li><li>Dog-safe shampoo and conditioner formulated for silky coats</li></ul><h3>Coat Trim Styles</h3><p>There are two main trim styles for Wheatens:</p><ul><li><strong>Irish Trim:</strong> The natural, flowing style — longer coat allowed to grow and shaped minimally, highlighting the silky fall over the face and the beard. More work to maintain at home. Show dogs typically use this style.</li><li><strong>American/English Trim:</strong> Shorter overall, neater silhouette, easier home maintenance between professional appointments. More common in pet dogs.</li></ul><p>Either way, professional grooming every 6–8 weeks is required for both styles.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Home Combing and Professional Grooming Schedule",
+      "html": "<h3>Between Professional Appointments (2–3x Per Week)</h3><p>The wide-tooth comb is your primary tool. Work section by section through the entire coat:</p><ul><li><strong>Behind the ears:</strong> The highest-risk mat zone. Mats here form quickly and tighten close to the skin. Comb through this area at every session.</li><li><strong>Armpits (axillary area):</strong> Second highest risk — friction from the front legs causes rapid mat formation. Check and comb every time.</li><li><strong>Inner thighs and groin:</strong> Another friction zone prone to matting.</li><li><strong>Beard and fall (face):</strong> The facial furnishings collect food, water, and debris. Comb and check for tangles regularly. Wipe the beard after meals.</li></ul><h3>Professional Grooming (Every 6–8 Weeks)</h3><p>A professional groomer familiar with the Wheaten trim styles will bathe, dry, and scissor-trim the coat to shape. Tell the groomer which style you prefer (Irish or American), and be specific about length preferences. If you haven't kept up with home combing and mats are present, the groomer will either dematting them (time and cost) or shave through them — both outcomes are worse than regular home maintenance.</p><h3>Bathing at Home</h3><p>If bathing between professional appointments, use a dog shampoo appropriate for silky coats and follow with a good conditioner — the conditioner reduces friction in the coat and significantly decreases mat formation after the bath. Rinse thoroughly — residue causes skin irritation and coat dullness. Dry completely with a low or medium heat dryer while combing through the coat to prevent post-bath matting.</p>"
+    },
+    "special": {
+      "label": "Mat Prevention and Management",
+      "heading": "Handling Mats and Keeping the Coat Manageable",
+      "html": "<p>Prevention is far better than treatment. A mat that has been present for a week or more tightens close to the skin and becomes very difficult — and painful for the dog — to remove without cutting.</p><h3>If You Find a Mat</h3><ul><li>Do not pull through a mat with a brush — this causes pain and breaks the coat</li><li>Apply a small amount of detangling spray or coconut oil to the mat and work from the outside edges inward with your fingers first</li><li>Use the wide-tooth comb to gradually work through the mat in small sections</li><li>A mat splitter can be used to divide large mats into smaller sections before combing</li><li>If the mat is tight to the skin and won't release without significant pulling, cut it out — leaving a mat rather than cutting it is not a better choice; the mat will only worsen</li></ul><h3>Ear Care</h3><p>Check the ear canal weekly. The Wheaten's drop ears reduce airflow — moisture and wax accumulate and create conditions for infection. Signs of a problem: head shaking, ear scratching, odor, redness, or visible discharge. If you notice any of these, see your vet — ear infections require treatment, not just cleaning. Wipe the visible outer ear canal with a dog ear cleaning solution weekly as maintenance.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often do Soft Coated Wheaten Terriers need professional grooming?",
+      "a": "Every 6–8 weeks for either the Irish trim or American trim. The silky single coat grows continuously and requires scissor shaping to maintain. Between appointments, 2–3 combing sessions per week at home prevent the mat formation that makes professional appointments longer and more expensive."
+    },
+    {
+      "q": "What is the difference between the Irish and American trim?",
+      "a": "The Irish trim maintains a longer, more flowing coat that follows the natural wave and silky texture of the Wheaten coat. The American trim is shorter overall with a more sculpted, neater appearance. The Irish trim is closer to the show dog standard; the American trim is easier to maintain in a pet household. Both require professional grooming every 6–8 weeks."
+    },
+    {
+      "q": "Why does my Wheaten's coat mat so quickly?",
+      "a": "The single silky coat has no undercoat to support shed hairs — they fall back into the coat and tangle. The hair texture also interweaves easily when compressed by friction (under the collar, in the armpits, behind the ears). Regular combing breaks up the tangles before they develop into true mats. The key areas to check first are behind the ears and in the armpits."
+    }
+  ]
+}

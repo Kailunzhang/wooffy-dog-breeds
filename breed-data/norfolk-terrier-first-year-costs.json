@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Norfolk Terrier First Year Costs",
+    "slug": "norfolk-terrier-first-year-costs",
+    "shopify_handle": "norfolk-terrier-first-year-costs",
+    "group": "Norfolk Terrier",
+    "size_category": "Guide",
+    "tags": ["norfolk-terrier", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-05-01T16:00:00Z",
+    "excerpt": "Norfolk Terriers are relatively rare and can carry a higher purchase price than common small breeds. Here's a complete first-year cost breakdown.",
+    "meta_description": "Norfolk Terrier first year costs: puppy price, vet care, grooming, food, and annual budget guide for new owners."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Norfolk_terrier_CAC.jpg/330px-Norfolk_terrier_CAC.jpg",
+      "alt": "Norfolk Terrier costs"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "What to Budget Before Bringing Your Norfolk Terrier Home",
+      "html": "<p><strong>Puppy Price:</strong> Norfolk Terrier puppies from reputable, health-testing breeders typically cost $1,500–$2,500. The breed is relatively uncommon in the US, meaning wait lists are common. Rescue adoption fees are $150–$400.</p><p><strong>Supplies:</strong> Budget $175–$300 for a small crate, dog bed, food and water bowls, collar, harness, leash, ID tag, slicker brush, metal comb, and toys appropriate for a small terrier.</p><p><strong>Spay/Neuter:</strong> $200–$500 depending on your region and veterinary clinic.</p><p><strong>First Vet Visits:</strong> Initial puppy wellness exams, vaccines, fecal tests, and parasite prevention setup will run $250–$500 in the first few months.</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Ongoing Monthly and Annual Costs",
+      "html": "<p><strong>Food:</strong> A high-quality small-breed food costs $30–$50 per month for a Norfolk Terrier, totaling $360–$600 for the year.</p><p><strong>Grooming:</strong> Professional trimming every 8–12 weeks runs $50–$80 per session, totaling $200–$480 per year. Home brushing supplies ($40–$80) complement professional visits. Show exhibitors will have higher grooming costs if pursuing hand-stripping professionally.</p><p><strong>Veterinary Care:</strong> Routine wellness, booster vaccines, heartworm, and flea/tick prevention total $400–$700 for the first full year. Pet insurance is recommended at $30–$55/month.</p><p><strong>Training:</strong> Puppy obedience classes run $100–$250 for a 6-week course. Norfolk Terriers benefit from early training to manage terrier tendencies.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "Full First Year and Lifetime Budget",
+      "html": "<p><strong>Estimated First Year Total:</strong> $3,000–$5,500 including puppy purchase and all first-year expenses.</p><p><strong>Annual Costs After Year One:</strong> $1,400–$2,400 per year including food, vet care, grooming, and supplies. The long 12–16 year lifespan means a higher lifetime commitment.</p><p><strong>Lifetime Estimate:</strong> $20,000–$38,000 over the breed's lifetime, varying significantly with health outcomes and grooming choices.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Norfolk Terrier expensive compared to similar small breeds?",
+      "a": "Moderately. The purchase price is higher than many common small breeds due to relative rarity. Ongoing food and basic vet costs are low given the small size, but grooming adds meaningful annual expense."
+    },
+    {
+      "q": "How long does a Norfolk Terrier live, and how does that affect lifetime costs?",
+      "a": "The Norfolk lives 12–16 years — a notably long lifespan. This means higher total lifetime costs than shorter-lived breeds, but also more years of companionship for the investment."
+    }
+  ]
+}

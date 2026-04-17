@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Saint Bernard Grooming Guide",
+    "slug": "saint-bernard-grooming-guide",
+    "shopify_handle": "saint-bernard-grooming-guide",
+    "group": "Saint Bernard",
+    "size_category": "Guide",
+    "tags": ["saint-bernard", "grooming", "double-coat", "shedding", "wrinkle-care", "drool-management"],
+    "published": true,
+    "published_at": "2026-04-17T16:00:00Z",
+    "excerpt": "Saint Bernard grooming covers two coat varieties, significant shedding, and the critical skin fold and wrinkle care that prevents yeast and bacterial infections. The drool management is a separate daily discipline.",
+    "meta_description": "Saint Bernard grooming guide: rough vs smooth coat differences, brushing routine, skin fold cleaning, ear care, and drool management strategies for a giant breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hummel_Vedor_vd_Robandahoeve.jpg/330px-Hummel_Vedor_vd_Robandahoeve.jpg",
+      "alt": "Saint Bernard grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Coat Varieties",
+      "heading": "Rough vs. Smooth: Understanding Saint Bernard Coat Types",
+      "html": "<p>Saint Bernards come in two coat varieties: rough (long-coated) and smooth (short-coated). Both varieties shed significantly, both have dense undercoats, and both require regular grooming — the rough coat simply requires more frequent brushing to prevent matting.</p><h3>Rough Coat</h3><p>The rough coat variety has a medium-length outer coat with dense undercoat. The coat lies flat and is slightly wavy in texture. It is fuller around the neck (a mane-like ruff), on the thighs, and on the tail. It mats easily in friction areas if not brushed consistently. Brushing 2–3 times per week minimum; daily during coat blows.</p><h3>Smooth Coat</h3><p>The smooth coat variety is shorter and denser — a flat, close-lying coat with a dense undercoat. Easier to maintain than the rough coat but still sheds heavily. Weekly brushing is sufficient during normal periods; more frequently during coat blow season.</p><h3>Grooming Tools</h3><ul><li>Slicker brush — for both coat varieties, especially the rough coat</li><li>Undercoat rake — essential for removing loose undercoat</li><li>Wide-tooth metal comb — for mat detection and finishing</li><li>Rubber grooming mitt — great for the smooth coat, good for general maintenance</li><li>Dog-safe shampoo appropriate for double coats</li><li>High-velocity dryer — recommended; air drying takes hours for a dog this size</li></ul>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Grooming Routine",
+      "html": "<h3>Weekly (Rough Coat) / Every 1–2 Weeks (Smooth Coat)</h3><ul><li>Brush through the entire coat with the appropriate tool — undercoat rake for the undercoat, slicker or comb for the outer coat</li><li>Check mat-prone areas: behind ears, collar area, armpits, and between rear legs (rough coat); less relevant for smooth coat but still worth checking</li><li>Clean and inspect skin folds and wrinkles — particularly the facial folds, around the jowls, and any body skin folds. Use a damp cloth or unscented baby wipe to remove trapped moisture and debris. Dry the folds thoroughly after cleaning</li><li>Inspect and clean ears — the pendant, drop ears restrict airflow and accumulate moisture and debris</li></ul><h3>Monthly</h3><ul><li>Bathe every 6–8 weeks or as needed. Use a quality dog shampoo and condition the coat to reduce static and improve coat health</li><li>Dry completely — the dense undercoat holds moisture close to the skin. A high-velocity dryer used while brushing removes loose coat and eliminates moisture. Incomplete drying causes hot spots</li><li>Trim nails — giant breed nails affect gait and joint comfort when overgrown</li><li>Deep-clean facial folds and jowl area during bath time</li></ul><h3>Coat Blow Season</h3><p>Both coat varieties shed their undercoat dramatically twice per year. Daily brushing during the 2–4 week coat blow period is required to manage the volume. A deshedding bath — deep soak, undercoat conditioner, and high-velocity blow-out — removes a significant volume of loose coat in one session and reduces the duration of the blow.</p>"
+    },
+    "special": {
+      "label": "Skin and Ear Care",
+      "heading": "Skin Folds, Ears, and Drool Management",
+      "html": "<h3>Skin Fold Care (Critical)</h3><p>Saint Bernards have facial skin folds, wrinkles around the muzzle, and jowl folds that accumulate moisture, drool, food debris, and dead skin. These warm, moist environments are ideal for yeast and bacterial growth. Without regular cleaning, skin fold dermatitis develops — redness, odor, and infection.</p><p>Cleaning routine:</p><ul><li>Wipe all facial folds with a damp cloth or unscented baby wipe at least 2–3 times weekly — more frequently if the dog drools heavily or has deep folds</li><li>Dry the folds completely after cleaning — moisture left in the fold defeats the purpose</li><li>During bathing, clean folds thoroughly and dry completely before the dog dries naturally</li><li>Signs of fold infection: redness, swelling, odor, discharge, or the dog rubbing its face. See your vet — fold infections need treatment, not just more cleaning</li></ul><h3>Ear Care</h3><p>The pendant ears limit air circulation and trap moisture. Check ears weekly for odor, redness, or debris. Wipe the outer canal with a cotton ball dampened with veterinary ear cleaner. Do not insert cotton swabs into the ear canal. If you notice head-shaking, pawing at ears, or strong odor, see your vet — ear infections are common and need veterinary treatment.</p><h3>Drool Management</h3><p>Drool is not a grooming issue per se but requires daily management:</p><ul><li>Microfiber cloths in every room, kept accessible for quick wipe-downs</li><li>Wipe the face and jowls after every drink and meal</li><li>Check the jowl area and lip folds for accumulated drool and dry them — drool sitting in skin folds contributes to fold dermatitis</li><li>Drool bibs are available and reduce floor and furniture drool when the dog is resting</li></ul>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How do I prevent skin fold infections in a Saint Bernard?",
+      "a": "Regular, thorough cleaning and — critically — complete drying of the folds after cleaning. Wipe all facial folds 2–3 times weekly with a damp cloth and dry completely. During baths, clean folds thoroughly and ensure they are completely dry before the dog is sent to air dry. At the first sign of redness, odor, or discharge in a fold, see your vet — bacterial or yeast fold infections need treatment, and attempting to treat them at home can delay appropriate care."
+    },
+    {
+      "q": "Is the rough or smooth Saint Bernard easier to groom?",
+      "a": "The smooth coat is easier to maintain — it requires less frequent brushing and is less prone to matting. However, both varieties shed heavily and both require regular undercoat management. If low-maintenance grooming is a priority, the smooth coat is the better choice between the two. The skin fold and ear care requirements are identical for both varieties."
+    },
+    {
+      "q": "How often do Saint Bernards need professional grooming?",
+      "a": "For a rough-coated Saint Bernard, 2–4 professional grooming sessions per year (supplementing home maintenance) is typical — particularly deshedding sessions during coat blow season. For smooth-coated Saints, home grooming is generally manageable with occasional professional baths for convenience. Professional grooming for a giant breed costs more than standard-size dogs — expect $100–$175+ per session."
+    }
+  ]
+}

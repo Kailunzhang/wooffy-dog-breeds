@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "name": "Great Dane",
+    "slug": "great-dane",
+    "shopify_handle": "great-dane",
+    "group": "Working Group",
+    "size_category": "Giant Breed",
+    "tagline": "Great Danes are gentle giants — among the tallest dogs in the world, but with calm, affectionate, people-loving temperaments. The trade-off is a short lifespan and giant-breed health costs that require serious financial preparation.",
+    "tags": ["working-group", "giant-breed", "gentle-giant", "family-dog", "short-lifespan", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-16T16:00:00Z",
+    "excerpt": "Great Danes are magnificent, gentle, and devoted dogs who happen to be the size of a small horse. They're good family companions with calm temperaments. Know before you go: the lifespan averages 7–10 years, bloat is a primary killer, and everything about this breed costs more.",
+    "meta_description": "Great Dane breed guide: gentle giant temperament, giant-breed health costs, bloat risk, strict puppy exercise rules, and whether a Dane fits your space and budget."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Giant" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "110–175+ lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "7–10 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "45–60 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Research required" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dog_niemiecki_%C5%BC%C3%B3%C5%82ty_LM980.jpg/330px-Dog_niemiecki_%C5%BC%C3%B3%C5%82ty_LM980.jpg",
+      "alt": "Great Dane"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Great Dane?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Great Dane is one of the tallest dog breeds in the world — males regularly stand 30–32 inches at the shoulder, with some individuals reaching 36 inches. Despite being called the \"Apollo of Dogs\" for their imposing presence, they're known for a surprisingly gentle, affectionate temperament. The massive size and the calm, friendly personality are genuinely incongruous in the best possible way.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Great Danes were bred in Germany as boar-hunting dogs — they needed size, power, and coordination to pursue dangerous game. As hunting became less central, they transitioned to estate guardians and companions. The companion role suits them: they want to be near people, they're patient with family, and they're far less demanding in exercise than their size might suggest.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The central challenges are practical: everything about giant breeds costs more (food, vet care, medications, boarding), and the lifespan of 7–10 years is short. Bloat/GDV is a leading cause of death in the breed and requires knowledge of the signs and ideally preventive measures.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Great Danes Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Massive — males typically 140–175 lbs, females 110–140 lbs, though exceptional individuals exceed these ranges. The tallest dogs ever recorded have been Great Danes. The body is lean and athletic despite the size, with a long, rectangular head and a deep chest.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Colors are varied and include fawn (golden yellow with black mask), brindle, blue (gray), black, harlequin (white with irregular black patches), and mantle (black and white). All colors carry the same temperament. Ears may be cropped (upright, traditional in the US) or natural (floppy). Tail is long and not docked.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Gentle, patient, and genuinely friendly — Great Danes are not remotely the intimidating dogs their size suggests. They're affectionate with their family, polite with strangers, and generally good with other animals when properly socialized. Many are described as \"lap dogs that don't know their size,\" frequently attempting to sit on owners or lean against them with full body weight.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With children: good — patient and gentle. The main concern is accidental knockdowns from a 150-lb dog moving at normal speed. Not from aggression; from enthusiasm and not knowing their own mass. Supervision is practical rather than precautionary for most well-socialized Danes.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They're not high-alert watchdogs, though their mere presence is a significant deterrent. Most Great Danes will bark at intruders but are not aggressive by breed tendency.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Great Dane",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Great Danes are spectacular dogs. The combination of the enormous physical presence and the genuinely gentle, people-loving temperament produces a dog unlike any other. People stop you constantly. The gentleness is real — they're not aggressive, not high-strung, not difficult in most of the ways people worry about with large breeds.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The practical realities require confronting before you commit. Food for a Great Dane costs more — 8–12 cups of large-breed kibble daily for an adult. Every medication is dosed by weight. Vet bills for a 160-lb dog with a joint problem or a GI emergency are larger than for a 60-lb dog with the same issue. Boarding facilities sometimes charge by size. Everything about giant-breed ownership scales up.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The puppy growth limitation is non-negotiable: Great Dane puppies' growth plates don't close until 18–24 months. Forced running, jumping, or stair climbing during this period can cause serious, permanent joint damage. This is stricter than for most large breeds. No running with the puppy until 18 months. No jogging. On-leash walks and free play only.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Adults: 45–60 minutes of moderate exercise daily. Surprisingly manageable for the size. They don't need marathon distances — walks, backyard play, and some off-leash time satisfy most Danes. Puppies (under 18 months): on-leash walks only, no forced running or jumping. The growth plate rule is more critical for Great Danes than almost any other breed due to the extreme growth rate.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Low maintenance. The short, tight coat requires weekly brushing and baths every 6–8 weeks. Nails monthly — their nails grow quickly and at their size, overgrown nails affect gait and joint comfort significantly. See the <a href=\"/blogs/dog-breeds/great-dane-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Great Dane grooming guide</a>.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Start early and maintain consistency. A 175-lb dog that pulls on leash or jumps on people is a genuine management problem. Puppy obedience classes from 8–12 weeks onward. Basic commands — sit, stay, down, leash manners, leave it — need to be solid before the dog reaches adult size. Great Danes are generally willing to learn; they're not the most precise workers but they want to please.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Giant breeds carry higher health burdens. Great Danes have several serious breed-specific conditions that every owner must know.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Gastric dilatation-volvulus is the leading killer of Great Danes. The deep chest allows the stomach to twist, cutting off blood supply. Symptoms: distended abdomen, unproductive retching, restlessness, anxious behavior after eating. This is a surgical emergency requiring immediate veterinary attention. Prophylactic gastropexy at time of spay/neuter is strongly recommended for all Great Danes.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Dilated Cardiomyopathy (DCM)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Heart muscle weakness common in Great Danes and Dobermans. Annual cardiac screening (echo) recommended from age 3+. Can progress without symptoms. Treatment available; condition is progressive.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Wobbler Syndrome (CVI)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Cervical vertebral instability causing spinal cord compression. Presents as wobbling gait, weakness, and neck pain. Great Danes and Dobermans are most commonly affected. Medical or surgical management.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia &amp; Osteosarcoma</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Hip dysplasia is common; OFA screening in breeding stock. Osteosarcoma (bone cancer) occurs at higher rates in giant breeds. Large-breed bone cancer has a poor prognosis but treatment options exist.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Key action:</strong> Discuss prophylactic gastropexy at time of spay/neuter. Ask breeders for OFA cardiac and hip clearances.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Giant-breed ownership costs more across every category — food, medications, boarding, and veterinary care all scale with weight.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,000–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (giant breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$1,000–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$1,000–$1,500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series + gastropexy)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$900–$1,800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$1,000–$1,800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$1,000–$1,800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (giant crate, XL supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$4,400–$8,500</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,700–$4,800</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/great-dane-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Great Dane first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Great Dane Right for You?",
+      "good_fit": [
+        "Owners with space — a 175-lb dog needs room to move indoors and outdoors",
+        "Families with children who want a patient, gentle large companion",
+        "Prepared for higher-than-average food and veterinary costs",
+        "Willing to follow strict puppy exercise restrictions for 18 months",
+        "Able to enroll in pet insurance before first vet visit"
+      ],
+      "not_fit": [
+        "Small apartments or living spaces where a giant dog cannot move comfortably",
+        "Tight budgets — giant-breed ongoing costs are substantially higher",
+        "Anyone not prepared to follow puppy exercise restrictions",
+        "Owners wanting a long-lived dog — 7–10 years is the realistic expectation",
+        "Those unable or unwilling to learn and watch for bloat/GDV warning signs"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Great Dane",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,000–$2,500 from reputable breeders. Required health clearances: OFA cardiac (echo), OFA hip, CAER eye exam. The Great Dane Club of America maintains a breeder referral directory. Confirm that both parents have been cardiac and orthopedic screened before purchasing.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Great Dane rescue is active nationally. Common surrender reasons include underestimated costs and space requirements. Adult Danes are genuinely great rescue candidates — the temperament is typically stable and they settle quickly. Request health disclosure, particularly any cardiac history.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Dane comes home, complete the <a href=\"/blogs/dog-breeds/great-dane-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Great Dane puppy checklist</a> — giant-breed food planning, gastropexy discussion scheduling, and XL crate setup are first priorities.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "How big do Great Danes get?", "a": "Males typically 140–175 lbs and 30–32 inches at the shoulder; females 110–140 lbs and 28–30 inches. Some individuals are significantly larger. The tallest dogs ever recorded (Guinness records) have been Great Danes. Plan your living space accordingly — they need actual room to move, stretch, and lie down." },
+    { "q": "What is bloat and why is it so dangerous for Great Danes?", "a": "Bloat (GDV — gastric dilatation-volvulus) is a condition where the stomach fills with gas and twists on its axis, cutting off blood supply. It progresses to shock and death within hours without surgical intervention. Great Danes are among the highest-risk breeds due to their deep chest. Signs: distended abdomen, unproductive retching, anxious pacing after eating. Prophylactic gastropexy (surgically tacking the stomach at spay/neuter) prevents twisting and is strongly recommended." },
+    { "q": "Can Great Danes live in apartments?", "a": "Technically yes, but it's challenging. Their space needs are real — they need room to move, comfortable places to lie down at full stretch, and enough room that their tail isn't sweeping objects off every table. A large apartment with regular access to outdoor space is workable. A small studio is not." },
+    { "q": "Why can't Great Dane puppies run or jump?", "a": "Giant breed puppies have growth plates that close much later than small breeds — 18–24 months for Great Danes. Forced running, jumping, or stair climbing during this period can cause microfractures and permanent joint damage. This is one of the most commonly violated rules by enthusiastic Dane owners. Stick to on-leash walks and free play on even surfaces until growth is complete." }
+  ],
+
+  "related_breeds": [
+    {"name": "Mastiff", "slug": "mastiff", "note": "Heavier build, lower energy, similar short lifespan, even calmer temperament"},
+    {"name": "Doberman Pinscher", "slug": "doberman-pinscher", "note": "Same DCM and wobbler risk, athletic not giant, much more intense"},
+    {"name": "Irish Wolfhound", "slug": "irish-wolfhound", "note": "Similar giant size, sighthound background, even shorter lifespan"},
+    {"name": "Bernese Mountain Dog", "slug": "bernese-mountain-dog", "note": "Similar short lifespan, heavy coat, gentler exercise requirements"}
+  ]
+}

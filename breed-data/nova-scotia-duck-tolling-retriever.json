@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "name": "Nova Scotia Duck Tolling Retriever",
+    "slug": "nova-scotia-duck-tolling-retriever",
+    "shopify_handle": "nova-scotia-duck-tolling-retriever",
+    "group": "Sporting Group",
+    "size_category": "Medium Breed",
+    "tagline": "The Nova Scotia Duck Tolling Retriever is Canada's only native retriever — a fox-like, athletic dog with a unique hunting method, the intelligence of a Golden, and autoimmune health considerations that make responsible breeding and insurance non-negotiable.",
+    "tags": ["sporting-group", "medium-breed", "retriever", "high-energy", "intelligent", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-22T16:00:00Z",
+    "excerpt": "The Toller is a compact, athletic retriever with a unique tolling behavior to lure waterfowl and a high-pitched alert bark that surprises new owners. They're intelligent, active, and generally easier to train than most sporting breeds — with a real caveat around autoimmune health conditions that requires careful breeding selection and insurance from day one.",
+    "meta_description": "Nova Scotia Duck Tolling Retriever breed guide: tolling behavior, temperament, the Toller scream, autoimmune health conditions including Addison's disease, and whether a Toller fits your household."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "35–50 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–14 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise",  "value": "60–90 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Easy-Moderate" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Manageable" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Duck_Toller.jpg/250px-Duck_Toller.jpg",
+      "alt": "Nova Scotia Duck Tolling Retriever"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Nova Scotia Duck Tolling Retriever?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Nova Scotia Duck Tolling Retriever — usually just called the Toller — is Canada's only native retriever breed, developed in the Yarmouth County area of Nova Scotia in the early 19th century. The name refers to an unusual hunting technique: \"tolling\" means to lure. Tollers were trained to frolic and play near the water's edge, which curiosity-triggers ducks into swimming closer to investigate. The hunter hides nearby; when the ducks are close enough, the Toller retrieves the shot birds.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">In appearance, Tollers are often described as small Golden Retrievers with a fox-like face and a distinctive reddish-orange coat. They are significantly smaller than a Golden — 35–50 lbs versus 55–75 — and have a more alert, energetic carriage. The resemblance to a fox is intentional; their tolling behavior mimics fox play that is known to attract curious waterfowl.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Tollers are intelligent, active, and versatile. They've found success as hunters, search and rescue dogs, agility competitors, and devoted family companions. Their size makes them more practical for some households than the larger retrievers, without sacrificing drive or intelligence.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Tollers Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Compact and athletic — 17–21 inches at the shoulder, 35–50 lbs. The coat is medium-length, double-layered, and water-repellent in shades of deep orange to golden red, often with white markings on the chest, feet, face, and tail tip. The tail is full and bushy, carried in a distinctive curve when the dog is alert or working.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The head is fox-like — wedge-shaped with a slightly rounded skull, almond-shaped amber or brown eyes, and a moderately pointed muzzle. The overall impression is a working dog built for agility and water work, not a companion dog. They look like they have somewhere to be.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Tollers are affectionate and devoted to their family, with the eager-to-please quality of a Golden but a slightly more independent edge when working in the field. They are generally good with children, other dogs, and strangers — friendlier with new people than many sporting breeds, though some individuals are more reserved.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The key personality note that surprises new Toller owners is the \"Toller scream\" — a high-pitched, intense vocalization the breed produces when excited, frustrated, or alert. This is a breed-specific behavior, not a sign of distress. It can be startling if you're not prepared for it, and it is genuinely loud. Apartment or close-quarters living is worth considering carefully for this reason.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Tollers are highly energetic and require meaningful exercise and mental stimulation. They excel at activities that engage both their body and their nose — field work, tracking, agility, and dock diving are all well-suited. A bored Toller will tell you about it, possibly at high volume.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Toller",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Tollers occupy an interesting position: they offer retriever temperament and trainability in a more compact package, with the added appeal of relative rarity. They're genuinely excellent dogs for active people who want a medium-sized sporting companion.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The health conversation cannot be skipped. Tollers have a higher-than-average rate of immune-mediated and autoimmune conditions, including Addison's disease (adrenal insufficiency), immune-mediated thrombocytopenia, and epilepsy. These conditions are manageable but expensive — Addison's requires lifelong hormone supplementation. Buying from breeders who health-test and tracking autoimmune rates in their lines matters. Insurance from day one is essential.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The Toller scream is the other thing to be genuinely prepared for. If you live in a townhouse with shared walls, research whether this will work for your neighbors before committing. It's not trainable away — it's just who they are.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of vigorous exercise daily. Tollers are high-energy and were bred to work all day. Swimming, running, field work, and agility are ideal. Mental stimulation — puzzle feeders, nose work, training sessions — is as important as physical exercise for this intelligent breed.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The medium double coat sheds moderately year-round with heavier blowing twice annually. Weekly brushing manages normal shedding; daily brushing during coat blows. The coat is water-repellent and relatively easy to maintain — it doesn't mat easily and dries relatively quickly. Trim feathering on the feet and tail as needed. See the <a href=\"/blogs/dog-breeds/nova-scotia-duck-tolling-retriever-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Toller grooming guide</a> for full details.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Eager to learn and responsive to positive reinforcement. Tollers pick up commands quickly and enjoy training as mental stimulation. Their slight independent streak when working means reliable recall in the field takes consistent work, but household obedience is generally straightforward. Excellent candidates for dog sports.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Tollers are a generally healthy breed with a good lifespan, but have notable susceptibility to autoimmune and immune-mediated conditions that requires careful breeder selection and proactive veterinary monitoring.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint. OFA or PennHIP screening required. Manageable with medication; severe cases may require surgery.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Progressive Retinal Atrophy (PRCD-PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">DNA testable retinal degeneration. Puppies from two clear parents cannot be affected. Non-negotiable test to require from breeders.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Autoimmune / Immune-Mediated Conditions (IMGT)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Tollers have an elevated rate of immune-mediated conditions including Addison's disease (adrenal insufficiency) and immune-mediated thrombocytopenia (low platelet count). Addison's requires lifelong steroid supplementation but is manageable. Immune-mediated conditions can be triggered by stress or illness and require prompt veterinary attention.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Epilepsy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Seizure disorder with a higher incidence in Tollers than in many breeds. Managed with anticonvulsant medication. Ask breeders about epilepsy history in their lines.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Juvenile Addison's Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Addison's can present in young dogs (under 2 years) in Tollers. Symptoms include lethargy, vomiting, weight loss, and shaking. Sometimes called \"the great pretender\" because symptoms mimic other conditions. Knowing the breed risk helps vets and owners identify it faster.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip certification, PRCD-PRA DNA test, CAER eye exam. Ask about autoimmune and epilepsy history in the breeding lines.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance (essential for autoimmune risk)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,100–$5,350</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,400–$2,400</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">Addison's disease management costs $600–$1,200/year in ongoing medication and monitoring. Insurance enrolled before the first vet visit is critical. See the <a href=\"/blogs/dog-breeds/nova-scotia-duck-tolling-retriever-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Toller first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Nova Scotia Duck Tolling Retriever Right for You?",
+      "good_fit": [
+        "Active owners who want a medium-sized sporting dog with retriever temperament",
+        "Waterfowl hunters looking for a smaller, agile retriever",
+        "Owners interested in dog sports — agility, dock diving, nose work",
+        "Those who have researched and accepted the autoimmune health risks",
+        "Experienced dog owners comfortable with health management and insurance planning"
+      ],
+      "not_fit": [
+        "Owners in apartments or close quarters not prepared for the Toller scream",
+        "Those who have not researched the autoimmune health picture",
+        "Anyone who will not get insurance before the first vet visit",
+        "Owners who cannot provide 60–90 minutes of vigorous daily exercise",
+        "People wanting a lower-energy medium-sized dog"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Toller",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$2,500 from health-testing breeders. The Nova Scotia Duck Tolling Retriever Club (USA) maintains a breeder directory. Required health clearances: OFA hip, PRCD-PRA DNA test, CAER eye exam. Ask specifically about autoimmune and epilepsy history in their lines — a transparent breeder will have this information and will share it.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Tollers are a relatively rare breed and rescue availability is limited. The NSDTRC-USA has rescue contacts. Patience is required.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Toller comes home, complete the <a href=\"/blogs/dog-breeds/nova-scotia-duck-tolling-retriever-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Toller puppy checklist</a> — insurance enrollment and early vet consultation about autoimmune monitoring are the priority first steps for this breed.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "What is the Toller scream?", "a": "A high-pitched, intense vocalization that Tollers produce when excited, frustrated, or very alert. It is breed-specific — not a sign of pain or distress, just a very loud expression of strong emotion. It's something you need to hear before committing to the breed if you live with noise-sensitive neighbors. It cannot be fully trained away, though you can train when it's appropriate to use it." },
+    { "q": "Are Tollers good family dogs?", "a": "Generally yes — they are affectionate and good with children and other dogs. Their energy level requires an active family; they're not well-suited to sedentary households. The Toller scream aside, they are adaptable and friendly dogs that integrate well into active family life." },
+    { "q": "What is Addison's disease and why does it affect Tollers?", "a": "Addison's disease (hypoadrenocorticism) is adrenal insufficiency — the adrenal glands don't produce adequate cortisol and aldosterone. Tollers have a higher rate than most breeds due to their immune-mediated disease susceptibility. Symptoms include lethargy, vomiting, loss of appetite, and weight loss. It can be life-threatening during an \"Addisonian crisis\" if unrecognized. Once diagnosed, it's managed with lifelong hormone replacement (fludrocortisone or DOCP injections). Insurance from day one is essential." },
+    { "q": "How big do Nova Scotia Duck Tolling Retrievers get?", "a": "Medium-sized: 17–21 inches at the shoulder, 35–50 lbs. Noticeably smaller than a Labrador or Golden Retriever. This makes them more practical for people who want retriever temperament and drive in a dog that takes up less space and costs less to feed." }
+  ],
+
+  "related_breeds": [
+    {"name": "Golden Retriever", "slug": "golden-retriever", "note": "Larger cousin, similar friendly temperament, much wider availability"},
+    {"name": "Flat-Coated Retriever", "slug": "flat-coated-retriever", "note": "Another uncommon retriever breed, larger, different health concerns"},
+    {"name": "Brittany", "slug": "brittany", "note": "Similar size and energy, pointing breed, similarly versatile and active"}
+  ]
+}

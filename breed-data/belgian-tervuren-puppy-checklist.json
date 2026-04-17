@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "name": "Belgian Tervuren Puppy Checklist",
+    "slug": "belgian-tervuren-puppy-checklist",
+    "shopify_handle": "belgian-tervuren-puppy-checklist",
+    "group": "Belgian Tervuren",
+    "size_category": "Guide",
+    "tags": ["belgian-tervuren", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-05-04T16:00:00Z",
+    "excerpt": "Preparing for a Belgian Tervuren puppy means setting up for an energetic, intelligent, and long-coated herding breed. Use this checklist to get everything ready before your Tervuren puppy comes home.",
+    "meta_description": "Belgian Tervuren puppy checklist: all supplies, home setup tips, training plan, and socialization priorities for new Tervuren owners."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Belgian_Tervuren_2010.jpg/330px-Belgian_Tervuren_2010.jpg",
+      "alt": "Belgian Tervuren puppy checklist"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Home Preparation for a Belgian Tervuren Puppy",
+      "html": "<p>Belgian Tervuren puppies are alert, active, and highly intelligent from the very first day. A well-prepared home sets the foundation for a smooth transition and well-established habits.</p><h3>Home Safety</h3><ul><li>Secure electrical cords and cables</li><li>Install baby gates for stairways and off-limit rooms</li><li>Check yard fencing for security — no gaps, solid latches</li><li>Remove toxic plants and household chemicals from accessible areas</li><li>Clear low surfaces of valuables and breakables</li><li>Set up a designated puppy confinement area for unsupervised time</li></ul><h3>Supplies List</h3><ul><li>Wire crate with divider panel</li><li>Crate bedding or washable mat</li><li>Stainless steel food and water bowls</li><li>Large-breed puppy food recommended by your breeder</li><li>Flat collar and ID tag</li><li>4–6 foot leash and 20-foot long line</li><li>Pin brush and wide-toothed metal comb</li><li>Detangling spray</li><li>Kong toys and durable chews</li><li>Puzzle feeder</li><li>Enzymatic accident cleaner</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "The First Week with Your Belgian Tervuren Puppy",
+      "html": "<p>Structure, socialization, and consistent positive handling from day one are the cornerstones of raising a well-adjusted Belgian Tervuren.</p><h3>Daily Structure</h3><ul><li>Outdoor potty trips every 1–2 hours while awake, after meals, and after waking</li><li>Three meals daily for puppies under 6 months</li><li>Short supervised play periods alternating with crate nap time</li><li>Brief training sessions (name, sit) beginning on day one</li><li>Short grooming handling sessions (2–5 minutes) daily with treats</li></ul><h3>Socialization</h3><p>The socialization window (8–16 weeks) is critical for this breed. Prioritize positive exposure to diverse people, environments, sounds, and other animals. Include:</p><ul><li>Children of various ages with appropriate supervision</li><li>Urban environments: traffic, crowds, public transport, bicycles</li><li>Rural environments: livestock, farm sounds, open spaces</li><li>Veterinary handling: ears, paws, mouth, belly touching</li><li>Other vaccinated, friendly dogs in controlled settings</li></ul><h3>Veterinary First Week</h3><ul><li>First vet visit within 72 hours of arrival</li><li>Confirm vaccination schedule and parasite prevention</li><li>Discuss spay/neuter timing with your vet</li><li>Enroll in pet insurance before any health events occur</li></ul>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Training Your Belgian Tervuren Puppy",
+      "html": "<p>Belgian Tervurens are among the most trainable dogs in the world. Starting training immediately and maintaining it throughout the dog's life produces a remarkable companion and partner. The key is engagement, positivity, and variety.</p><h3>Foundation Skills (First 8 Weeks Home)</h3><ul><li><strong>Name recognition:</strong> Pair the name with immediate rewards and eye contact</li><li><strong>Sit:</strong> Use food luring; practice before every meal and at every doorway</li><li><strong>Down:</strong> Builds deference and impulse control</li><li><strong>Come (recall):</strong> Practice hundreds of times in low-distraction environments first; always reward generously</li><li><strong>Leave it:</strong> Essential safety command</li><li><strong>Loose-leash walking:</strong> Start on day one — this breed can become a strong puller if allowed</li><li><strong>Crate as positive space:</strong> Feed meals in crate, build duration gradually</li></ul><h3>Puppy Class and Advanced Training</h3><p>Enroll in puppy kindergarten as soon as vaccination clearance allows. Follow with basic and advanced obedience. Consider agility, herding, tracking, rally, or protection sport training as the dog matures. Belgian Tervurens genuinely need an activity or sport to stay mentally fulfilled — a Tervuren without a job will find one, usually involving your household items.</p><h3>Managing Herding Instincts</h3><p>Tervuren puppies may exhibit herding behaviors — chasing, circling, or nipping at heels — particularly around running children or other pets. Redirect this energy into appropriate outlets (fetch, structured play) and use basic obedience to interrupt herding behavior. Teaching a reliable 'leave it' and 'come' early gives you management tools for herding instincts.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How intelligent are Belgian Tervuren puppies?",
+      "a": "Extremely intelligent. Belgian Tervurens consistently rank among the top 5–10 most trainable breeds. Puppies begin learning from their very first day home. This intelligence is an asset in training but also means a bored or under-stimulated Tervuren puppy will learn to entertain itself in ways owners may not appreciate."
+    },
+    {
+      "q": "When should I enroll my Belgian Tervuren in puppy class?",
+      "a": "As soon as your vet clears attendance after the second vaccination, typically around 10–12 weeks. The socialization benefits during the critical window (8–16 weeks) outweigh the small disease risk in a well-managed class environment. Look for classes using positive reinforcement methods."
+    },
+    {
+      "q": "My Belgian Tervuren puppy is very mouthy. Is this normal?",
+      "a": "Yes, puppy mouthing and biting is completely normal, especially in active herding breeds. Redirect immediately to appropriate chew toys. End play sessions for 1 minute if biting is persistent. Avoid rough play that increases arousal. Consistent redirection over several weeks teaches bite inhibition."
+    },
+    {
+      "q": "How do I get my Tervuren puppy used to grooming?",
+      "a": "Start gentle brushing and handling from day one, pairing all contact with high-value treats. Keep initial sessions very short (2–3 minutes) and end on a positive note. Gradually increase duration as the puppy becomes comfortable. Early positive grooming associations make lifelong maintenance much easier."
+    }
+  ]
+}

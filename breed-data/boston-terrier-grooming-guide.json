@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Boston Terrier",
+    "shopify_handle": "boston-terrier-grooming-guide",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "name": "Boston Terrier Grooming Guide: Coat Care and Health Maintenance",
+    "slug": "boston-terrier-grooming-guide",
+    "excerpt": "How to groom a Boston Terrier — minimal coat care, but facial cleaning and eye care are daily health essentials for this brachycephalic breed.",
+    "meta_description": "How to groom a Boston Terrier — minimal coat care, but facial cleaning and eye care are daily health essentials for this brachycephalic breed.",
+    "tags": [
+      "Boston Terrier",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Boston-terrier-carlos-de.JPG/330px-Boston-terrier-carlos-de.JPG",
+      "alt": "Boston Terrier"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Grooming Overview",
+      "heading": "Boston Terrier Grooming: The Coat Is Easy; The Face Is Not",
+      "html": "<p>The Boston Terrier's short, smooth, tuxedo-patterned coat is one of the easiest to maintain in the companion dog world. A quick weekly brush and a bath every 4–6 weeks is the entire coat care routine. What makes Boston Terrier grooming a daily commitment is the face: the facial folds, prominent eyes, and compressed airway require daily cleaning and monitoring that is part of responsible ownership for this breed.</p><h3>Basic Grooming Schedule</h3><ul><li><strong>Facial fold cleaning:</strong> Daily — particularly the nose rope fold if present</li><li><strong>Eye cleaning:</strong> Daily</li><li><strong>Coat brushing:</strong> Once per week with a bristle brush or rubber mitt</li><li><strong>Bathing:</strong> Every 4–6 weeks</li><li><strong>Nail trimming:</strong> Every 3–4 weeks</li><li><strong>Ear cleaning:</strong> Monthly</li><li><strong>Teeth brushing:</strong> Daily — small brachycephalic breeds have elevated dental disease risk</li></ul>"
+    },
+    "care": {
+      "label": "Facial and Eye Care",
+      "heading": "Daily Face Care: The Most Important Grooming Task",
+      "html": "<h3>Facial Fold Cleaning</h3><p>Many Boston Terriers have a fold or wrinkle above the nose — sometimes called the nose rope — that can trap moisture and debris. Clean inside this fold daily with an unscented pet wipe or damp cloth, then dry thoroughly. Moisture left in the fold promotes bacterial and yeast growth, leading to skin fold dermatitis — a painful, malodorous infection. Some Bostons have deeper folds than others; those with more pronounced wrinkles need more diligent daily attention.</p><h3>Eye Care: Daily Cleaning and Vigilance</h3><p>Boston Terriers have large, prominent eyes that are vulnerable to corneal injuries, and they commonly have discharge buildup in the corners. Wipe gently around the eyes daily with a damp cotton round. Watch carefully for:</p><ul><li>Squinting or holding the eye partly closed</li><li>Cloudiness or opacity in the eye</li><li>Excessive discharge or tearing</li><li>Pawing at the eye</li></ul><p>Corneal ulcers are common in Boston Terriers and other brachycephalic breeds. They are painful and can progress rapidly — any sign of eye discomfort warrants same-day veterinary evaluation, not a wait-and-see approach.</p>"
+    },
+    "special": {
+      "label": "Coat and Teeth",
+      "heading": "Coat Maintenance and Dental Care",
+      "html": "<h3>The Coat: Minimal Effort</h3><p>A rubber grooming mitt or natural bristle brush once per week removes loose fur and keeps the coat clean and shiny. Boston Terriers shed moderately year-round — the short hairs can stick to upholstery and clothing, but the volume is manageable. A bath every 4–6 weeks with a gentle dog shampoo and a thorough rinse keeps the coat and skin in good condition. Dry the facial folds thoroughly after bathing.</p><h3>Dental Care</h3><p>Boston Terriers, like all brachycephalic and small breeds, are prone to dental disease. Daily tooth brushing with a finger brush and dog-safe enzymatic toothpaste from puppyhood is the most effective preventive measure. Professional dental cleanings under anesthesia are typically needed every 1–2 years starting around age 2–4. Budget $300–$600 per cleaning as an ongoing annual cost.</p><h3>No Professional Grooming Required</h3><p>Boston Terriers do not need professional grooming. Some owners take their dog for occasional bath and nail trims as a convenience, but no professional coat trimming is needed. The at-home routine is minimal — the face and eye care are the most time-intensive parts, and those take only a few minutes daily.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How do I clean a Boston Terrier's facial folds?",
+      "a": "Use an unscented pet-safe wipe or a damp cloth to gently clean inside each fold, removing any trapped moisture or debris. Then dry the fold thoroughly — a dry cotton round or soft cloth works well. Do this every day. Moisture left in the fold creates an environment for bacterial and yeast infections, which cause redness, odor, and discomfort."
+    },
+    {
+      "q": "Why are Boston Terrier eyes so prone to injury?",
+      "a": "The brachycephalic skull structure gives Boston Terriers large, prominent eyes with relatively shallow eye sockets. The cornea is more exposed than in longer-muzzled breeds, making contact injuries from everyday activities — brushing past a bush, rough play, or another dog's paw — more likely. Corneal ulcers are common and painful, and require prompt veterinary treatment. Any squinting, cloudiness, or eye discomfort warrants same-day veterinary evaluation."
+    },
+    {
+      "q": "Do Boston Terriers need professional grooming?",
+      "a": "No. The short coat requires no professional trimming. A weekly brush, monthly nail trim, and daily face and eye care is the entire routine. Some owners visit a groomer occasionally for a convenience bath or nail trim, but professional grooming is not a recurring necessity for this breed."
+    }
+  ]
+}

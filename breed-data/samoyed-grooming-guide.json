@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Samoyed Grooming Guide",
+    "slug": "samoyed-grooming-guide",
+    "shopify_handle": "samoyed-grooming-guide",
+    "group": "Samoyed",
+    "size_category": "Guide",
+    "tags": ["samoyed", "grooming", "double-coat", "white-coat", "shedding", "coat-blow"],
+    "published": true,
+    "published_at": "2026-04-17T16:00:00Z",
+    "excerpt": "The Samoyed's white double coat is breathtaking and demanding. The right tools, a consistent routine, and an absolute rule against shaving keep it healthy and your home manageable.",
+    "meta_description": "Samoyed grooming guide: tools for a white double coat, coat blow management, bathing and drying a thick double coat, and why you should never shave a Samoyed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Samojed00.jpg/330px-Samojed00.jpg",
+      "alt": "Samoyed grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Samoyed Coat",
+      "heading": "Understanding the Samoyed Double Coat",
+      "html": "<p>The Samoyed has a thick double coat — a dense, woolly undercoat and a harsh, straight outer coat that stands off the body and provides insulation and weather resistance. This coat evolved for the Siberian Arctic and serves as a two-way thermoregulation system: it keeps the dog warm in winter and protects against solar heat and UV radiation in summer. Managing it properly means working with the coat structure, not fighting it.</p><h3>Grooming Tools You'll Need</h3><ul><li>Pin brush — primary tool for the outer coat and finishing</li><li>Slicker brush — for the outer coat and removing surface tangles</li><li>Wide-tooth steel comb — for checking through the undercoat after brushing</li><li>Undercoat rake or deshedding tool — essential during coat blows</li><li>Dog-safe shampoo (whitening shampoo optional but useful for keeping the coat bright)</li><li>Quality conditioner formulated for double coats</li><li>High-velocity pet dryer — strongly recommended for coat blow season</li></ul><h3>NEVER Shave a Samoyed</h3><p>Shaving a double-coated breed is one of the most harmful things an owner can do to the coat. The double coat doesn't make the dog hotter — it regulates temperature in both directions. Shaving destroys that structure and can cause post-clipping alopecia, where the coat regrows patchy and permanently altered. If your Samoyed seems hot, provide shade, cool water, and limit exercise to early morning and evening. Never shave.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly (Normal Periods)</h3><ul><li>Work section by section with the pin brush from neck to tail, then legs — back, sides, chest, belly, and breeching (rear leg area)</li><li>Follow with the slicker brush for the outer coat and any surface tangles</li><li>Finish by running the wide-tooth comb through the entire coat — if the comb catches, go back to that area with the pin brush</li><li>Check and clean ears — Samoyeds have upright ears with good airflow, but debris still accumulates</li><li>Inspect paw pads and trim any excess hair between the toes</li></ul><h3>Monthly</h3><ul><li>Bathe every 6–8 weeks or when dirty. The Samoyed coat has a natural self-cleaning quality — snow and dirt shake out easily when dry — but regular bathing maintains the coat health and skin condition</li><li>Use a quality dog shampoo. Whitening shampoos formulated for dogs can maintain coat brightness without damaging the structure. Avoid human whitening products — they're not pH-appropriate for dog skin</li><li>Dry completely — this is critical. The dense undercoat holds moisture for hours and can remain damp close to the skin long after the outer coat feels dry. Use a high-velocity dryer to blow out the coat, not just the surface. Incomplete drying causes hot spots and can allow bacterial or fungal skin conditions to develop</li><li>Trim nails monthly — or when clicking is heard on hard floors</li></ul><h3>Coat Blow Management (Twice Per Year)</h3><p>Samoyeds blow their undercoat twice per year — typically spring and fall — over a 2–4 week period. During this time, daily brushing is required. The undercoat releases in large sheets and clumps that must be removed to prevent matting and allow the new coat to grow correctly.</p><p>Many experienced Samoyed owners find that a single thorough deshedding bath at the start of the blow — shampoo, condition, rinse, and blow-dry with a high-velocity dryer while brushing — removes the majority of loose undercoat in one session and shortens the overall duration of the blow significantly. This is time-intensive but very effective.</p>"
+    },
+    "special": {
+      "label": "White Coat Maintenance",
+      "heading": "Keeping a White Coat Clean",
+      "html": "<p>The Samoyed's white coat has a natural dirt-repelling quality when maintained properly — dried mud brushes out easily, and the coat tends to return to white without significant staining in most conditions. That said, some management is needed.</p><h3>Tear Staining</h3><p>Rust-colored tear staining around the inner eye corners is common in white dogs. Keep the area around the eyes dry by gently wiping with a damp cloth daily. Specific tear stain products are available but address the symptom, not the cause — if staining is heavy, have a vet check for eye irritation, blocked tear ducts, or dietary factors.</p><h3>Beard and Muzzle Staining</h3><p>Food and water staining around the muzzle area can be managed by wiping after meals and using a stainless steel or ceramic bowl rather than plastic, which tends to harbor bacteria that contribute to staining.</p><h3>Handling and Desensitization</h3><p>Start handling from the first day your puppy comes home. Samoyeds that are brushed, bathed, and handled consistently from puppyhood are manageable adults. A 50-lb Samoyed that has never been groomed is a significant physical challenge to handle. Work in short sessions with treats, building the association between grooming and positive outcomes. Every session is also a handling exercise.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often do Samoyeds blow their coat?",
+      "a": "Twice per year — typically in spring and fall — with a 2–4 week intense shedding period each time. Between coat blows, Samoyeds shed moderately year-round. Daily brushing during coat blows and weekly brushing the rest of the year keeps the coat managed."
+    },
+    {
+      "q": "Can I take my Samoyed to a professional groomer?",
+      "a": "Yes — and for coat blows in particular, a professional groomer with a high-velocity dryer can dramatically reduce the time required. Tell the groomer explicitly that the coat must not be cut or shaved — bathing, blowing out, and brushing only. A groomer who does not understand the importance of this should not work with your dog."
+    },
+    {
+      "q": "Why does my Samoyed's coat feel dry and look dull?",
+      "a": "Dull, dry-feeling coat in a Samoyed often indicates either infrequent bathing (dirt buildup despite the self-cleaning quality), dietary issues (omega fatty acid deficiency), or incomplete drying after baths that has allowed the undercoat to mildew slightly. Address bathing frequency first, then check the diet for omega fatty acid content. If the issue persists, discuss with your vet."
+    }
+  ]
+}

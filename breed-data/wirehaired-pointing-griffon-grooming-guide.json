@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Wirehaired Pointing Griffon Grooming Guide",
+    "slug": "wirehaired-pointing-griffon-grooming-guide",
+    "shopify_handle": "wirehaired-pointing-griffon-grooming-guide",
+    "group": "Wirehaired Pointing Griffon",
+    "size_category": "Guide",
+    "tags": ["wirehaired-pointing-griffon", "griffon", "grooming", "wiry-coat", "hand-stripping", "ear-cleaning"],
+    "published": true,
+    "published_at": "2026-04-23T16:00:00Z",
+    "excerpt": "The Wirehaired Pointing Griffon's harsh, wiry double coat is designed to protect the dog in dense cover and cold water. It requires regular brushing, ear cleaning, and professional trimming or hand-stripping twice yearly. The wiry texture protects the skin — avoid clipping if you want to preserve the coat's natural properties.",
+    "meta_description": "Wirehaired Pointing Griffon grooming guide: maintaining the harsh wiry coat, hand-stripping vs clipping considerations, ear cleaning, and the complete maintenance routine for this versatile sporting dog."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/GCH_Int_Ch_UCH_Zerubbabel_von_Herrenhausen_CGC_MHA.jpg/250px-GCH_Int_Ch_UCH_Zerubbabel_von_Herrenhausen_CGC_MHA.jpg",
+      "alt": "Wirehaired Pointing Griffon grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Griffon Coat",
+      "heading": "Understanding the Wirehaired Pointing Griffon Coat",
+      "html": "<p>The Wirehaired Pointing Griffon has a distinctive double coat: a harsh, wiry, somewhat rough outer coat (not curly) and a dense, fine undercoat. The outer coat provides protection from brush, briars, and cold water. The beard and eyebrows are characteristic features — longer, softer hair that gives the breed its distinctive expression.</p><p>The wiry outer coat is a dead hair that, ideally, is removed by hand-stripping rather than clipping. Hand-stripping pulls the dead outer coat from the follicle, allowing new wiry coat to grow in and maintaining the coat's protective properties. Clipping cuts the hair rather than removing it from the follicle, which softens the coat texture over time and reduces its protective function. For working dogs, hand-stripping is the correct approach. For companion dogs, clipping is acceptable if texture is not a priority.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — for regular brushing</li><li>Wide-tooth metal comb — for the beard, eyebrows, and checking for mats</li><li>Stripping knife or stripping stone — for hand-stripping</li><li>Ear cleaning solution and cotton balls</li><li>Dog-safe shampoo</li><li>Nail clippers or grinder</li><li>Scissors — for trimming around ears and feet</li></ul>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush through the body coat with a slicker brush</li><li>Comb through the beard and eyebrows with a wide-tooth metal comb — these areas can mat if not maintained</li><li>Clean both ears thoroughly — the Griffon's pendant ears are a moisture trap, especially after water work</li><li>Check paw pads and between the toes for debris after field work</li><li>Check under and around the ear leathers for redness or odor</li></ul><h3>Coat Maintenance (Twice Yearly)</h3><p>The Griffon coat benefits from hand-stripping or trimming twice per year — typically spring and fall. Hand-stripping removes the dead outer coat and stimulates new growth. The process takes 2–4 hours for a full coat and is ideally done by a groomer experienced with wire-coated breeds or by the owner with training and practice. If hand-stripping is not feasible, clipping is acceptable — understand that the coat will soften progressively with clipping over time.</p><h3>Beard and Eyebrow Care</h3><p>The beard and eyebrows are the highest-maintenance facial areas. The beard collects food, water, and debris after meals and outdoor activity. Wipe the beard after meals. Comb the beard and eyebrows weekly to prevent matting and remove accumulated debris. Some owners trim the beard slightly shorter for easier maintenance — this is a functional rather than aesthetic decision.</p>"
+    },
+    "special": {
+      "label": "Ear Care and Field Coat Checks",
+      "heading": "Ear Cleaning and Post-Field Maintenance",
+      "html": "<p>The Wirehaired Pointing Griffon's pendant ears combined with regular water work make ear infections predictable without preventive cleaning. Clean the ears weekly and after every water or swimming session. Apply veterinary ear cleaning solution, massage the base, allow the dog to shake, then wipe visible debris with cotton balls. After field work, check the ears for plant material and debris that has entered the ear canal.</p><h3>Post-Field Coat Check</h3><p>After any field work or heavy brush work, check the entire coat for embedded burrs, thorns, and plant seeds. The wiry outer coat is designed to protect the skin, but debris that penetrates to the skin causes irritation and potential infection. Work through the coat systematically after field sessions — a metal comb through the undercoat finds debris that isn't visible on the surface. Pay particular attention to the beard, the leg feathering, and the armpits.</p><h3>Monitoring the Undercoat</h3><p>The Griffon's undercoat can become matted under the wiry outer coat if the dog is bathed and not fully dried or if shedding undercoat is not removed. During brushing sessions, part the outer coat periodically to check the undercoat for any mat formation. An undercoat rake during heavy shedding periods removes loose undercoat efficiently.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "What is hand-stripping and do I need to do it for my Griffon?",
+      "a": "Hand-stripping is the removal of the dead outer wiry coat by pulling it from the follicle — either by hand or with a stripping knife — rather than cutting it. It maintains the harsh, wiry texture and protective properties of the coat. For working hunting dogs, hand-stripping is recommended to preserve the coat's function. For companion dogs where coat texture is not a priority, clipping is acceptable. The coat will soften progressively with clipping, but this doesn't harm the dog — it's primarily a matter of working dog function and breed standard appearance."
+    },
+    {
+      "q": "How often does a Wirehaired Pointing Griffon need professional grooming?",
+      "a": "A full hand-strip or coat tidy twice per year, plus regular home brushing and ear cleaning. Some owners manage the coat entirely at home; others use a groomer experienced with wire-coated breeds (German Wirehaired Pointers, Spinone Italiano, Wire Fox Terriers have comparable coat types). Between the twice-yearly coat maintenance sessions, home brushing and weekly ear cleaning handle the routine upkeep."
+    },
+    {
+      "q": "Do Wirehaired Pointing Griffons shed?",
+      "a": "Yes, moderately. The wiry outer coat doesn't shed as frequently as smooth or silky coats, but the undercoat does shed — particularly during seasonal transitions. Regular brushing manages the undercoat shedding. The wiry outer coat that is hand-stripped rather than shed may leave less loose hair in the home during normal periods, but brushing is still necessary year-round."
+    }
+  ]
+}

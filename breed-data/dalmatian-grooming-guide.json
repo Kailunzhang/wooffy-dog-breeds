@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Dalmatian Grooming Guide",
+    "slug": "dalmatian-grooming-guide",
+    "shopify_handle": "dalmatian-grooming-guide",
+    "group": "Dalmatian",
+    "size_category": "Guide",
+    "tags": ["dalmatian", "grooming", "short-coat", "shedding", "rubber-mitt"],
+    "published": true,
+    "published_at": "2026-04-20T16:00:00Z",
+    "excerpt": "The Dalmatian's short coat is easy to maintain but sheds constantly — and those stiff white hairs embed in fabric like velcro. The right tools and routine keep it manageable.",
+    "meta_description": "Dalmatian grooming guide: rubber mitt technique for short-coat shedding, dealing with embedded Dalmatian hairs in fabric, bathing routine, and ear and nail maintenance."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Dog_Dalmatian.jpg/250px-Sun_Dog_Dalmatian.jpg",
+      "alt": "Dalmatian grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Dalmatian Coat",
+      "heading": "Understanding the Dalmatian Short Coat",
+      "html": "<p>The Dalmatian has a short, dense, single-layer coat that is easy to maintain but sheds year-round at a notable volume. The characteristic feature of Dalmatian shedding — which surprises many owners — is that the short, stiff hairs embed themselves into fabric, upholstery, and carpet rather than sitting on the surface. A lint roller removes surface hair; embedded Dalmatian hairs require a rubber glove or specialized fabric tool to pull out.</p><h3>Grooming Tools You'll Need</h3><ul><li>Rubber curry brush or rubber grooming mitt — the most effective tool for short-coat shedding removal</li><li>Soft bristle brush — for finishing and distributing coat oils</li><li>Rubber grooming glove — works well during baths</li><li>Dog-safe shampoo</li><li>Nail clippers or grinder</li><li>Ear cleaning solution and cotton balls</li><li>Rubber glove or damp sponge — for removing embedded hairs from furniture and clothing</li></ul><h3>Short Coat Doesn't Mean Low Maintenance</h3><p>The Dalmatian's coat is low effort per session but requires consistency. Weekly brushing with a rubber curry brush removes loose hairs before they shed onto furniture and clothing. Skipping brushing doesn't reduce shedding — it just means the hair ends up in your home rather than in the brush.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush the entire coat with a rubber curry brush using circular motions — this loosens and collects dead hair effectively in short coats</li><li>Follow with a soft bristle brush to remove collected loose hair and smooth the coat</li><li>Check ears for odor, redness, or wax buildup; wipe with a cotton ball dampened with ear cleaner</li><li>Check between paw pads for debris or irritation</li><li>Inspect the body for any skin changes — Dalmatians can develop skin sensitivities</li></ul><h3>Monthly</h3><ul><li>Bathe every 4–6 weeks or when dirty. Dalmatians are naturally clean dogs and don't need frequent baths. Use a gentle dog shampoo</li><li>Trim nails monthly — Dalmatians are active dogs and benefit from short nails for proper foot structure during exercise</li><li>Check and clean the ears if buildup is visible</li></ul><h3>Managing the Embedded Hair Problem</h3><p>For furniture and fabric: a damp rubber glove dragged across upholstery pulls embedded hairs out effectively. Microfiber fabrics and velvet trap Dalmatian hair most severely. Seat covers on frequently used furniture significantly reduce the embedded-hair problem. Lint rollers handle surface shedding but won't pull out embedded hairs.</p>"
+    },
+    "special": {
+      "label": "Skin and Coat Health",
+      "heading": "Dalmatian Skin Sensitivities and Coat Health",
+      "html": "<p>Dalmatians can be prone to skin allergies and sensitivities — more so than many other short-coated breeds. The diet and bathing products you use matter. Look for gentle, hypoallergenic shampoos and avoid fragranced grooming products when possible.</p><h3>Signs of Skin Issues to Watch For</h3><ul><li>Excessive scratching without fleas or parasites as cause</li><li>Hot spots (moist, irritated patches of skin)</li><li>Hair loss in patches</li><li>Redness or inflammation along the belly or armpits</li></ul><p>If you notice recurring skin issues, consult your vet — environmental allergies, food sensitivities, and contact allergies (certain surfaces, detergents) are all possibilities in this breed.</p><h3>The BAER Test and Ear Awareness</h3><p>Dalmatians have the highest rate of hereditary deafness of any breed — up to 30% have hearing impairment in one or both ears. Reputable breeders BAER-test puppies before 5–6 weeks. This doesn't affect grooming specifically, but it means your awareness of your dog's ear health is particularly important. Signs of ear infection in a dog that may not react to sounds normally include head tilting, balance issues, and scratching at the ear.</p><h3>Nail and Paw Care</h3><p>Dalmatians are built for endurance running and have tight, cat-like feet. Long nails affect the natural arch of the foot and can lead to splayed toes over time in an athletic breed. Trim nails consistently so that they don't touch the floor when the dog is standing.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Do Dalmatians shed a lot?",
+      "a": "Yes — they shed year-round at a consistent, moderate-to-high volume. Unlike seasonal shedders, Dalmatians shed constantly. The short, stiff hairs are particularly problematic because they embed into fabric rather than sitting on the surface. Weekly brushing with a rubber curry brush removes the bulk of loose hair before it lands on your belongings."
+    },
+    {
+      "q": "How do I remove Dalmatian hairs from fabric and furniture?",
+      "a": "A damp rubber glove dragged across upholstery is the most effective method for embedded hairs. Lint rollers handle surface hair but won't pull out embedded hairs. A slightly damp sponge also works. Preventing embedding is easier than removing it — seat covers on furniture and regular brushing before the dog sheds onto surfaces helps significantly."
+    },
+    {
+      "q": "How often should I bathe my Dalmatian?",
+      "a": "Every 4–6 weeks is sufficient for most Dalmatians, or when visibly dirty. Dalmatians are naturally clean dogs that don't develop a strong odor between baths. Over-bathing strips coat oils and can contribute to skin dryness in a breed already prone to skin sensitivities. Use a gentle, hypoallergenic shampoo."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Finnish Spitz Puppy Checklist",
+    "slug": "finnish-spitz-puppy-checklist",
+    "shopify_handle": "finnish-spitz-puppy-checklist",
+    "group": "Finnish Spitz",
+    "size_category": "Guide",
+    "tags": ["finnish-spitz", "puppy", "checklist"],
+    "published": true,
+    "published_at": "2026-05-01T16:00:00Z",
+    "excerpt": "Bringing home a Finnish Spitz puppy requires preparation for an independent, vocal Nordic breed. This checklist covers supplies, home setup, first-week routines, and training priorities.",
+    "meta_description": "Finnish Spitz puppy checklist: home prep, essential supplies, first-week routines, and early training tips for this independent Nordic breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Finnish_Spitz_Aske.JPG/330px-Finnish_Spitz_Aske.JPG",
+      "alt": "Finnish Spitz puppy"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Setting Up for a Finnish Spitz Puppy",
+      "html": "<p><strong>Yard Security:</strong> A Finnish Spitz is a hunting breed with a strong instinct to follow its nose and eyes. A securely fenced yard is not optional — it is essential. Check for gaps in fencing, gates that don't latch securely, and any areas where a puppy could dig under or squeeze through.</p><p><strong>Supplies Checklist:</strong></p><ul><li>Medium-sized wire crate with divider panel for puppy use</li><li>Dog bed or crate pad</li><li>Stainless steel food and water bowls</li><li>Medium-breed puppy food matching what the breeder was feeding</li><li>Flat collar with ID tag</li><li>4-foot and 6-foot leashes</li><li>Harness for daily walks</li><li>Slicker brush and wide-toothed metal comb (start grooming habits early)</li><li>Undercoat rake (you'll need this once the adult coat develops)</li><li>Interactive puzzle feeders and durable toys</li><li>Enzymatic cleaner for accidents</li></ul><p><strong>First Vet Visit:</strong> Schedule within the first 3–5 days. Bring all breeder health documentation and discuss the vaccination and deworming schedule.</p>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "Routines, Crate Training, and Settling In",
+      "html": "<p><strong>Crate Training:</strong> Finnish Spitz puppies benefit from crate training for house-training and managing their independence when unsupervised. Introduce the crate positively with meals and treats inside. Build up duration slowly. A well-crate-trained Finnish Spitz is a calmer, safer dog in the home.</p><p><strong>Potty Schedule:</strong> Take puppy outside immediately after waking, after each meal, after play, and before bed. Consistency is key — the Finnish Spitz is intelligent and will learn quickly if the schedule is clear and rewards are immediate. Accidents should be cleaned up without fuss.</p><p><strong>Grooming Introduction:</strong> Begin gentle brushing sessions from day one, even if the puppy coat doesn't need it yet. The goal is desensitization — getting the puppy comfortable with being brushed, having its ears handled, paws touched, and mouth examined. This makes adult grooming sessions far easier.</p><p><strong>Socialization:</strong> The critical socialization window (3–14 weeks) is your most powerful tool for shaping a confident, adaptable adult. Expose your Finnish Spitz puppy to different people, surfaces, sounds, children, and friendly dogs in positive contexts.</p>"
+    },
+    "special": {
+      "label": "Training",
+      "heading": "Training a Dog That Thinks for Itself",
+      "html": "<p><strong>Positive Reinforcement Only:</strong> The Finnish Spitz is highly sensitive to harsh handling and will shut down or become avoidant with punishment-based training methods. Positive reinforcement — treats, praise, and play as rewards — is the only effective approach with this breed.</p><p><strong>Recall Training:</strong> A reliable recall is critical for a hunting-instinct breed. Begin recall practice in the house, progress to a long line in the yard, and only consider off-leash work in fully enclosed areas. Make coming to you the most rewarding thing in the world.</p><p><strong>Bark Management:</strong> You cannot eliminate barking from a Finnish Spitz — but you can teach a 'quiet' cue. When the puppy barks, wait for a brief pause, then reward the quiet immediately. Over time, you can put barking under cue control, which gives you much more flexibility. Do not expect silence — this is a barking breed.</p><p><strong>Mental Stimulation:</strong> A bored Finnish Spitz barks, digs, and creates its own entertainment. Interactive feeding toys, scent games, and training sessions provide the mental engagement this breed requires daily.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Finnish Spitz good with other pets?",
+      "a": "Generally yes with dogs, especially when socialized early. With cats and smaller animals, caution is needed — the breed's hunting drive may trigger chase behavior. Early introductions with small animals should be carefully supervised."
+    },
+    {
+      "q": "How much exercise does a Finnish Spitz puppy need?",
+      "a": "Puppies should not be over-exercised while their growth plates are still developing (typically before 12–14 months). Short, frequent play sessions and moderate leash walks are appropriate. Adult Finnish Spitz dogs need vigorous exercise daily, but puppies should not be taken on long runs or hikes."
+    }
+  ]
+}

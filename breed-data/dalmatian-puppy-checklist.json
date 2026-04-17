@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Dalmatian Puppy Checklist",
+    "slug": "dalmatian-puppy-checklist",
+    "shopify_handle": "dalmatian-puppy-checklist",
+    "group": "Dalmatian",
+    "size_category": "Guide",
+    "tags": ["dalmatian", "puppy", "checklist", "low-purine-diet", "BAER-test"],
+    "published": true,
+    "published_at": "2026-04-20T16:00:00Z",
+    "excerpt": "Everything you need before your Dalmatian puppy comes home — including the diet setup and hearing verification that are unique to this breed.",
+    "meta_description": "Dalmatian puppy checklist: BAER hearing test verification, low-purine diet setup, exercise management for a high-energy breed, socialization priorities, and essential gear."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Dog_Dalmatian.jpg/250px-Sun_Dog_Dalmatian.jpg",
+      "alt": "Dalmatian puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Dalmatian Puppy Prep: Diet and Hearing First",
+      "html": "<p>Before your Dalmatian puppy arrives, two breed-specific items require advance preparation: confirming the puppy's BAER hearing test results from the breeder, and setting up the low-purine diet the breed requires for urinary health. Both of these are Dalmatian-specific — most dog owners don't encounter them with other breeds. Beyond these, Dalmatians need structured exercise outlets from an early age and consistent socialization during the 8–16 week window.</p><h3>Verify BAER Test Documentation</h3><ul><li>Request BAER test results from the breeder before taking the puppy home — this should be routine documentation with any responsible Dalmatian breeder</li><li>BAER tests identify unilateral hearing loss (one ear) or bilateral loss (both ears) — both are possible in Dalmatians</li><li>Unilaterally deaf Dalmatians can live full, normal lives with appropriate management — bilateral deafness requires more specialized handling techniques</li><li>If the breeder does not have BAER test documentation, that is a significant warning sign</li></ul><h3>Essential Gear Checklist</h3><ul><li>Large crate (36–42 inch with divider panel)</li><li>Dog bed appropriate for a large breed</li><li>Stainless steel food and water bowls (large capacity)</li><li>Flat collar + ID tag (engrave immediately on arrival)</li><li>Harness for walks</li><li>6 ft leash for training; 4 ft for active management</li><li>Rubber curry brush for coat maintenance</li><li>High-value training treats</li><li>Enzymatic cleaner for accidents</li><li>High-exercise-appropriate toys: fetch toys, tug rope, puzzle feeders</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit and Diet Confirmation",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam</li><li>Vaccine schedule verification and continuation</li><li>Parasite prevention</li><li>Confirm BAER test status with vet — provide breeder documentation</li><li>Discuss low-purine diet management specific to Dalmatians — not all vets are equally informed on this; a vet familiar with the breed is preferable</li><li>Discuss spay/neuter timing — some evidence favors waiting until 18–24 months for larger breeds</li><li>Microchip if not placed by breeder</li><li>Enroll in pet insurance before this appointment or immediately after</li></ul><h3>Low-Purine Diet Setup</h3><p>Start the correct diet from day one. Do not feed organ-meat-heavy puppy foods, raw diets with organ meats, or foods containing anchovies, sardines, or similar high-purine ingredients. A chicken, turkey, lamb, or egg-based puppy food without organ meat concentration is appropriate. Fresh water should be available at all times — hydration is the second most important preventive factor after diet for urate stones.</p><h3>Socialization: Start Immediately</h3><p>Dalmatians are outgoing and generally social, but like all breeds, the 8–16 week window matters for shaping adult confidence and temperament:</p><ul><li>Introduce to many types of people, environments, sounds, and controlled dog interactions</li><li>Puppy class is excellent for socialization AND begins the structured training a high-energy breed requires</li><li>Dalmatians have a history as coach dogs — they're naturally outgoing and typically take to socialization well if started early</li></ul>"
+    },
+    "special": {
+      "label": "Training and Exercise Management",
+      "heading": "Managing a High-Energy Breed from Day One",
+      "html": "<h3>Training: Start Early, Stay Consistent</h3><p>Dalmatians are intelligent, trainable dogs that can also be stubborn and energetic when undertrained. They respond well to positive reinforcement with clear expectations and consistency. Establish core commands early: sit, down, stay, come, leave it. Loose-leash walking practice should begin immediately — a large, pulling Dalmatian is genuinely difficult to manage.</p><ul><li>Puppy class at 8–10 weeks (after first vaccine set)</li><li>Short, positive training sessions daily — 5–10 minutes multiple times per day</li><li>No harsh corrections — they produce either shutdown or defiance in this breed</li></ul><h3>Exercise Limits for Puppies</h3><p>Dalmatians are built for endurance and need significant exercise as adults — but growing puppies have developing joints that must be protected. Follow the 5-minutes-per-month-of-age guideline for leash walks (twice daily maximum). Growth plates close around 12–14 months in Dalmatians — no forced running or jumping before then. Free play in a yard is appropriate; jogging is not until growth is complete.</p><h3>Hearing-Specific Management (If Applicable)</h3><p>For unilaterally deaf Dalmatians:</p><ul><li>Approach from the hearing side when possible — startling a deaf ear can cause fright responses</li><li>Teach hand signals alongside verbal commands from puppyhood</li><li>Never let off-leash in unfenced areas — a deaf dog cannot hear traffic or recall commands at distance</li></ul>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "What is the BAER test and why does it matter for Dalmatians?",
+      "a": "The Brainstem Auditory Evoked Response (BAER) test measures electrical responses in the auditory pathway to determine whether a dog has normal hearing in each ear. Up to 30% of Dalmatians have some degree of hereditary hearing loss. Responsible breeders test every puppy before 5–6 weeks and should provide documentation. A puppy without BAER records is a significant concern — either the breeder skipped testing, or they're concealing a deaf result."
+    },
+    {
+      "q": "Why do Dalmatians need a low-purine diet?",
+      "a": "Dalmatians have a unique genetic mutation that prevents normal uric acid metabolism. Unlike all other breeds, Dalmatians excrete uric acid in their urine rather than converting it to allantoin. High-purine diets (organ meats, certain fish, some plant proteins) dramatically increase uric acid concentration and urate stone formation risk. This dietary requirement is lifelong and is not shared by any other breed."
+    },
+    {
+      "q": "Are Dalmatians good family dogs?",
+      "a": "Dalmatians can be excellent family dogs for active households with the time to meet their exercise needs. They are energetic, playful, and typically good with children they are raised with. They need structured physical activity daily — a Dalmatian without adequate exercise becomes destructive and difficult. They are not ideal for sedentary households or owners without time for daily vigorous exercise."
+    }
+  ]
+}

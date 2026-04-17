@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "West Highland White Terrier Puppy Checklist",
+    "slug": "west-highland-white-terrier-puppy-checklist",
+    "shopify_handle": "west-highland-white-terrier-puppy-checklist",
+    "group": "West Highland White Terrier",
+    "size_category": "Guide",
+    "tags": ["westie", "puppy", "checklist", "wpf-awareness", "atopic-dermatitis", "grooming"],
+    "published": true,
+    "published_at": "2026-04-17T16:00:00Z",
+    "excerpt": "Everything you need before your Westie comes home — including pet insurance enrolled before the first vet visit, WPF warning signs committed to memory, and atopic dermatitis monitoring established with your vet.",
+    "meta_description": "West Highland White Terrier puppy checklist: insurance enrollment priority, WPF warning signs to know, atopic dermatitis monitoring setup, grooming schedule planning, and first week priorities."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/West_Highland_White_Terrier_Krakow.jpg/330px-West_Highland_White_Terrier_Krakow.jpg",
+      "alt": "West Highland White Terrier puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Westie Puppy Prep: Insurance First, WPF Awareness Second",
+      "html": "<p>Two health-related preparations matter more than any equipment purchase before a Westie arrives home: enrolling in pet insurance before the first vet visit, and learning the warning signs of Westie Pulmonary Fibrosis. The first is financially critical (atopic dermatitis is likely; WPF may develop in middle age). The second could mean earlier diagnosis and better quality of life for the dog.</p><h3>Westie Pulmonary Fibrosis (WPF) — Know These Signs</h3><p>WPF is a progressive, fatal lung disease that typically presents in middle-aged to older Westies. There is no cure, but earlier diagnosis allows better supportive management. Signs to watch for:</p><ul><li>Exercise intolerance — tires more quickly than expected, reluctant to walk distances the dog previously managed easily</li><li>Coughing after activity or at rest</li><li>Labored breathing — visible chest effort at rest</li><li>Crackling lung sounds (a vet finding, not owner-observable without equipment)</li></ul><p>If you notice any of these signs, see your vet promptly and specifically mention Westie Pulmonary Fibrosis. Diagnosis requires chest imaging.</p><h3>Essential Gear Checklist</h3><ul><li>Small crate (24-inch with divider)</li><li>Dog bed</li><li>Stainless steel food and water bowls</li><li>Flat collar + ID tag</li><li>Harness for walks</li><li>4–6 ft leash</li><li>Pin brush or slicker brush</li><li>Wide-tooth steel comb</li><li>Dog-safe shampoo (whitening formula optional)</li><li>High-value training treats</li><li>Enzymatic cleaner</li><li>First professional grooming appointment booked for approximately 6–8 weeks</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Vet Visit: Insurance, Skin Baseline, WPF Awareness",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam</li><li>Vaccine schedule continuation and parasite prevention</li><li><strong>Enroll in pet insurance before this appointment — this is time-critical.</strong> Any condition documented at this visit becomes a pre-existing condition. Insurance before the first appointment covers everything that comes after.</li><li>Discuss atopic dermatitis monitoring with your vet — ask them to establish a baseline skin assessment and explain what early signs look like for this breed</li><li>Mention WPF to your vet and confirm they're aware of the breed's pulmonary disease risk — document this in the dog's medical record for future reference</li><li>Ask about CMO (Craniomandibular Osteopathy) and what signs to watch for in a puppy 3–8 months old</li><li>Microchip if not done by breeder</li></ul><h3>Grooming Habits Start Now</h3><p>The white double coat looks low-maintenance but needs weekly brushing and professional appointments every 6–8 weeks. Building the dog's tolerance for grooming in puppyhood is significantly easier than managing an adult that resists handling.</p><ul><li>Start brushing from day one — short sessions (3–5 minutes) with treat rewards</li><li>Touch paws, ears, and mouth daily to prepare for nail trims, ear checks, and dental care</li><li>Book the first professional grooming appointment for 6–8 weeks after arrival to introduce the dog to the process early</li></ul>"
+    },
+    "special": {
+      "label": "Training and Socialization",
+      "heading": "Training a Confident Small Terrier",
+      "html": "<h3>Socialization Window (8–16 Weeks)</h3><p>Westies are confident and curious by nature — the socialization window is about ensuring that confidence is applied positively across a wide range of experiences:</p><ul><li>Introduce to diverse people types in positive, treat-paired contexts</li><li>Expose to urban environments, vehicles, different surfaces and sounds</li><li>Introduce to friendly, vaccinated dogs in safe settings — puppy class is ideal</li><li>Introduce to other animals carefully if you have cats or small pets — the terrier prey drive is real and needs early management</li></ul><h3>Priority Training Commands</h3><ul><li><strong>Sit and Stay:</strong> Foundation commands — establish immediately</li><li><strong>Leave it:</strong> Critical for a terrier with prey drive — practice regularly</li><li><strong>Come:</strong> Recall training should be consistent from puppyhood — Westies will chase, and reliable recall in low-distraction environments is achievable; off-leash in open areas near wildlife is not</li><li><strong>Loose-leash walking:</strong> Westies are surprisingly strong for their size — address pulling from the first walk</li></ul><h3>Small Dog Ground Rules</h3><p>Westies are sturdy small dogs, but certain habits matter more at their size:</p><ul><li>No jumping on furniture without invitation — establish this from the start if it's a preference</li><li>No resource guarding allowed — address any food or toy guarding behavior immediately with professional guidance; this is easier to correct in a puppy than an adult</li><li>Terrier stubbornness is real — keep training sessions short (5–8 minutes), engaging, and positive. Drilling produces the terrier stonewall.</li></ul>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "What is the single most important thing to do before bringing home a Westie puppy?",
+      "a": "Enroll in pet insurance. Before the first vet visit, before anything is documented — enroll. Atopic dermatitis affects the majority of Westies, and WPF can develop later in life. Insurance enrolled before the first appointment covers both the likely skin conditions and the potential serious conditions that may appear years later. This single action has more financial impact than any other single decision you'll make as a Westie owner."
+    },
+    {
+      "q": "What are the early signs of atopic dermatitis in a Westie?",
+      "a": "Paw licking (especially between the toes — look for reddish-brown staining from saliva), recurring ear infections, redness on the belly and inner thighs, and facial rubbing. These signs can appear in the first year of life or develop over time. If you notice any of them, see your vet and specifically mention atopic dermatitis — the sooner management begins, the more effective it is."
+    },
+    {
+      "q": "What is CMO and should I worry about it in a puppy?",
+      "a": "Craniomandibular Osteopathy is abnormal bone growth in the jaw that occurs in puppies aged 3–8 months. It causes pain when eating, drooling, and difficulty opening the mouth. It typically resolves on its own by 12–18 months as the excess bone is reabsorbed — management is pain control during the active phase. Signs: suddenly reluctant to eat, pawing at the mouth, crying when yawning or eating. If you notice these signs in a Westie puppy, see your vet. A DNA test for CMO is available from responsible breeders."
+    }
+  ]
+}

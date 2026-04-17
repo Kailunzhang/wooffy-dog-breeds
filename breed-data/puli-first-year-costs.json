@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Puli First Year Costs",
+    "slug": "puli-first-year-costs",
+    "shopify_handle": "puli-first-year-costs",
+    "group": "Puli",
+    "size_category": "Guide",
+    "tags": ["puli", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-05-04T16:00:00Z",
+    "excerpt": "The Puli's main ownership cost is time rather than money — cord management is labor-intensive but inexpensive. This guide covers first-year expenses and what to budget for this athletic Hungarian herding breed.",
+    "meta_description": "Puli first year costs: puppy price, food, vet care, and annual budget for Hungary's iconic corded herding breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Puli_standing.jpg/330px-Puli_standing.jpg",
+      "alt": "Puli cost guide"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Moderate Puppy Cost for a Rare Breed",
+      "html": "<ul><li><strong>Puppy from health-tested breeder:</strong> $1,200–$2,000. Health testing should include OFA hip evaluation and CAER eye certification.</li><li><strong>Initial vet visit and vaccines:</strong> $150–$350</li><li><strong>Spay or neuter:</strong> $250–$500</li><li><strong>Crate (large):</strong> $70–$150</li><li><strong>Bowls, collar, harness, leash, ID tag:</strong> $70–$150</li><li><strong>Medium-breed puppy food (first months):</strong> $70–$140</li><li><strong>Puppy classes:</strong> $100–$200</li><li><strong>High-velocity dryer (essential for bathing a corded dog):</strong> $80–$200 — this is a Puli-specific investment that pays for itself in reduced professional grooming needs</li></ul><p><strong>Upfront total estimate:</strong> $1,990–$3,690</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "The Main Cost Is Time, Not Money",
+      "html": "<p>The Puli's cord management is labor-intensive but not expensive — it requires your hands and time, not specialized products. The main monetary costs are food, routine veterinary care, and the investment in a quality high-velocity dryer for bathing.</p><ul><li><strong>Food (medium-breed active formula):</strong> $60–$90/month. Annual: $720–$1,080.</li><li><strong>Routine vet visits and vaccines:</strong> $250–$450</li><li><strong>Heartworm/parasite prevention:</strong> $90–$180/year</li><li><strong>Pet insurance:</strong> $30–$55/month. Annual: $360–$660.</li><li><strong>Grooming products (gentle shampoo, conditioner):</strong> $50–$100/year</li><li><strong>Toys, enrichment:</strong> $80–$180/year</li></ul><p><strong>First-year recurring total (with insurance):</strong> $1,550–$2,650</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "Year One and Annual Budget",
+      "html": "<p><strong>Total first-year estimate (with insurance):</strong> $3,540–$6,340</p><p><strong>Annual ongoing costs after year one:</strong></p><ul><li>Food: $720–$1,080</li><li>Routine vet care: $200–$400</li><li>Parasite prevention: $90–$180</li><li>Pet insurance: $360–$720</li><li>Grooming products: $50–$100</li><li>Miscellaneous: $100–$200</li></ul><p><strong>Estimated annual ongoing total:</strong> $1,520–$2,680</p><p><strong>Note on the brushed coat option:</strong> Owners who maintain the Puli in a brushed (non-corded) coat have essentially the same ongoing costs — there is no significant monetary difference. The difference is in the type of time investment: cord separation vs. regular brushing.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Puli expensive to groom professionally?",
+      "a": "Professional groomers experienced with corded coats are rare and charge accordingly when found. Most Puli owners learn to manage the cords themselves. The main investment is a quality high-velocity dryer ($80–$200) that makes home bathing of the corded coat much more practical."
+    },
+    {
+      "q": "What is the biggest time commitment in Puli ownership?",
+      "a": "During the cord formation period (9 months to 2 years), cord separation 2–3 times per week is the primary time commitment. Once cords are established, bath days become the main time investment — allowing 6–12 hours for drying a fully corded adult dog."
+    },
+    {
+      "q": "Is the Puli an expensive breed to own overall?",
+      "a": "Relative to its size, the Puli is not an expensive breed monetarily. The main cost is time. Annual monetary costs are comparable to other medium-sized active breeds — the cord management and long bathing sessions are the real commitment."
+    }
+  ]
+}

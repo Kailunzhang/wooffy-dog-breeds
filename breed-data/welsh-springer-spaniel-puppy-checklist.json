@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Welsh Springer Spaniel Puppy Checklist",
+    "slug": "welsh-springer-spaniel-puppy-checklist",
+    "shopify_handle": "welsh-springer-spaniel-puppy-checklist",
+    "group": "Welsh Springer Spaniel",
+    "size_category": "Guide",
+    "tags": ["welsh-springer-spaniel", "puppy", "checklist", "glaucoma", "PRA", "ear-cleaning"],
+    "published": true,
+    "published_at": "2026-04-23T16:00:00Z",
+    "excerpt": "Before your Welsh Springer comes home: PRA DNA test and CAER ophthalmology documentation from both parents, insurance active before the first vet visit, and an eye exam baseline at the first veterinary appointment.",
+    "meta_description": "Welsh Springer Spaniel puppy checklist: PRA and eye health documentation, glaucoma awareness, insurance timing, ear cleaning from day one, socialization priorities, and first vet visit items."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Welsh_Springer_Spaniel_1.jpg/250px-Welsh_Springer_Spaniel_1.jpg",
+      "alt": "Welsh Springer Spaniel puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Welsh Springer Puppy Prep: Eye Health Documentation and Insurance",
+      "html": "<p>Before your Welsh Springer Spaniel arrives, confirm PRA DNA test and CAER ophthalmology documentation from both parents, and enroll in pet insurance before the first vet visit. Eye health — specifically glaucoma and PRA — is the primary breed-specific concern. Insurance active before any eye condition is documented preserves full coverage for treatment costs that can be significant.</p><h3>Health Documentation to Confirm Before Purchase</h3><ul><li>PRA DNA test — both parents clear; eliminates progressive retinal atrophy risk from DNA-testable form</li><li>CAER ophthalmology exam (annual) for both parents — screens for structural eye conditions including glaucoma predisposition</li><li>OFA hip certification for both parents</li></ul><h3>Essential Gear Checklist</h3><ul><li>Medium crate (30–36 inch with divider for growth)</li><li>Dog bed</li><li>Stainless steel bowls</li><li>Flat collar + ID tag (engrave immediately on arrival)</li><li>Harness for walks</li><li>4–6 ft leash</li><li>Slicker brush, pin brush, and wide-tooth metal comb</li><li>Veterinary ear cleaning solution and cotton balls — begins week one</li><li>High-value training treats</li><li>Retrieve toys and interactive toys</li><li>Chew toys</li><li>Enzymatic cleaner</li></ul>"
+    },
+    "care": {
+      "label": "First Week Priorities",
+      "heading": "First Vet Visit and Eye Baseline",
+      "html": "<h3>Insurance Before the First Vet Visit</h3><p>Enroll in pet insurance on arrival day. For the Welsh Springer, look for a policy with ophthalmologic coverage without breed-specific eye condition exclusions. Glaucoma treatment and management can be expensive — ensure the policy covers this before enrolling. Read the coverage terms carefully.</p><h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam including eye examination</li><li>Ask the vet to establish an eye health baseline — intraocular pressure measurement in addition to standard eye exam is reasonable for this breed</li><li>Vaccine schedule verification and continuation</li><li>Parasite prevention discussion</li><li>Ear exam — establish a clean baseline</li><li>Microchip if not done by breeder</li><li>Discuss glaucoma monitoring frequency as the dog ages</li></ul><h3>Starting the Ear Cleaning Routine</h3><p>Begin weekly ear cleaning from the first week. Use veterinary ear cleaning solution — apply, massage the ear base, allow the puppy to shake, then wipe with cotton balls. At this age the primary goal is building handling tolerance, not treating any problem. A Welsh Springer that accepts weekly ear handling as normal routine is far easier to care for as an adult.</p>"
+    },
+    "special": {
+      "label": "Socialization and Training",
+      "heading": "Socialization Priorities and Training for Welsh Springers",
+      "html": "<h3>Socialization Window: 8–16 Weeks</h3><p>Welsh Springer Spaniels are typically friendly dogs with a strong attachment to their family. Active socialization during the critical window builds a confident, adaptable adult. Some lines trend toward wariness without adequate early exposure. Prioritize:</p><ul><li>Varied people — different ages, appearances, children, visitors</li><li>Novel environments — different settings, surfaces, urban and rural sounds</li><li>Controlled dog interactions through puppy classes</li><li>Handling: ears, eyes, paws — especially important for this breed's health monitoring needs</li></ul><p>Carry the puppy in high disease-risk areas before vaccinations are complete. Don't sacrifice the socialization window.</p><h3>Glaucoma Awareness — Learn the Signs Now</h3><p>Acute glaucoma is a medical emergency. Learn the signs before you need to recognize them: sudden eye redness, cloudiness, squinting, or the dog pawing at one eye. These require immediate veterinary attention — not a wait-and-see approach. Knowing the signs means acting quickly enough to potentially preserve the dog's vision.</p><h3>Training</h3><p>Welsh Springers are intelligent, willing dogs that respond well to positive training methods. They are less independently-minded than some sporting breeds — they want to work with their owners. Start basic obedience from the first week. A puppy class by 10–12 weeks provides structure and socialization. For owners interested in field work, the Welsh Springer has genuine field ability and responds well to hunting and hunt test training.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Is glaucoma hereditary in Welsh Springer Spaniels?",
+      "a": "Primary hereditary glaucoma has been documented in Welsh Springer Spaniels — there is a genetic predisposition in some lines. CAER ophthalmology exams of breeding dogs screen for goniodysgenesis (an eye structural abnormality that predisposes to glaucoma), which is one reason annual CAER exams for breeding dogs matter. Dogs from parents with annual CAER exams and no goniodysgenesis findings have a lower risk, though not zero."
+    },
+    {
+      "q": "Do Welsh Springer Spaniels make good field dogs?",
+      "a": "Yes — the Welsh Springer Spaniel has genuine field working ability. They are flushing spaniels that work in close contact with the hunter, flushing and retrieving game from dense cover. The breed has been used in Wales for centuries for exactly this work. Hunt test and field trial participation is available for Welsh Springers through AKC spaniel events. Field work also provides excellent exercise and mental engagement for the breed."
+    },
+    {
+      "q": "How much do Welsh Springer Spaniel puppies cost?",
+      "a": "Typically $1,000–$2,000 from a health-testing breeder in North America. The Welsh Springer is not as common as English Springer or Cocker Spaniels, which means fewer breeders and potential wait times. Puppies from breeders who perform all recommended health tests (PRA DNA, CAER, OFA hips) are worth the additional search time and potential wait."
+    }
+  ]
+}

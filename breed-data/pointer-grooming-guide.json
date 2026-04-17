@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Pointer Grooming Guide",
+    "slug": "pointer-grooming-guide",
+    "shopify_handle": "pointer-grooming-guide",
+    "group": "Pointer",
+    "size_category": "Guide",
+    "tags": ["pointer", "grooming"],
+    "published": true,
+    "published_at": "2026-04-22T16:00:00Z",
+    "excerpt": "The Pointer's short, dense coat is among the lowest-maintenance sporting dog coats — weekly brushing with a rubber mitt or soft brush, occasional baths, and ear cleaning are the complete routine.",
+    "meta_description": "Pointer grooming guide: the low-maintenance short coat, weekly brushing with a rubber mitt, bathing after field work, ear care for this sporting breed, and skin and paw pad inspection after hunting."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/English_Pointer_orange-white.jpg/330px-English_Pointer_orange-white.jpg",
+      "alt": "Pointer grooming guide"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Understanding the Pointer Coat",
+      "html": "<p>The Pointer has one of the simplest coats in the sporting group — short, dense, and smooth, lying flat against the body. The coat is functional: designed to shed dirt and dry quickly after field work. No feathering, no undercoat of consequence, no trimming requirements. For a household pet, the grooming commitment is genuinely minimal.</p><p>Shedding is moderate and year-round. The short, fine hairs shed continuously and are noticeable on dark clothing and furniture, but the total volume is modest compared to double-coated or long-coated breeds. Regular brushing captures the bulk of shed hair before it ends up throughout the house.</p><p>Despite the simple coat, Pointers do require attention to ears and skin. The drop ears limit airflow and can harbor moisture. The thin-skinned, short-coated body is more vulnerable to skin injuries in field environments than heavily coated breeds — cuts, scrapes, and burr punctures that would be stopped by a longer coat reach the Pointer's skin directly."
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Step-by-Step Grooming Routine",
+      "html": "<p><strong>Frequency:</strong> Brushing once per week; bathing every 4–8 weeks or after field work; ear cleaning weekly.</p><p><strong>Tools needed:</strong> Rubber grooming mitt or soft-bristle brush, hound glove, ear cleaner, cotton balls, nail clippers or grinder.</p><p><strong>Brushing:</strong> A rubber grooming mitt or hound glove is ideal for the Pointer's short coat — the rubber nubs loosen shed hair and stimulate the skin while the dog typically enjoys the massage-like sensation. Work over the full body from neck to tail. A soft-bristle brush finishes the coat and adds shine. The entire process takes 5–10 minutes.</p><p>Brushing serves a secondary function beyond coat maintenance: it provides an opportunity to run your hands over the full body and inspect for skin issues, lumps, cuts, or parasites. This inspection is especially important for field dogs. Run your hands through the coat after every brushing session.</p><p><strong>Bathing:</strong> A gentle dog shampoo is sufficient for routine bathing. The short coat rinses and dries quickly — the Pointer is one of the fastest bathing breeds to process. After field work, a rinse to remove mud and debris before a full bath helps prevent dirt from setting into the coat. Towel dry thoroughly, paying attention to the ears — moisture in the ear canal after bathing contributes to ear infection risk.</p><p><strong>Ear cleaning:</strong> Check and clean ears weekly with a veterinarian-recommended ear cleaner applied to a cotton ball. The Pointer's drop ears limit ventilation — consistent cleaning prevents yeast and bacterial buildup. Check for odor, redness, or discharge at each cleaning.</p><p><strong>Nails:</strong> Every 3–4 weeks. Field-active Pointers often wear their nails somewhat naturally, but check regularly and trim when nails touch the floor with the dog standing.</p><p><strong>Paw pad inspection:</strong> After field work, check the paw pads for cuts, cracks, or embedded seeds. The Pointer's thin skin means paw injuries that would be minor in a tougher-padded breed can be more significant. Apply a paw balm if pads are dry or cracked.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Field Work and Skin Health",
+      "html": "<p><strong>Post-field inspection:</strong> After any hunting or field trial activity, perform a full body inspection before and after bathing. Check for: cuts and abrasions on the body and legs (thin skin cuts easily in cover); seeds and burrs that have penetrated the short coat; ticks around the ears, neck, groin, and between the toes; and paw pad injuries from rough terrain. The Pointer's short coat provides minimal protection from physical field hazards.</p><p><strong>Skin care:</strong> The Pointer's short coat makes skin conditions immediately visible — hot spots, irritation, and rashes are detectable quickly. This is an advantage for early treatment. Inspect the skin during each brushing session, particularly in warm months. Pointer skin can be sensitive to some grooming products; use mild, gentle formulations.</p><p><strong>Cold weather considerations:</strong> The short, single-layer coat provides minimal insulation. In cold field conditions, consider a dog coat for a Pointer that is hunting or working in low temperatures. Inside the home, the Pointer's thin coat means it is more comfortable in moderate-temperature environments than many sporting breeds.</p><p><strong>Professional grooming:</strong> Almost never necessary. The Pointer's short coat requires no clipping, trimming, or professional maintenance. Some owners bring their Pointer to a groomer for bathing and nail trimming as a convenience, but experienced owners handle all grooming at home in under 15 minutes per session. Professional fees, when sought, are typically $40–$60 for a bath and nail trim.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often does a Pointer need grooming?",
+      "a": "Weekly brushing with a rubber mitt (5–10 minutes), weekly ear cleaning, and baths every 4–8 weeks or after field work is the complete routine. This is one of the lowest-maintenance coats in the sporting group. The main ongoing attention is ear health, not coat care."
+    },
+    {
+      "q": "Do Pointers shed a lot?",
+      "a": "Moderately. The short hairs shed continuously and are visible on clothing and furniture, but the total volume is modest compared to double-coated breeds. Regular weekly brushing captures most of the loose hair before it is distributed throughout the house. Seasonal shedding periods are less dramatic than in undercoated breeds."
+    },
+    {
+      "q": "Is the Pointer's short coat a cold-weather disadvantage?",
+      "a": "Yes — the short, single-layer coat provides minimal cold-weather protection. For winter field work or outdoor activity in cold climates, a close-fitting dog coat or hunting vest is worth considering. In the home, the Pointer may seek warm spots to rest — this is normal for a thin-coated breed. Limit exposure to prolonged cold or wet conditions."
+    }
+  ]
+}

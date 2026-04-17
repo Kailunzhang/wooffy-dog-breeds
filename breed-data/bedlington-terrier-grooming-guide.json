@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Bedlington Terrier Grooming Guide",
+    "slug": "bedlington-terrier-grooming-guide",
+    "shopify_handle": "bedlington-terrier-grooming-guide",
+    "group": "Bedlington Terrier",
+    "size_category": "Guide",
+    "tags": ["bedlington-terrier", "grooming", "curly-coat", "low-shedding", "terrier"],
+    "published": true,
+    "published_at": "2026-04-29T16:00:00Z",
+    "excerpt": "The Bedlington's crisp, curly coat doesn't shed much — but it needs professional trimming every 6–8 weeks and regular brushing between appointments. The distinctive lamb-like shape requires a groomer who knows the breed's specific pattern.",
+    "meta_description": "Bedlington Terrier grooming guide: maintaining the curly low-shedding coat, the professional trimming schedule, brushing routine, and finding a groomer who knows the breed pattern."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Boutchie_apres_championnat_004.JPG/250px-Boutchie_apres_championnat_004.JPG",
+      "alt": "Bedlington Terrier grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Bedlington Coat",
+      "heading": "Understanding the Bedlington Terrier Coat",
+      "html": "<p>The Bedlington's coat is a distinctive combination of soft and harsh hair — neither purely smooth nor purely curly — that forms a crisp, linty texture when properly maintained. It's one of the lowest-shedding coats among terriers, which makes it a practical choice for owners concerned about pet hair. The characteristic lamb-like silhouette — including the topknot, tasseled ears, and shaped body lines — requires professional trimming to maintain. This is not a wash-and-go coat.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — for daily and weekly brushing</li><li>Wide-tooth metal comb — for checking for tangles and mats, especially around the ears</li><li>Grooming scissors (if trimming between professional appointments)</li><li>Dog-safe shampoo formulated for curly or mixed coats</li><li>Ear cleaning solution and cotton balls</li></ul><h3>Finding the Right Groomer</h3><p>The Bedlington's breed-specific trim pattern is not common knowledge among general groomers. Before booking, ask the groomer if they have experience with Bedlington trims. Show them reference photos. A groomer who trims a Bedlington like a generic terrier will shear off the topknot and lose the breed's distinctive profile. It's worth seeking out someone who knows the breed.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>2–3 Times Per Week</h3><ul><li>Brush through the coat with a slicker brush — work section by section from neck to tail</li><li>Follow with a metal comb, particularly around the ears and face where mats form most easily</li><li>Check the tassels on the ears for debris or matting — these areas tangle faster than the body coat</li></ul><h3>Monthly</h3><ul><li>Bathe every 4–6 weeks or when dirty. The linty coat texture can trap dirt and odor more than a smooth coat</li><li>Dry thoroughly — the dense coat holds moisture</li><li>Trim nails monthly — Bedlingtons are active and their nails wear naturally if walked on hard surfaces, but check monthly</li><li>Clean ears — the drop ears reduce airflow; check for odor, discharge, or redness</li></ul><h3>Professional Grooming: Every 6–8 Weeks</h3><p>The full Bedlington breed trim — shaping the topknot, thinning the ears, tidying the face, shaping the body — requires professional attention every 6–8 weeks. Budget for this as a fixed ongoing cost. Between appointments, the coat can be kept tidy with scissor work around the face and paws, but the full shaping requires skill and the right tools.</p>"
+    },
+    "special": {
+      "label": "Ear and Skin Care",
+      "heading": "Ear Care and Coat Health",
+      "html": "<p>The Bedlington's ear structure — drop ears covered in fine, tasseled hair — creates a warm, low-airflow environment that can accumulate moisture and debris. Check ears weekly for odor, redness, or excessive wax. Wipe gently with a cotton ball dampened with ear cleaner. Do not probe deeply into the ear canal. If you notice any of the following, see your vet: head shaking, ear scratching, dark discharge, or an unpleasant smell — these indicate infection, not a grooming issue.</p><h3>Coat Color and Fading</h3><p>Bedlington coat colors change with age and sun exposure. Blues may fade to a silver-grey; sandies and livers may lighten. This is normal for the breed. UV exposure from sun can accelerate fading in darker-coated dogs, but this is cosmetic, not a health concern.</p><h3>Coat vs. Skin Irritation</h3><p>Some Bedlingtons are prone to skin sensitivity. If you notice excessive scratching, redness at the skin level, or dandruff-like flaking that doesn't respond to regular brushing, consult your vet — this may indicate a skin condition rather than a grooming issue. The coat's texture can mask underlying skin problems until they're quite developed, so check the skin level when brushing, not just the surface of the coat.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does a Bedlington need professional grooming?",
+      "a": "Every 6–8 weeks. The breed's distinctive shape — including the topknot, shaped body, and tasseled ears — requires professional trimming to maintain. Between appointments, brush 2–3 times per week to prevent matting. Without regular professional grooming, the coat grows out of shape and becomes difficult to manage."
+    },
+    {
+      "q": "Does the Bedlington Terrier coat mat easily?",
+      "a": "It can, particularly around the ears, neck, and face where the coat is finer and more prone to tangling. Regular brushing with a slicker brush followed by a metal comb catches developing mats before they tighten. The ear tassels are particularly prone to tangling and should be checked every brushing session."
+    },
+    {
+      "q": "Can I groom my Bedlington at home?",
+      "a": "You can handle the routine brushing and ear/nail maintenance at home, but the full breed-pattern trim — the topknot, face shape, body lines — requires skill and experience with the breed's specific style. Most owners do home maintenance between professional appointments every 6–8 weeks. If you want to learn the full trim, ask a professional groomer to teach you — it's learnable but takes practice."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "name": "Wire Fox Terrier Grooming Guide",
+    "slug": "wire-fox-terrier-grooming-guide",
+    "shopify_handle": "wire-fox-terrier-grooming-guide",
+    "group": "Wire Fox Terrier",
+    "size_category": "Guide",
+    "tags": ["wire-fox-terrier", "grooming", "terrier"],
+    "published": true,
+    "published_at": "2026-05-02T16:00:00Z",
+    "excerpt": "A complete grooming guide for the Wire Fox Terrier's dense wiry white coat — covering hand-stripping technique, clipping for pets, beard and leg maintenance, and bathing best practices.",
+    "meta_description": "Wire Fox Terrier grooming guide: hand-stripping, clipping, brushing schedule, and coat care for the breed's iconic wiry white coat."
+  },
+  "stats": {
+    "height": "Up to 15.5 inches",
+    "weight": "15–18 lbs",
+    "lifespan": "12–15 years",
+    "energy_level": "Very High",
+    "grooming_needs": "High",
+    "good_with_kids": true,
+    "good_with_other_dogs": false,
+    "shedding": "Low",
+    "trainability": "Moderate"
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Elias1%C4%8Derven2006.jpg/330px-Elias1%C4%8Derven2006.jpg",
+      "alt": "Wire Fox Terrier"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "The Wire Fox Terrier's Distinctive Wiry White Coat",
+      "html": "<p>The Wire Fox Terrier's coat is among the most distinctive and technically demanding in the terrier world. It is dense, wiry, and twisted — the ideal texture likened to coconut matting, hard to the touch with a springy quality when compressed. The base color is white, with black, tan, or black-and-tan markings that vary by individual dog. The coat lies flat against the body, not standing off or fluffy — a correctly maintained Wire Fox Terrier coat has a tight, sculpted quality that is the hallmark of the breed.</p><p>Beneath the wiry outer coat is a shorter, softer undercoat. The combination provides weather resistance and protection — the same qualities that made the coat functional in the field are also what make it so striking in the show ring. The coat is low-shedding year-round, which is a practical benefit for pet owners, but it requires consistent attention to prevent matting and maintain appearance.</p><p>As with all wiry-coated terrier breeds, the fundamental question for Wire Fox Terrier owners is whether to hand-strip or clip. Show dogs must be hand-stripped — the breed standard specifically requires the characteristic hard texture that only hand-stripping preserves. Pet dogs are nearly always clipped, which is faster and less expensive but gradually softens the coat texture and can blur the color distinction between white and markings. For pets, clipping is entirely acceptable; for show prospects or those who value the correct hard texture, hand-stripping is the only option.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Brushing Schedule, Professional Appointments, and Bathing",
+      "html": "<p>The Wire Fox Terrier requires brushing two to three times weekly. Use a slicker brush to work through the coat, followed by a fine-toothed metal comb to check for mats — particularly in the beard, leg furnishings, and under the elbows where friction creates tangles. Work methodically from the rear forward, and comb through to the skin to identify any hidden mats before they become severe.</p><p>Professional grooming appointments should be scheduled every 8 to 10 weeks for pet Wire Fox Terriers. A skilled terrier groomer will scissor the head to maintain the breed's characteristic long, clean head profile — the flat skull, minimal stop, and deep square muzzle are sculpted by careful scissor work. The legs are scissored to produce clean, columnar furnishings, and the body coat is clipped or stripped to maintain the correct outline.</p><p>The beard requires special attention between professional appointments. Food and moisture accumulate in the dense facial furnishings and can cause staining and odor. Clean the beard after meals with a damp cloth and comb through daily. Tear staining under the eyes can affect white-coated dogs; keep the under-eye area clean and dry, and consult your veterinarian if staining is persistent.</p><p>Bathe your Wire Fox Terrier every 4 to 6 weeks. Use a shampoo designed for wiry or harsh coats — avoid moisturizing or softening formulas, which will work against the coat's natural texture. After bathing, blow-dry on a low heat setting while brushing against the grain on the body coat to keep it lying correctly. The leg furnishings should be dried while combed out, then set in the correct shape.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "White Coat Care, Hand-Stripping, and the Show Grooming Process",
+      "html": "<p>White coats present unique care challenges. Staining from food, grass, and environmental contact is highly visible on white areas. Use a whitening or brightening shampoo specifically formulated for white-coated dogs on the body and leg furnishings. Avoid leaving the dog in wet conditions that allow staining contact time on the coat.</p><p>Hand-stripping the Wire Fox Terrier coat is a skilled process that takes several hours for a complete strip. The jacket (body coat) is stripped entirely, the markings blended carefully, and the furnishings (legs and beard) are shaped by scissoring and tidying. The correct sequence of stripping — rolling the coat in stages rather than stripping everything simultaneously — keeps a show dog in consistent condition with a coat that is always in or near peak condition. This technique, called coat rolling or maintaining, requires a skilled show groomer or handler.</p><p>For pet owners who want to try home hand-stripping, start with a lesson from a terrier-specialist groomer. Purchase a proper stripping knife (a coarse-grade Mars Coat King or a traditional stripping knife) and practice on small areas before attempting a full strip. The process is not painful for the dog when done correctly on a ready coat — a coat that is ready to strip comes out easily without resistance. If the coat is not ready, it will not release easily and attempting to force it will be uncomfortable for the dog.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How do I know if my Wire Fox Terrier's coat is ready to be stripped?",
+      "a": "A ready coat shows visible length in the outer hairs, often appearing slightly raised or wavy rather than tight. When you grip a small section between thumb and forefinger and pull in the direction of growth, the hairs release without significant resistance. If you need to tug hard, the coat is not ready. Wait another 2–3 weeks and check again."
+    },
+    {
+      "q": "Can I convert from clipping back to hand-stripping?",
+      "a": "You can attempt it, but a clipped coat has softened texture that will not respond the same way as a never-clipped coat. The conversion typically takes a full coat cycle — up to a year — and may not produce show-quality results. If showing is a possibility, commit to hand-stripping from the start."
+    },
+    {
+      "q": "How do I prevent beard staining on my white Wire Fox Terrier?",
+      "a": "Clean the beard after every meal with a damp cloth or pet-safe face wipe. Comb through daily to prevent matting and food accumulation. Use a stainless steel or ceramic bowl rather than plastic, which can harbor bacteria. Periodic use of a whitening shampoo on the beard during baths helps reduce accumulated staining."
+    }
+  ],
+  "related_breeds": ["smooth-fox-terrier", "welsh-terrier", "lakeland-terrier"]
+}

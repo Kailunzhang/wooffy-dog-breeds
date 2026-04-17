@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Shetland Sheepdog Grooming Guide",
+    "slug": "shetland-sheepdog-grooming-guide",
+    "shopify_handle": "shetland-sheepdog-grooming-guide",
+    "group": "Shetland Sheepdog",
+    "size_category": "Guide",
+    "tags": ["shetland-sheepdog", "grooming", "double-coat", "ruff-matting", "deshedding"],
+    "published": true,
+    "published_at": "2026-04-21T16:00:00Z",
+    "excerpt": "The Shetland Sheepdog's heavy double coat with its distinctive ruff needs 2–3 brushings per week and professional deshedding twice a year. The ruff is where mats form fastest — here's how to prevent them.",
+    "meta_description": "Shetland Sheepdog grooming guide: double coat maintenance, ruff mat prevention, seasonal deshedding appointments, tools for a Sheltie coat, and ear and nail care."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Shetland_Sheepdog_sable.jpg/330px-Shetland_Sheepdog_sable.jpg",
+      "alt": "Shetland Sheepdog grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Sheltie Coat",
+      "heading": "Understanding the Shetland Sheepdog Double Coat",
+      "html": "<p>The Shetland Sheepdog has a profuse double coat that gives the breed its characteristic silhouette: a dense, soft undercoat beneath a harsh, straight outer coat, with a distinctive mane and frill around the neck and chest. The coat sheds heavily and blows twice yearly. Consistent 2–3 times per week brushing is required to prevent mat formation — particularly in the ruff area, where the thick mane tangles fastest.</p><h3>Grooming Tools You'll Need</h3><ul><li>Pin brush — primary tool for working through the outer coat without damaging it</li><li>Undercoat rake — essential for removing loose undercoat regularly and during coat blows</li><li>Wide-tooth steel comb — for checking the ruff and feathering for tangles</li><li>Slicker brush — for finishing and removing fine loose hair</li><li>Dog-safe shampoo and conditioner</li><li>High-velocity dryer (strongly recommended — the Sheltie coat holds moisture extensively)</li></ul><h3>Professional Deshedding Twice Per Year</h3><p>Many Sheltie owners complement home brushing with professional deshedding appointments twice yearly during the seasonal coat blows. These appointments — a thorough deshedding bath, conditioner, and high-velocity blow-dry — remove the majority of the releasing undercoat in a single session and dramatically shorten the blow period. Budget approximately $70–$120 per session at a groomer experienced with double-coated herding breeds.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Grooming Routine: 2–3 Times Per Week",
+      "html": "<h3>Regular Sessions (2–3 Times Per Week)</h3><ul><li>Brush through the full body coat with a pin brush, working from skin outward in sections — the pin brush works through the coat without snapping the harsh outer hairs</li><li>The ruff and frill around the neck and chest must be brushed at every session — these areas mat fastest due to coat density and the friction from collar movement</li><li>The hindquarter breeches and leg feathering are the next highest-risk areas</li><li>Follow with an undercoat rake through the body coat to remove loose undercoat</li><li>Finish with a steel comb through the ruff, breeches, and feathering to confirm tangle-free to the skin</li><li>Check ears; wipe with ear cleaner when debris or odor is present</li></ul><h3>Monthly</h3><ul><li>Bathe every 6–8 weeks. Use conditioner to reduce post-bath tangles, especially in the ruff</li><li>Dry completely with a high-velocity dryer — the Sheltie undercoat holds moisture and must be fully dried before the coat is laid back down</li><li>Trim nails monthly</li></ul><h3>Coat Blow Season (Twice Per Year)</h3><p>Shelties blow their undercoat twice yearly in significant volume. Daily brushing during the 2–3 week blow period is required. A professional deshedding appointment at the start of each blow season removes most of the releasing undercoat efficiently and shortens the total blow duration.</p>"
+    },
+    "special": {
+      "label": "The Ruff and Collar Matting",
+      "heading": "Ruff Care: The Most Mat-Prone Area",
+      "html": "<p>The ruff — the thick mane of hair around the Sheltie's neck and chest — is the most mat-prone area of the coat and requires specific attention at every grooming session. Left unbrushed, the ruff forms dense mats at the skin that are very difficult to remove without dematting tools or scissors. The collar sitting against the ruff accelerates mat formation through friction and moisture.</p><h3>Collar Management</h3><ul><li>Check under the collar after every walk — the pressure and moisture from a wet or tight collar creates mat-forming conditions directly in the ruff</li><li>Consider a quick-release collar worn only during walks and removed when indoors — this significantly reduces friction matting</li><li>A rolled leather collar causes less coat friction than a flat nylon collar</li><li>Detangling spray applied lightly to the ruff before and after collar removal reduces friction damage</li></ul><h3>Ruff Brushing Technique</h3><p>The ruff requires longer brushing time than any other body area. Work through it in sections with the pin brush, using a lift-and-brush motion rather than dragging through from the surface. A steel comb at the end of each session confirms the ruff is clear to the skin. Finding a small mat early is a 2-minute fix; allowing it to develop to a skin-level mat is a much more difficult problem.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often do Shetland Sheepdogs need grooming?",
+      "a": "Brushing 2–3 times per week during normal periods, with daily brushing during seasonal coat blows. Bathe every 6–8 weeks. Two professional deshedding appointments per year significantly reduce the home shedding burden during coat blows. Without consistent home brushing, mats form quickly — particularly in the ruff and breeches areas."
+    },
+    {
+      "q": "Do Shelties need professional grooming?",
+      "a": "Not strictly — owners who maintain consistent 2–3 times per week home brushing can manage the Sheltie coat without professional appointments. Many Sheltie owners use professional deshedding appointments twice yearly during coat blows for convenience. The coat does not need trimming or shaping — only maintenance brushing, bathing, and blow-drying."
+    },
+    {
+      "q": "Why does my Sheltie's ruff mat so quickly?",
+      "a": "The ruff is the densest area of the coat and experiences constant friction from collar movement, head position changes, and the dog's own activity. Without brushing that reaches the skin level at each session, dead undercoat compacts into mats from the base up — the surface can look acceptable while mats form underneath. Check the ruff with a steel comb at the end of every brushing session to confirm skin-level clearance."
+    }
+  ]
+}

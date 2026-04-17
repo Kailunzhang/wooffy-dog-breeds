@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Cardigan Welsh Corgi Grooming Guide",
+    "slug": "cardigan-welsh-corgi-grooming-guide",
+    "shopify_handle": "cardigan-welsh-corgi-grooming-guide",
+    "group": "Cardigan Welsh Corgi",
+    "size_category": "Guide",
+    "tags": ["cardigan-welsh-corgi", "grooming", "double-coat", "shedding", "coat-blow"],
+    "published": true,
+    "published_at": "2026-04-20T16:00:00Z",
+    "excerpt": "The Cardigan Welsh Corgi has a dense double coat that sheds year-round and blows twice a year. A 2–3 times per week brushing routine keeps the coat healthy and your home manageable.",
+    "meta_description": "Cardigan Welsh Corgi grooming guide: double coat maintenance, seasonal coat blow management, tools and brushing technique, and preventing mat formation in a low-to-ground breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cardigan_Welsh_Corgi%2C_Profile.png/250px-Cardigan_Welsh_Corgi%2C_Profile.png",
+      "alt": "Cardigan Welsh Corgi grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Cardigan Coat",
+      "heading": "Understanding the Cardigan Welsh Corgi Double Coat",
+      "html": "<p>The Cardigan Welsh Corgi has a medium-length double coat: a dense undercoat beneath a longer, slightly harsh outer coat. The coat comes in multiple length varieties — some Cardigans have fluffier coats than others — but all are double-coated and share the same grooming fundamentals. The coat sheds moderately year-round with two significant seasonal coat blows. This is not a low-shedding breed; it is a manageable-shedding breed with the right routine.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — primary maintenance tool for the outer coat</li><li>Undercoat rake — essential during coat blow seasons and regularly useful between them</li><li>Wide-tooth steel comb — for checking that the coat is clear to the skin</li><li>Pin brush — useful for maintaining the longer coat on the tail, ruff, and hindquarters</li><li>Dog-safe shampoo and conditioner</li></ul><h3>Coat Characteristics to Know</h3><p>The Cardigan's chest ruff, hindquarter breeches, and tail are the longest and densest coat areas — and the highest mat-risk zones. These areas need extra attention during each brushing session. The underbelly coat is shorter but check it during grooming as it can mat where the legs meet the body, particularly in more active dogs.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Grooming Routine: 2–3 Times Per Week",
+      "html": "<h3>Regular Sessions (2–3 Times Per Week)</h3><ul><li>Brush through the full coat with a slicker brush, working from skin outward in sections</li><li>Give extra attention to the chest ruff, hindquarter breeches, and behind the ears — highest mat-risk areas</li><li>Follow with an undercoat rake to remove loose undercoat</li><li>Finish with a steel comb through the longer areas to confirm the coat is clear to skin level — the slicker can smooth over surface tangles while mats form underneath</li><li>Check ears for odor or debris; wipe with cotton ball and ear cleaner</li><li>Check paw pads — low-to-ground dogs pick up debris between their pads during walks</li></ul><h3>Monthly</h3><ul><li>Bathe every 6–8 weeks. Cardigans don't need frequent bathing; their coat is weather-resistant and naturally fairly clean</li><li>Use a conditioner to ease post-bath comb-through and reduce tangle formation as the coat dries</li><li>Dry thoroughly — the dense undercoat holds moisture, and damp skin under a thick coat is a hot spot risk</li><li>Trim nails monthly — long nails are uncomfortable in a low-to-ground, active breed</li></ul><h3>Coat Blow Season (Twice Per Year)</h3><p>Cardigans blow their undercoat in spring and fall, with each blow lasting 2–4 weeks. Daily brushing is required during this period. A deshedding bath — full saturation, conditioner, thorough rinse, and blow-dry — removes the majority of releasing undercoat in a single session and shortens the blow duration.</p>"
+    },
+    "special": {
+      "label": "Low-to-Ground Breed Considerations",
+      "heading": "Grooming Considerations for a Long-Backed, Short-Legged Breed",
+      "html": "<p>The Cardigan's long body and short legs mean the coat regularly contacts the ground, picks up debris during walks, and experiences friction in areas that taller dogs don't. A few practical grooming considerations follow from this body structure.</p><h3>Underbelly and Leg Junction Areas</h3><p>The area where the front and rear legs meet the body is prone to friction matting — particularly in more active dogs that frequently move through tall grass or rough terrain. Check and brush through this area at every grooming session. A mat in this location, if allowed to develop, can affect the dog's comfortable movement.</p><h3>Paw and Leg Hair</h3><p>Cardigans have moderate hair on their legs and between their paw pads. Check between the pads at every session for packed debris, grass seeds, or ice accumulation (in winter). Trim excess hair between the pads if it accumulates dirt, ices up, or causes the dog to slip on smooth floors.</p><h3>Ear Care</h3><p>The Cardigan's large, erect ears provide good airflow and are generally lower-risk for infections than pendant-eared breeds. Clean with ear solution when debris or odor is present. Grass seeds and outdoor debris can enter erect ears — check after outdoor activities in long grass or brush.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often do Cardigan Welsh Corgis shed?",
+      "a": "Year-round at a moderate level, with two major coat blows in spring and fall. During coat blows, daily brushing is required for 2–4 weeks. Between blows, 2–3 brushing sessions per week with a slicker brush and undercoat rake keeps the shedding manageable. This is an active-shedding breed that requires consistent grooming."
+    },
+    {
+      "q": "Do Cardigan Welsh Corgis need professional grooming?",
+      "a": "Not necessarily — owners who maintain consistent home brushing can manage the Cardigan coat entirely at home. Professional grooming for a deshedding bath during coat blows is popular with many owners and reduces the home shedding burden during those intense periods. The Cardigan coat does not require trimming or shaping — just brushing, bathing, and blow-drying."
+    },
+    {
+      "q": "Where do Cardigan Welsh Corgis mat most?",
+      "a": "The chest ruff, hindquarter breeches, behind the ears, and the junction of the legs and body are the highest-mat-risk areas. These zones have the longest, densest coat and experience the most friction from movement. Check these areas at every brushing session and use a steel comb at the end to confirm you've cleared the coat to skin level — surface brushing can mask developing mats underneath."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "name": "Swedish Vallhund Grooming Guide",
+    "slug": "swedish-vallhund-grooming-guide",
+    "shopify_handle": "swedish-vallhund-grooming-guide",
+    "group": "Swedish Vallhund",
+    "size_category": "Guide",
+    "tags": ["swedish-vallhund", "grooming", "herding"],
+    "published": true,
+    "published_at": "2026-05-05T16:00:00Z",
+    "excerpt": "A practical grooming guide for the Swedish Vallhund's harsh weather-resistant double coat — covering weekly brushing, managing the twice-yearly shed, bathing, and the minimal professional grooming this Viking herding dog needs.",
+    "meta_description": "Swedish Vallhund grooming guide: brushing schedule, managing seasonal shedding, bathing, and coat care for the harsh sable double coat of this ancient Nordic breed."
+  },
+  "stats": {
+    "height": "11.5–13.5 inches",
+    "weight": "20–35 lbs",
+    "lifespan": "12–15 years",
+    "energy_level": "High",
+    "grooming_needs": "Moderate",
+    "good_with_kids": true,
+    "good_with_other_dogs": true,
+    "shedding": "Moderate",
+    "trainability": "Easy"
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Swedish_Vallhund_bitch.jpg/330px-Swedish_Vallhund_bitch.jpg",
+      "alt": "Swedish Vallhund"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "The Swedish Vallhund's Harsh, Weather-Resistant Double Coat",
+      "html": "<p>The Swedish Vallhund's double coat is a working dog coat in every sense — designed over centuries to provide effective insulation and weather protection in Nordic conditions without requiring significant maintenance. The outer coat is medium-length, harsh, and close-lying; the undercoat is dense and soft. The overall texture is similar to that of other Nordic spitz and herding breeds — firm to the touch, quick to shed water, and naturally self-cleaning to a significant degree.</p><p>The coat's sable pattern — grey, red, yellow, or brown base with the characteristic lighter shadings on the muzzle, underbelly, chest, and lower legs — requires no special care to maintain. The color pattern is genetic and expresses itself in the coat regardless of grooming. The Swedish Vallhund does not need trimming, stripping, or shaping to maintain its correct appearance; the coat grows to its natural length and falls correctly on its own.</p><p>The practical reality of the Swedish Vallhund coat is that it is a moderate shedder. The undercoat drops year-round at a low level and twice a year — spring and fall — undergoes a heavy coat blow during which shedding increases dramatically for two to four weeks. Consistent brushing manages both the ongoing light shed and the seasonal heavy blow effectively. Professional grooming is optional and primarily useful as a convenience service during blow periods.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Brushing Schedule, Bathing, and Seasonal Coat Blow Management",
+      "html": "<p>During non-shedding periods, brush your Swedish Vallhund once or twice per week. Use a slicker brush or pin brush to work through the outer coat, then follow with an undercoat rake to check and clear the dense undercoat beneath. Pay particular attention to the areas where the undercoat is densest — around the neck, the chest, the hindquarters, and the base of the tail. Ten to fifteen minutes twice a week keeps the coat in good condition between the seasonal blows.</p><p>During the coat blow, increase brushing to daily. An undercoat rake or de-shedding tool (such as a Furminator for medium-coated double-coated breeds) is the most efficient tool for pulling large volumes of loose undercoat quickly. A thorough bath at the start of the blow, followed by blow-drying on a high-velocity setting while brushing, removes the majority of the loosening undercoat in a single session — dramatically reducing home shedding in the days following the bath. Expect the blow to last two to four weeks, after which shedding returns to the normal low level.</p><p>Bathe your Swedish Vallhund every 4–8 weeks. The harsh outer coat is somewhat self-cleaning and does not collect odor and debris as readily as soft coats, so bathing frequency can be extended compared to smooth or silky-coated breeds. Use a shampoo formulated for double-coated or harsh-coated breeds. Avoid softening or moisturizing shampoos that alter the correct harsh outer coat texture.</p><p>Check ears weekly and clean with veterinarian-approved ear cleaner as needed. Trim nails every 3–4 weeks; nails grow quickly in active dogs. Brush teeth at least twice weekly. For a low-set breed that may have limited hind-end flexibility, getting the dog accustomed to nail handling and body touching from puppyhood makes the lifelong grooming routine significantly easier.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Nordic Coat Care, Back Health, and Shed Blow Timing",
+      "html": "<p>One grooming consideration specific to the Swedish Vallhund's low-set build: getting the dog comfortable with lying on its side or being rolled gently for grooming of the underside, armpits, and inner thighs is important. These areas are harder to reach in a standing dog and are where undercoat can accumulate and mat during the blow period. Training the dog to accept lateral recumbency for grooming from puppyhood is a practical investment.</p><p>The Swedish Vallhund's coat should never be shaved or significantly clipped for summer heat management. The double coat provides insulation against both cold and heat through a natural convection mechanism; removing the outer coat disrupts this system and can actually reduce heat tolerance. It also damages the regrowth cycle, potentially resulting in softer, less protective coat for up to a full coat cycle. Shade, fresh water, and avoiding exercise during peak heat hours are appropriate summer management — not coat removal.</p><p>The twice-yearly coat blow is predictable but variable in intensity from year to year. Intact females may experience a coat blow correlated with estrus cycles in addition to the seasonal blows. Spayed females often develop slightly fuller, denser coats than intact females, which may increase the intensity and duration of the blow. Neutered males also occasionally develop slightly softer, denser coats post-neuter. If you notice a significant coat change after spay or neuter, adjust your brushing frequency accordingly.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Does the Swedish Vallhund need professional grooming?",
+      "a": "No — not as a requirement. The coat's harsh texture and natural self-maintenance mean no structural trimming is needed, and at-home brushing is completely adequate for coat health and appearance. Professional de-shedding baths during the coat blow are a useful option for owners who prefer to outsource that intensive period, but they are a convenience rather than a necessity."
+    },
+    {
+      "q": "How long does the Swedish Vallhund's coat blow last?",
+      "a": "Typically two to four weeks per blow, occurring twice a year in spring and fall. Daily brushing during the blow significantly reduces the duration and volume of loose fur in the environment. Dogs that are brushed regularly year-round tend to have less intense blows than those that receive sporadic grooming."
+    },
+    {
+      "q": "Can the harsh outer coat texture change over time?",
+      "a": "Yes — spay and neuter can cause a gradual softening of the outer coat in some individuals, and aging can thin the coat slightly. Using harsh-coat-appropriate shampoos (avoiding softening conditioners) and maintaining regular brushing helps preserve the correct texture over time."
+    }
+  ],
+  "related_breeds": ["pembroke-welsh-corgi", "cardigan-welsh-corgi", "icelandic-sheepdog"]
+}

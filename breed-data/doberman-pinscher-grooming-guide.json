@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "name": "Doberman Pinscher Grooming Guide",
+    "slug": "doberman-pinscher-grooming-guide",
+    "shopify_handle": "doberman-pinscher-grooming-guide",
+    "group": "Doberman Pinscher",
+    "size_category": "Guide",
+    "tags": ["doberman-pinscher", "grooming", "working-group", "low-maintenance-grooming"],
+    "published": true,
+    "published_at": "2026-04-15T16:00:00Z",
+    "excerpt": "Doberman grooming is minimal — weekly wipe-down, monthly bath, regular nails and teeth. The short coat keeps professional grooming off the table entirely.",
+    "meta_description": "Doberman Pinscher grooming guide: simple weekly routine for the short coat, nail care, dental hygiene, and skin health tips."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dobermann_handling.jpg/330px-Dobermann_handling.jpg",
+      "alt": "Doberman Pinscher grooming"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "Doberman Grooming: Low Effort, High Payoff",
+      "html": "<p>The Doberman Pinscher has one of the most low-maintenance coats in the dog world — a short, tight, single-layer coat that requires minimal brushing, dries in minutes after a bath, and almost never needs professional attention.</p><p>What Dobermans do need: consistent nail maintenance (they grow fast and are often resistant to handling), regular dental care, and occasional attention to skin. The clean, athletic look that makes Dobermans so striking is maintained mostly by the dog's natural coat quality — your job is just to keep up with the basics.</p>"
+    },
+    "care": {
+      "label": "Tools & Routine",
+      "heading": "Simple Weekly Grooming Routine",
+      "html": "<h3>What You Need</h3><ul><li><strong>Rubber grooming mitt or soft bristle brush</strong></li><li><strong>Dog wipes or damp chamois cloth</strong></li><li><strong>Nail clippers or rotary grinder</strong></li><li><strong>Dog toothbrush and toothpaste</strong></li></ul><h3>Weekly Routine (10–15 min total)</h3><ol><li><strong>Coat:</strong> Wipe down with a damp chamois or use a rubber mitt. This removes loose hair, dust, and skin debris. The coat will gleam. Dobermans appreciate this — it's essentially a mini-massage.</li><li><strong>Skin check:</strong> Run your hands over the body. Dobermans are prone to skin issues including color dilution alopecia (in blue and fawn-colored dogs) and allergies. Note any dry patches, hair thinning, or irritated spots.</li><li><strong>Nails:</strong> Trim every 3–4 weeks. Dobermans can be sensitive about their feet — introduce nail handling early and desensitize with treats. A rotary grinder is often easier than clippers for reluctant dogs.</li><li><strong>Teeth:</strong> Brush 3–4 times per week. Large breeds are at risk for periodontal disease, and dental disease can worsen existing cardiac conditions — relevant for a breed with DCM risk.</li></ol><h3>Bathing</h3><p>Every 6–8 weeks, or when visibly dirty. Dobermans dry quickly. Use a mild dog shampoo — avoid harsh formulas that strip the skin oils. Dogs with color dilution alopecia may benefit from a gentle moisturizing shampoo.</p>"
+    },
+    "special": {
+      "label": "Skin & Coat Health",
+      "heading": "Color Dilution Alopecia and Skin Issues",
+      "html": "<p>Blue and fawn (Isabella) Dobermans carry a dilute coat color gene that can cause <strong>color dilution alopecia (CDA)</strong> — patchy hair loss, dry scaly skin, and recurrent bacterial skin infections. It's a cosmetic and comfort issue with no cure, but it can be managed.</p><h3>CDA Management</h3><ul><li>Medicated shampoos (as directed by a vet dermatologist) help with bacterial folliculitis</li><li>Omega-3 fatty acid supplements support skin barrier function</li><li>Avoid harsh shampoos or over-bathing — both worsen dryness</li><li>Regular vet checks allow early treatment of bacterial flare-ups</li></ul><p>Black and rust Dobermans can still develop skin allergies — environmental and food allergies present as itching, hot spots, and paw chewing. If your Doberman is scratching persistently, a vet evaluation is the right first step.</p><h3>Ear Care for Cropped vs. Natural Ears</h3><p>Dobermans with cropped ears have open, upright ear canals that are well-ventilated and rarely develop infections. Dogs with natural (uncropped) floppy ears need weekly ear checks — clean with a vet-approved ear cleaner if you see wax buildup or odor.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Do Dobermans need professional grooming?",
+      "a": "Almost never. The short coat doesn't require cutting. Some owners take their Doberman for a bath-and-nail service if they prefer it, but most Doberman owners handle everything at home in under 15 minutes per week."
+    },
+    {
+      "q": "My Doberman has a blue coat and is losing hair — is this normal?",
+      "a": "Patchy hair loss and dry, scaly skin in blue (gray) or fawn Dobermans is a sign of color dilution alopecia. It's a genetic condition linked to the dilute color gene. See a vet for management options — medicated shampoos and omega-3 supplements are common recommendations."
+    },
+    {
+      "q": "How do I trim my Doberman's nails if they resist handling?",
+      "a": "Start desensitization early — hold and touch the feet regularly without trimming, paired with high-value treats. Build up slowly. A rotary grinder (Dremel-style) is often better accepted than clippers. If resistance is severe, your vet or groomer can trim nails during a routine visit."
+    },
+    {
+      "q": "How often should I bathe my Doberman?",
+      "a": "Every 6–8 weeks is appropriate for most dogs. Over-bathing strips natural oils and can cause dry skin. Use a gentle, moisturizing shampoo rather than deodorizing or harsh formulas."
+    }
+  ]
+}

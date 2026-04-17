@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Silky Terrier Grooming Guide",
+    "slug": "silky-terrier-grooming-guide",
+    "shopify_handle": "silky-terrier-grooming-guide",
+    "group": "Silky Terrier",
+    "size_category": "Guide",
+    "tags": ["silky-terrier", "grooming"],
+    "published": true,
+    "published_at": "2026-05-01T16:00:00Z",
+    "excerpt": "The Silky Terrier's flowing blue-and-tan coat is stunning but demands consistent care. This guide covers brushing routines, professional grooming schedules, and coat maintenance tips.",
+    "meta_description": "Complete Silky Terrier grooming guide: daily brushing, bathing, trimming, and coat care for a healthy, tangle-free silky coat."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Silky_Terrier_600.jpg/330px-Silky_Terrier_600.jpg",
+      "alt": "Silky Terrier grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Understanding the Silky Terrier's Coat",
+      "html": "<p>The Silky Terrier's coat is its most striking feature — straight, glossy, and fine in texture, parted neatly from nose to tail. Unlike double-coated breeds, the Silky has a single-layer coat, which means low shedding but a higher tendency to tangle and mat without regular brushing. The coat grows continuously and, if left untrimmed, can reach floor length.</p><p>Most pet owners keep the coat trimmed to a practical length of 3–5 inches, which is easier to maintain than full show length while still preserving the breed's elegant silhouette. Show dogs are maintained at full length, requiring a near-daily grooming commitment.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Daily Brushing, Bathing, and Trimming",
+      "html": "<p><strong>Brushing:</strong> Brush the coat every 1–2 days using a pin brush and a fine-toothed metal comb. Work in sections from the skin outward, using a detangling spray to ease knots rather than ripping through them. Pay special attention to behind the ears, the armpits, and the leg furnishings — mats develop fastest in these areas.</p><p><strong>Bathing:</strong> Bathe every 2–3 weeks using a gentle dog shampoo formulated for silky or fine coats. Follow with a light conditioner to keep the coat smooth and reduce static. Dry thoroughly with a low-heat dryer while brushing to prevent curling.</p><p><strong>Professional Grooming:</strong> Schedule a professional grooming session every 6–8 weeks for trimming the coat to length, cleaning ears, trimming nails, and tidying the facial hair. Show exhibitors will need more frequent appointments for scissoring and coat shaping.</p><p><strong>Nails and Ears:</strong> Trim nails every 3–4 weeks. Check ears weekly for redness, odor, or excess wax, and clean gently with a vet-approved ear cleaner.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Coat Health and Common Issues",
+      "html": "<p><strong>Mats:</strong> Mats in the Silky coat can form rapidly, especially after outdoor activity in wet conditions. Never try to brush out a dense mat dry — apply a detangling spray or conditioner first and work from the ends inward. Severe mats may require careful cutting or professional removal.</p><p><strong>Color Development:</strong> Silky Terrier puppies are born black and tan. The blue develops progressively through the first 18–24 months. Don't worry if your puppy's coat looks darker than expected — the adult blue-and-tan coloring emerges over time.</p><p><strong>Coat Length Options:</strong> Many owners prefer a 'puppy cut' that trims the body coat to 1–2 inches for easy maintenance. This is a perfectly valid choice that dramatically reduces daily brushing time while keeping the dog looking neat and clean.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often should I brush my Silky Terrier?",
+      "a": "Ideally every day or every other day to prevent mats and tangles. The longer the coat is kept, the more frequent brushing is needed. A shorter trim reduces maintenance significantly."
+    },
+    {
+      "q": "Can I use human hair products on my Silky Terrier's coat?",
+      "a": "No. Human shampoos and conditioners have a different pH than dog-formulated products and can irritate the skin or strip natural coat oils. Use products designed specifically for dogs with fine or silky coats."
+    }
+  ]
+}

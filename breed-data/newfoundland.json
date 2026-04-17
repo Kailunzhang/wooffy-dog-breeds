@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "name": "Newfoundland",
+    "slug": "newfoundland",
+    "shopify_handle": "newfoundland",
+    "group": "Working Group",
+    "size_category": "Giant Breed",
+    "tagline": "The Newfoundland is a true gentle giant — calm, patient, devoted to family, and built for water rescue. They also drool constantly and need cardiac screening. Know both sides before you decide.",
+    "tags": ["working-group", "giant-breed", "gentle-giant", "water-dog", "family-dog", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-17T16:00:00Z",
+    "excerpt": "The Newfoundland deserves its 'gentle giant' reputation — these are patient, devoted, calm dogs that are genuinely excellent with children. They also drool extensively, have serious cardiac health concerns that require testing, and cost significantly to own at giant breed scale.",
+    "meta_description": "Newfoundland breed guide: gentle giant temperament, water rescue instinct, SAS cardiac screening requirements, cystinuria DNA test, drool management, and honest cost of ownership."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Giant" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "100–150 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "9–10 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "30–60 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Easy" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With research" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Newfoundland_dog_Smoky.jpg/330px-Newfoundland_dog_Smoky.jpg",
+      "alt": "Newfoundland dog"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Newfoundland?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Newfoundland is one of the great working water dogs of history — bred in Newfoundland, Canada to assist fishermen: hauling nets, retrieving equipment lost overboard, and rescuing drowning sailors. The physical attributes developed for this work are still present in every Newf today: a powerful, water-resistant double coat, webbed feet, enormous physical strength, and a natural instinct to retrieve things from water and assist anything that appears to be drowning. If you have a pool, the Newf will attempt to rescue your children whether they need it or not.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">In temperament, they are widely considered one of the gentlest large breeds available. Patient, calm, devoted, and tolerant with children — the \"nanny dog\" descriptor often applied to several breeds is more genuinely earned by the Newfoundland than most. They are easy to train by giant-breed standards, responsive to their owners, and typically good with other animals.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The honest trade-offs: the drool is significant and constant. The coat requires real maintenance. The cardiac health situation — Subvalvular Aortic Stenosis (SAS) is a breed-prevalent condition — requires specific documentation from breeders and cardiac monitoring from vets. And the 9–10 year lifespan means the goodbye often comes earlier than expected.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Newfoundlands Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Large and powerfully built — females typically 100–120 lbs, males 130–150 lbs. The coat is flat, dense, and water-resistant, with a soft undercoat and a coarser outer coat. Colors include black (most common), brown, gray, and black and white (the Landseer pattern). The Landseer is considered a separate breed in some countries.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The face is broad and soft in expression, the jowls deep — which is directly related to the drool output. The tail is wide and rudder-like. Webbed feet are a breed characteristic, visible when you examine the paws. Height ranges from 26–28 inches at the shoulder. The overall impression is massive, bear-like, and gentle.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Newfoundland is genuinely one of the most family-friendly large breeds. Patient with children, tolerant of rough handling, calm in the house, and affectionate without being demanding. They bond to all family members rather than fixating on one person. They are not guard dogs — they may alarm bark at strangers but do not have an aggressive protective temperament.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The water instinct is real and should be planned for. Newfoundlands are attracted to any water they encounter — pools, lakes, streams, puddles. They will attempt to rescue anyone in the water, including children who are swimming perfectly well. This instinct is charming and occasionally inconvenient.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They are trainable and respond well to positive reinforcement. The main training challenge is simply their size — a 150-lb dog that hasn't learned loose-leash walking is a genuine management problem. Training must begin at puppy size, when the consequences of pulling are manageable.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Newfoundland",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Newfoundlands are among the most genuinely lovable dogs in existence. The temperament is not marketing — they really are that gentle, that patient with children, that calm. A well-bred, well-socialized Newf is one of the best family dogs you can own at any size. I understand completely why people fall for them.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The conversations I feel obligated to have are about the drool and the cardiac health situation. The drool is genuinely constant — it pools, it strings, it gets on walls and furniture and clothing. This is not exaggerated. People who haven't lived with a heavy-drooling breed often underestimate it until they're wiping the couch for the third time in an hour. If drool bothers you, the Newfoundland is not the right dog.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The SAS cardiac situation is the other must-discuss item. Subvalvular Aortic Stenosis is prevalent in the breed and can range from mild to fatal. A reputable breeder will have OFA cardiac certification for both parents and should be willing to discuss their lines' cardiac health history. Ask directly. And establish cardiac monitoring with your vet from the first visit — catching SAS early or confirming a clean bill of health is worth the conversation.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate — 30–60 minutes of daily exercise is typical for an adult Newf. They are not high-energy dogs and do not need intense physical activity. Swimming is ideal exercise for the breed and they take to water naturally. Avoid overexercise in heat; Newfoundlands are built for cold climates and are prone to overheating. Exercise in cool temperatures or early morning.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The double coat requires regular brushing — at minimum 2–3 times weekly, daily during coat blows. Professional deshedding sessions twice yearly significantly reduce the volume of loose coat. Never shave the coat. See the <a href=\"/blogs/dog-breeds/newfoundland-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Newfoundland grooming guide</a> for details.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Drool Management</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Invest in microfiber cloths and keep them in every room. Wipe the face after drinking and eating. Accept that your furniture and clothing will require management. A drool bib for around-the-house use reduces the cleanup burden. This is not fixable — it is a breed characteristic from the deep, heavy jowls.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Newfoundlands have a lifespan of 9–10 years — typical for giant breeds but shorter than most owners hope for. Cardiac health is the primary concern for the breed.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Subvalvular Aortic Stenosis (SAS)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">A congenital heart defect in which tissue below the aortic valve obstructs blood flow. Prevalent in Newfoundlands. Ranges from mild (managed with medication and exercise restriction) to severe (potentially fatal, especially during strenuous exertion). OFA cardiac certification is required from both parents. Ask breeders directly — certified cardiologist exam, not just vet auscultation.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Cystinuria</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">An inherited metabolic disorder causing kidney stones — specifically cystine stones. In Newfoundlands, a Type II-A cystinuria variant is present in the breed. A DNA test is available; ask breeders for test results for both parents. Dogs that develop kidney stones may require surgery, dietary management, and medication. Ask your breeder for cystinuria test documentation.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Common in large breeds — malformed hip joint leading to arthritis and pain. OFA certification required from reputable breeders. Managed medically in mild cases; surgically in severe cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Developmental elbow joint abnormality causing lameness and arthritis. OFA elbow certification available. Surgical correction possible; managed with weight and exercise control.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">DCM (Dilated Cardiomyopathy)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Enlargement of the heart muscle causing poor pumping function. Separate from SAS but also relevant in giant breeds. Annual cardiac monitoring (echocardiogram) in middle-aged and older Newfoundlands is good practice.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA cardiac (certified cardiologist exam), OFA hip, OFA elbow, and cystinuria DNA test results for both parents.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$3,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (giant breed kibble)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$800–$1,400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$800–$1,400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet care (routine + puppy series + cardiac exam)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$700–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$800–$1,600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$800–$1,600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (giant crate, drool supplies, gear)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$4,000–$8,000</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,200–$4,000</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/newfoundland-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Newfoundland first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Newfoundland Right for You?",
+      "good_fit": [
+        "Families with children who want a genuinely patient, gentle giant family dog",
+        "Households that can accept significant ongoing drool management",
+        "Owners who will commit to cardiac monitoring and have documentation from breeders",
+        "Households in cooler climates or those with indoor air conditioning for hot days",
+        "Owners who want an easy-to-train large breed without the independence challenges of guardian breeds"
+      ],
+      "not_fit": [
+        "Anyone strongly bothered by drool — it is constant and unavoidable in this breed",
+        "Hot climate households without strong indoor cooling management",
+        "Owners not prepared for the 9–10 year lifespan and associated grief",
+        "Households without space for a very large dog, including an appropriate vehicle for transport",
+        "Anyone unwilling to verify SAS cardiac clearances from the breeder"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Newfoundland",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$3,000 from reputable breeders. Non-negotiable health clearances: OFA cardiac certification (cardiologist-performed, not just a general vet exam), OFA hip, OFA elbow, and cystinuria DNA test results for both parents. The Newfoundland Club of America maintains a breeder referral list. The SAS cardiac situation in this breed means that breeders who skip cardiac certification are the ones most likely to sell you a dog with an undisclosed problem.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Newfoundland rescue organizations exist in North America. The breed appears in rescue typically due to owner circumstances (size, drool management, cost) rather than behavioral problems — making rescue Newfs often well-socialized and behaviorally sound. Cardiac history may be unknown for rescue dogs; establish monitoring immediately.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Newfoundland comes home, work through the <a href=\"/blogs/dog-breeds/newfoundland-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Newfoundland puppy checklist</a> — cardiac exam timing and drool management setup are the two first-week priorities.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "Do Newfoundlands drool a lot?", "a": "Yes — significantly and constantly. The deep, heavy jowls produce drool that pools, strings, and gets deposited on furniture, floors, clothing, and walls. This is not exaggerated. It is a structural characteristic of the breed and cannot be managed away. Microfiber cloths in every room, wiping the face after drinking and eating, and accepting a certain amount of drool in your daily life is the realistic approach." },
+    { "q": "What is SAS and why does it matter for Newfoundlands?", "a": "Subvalvular Aortic Stenosis is a congenital heart defect in which tissue below the aortic valve partially obstructs blood flow from the heart. It is prevalent in Newfoundlands. Mild cases may be monitored and managed; severe cases can cause sudden death, particularly during strenuous exercise. Reputable breeders have both parents evaluated by a certified cardiologist (OFA cardiac) — not just listened to with a stethoscope at a routine vet visit. Ask your breeder for the specific certification documentation." },
+    { "q": "Are Newfoundlands good with children?", "a": "Exceptionally so — this is one of the breed's most genuine strengths. Newfoundlands are patient, tolerant, and gentle with children, and their calm temperament withstands roughhousing that would stress many other breeds. The water rescue instinct means they may attempt to 'rescue' children during water play, which is charming but requires pool supervision. Standard large-dog safety rules still apply: always supervise interactions, teach children appropriate dog behavior." },
+    { "q": "What is the Newfoundland's lifespan?", "a": "9–10 years is typical — standard for giant breeds but shorter than most owners want. The SAS cardiac condition is a contributor to shortened lives in affected dogs. Choosing a puppy from thoroughly health-tested parents, monitoring cardiac health annually, keeping weight healthy, and enrolling in pet insurance before the first vet visit are the practical steps to maximizing a healthy lifespan." }
+  ],
+
+  "related_breeds": [
+    {"name": "Great Pyrenees", "slug": "great-pyrenees", "note": "Similar size and gentle temperament, more independent, less drool"},
+    {"name": "Saint Bernard", "slug": "saint-bernard", "note": "Similar gentle giant profile, similar drool level, rescue dog heritage"},
+    {"name": "Bernese Mountain Dog", "slug": "bernese-mountain-dog", "note": "Similar family-friendly nature, slightly smaller, shorter lifespan"},
+    {"name": "Labrador Retriever", "slug": "labrador-retriever", "note": "Similar gentle, trainable personality in a more manageable size"}
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Border Terrier Grooming Guide",
+    "slug": "border-terrier-grooming-guide",
+    "shopify_handle": "border-terrier-grooming-guide",
+    "group": "Border Terrier",
+    "size_category": "Guide",
+    "tags": ["border-terrier", "grooming", "wiry-coat", "hand-stripping", "low-maintenance"],
+    "published": true,
+    "published_at": "2026-04-28T16:00:00Z",
+    "excerpt": "The Border Terrier is one of the lower-maintenance wiry-coated breeds — minimal shedding, minimal odor, and a coat that only needs professional attention twice a year. Weekly brushing at home keeps things tidy between appointments.",
+    "meta_description": "Border Terrier grooming guide: hand-stripping schedule, weekly brushing routine, and coat care for this naturally low-maintenance working terrier."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Border_Terrier.jpg/330px-Border_Terrier.jpg",
+      "alt": "Border Terrier grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Border Terrier Coat",
+      "heading": "Understanding the Border Terrier Coat",
+      "html": "<p>The Border Terrier's coat is a close-lying, dense, wiry outer coat over a short, dense undercoat. It's designed for working in harsh terrain — weather-resistant, self-cleaning to a reasonable degree, and structurally simple compared to longer coated or heavily groomed breeds. This makes it one of the most practical small-dog coats available.</p><p>It does not shed heavily. It does not tangle significantly. It does not require daily brushing. What it does need: regular hand-stripping or trimming to remove dead coat, and consistent ear and nail attention.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — weekly brushing</li><li>Metal comb (medium tooth) — for through-combing and checking</li><li>Stripping knife — for hand-stripping twice yearly</li><li>Dog-safe shampoo</li><li>Nail clippers or grinder</li></ul>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Twice-Yearly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush through the coat with a slicker brush — the close-lying coat is quick to brush</li><li>Run a metal comb through to check for any early mat formation around the neck, ears, and back of legs</li><li>Check ears for redness or odor — wipe with a cotton ball dampened with ear cleaner</li><li>Trim nails every 2–3 weeks — small dog nails that contact hard floors regularly wear naturally, but check and trim as needed</li></ul><h3>Twice Yearly: Hand-Stripping or Trimming</h3><p>The traditional working practice is hand-stripping twice per year — once in spring and once in autumn. This removes the dead outer coat entirely, allowing a fresh new coat to grow in with the correct wiry texture and full color. The process takes 1–2 hours for an experienced groomer or owner.</p><p>Trimming (clipping or scissoring) is acceptable for pets. Over time it softens the coat texture and can slightly dull the color, but the dog is comfortable and the coat is manageable. Most Border Terrier pet owners opt for trimming as a simpler alternative to hand-stripping.</p><h3>Bathing</h3><p>Bathe every 6–8 weeks or when dirty. The close coat dries quickly compared to longer or thicker coated breeds. Towel dry and allow to air dry or use a low-heat dryer. The coat does not require blow-drying techniques.</p>"
+    },
+    "special": {
+      "label": "Ear and Paw Care",
+      "heading": "Ears, Paws, and Between-Appointment Maintenance",
+      "html": "<p>Border Terriers have folded ears that reduce airflow and can trap moisture. Weekly ear checks are a good habit — look for odor, redness, or excessive wax. A clean ear requires nothing more than a wipe with an ear-cleaning solution. If you see dark discharge, strong odor, or the dog is shaking its head or scratching at its ear, see your vet — ear infections need treatment, not just cleaning.</p><h3>Paws</h3><p>The paw pads of a working terrier take a lot of wear, but indoor pet Border Terriers may develop overgrown nails quickly. Check every 2–3 weeks. Nails that touch the floor when the dog stands are too long — this affects the foot posture and gait over time. If the dog has light-colored nails you can see the quick; dark nails require taking small amounts off at a time.</p><h3>Dealing with Mud</h3><p>Border Terriers love to dig and will return from outdoor time muddy regularly. Their coat sheds dirt reasonably well when dry — allow mud to dry and brush it out rather than bathing after every outdoor session. This preserves the natural coat texture and oils and makes the job much easier.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Do Border Terriers need professional grooming?",
+      "a": "Yes, but infrequently compared to most breeds. Twice-yearly hand-stripping or trimming appointments are the standard. Between those appointments, weekly home brushing is all that's needed. Budget for 1–2 professional appointments per year."
+    },
+    {
+      "q": "What is hand-stripping and do I have to do it?",
+      "a": "Hand-stripping removes dead coat by pulling it from the root using fingers or a stripping knife. It preserves the correct wiry texture and full color of the coat. For pet dogs, it's optional — trimming produces a softer coat that's slightly different in texture and color but perfectly comfortable for the dog. For dogs shown in the conformation ring, hand-stripping is expected."
+    },
+    {
+      "q": "How much does a Border Terrier shed?",
+      "a": "Very little — this is one of the breed's genuine advantages. The wiry coat does not shed like smooth or double-coated breeds. Some dead coat releases during the twice-yearly stripping period, but day-to-day shedding is minimal. This is a meaningful practical advantage for households that prefer less dog hair on upholstery."
+    }
+  ]
+}

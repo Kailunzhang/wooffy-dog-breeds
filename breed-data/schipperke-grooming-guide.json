@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "name": "Schipperke Grooming Guide",
+    "slug": "schipperke-grooming-guide",
+    "shopify_handle": "schipperke-grooming-guide",
+    "group": "Schipperke",
+    "size_category": "Guide",
+    "tags": ["schipperke", "grooming", "non-sporting"],
+    "published": true,
+    "published_at": "2026-05-02T16:00:00Z",
+    "excerpt": "A practical grooming guide for the Schipperke's dense black double coat — covering weekly brushing, managing the twice-yearly coat blow, bathing, and maintaining the breed's characteristic ruff and silhouette.",
+    "meta_description": "Schipperke grooming guide: brushing schedule, managing coat blows, bathing tips, and maintaining the dense black double coat and signature neck ruff."
+  },
+  "stats": {
+    "height": "10–13 inches",
+    "weight": "10–16 lbs",
+    "lifespan": "12–16 years",
+    "energy_level": "High",
+    "grooming_needs": "Moderate",
+    "good_with_kids": true,
+    "good_with_other_dogs": true,
+    "shedding": "Moderate",
+    "trainability": "Moderate"
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schipperke_photo.jpg/330px-Schipperke_photo.jpg",
+      "alt": "Schipperke"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "The Schipperke's Dense Black Double Coat",
+      "html": "<p>The Schipperke's coat is a classic spitz-type double coat: a dense, soft undercoat providing insulation, overlaid by a harder, longer outer coat that lies flat and provides weather protection. The coat is always black, and in good condition it has a striking depth of color — almost blue-black in bright light. The distinctive ruff around the neck and shoulders, the cape over the back and withers, and the culottes on the thighs give the breed its characteristic silhouette.</p><p>The good news for Schipperke owners: this coat essentially maintains its own outline. Unlike long-coated or wiry-coated breeds that require professional trimming or stripping to retain their breed-specific appearance, the Schipperke's coat falls naturally into the correct shape. Professional grooming appointments are optional and primarily for bathing and de-shedding assistance rather than structural trimming.</p><p>The less convenient news: the Schipperke sheds. It is a moderate shedder year-round, and twice a year — typically spring and fall — it undergoes a heavy coat blow during which the undercoat drops in significant volume. Black fur on light surfaces and furniture is highly visible. Consistent brushing and proactive management during coat blows keep shedding under control, but prospective owners should know going in that the Schipperke is not a low-shed breed.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Weekly Brushing, Bathing, and Ear and Nail Care",
+      "html": "<p>During non-shedding periods, brush your Schipperke once or twice per week with a slicker brush or a pin brush. Follow with a metal comb to check the undercoat, particularly around the ruff, behind the ears, and in the culottes where tangles are most likely to form. The Schipperke's coat is relatively low-maintenance between the coat blows — a 10–15 minute brushing session twice a week is sufficient for most dogs.</p><p>During the twice-yearly coat blow, increase brushing to daily or every other day. Use an undercoat rake or a de-shedding tool (like a Furminator for double-coated breeds) to pull loose undercoat efficiently. Daily brushing during the blow significantly reduces the volume of loose fur that ends up on furniture and clothing. Expect the blow to last 2–4 weeks; the coat will stabilize and shedding will return to normal afterward.</p><p>Bathe your Schipperke every 4–6 weeks, or at the start of a coat blow to loosen the dead undercoat. Use a de-shedding shampoo during the blow for maximum effect. A thorough blow-dry on a low setting while brushing will remove much of the loose undercoat in a single session, dramatically reducing daily shedding in the following days.</p><p>Check ears weekly for redness, odor, or debris. Clean with a veterinarian-approved ear cleaner as needed. Trim nails every 3–4 weeks. Brush teeth at least twice weekly — small breeds are prone to dental disease, and consistent brushing significantly reduces the frequency of professional dental cleanings.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Managing the Coat Blow, Black Coat Care, and Schipperke Bathing Tips",
+      "html": "<p>The twice-yearly coat blow is the most demanding grooming period for Schipperke owners. Dogs that are brushed regularly year-round handle the blow much more easily than dogs that receive sporadic grooming. A well-maintained coat releases the dead undercoat more efficiently and is less likely to develop mats during the blow period. If you are not currently maintaining a regular brushing schedule, the coat blow is a compelling argument to start.</p><p>Some Schipperke owners opt for professional de-shedding treatments during the coat blow — full bath, blow-out, and undercoat removal at a grooming salon. This approach is expensive ($60–$100 per session) but dramatically reduces home shedding for several weeks. It is a reasonable option for owners who find the blow period particularly challenging.</p><p>Black coats can develop sun bleaching — a brownish or reddish tint in the most sun-exposed areas — over time. This is largely cosmetic and more noticeable on dogs that spend significant time outdoors in direct sunlight. It does not indicate a health issue. Using a UV-protective coat spray can slow the fading process for owners who prefer to maintain rich black color.</p><p>The Schipperke's ruff and cape are self-maintained — no trimming is needed to achieve or maintain the correct outline. Some pet owners trim the culottes slightly for cleanliness and to reduce debris collection, but this is entirely optional and does not affect the dog's health or comfort. For show dogs, no trimming of any kind is desired; the natural coat is shown in its entirety.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Does the Schipperke need professional grooming?",
+      "a": "Not as a requirement. The natural coat requires only brushing — no trimming, stripping, or shaping is needed for the pet Schipperke to look correct and tidy. Professional grooming appointments for bathing and de-shedding are a convenience rather than a necessity, unlike wiry-coated or long-coated breeds that require structural trimming."
+    },
+    {
+      "q": "How bad is the Schipperke's coat blow?",
+      "a": "Significant but manageable with preparation. Daily brushing and a de-shedding bath at the start of the blow reduce the impact considerably. Plan for 2–4 weeks of elevated shedding twice a year. A robot vacuum is not a luxury for Schipperke owners — it is a practical tool."
+    },
+    {
+      "q": "Can I trim my Schipperke's coat to reduce shedding?",
+      "a": "Shaving or heavily clipping the Schipperke coat is not recommended. It disrupts the double coat's natural temperature regulation function and does not reliably reduce shedding — the undercoat typically continues to shed regardless of outer coat length. Regular brushing is a far more effective approach."
+    }
+  ],
+  "related_breeds": ["pomeranian", "keeshond", "finnish-spitz"]
+}

@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "name": "German Shepherd Dog",
+    "slug": "german-shepherd-dog",
+    "shopify_handle": "german-shepherd-dog",
+    "group": "Herding Group",
+    "size_category": "Large Breed",
+    "tagline": "The German Shepherd is one of the most capable working dogs ever bred. That capability requires a serious, engaged owner — here's what that actually means.",
+    "tags": ["herding-group", "large-breed", "working-dog", "guard-dog", "dog-breeds"],
+    "published": true,
+    "excerpt": "GSDs are loyal, highly trainable, and athletically magnificent. They're also demanding — they need real daily exercise AND mental stimulation, and they don't cope well with neglect or isolation. A bored GSD is genuinely destructive.",
+    "meta_description": "Is a German Shepherd Dog right for you? The real guide to GSD exercise needs, temperament, health costs, show vs working lines, and what serious ownership actually looks like."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "50–90 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "9–13 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate–High" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Easy (needs it)" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good with family" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With guidance" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/German_Shepherd_-_DSC_0346_%2810096362833%29.jpg/330px-German_Shepherd_-_DSC_0346_%2810096362833%29.jpg",
+      "alt": "German Shepherd Dog"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a German Shepherd Dog?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The German Shepherd Dog is one of the most capable and versatile working breeds ever developed. They serve as police dogs, military working dogs, guide dogs, search-and-rescue dogs, and competitive sport dogs — all reflecting their extraordinary intelligence, physical ability, and trainability. As family dogs, they're loyal, protective, and deeply bonded to the people they live with.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest upfront version: GSDs require real daily exercise AND mental stimulation — not one or the other, but both. They're called \"German Shedders\" by owners for a reason, and the shedding is genuinely substantial year-round. They bond intensely with family, which is a wonderful quality that also means they don't cope well with long periods of isolation or neglect.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">A bored, under-stimulated GSD is a problem. This is not the breed's fault — it's the predictable result of giving a working dog nothing to work for. If you're looking for a laid-back companion that's happy with minimal engagement, the German Shepherd is not it. If you want a capable, impressive, deeply loyal dog that responds to serious ownership, few breeds come close.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What German Shepherd Dogs Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">GSDs are large, athletic, and well-muscled — 50–90 lbs (females on the lower end, males on the higher), standing 22–26 inches at the shoulder. The classic appearance is the standard double coat in black-and-tan saddle pattern, but solid black, sable, bicolor, and occasionally solid white GSDs exist. A long coat variety also exists — slightly different texture, same breed otherwise.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">There's a significant and practically important distinction between <strong style=\"color:#1a1a1a;\">show lines</strong> and <strong style=\"color:#1a1a1a;\">working lines</strong>. Show-line GSDs (bred for conformation) often have a more angulated rear, sloped topline, and generally calmer temperament. Working-line GSDs (bred for performance — Schutzhund, police work, herding) have a straighter back, more athletic build, higher drive, and more intense energy. Working lines are generally structurally healthier — the extreme angulation in some show lines correlates with higher hip dysplasia rates. If you're a first-time GSD owner, a show-line or moderate-drive working line is likely a better fit than a high-drive working line dog.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Loyal, alert, protective, and highly trainable — these are the defining characteristics. GSDs form intense bonds with their family and take their protective role seriously. They're natural alert dogs; a GSD that knows something is out of the ordinary will let you know.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Honesty about what this means practically: GSDs can be aloof or wary with strangers — by design, not a flaw. This requires extensive early socialization (8–16 weeks especially) to produce a well-rounded dog who can distinguish a genuine threat from a delivery person. Without adequate socialization, the protective instinct can become generalized wariness or reactivity.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Separation anxiety is common in under-exercised or under-stimulated GSDs. Some lines have higher prey drive than others — important to know if you have other small animals. Protective instincts require channeling through training, not suppression — a GSD that's never been taught how to handle its instincts is unpredictable in ways that a well-trained GSD is not.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a GSD",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">German Shepherds reward serious, engaged ownership like few breeds do. The problem comes when people get one for the \"cool factor\" — because they look impressive, or because they've seen a well-trained GSD and want that — without providing what the breed requires: 60–90+ minutes of daily structured exercise, consistent training, and genuine mental engagement. The result is a neurotic, reactive, destructive dog. The breed is excellent; underprepared ownership is the failure point.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The breed requires a job or hobby. Competitive obedience, agility, nose work, protection sports, hiking, search work — something that engages both body and brain. A GSD that just goes for walks and sits home alone is being chronically understimulated. This isn't a preference; it's a structural reality about working dogs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">A few specific things worth knowing going in: the hip dysplasia problem in show lines is real — choose working lines or breeders who OFA-test consistently. The shedding is year-round and substantial — you will be managing fur constantly. And GSDs are not casual beginner dogs. They can work for first-time owners who commit to learning, training, and providing what the breed needs — but \"I'll figure it out as I go\" is not a plan that works well with this breed.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90+ minutes of daily structured activity — not casual walks, but exercise with real effort and preferably mental challenge. Off-leash running, fetch with obedience interspersed, trail work, or sport training. Two sessions are better than one long one. Mental engagement (training, nose work, puzzle work) counts toward the total and is essential in addition to physical exercise, not instead of it.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Shedding:</strong> Year-round heavy shed plus two major coat blows annually — sometimes called \"German Shedder\" for good reason</li><li><strong style=\"color:#1a1a1a;\">Brushing:</strong> 3–4x per week with an undercoat rake; daily during coat blow</li><li><strong style=\"color:#1a1a1a;\">Bathing:</strong> Every 6–8 weeks</li><li><strong style=\"color:#1a1a1a;\">Ears:</strong> Upright ears have better airflow than floppy ears, but still check weekly for debris or early infection signs</li></ul><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">See the <a href=\"/blogs/dog-breeds/german-shepherd-dog-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">German Shepherd Dog grooming guide</a> for coat blow management and why shaving is counterproductive.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Highly trainable but needs consistent structure from day one. Early socialization is critical — the 8–16 week window matters enormously for this breed. Without proper socialization, protective instincts can develop into problematic reactivity. Positive reinforcement works well; harsh methods tend to produce a stressed, less reliable dog. This breed genuinely benefits from ongoing training through adulthood, not just basic puppy class.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">GSDs have several breed-specific health concerns that are worth knowing before you commit. The structural issues in show lines are particularly significant.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Major concern especially in show lines. Malformed hip joint causes pain and arthritis. Ranges from managed medically to requiring surgery ($3,000–$6,000 per joint). OFA testing on parents is essential; choose working lines or health-tested breeders.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Degenerative Myelopathy (DM)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Genetic progressive spinal cord disease — causes gradual hind-end paralysis in affected dogs. No cure; DNA test available. Responsible breeders test breeding stock. Affected dogs require mobility aids and eventually palliative care.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Gastric dilatation and volvulus — life-threatening emergency in deep-chested large breeds. Feed 2 meals daily not 1, avoid exercise immediately after eating. Signs: unproductive retching, distended abdomen, restlessness. Emergency surgery $3,000–$7,000.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Exocrine Pancreatic Insufficiency (EPI)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Enzyme deficiency causing inability to digest food properly. Manageable with lifelong enzyme supplementation ($50–$150/month) but requires diagnosis and ongoing treatment.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed elbow joint, causes front limb lameness. OFA elbow clearances on parents reduces but doesn't eliminate risk. Surgery $2,000–$5,000 per joint.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip and elbow clearances on both parents, DM DNA test, cardiac clearance</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">GSDs are moderately expensive to own. Training is a significant year-one cost that's genuinely non-optional for a large protective breed.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,100</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,100</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$840–$1,440</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$840–$1,440</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Training (essential for this breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (large crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,500–$7,500+</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,000–$3,500</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/german-shepherd-dog-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full German Shepherd Dog first-year cost breakdown</a> with the emergency planning numbers.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a German Shepherd Dog Right for You?",
+      "good_fit": [
+        "Active owner who provides structured exercise and mental challenge daily",
+        "Committed to training from puppyhood and through adolescence",
+        "Want a loyal, protective family dog with real working ability",
+        "Experienced with dogs or willing to invest seriously in learning",
+        "Comfortable with heavy year-round shedding"
+      ],
+      "not_fit": [
+        "First-time owner without a genuine training commitment",
+        "Away from home 8+ hours daily without a plan for the dog",
+        "Want a low-energy, low-maintenance companion",
+        "Not prepared for a large, powerful dog with protective instincts",
+        "Looking for a breed that's independent and doesn't need much engagement"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your German Shepherd Dog",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$2,500 from a reputable breeder. The difference between show lines and working lines matters practically — working lines generally have better structural health and higher drive; show lines are often calmer but can have more hip problems. Required health tests: OFA hip and elbow clearances on both parents, DM DNA test. Backyard GSDs with no health testing and poor early socialization are extremely common and often produce problematic dogs. The source matters more for this breed than most.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">GSD rescues have a significant population of dogs surrendered by owners who underestimated exercise and training needs. Many are young adults with potential that just needed more than they were getting. Get a thorough behavioral assessment from the rescue — history matters for this breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Review the <a href=\"/blogs/dog-breeds/german-shepherd-dog-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">German Shepherd Dog puppy checklist</a> before pickup day — the socialization plan is as important as the supply list for this breed.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Are German Shepherd Dogs good family dogs?",
+      "a": "Yes — with proper socialization and training from puppyhood. GSDs that are well-socialized and trained are loyal, gentle with family members, and protective in appropriate ways. The key is early socialization (exposing the puppy to people, children, other animals, and environments between 8–16 weeks) and consistent training. A poorly socialized, undertrained GSD with active protective instincts is a different situation."
+    },
+    {
+      "q": "Are German Shepherds aggressive?",
+      "a": "Not inherently. A properly socialized GSD is confident, calm, and selective about what warrants a protective response. The breed has strong protective instincts that need to be channeled through training — not suppressed, not encouraged indiscriminately, but directed. A GSD that's been poorly socialized and never trained can develop generalized fearfulness or reactivity that's often misread as aggression. The breed's instincts are assets in the right hands; liabilities in the wrong ones."
+    },
+    {
+      "q": "How much does a German Shepherd shed?",
+      "a": "A lot — constantly. The double coat sheds year-round at a base level that's already significant, plus two substantial coat blows per year. \"German Shedder\" is the affectionate nickname for a reason. Regular brushing (3–4x per week) manages it; during coat blow, daily brushing plus a professional deshedding bath keeps up with the volume. If year-round fur on everything is genuinely a problem for you, this is not the right breed."
+    },
+    {
+      "q": "What's the difference between working line and show line German Shepherds?",
+      "a": "Working lines (bred for Schutzhund, police work, protection sports) have straighter toplines, more athletic builds, higher drive, and better structural health on average. Show lines (bred for conformation competition) often have more angulated rears, sloped toplines, and generally calmer temperament but higher rates of hip dysplasia due to the structural extremes selected for. For most family pet situations, a moderate-drive working line or show line from health-tested parents works well. For active owners who want to do dog sports, working lines are the better fit."
+    }
+  ],
+
+  "related_breeds": [
+    {"name": "Belgian Malinois", "slug": "belgian-malinois", "note": "More intense working drive, higher energy — not a beginner dog"},
+    {"name": "Rottweiler", "slug": "rottweiler", "note": "Similar guarding instinct, calmer energy"},
+    {"name": "Dutch Shepherd", "slug": "dutch-shepherd", "note": "Rarer, similarly capable working dog"},
+    {"name": "Australian Shepherd", "slug": "australian-shepherd", "note": "Herding breed, similarly intelligent and active"}
+  ]
+}

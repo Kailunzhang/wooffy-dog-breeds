@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "West Highland White Terrier Grooming Guide",
+    "slug": "west-highland-white-terrier-grooming-guide",
+    "shopify_handle": "west-highland-white-terrier-grooming-guide",
+    "group": "West Highland White Terrier",
+    "size_category": "Guide",
+    "tags": ["westie", "grooming", "double-coat", "white-coat", "hand-stripping", "professional-grooming"],
+    "published": true,
+    "published_at": "2026-04-17T16:00:00Z",
+    "excerpt": "The Westie's white double coat requires professional grooming every 6–8 weeks and regular brushing between appointments. Hand-stripping preserves the correct harsh outer coat texture; clipping is easier but softens the coat over time.",
+    "meta_description": "West Highland White Terrier grooming guide: clipping vs hand-stripping, white coat maintenance, professional grooming schedule, home brushing routine, and managing atopic dermatitis skin monitoring during grooming."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/West_Highland_White_Terrier_Krakow.jpg/330px-West_Highland_White_Terrier_Krakow.jpg",
+      "alt": "West Highland White Terrier grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Westie Coat",
+      "heading": "Understanding the Westie Double Coat",
+      "html": "<p>The West Highland White Terrier has a double coat — a soft, dense undercoat and a hard, straight outer coat that gives the breed its characteristic stand-off appearance and texture. The outer coat's hardness is a functional trait developed for working in rough terrain; it also repels dirt and water to a surprising degree. Maintaining the coat properly means preserving this structure.</p><h3>Grooming Tools You'll Need</h3><ul><li>Pin brush or slicker brush — for regular brushing</li><li>Wide-tooth steel comb — for checking through the coat after brushing</li><li>Stripping knife (if you choose to hand-strip rather than clip)</li><li>Dog-safe shampoo — whitening formula optional for keeping the coat bright</li><li>Quality conditioner</li></ul><h3>Clipping vs. Hand-Stripping</h3><p>The outer coat can be maintained in two ways:</p><ul><li><strong>Clipping:</strong> Scissors or clippers trim the outer coat to length. Easier for groomers and owners, but repeated clipping gradually softens the outer coat texture — the guard hairs lose their harsh quality over time. Fine for pet dogs where show coat texture is not a priority.</li><li><strong>Hand-stripping:</strong> The dead outer coat is pulled from the root rather than cut. Preserves the correct harsh texture and color. Required for show dogs. More time-intensive and requires a skilled groomer. A handstripped Westie has noticeably different coat texture and vibrancy than a repeatedly clipped one.</li></ul><p>For most pet owners, clipping at professional appointments every 6–8 weeks is the practical choice.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Home Brushing and Professional Grooming Schedule",
+      "html": "<h3>Weekly Home Brushing</h3><ul><li>Brush through the entire coat with a pin brush or slicker brush — work from front to back, then top to bottom of the legs</li><li>Follow with the wide-tooth comb to check for remaining tangles — if the comb catches, go back with the brush</li><li>Pay extra attention to the face and head furnishings where the coat is longest and most likely to tangle</li><li>Check and wipe the eye area — Westies are prone to mild discharge that can cause staining if left</li><li>Check ears for odor or debris</li></ul><h3>Professional Grooming (Every 6–8 Weeks)</h3><p>A professional groomer will bathe, blow-dry, and scissor-trim the coat into the Westie silhouette — the round head with full face, neat body outline, and characteristic round feet. Specify clipping or hand-stripping preference, and note any skin concerns for the groomer to check during the appointment.</p><h3>Bathing the White Coat</h3><p>Bathe every 4–6 weeks or when dirty. Whitening shampoos formulated for dogs (not human products) can maintain the coat's brightness without stripping skin oils. Follow with conditioner and dry thoroughly — the undercoat holds moisture and needs complete drying to prevent hot spots. A low heat dryer while brushing produces the best result.</p>"
+    },
+    "special": {
+      "label": "Skin Monitoring and Atopic Dermatitis",
+      "heading": "Using Grooming as a Skin Health Check",
+      "html": "<p>Given the very high prevalence of atopic dermatitis in the breed, grooming sessions are the ideal time to check the skin for early signs of irritation. The short-coated belly and inner thighs are often the first areas to show redness.</p><h3>What to Check During Grooming</h3><ul><li>Belly and groin: look for pink or red skin, rash, or papules</li><li>Between the toes: check for redness, swelling, or brown staining (from licking, which is a sign of foot irritation)</li><li>Ear canals: check for redness, odor, or discharge — recurring ear infections in Westies are often atopy-related</li><li>Muzzle and chin: check for redness that might indicate food allergy</li></ul><p>If you notice any of these signs, document them (a phone photo works well) and discuss with your vet. Early atopic dermatitis management is significantly more effective — and less expensive — than treating an established chronic condition.</p><h3>Ear Cleaning</h3><p>Clean the visible ear canal with a dog ear cleaning solution and cotton ball monthly. Never insert anything into the ear canal. The Westie's drop ear and hair in the ear canal reduces airflow — moisture accumulates and creates conditions for infection. If you notice head shaking, ear scratching, odor, or discharge, see your vet promptly.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often do Westies need professional grooming?",
+      "a": "Every 6–8 weeks to maintain coat shape and length. The double coat grows continuously and requires scissor shaping at regular intervals. Between professional appointments, weekly brushing prevents tangles and keeps the coat in good condition. Skipping appointments leads to a shaggy, matted coat that is more difficult — and more expensive — to restore at the next appointment."
+    },
+    {
+      "q": "Should I have my Westie hand-stripped or clipped?",
+      "a": "For most pet owners, clipping is the practical choice — it's faster, easier for most groomers, and maintains a neat appearance without technical difficulty. Hand-stripping preserves the correct harsh coat texture that clipping gradually softens over years, and it's the correct method for show dogs. If coat texture matters to you, seek a groomer experienced in hand-stripping terrier coats. If it doesn't, clipping is perfectly fine."
+    },
+    {
+      "q": "How do I prevent tear staining on a white Westie?",
+      "a": "Wipe the eye area daily with a damp cloth to prevent discharge from drying and causing rust-colored staining. Dog-specific tear stain wipes can help. Persistent or heavy staining warrants a vet check — underlying causes include blocked tear ducts, eye irritation, or dietary factors. Stainless steel or ceramic bowls rather than plastic also reduce bacteria that contribute to facial staining."
+    }
+  ]
+}

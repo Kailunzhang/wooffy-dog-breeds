@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Vizsla",
+    "shopify_handle": "vizsla-grooming-guide",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-18T16:00:00Z",
+    "name": "Vizsla Grooming Guide: Low-Maintenance Coat Care",
+    "slug": "vizsla-grooming-guide",
+    "excerpt": "How to groom a Vizsla's short golden-rust coat — one of the easiest coats in the sporting dog world. A weekly rubber mitt and occasional bath is all it takes.",
+    "meta_description": "How to groom a Vizsla's short golden-rust coat — one of the easiest coats in the sporting dog world. A weekly rubber mitt and occasional bath is all it takes.",
+    "tags": [
+      "Vizsla",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hungarian_Vizsla.jpg/330px-Hungarian_Vizsla.jpg",
+      "alt": "Vizsla dog"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "The Coat",
+      "heading": "The Vizsla's Coat: One of the Easiest in the Sporting Group",
+      "html": "<p>The Vizsla has a short, dense, smooth coat with no undercoat. It lies flat against the body and has a slight natural sheen. This is genuinely one of the lowest-maintenance coats of any breed — there is no feathering to mat, no undercoat to blow out seasonally, and no professional trimming required. For people who want the companionship of an active sporting dog without significant grooming overhead, the Vizsla coat is a genuine advantage.</p><p>Vizslas do shed — a light, year-round shedding that produces short hairs that can embed in fabric — but a weekly rubber mitt session removes most loose fur before it reaches your furniture.</p><h3>Basic Grooming Schedule</h3><ul><li><strong>Coat brushing/mitt:</strong> Once per week with a rubber grooming mitt or bristle brush</li><li><strong>Bathing:</strong> Every 4–6 weeks, or as needed after outdoor work</li><li><strong>Nail trimming:</strong> Every 3–4 weeks</li><li><strong>Ear cleaning:</strong> Weekly — droopy spaniel-type ears trap moisture</li><li><strong>Teeth brushing:</strong> Ideally daily; minimum 3 times per week</li></ul>"
+    },
+    "care": {
+      "label": "Weekly Care",
+      "heading": "How to Groom a Vizsla at Home",
+      "html": "<h3>The Rubber Grooming Mitt</h3><p>A rubber grooming mitt — a glove with rubber nubs on the palm — is the ideal tool for the Vizsla coat. Run it over the entire body in the direction of coat growth once per week. It removes loose fur, massages the skin, and distributes the coat's natural oils. Most Vizslas enjoy this process — it feels like a full-body massage, and the breed is highly physical and contact-oriented.</p><p>Alternatively, a natural bristle brush or a rubber curry comb works equally well. You do not need an undercoat rake or a slicker brush for this coat type.</p><h3>Bathing</h3><p>The Vizsla coat does not hold dirt deeply because there is no undercoat to trap it. A bath every 4–6 weeks, or after particularly muddy field sessions, is sufficient. Use a gentle dog shampoo and rinse thoroughly. Drying is fast — a towel dry and 5 minutes in a warm room is usually enough. There is no complex drying process required.</p><h3>Ear Cleaning</h3><p>Despite the easy coat, Vizslas have dropped ears that restrict airflow, making them prone to ear infections. Clean the ears weekly using a veterinarian-approved solution. Apply, massage, let the dog shake, and wipe out debris. After swimming or bathing, dry the ear flaps and wipe just inside the ear opening. If you notice odor, head shaking, or redness, see your vet.</p>"
+    },
+    "special": {
+      "label": "Skin and Nails",
+      "heading": "The Details That Matter",
+      "html": "<h3>Skin Sensitivity</h3><p>The Vizsla's minimal coat means the skin has less insulation from the elements. In cold climates, some Vizslas benefit from a fitted dog coat during outdoor exercise in below-freezing temperatures. This is not vanity — these dogs have virtually no insulating layer, and their body temperature can drop quickly in extended cold exposure. In summer, the short coat also means less UV protection — keep water available and limit exercise in direct midday sun.</p><h3>Nail Trimming</h3><p>Vizslas are active dogs that typically wear down their nails somewhat through exercise, but monthly trimming is still needed. Active dogs running on hard surfaces will wear nails faster than those primarily on grass. Check the nails monthly and trim before they grow long enough to click on hard floors.</p><h3>No Professional Grooming Needed</h3><p>Vizslas do not require professional grooming. Some owners bring their dog to a groomer once or twice a year for a bath and nail trim as a convenience, but it is not necessary. The entire grooming routine — weekly mitt, monthly nails, weekly ears — can be done at home in 15–20 minutes total per week. This is one of the breed's most practical advantages for busy households.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Do Vizslas need professional grooming?",
+      "a": "No. The Vizsla's short, smooth coat requires no professional trimming, no specialized brushes, and no expensive grooming appointments. A rubber mitt once a week, a bath every 4–6 weeks, and weekly ear cleaning is the entire routine. This is one of the most low-maintenance coats in the sporting group."
+    },
+    {
+      "q": "Do Vizslas shed a lot?",
+      "a": "They shed lightly year-round. Because the coat is short and fine, individual hairs are small but can embed in upholstery and clothing. A weekly rubber mitt session removes most loose fur before it spreads through the house. Overall shedding is much less disruptive than double-coated breeds."
+    },
+    {
+      "q": "Why does my Vizsla get ear infections if the coat is so easy to maintain?",
+      "a": "Ear infections in Vizslas are not related to the coat — they result from the dropped ear flap, which restricts airflow into the ear canal. This creates a warm, moist environment conducive to bacterial and yeast growth. Weekly ear cleaning prevents most infections. After swimming or bathing, dry the ears and wipe just inside the ear opening to remove moisture."
+    }
+  ]
+}

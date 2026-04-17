@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Norwich Terrier Grooming Guide",
+    "slug": "norwich-terrier-grooming-guide",
+    "shopify_handle": "norwich-terrier-grooming-guide",
+    "group": "Norwich Terrier",
+    "size_category": "Guide",
+    "tags": ["norwich-terrier", "grooming"],
+    "published": true,
+    "published_at": "2026-05-02T16:00:00Z",
+    "excerpt": "The Norwich Terrier's wiry coat is low-shedding and relatively easy to maintain. This guide covers home brushing, hand-stripping for show dogs, and professional clipping options for pets.",
+    "meta_description": "Norwich Terrier grooming guide: wiry coat care, hand-stripping vs clipping, brushing tips, and ear care for this hardy small terrier."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Norwich_Terrier.jpg/330px-Norwich_Terrier.jpg",
+      "alt": "Norwich Terrier grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "The Norwich Terrier's Hard, Wiry Coat",
+      "html": "<p>The Norwich Terrier has a double coat: a hard, straight, wiry outer coat and a dense, softer undercoat. The outer coat lies close to the body and provides excellent weather resistance. The coat comes in red, wheaten, black and tan, or grizzle. Shedding is minimal — dead hair tends to stay in the coat rather than falling freely, which means it accumulates if not brushed or stripped regularly.</p><p>The correct wiry texture is preserved through hand-stripping. Clipping softens the coat progressively, changing its texture and often dulling the color. For pet owners, this is a cosmetic matter only — clipping is practical and keeps the dog neat. For show exhibitors, hand-stripping is non-negotiable.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Brushing, Stripping, and Bathing",
+      "html": "<p><strong>Brushing:</strong> Brush the coat once or twice weekly with a slicker brush, followed by a pass with a metal comb to check for tangles and remove dead undercoat. The neck, behind the ears, and the hindquarters are areas where debris and minor tangles tend to accumulate.</p><p><strong>Hand-Stripping:</strong> For show dogs, hand-stripping the outer coat every 6–8 months (with rolling maintenance in between) preserves the correct wiry texture and vibrant color. Use a stripping knife or your fingers and thumb to pull dead coat in the direction of growth. Work in small sections. Seek guidance from an experienced terrier exhibitor or groomer when learning.</p><p><strong>Clipping (Pet Option):</strong> Professional clipping every 8–12 weeks is the practical pet-owner choice. A groomer familiar with wire-coated terriers will know how to scissor and shape the coat to maintain a clean terrier profile without over-softening it.</p><p><strong>Bathing:</strong> Bathe every 4–6 weeks. Use a dog shampoo formulated for wiry or harsh coats to help preserve texture. Rinse thoroughly and towel or low-heat blow dry.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Ear Care and Puppy Coat Transition",
+      "html": "<p><strong>Ear Care:</strong> The upright prick ears of the Norwich allow good airflow and are naturally less prone to infection than the Norfolk's drop ears. Still, check weekly for wax buildup or debris and clean with a vet-approved ear solution as needed. Trim any excess hair from the inside of the ear flap to maintain good ventilation.</p><p><strong>Puppy Coat:</strong> Norwich puppies have a softer, fluffier coat that transitions to the adult wiry texture by 12–18 months. Brush gently during this period to build good grooming habits. Don't strip the puppy coat aggressively — wait for the adult coat to come in.</p><p><strong>Teeth and Nails:</strong> Brush teeth 3–5 times per week. Trim nails every 3–4 weeks. Both are especially important for small breeds, which tend to accumulate dental tartar quickly and can develop gait problems from overly long nails.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How is grooming the Norwich Terrier different from the Norfolk Terrier?",
+      "a": "The coat care is essentially identical — both are wiry, low-shedding coats that benefit from hand-stripping or professional clipping. The one difference is ear care: the Norfolk's drop ears need more frequent cleaning checks due to the folded structure that retains more moisture and debris."
+    },
+    {
+      "q": "Can I learn to hand-strip my Norwich Terrier myself?",
+      "a": "Yes, with practice. Many Norwich Terrier owners learn the basics of hand-stripping by attending terrier grooming workshops offered by breed clubs or working with a mentor groomer. It takes time to develop the feel for it, but it's a learnable skill."
+    }
+  ]
+}

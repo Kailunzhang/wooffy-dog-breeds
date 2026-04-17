@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "name": "Xoloitzcuintli",
+    "slug": "xoloitzcuintli",
+    "shopify_handle": "xoloitzcuintli",
+    "group": "Non-Sporting Group",
+    "size_category": "Small–Large Breed",
+    "tagline": "The Xoloitzcuintli is one of the world's oldest and rarest breeds — a calm, loyal, primitive dog that comes in three sizes and two coat varieties, with hairless individuals requiring sun and cold protection rather than brushing.",
+    "tags": ["non-sporting-group", "hairless", "ancient-breed", "rare-breed", "loyal", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-05-03T16:00:00Z",
+    "excerpt": "The Xoloitzcuintli — also called the Mexican Hairless Dog or simply \"Xolo\" — is an ancient, calm, deeply loyal primitive breed that has changed little in thousands of years. Hairless individuals need sunscreen and cold-weather clothing rather than grooming. Three sizes, two coat varieties, one remarkably steady temperament.",
+    "meta_description": "Xoloitzcuintli breed guide: three size varieties, hairless vs coated, ancient breed temperament, skin care requirements, dental quirks of the hairless variety, and health overview."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Toy / Mini / Standard" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "10–55 lbs (varies)" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "13–18 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "30–60 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low (coat) / Skin care" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good with family" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With research" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BIR_Grupp_5-_MEXIKANSK_NAKENHUND%2C_Lokal_Hero%E2%80%99s_King_Og_Hart%E2%80%99s_Istas_%2823607403303%29.jpg/250px-BIR_Grupp_5-_MEXIKANSK_NAKENHUND%2C_Lokal_Hero%E2%80%99s_King_Og_Hart%E2%80%99s_Istas_%2823607403303%29.jpg",
+      "alt": "Xoloitzcuintli"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Xoloitzcuintli?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Xoloitzcuintli (pronounced \"show-low-eats-QUEENT-lee,\" and mercifully shortened to \"Xolo\") is one of the oldest dog breeds in the world, with a history stretching back at least 3,000 years to pre-Columbian Mesoamerica. Archaeological evidence of Xolo-like dogs has been found throughout Mexico and Central America, and the breed takes its name from Xolotl, the Aztec god of lightning and death, who was believed to guide souls through the underworld.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">This ancient lineage shows in the Xolo's appearance and temperament. These are primitive dogs — not heavily modified by centuries of selective breeding toward specific working tasks. They are calm, loyal, and even-tempered, without the anxiety or over-reactivity that can appear in more recently derived breeds. They bond deeply with their household and tend to be reserved with strangers without being aggressive.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The breed comes in three sizes (Toy, Miniature, Standard) and two coat varieties (hairless and coated). The hairless variety is the more famous and requires specific skin care — not brushing, but moisturizing, sun protection, and warmth in cold weather.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "Three Sizes, Two Coat Varieties",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Toy Xolos weigh 10–15 lbs; Miniatures 15–30 lbs; Standards 30–55 lbs. All three sizes share the same lean, elegant build — almond-shaped eyes, large bat-like ears, a smooth or hairless body, and a sleek, athletic silhouette. The Xolo is built like a primitive dog: functional, without exaggeration in any direction.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The hairless variety's skin can range from dark gray-black to bronze, spotted, or pale — and the hairless gene also affects dentition. Missing teeth in the hairless variety is normal for the breed and not a defect; it is a linked trait associated with the hairlessness gene. The coated variety has a short, flat coat and full dentition. Both varieties can appear in the same litter from two hairless parents.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Calm, observant, and loyal. The Xolo's primitive nature means it doesn't have the excitable, over-eager quality of some companion breeds — it tends toward a quiet watchfulness that owners describe as almost cat-like. This steadiness is a feature of primitive breeds generally; they were not selectively bred for extreme tractability or people-pleasing behavior.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family, Xolos form deep bonds and are reliably affectionate. They tend to designate a primary person but are good with the whole household. With strangers, they are typically reserved — neutral rather than hostile, but not immediately warm. Proper socialization from puppyhood develops confidence and prevents the reserve from becoming anxiety.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They have moderate energy — not a couch potato, but also not a breed that needs two hours of hard exercise daily. Standard Xolos in particular need meaningful exercise to stay mentally and physically balanced.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Xolo",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Xolos are genuinely interesting dogs to own — the ancient lineage is not marketing copy, it's visible in how they carry themselves. The calm self-possession of a primitive breed is different from the eager friendliness of, say, a golden retriever, and some owners find it deeply appealing while others find it off-putting. Know which camp you're in before you commit.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The hairless variety's skin care is real but not burdensome. Sun protection on outdoor excursions (dog-safe sunscreen on exposed skin), moisturizer if the skin gets dry, and a coat or sweater in cold weather. These are genuinely manageable — less work than grooming a long-coated breed. The dental situation (missing teeth in hairless dogs) surprises people but is completely normal for the breed; the dogs eat perfectly well and it requires no intervention.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">This is a rare breed — you will wait for a puppy, and you may need to travel to get one from a quality breeder. That waiting period is worthwhile for a breed with this history and these qualities.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate exercise needs — 30–60 minutes daily depending on size. Standard Xolos need more activity than Toys; all benefit from daily walks and play. They're athletic and enjoy movement but are not high-drive in the way working breeds are.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Skin and Coat Care</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">For the hairless variety: apply dog-safe sunscreen before outdoor exposure in sunny conditions. Moisturize the skin as needed if it becomes dry. Provide a coat or sweater in cold weather — a hairless dog loses body heat quickly in low temperatures. Occasional bathing with gentle dog shampoo; no brushing required. Coated variety: minimal brushing once or twice a week. See the <a href=\"/blogs/dog-breeds/xoloitzcuintli-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Xoloitzcuintli grooming guide</a> for full skin care details.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Intelligent and trainable, but with the quiet independence of a primitive breed. Positive reinforcement works well; patience is important. They can be slow to warm to new training concepts but retain what they learn reliably. Socialization from an early age is essential for developing confidence with strangers and new environments.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Xoloitzcuintli is one of the healthiest breeds in existence — primitive dogs that have not undergone intensive selective breeding tend to have broader genetic diversity and fewer hereditary diseases than heavily developed breeds. The lifespan of 13–18 years is exceptional.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Dental Issues (Hairless)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Missing or irregular teeth in hairless Xolos is a normal breed characteristic linked to the hairlessness gene — it is not a defect and requires no treatment. Affected dogs eat normally. Routine dental hygiene still important.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Skin Sensitivity (Hairless)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Sunburn and cold exposure are genuine risks for hairless individuals. Sun protection and appropriate clothing in cold weather are preventive measures, not optional. Skin can also develop acne-like blemishes — gentle cleansing helps.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">General Health</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Very few breed-specific hereditary diseases. Hip dysplasia can occur but at lower rates than in heavily bred working dogs. Routine wellness care is the primary focus.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> General health documentation; OFA hip evaluation for Standard size. This is one of the few breeds where the health focus is primarily on responsible breeding practices rather than a checklist of specific DNA tests.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$2,000–$4,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (size-appropriate)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Skin care supplies / dog clothing</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$100–$250</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$100–$200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,350–$6,600</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,000–$1,900</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/xoloitzcuintli-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Xoloitzcuintli first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Xoloitzcuintli Right for You?",
+      "good_fit": [
+        "Owners drawn to ancient, primitive breeds with calm, steady temperaments",
+        "Those interested in a unique breed with a remarkable history",
+        "Owners who prefer minimal grooming and are willing to provide skin care instead",
+        "Households looking for a loyal, moderately active companion",
+        "Allergy-sensitive households (hairless variety sheds nothing)"
+      ],
+      "not_fit": [
+        "Owners in very cold climates who can't manage hairless dog clothing and warmth needs",
+        "Those wanting an immediately friendly, outgoing breed — Xolos are reserved with strangers",
+        "Anyone expecting a highly obedient breed that trains like an eager-to-please working dog",
+        "Owners looking for a dog on short notice — this is a rare breed with wait lists"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Xoloitzcuintli",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$2,000–$4,000 from reputable breeders. The Xoloitzcuintli Club of America is the AKC parent club and maintains a breeder referral list. This is a genuinely rare breed; expect a wait and be prepared for limited geographic availability. Breeders should provide health documentation and be knowledgeable about the breed's history and care needs.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Rescue Xolos exist but are uncommon. The Xoloitzcuintli Club of America has rescue contacts. Some Xolos come through general breed rescues or shelters; confirm the breed before adopting as mix-ups with other hairless breeds occur.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Xolo comes home, complete the <a href=\"/blogs/dog-breeds/xoloitzcuintli-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Xoloitzcuintli puppy checklist</a> — skin care supplies and cold-weather clothing are unique prep items for this breed.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "Are Xoloitzcuintli truly hairless?", "a": "The hairless variety is mostly hairless — they may have a small amount of hair on the head, tail, and feet, but the body is bare skin. The coated variety has a short, flat coat and is fully furred. Both varieties can come from the same litter. Neither is hypoallergenic in the technical sense (dog allergens are in saliva and dander, not just hair), but the hairless variety produces minimal dander." },
+    { "q": "Do hairless Xolos need sunscreen?", "a": "Yes, for extended outdoor exposure in sunny conditions. Dog-safe sunscreen applied to exposed skin before time in the sun prevents burns. Brief outdoor excursions in moderate conditions are generally fine without it, but beach days, hiking, or prolonged outdoor activity warrant protection. Their dark skin pigmentation provides some natural protection." },
+    { "q": "Why do some Xolos have missing teeth?", "a": "Missing or irregular teeth in hairless Xolos is genetically linked to the hairlessness gene — it's a normal breed characteristic, not a defect, and does not indicate poor breeding. Affected dogs eat normally and do not require dental intervention beyond routine hygiene. The coated variety, which does not carry the hairlessness gene, has full dentition." },
+    { "q": "How do you pronounce Xoloitzcuintli?", "a": "\"Show-low-eats-QUEENT-lee.\" Most people call them Xolos (\"show-lows\") for everyday use. The name comes from the Aztec language Nahuatl, combining Xolotl (the Aztec dog god) with itzcuintli (dog)." }
+  ],
+
+  "related_breeds": [
+    {"name": "Peruvian Inca Orchid", "slug": "peruvian-inca-orchid", "note": "Another ancient hairless breed from South America, similar temperament profile"},
+    {"name": "Chinese Crested", "slug": "chinese-crested", "note": "Small hairless/coated breed, much more outgoing and playful temperament"},
+    {"name": "Basenji", "slug": "basenji", "note": "Another primitive African breed, similar calm independence, different geography"}
+  ]
+}

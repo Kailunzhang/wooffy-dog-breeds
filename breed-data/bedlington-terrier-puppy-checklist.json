@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Bedlington Terrier Puppy Checklist",
+    "slug": "bedlington-terrier-puppy-checklist",
+    "shopify_handle": "bedlington-terrier-puppy-checklist",
+    "group": "Bedlington Terrier",
+    "size_category": "Guide",
+    "tags": ["bedlington-terrier", "puppy", "checklist", "copper-toxicosis", "socialization"],
+    "published": true,
+    "published_at": "2026-04-29T16:00:00Z",
+    "excerpt": "Everything you need before your Bedlington Terrier puppy comes home — including the Copper Toxicosis DNA clearance you must verify before you commit to a breeder, and the fencing check that applies to all terriers.",
+    "meta_description": "Bedlington Terrier puppy checklist: Copper Toxicosis DNA clearance verification, fencing for a fast terrier, socialization priorities, and essential gear."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Boutchie_apres_championnat_004.JPG/250px-Boutchie_apres_championnat_004.JPG",
+      "alt": "Bedlington Terrier puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Bedlington Terrier Puppy Prep: DNA Test First, Fence Second",
+      "html": "<p>Before you commit to a Bedlington Terrier puppy — before you even put a deposit down — verify that both parents have been DNA tested clear for Copper Toxicosis. This is step zero. After that, verify your fencing is appropriate for a fast, prey-driven terrier, and identify a groomer experienced with the Bedlington breed pattern before the puppy arrives.</p><h3>DNA Clearance Verification</h3><ul><li>Ask the breeder for the Copper Toxicosis (COMMD1 gene) DNA test certificate for both parents — each parent should be listed as \"Clear\" or \"Carrier\" (a carrier bred to a clear produces no affected puppies)</li><li>Ask for the PRA DNA test certificate for both parents</li><li>Ask for OFA hip evaluation certificates for both parents</li><li>If a breeder cannot produce these documents, do not buy the puppy. These are standard clearances for a responsible Bedlington breeder</li></ul><h3>Fencing Check</h3><ul><li>Bedlingtons can reach 30 mph and have strong prey drive — a 4-foot fence is insufficient</li><li>Minimum 5-foot fence; 6-foot preferred for confident jumpers</li><li>Check all gate latches — terriers are intelligent and can work out weak latches</li><li>Check for dig-under vulnerabilities, particularly near the fence base</li><li>Never use invisible fence — a Bedlington chasing a rabbit will take the correction and go through</li></ul><h3>Essential Gear Checklist</h3><ul><li>Crate (24–30 inch with divider)</li><li>Dog bed — Bedlingtons appreciate soft bedding</li><li>Stainless steel food and water bowls</li><li>Flat collar + ID tag (engrave on arrival day)</li><li>Harness for walks</li><li>4–6 ft leash</li><li>Slicker brush and wide-tooth metal comb — start handling and brushing from day one</li><li>Dog-safe shampoo for curly coats</li><li>High-value training treats</li><li>Durable toys — terriers are enthusiastic toy destroyers</li><li>Enzymatic cleaner</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit and Groomer Identification",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam</li><li>Vaccine schedule verification and continuation</li><li>Parasite prevention discussion</li><li>Ask about liver enzyme baseline panel — if the puppy's parents were tested but you want additional reassurance, a baseline liver panel is reasonable</li><li>Microchip if not done by breeder</li><li>Enroll in pet insurance before this appointment</li></ul><h3>Find a Bedlington-Experienced Groomer</h3><p>This is more urgent than it sounds. The Bedlington's trim pattern — topknot, tasseled ears, shaped body — is not common grooming knowledge. A general groomer will likely shear the topknot off. Identify a groomer with Bedlington experience before the puppy arrives, book a puppy introduction appointment in the first few weeks, and establish the relationship early. The puppy won't need a full trim for a couple of months, but getting them comfortable with the grooming environment early makes subsequent appointments much easier.</p><h3>Socialization: The Critical Window</h3><p>Bedlington puppies need thorough socialization during the 8–16 week window. Expose the puppy to diverse people, sounds, environments, and controlled dog interactions. A well-socialized Bedlington is confident and adaptable; an under-socialized one can become anxious or reactive. Prioritize this over almost everything else in the first weeks.</p>"
+    },
+    "special": {
+      "label": "Training and Management",
+      "heading": "Building Good Habits From Puppyhood",
+      "html": "<h3>Start Training Immediately</h3><p>Bedlingtons are intelligent and trainable — they learn quickly when motivated. Start immediately:</p><ul><li>Sit, down, stay, come, leave it — establish core commands from the start</li><li>Recall practice: this is especially important given the prey drive. Use high-value treats, practice in controlled environments, and never assume recall is reliable around small animals or fast-moving prey items</li><li>Loose-leash walking from the first walk — Bedlingtons can pull when stimulated</li><li>No jumping — establish this from day one</li></ul><h3>Prey Drive Management</h3><p>If you have cats, rabbits, or other small pets, the introduction requires serious management:</p><ul><li>Never leave a Bedlington puppy unsupervised with small animals</li><li>Introduce slowly and with the small animal in a secure carrier first</li><li>Some Bedlingtons live successfully with cats when raised together from puppyhood; others never fully accept them. The individual dog's drive level varies</li></ul><h3>Handling Desensitization for Grooming</h3><p>Bedlingtons need extensive grooming throughout their lives. Start handling every part of the puppy from day one: ears, paws, mouth, body. Introduce the slicker brush early as a positive experience. The puppy that accepts being handled calmly becomes the adult that makes grooming appointments stress-free. The puppy that isn't handled becomes the adult that fights grooming — and those fights get harder as the dog gets older.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "What health tests should I demand before buying a Bedlington puppy?",
+      "a": "Copper Toxicosis DNA test for both parents (each must be Clear or Carrier — no affected dogs in the parentage), PRA DNA test for both parents, and OFA hip evaluation for both parents. If a breeder cannot provide these three clearances, do not buy the puppy. These are standard for responsible Bedlington breeding."
+    },
+    {
+      "q": "When should I start grooming my Bedlington puppy?",
+      "a": "Start handling and light brushing from day one — even before the coat needs it. The goal isn't the coat, it's the habituation. A puppy that learns grooming is a normal part of life becomes an adult that tolerates it calmly. Get them comfortable with the slicker brush, ear handling, paw touching, and body examination before their first professional grooming appointment."
+    },
+    {
+      "q": "What size crate does a Bedlington Terrier puppy need?",
+      "a": "A 24–30 inch crate with a divider panel. Use the divider to give the puppy a appropriately sized space initially, expanding it as they grow. Adults are small enough that a 30-inch crate is typically sufficient for life."
+    }
+  ]
+}

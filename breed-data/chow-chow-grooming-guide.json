@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Chow Chow Grooming Guide",
+    "slug": "chow-chow-grooming-guide",
+    "shopify_handle": "chow-chow-grooming-guide",
+    "group": "Chow Chow",
+    "size_category": "Guide",
+    "tags": ["chow-chow", "grooming", "double-coat", "shedding", "coat-blow"],
+    "published": true,
+    "published_at": "2026-04-20T16:00:00Z",
+    "excerpt": "The Chow Chow's dense double coat requires consistent brushing and proper technique — and must never be shaved. Learn the routine that keeps the coat healthy and mats under control.",
+    "meta_description": "Chow Chow grooming guide: tools for a dense double coat, weekly and seasonal routine, mat prevention, and why shaving this breed causes permanent coat damage."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Chow-chow_in_Tallinn.JPG/250px-Chow-chow_in_Tallinn.JPG",
+      "alt": "Chow Chow grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Chow Chow Coat",
+      "heading": "Understanding the Chow Chow Double Coat",
+      "html": "<p>The Chow Chow comes in two coat varieties — rough (the classic lion mane appearance) and smooth. The rough coat is dramatically dense with a thick undercoat and a profuse outer coat that stands off the body. Both varieties are double-coated and require the same fundamental approach: regular brushing, no shaving, and thorough drying after baths. The rough coat needs significantly more time investment per session.</p><h3>Grooming Tools You'll Need</h3><ul><li>Pin brush — primary tool for working through the outer coat</li><li>Undercoat rake — for removing loose undercoat during coat blows</li><li>Wide-tooth steel comb — for checking for remaining tangles, especially around the mane and legs</li><li>Slicker brush — for finishing and removing fine debris</li><li>Dematting comb or mat splitter — for working out tangles before they become full mats</li><li>Dog-safe shampoo and conditioner formulated for double coats</li><li>High-velocity dryer (strongly recommended — thick coat takes hours to air dry)</li></ul><h3>NEVER Shave a Chow Chow</h3><p>Shaving a double-coated breed destroys the insulating structure of the coat. The double coat regulates temperature in both heat and cold — a shaved Chow Chow is more vulnerable to sun and heat, not less. Post-clipping alopecia (patchy, permanently altered regrowth) is common in this breed after shaving. If a Chow seems hot, provide shade, cool water, and airflow — not clippers.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly (Rough Coat)</h3><ul><li>Brush the entire coat in sections with a pin brush — work from skin outward to avoid snapping through surface tangles without clearing the undercoat</li><li>Pay special attention to the mane area, behind the ears, and the leg feathering — these are the highest-mat-risk zones</li><li>Follow with an undercoat rake to pull out loose undercoat</li><li>Finish with a steel comb to confirm no tangles remain at the skin level</li><li>Check ears for odor or redness; wipe with cotton ball and ear cleaner</li><li>Check paw pads and trim excess hair between pads</li></ul><h3>Weekly (Smooth Coat)</h3><ul><li>Brush with a rubber curry brush or slicker brush — the shorter coat still sheds significantly</li><li>Follow with an undercoat rake to remove loose undercoat</li><li>Check ears, paws, and nails on the same schedule</li></ul><h3>Monthly</h3><ul><li>Bathe every 6–8 weeks. Use a conditioner — the rough coat tangles more when dry</li><li>Dry completely with a high-velocity dryer before the coat is put back down. Moisture trapped against the skin under that dense coat causes hot spots and dermatitis</li><li>Trim nails monthly — long nails affect gait and cause joint discomfort</li></ul><h3>Coat Blow Season (Twice Per Year)</h3><p>Chow Chows blow their undercoat twice a year in large clumps over 2–4 weeks. Daily brushing is required. A deshedding bath — thorough soak, conditioner, rinse, blow-dry — removes the bulk of the loose undercoat efficiently and can significantly shorten the blow period.</p>"
+    },
+    "special": {
+      "label": "Handling and Skin Care",
+      "heading": "Grooming an Independent Breed: Skin and Mane Management",
+      "html": "<p>Chow Chows are reserved and often don't enjoy extended handling by strangers — including groomers they don't know. Habituating puppies to grooming from the earliest possible age is essential. An adult Chow that has never been groomed can make the process genuinely difficult.</p><h3>Mane Mat Prevention</h3><p>The thick ruff around the neck is the most mat-prone area of the rough Chow. Check this area every brushing session — mats form fastest here because the hair is longest and densest, and overlaps in multiple directions. A conditioner or detangling spray applied to this area before brushing helps prevent snapping and eases comb-through.</p><h3>Skin Fold Monitoring</h3><p>The facial skin folds of some Chow Chows require weekly cleaning. Use a soft damp cloth to wipe between the folds, then dry thoroughly — moisture trapped in skin folds causes yeast and bacterial infections. If you notice redness, odor, or the dog rubbing its face, examine the folds and consult your vet.</p><h3>Ear Care</h3><p>Check ears weekly. The small, triangular ears reduce airflow, and combined with a heavy coat, ears can accumulate moisture and debris. Signs of a problem: head shaking, ear scratching, odor, or discharge. Ear infections require veterinary treatment — cleaning alone won't resolve an active infection.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often do Chow Chows need grooming?",
+      "a": "Rough Chow Chows need brushing 3–4 times per week to prevent mat formation, with daily brushing during seasonal coat blows. Smooth Chow Chows need weekly brushing. Both varieties need bathing every 6–8 weeks with complete drying using a high-velocity dryer — the thick undercoat holds moisture and must be fully dried to prevent hot spots."
+    },
+    {
+      "q": "Can I take my Chow Chow to a professional groomer?",
+      "a": "Yes, and many Chow owners use professional groomers regularly, especially for deshedding baths during coat blows. Make sure the groomer is experienced with double-coated breeds and give explicit instructions that the coat should not be clipped or shaped — only brushed, bathed, and blown out. Groomers who shave double coats cause permanent coat structure damage."
+    },
+    {
+      "q": "Why does my Chow Chow mat so quickly?",
+      "a": "The rough Chow's dense, multi-layered coat traps loose undercoat rather than shedding it out. Without regular brushing that reaches the skin level, the dead undercoat compacts into mats — particularly in the mane, behind the ears, and on the leg feathering. Brushing only the surface of the coat while the undercoat mats is a common mistake. Use a steel comb at the end of each session to verify you've cleared to the skin."
+    }
+  ]
+}

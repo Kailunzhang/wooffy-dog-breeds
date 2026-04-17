@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "name": "Dachshund Puppy Checklist",
+    "slug": "dachshund-puppy-checklist",
+    "shopify_handle": "dachshund-puppy-checklist",
+    "group": "Dachshund",
+    "size_category": "Guide",
+    "tags": ["dachshund", "puppy", "checklist", "ivdd-prevention", "spine-safe"],
+    "published": true,
+    "published_at": "2026-04-15T16:00:00Z",
+    "excerpt": "Everything you need before your Dachshund puppy comes home — including the spine-safe setup that protects their back from day one.",
+    "meta_description": "Dachshund puppy checklist: spine-safe ramp setup, IVDD prevention from day one, housetraining tips for a stubborn breed, and essential gear."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg/330px-%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg",
+      "alt": "Dachshund puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Dachshund Puppy Prep: Spine-Safe Setup First",
+      "html": "<p>Before your Dachshund puppy arrives, the most important preparation isn't a toy selection or crate style — it's setting up a spine-safe environment. IVDD affects 19–25% of Dachshunds during their lifetime, and the cumulative damage from jumping off furniture begins from puppyhood. Set up ramps now, before the first jump happens.</p><h3>Spine-Safe Setup</h3><ul><li>Pet ramp or stairs for couch access</li><li>Pet ramp or stairs for bed access (or keep dog off the bed until they're older and trained to use the ramp)</li><li>Car ramp or step if the dog will ride in vehicles</li><li>Non-slip mats on hardwood, tile, and slippery surfaces — Dachshunds slip and strain their backs on slick floors</li></ul><h3>Essential Gear Checklist</h3><ul><li>Small crate (18–22 inch for Miniatures, 24 inch for Standards) with divider</li><li>Dog bed with low sides (easy to get in/out without jumping)</li><li>Stainless steel food and water bowls</li><li>Harness (not a collar — avoid neck pressure for a breed prone to spinal issues)</li><li>4–6 ft leash</li><li>Grooming tools appropriate to coat type (see grooming guide)</li><li>Enzymatic cleaner for accidents (you'll need it — Dachshunds are notoriously hard to housetrain)</li><li>High-value training treats</li><li>Durable toys appropriate for a determined chewer</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit and Housetraining Reality",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam</li><li>Spinal health baseline discussion — tell your vet you want to discuss IVDD prevention</li><li>Vaccine schedule verification and continuation</li><li>Parasite prevention (note: if MDR1 testing is warranted for your Dachshund mix/lineage, ask — though true Dachshunds are not a primary MDR1 breed)</li><li>Dental assessment — small breed dental care should start early</li><li>Microchip if not done by breeder</li><li>Get pet insurance before this appointment if possible — or immediately after</li></ul><h3>Housetraining: Set Realistic Expectations</h3><p>Dachshunds are one of the most difficult breeds to housetrain. They were bred to hunt underground and are independent-minded, weather-averse (they hate going outside in rain or cold), and will hold their bladder until they're somewhere warm and comfortable — which may not be outdoors.</p><p>What works:</p><ul><li>Extremely consistent schedule — outside after every meal, nap, and play session</li><li>High-value treats immediately (within 2 seconds) upon eliminating outside</li><li>Confine to a small, supervised area — never give a partially trained Dachshund free run of the house</li><li>Bell training (teach them to ring a bell at the door) works very well for many Dachshunds</li><li>Don't punish accidents — just interrupt, take outside, and reward any outdoor elimination</li></ul><p>Expect housetraining to take 3–6 months consistently, with some dogs taking longer. Many Dachshund owners use a dog door with a small covered outdoor area to make inclement-weather bathroom trips less of a battle.</p>"
+    },
+    "special": {
+      "label": "IVDD Prevention for Life",
+      "heading": "Building Spine-Safe Habits From Puppyhood",
+      "html": "<h3>The Three Rules of Spine-Safe Living</h3><ol><li><strong>No jumping on/off furniture.</strong> Every jump adds stress to the discs. Use ramps and train your puppy to use them from day one. This is easier to teach as a puppy than to change as an adult habit.</li><li><strong>Weight management starting now.</strong> Extra weight compresses the discs. Measure food, avoid excessive treats, and get your vet to assess body condition at every annual visit. A fit Dachshund has a visible waist when viewed from above.</li><li><strong>Supportive carry technique.</strong> When picking up a Dachshund, always support both the chest and the hindquarters simultaneously. Never lift by the front legs or let the body hang unsupported — this strains the lumbar spine.</li></ol><h3>Watch for IVDD Warning Signs</h3><p>Knowing the symptoms allows early intervention, which dramatically improves outcomes:</p><ul><li>Reluctance to move, climb stairs, or go on walks</li><li>Crying when picked up or when touched along the back</li><li>Shaking or hunched posture</li><li>Loss of coordination, wobbling, or weakness in hind legs</li><li>In severe cases: partial or complete paralysis of the hindquarters</li></ul><p>If you observe any of these signs, contact your vet the same day. IVDD treatment outcomes are significantly better when caught early.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Do I need to buy ramps for a Dachshund puppy?",
+      "a": "Yes, before the puppy comes home. The habit of jumping on and off furniture starts immediately, and each jump puts stress on the discs. Teaching a puppy to use ramps is far easier than retraining an adult dog."
+    },
+    {
+      "q": "How long does it take to housetrain a Dachshund?",
+      "a": "Longer than most breeds — typically 3–6 months with consistent effort, and some individuals take longer. Dachshunds are notoriously weather-averse and independent. Consistency, high-value rewards, and confining to supervised areas until reliably trained are the keys."
+    },
+    {
+      "q": "Should I use a collar or harness for my Dachshund puppy?",
+      "a": "A harness is recommended. Collars can put pressure on the neck and indirectly stress the cervical spine in a breed already at high spinal risk. A well-fitted harness distributes pressure across the chest instead."
+    },
+    {
+      "q": "When should I get pet insurance for my Dachshund puppy?",
+      "a": "Before or on the same day as the first vet visit — ideally before any conditions are documented in medical records. IVDD surgery costs $5,000–$10,000 and is not covered if it's considered pre-existing."
+    }
+  ]
+}

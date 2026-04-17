@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Pharaoh Hound Grooming Guide",
+    "slug": "pharaoh-hound-grooming-guide",
+    "shopify_handle": "pharaoh-hound-grooming-guide",
+    "group": "Pharaoh Hound",
+    "size_category": "Guide",
+    "tags": ["pharaoh-hound", "grooming", "short-coat", "sighthound", "low-maintenance"],
+    "published": true,
+    "published_at": "2026-04-26T16:00:00Z",
+    "excerpt": "The Pharaoh Hound has one of the easiest coats in the dog world — short, fine, and requiring almost no specialized care. A weekly wipe-down and routine nail and ear maintenance covers it.",
+    "meta_description": "Pharaoh Hound grooming guide: the short fine coat requires minimal work, but ears, nails, and skin care after outdoor activity are the regular maintenance priorities for this sighthound."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pies_faraona_e34.jpg/250px-Pies_faraona_e34.jpg",
+      "alt": "Pharaoh Hound grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Pharaoh Hound Coat",
+      "heading": "A Low-Maintenance Coat",
+      "html": "<p>The Pharaoh Hound has a short, fine, glossy coat that is one of the least maintenance-intensive in the dog world. There is no undercoat, no significant shedding season, and no special tools required. The grooming routine for this breed is primarily about maintaining skin and coat health, keeping nails at a comfortable length, and establishing the ear care habit.</p><h3>Grooming Tools You'll Need</h3><ul><li>Rubber grooming mitt or chamois cloth — for weekly coat maintenance</li><li>Soft bristle brush — optional, for finishing</li><li>Nail clippers or grinder</li><li>Ear cleaning solution and cotton balls</li><li>Dog-safe shampoo for short, fine coats</li><li>Dog coat for cold weather outdoor use</li></ul><h3>What the Coat Needs</h3><p>Very little, by dog grooming standards. A weekly wipe-down with the rubber mitt removes dead hair and maintains the natural gloss. The coat does not mat. It does not require professional grooming. The primary investment in this breed's coat maintenance is time for the weekly 5-minute routine — manageable by any standard.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Wipe down the entire coat with a rubber grooming mitt — neck to tail, legs</li><li>Check and wipe the ears — the upright ears have good airflow compared to pendulous ear breeds, but a weekly check establishes the habit and catches any early signs of irritation</li><li>Check between paw pads for debris, cracking, or irritation, especially after outdoor activity on rough surfaces</li></ul><h3>Monthly</h3><ul><li>Bathe every 4–6 weeks or when dirty. Use a mild dog shampoo appropriate for short, fine coats</li><li>Rinse thoroughly — short coats show shampoo residue easily</li><li>Dry with a towel — this coat dries quickly</li><li>Trim nails — a lean, active dog wears nails down partially through activity, but regular checks and trimming are still required</li></ul><h3>Skin Care Notes</h3><p>The Pharaoh Hound's thin coat and lightly pigmented skin means sunburn is a real risk in very sun-intense climates. Extended sun exposure on the nose and ear leather, particularly in summer, can cause irritation. Dog-safe sunscreen for outdoor activities in intense sun is appropriate. The skin is also more visible when healthy or when something is wrong — the blush response is a positive example; redness or irritation shows up quickly and should be addressed.</p>"
+    },
+    "special": {
+      "label": "Cold Weather Management",
+      "heading": "Cold Weather and Coat Considerations",
+      "html": "<p>The short fine coat provides minimal insulation. Below approximately 50°F, outdoor activity requires a well-fitted dog coat. The dog coat needs to cover the core — chest, belly, back — to be effective. The Pharaoh Hound is not a breed that should spend extended time outside in cold conditions, and sleeping arrangements should be indoors.</p><h3>Practical Cold Weather Tips</h3><ul><li>Invest in a well-fitted, waterproof dog coat before cold weather arrives</li><li>Keep outdoor exercise during cold months efficient — shorter, more purposeful outings</li><li>Check paws after walks in icy conditions; de-icing chemicals are irritating to the thin-skinned paws of sighthounds</li><li>Wipe paws after returning from salted surfaces</li><li>Indoor warmth is not optional — provide a dog bed away from drafts</li></ul>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does a Pharaoh Hound need to be bathed?",
+      "a": "Every 4–6 weeks is typical, or when the dog is visibly dirty. The short fine coat does not hold dirt or odor the way longer coats do, so bathing frequency is lower than average. Over-bathing strips the natural skin oils that keep the coat glossy — every 4–6 weeks is sufficient for a clean, healthy coat."
+    },
+    {
+      "q": "Do Pharaoh Hounds shed much?",
+      "a": "Minimally. The short, fine coat sheds lightly year-round but without the dramatic seasonal coat blows of double-coated breeds. Weekly grooming mitt use removes most loose hair before it ends up on furniture. The Pharaoh Hound is among the lowest-shedding of all dog breeds."
+    },
+    {
+      "q": "Do Pharaoh Hounds need a dog coat?",
+      "a": "Yes, for cold-weather outdoor activity. Below about 50°F, a well-fitted dog coat that covers the core is appropriate. This is a practical requirement, not optional — a lean, thin-coated sighthound gets cold quickly and shivering on a walk is not a minor inconvenience. Invest in a quality, well-fitting coat before cold weather arrives."
+    }
+  ]
+}

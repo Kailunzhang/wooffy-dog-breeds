@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Toy Fox Terrier Grooming Guide",
+    "slug": "toy-fox-terrier-grooming-guide",
+    "shopify_handle": "toy-fox-terrier-grooming-guide",
+    "group": "Toy Fox Terrier",
+    "size_category": "Guide",
+    "tags": ["toy-fox-terrier", "grooming"],
+    "published": true,
+    "published_at": "2026-05-01T16:00:00Z",
+    "excerpt": "The Toy Fox Terrier's smooth, short coat is one of the easiest to maintain in the toy group. This guide covers the basics of coat care, bathing, and routine grooming.",
+    "meta_description": "Toy Fox Terrier grooming guide: easy coat care, bathing schedule, nail trimming, and dental hygiene tips for this low-maintenance breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Toy_Fox_Terrier_2.jpg/330px-Toy_Fox_Terrier_2.jpg",
+      "alt": "Toy Fox Terrier grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "The TFT's Low-Maintenance Smooth Coat",
+      "html": "<p>The Toy Fox Terrier's coat is short, smooth, satiny, and dense — lying flat against the body with a natural sheen. This is one of the lowest-maintenance coats in the entire toy group. Shedding is minimal year-round, and the coat doesn't mat or tangle. The tricolor pattern (white body, black and tan head with tan leg markings) stays looking sharp with very minimal effort.</p><p>The main grooming tasks for this breed are not coat-related — they are dental hygiene, nail care, and ear cleaning, all of which are important health maintenance routines for any small dog.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Weekly Coat Care and Routine Maintenance",
+      "html": "<p><strong>Brushing:</strong> A weekly once-over with a rubber curry brush or grooming mitt removes loose hair, distributes skin oils, and keeps the coat gleaming. This takes about 5 minutes. During seasonal coat changes in spring and fall, slightly more frequent brushing may help manage minor shedding.</p><p><strong>Bathing:</strong> Bathe every 4–6 weeks or when the dog gets dirty. Use a gentle dog shampoo appropriate for smooth coats. Rinse thoroughly and towel dry — the short coat dries quickly without a dryer. Avoid over-bathing, which can strip natural oils and cause dry skin.</p><p><strong>Nails:</strong> Trim every 3–4 weeks. Overgrown nails cause discomfort and can affect gait. Use small dog nail clippers or a rotary nail grinder. If you hear clicking on hard floors, the nails are too long.</p><p><strong>Ears:</strong> Check weekly for redness, wax buildup, or odor. Clean with a vet-approved ear cleaning solution applied to a cotton ball — never insert anything into the ear canal.</p><p><strong>Teeth:</strong> Brush 3–5 times per week with a dog-safe toothpaste. Small breeds are highly prone to dental disease. Annual professional dental cleanings under anesthesia are strongly recommended.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Skin and Cold-Weather Care",
+      "html": "<p><strong>Skin Sensitivity:</strong> The Toy Fox Terrier's thin coat means the skin is less protected from sun, cold, and abrasion. Some TFTs are prone to dry skin, especially in winter. A fish oil supplement added to food can help maintain coat luster and skin moisture.</p><p><strong>Cold Weather:</strong> The short coat offers minimal insulation. In temperatures below 50°F, a dog sweater or coat is not optional — it is a practical necessity for this breed. Keep outdoor time brief in very cold or wet conditions.</p><p><strong>Sun Exposure:</strong> Light-colored or white-coated areas can be susceptible to sunburn, especially on the nose and ear tips during extended outdoor time in summer. Dog-safe sunscreen can be applied to exposed pink skin areas if needed.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Do Toy Fox Terriers need professional grooming?",
+      "a": "Generally no. The short, smooth coat requires no professional trimming or styling. Most owners handle all grooming at home. The main reason to visit a groomer would be nail grinding if you're not comfortable doing it yourself."
+    },
+    {
+      "q": "How much do Toy Fox Terriers shed?",
+      "a": "Minimally. The TFT is a low-shedder that doesn't leave obvious hair on furniture or clothing. A weekly brush keeps shedding under control. They are not considered hypoallergenic, but their shedding is among the lowest in the toy group."
+    }
+  ]
+}

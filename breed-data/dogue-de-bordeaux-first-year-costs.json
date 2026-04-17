@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Dogue de Bordeaux First Year Costs",
+    "slug": "dogue-de-bordeaux-first-year-costs",
+    "shopify_handle": "dogue-de-bordeaux-first-year-costs",
+    "group": "Dogue de Bordeaux",
+    "size_category": "Guide",
+    "tags": ["dogue-de-bordeaux", "costs", "first-year"],
+    "published": true,
+    "published_at": "2026-04-27T16:00:00Z",
+    "excerpt": "The Dogue de Bordeaux is expensive to own relative to its short lifespan. This guide covers realistic first-year costs, ongoing annual expenses, and the financial case for pet insurance in a breed with serious health risks.",
+    "meta_description": "Dogue de Bordeaux first year costs: puppy price, food, vet care, pet insurance, and ongoing costs for the French Mastiff."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dogue_de_Bordeaux_profil.jpg/330px-Dogue_de_Bordeaux_profil.jpg",
+      "alt": "Dogue de Bordeaux cost guide"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "Significant Investment From Day One",
+      "html": "<p>The Dogue de Bordeaux is among the more expensive breeds to acquire from a reputable health-focused breeder, reflecting the costs of health screening, whelping care for a giant-breed litter, and the breed's specialized veterinary needs during puppyhood.</p><ul><li><strong>Puppy from health-tested parents:</strong> $1,800–$3,500. Required health testing should include OFA hip/elbow certification and cardiac evaluation by a veterinary cardiologist. Avoid breeders who cannot provide documentation.</li><li><strong>Initial vet visit and puppy vaccines:</strong> $200–$450. Giant breeds often require weight-adjusted vaccine doses and additional monitoring.</li><li><strong>Spay or neuter (giant breed):</strong> $500–$900. Many breeders recommend waiting until 18–24 months.</li><li><strong>XXL crate:</strong> $120–$220</li><li><strong>Large stainless steel food and water bowls:</strong> $40–$80</li><li><strong>Collar, leash, ID tag:</strong> $50–$100</li><li><strong>Large-breed puppy food (first months):</strong> $200–$400</li><li><strong>Puppy classes:</strong> $100–$200</li><li><strong>Drool cloths, facial wipes, grooming supplies:</strong> $50–$100</li><li><strong>Baby gates (to manage puppy access to stairs):</strong> $50–$100</li></ul><p><strong>Upfront total estimate:</strong> $3,110–$6,050</p>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "Monthly and Annual Expenses Through Year One",
+      "html": "<p>Giant-breed food costs are substantial, and the DDB's health profile makes veterinary investment higher than average even in healthy first years.</p><ul><li><strong>Food (large/giant-breed puppy kibble):</strong> $120–$180/month. Giant puppies require controlled-calorie, large-breed-specific formulas. Annual cost: $1,440–$2,160.</li><li><strong>Routine vet visits and puppy booster vaccines:</strong> $350–$600</li><li><strong>Cardiac checkup:</strong> $200–$400 recommended in addition to standard wellness exam given the breed's cardiac risk</li><li><strong>Heartworm/flea/tick prevention:</strong> $150–$300/year</li><li><strong>Pet insurance:</strong> $70–$120/month for a giant breed with the DDB's health profile. This is not optional — it is essential. Annual cost: $840–$1,440.</li><li><strong>Grooming and fold-care supplies:</strong> $50–$100/year ongoing</li><li><strong>Toys and chews:</strong> $100–$200/year</li></ul><p><strong>First-year recurring total (with insurance):</strong> $3,230–$5,200</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "Full Year One Picture and Annual Costs",
+      "html": "<p><strong>Total first-year estimate (with insurance):</strong> $6,340–$11,250</p><p>This wide range reflects variability in puppy price, regional costs, and individual health needs. The DDB's health challenges make the higher end of the range quite realistic for some owners.</p><p><strong>Annual ongoing costs after year one:</strong></p><ul><li>Food: $1,500–$2,200</li><li>Routine vet care including annual cardiac monitoring: $500–$900</li><li>Heartworm/parasite prevention: $150–$300</li><li>Pet insurance: $840–$1,800 (premiums increase significantly with age)</li><li>Grooming and fold care: $100–$200</li><li>Miscellaneous: $200–$400</li></ul><p><strong>Estimated annual ongoing total:</strong> $3,290–$5,800</p><p><strong>Emergency and treatment cost considerations:</strong></p><ul><li>Bloat surgery: $3,000–$7,000</li><li>Cardiac treatment (medication, specialist monitoring): $500–$2,000+/year for diagnosed cases</li><li>Hip replacement surgery: $5,000–$7,000 per hip</li><li>Prophylactic gastropexy (bloat prevention surgery often done at time of spay/neuter): $400–$800 — worth discussing with your vet</li></ul><p><strong>Lifetime cost note:</strong> With a lifespan of only 5–8 years, the DDB's relatively high annual cost compressed into a short lifespan makes it one of the most expensive breeds on a cost-per-year basis. Go in with full financial awareness.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Is the Dogue de Bordeaux expensive to own?",
+      "a": "Yes, relative to its lifespan. The combination of giant-breed food quantities, higher-than-average veterinary needs (cardiac monitoring, bloat risk), and a shorter lifespan of 5–8 years makes the cost-per-year among the highest of any breed. Pet insurance is essential."
+    },
+    {
+      "q": "What is a prophylactic gastropexy and should I get it for my DDB?",
+      "a": "A gastropexy is a surgical procedure that tacks the stomach to the abdominal wall, preventing it from twisting in a bloat event. It is often performed at the same time as spay or neuter to save on anesthesia costs. Given the DDB's deep chest and bloat risk, it is worth discussing with your vet — many giant-breed veterinarians recommend it."
+    },
+    {
+      "q": "Why is Dogue de Bordeaux pet insurance so expensive?",
+      "a": "Insurance premiums for the DDB are higher than average because insurers accurately assess the breed's health risks: cardiac disease, hip dysplasia, bloat, and a short lifespan. These translate to higher probability of large claims. Enrolling while the dog is a healthy puppy gives you the best rate before any conditions are diagnosed."
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "name": "Basset Hound",
+    "slug": "basset-hound",
+    "shopify_handle": "basset-hound",
+    "group": "Hound Group",
+    "size_category": "Medium Breed",
+    "tagline": "The most relaxed dog you'll ever own — as long as you don't mind the drool, the howling, and the stubbornness on a leash.",
+    "tags": [
+      "hound-group",
+      "medium-breed",
+      "family-dog",
+      "scent-hounds",
+      "dog-breeds"
+    ],
+    "published": true,
+    "published_at": "2026-04-14T01:00:00Z",
+    "excerpt": "Basset Hounds look like sadness personified, but they're actually calm, affectionate, and surprisingly funny to live with. Just know what you're signing up for: the nose rules everything, and these dogs are not known for doing what you say the first time.",
+    "meta_description": "Basset Hound owner's guide: temperament, exercise needs, health issues (bloat, back problems, ear care), grooming, costs, and whether this breed fits your life."
+  },
+  "stats": {
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "40–65 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–12 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "30–45 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Difficult"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Excellent"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "With guidance"
+    }
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/BassetHound_profil.jpg",
+      "alt": "Basset Hound"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Basset Hound?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Basset Hound is a French scent hound originally bred to trail rabbits and hare through dense brush — short enough to work low to the ground, slow enough for hunters on foot to keep up. That heritage explains a lot about living with one today. The nose is extraordinary, the energy level is low, and the willingness to comply with your instructions is... selective.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">They're gentle, loyal, and genuinely good-natured. They're also one of the most scent-driven breeds alive, which means recall off-leash is unreliable and leash training requires patience. If you want a calm, kid-friendly dog who's happy on the sofa most of the day and doesn't demand an hour of cardio, the Basset Hound deserves serious consideration — with realistic expectations about trainability.</p>"
+    },
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Basset Hounds Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Basset Hounds are instantly recognizable: long, drooping ears that nearly reach the ground when the head is lowered, deeply wrinkled skin around the face and neck, and those famously mournful eyes with their reddish lower lids. Despite weighing 40–65 lbs, they're low-slung — their legs are short and heavy-boned, built to minimize height rather than weight.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The coat is short, dense, and weather-resistant, coming most often in tri-color (black, white, and tan) or bi-color (lemon and white, red and white). The skin is loose and often has extra folds. That long, tapered tail — held upright like a flag when moving — helps handlers spot them in tall grass. The jowls drool. There's no getting around this: Bassets drool, and they'll share it with your upholstery.</p>"
+    },
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bassets are even-tempered, affectionate, and pack-oriented. They get along well with children, other dogs, and usually cats. They don't have the hair-trigger reactivity of some breeds — they're slow to alarm and slow to anger. For families with young kids, this placid nature is genuinely valuable.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The notable personality trait that catches owners off guard is the independence. Bassets are not eager-to-please dogs in the way Labradors or Border Collies are. They'll hear the command. They'll consider it. And then they'll decide whether it seems worth doing. This isn't stupidity — they score quite high on problem-solving when food is involved — it's a scent-hound's self-reliance. Positive reinforcement with high-value treats works; repetition and frustration don't.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">When a Basset catches a scent, everything else — you, traffic, commands, the entire outside world — ceases to exist. A fenced yard and leash discipline are non-negotiable for their safety.</p>"
+    },
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Basset Hound",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A Basset Hound is the right dog for a specific kind of person: someone who genuinely wants a calm companion, doesn't need a dog who comes reliably off-leash, can handle the drool and the occasional ear-splitting howl, and has the patience for a dog who will not be rushed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The drool and the smell are the two things that surprise new owners most. Bassets have a distinctive hound odor from their skin oils, and their ears trap moisture and can develop infections fast if you don't stay on top of cleaning. Weekly ear maintenance isn't optional with this breed — it's the difference between a healthy dog and a $400 vet visit every few months.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The back and joint issues are real, too. Those heavy bodies on short legs put stress on the spine. Don't let your Basset jump off furniture repeatedly — ramps or steps for the sofa and bed will add years of healthy mobility. If I were getting a Basset, I'd get pet insurance from day one and accept the grooming routine as just part of the deal.</p>"
+    },
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">30–45 minutes of moderate walking daily is sufficient for most Bassets. They're not built for running and shouldn't be over-exercised in heat. A couple of leisurely walks and some sniff-heavy yard time is their ideal day. Always on-leash or in a securely fenced area — their nose will take them into traffic without hesitation.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Brushing:</strong> Weekly with a rubber curry brush — the short coat sheds moderately year-round</li><li><strong style=\"color:#1a1a1a;\">Ears:</strong> Clean weekly without exception; moisture and debris accumulate fast in those deep ear canals</li><li><strong style=\"color:#1a1a1a;\">Skin folds:</strong> Wipe the face wrinkles every few days to prevent yeast and bacteria buildup</li><li><strong style=\"color:#1a1a1a;\">Bathing:</strong> Every 6–8 weeks or more often if the hound odor gets strong</li><li><strong style=\"color:#1a1a1a;\">Nails:</strong> Trim every 3–4 weeks — long nails alter gait and stress already-loaded joints</li></ul><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Short sessions (10–15 minutes), high-value food rewards, and genuine patience. Bassets respond to positive reinforcement but won't perform reliably under pressure. Don't expect off-leash recall to ever be fully trustworthy. Basic obedience is achievable; competitive obedience is not this breed's calling.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:20px 0 0 0;\">I put together a <a href=\"/blogs/dog-breeds/basset-hound-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">full Basset Hound grooming guide</a> with the specific tools and routine that work best for this coat type.</p>"
+    },
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bassets are generally hardy but their conformation creates predictable health vulnerabilities. Understanding these before you commit helps you manage them proactively.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;width:30%;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What to Know</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Ear Infections</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The #1 Basset health issue. Long, heavy ears block airflow; moisture and wax accumulate quickly. Weekly cleaning is the single most effective preventive measure.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Intervertebral Disc Disease (IVDD)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Their long spine and short legs create disc stress. Jumping down from heights is a risk. Use ramps for furniture. Symptoms include back pain, reluctance to move, or hind-leg weakness.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Obesity</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Bassets love food and are not enthusiastic exercisers. Extra weight dramatically accelerates joint and spine problems. Measure meals; don't free-feed.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Bloat (GDV)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Deep-chested breeds are at elevated risk for gastric dilatation-volvulus. Feed two meals daily rather than one large meal; avoid exercise right after eating.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Glaucoma &amp; Eye Issues</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The loose lower eyelids (ectropion) can cause chronic irritation. Check eyes regularly for redness or discharge.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Thrombopathia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">A platelet disorder specific to Bassets that can cause abnormal bleeding. A DNA test is available; responsible breeders screen for it.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> Thrombopathia DNA test, hip and elbow OFA evaluations.</p>"
+    },
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,800 from a reputable breeder; $150–$400 from rescue. Ongoing costs are moderate — they're medium-sized dogs with no professional grooming requirements, but ear care and potential back/spine treatments can add up over time.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy / Adoption</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$1,800 / $150–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Ear care / supplies</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$50–$100</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$50–$150</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,500–$4,500+</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,200–$2,100</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;line-height:1.6;\">See the <a href=\"/blogs/dog-breeds/basset-hound-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Basset Hound first-year cost breakdown</a> with real numbers before you commit.</p>"
+    },
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Basset Hound Right for You?",
+      "good_fit": [
+        "Want a calm, low-energy dog that's happy to relax indoors",
+        "Have children or a multi-pet household",
+        "Live in a home with a securely fenced yard",
+        "Can commit to weekly ear cleaning and basic maintenance",
+        "Don't need reliable off-leash recall"
+      ],
+      "not_fit": [
+        "Want a highly obedient, responsive dog",
+        "Live in a home without secure fencing",
+        "Are bothered by drool, odor, or moderate shedding",
+        "Need a dog that can exercise off-leash safely",
+        "Want a breed without significant back and joint health risks"
+      ]
+    },
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Basset Hound",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,800 from a reputable breeder. Ask for thrombopathia DNA testing and OFA hip evaluations on both parents. The Basset Hound Club of America maintains a breeder referral list and publishes health testing expectations. Avoid breeders who can't produce health documentation — back and platelet conditions are predictable and testable.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Basset Hound rescue groups operate nationally and regionally. Adult Bassets from rescue are often already house-trained and their temperament is known. Adoption fees typically run $150–$400. Because Bassets end up in rescue frequently due to their stubborn independence frustrating unprepared owners, there's a steady supply of wonderful adult dogs looking for patient homes.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before you put down a deposit, go through the <a href=\"/blogs/dog-breeds/basset-hound-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Basset Hound puppy checklist</a> — it covers what to have ready before they arrive.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Are Basset Hounds good apartment dogs?",
+      "a": "Possibly — their exercise needs are low and they're calm indoors. The problem is the howling. Bassets have a loud, resonant bay that carries through walls and floors. If you have close neighbors and thin walls, a Basset's vocal response to boredom or being left alone can be a real issue. In a house with a yard, they're excellent; in a dense apartment building, it depends on the individual dog's vocal habits."
+    },
+    {
+      "q": "Why won't my Basset Hound listen to me?",
+      "a": "This is the most common complaint from Basset owners. Scent hounds were bred for independent decision-making in the field — waiting for instruction from a human was counterproductive to their job. They're not defiant; they're just wired to follow their nose and their instincts first. Short training sessions with very high-value food rewards work better than repetitive commands. Managing the environment (fences, leashes) is more reliable than off-leash recall."
+    },
+    {
+      "q": "How much do Basset Hounds drool?",
+      "a": "Quite a bit, especially around food, after drinking water, and when they're hot. Their loose jowls don't hold saliva well. If drool on your clothes, floor, and furniture is something you'll genuinely mind, a Basset is probably not the right fit. If it's just a factor you can manage with a hand towel nearby, it's very livable."
+    },
+    {
+      "q": "Can Basset Hounds climb stairs?",
+      "a": "They can, but they shouldn't do it repeatedly for years. The combination of a long spine, heavy body, and short legs puts significant stress on intervertebral discs. Many Basset owners use baby gates to limit stair access and provide ramps for furniture. It's a genuine structural vulnerability, not an overreaction."
+    },
+    {
+      "q": "Do Basset Hounds get along with cats?",
+      "a": "Generally yes, especially if raised together. Their prey drive is oriented toward scent-tracking rather than chasing, and their energy level is too low for sustained cat pursuit. Most Bassets and cats coexist without much drama. Individual variation applies — some Bassets are more interested in small animals than others."
+    }
+  ],
+  "related_breeds": [
+    {
+      "name": "Bloodhound",
+      "slug": "bloodhound",
+      "note": "Same scent-hound family, larger, even more nose-driven"
+    },
+    {
+      "name": "Beagle",
+      "slug": "beagle",
+      "note": "Smaller scent hound, more energetic, equally stubborn"
+    },
+    {
+      "name": "Cavalier King Charles Spaniel",
+      "slug": "cavalier-king-charles-spaniel",
+      "note": "Similar calm temperament, much smaller, easier to train"
+    }
+  ]
+}

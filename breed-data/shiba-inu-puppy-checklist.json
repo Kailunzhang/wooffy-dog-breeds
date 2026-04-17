@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Shiba Inu Puppy Checklist",
+    "slug": "shiba-inu-puppy-checklist",
+    "shopify_handle": "shiba-inu-puppy-checklist",
+    "group": "Shiba Inu",
+    "size_category": "Guide",
+    "tags": ["shiba-inu", "puppy", "checklist", "escape-proof-fence", "never-off-leash"],
+    "published": true,
+    "published_at": "2026-04-20T16:00:00Z",
+    "excerpt": "Everything you need before your Shiba Inu puppy comes home — including the fence inspection and the never-off-leash rule that apply from day one.",
+    "meta_description": "Shiba Inu puppy checklist: escape-proof fence requirements, never-off-leash rule, socialization priorities for an independent breed, and essential gear list."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Taka_Shiba.jpg/250px-Taka_Shiba.jpg",
+      "alt": "Shiba Inu puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Shiba Inu Puppy Prep: Fence and Containment First",
+      "html": "<p>Before a Shiba Inu puppy comes home, one infrastructure requirement must be in place: a fully secure fence. This is not a suggestion — Shibas escape through gaps, climb over, dig under, and bolt through any lapse in gate discipline. The fence audit happens before the puppy arrives, not after the first escape.</p><h3>Fence Security Audit</h3><ul><li>Minimum 5–6 foot solid fence — avoid chain link that the dog can use as a climbing grid</li><li>Check every gate: self-latching and self-closing hardware is the standard</li><li>Walk the full perimeter and check for gaps, soft spots, or dig-under vulnerability at the base</li><li>Consider a coyote roller or fence extension on top for known climbers</li><li>Dig guards (concrete edging, L-footer hardware cloth laid horizontally at the fence base) prevent undermining</li><li>Never rely on an electric/invisible fence — Shibas will take the correction and escape</li></ul><h3>Essential Gear Checklist</h3><ul><li>Medium crate (30–36 inch with divider panel)</li><li>Dog bed appropriate for a medium breed</li><li>Stainless steel food and water bowls</li><li>Flat collar + ID tag (engrave on arrival day)</li><li>Well-fitting harness (flat collars slip off easily — some Shibas are expert at collar-backing)</li><li>4–6 ft leash — never a flexi-lead</li><li>Slicker brush and undercoat rake for coat maintenance</li><li>High-value training treats</li><li>Enzymatic cleaner</li><li>Puzzle toys and enrichment — Shibas need mental stimulation</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit and Off-Leash Rule Establishment",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam including patellar evaluation</li><li>Vaccine schedule verification and continuation</li><li>Parasite prevention</li><li>Discuss spay/neuter timing — some evidence suggests waiting until 12–18 months for medium breeds</li><li>Microchip if not placed by breeder — critical for a breed that escapes</li><li>Enroll in pet insurance before this appointment or immediately after</li></ul><h3>Establish the Off-Leash Rule From Day One</h3><p>The rule is simple and permanent: Shiba Inus are never off-leash in unfenced areas. Not in the park, not in a field, not on a quiet street. A Shiba that sees a squirrel, bird, or interesting smell is gone — and unlike a retriever that eventually comes back, a Shiba in prey-drive mode does not stop and return. Establish this rule in your own behavior before the puppy arrives. The puppy will test the fence; you need to have already secured it.</p><h3>Socialization: Start Immediately</h3><p>The 8–16 week socialization window shapes adult Shiba temperament. Shibas that are well-socialized become confident, manageable dogs. Those that are not can become reactive and difficult to handle in public:</p><ul><li>Introduce to many people types, environments, sounds, and controlled dog interactions</li><li>Puppy class provides structured dog-to-dog exposure in a safe environment</li><li>Shibas can be selective with other dogs — early positive exposures matter</li><li>Carry the puppy in high-infection-risk areas during the pre-vaccination period rather than skipping socialization</li></ul>"
+    },
+    "special": {
+      "label": "Training and Independence Management",
+      "heading": "Training an Independent Breed",
+      "html": "<h3>Shiba Inu Training Reality</h3><p>Shibas are intelligent dogs that don't operate on the eager-to-please model of retrievers or shepherds. They understand commands readily — they just choose whether to comply based on their own assessment of the situation. Positive reinforcement with very high-value rewards works; harsh corrections produce shutdown or defiance. Keep training sessions short (5–10 minutes), frequent, and rewarding. Shibas train best when they think training was their idea.</p><ul><li>Sit, down, stay, come, leave it — establish all core commands early</li><li>Recall is the most important command to build — do it with the highest-value treats possible</li><li>Loose-leash walking: never let pulling become a habit from puppyhood</li><li>Door manners: the puppy never exits a door without a sit-stay first — this is safety-critical for a bolt-risk breed</li></ul><h3>Harness Fitting</h3><p>Shibas are notorious for \"helicopter spinning\" to back out of collars and improperly fitted harnesses. Use a correctly fitted Y-harness or H-harness where the chest piece sits across the breastbone. Check fit regularly as the puppy grows. Some owners use both a collar (for ID tags) and a harness (for leash attachment) as double security.</p><h3>Enrichment Matters</h3><p>Shibas are active-minded dogs that need mental stimulation as well as physical exercise. Puzzle feeders, sniff games, and training sessions provide cognitive engagement that a bored Shiba won't find through other appropriate means. A bored Shiba will redecorate your home.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Can a Shiba Inu ever be trusted off-leash?",
+      "a": "Only in securely fenced areas. The breed's prey drive and independent nature mean that recall — even in a well-trained dog — is unreliable when the dog is in drive mode. A Shiba that decides to chase something is not coming back on command. This is a breed characteristic, not a training failure. Many Shiba owners use fenced dog parks successfully; off-leash hiking, beach walks, or unfenced areas are not appropriate for this breed."
+    },
+    {
+      "q": "When should I start training my Shiba Inu puppy?",
+      "a": "Immediately — and enroll in a puppy class at 8–10 weeks (after the first vaccine set). The earlier you establish recall, loose-leash walking, and door manners, the easier management becomes. A Shiba that has never been trained to sit before exits will become an adult that bolts through doors. Foundation training during puppyhood shapes every safety behavior this breed needs."
+    },
+    {
+      "q": "Are Shiba Inus good with other dogs?",
+      "a": "They can be, with proper early socialization. Shibas are selective about their dog companions — they generally prefer dogs that match their energy and communication style. Same-sex pairs can have higher conflict risk, particularly as the dogs mature. Early puppy class and controlled positive dog-to-dog exposures during the socialization window give the best foundation for adult compatibility."
+    }
+  ]
+}

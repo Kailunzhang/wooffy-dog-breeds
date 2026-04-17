@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Havanese",
+    "shopify_handle": "havanese-puppy-checklist",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-19T16:00:00Z",
+    "name": "Havanese Puppy Checklist: What to Do Before and After Bringing One Home",
+    "slug": "havanese-puppy-checklist",
+    "excerpt": "A practical checklist for new Havanese owners — covering IVDD prevention, eye and tear cleaning from day one, grooming habits, and first vet visit priorities.",
+    "meta_description": "A practical checklist for new Havanese owners — covering IVDD prevention, eye and tear cleaning from day one, grooming habits, and first vet visit priorities.",
+    "tags": [
+      "Havanese",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/A_Havanese_judging.jpg/330px-A_Havanese_judging.jpg",
+      "alt": "Havanese dog"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before the Puppy Arrives",
+      "heading": "IVDD Prevention Setup and Health Testing",
+      "html": "<h3>Install Ramps and Steps Before Pickup Day</h3><p>Havanese have some elevated risk for intervertebral disc disease (IVDD). The most practical preventive measure is reducing spinal impact — specifically, preventing the dog from jumping on and off furniture. Before the puppy arrives, install ramps or steps at any furniture the dog will be allowed on: sofas, beds, and if applicable, car seats. Establish the use of ramps from day one. A dog that has always used ramps will use them automatically as an adult.</p><h3>Verify Health Testing on Both Parents</h3><ul><li><strong>Hip dysplasia OFA evaluation:</strong> Both parents with passing scores</li><li><strong>Eye certification (CAER):</strong> Annual exam on both parents</li><li><strong>Patellar luxation evaluation:</strong> Both parents</li><li><strong>Cardiac evaluation:</strong> OFA cardiac certification on both parents</li><li><strong>BAER hearing test:</strong> For dogs in lines with white or chocolate colouring, deafness testing is relevant</li></ul><h3>Gear Checklist</h3><ul><li>Small wire or travel crate</li><li>Properly fitted harness</li><li>Dog ramps or steps for all furniture</li><li>Pin brush and metal comb</li><li>Tear stain wipes or damp cotton rounds</li><li>Dog-safe enzymatic toothpaste and finger brush</li><li>Small-breed puppy food</li><li>Small food and water bowls (stainless steel — may help with tear staining)</li><li>Dog bed or crate mat</li><li>Baby gates for management</li><li>Enzymatic cleaner</li><li>ID tag and microchip registration</li></ul>"
+    },
+    "care": {
+      "label": "First Weeks at Home",
+      "heading": "First Vet Visit and Starting the Eye and Grooming Routines",
+      "html": "<h3>First Vet Appointment (Within 72 Hours of Pickup)</h3><ul><li>Full physical exam and vaccine status review</li><li>Set vaccination and deworming schedule</li><li>Discuss spay/neuter timing (6–12 months for small breeds is typical)</li><li>Ask about tear staining causes and management — if the eyes are already tearing heavily, early investigation can identify fixable causes</li><li>Discuss IVDD risk and ramp use recommendations</li><li>Confirm dental care protocol</li><li>Get referral for puppy classes</li></ul><h3>Eye and Tear Cleaning From Day One</h3><p>Begin the daily eye cleaning routine immediately. Wipe below the eyes gently with a damp cotton round to remove discharge before it dries and stains. This takes 60 seconds and prevents the reddish-brown staining that is common in light-coloured Havanese. Do it every morning alongside the dog's feeding. Early habits become effortless routines.</p><h3>Brushing Starts Week One</h3><p>Begin brief, positive brushing sessions from the first day home — even if the puppy coat is still short. This establishes coat handling as normal and builds acceptance for the daily brushing that will be required throughout the dog's life. Use the time to run the brush and comb through the coat, handle the ears, touch the paws, and check the eyes. All positive, all rewarded.</p>"
+    },
+    "special": {
+      "label": "Training and Activity",
+      "heading": "What Havanese Owners Often Underestimate",
+      "html": "<h3>More Active Than the Fluffy Appearance Suggests</h3><p>Havanese are not couch ornaments. They are curious, active, and need daily play, walks, and mental stimulation. An under-stimulated Havanese becomes barky and clingy. Plan for 30–60 minutes of daily activity — short walks, play sessions, and training games. This is easily manageable but requires intention, especially for owners who expected a very low-energy companion dog.</p><h3>Separation Anxiety</h3><p>Havanese bond strongly with their people and are predisposed to separation anxiety. Build alone-time tolerance from day one: practice brief departures — 5 minutes out of sight — before extending duration. Do not create a dog that is always with you for the first year and then expect it to cope with alone time suddenly. Low-key arrivals and departures reduce the emotional charge of your comings and goings.</p><h3>Training a Havanese</h3><p>Havanese are intelligent, eager to please, and highly trainable. They respond very well to positive reinforcement and are a good breed for owners new to training. Enroll in puppy class early. Focus on recall, loose-leash walking, and basic manners from the start. These dogs can learn a wide range of skills and enjoy having mental challenges in their day.</p><ul><li>Consistent daily brushing from week one</li><li>Daily eye and tear cleaning from day one</li><li>Ramps on all furniture before the puppy arrives</li><li>Tooth brushing from week one</li><li>Puppy class enrollment as soon as the vet clears it</li></ul>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How do I prevent IVDD in my Havanese?",
+      "a": "The primary preventive measures are reducing spinal impact — use ramps and steps instead of allowing jumping on and off furniture, maintain healthy body weight (excess weight increases disc stress), and avoid repetitive activities that strain the back. IVDD cannot be entirely prevented in susceptible dogs, but lifestyle management significantly reduces risk. If you notice signs — sudden back pain, reluctance to move, or hind leg weakness — contact your vet immediately."
+    },
+    {
+      "q": "Do all Havanese have tear staining?",
+      "a": "Tear staining is common, especially in lighter-coloured dogs. It is caused by porphyrins in tears that oxidise and turn reddish-brown. Daily wiping below the eyes removes fresh discharge before staining occurs. Keeping fur around the eyes trimmed short and using stainless steel water bowls may help some dogs. If tearing is excessive, ask your vet about underlying causes such as blocked tear ducts or allergies."
+    },
+    {
+      "q": "Are Havanese good for first-time dog owners?",
+      "a": "Yes — they are among the better choices for first-time owners. They are intelligent, affectionate, and trainable with positive methods. The main requirements to understand upfront are the frequent professional grooming schedule (every 4–6 weeks), the daily brushing and tear cleaning routine, and the tendency toward separation anxiety that requires intentional management from puppyhood."
+    }
+  ]
+}

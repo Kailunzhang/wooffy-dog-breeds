@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "name": "Irish Terrier",
+    "slug": "irish-terrier",
+    "shopify_handle": "irish-terrier",
+    "group": "Terrier Group",
+    "size_category": "Medium Breed",
+    "tagline": "The Irish Terrier is bold, loyal, and built for action — a true working terrier in a mid-size package. Their \"daredevil\" reputation is earned. They're devoted family dogs who take no nonsense and back down from nothing.",
+    "tags": ["terrier-group", "medium-breed", "low-shedding", "loyal", "active", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-29T16:00:00Z",
+    "excerpt": "The Irish Terrier is bold, fiery, and fiercely loyal — one of the most courageous dogs in the terrier group. They're excellent family dogs for active owners who understand the terrier temperament, but their dog-fighting instinct requires management and their DNA health tests should be verified before buying.",
+    "meta_description": "Irish Terrier breed guide: bold daredevil temperament, family loyalty, exercise needs, and the DNA tests for Hyperkeratosis and Cystinuria every buyer should request."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "25–27 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "13–15 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–75 min" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/IrishTerrierSydenhamHillWoods.jpg/250px-IrishTerrierSydenhamHillWoods.jpg",
+      "alt": "Irish Terrier"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is an Irish Terrier?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Irish Terrier is one of the oldest terrier breeds, originating in Ireland and developed as a working farm and hunting terrier. In World War I, Irish Terriers served as messenger dogs and sentinels in the trenches, a role that required both intelligence and fearlessness. The breed's reputation as a \"daredevil\" comes honestly from its working history: this is a dog that was bred to confront and dispatch quarry without hesitation.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Despite this tenacious background, Irish Terriers are genuinely affectionate and loyal family dogs. They bond closely with their people, are good with children in the household, and have a playful, spirited personality that makes life interesting. The signature wiry red coat requires minimal maintenance compared to many breeds, and the breed's overall build is sturdy and athletic.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The challenge is the dog-fighting instinct. Irish Terriers were historically expected to fight off competitors, and this instinct survives in the modern breed. They can be dog-aggressive, particularly with dogs that challenge them, and require experienced handling and management in multi-dog situations.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Irish Terriers Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Medium-sized and racily built — males and females both fall in the 25–27 lb range and stand around 18 inches at the shoulder. The Irish Terrier has a long, flat head with small V-shaped ears that fold forward, dark, alert eyes, and the upright tail that typifies terrier breeds. The overall impression is of a lean, athletic dog built for speed and endurance rather than bulk.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The coat is dense, wiry, and close-lying — the signature bright red or wheaten-red color is one of the most distinctive in dogdom. The beard and eyebrows add character to the expression. The wiry outer coat sheds minimally and requires hand-stripping to maintain correct texture, though many pet owners opt for clipping instead (which softens the coat texture but is lower effort).</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Irish Terrier is loyal, bold, and spirited in a way that's hard to find in a single package. With their family — particularly the primary person they've bonded with — they are attentive, playful, and genuinely affectionate. They tend to be good with children in the household and will play enthusiastically without being rough. Their medium size is practical for active family life.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With other dogs: this is the area that requires real management. Irish Terriers have a historically strong dog-fighting instinct, and while many coexist peacefully with household dogs they've been raised with, they will not back down from a challenge. An Irish Terrier provoked or challenged by another dog will fight, and they fight with determination. Dog parks are not appropriate; interactions with unknown dogs must be managed on leash.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They are curious, intelligent, and easily bored. An under-exercised Irish Terrier will dig holes, demolish furniture, or escape the yard to find their own entertainment. Mental stimulation — training, puzzle games, interactive play — matters as much as physical exercise.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About an Irish Terrier",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Irish Terriers are dogs that inspire strong loyalty in their owners — people who have had one often can't imagine a different breed. The combination of genuine courage, family devotion, low-shedding coat, and that fiery personality creates a dog that feels unique. For active owners who want a dog that's genuinely engaged with life, the Irish Terrier delivers.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest requirement is experience. The dog-fighting instinct means you need to be comfortable managing interactions with other dogs permanently — not temporarily until they're trained out of it, permanently. You'll be reading every dog encounter before it happens and making smart decisions about when to cross the street. This is manageable, but it requires someone who understands terrier dynamics and isn't caught off-guard when their dog refuses to back down.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Before buying, verify the Digital Hyperkeratosis and Cystinuria DNA tests. These aren't the most famous breed health issues, but they're testable and manageable with good breeder practices.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–75 minutes of vigorous exercise daily. Irish Terriers have genuine stamina and need real exercise — brisk walks, running, play in a fenced area, or participation in dog sports like agility or earthdog. Always on-leash or in securely fenced areas — their prey drive and dog-combativeness make off-leash reliability difficult to maintain in public.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The wiry coat is low-shedding and relatively low-maintenance. Weekly brushing with a slicker brush removes loose hair and debris. The correct maintenance method is hand-stripping (pulling dead outer coat rather than cutting), but many pet owners opt for regular clipping. See the <a href=\"/blogs/dog-breeds/irish-terrier-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Irish Terrier grooming guide</a> for details.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Intelligent and capable but independent — classic terrier. They learn quickly, then decide whether the instruction is worth following. Positive reinforcement with high-value rewards works well. Consistency matters more than force. Early socialization and obedience training from puppyhood is essential; an untrained Irish Terrier adolescent is a handful.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Irish Terriers are a generally healthy breed with a good lifespan of 13–15 years. The key conditions to screen for are genetic and testable.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Digital Hyperkeratosis</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">A breed-specific condition causing painful crusting and thickening of the paw pads. Affected dogs develop cracked, hyperkeratotic (overgrown keratin) paw pads that cause significant discomfort when walking. A DNA test is available — ask for clearance from both parents. Managed but not cured in affected dogs.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Cystinuria</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">A metabolic condition causing formation of cystine kidney stones. Can cause urinary blockages and pain. DNA test available; ask for clearance from both parents. Managed with diet modification and, in severe cases, surgery or ongoing medication.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint causing pain and arthritis. Less common in this breed than in larger breeds, but OFA clearance from parents is worth requesting. Managed with medication; severe cases may require surgery.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> Digital Hyperkeratosis DNA test (both parents), Cystinuria DNA test (both parents), OFA hip clearance.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,200–$2,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Grooming (hand-strip or clip)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,950–$4,950</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,400–$2,300</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/irish-terrier-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Irish Terrier first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is an Irish Terrier Right for You?",
+      "good_fit": [
+        "Experienced dog owners who understand terrier temperament and working drive",
+        "Active households that can provide 60+ minutes of vigorous exercise daily",
+        "Families with children — Irish Terriers are loyal and playful with household kids",
+        "Owners wanting a low-shedding medium breed with genuine personality",
+        "Anyone committed to managing dog-dog interactions responsibly"
+      ],
+      "not_fit": [
+        "First-time dog owners without terrier experience",
+        "Multi-dog households where the dogs cannot be carefully managed",
+        "Owners expecting reliable off-leash behavior in open areas",
+        "Households with small pets — prey drive is strong",
+        "Anyone who wants a laid-back, easy-going companion"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Irish Terrier",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,200–$2,000 from reputable breeders. Required health clearances: Digital Hyperkeratosis DNA test (both parents), Cystinuria DNA test (both parents), OFA hip clearance. The Irish Terrier Club of America maintains a breeder referral directory.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Irish Terriers are uncommon enough that breed-specific rescue is limited. Check the Irish Terrier Club of America rescue coordinator and general terrier rescue organizations.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Irish Terrier comes home, complete the <a href=\"/blogs/dog-breeds/irish-terrier-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Irish Terrier puppy checklist</a>.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "Are Irish Terriers good family dogs?", "a": "Yes, for the right family. They are loyal, playful, and good with children in their household. The requirement is an active family that can provide real daily exercise and experienced handling of the dog-aggressive tendency. They are not lapdogs or apartment dogs for sedentary owners." },
+    { "q": "Are Irish Terriers dog-aggressive?", "a": "They can be — particularly with strange dogs that challenge them. The historical dog-fighting instinct remains in the breed. Many Irish Terriers coexist fine with household dogs they've been raised with, but interactions with unfamiliar dogs require management. Dog parks are not appropriate. An Irish Terrier will not back down from a challenge." },
+    { "q": "What is Digital Hyperkeratosis in Irish Terriers?", "a": "A breed-specific genetic condition causing abnormal keratin growth on the paw pads. Affected dogs develop cracked, painful, thickened paw pads that make walking uncomfortable. A DNA test is available — ask breeders for clearance from both parents. This condition is manageable in affected dogs but cannot be cured." },
+    { "q": "Do Irish Terriers shed?", "a": "Very little. The wiry double coat sheds minimally compared to most breeds. Weekly brushing manages the modest loose hair. The maintenance requirement is professional hand-stripping or clipping every few months to maintain coat texture and shape." }
+  ],
+
+  "related_breeds": [
+    {"name": "Airedale Terrier", "slug": "airedale-terrier", "note": "Larger terrier, similar wiry coat and bold temperament"},
+    {"name": "Welsh Terrier", "slug": "welsh-terrier", "note": "Similar wiry coat, comparable temperament, slightly smaller"},
+    {"name": "Lakeland Terrier", "slug": "lakeland-terrier", "note": "Smaller terrier, similar working heritage and independent character"},
+    {"name": "Wire Fox Terrier", "slug": "wire-fox-terrier", "note": "Similar wiry coat and terrier energy, different color pattern"}
+  ]
+}

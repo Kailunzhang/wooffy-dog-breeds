@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Collie Puppy Checklist",
+    "slug": "collie-puppy-checklist",
+    "shopify_handle": "collie-puppy-checklist",
+    "group": "Collie",
+    "size_category": "Guide",
+    "tags": ["collie", "puppy", "checklist", "MDR1", "CEA", "grooming-start"],
+    "published": true,
+    "published_at": "2026-04-21T16:00:00Z",
+    "excerpt": "Everything you need before your Collie puppy comes home — including the health documentation to collect from the breeder and the grooming routine that must start in puppyhood.",
+    "meta_description": "Collie puppy checklist: MDR1 and CEA documentation, grooming introduction from day one, socialization priorities, MDR1 medication card, and essential gear for a Rough or Smooth Collie."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1Dog-rough-collie-portrait.jpg/330px-1Dog-rough-collie-portrait.jpg",
+      "alt": "Collie puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Collie Puppy Prep: Documentation and Grooming Setup",
+      "html": "<p>Two preparations are specific to Collie ownership: collecting the correct DNA test documentation from the breeder (both CEA and MDR1), and setting up a grooming routine that begins the first day the puppy is home. For Rough Collies, early grooming habituation is critical — the adult coat requires daily brushing, and a dog that never learned to accept it as a puppy makes grooming genuinely difficult.</p><h3>Documentation to Request From Breeder</h3><ul><li><strong>MDR1/ABCB1 DNA test</strong> results for both parents — document the mutation status (Normal/Normal, Normal/Mutant, or Mutant/Mutant)</li><li><strong>CEA (Collie Eye Anomaly) DNA test</strong> results for both parents</li><li>OFA hip evaluation for both parents</li><li>This is standard documentation for any responsible Collie breeder — if it's unavailable, that's a significant concern</li></ul><h3>Grooming Setup for a Rough Collie Puppy</h3><ul><li>Pin brush and wide-tooth steel comb — purchase before puppy arrives</li><li>Detangling spray for the coat</li><li>Designate a grooming location with a non-slip surface</li><li>Identify a professional groomer experienced with long-coated double-coat breeds before the puppy arrives</li></ul><h3>Essential Gear Checklist</h3><ul><li>Large crate (36–42 inch with divider)</li><li>Orthopedic dog bed</li><li>Stainless steel food and water bowls (large)</li><li>Flat collar + ID tag (engrave on arrival day)</li><li>Harness for walks</li><li>4–6 ft leash</li><li>High-value training treats</li><li>Enzymatic cleaner for accidents</li></ul>"
+    },
+    "care": {
+      "label": "First Week Setup",
+      "heading": "First Week: Vet Visit and MDR1 Communication",
+      "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam including eye evaluation</li><li>Vaccine schedule verification and continuation</li><li>Parasite prevention — the MDR1 mutation status must be communicated to the vet before any parasite medications are prescribed. Ivermectin and some other common dewormers are dangerous for MDR1-affected dogs</li><li>Discuss spay/neuter timing</li><li>Microchip if not placed by breeder</li><li>Enroll in pet insurance before this appointment or immediately after</li></ul><h3>MDR1 Alert Card</h3><p>Print or write an MDR1 status card for the dog's records. Include the mutation status and a short list of medications to avoid. This card should accompany the dog to every vet visit, emergency visit, or boarding/grooming appointment. A dog whose MDR1 status is not communicated in an emergency situation may receive a dangerous medication.</p><h3>Start Grooming Immediately</h3><p>Begin daily brushing from day one — even 2–3 minutes with a soft brush touching the puppy's coat. The goal is not coat maintenance; it's habituation. A puppy that is brushed daily from 8 weeks becomes an adult that accepts daily brushing without resistance. The alternative is an adult Rough Collie that resists grooming — which creates a very difficult management situation given how much grooming this coat requires.</p><h3>Socialization: Start Immediately</h3><p>The 8–16 week window matters for all breeds. Collies are generally social and take to broad socialization experiences well:</p><ul><li>Diverse people, environments, sounds, and controlled dog interactions</li><li>Puppy class for structured socialization and training foundation</li><li>Collies are sensitive dogs — positive, gentle socialization is more effective than flooding or forcing</li></ul>"
+    },
+    "special": {
+      "label": "Training and Sensitivity Management",
+      "heading": "Training a Sensitive, Intelligent Herding Breed",
+      "html": "<h3>Collies Are Highly Trainable — and Sensitive</h3><p>Rough Collies are intelligent, people-oriented dogs that train readily with positive reinforcement. They are also more sensitive than many herding breeds — they respond poorly to harsh corrections, loud voices, or repetitive drilling. Keep training sessions positive, varied, and rewarding. Collies that are trained with patience become exceptionally well-mannered adult dogs.</p><ul><li>Puppy class at 8–10 weeks — early socialization and training foundation</li><li>Short, positive training sessions multiple times per day</li><li>Collies are eager to please and learn commands quickly — progress at the dog's pace, not a fixed curriculum</li><li>Focus on recall especially — Collies can roam and must have reliable recall in fenced areas</li></ul><h3>Herding Instinct Management</h3><p>Collies have herding instincts that may appear as circling, barking, and attempting to direct movement of children or other pets. Redirect to appropriate outlets (fetch, structured play) rather than allowing herding behavior to develop as a household habit.</p><h3>Exercise Rules for Puppies</h3><p>Follow the 5-minutes-per-month-of-age guideline for structured leash walks. Growth plates close around 12–14 months in large breeds — avoid forced running or stair jumping before then. Collies are moderately active as adults; they need daily exercise but not the intensity of working herding breeds.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Why is the MDR1 test so important for Collies?",
+      "a": "Up to 70% of Rough Collies carry at least one copy of the MDR1 mutation. Affected dogs cannot safely receive ivermectin (found in many common heartworm preventives and dewormers) or certain anesthetic agents. A dog that receives an incompatible medication can develop severe neurological toxicity. Knowing and communicating the mutation status before any medications are prescribed — every time, at every vet visit — prevents this entirely avoidable harm."
+    },
+    {
+      "q": "When should I start brushing my Rough Collie puppy?",
+      "a": "Day one. The puppy coat is short and easy to brush compared to the adult coat — this is the window to build the positive association with grooming that will be necessary for a lifetime of daily maintenance. Even a 2-minute daily brush session with a soft brush is enough during puppyhood. The habit is what matters, not the thoroughness of the session."
+    },
+    {
+      "q": "Are Collies good with children?",
+      "a": "Rough Collies are famously good family dogs — gentle, patient, and protective of their family group. Their herding instinct means they may attempt to manage or direct children's movement, but this is generally manageable behavior rather than a serious problem. Socialization with children during the puppy window establishes the positive associations that make Collies excellent family companions."
+    }
+  ]
+}

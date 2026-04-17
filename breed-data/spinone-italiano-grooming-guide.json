@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Spinone Italiano Grooming Guide",
+    "slug": "spinone-italiano-grooming-guide",
+    "shopify_handle": "spinone-italiano-grooming-guide",
+    "group": "Spinone Italiano",
+    "size_category": "Guide",
+    "tags": ["spinone-italiano", "grooming", "wiry-coat", "beard-cleaning", "ear-cleaning", "pendulous-ears"],
+    "published": true,
+    "published_at": "2026-04-23T16:00:00Z",
+    "excerpt": "The Spinone's dense, wiry coat is relatively low-maintenance compared to heavily feathered breeds. The beard and mustache require specific attention — they collect food and water at every meal. Ear cleaning is critical for pendulous-eared breeds. Weekly brushing and beard wiping are the core home tasks.",
+    "meta_description": "Spinone Italiano grooming guide: maintaining the wiry coat, essential beard and mustache cleaning, ear cleaning for pendulous ears, hand-stripping schedule, and the complete home maintenance routine."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Vitus2002.jpg/250px-Vitus2002.jpg",
+      "alt": "Spinone Italiano grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Spinone Coat",
+      "heading": "Understanding the Spinone Italiano Coat",
+      "html": "<p>The Spinone Italiano has a thick, wiry, somewhat rough outer coat — similar in concept to other wire-coated sporting breeds but with the Spinone's distinctive facial furnishings: a pronounced beard, mustache, and eyebrows that give the breed its characteristic gentle expression. The coat is approximately 1.5–2.5 inches long on the body, shorter on the ears and head, and the wiry texture provides protection from brush and briars.</p><p>The coat maintenance is moderate — not as demanding as profusely feathered breeds or curly-coated breeds. The distinct maintenance item is the beard and mustache, which collect food, water, and debris at every meal and after water work. Without attention, the beard becomes a source of odor and skin irritation at the lip folds.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — for regular brushing</li><li>Wide-tooth metal comb — for the beard and checking the coat</li><li>Stripping knife or stripping stone — for hand-stripping twice yearly</li><li>Clean cloths or paper towels for beard wiping after meals</li><li>Ear cleaning solution and cotton balls</li><li>Dog-safe shampoo</li><li>Nail clippers or grinder</li></ul>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush through the body coat with a slicker brush</li><li>Comb through the beard, mustache, and eyebrows — these areas mat and accumulate dried debris if not maintained weekly</li><li>Clean both ears thoroughly — the Spinone's pendulous ears are a significant moisture trap; see ear section below</li><li>Check paw pads and between the toes for debris after outdoor activity</li></ul><h3>Beard and Mustache Care — After Every Meal</h3><p>This is the most breed-specific maintenance item for the Spinone. The beard and mustache drip with water after every drink and collect food at every meal. Left wet, the lip fold area and beard develop odor and potential skin irritation. Wipe the beard and mustache after every meal and water session with a clean towel or cloth. This adds 30 seconds per meal — it becomes habit quickly. Keep a dedicated towel by the water bowl.</p><h3>Coat Maintenance (Twice Yearly)</h3><p>Hand-stripping or professional trimming twice per year removes the dead outer coat and keeps the coat at a manageable length. The Spinone's wiry coat behaves like other wire-coated sporting breeds — hand-stripping maintains the correct texture, while clipping softens it over time. For companion dogs, clipping is acceptable. Find a groomer experienced with wire-coated breeds for best results.</p>"
+    },
+    "special": {
+      "label": "Ear Care",
+      "heading": "Ear Cleaning for Pendulous-Eared Breeds",
+      "html": "<p>The Spinone Italiano's long, pendulous ears hang close to the head, severely limiting airflow to the ear canal. This is one of the most significant moisture-retention ear conformations in the sporting group. Weekly ear cleaning is absolutely necessary — not optional maintenance. If the Spinone swims or works in wet conditions, clean and dry the ears after every session in addition to the weekly cleaning.</p><h3>Ear Cleaning Technique</h3><p>Apply veterinary ear cleaning solution generously into the ear canal. Massage the base of the ear for 30–60 seconds. Allow the dog to shake its head. Wipe the visible ear canal and inner ear leather with cotton balls. Never insert cotton swabs into the canal. At every professional grooming or twice-yearly coat maintenance session, ensure any hair at the ear canal opening is trimmed to improve airflow.</p><h3>Recognizing Ear Problems</h3><p>Head shaking, pawing at ears, odor, redness, swelling, or dark discharge are infection signs requiring veterinary treatment. Chronic ear infections in Spinone dogs that swim regularly often require cultures to identify the specific pathogen — empirical treatment cycles without culture waste time and money while the infection persists. If a second ear infection occurs within six months of the first, request a culture and sensitivity test.</p><h3>Lip Fold Monitoring</h3><p>Spinoni with prominent lip folds can develop lip fold dermatitis — irritation and infection in the fold skin. Regular wiping of the beard and mustache prevents moisture accumulation in these folds. Check the lip fold skin weekly during grooming. Redness, odor, or discharge from the fold requires veterinary attention.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does a Spinone Italiano need professional grooming?",
+      "a": "Twice per year for coat maintenance (hand-stripping or trimming), plus routine home care. Between professional appointments, weekly brushing, combing the beard and eyebrows, and ear cleaning handles the maintenance. The wiry coat is less demanding between professional sessions than feathered or curly coats."
+    },
+    {
+      "q": "Why does the beard cleaning matter so much?",
+      "a": "The Spinone's beard and mustache drip with water and collect food at every meal. Left wet, the beard contacts the skin of the lip folds continuously — creating a warm, moist environment that promotes bacterial and yeast growth, leading to odor and skin irritation. This is not a hygiene preference; it is a health maintenance step. Wiping the beard after meals and water sessions takes 30 seconds and prevents a chronic problem. Many Spinone owners keep a dedicated towel by the food and water bowls."
+    },
+    {
+      "q": "Do Spinone Italiano dogs shed much?",
+      "a": "Moderately. The wiry coat sheds at a moderate rate year-round. Regular brushing removes loose coat and keeps shed hair manageable in the environment. The wiry texture means shed hair tends to stick to surfaces and fabrics rather than drifting like lighter coat types — lint rollers become a household staple."
+    }
+  ]
+}

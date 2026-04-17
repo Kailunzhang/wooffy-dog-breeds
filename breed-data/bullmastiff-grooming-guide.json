@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Bullmastiff Grooming Guide",
+    "slug": "bullmastiff-grooming-guide",
+    "shopify_handle": "bullmastiff-grooming-guide",
+    "group": "Bullmastiff",
+    "size_category": "Guide",
+    "tags": ["bullmastiff", "grooming"],
+    "published": true,
+    "published_at": "2026-04-27T16:00:00Z",
+    "excerpt": "The Bullmastiff's short coat is low-maintenance, but facial wrinkle care and drool management are important daily routines. Learn how to keep your Bullmastiff clean, comfortable, and skin-healthy.",
+    "meta_description": "Bullmastiff grooming guide: coat care, facial wrinkle cleaning, drool management, and bathing tips for this large working breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bullmastiff_edited2.jpg/330px-Bullmastiff_edited2.jpg",
+      "alt": "Bullmastiff grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Short, Dense, and Easy to Maintain",
+      "html": "<p>The Bullmastiff has a short, dense, flat-lying coat that requires minimal professional grooming. The coat sheds moderately year-round with slightly heavier shedding in spring and fall, but it does not produce the dramatic coat blows of double-coated spitz breeds. The short length means no matting, no trimming, and no need for professional grooming appointments beyond the occasional bath. For a breed this size, that is a significant practical advantage.</p><p>The main grooming challenge unique to the Bullmastiff is facial fold care. The deep wrinkles on the muzzle and around the eyes trap moisture, food particles, and bacteria. Without regular cleaning, these folds develop a characteristic unpleasant odor and can progress to painful skin fold dermatitis. This is a daily maintenance task, not a weekly one. Beyond the folds, standard large-breed care applies: weekly brushing, monthly baths, monthly nail trims, and regular ear and dental care.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Weekly Brushing and Daily Fold Care",
+      "html": "<p><strong>Brushing:</strong> Once a week with a rubber curry brush or bristle brush is sufficient outside of shedding seasons. The rubber curry brush is particularly effective — it loosens dead hair and stimulates skin circulation simultaneously. During heavier shedding periods, increase to 2–3 times per week and use a deshedding tool or shedding blade to pull out the loosening coat efficiently.</p><p><strong>Facial fold cleaning:</strong> This is the most important and most often neglected aspect of Bullmastiff grooming. Clean all facial folds daily with a soft cloth, cotton pad, or specialized pet facial wipe. Gently open each fold, wipe away moisture and debris, and allow the fold to dry — trapped moisture is the enemy. Some owners apply a small amount of cornstarch or commercial fold powder after cleaning to keep the area dry. If you notice redness, odor, or discharge that doesn't resolve with cleaning, consult your vet for appropriate treatment.</p><p><strong>Bathing:</strong> Every 4–6 weeks, or as needed. Use a gentle large-breed or sensitive-skin dog shampoo. The Bullmastiff's short coat rinses and dries quickly compared to double-coated breeds. Pay extra attention to rinsing between the skin folds, and make sure they are fully dried after the bath.</p><p><strong>Drool management:</strong> Not grooming per se, but an unavoidable Bullmastiff reality. Keep a drool cloth or hand towel accessible near feeding and drinking areas. After meals and water, the Bullmastiff produces significant saliva, and head-shaking distributes it across a surprisingly wide radius.</p><p><strong>Nails:</strong> Trim monthly. Large-breed nails are thick and require heavy-duty nail clippers or a grinder. If you can hear the nails clicking on hard floors, they are overdue.</p><p><strong>Ears:</strong> Check weekly. The pendant ears of the Bullmastiff can trap moisture and debris. Clean with a vet-approved ear solution when needed, and watch for signs of infection: odor, discharge, or head-shaking.</p><p><strong>Teeth:</strong> Brush several times per week. The Bullmastiff's shortened muzzle means teeth can be crowded, making dental disease more likely than in longer-muzzled breeds. Regular brushing and annual professional cleanings are important.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Wrinkles, Drool, and Heat Sensitivity",
+      "html": "<p><strong>Skin fold dermatitis:</strong> This is the most common skin issue in Bullmastiffs and is entirely preventable with consistent fold care. The first sign is usually a sour smell around the muzzle. Left untreated, the skin becomes red, raw, and painful, and may require veterinary treatment with topical or oral antibiotics. Establish a daily fold-cleaning habit from puppyhood so the dog accepts it as normal routine.</p><p><strong>Heat and brachycephalic considerations:</strong> The Bullmastiff has a shortened muzzle that restricts airflow somewhat, making the breed more susceptible to heat stroke than long-nosed breeds. Avoid grooming sessions or baths outdoors in hot weather. Never leave the dog in a car. Keep exercise to early morning or evening during summer.</p><p><strong>Puppies and early handling:</strong> Begin fold cleaning, ear handling, nail touching, and mouth examination from the very first day home. A Bullmastiff that has been handled extensively as a puppy will be dramatically easier to groom as a 120-pound adult. A Bullmastiff that learned to resist handling as a puppy is a significant physical challenge to manage during grooming.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often should I clean a Bullmastiff's facial folds?",
+      "a": "Daily. Facial fold cleaning is the most important maintenance task for this breed. Moisture and debris trapped in the folds cause skin fold dermatitis, which is painful and requires veterinary treatment if allowed to progress."
+    },
+    {
+      "q": "Do Bullmastiffs need professional grooming?",
+      "a": "Not regularly. The short coat requires no trimming or professional styling. An occasional professional bath and blowout can be convenient due to the dog's size, but it is not a necessity."
+    },
+    {
+      "q": "How do I manage Bullmastiff drool?",
+      "a": "Keep absorbent towels or drool cloths in the areas where the dog eats and drinks. Wipe the jowls after meals. This is simply a characteristic of the breed — there is no way to eliminate drooling, only manage it."
+    }
+  ]
+}

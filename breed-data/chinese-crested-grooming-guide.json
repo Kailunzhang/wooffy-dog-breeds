@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Chinese Crested Grooming Guide",
+    "slug": "chinese-crested-grooming-guide",
+    "shopify_handle": "chinese-crested-grooming-guide",
+    "group": "Chinese Crested",
+    "size_category": "Guide",
+    "tags": ["chinese-crested", "grooming"],
+    "published": true,
+    "published_at": "2026-04-29T16:00:00Z",
+    "excerpt": "The Chinese Crested's grooming needs differ dramatically between hairless and Powder Puff varieties. Hairless dogs need daily skin care and sunscreen; Powder Puffs need regular brushing. Both need dedicated dental care.",
+    "meta_description": "Chinese Crested grooming guide: skin care and sunscreen for hairless dogs, coat care for Powder Puffs, and dental hygiene for both varieties."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ChineseCresteddogs.jpg/330px-ChineseCresteddogs.jpg",
+      "alt": "Chinese Crested grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Two Varieties, Two Completely Different Care Routines",
+      "html": "<p>The Chinese Crested is unique among dog breeds in that its two varieties — Hairless and Powder Puff — require such radically different grooming approaches that they might as well be different breeds from a maintenance perspective. The <strong>Hairless</strong> variety's exposed skin is the primary care focus: it sunburns, dries out, develops acne, and requires daily moisturizing and sunscreen. The <strong>Powder Puff</strong> variety's long, soft double coat is the care focus: it tangles at the roots if not brushed regularly and benefits from periodic professional grooming.</p><p>Both varieties share one important health care priority: dental hygiene. The hairless variety's dental issues are genetic and significant; the Powder Puff's are less severe but still warrant consistent attention. Building a daily teeth-brushing habit is essential for both.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Daily Skin Care for Hairless, Regular Brushing for Powder Puff",
+      "html": "<p><strong>Hairless Variety — Skin Care:</strong></p><ul><li><strong>Daily moisturizing:</strong> Apply a light, fragrance-free, hypoallergenic moisturizer to the hairless skin once daily. Dog-specific products are available, but many owners use plain coconut oil or fragrance-free human lotions. Avoid products with alcohol or strong fragrances.</li><li><strong>Sunscreen:</strong> Apply a pet-safe sunscreen (zinc-free and fragrance-free) or a mineral SPF sunscreen to all hairless areas before any outdoor sun exposure. Reapply after swimming or prolonged outdoor time. Lightly pigmented skin burns extremely quickly.</li><li><strong>Bathing:</strong> Every 1–2 weeks with a gentle, moisturizing dog shampoo. Rinse thoroughly. Follow immediately with moisturizer while skin is still slightly damp to seal in hydration.</li><li><strong>Acne management:</strong> Many Chinese Cresteds develop acne-like blackheads on the skin, particularly on the trunk. Gentle cleansing with a soft cloth or mild cleanser designed for acne-prone dog skin can help. Avoid squeezing or picking at blackheads.</li><li><strong>Crest, socks, and plume:</strong> These hair portions should be brushed gently 2–3 times per week to prevent tangles. Use a small slicker brush or pin brush.</li></ul><p><strong>Powder Puff Variety — Coat Care:</strong></p><ul><li><strong>Brushing:</strong> 2–3 times per week with a pin brush or soft slicker brush. The coat is fine and tangles at the root without regular brushing — do not wait until tangles form. Work in sections, brushing down to the skin.</li><li><strong>Bathing:</strong> Every 2–4 weeks. Use a moisturizing dog shampoo. Blow dry on low heat; the fine coat benefits from being dried straight to prevent it from curling at the root.</li><li><strong>Professional grooming:</strong> Every 6–8 weeks for a trim to maintain a tidy appearance. The Powder Puff's coat can be kept long (show-style) or trimmed shorter for easier maintenance.</li></ul><p><strong>Dental care (both varieties):</strong> Brush teeth daily with canine toothpaste and a small toothbrush. Schedule professional cleanings once to twice yearly. This is the single most impactful thing you can do for the dental health of a Chinese Crested, particularly the hairless variety.</p><p><strong>Nails:</strong> Trim every 3–4 weeks. <strong>Ears:</strong> Check and clean weekly.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Cold Weather, Sun Protection, and Dental Vigilance",
+      "html": "<p><strong>Cold weather and the hairless Chinese Crested:</strong> The hairless variety has no coat insulation and gets cold quickly. In cool weather (below 60°F), a sweater or coat is needed for outdoor time. In cold winter weather, limit outdoor exposure and ensure the dog has warm indoor sleeping arrangements. A self-warming dog bed is an excellent investment for this variety.</p><p><strong>Sun protection is not optional:</strong> Hairless Chinese Cresteds can develop sunburn within minutes in direct summer sun, particularly on lighter-pigmented skin. Chronic unprotected sun exposure increases the risk of skin damage and potentially skin cancer. Apply sunscreen every time the dog goes outside in sunny conditions. Many hairless Crested owners keep a daily routine of applying sunscreen at the same time as their own morning routine.</p><p><strong>Skin breakouts:</strong> Some Chinese Cresteds are prone to skin irritation from certain food ingredients. If breakouts are frequent despite consistent cleaning, discuss potential food sensitivities with your vet.</p><p><strong>Dental monitoring:</strong> As hairless Chinese Cresteds age, tooth loss is common and expected. Monitoring the remaining teeth, maintaining good hygiene, and feeding appropriate food textures help the dog adapt comfortably as dental changes occur. A vet experienced with the breed will know what is expected versus what requires intervention.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "What sunscreen is safe for a Chinese Crested?",
+      "a": "Look for zinc-free, fragrance-free, and hypoallergenic options. Pet-specific sunscreens are safest. Some mineral sunscreens formulated for sensitive human skin are also acceptable. Avoid any sunscreen containing zinc oxide, which is toxic to dogs if ingested."
+    },
+    {
+      "q": "How do I prevent my hairless Chinese Crested from getting dry skin?",
+      "a": "Moisturize daily with a light, fragrance-free lotion or dog-specific skin conditioner. Avoid over-bathing (more than once a week can strip natural oils). Use a moisturizing shampoo when bathing. In dry winter climates, a humidifier in the dog's sleeping area can help."
+    },
+    {
+      "q": "Does the Powder Puff Chinese Crested need professional grooming?",
+      "a": "Not strictly necessary, but professional grooming every 6–8 weeks keeps the coat manageable. The main home requirement is regular brushing 2–3 times per week to prevent tangles — if this is maintained, the coat stays in good condition between professional visits."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Collie First Year Costs",
+    "slug": "collie-first-year-costs",
+    "shopify_handle": "collie-first-year-costs",
+    "group": "Collie",
+    "size_category": "Guide",
+    "tags": ["collie", "cost", "budget", "first-year", "MDR1", "CEA", "grooming"],
+    "published": true,
+    "published_at": "2026-04-21T16:00:00Z",
+    "excerpt": "Collie ownership costs $3,000–$6,500 in the first year. Professional grooming for the Rough Collie coat and MDR1 drug sensitivity management are breed-specific ongoing expenses.",
+    "meta_description": "Collie first year costs: puppy price, Rough Collie grooming budget, MDR1 and CEA documentation, vet bills, pet insurance, and lifetime cost estimates for this herding breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1Dog-rough-collie-portrait.jpg/330px-1Dog-rough-collie-portrait.jpg",
+      "alt": "Collie first year costs"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "What You'll Spend",
+      "heading": "Collie First-Year Cost Breakdown",
+      "html": "<p>Rough Collies are large dogs with notable grooming costs — professional grooming every 6–8 weeks is the realistic maintenance plan for most owners, making it an ongoing significant expense. Smooth Collies have minimal grooming costs. Both varieties share the same health risk profile: MDR1 drug sensitivity (common) and CEA eye disease (common). Both have DNA tests available and responsible breeders test both parents.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,000–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed kibble)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet care (routine + puppy vaccines)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming (Rough Collie)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (large crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$550</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Training (puppy class + obedience)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated First Year Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,400–$6,950</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,800–$3,300</td></tr></tbody></table>"
+    },
+    "care": {
+      "label": "Biggest Costs",
+      "heading": "Where Collie Ownership Gets Expensive",
+      "html": "<h3>Grooming: An Ongoing Significant Cost for Rough Collies</h3><p>Professional grooming for a Rough Collie costs $80–$150+ per session every 6–8 weeks — a realistic annual cost of $500–$1,200+. Owners who maintain daily home brushing can reduce professional appointment frequency, but most families find that the coat demands more consistent maintenance than they achieve without professional help. Budget grooming as a monthly recurring expense, not occasional.</p><h3>MDR1: A Safety and Cost Issue</h3><p>The MDR1 mutation affects up to 70% of Rough Collies. Affected dogs require alternative medications — certain common heartworm preventives containing ivermectin cannot be used, and anesthetic protocols must be adjusted. The cost is not dramatic if managed proactively (alternative medication choices cost similarly to standard ones), but an MDR1-affected dog that receives the wrong medication can incur large emergency veterinary costs. DNA testing and consistent vet communication about the mutation prevents this.</p><h3>CEA and Hip Dysplasia</h3><p>Collie Eye Anomaly is common in the breed (though mild CEA often has no vision impact). Hip dysplasia surgical treatment costs $3,500–$7,000 per hip in severe cases. OFA hip clearances and CEA DNA test results should be provided by responsible breeders. Pet insurance is the financial protection for surgical health events.</p>"
+    },
+    "special": {
+      "label": "Lifetime Budget",
+      "heading": "Estimating Lifetime Collie Costs",
+      "html": "<p>With a 12–14 year lifespan, Rough Collies have a notably higher lifetime cost than most dogs their size, primarily due to the professional grooming expense that continues throughout the dog's life.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, home grooming maintained</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$22,000–$38,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Regular professional grooming throughout life</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$30,000–$50,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming + orthopedic surgery</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$40,000–$65,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">Grooming costs alone add $6,000–$15,000+ to the lifetime total compared to short-coated breeds. This is a real cost that should be factored into ownership decisions, not underestimated as an occasional expense.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "What does a Rough Collie puppy cost from a reputable breeder?",
+      "a": "$1,000–$2,500 from breeders who test for CEA and MDR1 (both parents) and provide OFA hip clearances. CEA testing documents the degree of eye anomaly if present, and MDR1 testing is critical for medication safety in a breed where 70% may carry the mutation. Both tests should be provided as standard documentation."
+    },
+    {
+      "q": "How much does professional Rough Collie grooming cost per year?",
+      "a": "Typically $500–$1,200 per year, depending on location, coat condition, and session frequency. Sessions every 6–8 weeks for deshedding, bathing, and coat maintenance are typical. Maintaining regular home brushing between appointments reduces the work required at each session and keeps costs toward the lower end. A neglected, matted coat costs more to professionally de-mat."
+    },
+    {
+      "q": "Is the Smooth Collie significantly cheaper to own than the Rough?",
+      "a": "Yes — the Smooth Collie's short coat requires only weekly brushing and eliminates the professional grooming cost entirely. Food, vet, and insurance costs are identical to the Rough Collie. The grooming cost difference over a lifetime is $6,000–$15,000+ in favor of the Smooth variety. Both varieties have the same health risk profile (MDR1, CEA, hip dysplasia)."
+    }
+  ]
+}

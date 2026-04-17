@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "name": "Norfolk Terrier Grooming Guide",
+    "slug": "norfolk-terrier-grooming-guide",
+    "shopify_handle": "norfolk-terrier-grooming-guide",
+    "group": "Norfolk Terrier",
+    "size_category": "Guide",
+    "tags": ["norfolk-terrier", "grooming"],
+    "published": true,
+    "published_at": "2026-05-01T16:00:00Z",
+    "excerpt": "The Norfolk Terrier's hard, wiry coat is low-shedding but needs regular brushing and periodic stripping or trimming to stay healthy. This guide covers everything from weekly brushing to hand-stripping techniques.",
+    "meta_description": "Norfolk Terrier grooming guide: wiry coat care, hand-stripping vs clipping, brushing schedule, and coat maintenance tips for pet and show dogs."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Norfolk_terrier_CAC.jpg/330px-Norfolk_terrier_CAC.jpg",
+      "alt": "Norfolk Terrier grooming"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "The Norfolk Terrier's Wiry, Weather-Resistant Coat",
+      "html": "<p>The Norfolk Terrier has a hard, wiry, straight outer coat that lies close to the body and provides natural weather resistance. The undercoat is soft and dense. The coat comes in red, wheaten, black and tan, or grizzle. Unlike many breeds, the Norfolk's wiry coat does not shed heavily — dead hair tends to stay in the coat rather than falling out, which means regular grooming is needed to remove it.</p><p>The correct coat texture — hard and wiry — is maintained through hand-stripping in show dogs. Clipping softens the coat over time, changing the texture from harsh to soft and often fading the color. For pet dogs, this is largely cosmetic and acceptable, but for show exhibitors, hand-stripping is essential.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Brushing, Stripping, and Professional Maintenance",
+      "html": "<p><strong>Weekly Brushing:</strong> Use a slicker brush or a pin brush once or twice a week to remove loose hair and debris, followed by a metal comb to check for tangles. The coat should feel rough and springy, not soft or cottony — if it feels soft, the coat is likely ready for stripping.</p><p><strong>Hand-Stripping (Show Dogs):</strong> Hand-stripping involves plucking the dead outer coat by pulling it in the direction of growth with fingers and a stripping knife. This preserves coat texture and color. Full stripping for show is typically done every 6–8 months, with rolling strip maintenance in between. Learning to hand-strip requires practice — consider attending a terrier grooming workshop or working with a mentor groomer.</p><p><strong>Clipping (Pet Dogs):</strong> If hand-stripping is not a priority, professional clipping every 8–12 weeks keeps the coat tidy. A groomer experienced with wire-coated terriers will know how to scissor the coat to maintain a clean terrier outline. Bathing before clipping helps achieve a cleaner cut.</p><p><strong>Ear Care:</strong> The Norfolk's drop ears can trap moisture and debris. Check weekly and clean with a vet-approved ear solution. Excess hair inside the ear canal can be gently pulled or trimmed to improve airflow and reduce infection risk.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Drop Ears and Coat Color",
+      "html": "<p><strong>Drop Ear Maintenance:</strong> The Norfolk's folded ears require more attention than the Norwich's upright ears. Moisture and warmth can accumulate, creating conditions favorable for yeast or bacterial infections. Regular checks and cleaning are important preventive care.</p><p><strong>Coat Color and Stripping:</strong> Hand-stripping not only maintains coat texture but also preserves color depth. Black-and-tan and red Norfolks often develop richer, more vibrant coloring when the coat is stripped rather than clipped. Pet dogs that are clipped may fade to a more muted color over successive groomings.</p><p><strong>Puppy Coat Transition:</strong> Norfolk Terrier puppies have a softer coat that transitions to the adult wiry texture by 12–18 months. Introduce grooming handling during puppyhood to make the adult grooming process much easier.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Do I need to hand-strip my Norfolk Terrier?",
+      "a": "Only if you show your dog. For pets, clipping by a groomer every 8–12 weeks is completely acceptable. It will soften the coat texture over time, but this has no health impact — it's purely a cosmetic difference."
+    },
+    {
+      "q": "How often should a Norfolk Terrier be groomed professionally?",
+      "a": "Every 8–12 weeks for a trim or clip, supplemented by weekly home brushing. Show dogs on a hand-stripping schedule need rolling maintenance more frequently."
+    }
+  ]
+}

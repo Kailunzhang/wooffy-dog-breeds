@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "name": "Spanish Water Dog Grooming Guide",
+    "slug": "spanish-water-dog-grooming-guide",
+    "shopify_handle": "spanish-water-dog-grooming-guide",
+    "group": "Spanish Water Dog",
+    "size_category": "Guide",
+    "tags": ["spanish-water-dog", "grooming", "corded-coat", "curly-coat", "no-brush"],
+    "published": true,
+    "published_at": "2026-05-05T16:00:00Z",
+    "excerpt": "The Spanish Water Dog coat is maintained in one of two ways: corded or clipped short. It should never be brushed. Understanding why — and how to maintain each option — is the most important grooming knowledge for this breed.",
+    "meta_description": "Spanish Water Dog grooming guide: why you never brush this coat, how to maintain natural cords, when and how to clip, bathing a curly single coat, and ear care for a water-retrieving breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Perro_agua_%28cropped%29.jpg/330px-Perro_agua_%28cropped%29.jpg",
+      "alt": "Spanish Water Dog grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Spanish Water Dog Coat",
+      "heading": "Understanding the Coat — and Why Brushing Destroys It",
+      "html": "<p>The Spanish Water Dog has a single-layer curly coat — meaning there is no undercoat. This is fundamentally different from double-coated breeds like the Labrador or Akita. The curly single coat is designed to cord naturally over time, forming tight ropelike locks similar to (but distinct from) the Puli or Komondor. This structure provides protection from water, brambles, and weather without an insulating undercoat.</p><p><strong>Why you must never brush this coat:</strong> Brushing breaks apart the natural curl structure, creating frizz and permanently altering the texture. It prevents cord formation and destroys the coat's natural weatherproofing. Once a Spanish Water Dog's coat has been brushed extensively, restoring it to a proper corded state is essentially impossible — you'd need to clip it down and start fresh. This is not a grooming preference; it is a fundamental breed management requirement.</p><h3>Two Correct Approaches</h3><ul><li><strong>Corded coat:</strong> Allow the coat to cord naturally. This is the traditional presentation and the coat's intended state.</li><li><strong>Clipped coat:</strong> Clip the coat uniformly short every 2–3 months. This is fully acceptable and practical, especially for active dogs that swim frequently.</li></ul><p>What is never correct: leaving the coat long and brushing it out, blow-drying it fluffy, or attempting to maintain it as a loose, unbrushed curl. The coat is cords or clip — nothing else.</p>"
+    },
+
+    "care": {
+      "label": "Maintaining the Coat",
+      "heading": "Corded and Clipped Maintenance in Practice",
+      "html": "<h3>Maintaining a Corded Coat</h3><p>Cords do not form on their own without attention — they require periodic manual separation to prevent the entire coat from matting into one solid mass.</p><ul><li>As the coat grows (typically from about 3–4 inches onward), begin checking for cords beginning to fuse at the base. Use your fingers to separate them — no tools, just hands.</li><li>Part the coat down to the skin regularly to check for any areas where separate cords have started to join. Early separation is easy; catching fused cords late means cutting them apart or clipping that section.</li><li>Cords on the ears and around the face require especially frequent checking — these areas mat more readily due to moisture and friction.</li><li>A fully corded adult coat is relatively low maintenance once established — individual cords don't tangle with each other. Getting to that point takes 1–2 years of careful management.</li><li>Bathing a corded coat requires patience. Soak thoroughly, apply a diluted dog shampoo, work through the cords gently, rinse completely, and allow to air dry or use a low-heat dryer. Cords hold moisture — drying can take several hours. Incomplete drying risks mildew smell and skin irritation.</li></ul><h3>Maintaining a Clipped Coat</h3><p>Many Spanish Water Dog owners choose to keep the coat clipped, particularly working dogs and those that swim regularly.</p><ul><li>Clip every 2–3 months, or when the coat reaches 2–3 inches in length. Beyond this, the coat begins to form cords or mat.</li><li>Clip to a uniform length of approximately 1–1.5 inches all over. Do not shape or sculpt — the breed standard calls for an even clip, not a styled appearance.</li><li>After clipping, the coat can be bathed normally. Dry thoroughly.</li><li>The regrowth period between clips is essentially maintenance-free — no brushing needed, and short coat does not trap debris or form mats.</li></ul><h3>Bathing Frequency</h3><p>Every 4–8 weeks for a clipped dog; less frequently for a corded dog due to the time required to dry cords completely. Water dogs that swim regularly may be rinsed after swims to remove chlorine, salt, or algae — but full baths less frequently.</p>"
+    },
+
+    "special": {
+      "label": "Ear Care and Other Grooming",
+      "heading": "Ear Care, Nails, and Handling",
+      "html": "<h3>Ear Care — A Priority for Water Dogs</h3><p>Pendant ears plus regular water exposure create ideal conditions for ear infections in the Spanish Water Dog. After every swim or bath, check the ears and gently dry the ear canal entrance with a cotton ball. Do not probe deeply into the ear canal.</p><ul><li>Check ears weekly for odor, redness, discharge, or excessive wax. Any of these signs warrant a vet check — ear infections require medication, not just cleaning.</li><li>If the dog swims frequently, ask your vet about a routine ear-drying solution appropriate for use after water exposure.</li><li>Hair inside the ear canal can trap moisture. If your vet identifies this as a recurring issue, they can advise on whether plucking is appropriate for your individual dog.</li></ul><h3>Nail Trimming</h3><p>Trim every 3–4 weeks. Active dogs that work on varied terrain may wear nails naturally, but most household dogs need regular trimming. Overgrown nails affect gait and joint comfort over time. If you hear nails clicking on hard floors, they're too long.</p><h3>Teeth Cleaning</h3><p>Brush teeth 2–3 times per week with dog-safe toothpaste. Dental disease is the most common preventable health issue in domestic dogs. Dental chews and water additives supplement but do not replace brushing.</p><h3>Getting the Dog Comfortable With Handling</h3><p>Start handling every part of the puppy's body from day one — paws, ears, mouth, belly, tail. A Spanish Water Dog that has been handled consistently from puppyhood accepts ear checks, nail trims, and coat work calmly. An adult that hasn't been habituated to handling will require patient counter-conditioning before grooming becomes routine.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "What happens if I brush a Spanish Water Dog's coat?",
+      "a": "Brushing permanently damages the coat texture, creating frizz and destroying the curls that enable natural cord formation. Once significantly brushed out, the coat cannot be restored to a proper corded state without clipping it down completely and starting over. This is why the no-brush rule is non-negotiable for the breed — it's not a preference, it's the physical reality of how this coat type works."
+    },
+    {
+      "q": "How long does it take for a Spanish Water Dog to develop full cords?",
+      "a": "Full, mature cords typically take 18 months to 2 years to develop from a puppy coat. The early stages (3–12 months) require the most active management — regularly separating forming cords by hand to prevent them from fusing into mats. Once mature cords are established, maintenance becomes less intensive, though regular checks for cord separation at the base remain important."
+    },
+    {
+      "q": "Can I have my Spanish Water Dog groomed professionally?",
+      "a": "Yes, but only with a groomer who understands this coat type explicitly. Before any appointment, confirm that the groomer knows not to brush the coat and is experienced with either corded coats or uniform clipping. A groomer who brushes out a Spanish Water Dog's coat — even with good intentions — causes permanent damage. When in doubt, clip it yourself or have the breeder recommend a specialist."
+    },
+    {
+      "q": "How do I dry a corded coat after swimming?",
+      "a": "Squeeze excess water from the cords gently (do not wring or twist), then allow to air dry in a warm, well-ventilated area. For full baths, a low-heat dryer directed down the length of the cords speeds the process significantly. Cords must be fully dry to the skin — damp cords against the skin create conditions for hot spots and an unpleasant mildew smell. Drying a fully corded coat can take 2–4 hours."
+    }
+  ]
+}

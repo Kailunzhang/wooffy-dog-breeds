@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Italian Greyhound",
+    "shopify_handle": "italian-greyhound-grooming-guide",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-18T16:00:00Z",
+    "name": "Italian Greyhound Grooming Guide: Coat Care and Dental Health",
+    "slug": "italian-greyhound-grooming-guide",
+    "excerpt": "How to care for an Italian Greyhound — minimal coat maintenance, but daily dental care is the most important grooming task for this breed's long-term health.",
+    "meta_description": "How to care for an Italian Greyhound — minimal coat maintenance, but daily dental care is the most important grooming task for this breed's long-term health.",
+    "tags": [
+      "Italian Greyhound",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Italian_Greyhound_standing_gray_%28cropped%29.jpg/330px-Italian_Greyhound_standing_gray_%28cropped%29.jpg",
+      "alt": "Italian Greyhound"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "The Coat",
+      "heading": "The Italian Greyhound's Minimal Coat — and What Actually Matters Most",
+      "html": "<p>The Italian Greyhound has a fine, single-layer, extremely short coat. It provides virtually no insulation and requires essentially no grooming effort — no brushing, no professional trimming, no deshedding. From a coat perspective, this is the lowest-maintenance breed you can own.</p><p>What <em>does</em> require intensive and consistent effort is dental care. Italian Greyhounds have severe dental health issues as a breed — crowded small mouths, early tartar buildup, early tooth loss. Dental disease is not a cosmetic concern in this breed; it causes pain, infection, and organ damage if neglected. <strong>Daily tooth brushing from puppyhood</strong> is the most important single grooming task you will perform for your Italian Greyhound's health and longevity.</p><h3>Basic Grooming Schedule</h3><ul><li><strong>Coat:</strong> Wipe-down with a soft damp cloth or chamois weekly — takes 2 minutes</li><li><strong>Teeth brushing:</strong> Daily — non-negotiable for this breed</li><li><strong>Nail trimming:</strong> Every 2–3 weeks (nails grow fast on this fine-boned breed)</li><li><strong>Ear cleaning:</strong> Monthly or when visibly dirty</li><li><strong>Bathing:</strong> Every 4–6 weeks as needed</li></ul>"
+    },
+    "care": {
+      "label": "Dental Care",
+      "heading": "Daily Tooth Brushing: The Most Important Thing You Do",
+      "html": "<h3>Why Italian Greyhounds Have Such Bad Teeth</h3><p>Small and toy breeds are genetically predisposed to dental disease, and Italian Greyhounds are among the worst affected. Their mouths are small relative to the number of teeth — this crowding accelerates tartar buildup, gum disease, and tooth loss. Many Italian Greyhounds have lost multiple teeth by middle age if dental care has been inconsistent. The bacteria from periodontal disease enter the bloodstream and have been linked to kidney, liver, and heart disease.</p><h3>How to Brush an Italian Greyhound's Teeth</h3><p>Use a finger brush or a small soft dog toothbrush with dog-formulated enzymatic toothpaste. Never use human toothpaste — it contains fluoride, which is toxic to dogs. Focus on the outer surfaces of the back teeth, where tartar builds up fastest. A 60-second brushing session covers the whole mouth. Do this every single day starting in puppyhood. Dogs habituated to tooth brushing as puppies accept it readily; dogs introduced to it as adults often resist.</p><h3>Professional Dental Cleanings</h3><p>Even with daily brushing, most Italian Greyhounds will need professional dental cleanings under anesthesia starting at 2–4 years of age. Budget $300–$600 per cleaning, and expect to need them annually or every 18 months. This is not optional — it is basic health maintenance for this breed.</p>"
+    },
+    "special": {
+      "label": "Cold Weather and Skin",
+      "heading": "Clothing and Cold Weather Management",
+      "html": "<h3>Italian Greyhounds Are Not Cold-Hardy</h3><p>The fine single-layer coat that makes grooming easy makes the Italian Greyhound genuinely cold-sensitive. At temperatures below 50°F (10°C), most Italian Greyhounds benefit from a fitted dog coat for outdoor excursions. Below 40°F (4°C), winter walks should be brief unless the dog is in a proper cold-weather garment. This is not excessive — it is appropriate care for a dog built for warmer Mediterranean climates. Many IG owners have a collection of coats and sweaters for different temperatures, and the dogs genuinely need them.</p><h3>Paw Care in Winter</h3><p>If you walk your Italian Greyhound on salted pavements in winter, rinse and dry the paws after each walk. Salt irritates the skin and can cause chemical burns on the thin, sensitive skin of fine-boned breeds. Dog boots are an option for very cold climates, though many IGs require patience to accept them.</p><h3>Sun Sensitivity</h3><p>The thin coat and often light-pigmented skin of Italian Greyhounds means some dogs are at elevated risk for sunburn on areas with little hair coverage (particularly the bridge of the nose and the back). Dog-safe sunscreen is available for extended outdoor sun exposure in summer.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Do Italian Greyhounds need professional grooming?",
+      "a": "Not for the coat — it requires essentially no grooming effort. However, they do need regular professional dental cleanings under anesthesia (typically every 1–2 years starting around age 2–4). From a coat perspective, this is one of the most low-maintenance breeds, but dental care makes up for it in time and expense."
+    },
+    {
+      "q": "How important is dental care for Italian Greyhounds?",
+      "a": "Critically important. Italian Greyhounds are among the breeds most prone to severe dental disease. Daily tooth brushing from puppyhood, combined with regular professional dental cleanings under anesthesia, are not optional extras — they are essential preventive health care. Neglected dental disease leads to chronic pain, tooth loss, and systemic health effects."
+    },
+    {
+      "q": "Do Italian Greyhounds really need to wear clothing?",
+      "a": "Yes, in cold weather. With a single-layer coat that provides essentially no insulation, Italian Greyhounds are genuinely cold-sensitive below about 50°F (10°C). A fitted dog coat for outdoor excursions in cool and cold weather is appropriate care for this breed, not a fashion choice. Most Italian Greyhound owners keep several coats on hand for different weather conditions."
+    }
+  ]
+}

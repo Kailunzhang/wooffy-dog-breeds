@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "English Cocker Spaniel Grooming Guide",
+    "slug": "english-cocker-spaniel-grooming-guide",
+    "shopify_handle": "english-cocker-spaniel-grooming-guide",
+    "group": "English Cocker Spaniel",
+    "size_category": "Guide",
+    "tags": ["english-cocker-spaniel", "grooming", "silky-coat", "ear-cleaning", "feathering"],
+    "published": true,
+    "published_at": "2026-04-22T16:00:00Z",
+    "excerpt": "The English Cocker Spaniel's silky coat requires weekly brushing and professional grooming every 6–8 weeks to stay tidy. Ear cleaning is the most critical maintenance task — the long, floppy ears trap moisture and debris, making weekly cleaning non-optional.",
+    "meta_description": "English Cocker Spaniel grooming guide: maintaining the silky coat, essential weekly ear cleaning, managing feathering, professional grooming schedule, and the full care routine for this breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%22Bill%22_-_Cocker_spaniel_anglais_2.JPG/250px-%22Bill%22_-_Cocker_spaniel_anglais_2.JPG",
+      "alt": "English Cocker Spaniel grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Cocker Coat",
+      "heading": "Understanding the English Cocker Spaniel Coat",
+      "html": "<p>The English Cocker Spaniel has a silky, flat or slightly wavy coat with moderate length on the body and longer, feathered furnishings on the ears, chest, belly, and legs. The coat is less dense and thick than American Cocker Spaniels — it is designed for field work in British conditions, practical rather than profuse.</p><p>The coat requires consistent maintenance. Without weekly attention, the feathering tangles and the ear hair — combined with the ear's floppy conformation — creates an environment where moisture and debris accumulate. This is how ear infections start. Grooming the English Cocker is not primarily about aesthetics; it is primarily about ear health.</p><h3>Grooming Tools You'll Need</h3><ul><li>Slicker brush — for the body coat</li><li>Pin brush — for the feathered furnishings</li><li>Wide-tooth metal comb — essential for checking feathering for tangles</li><li>Ear cleaning solution (veterinary-approved) and cotton balls</li><li>Scissors or thinning shears — for trimming around the ears and feet</li><li>Dog-safe shampoo and conditioner</li><li>Nail clippers or grinder</li></ul><h3>Shedding Reality</h3><p>English Cocker Spaniels shed moderately. The silky coat doesn't release hair in large clumps, but consistent hair on clothing and furniture is normal. Regular brushing reduces the amount of shed hair in the environment significantly.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush the body coat and feathering with a slicker brush, then follow with a pin brush through the furnishings</li><li>Run a metal comb through all feathered areas — ears, chest, belly, legs — to detect and work out any tangles before they become mats</li><li>Clean both ears thoroughly — this is non-optional for this breed; see the ear section below</li><li>Check paw pads and between the toes for debris, matting, and interdigital issues</li><li>Check the skin under and around the ear leather for redness or odor</li></ul><h3>Professional Grooming</h3><p>English Cocker Spaniels require professional grooming every 6–8 weeks to maintain a tidy, manageable coat. The groomer will trim around the head, ears, and feet; thin out excess feathering; and bathe and dry the coat. Unlike some breeds, Cocker coats are not typically clipped to a uniform short length — the goal is to maintain the natural silky coat with neat feathering. Find a groomer experienced with spaniels; the ear trimming in particular requires knowledge of the breed standard.</p><h3>Ear Hair Management</h3><p>The hair inside the ear canal and on the inner ear leather needs to be kept trimmed to allow adequate air circulation. This is part of every professional grooming session. Between professional visits, do not allow the inner ear hair to grow unchecked — this reduces airflow and increases moisture retention.</p>"
+    },
+    "special": {
+      "label": "Ear Care",
+      "heading": "Ear Cleaning — The Most Critical Maintenance Task",
+      "html": "<p>English Cocker Spaniel ear infections are one of the most common health issues in the breed. The long, floppy ears press against the head, trapping moisture and limiting airflow. Hair in the ear canal provides additional surface area for bacteria and yeast to colonize. Weekly cleaning is the standard maintenance schedule — not every few weeks, not when you remember.</p><h3>How to Clean the Ears</h3><p>Apply veterinary ear cleaning solution generously into the ear canal. Massage the base of the ear for 30 seconds to loosen debris. Let the dog shake its head, then use cotton balls to wipe the visible ear canal and the inner ear leather. Do not insert cotton swabs into the ear canal. The process takes 2–3 minutes per ear done correctly.</p><h3>After Water Exposure</h3><p>After swimming, bathing, or any significant water exposure, dry the ears and clean them immediately. Moisture sitting in a Cocker's ear canal is the fastest path to a recurring infection. Make post-water ear drying and cleaning a habit from puppyhood.</p><h3>Recognizing Infection</h3><p>Head shaking, pawing at the ears, odor, redness, dark discharge, or swelling indicate an ear infection requiring veterinary treatment. Ear infections left untreated become chronic — each infection weakens the ear's defenses, making the next infection more likely and harder to clear. A culture and sensitivity test identifies the specific organism and the correct antibiotic or antifungal, rather than cycling through empirical treatments.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does an English Cocker Spaniel need professional grooming?",
+      "a": "Every 6–8 weeks is the standard schedule for maintaining a tidy, manageable coat. At each session, the groomer should trim around the head, ears, and feet, thin out excess feathering, and bathe and dry the coat. Between professional visits, weekly home brushing and ear cleaning maintains the coat and prevents mat and infection development."
+    },
+    {
+      "q": "Can I manage an English Cocker Spaniel's coat entirely at home?",
+      "a": "Many owners do — with the right tools and commitment to the schedule. You'll need to learn basic spaniel trimming technique for the ears, feet, and feathering. The ear cleaning is fully manageable at home and must be done weekly regardless. If you're maintaining the coat at home, plan for weekly brushing sessions of 20–30 minutes and establish the trimming routine every 6–8 weeks."
+    },
+    {
+      "q": "My Cocker's ears smell even after cleaning. What does this mean?",
+      "a": "Persistent odor after cleaning typically indicates an active infection, not just accumulated debris. Cleaning removes surface debris; it does not treat an infection. Have the ear examined by a veterinarian — a swab and microscopy identifies whether bacteria or yeast are present and guides the correct treatment. Attempting to clean your way through an active infection delays treatment and allows the infection to worsen."
+    }
+  ]
+}

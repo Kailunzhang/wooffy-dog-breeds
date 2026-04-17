@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "name": "Ibizan Hound",
+    "slug": "ibizan-hound",
+    "shopify_handle": "ibizan-hound",
+    "group": "Hound Group",
+    "size_category": "Large Breed",
+    "tagline": "An ancient Mediterranean sighthound with large bat-like ears, athletic elegance, and the ability to clear a 5-foot fence from a standing start. Sensitive, friendly, and absolutely cannot be trusted off-leash.",
+    "tags": ["hound-group", "large-breed", "sighthound", "athletic", "rare-breed", "mediterranean-breed", "dog-breeds"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "Ibizan Hounds are athletic, elegant sighthounds from the Balearic Islands — friendly, sensitive, and capable of jumping extraordinary heights. Fencing must be at least 6 feet. They are sensitive to anesthesia (sighthound protocol required at every vet procedure), sensitive to cold, and gentle enough for first-time owners who do the research.",
+    "meta_description": "Ibizan Hound breed guide: the 5-foot standing jump, anesthesia sensitivity, sighthound off-leash rule, coat varieties, sensitivity to cold, and what elegant athletic independence looks like at home."
+  },
+
+  "stats": {
+    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
+    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "45–50 lbs" },
+    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "11–14 yrs" },
+    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "Sprint + rest" },
+    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low–Moderate" },
+    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate–Challenging" },
+    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Gentle, good" },
+    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With research" }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Podenco_z_ibizy_645.jpg/250px-Podenco_z_ibizy_645.jpg",
+      "alt": "Ibizan Hound"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is an Ibizan Hound?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Ibizan Hound is an ancient hunting breed from the Balearic Islands of Spain — most notably Ibiza — where they were used to hunt rabbits on rocky terrain. Images closely resembling the Ibizan Hound appear in ancient Egyptian art, suggesting the breed type has existed for thousands of years. They hunt using sight, scent, and hearing — a combination that makes them unusually versatile among sighthound breeds.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The physical signature of the breed is the large, erect bat-like ears that stand upright on a lean, elegant head. The body is athletic and slender — built for speed and agility over rocky terrain. They come in two coat varieties: smooth (short and close) and wire (rough and slightly longer).</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The jumping ability deserves specific attention before you get one. Ibizan Hounds are capable of clearing a 5-foot fence from a standing position — no running start required. Six-foot fencing is the correct standard. Underground fencing is not effective for this breed.</p>"
+    },
+
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Ibizan Hounds Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Tall and lean — 45–50 lbs, standing 22.5–27.5 inches. The classic sighthound profile: deep chest, tucked abdomen, long neck, lean head. The most distinctive feature is the large, upright, slightly bat-like ears that are highly mobile and expressive. The eyes are amber to light caramel — another distinctive feature alongside the amber nose rather than the black nose seen in most breeds.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Coloring is white and red in various combinations (red can range from light yellow to deep chestnut). The smooth coat variety has a short, glossy coat; the wire variety has a harsher, slightly rougher coat. Both are low-shedding. The overall impression is of extreme elegance and athletic efficiency.</p>"
+    },
+
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Friendly and affectionate with their family — less aloof than the Greyhound or Saluki and more openly social. Ibizan Hounds tend to be playful, curious, and engaged with the people they know. They are sensitive to tone of voice and household atmosphere. A calm, positive home suits them well; harsh handling or a chaotic environment produces anxiety.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With strangers they can be reserved initially, warming with time and familiarity. With children they are generally gentle and patient. With other dogs, most Ibizans do well — they are not dominant or aggressive. With cats and small animals, the prey drive applies: safe in a household where they were raised with the cat from puppyhood, but not reliable with unfamiliar small animals.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The sighthound foundation: all the same off-leash rules apply. They will chase, and at full speed (35+ mph) they will not come back. Never off-leash outside a secure fence. This is a non-negotiable management requirement for the entire life of the dog.</p>"
+    },
+
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About an Ibizan Hound",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Ibizan Hounds are more approachable than many sighthound breeds — more interactive and less aloof than a Greyhound or Borzoi, which makes them a viable option for first-time sighthound owners who do their research. They are gentle and sensitive dogs that respond very well to patient, positive training. The independent streak is less pronounced than in some other sighthound breeds.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The three things to absolutely know before getting one: the fence height (6 feet, no gaps, no climbing opportunities), the cold sensitivity (they do not have the insulating coat to handle cold weather — a dog coat for winter walks is not optional), and the anesthesia sensitivity (every vet, every procedure, must know they are treating a sighthound).</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They are relatively healthy and long-lived for a large breed — 11–14 years with no dominant breed-specific conditions. That's a significant quality of life advantage over breeds of similar size with known cardiac or cancer risks.</p>"
+    },
+
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Sighthound exercise pattern: sprint + rest. They need opportunity for full-speed running in a secure area — a large, 6-foot-fenced yard or dog park without escape routes. Regular daily walks plus sprint sessions a few times per week meets their needs. They are not constant-motion dogs indoors and can be calm apartment dogs IF the sprint sessions are provided outside.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Smooth coat: weekly rubber mitt or hound glove wipe — minimal maintenance, low shedding. Wire coat: occasional brushing or hand-stripping to tidy the harsher outer coat. Neither coat type requires extensive grooming. See the <a href=\"/blogs/dog-breeds/ibizan-hound-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Ibizan Hound grooming guide</a> for both coat varieties.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Sensitive and responds well to positive reinforcement. They do not tolerate harsh handling — it creates anxiety and shuts them down. Short, positive sessions with high-value rewards work well. The sighthound independence means outdoor recall is never fully reliable outside a fence, but their relative trainability compared to some sighthounds makes basic obedience and leash manners very achievable.</p>"
+    },
+
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Ibizan Hounds are a relatively healthy breed with an 11–14 year lifespan. No dominant breed-specific conditions are common. The critical health note for all procedures is anesthesia sensitivity — a sighthound characteristic, not a disease.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Anesthesia Sensitivity</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Sighthounds have low body fat and different liver enzyme activity, causing them to metabolize certain anesthetic drugs differently. Standard doses that are safe in other breeds can be dangerous. Every vet, every procedure — including dental cleanings — must know your dog is a sighthound. This is not negotiable and not a one-time conversation.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Axonal Dystrophy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">A rare inherited neurological condition present in some Ibizan Hound lines. Causes progressive loss of coordination. No DNA test is currently available; awareness of bloodline history is the current screening approach.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Lower incidence than heavier breeds, but OFA screening is available. Ask breeders for clearances.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip clearances and CAER eye exam. Most importantly: ensure your regular vet has sighthound anesthesia protocols on file before any procedure.</p>"
+    },
+
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,200–$2,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$550</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, bed, dog coat for cold weather)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$550</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,700–$4,750</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,400–$2,500</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/ibizan-hound-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Ibizan Hound first-year cost breakdown</a>.</p>"
+    },
+
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is an Ibizan Hound Right for You?",
+      "good_fit": [
+        "Active households with a 6-foot-fenced yard — mandatory for this jumping breed",
+        "Owners who want a sighthound with a more interactive, less aloof personality",
+        "Households in warmer climates or prepared to manage cold-weather sensitivity with coats",
+        "People who prefer a low-shedding, low-grooming breed in a large, athletic package",
+        "Families who can commit to the anesthesia sensitivity protocol for every procedure"
+      ],
+      "not_fit": [
+        "Anyone without 6-foot secure fencing — a 5-foot fence is not enough for this breed",
+        "Cold-climate households not prepared for a dog that needs a coat in winter",
+        "Owners expecting off-leash reliability outside a fence",
+        "Households with cats or small animals the dog was not raised with",
+        "Anyone whose vet is unfamiliar with sighthound anesthesia protocols and unwilling to learn"
+      ]
+    },
+
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Ibizan Hound",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,200–$2,000 from reputable breeders. The Ibizan Hound Club of the United States maintains a breeder directory. Ask for OFA hip clearances and CAER eye exam documentation. Inquire about bloodline history regarding axonal dystrophy.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Ibizan Hound rescue organizations exist but have limited availability. General sighthound rescue organizations occasionally have Ibizans.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Ibizan Hound comes home, complete the <a href=\"/blogs/dog-breeds/ibizan-hound-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Ibizan Hound puppy checklist</a> — fence audit, vet sighthound protocol communication, and cold-weather gear are the three pre-arrival priorities.</p>"
+    }
+  },
+
+  "faq": [
+    { "q": "Can an Ibizan Hound really jump a 5-foot fence?", "a": "Yes — from a standing position. The Ibizan Hound is an exceptional jumper, capable of clearing 5+ feet vertically without a running start. Six-foot fencing is the correct minimum standard. Underground or invisible fencing is not effective because the prey drive overrides the correction stimulus. The only containment that works is a physical fence at the correct height with no climbing aids nearby." },
+    { "q": "Are Ibizan Hounds good with children?", "a": "Generally yes — they are gentle and patient by sighthound standards, less reserved than Greyhounds or Salukis, and tolerant of children who interact calmly. They are sensitive dogs and don't do well with rough, chaotic handling, so young children who don't yet understand dog body language require supervision. With children who treat them gently, Ibizans tend to be excellent companions." },
+    { "q": "What is anesthesia sensitivity in Ibizan Hounds?", "a": "All sighthounds, including Ibizan Hounds, have very low body fat and different liver enzyme activity that affects how they process barbiturate-based and some other anesthetic drugs. Doses safe for other breeds can be dangerous for sighthounds, causing extended unconsciousness or cardiac complications. Your vet must know your dog is a sighthound before any anesthetic procedure — including dental cleanings. Confirm this at every visit, not just the first." }
+  ],
+
+  "related_breeds": [
+    {"name": "Greyhound", "slug": "greyhound", "note": "Classic sighthound — more aloof, longer-legged, retired racer adoption common"},
+    {"name": "Whippet", "slug": "whippet", "note": "Smaller sighthound, similar sprint-and-rest lifestyle, gentle and apartment-friendly"},
+    {"name": "Pharaoh Hound", "slug": "pharaoh-hound", "note": "Related Mediterranean sighthound type, similar elegant build and ear shape"},
+    {"name": "Saluki", "slug": "saluki", "note": "Ancient Middle Eastern sighthound, elegant and independent, silky coat"}
+  ]
+}

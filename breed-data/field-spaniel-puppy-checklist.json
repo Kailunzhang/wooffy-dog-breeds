@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Field Spaniel Puppy Checklist",
+    "slug": "field-spaniel-puppy-checklist",
+    "shopify_handle": "field-spaniel-puppy-checklist",
+    "group": "Field Spaniel",
+    "size_category": "Guide",
+    "tags": ["field-spaniel", "puppy", "checklist", "PRA", "eye-health", "ear-cleaning"],
+    "published": true,
+    "published_at": "2026-04-23T16:00:00Z",
+    "excerpt": "Before your Field Spaniel comes home: PRA DNA test and ophthalmology exam documentation from both parents, insurance active before the first vet visit, and a groomer experienced with spaniel coats identified before the first trim.",
+    "meta_description": "Field Spaniel puppy checklist: PRA DNA test and eye health documentation, insurance timing, ear cleaning from day one, socialization priorities, and first vet visit items for this rare spaniel."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Field_spaniel_581.jpg/250px-Field_spaniel_581.jpg",
+      "alt": "Field Spaniel puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Field Spaniel Puppy Prep: Eye Health Documentation and Insurance",
+      "html": "<p>Before your Field Spaniel puppy arrives, confirm PRA DNA test and CAER ophthalmology exam documentation from both parents, and enroll in pet insurance before the first vet visit. Eye health is the primary breed-specific concern — PRA causes progressive blindness, and ectropion/entropion may require surgical correction. Insurance active before the first vet visit preserves full coverage for these conditions if they develop.</p><h3>Health Documentation to Confirm Before Purchase</h3><ul><li>PRA DNA test — both parents clear; this eliminates progressive retinal atrophy from DNA-tested parents</li><li>CAER ophthalmology exam — annual eye exams for breeding dogs; confirms structural eye health</li><li>OFA hip certification for both parents</li></ul><h3>Essential Gear Checklist</h3><ul><li>Medium crate (30–36 inch with divider for growth)</li><li>Dog bed</li><li>Stainless steel bowls</li><li>Flat collar + ID tag (engrave immediately on arrival)</li><li>Harness for walks</li><li>4–6 ft leash</li><li>Slicker brush, pin brush, and wide-tooth metal comb</li><li>Veterinary ear cleaning solution and cotton balls — begins week one</li><li>High-value training treats</li><li>Retrieve toys, tug toys, chew toys</li><li>Enzymatic cleaner</li></ul>"
+    },
+    "care": {
+      "label": "First Week Priorities",
+      "heading": "First Vet Visit and Establishing Routines",
+      "html": "<h3>Insurance Before the First Vet Visit</h3><p>Enroll in pet insurance on arrival day. For the Field Spaniel, look for a policy that covers ophthalmologic conditions (eye surgery, specialist consultations) without breed-specific exclusions. Read the fine print — some policies have sublimits for eye conditions. Enrolling before the first vet visit ensures the broadest coverage.</p><h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam including eye exam</li><li>Vaccine schedule verification and continuation</li><li>Parasite prevention discussion</li><li>Ask whether an ophthalmology referral is appropriate given the puppy's eye exam findings and parental DNA test status</li><li>Ear exam — establish a clean baseline</li><li>Microchip if not done by breeder</li></ul><h3>Ear Cleaning — Starts Now</h3><p>Begin weekly ear cleaning from the first week. The purpose at this stage is building handling tolerance, not treating any problem. Field Spaniels that grow up with regular ear handling accept the process easily as adults; those that don't can resist it strongly. Weekly cleaning sessions from puppyhood make a permanent difference in adult manageability.</p><h3>Finding a Groomer</h3><p>Identify a groomer experienced with spaniel coats before the puppy needs its first professional trim at 10–14 weeks. Ask about experience with Field Spaniels, Cocker Spaniels, or similar silky-coated spaniels. A brief familiarization visit before the first real grooming appointment reduces the puppy's stress response significantly.</p>"
+    },
+    "special": {
+      "label": "Socialization and Training",
+      "heading": "Socialization Priorities for Field Spaniel Puppies",
+      "html": "<h3>Socialization Window: 8–16 Weeks</h3><p>Field Spaniels are gentle, sensitive dogs — positive early socialization shapes a confident, well-adjusted adult. This is a breed that can become shy or anxious without adequate early exposure. Prioritize:</p><ul><li>Varied people: different ages, appearances, children, visitors to the home</li><li>Novel environments: different surfaces, sounds, settings</li><li>Controlled dog interactions: puppy classes are valuable for both socialization and obedience foundation</li><li>Handling: ears, paws, eyes — especially important given the breed's grooming and health monitoring requirements</li></ul><p>Carry the puppy in high disease-risk areas before vaccinations are complete. The socialization window is too brief to sacrifice.</p><h3>Training Approach</h3><p>Field Spaniels are sensitive dogs that respond strongly to the tone and manner of training. Harsh corrections produce anxiety and shutdown; positive reinforcement produces engaged, willing learners. This is not a breed for forceful training methods. Start basic obedience from the first week with food rewards and praise. A puppy class by 10–12 weeks provides structure and socialization simultaneously.</p><h3>Eye Monitoring — Ongoing</h3><p>Make a habit of observing the dog's vision in varying light conditions. Note any reluctance to navigate stairs in dim light, any squinting, cloudiness, or eye discharge. These observations at any life stage warrant veterinary evaluation. Early detection of progressive conditions allows for better management planning.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "Why is eye health testing so important for Field Spaniels?",
+      "a": "Field Spaniels are predisposed to PRA (which causes blindness), ectropion, and entropion — three distinct eye conditions. PRA DNA testing eliminates the genetic risk from tested parents. CAER ophthalmology exams screen for structural eye conditions. Together, these tests give buyers meaningful information about the puppy's risk profile. A breeder who does both tests is taking the breed's health seriously; one who does neither is not."
+    },
+    {
+      "q": "Are Field Spaniels good for first-time dog owners?",
+      "a": "They can be — Field Spaniels are gentle, trainable, and willing to please. They are not as demanding as high-drive hunting breeds, but they do need regular exercise and mental engagement. The maintenance requirements (weekly brushing, ear cleaning, professional grooming) require consistent attention. First-time owners who are willing to commit to the care routine and positive training approach will find the Field Spaniel a rewarding companion."
+    },
+    {
+      "q": "How do I find a Field Spaniel breeder?",
+      "a": "Start with the Field Spaniel Society of America (FSSA) — the national breed club maintains breeder referrals and health testing recommendations. Be prepared for a waiting list. Field Spaniels are uncommon enough that there may be only a handful of health-testing breeders in North America. International import is possible but adds complexity and cost."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "name": "Norwegian Elkhound Puppy Checklist",
+    "slug": "norwegian-elkhound-puppy-checklist",
+    "shopify_handle": "norwegian-elkhound-puppy-checklist",
+    "group": "Norwegian Elkhound",
+    "size_category": "Guide",
+    "tags": ["norwegian-elkhound", "puppy", "checklist", "double-coat", "spitz"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "Before your Norwegian Elkhound puppy comes home: grooming tools ready, fencing secure, PHPT DNA test confirmation from your breeder, and a plan for the coat blows.",
+    "meta_description": "Norwegian Elkhound puppy checklist: PHPT breeder test confirmation, undercoat rake setup, handling desensitization, grooming from day one, and spitz independence in training."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Elkhound2020_%28cropped%29.jpg/250px-Elkhound2020_%28cropped%29.jpg",
+      "alt": "Norwegian Elkhound puppy checklist"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "Before Puppy Comes Home",
+      "heading": "Norwegian Elkhound Puppy Prep",
+      "html": "<p>Four things to confirm before your Norwegian Elkhound puppy arrives:</p><ol><li><strong>PHPT DNA test results from your breeder.</strong> Primary Hyperparathyroidism is a breed-specific genetic condition. Ask for documentation showing both parents have been tested.</li><li><strong>Grooming tools ready.</strong> An undercoat rake, slicker brush, and wide-tooth comb should be waiting at home. You'll start using them from the first week — not when the puppy needs grooming, but to build tolerance for handling.</li><li><strong>Secure fencing.</strong> This is a dog with hunting instincts and a nose — a securely fenced yard for off-leash exercise is required.</li><li><strong>Pet insurance enrolled.</strong> Before the first vet visit.</li></ol><h3>Essential Gear Checklist</h3><ul><li>Crate (30–36 inch with divider)</li><li>Orthopedic dog bed</li><li>Food and water bowls</li><li>Flat collar, ID tag, harness</li><li>Leash (4–6 ft)</li><li>Undercoat rake — start using from day one</li><li>Slicker brush</li><li>Wide-tooth comb</li><li>High-value training treats</li><li>Enzymatic cleaner</li><li>Good vacuum (motorized brush roll)</li></ul>"
+    },
+    "care": {
+      "label": "First Week",
+      "heading": "First Week Priorities",
+      "html": "<h3>Vet Visit (Within 48–72 Hours)</h3><ul><li>Full exam, vaccine review, parasite prevention</li><li>Microchip if not done</li><li>Discuss hypothyroidism as a breed risk — baseline thyroid test can be established early</li><li>Pet insurance active before this visit</li></ul><h3>Start Grooming Handling Immediately</h3><p>Pick up the undercoat rake, run it gently over the puppy, give a treat. Do this every day. Same with the brush, the comb, ear handling, paw touching, mouth opening. An adult Norwegian Elkhound that has had its body handled daily from 8 weeks is fundamentally different to groom than one that wasn't. The heavy double coat requires regular, thorough brushing — a dog that accepts it easily is a gift to your future self. A dog that fights grooming sessions at 50 lbs is a significant weekly struggle.</p><h3>The First Coat Blow</h3><p>Typically around 6–12 months, the puppy coat transitions to adult coat — this is often the most dramatic shed of the dog's life. It can be alarming in volume. Daily brushing and a deshedding bath help move it along. Once through this transition, the adult coat settles into the regular pattern of two blows per year.</p>"
+    },
+    "special": {
+      "label": "Training a Spitz",
+      "heading": "Training Approach for Independent Nordic Dogs",
+      "html": "<p>Norwegian Elkhounds are intelligent dogs that learn quickly and then decide whether to comply. This is not stubbornness in the traditional sense — it's the independent decision-making that made them effective working dogs without constant handler direction. Training approach:</p><ul><li>Positive reinforcement only — punishment-based methods produce shutdown, not obedience</li><li>Short sessions (5–8 minutes) with clear, consistent commands</li><li>High-value rewards (real food, not dry kibble) for new skills</li><li>Vary the training — Elkhounds disengage from repetitive drills quickly</li><li>Establish the basics (sit, stay, come in yard, leash manners, door protocols) from the first week</li></ul><p>Accept from the beginning that the spitz independence is part of the dog. You can shape and manage it with good training foundations — you cannot eliminate it, and trying to do so through force produces a resentful, difficult dog.</p><h3>Barking Management</h3><p>Elkhounds communicate through barking and will do so regularly. Management strategies: consistent exercise and mental enrichment reduce boredom barking. Teaching a 'quiet' cue (reward silence after barking starts) is achievable with patience. The fundamental vocal nature of the breed cannot be trained away — it can only be managed.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "At what age do Norwegian Elkhound puppies get their adult coat?",
+      "a": "The puppy coat typically transitions to the adult double coat between 6 and 12 months, with significant variation by individual. This transition involves a major shed — the puppy coat releases in large quantities as the dense adult undercoat develops. Daily brushing during this period is essential. Once through the transition, the adult coat establishes the twice-yearly blow pattern."
+    },
+    {
+      "q": "How do I handle the independent spitz personality in a puppy?",
+      "a": "Start with very clear, consistent rules from day one — not after the puppy is large. A 10-week-old Elkhound learning that jumping up gets ignored (not rewarded) becomes an adult that doesn't jump. The same applies to all household rules. The independence makes early establishment of rules much more efficient than trying to change habits after they're formed. Use positive reinforcement, keep training sessions short and engaging, and accept that the dog will sometimes look at you, understand the request, and choose not to comply — this is the breed, not a training failure."
+    }
+  ]
+}

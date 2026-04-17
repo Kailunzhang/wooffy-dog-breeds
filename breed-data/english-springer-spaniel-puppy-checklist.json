@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "English Springer Spaniel",
+    "shopify_handle": "english-springer-spaniel-puppy-checklist",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": "2026-04-18T16:00:00Z",
+    "name": "English Springer Spaniel Puppy Checklist: Everything to Do Before Bringing One Home",
+    "slug": "english-springer-spaniel-puppy-checklist",
+    "excerpt": "A practical checklist for new English Springer Spaniel owners — covering health testing, ear cleaning setup, and week-one priorities.",
+    "meta_description": "A practical checklist for new English Springer Spaniel owners — covering health testing, ear cleaning setup, and week-one priorities.",
+    "tags": [
+      "English Springer Spaniel",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Springer_Spaniel_Wide_Shot.jpg/330px-Springer_Spaniel_Wide_Shot.jpg",
+      "alt": "English Springer Spaniel"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Before You Buy",
+      "heading": "Health Testing and Preparation Before Your Puppy Arrives",
+      "html": "<h3>Verify Health Testing on Both Parents</h3><p>English Springer Spaniels are prone to several inherited conditions. Ask for documentation on both parents before placing a deposit.</p><ul><li><strong>PFK (Phosphofructokinase Deficiency):</strong> A DNA test for an inherited muscle and blood cell disorder. Both parents should be tested. Carrier × carrier pairings can produce affected puppies.</li><li><strong>Fucosidosis:</strong> A fatal lysosomal storage disease in Springers. DNA test required on both parents. Ask for certificates.</li><li><strong>Hip and elbow dysplasia OFA evaluation:</strong> Both parents should have passing scores.</li><li><strong>Progressive Retinal Atrophy (PRA):</strong> DNA test for the form of PRA affecting Springers.</li><li><strong>CAER eye examination:</strong> Annual eye exam certification on both parents.</li></ul><h3>Gear Checklist</h3><ul><li>Medium-sized wire crate</li><li>Harness and 6-foot leash</li><li>Pin brush or slicker brush, and a wide-tooth metal comb</li><li>Veterinarian-approved ear cleaning solution — this needs to be on hand from day one</li><li>Cotton balls for ear cleaning</li><li>Quality puppy food (match what the breeder has been feeding)</li><li>Food and water bowls</li><li>Dog bed or crate mat</li><li>Baby gates for house management</li><li>Enzymatic cleaner</li><li>ID tag and microchip registration</li></ul>"
+    },
+    "care": {
+      "label": "First Weeks at Home",
+      "heading": "First Vet Visit and Starting the Ear Cleaning Habit",
+      "html": "<h3>First Vet Appointment (Within 72 Hours of Pickup)</h3><ul><li>Full physical exam and vaccine status review from breeder records</li><li>Set up vaccination and deworming schedule</li><li>Discuss spay/neuter timing (12–18 months is common for medium breeds)</li><li>Ask your vet to show you the proper ear cleaning technique</li><li>Discuss heartworm, flea, and tick prevention for your region</li><li>Get a referral for puppy training classes</li></ul><h3>Start Weekly Ear Cleaning on Day One</h3><p>Do not wait until the ears look dirty to begin ear cleaning. The goal in week one is to establish it as a normal, positive part of life. Apply a small amount of ear cleaning solution to the entrance of the ear canal, massage gently, let the dog shake, and wipe clean with a cotton ball. Keep the session brief and reward heavily. Done weekly from puppyhood, this becomes routine. Started for the first time on an adult dog who's never been handled this way, it can be a struggle.</p><h3>Coat Brushing Starts Week One Too</h3><p>Even if the puppy coat is short, begin brushing sessions immediately. Focus on positive association — treats, calm voice, brief sessions. Pay attention to the ear flap area where adult feathering will eventually grow and mat most easily.</p>"
+    },
+    "special": {
+      "label": "Training and Field Work",
+      "heading": "What Springer Owners Often Underestimate",
+      "html": "<h3>Energy Level and Exercise Needs</h3><p>English Springer Spaniels were bred as all-day hunting dogs. They have substantial energy and need at least 60–90 minutes of vigorous daily exercise as adults. A Springer that doesn't get enough activity will become hyperactive in the house, destructive, and prone to barking. Plan for daily off-leash running in a secure area, fetch sessions, swimming, or — for hunting enthusiasts — actual field work.</p><h3>Spaniel Rage Syndrome: Know About It, But Don't Panic</h3><p>A rare condition historically associated with certain show-line English Springer Spaniels involves sudden, unpredictable aggression episodes with no apparent trigger. The condition is poorly understood and appears to have a genetic component. It is uncommon, and most Springers are perfectly stable family dogs. However, ask your breeder about the mental health history of their lines and buy from a breeder who can speak candidly about temperament.</p><h3>Training This Breed</h3><p>Springers are highly trainable and enthusiastic learners, especially for retrieving and hunting tasks. They respond well to positive reinforcement and are eager to please. Begin basic obedience training from week one. Recall training is particularly important — a Springer with a bird in sight can lose its mind chasing it, and a reliable come command in the field is a safety essential.</p><ul><li>Enroll in puppy class within the first month</li><li>Start recall training in a safe enclosed area from week one</li><li>Establish a clear house routine — Springers adapt quickly to predictable schedules</li><li>Never punish ear cleaning — always pair it with high-value treats</li></ul>"
+    }
+  },
+  "faq": [
+    {
+      "q": "What health tests should English Springer Spaniel parents have?",
+      "a": "The most critical breed-specific tests are PFK (Phosphofructokinase Deficiency) DNA test and Fucosidosis DNA test — both inherited conditions that responsible breeders screen for. Additionally, both parents should have hip and elbow OFA evaluations, PRA DNA tests, and CAER eye certifications. Ask for documentation before placing a deposit."
+    },
+    {
+      "q": "How do I start an ear cleaning routine with a Springer Spaniel puppy?",
+      "a": "Start on the day you bring the puppy home. Apply a small amount of vet-approved ear cleaning solution to the ear canal entrance, massage the base of the ear gently, let the puppy shake, and wipe clean with a cotton ball. Keep the session short and reward generously with treats. Do this every week without fail — it takes a few minutes and prevents infections that cost $100–$250 each to treat at the vet."
+    },
+    {
+      "q": "Are English Springer Spaniels good family dogs?",
+      "a": "Yes — they are energetic, affectionate, and generally excellent with children and other pets when properly socialized. Their high energy level is the main adjustment for families used to calmer breeds. A Springer that gets sufficient daily exercise is a calm, happy housemate. One that does not gets destructive and hard to live with."
+    }
+  ]
+}

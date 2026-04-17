@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Redbone Coonhound Grooming Guide",
+    "slug": "redbone-coonhound-grooming-guide",
+    "shopify_handle": "redbone-coonhound-grooming-guide",
+    "group": "Redbone Coonhound",
+    "size_category": "Guide",
+    "tags": ["redbone-coonhound", "grooming"],
+    "published": true,
+    "published_at": "2026-04-25T16:00:00Z",
+    "excerpt": "The Redbone Coonhound's short, dense red coat is one of the simplest coats in the hound group — weekly brushing with a hound glove, monthly baths, and regular ear cleaning are the complete routine.",
+    "meta_description": "Redbone Coonhound grooming guide: the easy-care short red coat, weekly brushing with a hound glove, ear cleaning for drop ears, post-hunt coat inspection, and basic bathing for this versatile hunting breed."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Redbone-coonhound-detail.jpg/250px-Redbone-coonhound-detail.jpg",
+      "alt": "Redbone Coonhound grooming guide"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Understanding the Redbone Coonhound Coat",
+      "html": "<p>The Redbone Coonhound has a short, dense, smooth coat in the breed's characteristic deep red color. The coat is a classic working hound coat — designed to shed debris and dry quickly after field work in all conditions. It requires minimal grooming time, has no feathering or furnishings to tangle, and needs no professional care.</p><p>Shedding is moderate and year-round. The short red hairs are visible on light-colored clothing and furniture but the total volume is modest. Regular brushing captures the bulk of shed hair before it distributes through the home.</p><p>The Redbone's primary grooming health concern is ear care, not coat care. The long, pendulous drop ears limit airflow to the ear canal — conditions that promote bacterial and yeast overgrowth. Active hunting dogs whose ears get wet repeatedly are at particularly elevated infection risk. Weekly ear cleaning is the most important regular grooming task for this breed. Everything else is simple."
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Step-by-Step Grooming Routine",
+      "html": "<p><strong>Frequency:</strong> Brushing once per week; bathing every 4–6 weeks or after hunts; ear cleaning weekly.</p><p><strong>Tools needed:</strong> Hound glove or rubber grooming mitt, soft-bristle brush, ear cleaner, cotton balls, nail clippers or grinder.</p><p><strong>Brushing:</strong> A hound glove or rubber grooming mitt is the ideal tool for the Redbone's short coat — the rubber nubs loosen shed hair and stimulate the skin. Work over the full body from neck to tail. A soft-bristle brush finishes the coat and enhances the deep red gloss. The complete process takes 5–10 minutes.</p><p>Brushing serves as a body inspection opportunity. Run your hands through the coat to check for ticks (especially around the ears, neck, and groin), cuts or abrasions from field activity, and any lumps or skin abnormalities. Field-active dogs benefit from this inspection after every outing.</p><p><strong>Ear cleaning:</strong> Clean weekly with a veterinarian-recommended ear cleaner applied to a cotton ball. Apply the cleaner to the cotton ball, wipe the visible portion of the ear canal and the inner ear flap — do not insert anything into the ear canal. Check for odor, redness, discharge, or the dog scratching at ears, which indicates an infection requiring veterinary attention. Dogs that hunt frequently or get their ears wet regularly may benefit from cleaning after each outing in addition to the weekly routine.</p><p><strong>Bathing:</strong> Use a gentle dog shampoo. The short coat rinses and dries quickly — the Redbone is one of the fastest-bathing breeds to process. Towel dry and ensure the ears are dried after bathing — moisture in the ear canals after bathing is a significant infection risk. After hunts, a rinse before a full bath removes mud and debris from the coat efficiently.</p><p><strong>Nails:</strong> Every 3–4 weeks. Hunting Redbones may wear their nails naturally in field environments, but check regularly and trim when nails touch the floor with the dog standing.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Ear Health and Field Care",
+      "html": "<p><strong>Ear health is the primary grooming priority:</strong> The Redbone's long, drop ears are the breed's main grooming health concern. Without consistent weekly cleaning, ear infections are virtually inevitable — the warm, moist environment inside those ears is ideal for bacterial and yeast growth. Dogs that hunt in water or get their ears wet repeatedly need cleaning after every wet outing in addition to the weekly baseline. Ask your vet to recommend a specific ear cleaner and demonstrate technique at the first appointment.</p><p><strong>Post-hunt inspection protocol:</strong> After any hunting activity, perform a systematic inspection before bathing: ticks around the ears, neck, groin, and between the toes; seeds and burrs in the coat (the short coat catches fewer than long-coated breeds but not none); cuts and abrasions on the legs and paw pads; and paw pad condition. The Redbone's thin-skinned muzzle and legs can be scratched in dense cover. Address anything found before it develops into a problem.</p><p><strong>The 'hound smell':</strong> Hound breeds have a characteristic scent that is more pronounced than many other breeds — produced by the dog's skin oils, which contribute to their excellent olfactory capabilities. This is a breed characteristic, not a hygiene failure. Regular bathing (every 4–6 weeks) manages the scent appropriately. Some owners find monthly bathing necessary; others find every 6–8 weeks sufficient.</p><p><strong>Professional grooming:</strong> Not needed. The Redbone's short coat requires no clipping, trimming, or professional maintenance. All grooming is manageable at home in under 15 minutes per session. Professional fees, if sought for convenience bathing, are typically $40–$60.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How much grooming does a Redbone Coonhound really need?",
+      "a": "Very little coat grooming — a weekly 5-10 minute session with a hound glove and bristle brush is the complete routine. The most important grooming task is ear cleaning, done weekly, which takes 3–5 minutes. Bathing every 4–6 weeks completes the maintenance. Total weekly grooming time is under 15 minutes. This is one of the most straightforward coat types to own."
+    },
+    {
+      "q": "How do I prevent ear infections in a Redbone Coonhound?",
+      "a": "Weekly cleaning with a veterinarian-recommended ear cleaner. For hunting dogs that get their ears wet, clean after each wet outing as well. The cleaning routine takes 3–5 minutes and prevents infections that cost $100–$300 per veterinary treatment. Ask your vet to recommend a specific cleaner and demonstrate technique — the first appointment is the right time to establish this routine."
+    },
+    {
+      "q": "Do Redbone Coonhounds have a strong smell?",
+      "a": "More than average for a dog. Hound breeds have characteristic skin oils that contribute to their tracking ability and give them a distinctive hound scent. Regular bathing every 4–6 weeks manages this appropriately. It is a breed characteristic rather than a hygiene issue — informed Redbone owners accept it as part of the breed."
+    }
+  ]
+}

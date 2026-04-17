@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Rhodesian Ridgeback Grooming Guide",
+    "slug": "rhodesian-ridgeback-grooming-guide",
+    "shopify_handle": "rhodesian-ridgeback-grooming-guide",
+    "group": "Rhodesian Ridgeback",
+    "size_category": "Guide",
+    "tags": ["rhodesian-ridgeback", "grooming", "short-coat", "low-maintenance", "ridge-care"],
+    "published": true,
+    "published_at": "2026-04-21T16:00:00Z",
+    "excerpt": "The Rhodesian Ridgeback is one of the easiest large breeds to groom — weekly brushing and monthly bathing is all the coat needs. The ridge itself requires no special care, but should be checked.",
+    "meta_description": "Rhodesian Ridgeback grooming guide: short coat weekly maintenance, dermoid sinus ridge check, minimal bathing needs, nail and ear care for a clean, low-maintenance large hound."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rhodesian_ridgeback.jpg/330px-Rhodesian_ridgeback.jpg",
+      "alt": "Rhodesian Ridgeback grooming guide"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "The Ridgeback Coat",
+      "heading": "Understanding the Rhodesian Ridgeback Short Coat",
+      "html": "<p>The Rhodesian Ridgeback has a short, dense, sleek coat that is among the easiest to maintain of any large breed. The coat sheds moderately year-round but doesn't produce the volume of double-coated breeds and doesn't accumulate in furniture the same way. Weekly brushing with a rubber curry brush, monthly bathing, and routine nail and ear care covers the full grooming requirement. The distinctive ridge running along the spine is a natural feature that requires no special grooming — just periodic checking.</p><h3>Grooming Tools You'll Need</h3><ul><li>Rubber curry brush or grooming mitt — most effective tool for short, dense coats</li><li>Soft bristle brush — for finishing and coat oil distribution</li><li>Dog-safe shampoo</li><li>Nail clippers or grinder</li><li>Ear cleaning solution and cotton balls</li></ul><h3>Short Coat, Simple Routine</h3><p>The Ridgeback's coat doesn't mat, doesn't require trimming, and doesn't produce the seasonal blow volumes of double-coated breeds. The primary grooming tasks are keeping loose hair off furniture through regular brushing and maintaining skin health through appropriate bathing and skin checks.</p>"
+    },
+    "care": {
+      "label": "Regular Routine",
+      "heading": "Weekly and Monthly Grooming Routine",
+      "html": "<h3>Weekly</h3><ul><li>Brush the entire coat with a rubber curry brush using circular motions — this loosens dead hair and stimulates coat oil distribution</li><li>Follow with a soft bristle brush to remove loosened hair and smooth the coat</li><li>Check the ears for debris, odor, or redness; wipe with ear cleaner when needed</li><li>Check paw pads for cuts, cracked skin, or debris — Ridgebacks are active outdoor dogs</li><li>Do a brief skin check along the ridge line — see Ridge Care below</li></ul><h3>Monthly</h3><ul><li>Bathe every 4–6 weeks or when dirty. Ridgebacks are naturally clean and don't develop strong dog odor. Their short coat dries quickly</li><li>Trim nails monthly. Short nails are particularly important for a large athletic breed — long nails affect gait and comfort during extensive exercise</li><li>Check and clean ears if buildup is present</li></ul><h3>Shedding Management</h3><p>Ridgebacks shed at a moderate, consistent year-round rate rather than dramatic seasonal blows. Weekly brushing removes the loose coat before it lands on furniture. The short, smooth hairs don't embed in fabric the way some short-coated breeds' hairs do, but they are still visible on dark clothing and upholstery.</p>"
+    },
+    "special": {
+      "label": "The Ridge and Dermoid Sinus Check",
+      "heading": "Ridge Care and Dermoid Sinus Awareness",
+      "html": "<p>The Rhodesian Ridgeback's defining characteristic — the ridge of reversed hair running along the spine — is a natural coat feature that requires no special grooming maintenance. However, owners should be aware of dermoid sinuses, a breed-specific health concern that is identified by examining the ridge line.</p><h3>What Is a Dermoid Sinus?</h3><p>A dermoid sinus is a tubular skin defect that can occur along the midline of the spine, typically near the ridge. It is a congenital condition in which a tube of skin tissue extends inward from the surface, potentially connecting to deeper structures. Infected dermoid sinuses can become serious. They are identified by physical examination — feeling for small openings or tube-like structures along the spine at or near the ridge.</p><h3>Dermoid Sinus Check</h3><ul><li>At the first vet visit, ask your vet to perform a thorough dermoid sinus examination along the full ridge line</li><li>Responsible breeders examine all puppies for dermoid sinuses before sale</li><li>As part of weekly grooming, run your fingers along the ridge to feel for any new developments — sinuses missed at birth occasionally present later</li><li>If you notice a small opening, pore, or tube-like structure along the ridge or spine, consult your vet</li></ul><h3>Skin Care for a Short-Coated Breed</h3><p>The short coat provides less protection from sun exposure than a longer coat. Ridgebacks with lighter coat colors (wheaten, lighter red) can get sunburned on exposed areas — particularly on the bridge of the nose and along the back during extended outdoor sun exposure. Sunscreen formulated for dogs can be applied to these areas during prolonged outdoor activities.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "How often does a Rhodesian Ridgeback need grooming?",
+      "a": "Weekly brushing with a rubber curry brush, monthly bathing, and monthly nail trimming. This is among the simplest grooming routines of any large breed. The short, smooth coat doesn't mat, doesn't require trimming, and doesn't produce seasonal coat blow volumes. Occasional extra brushing during higher-shedding periods keeps loose hair managed."
+    },
+    {
+      "q": "What is a dermoid sinus and should I be worried about it?",
+      "a": "A dermoid sinus is a tubular skin defect that can occur along the spine in Ridgebacks — an inherited condition where a tube of skin tissue extends inward from the surface. Responsible breeders examine all puppies before sale. At the first vet visit, ask for a dermoid sinus exam along the full ridge line. Sinuses that are found and properly managed (surgically removed) don't cause ongoing problems; undetected, infected sinuses are serious. It's a quick check that should be done early."
+    },
+    {
+      "q": "Do Rhodesian Ridgebacks shed a lot?",
+      "a": "Moderately — a consistent year-round shed rather than dramatic seasonal blows. Weekly brushing removes the loose coat before it accumulates. The hairs are short and don't embed in fabric the way some breeds' hairs do. Overall, the Ridgeback is one of the lower-shed large breeds."
+    }
+  ]
+}

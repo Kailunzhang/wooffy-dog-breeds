@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "name": "Parson Russell Terrier Grooming Guide",
+    "slug": "parson-russell-terrier-grooming-guide",
+    "shopify_handle": "parson-russell-terrier-grooming-guide",
+    "group": "Parson Russell Terrier",
+    "size_category": "Guide",
+    "tags": ["parson-russell-terrier", "grooming"],
+    "published": true,
+    "published_at": "2026-04-28T16:00:00Z",
+    "excerpt": "The Parson Russell Terrier comes in smooth, broken, and rough coat varieties — each with slightly different grooming needs. Learn how to keep each coat type looking sharp with minimal effort.",
+    "meta_description": "Parson Russell Terrier grooming guide: smooth, broken, and rough coat care, hand-stripping tips, bathing, and nail trimming for this athletic working terrier."
+  },
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Parson_Russell_Terrier_600.jpg/330px-Parson_Russell_Terrier_600.jpg",
+      "alt": "Parson Russell Terrier"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Coat Overview",
+      "heading": "Three Coat Varieties, All Relatively Easy to Maintain",
+      "html": "<p>The Parson Russell Terrier comes in three coat varieties: smooth (flat, hard, dense coat with no feathering), broken (a mix of smooth and rough areas, sometimes with slight eyebrow and beard), and rough (longer, harsher coat with more furnishings on the face and legs). All three are weather-resistant and require minimal grooming compared to many breeds.</p><p>The predominantly white coat can show dirt more readily than darker coats, meaning dogs that spend time outdoors in mud may need more frequent baths than dogs in cleaner environments. The white base coat was a practical working feature, and maintaining its brightness is largely a matter of regular bathing.</p><p>The breed is low-shedding overall, particularly the smooth coat. Regular brushing removes dead hair before it ends up on your furniture and keeps the coat looking its best.</p>"
+    },
+    "care": {
+      "label": "Grooming Routine",
+      "heading": "Grooming Your Parson Russell Terrier",
+      "html": "<p><strong>Smooth Coat:</strong> Weekly brushing with a rubber curry brush or hound mitt is sufficient. Bathe every 4–6 weeks or as needed (muddy outdoor dogs may need more frequent baths). Occasional professional grooming is not required — owners can handle all grooming at home.</p><p><strong>Broken and Rough Coats:</strong> Weekly brushing with a slicker brush, paying attention to the beard and eyebrow furnishings where tangles form. Use a comb to check for tangles after brushing. Hand-stripping 1–2 times per year maintains the proper harsh texture of the rough outer coat. Clipping is acceptable for pets but softens the coat over time.</p><p><strong>Bathing:</strong> Every 4–6 weeks for indoor dogs, more frequently for those who enjoy mud and outdoor adventures. Use a dog shampoo appropriate for white coats to maintain brightness. Rinse thoroughly and towel dry — air drying is fine for the short to medium length coat.</p><p><strong>Ears:</strong> Check weekly, clean as needed with dog ear cleaner. The Parson's small v-shaped ears benefit from regular inspection.</p><p><strong>Nails:</strong> Trim every 3–4 weeks. Active dogs may wear nails down somewhat on hard surfaces, but regular trimming is still essential.</p><p><strong>Teeth:</strong> Brush several times weekly. Dental disease is common in small breeds; consistent brushing prevents the most serious issues.</p>"
+    },
+    "special": {
+      "label": "Special Considerations",
+      "heading": "Parson Russell Grooming Tips",
+      "html": "<p><strong>Muddy Adventures:</strong> Parsons love to dig and explore, which means dirty dogs are common. Keep a towel by the door for quick paw wipes after outdoor sessions. The short to medium coat dries quickly and dirt often brushes out once dry.</p><p><strong>White Coat Staining:</strong> Tear staining and staining around the mouth can affect white dogs. Use a damp cloth to wipe the face after meals and outdoor play. Dog-safe face cleaning wipes are handy for regular maintenance.</p><p><strong>Broken vs. Rough Coat Decision:</strong> If you're choosing between coat types, smooth coats require the least maintenance. Rough coats have the most distinctive terrier look but require hand-stripping to maintain proper texture. Broken coats are a middle ground.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often does a Parson Russell Terrier need grooming?",
+      "a": "Smooth coats need only weekly brushing and monthly baths. Rough and broken coats benefit from hand-stripping 1–2 times per year in addition to regular brushing. Overall grooming needs are low."
+    },
+    {
+      "q": "Do Parson Russell Terriers shed?",
+      "a": "Minimally. They are considered a low-shedding breed, particularly smooth-coated dogs. Regular brushing removes loose hair efficiently."
+    },
+    {
+      "q": "Should I hand-strip or clip my Parson Russell Terrier?",
+      "a": "For show dogs, hand-stripping is required to maintain proper coat texture. For pet dogs, either is acceptable — clipping is easier but softens the coat over time. Discuss options with your groomer."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Dalmatian First Year Costs",
+    "slug": "dalmatian-first-year-costs",
+    "shopify_handle": "dalmatian-first-year-costs",
+    "group": "Dalmatian",
+    "size_category": "Guide",
+    "tags": ["dalmatian", "cost", "budget", "first-year", "large-breed"],
+    "published": true,
+    "published_at": "2026-04-20T16:00:00Z",
+    "excerpt": "Dalmatian ownership costs $2,800–$5,500 in the first year. Diet management for urinary health and BAER hearing testing are breed-specific costs beyond standard large-breed expenses.",
+    "meta_description": "Dalmatian first year costs: puppy price, food and diet management, vet costs, BAER test, pet insurance, and lifetime cost estimates for a high-energy large breed."
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Dog_Dalmatian.jpg/250px-Sun_Dog_Dalmatian.jpg",
+      "alt": "Dalmatian first year costs"
+    }
+  },
+
+  "sections": {
+    "intro": {
+      "label": "What You'll Spend",
+      "heading": "Dalmatian First-Year Cost Breakdown",
+      "html": "<p>Dalmatians have a unique metabolic trait: they process purines differently from all other breeds, requiring a low-purine diet to prevent urate bladder stones. This dietary requirement affects food choice and cost throughout the dog's life. Beyond diet, the primary financial risks are urinary stone treatment, deafness-related management, and the standard health concerns of a large athletic breed.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (low-purine diet)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet care (routine + puppy vaccines)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (large crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Training (puppy class + obedience)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated First Year Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,600–$5,000</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,350–$2,500</td></tr></tbody></table>"
+    },
+    "care": {
+      "label": "Biggest Costs",
+      "heading": "Where Dalmatian Ownership Gets Expensive",
+      "html": "<h3>Diet: The Low-Purine Requirement</h3><p>Dalmatians cannot properly metabolize purines, which are found in high concentrations in organ meats, certain fish, and some plant proteins. A diet high in purines leads to urate crystal and stone formation in the bladder and kidneys — a painful, recurring condition requiring veterinary intervention or surgery. Feeding a low-purine diet formulated for Dalmatians (or a quality lamb, chicken, or turkey-based food without organ meat emphasis) is not optional; it's the primary preventive health measure for this breed.</p><h3>Urate Stone Treatment</h3><p>Despite dietary management, some Dalmatians develop urate stones. Diagnosis requires urinalysis and imaging; treatment may involve dietary changes, medication, or surgical removal. Stone removal surgery can cost $1,500–$3,000+. Adequate hydration (encouraging water drinking) alongside a low-purine diet significantly reduces stone risk.</p><h3>BAER Hearing Testing</h3><p>Reputable Dalmatian breeders BAER-test all puppies before sale — this should be included in the puppy price and documented. If a breeder cannot provide BAER test results, that's a significant red flag. If you're acquiring an adult Dalmatian without BAER records, testing costs approximately $100–$200 at veterinary neurology facilities. Knowing your dog's hearing status is important for safe management.</p>"
+    },
+    "special": {
+      "label": "Lifetime Budget",
+      "heading": "Estimating Lifetime Dalmatian Costs",
+      "html": "<p>With a 10–13 year lifespan, Dalmatians have a moderate lifetime cost profile — their grooming costs are low, but the dietary management requirement is a consistent lifelong expense.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, good dietary management, no stones</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$18,000–$28,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">One or two stone events requiring treatment</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$24,000–$38,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Recurring urinary issues + other health conditions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$35,000–$50,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">The low-purine diet requirement is lifelong, but appropriate Dalmatian food is widely available and not dramatically more expensive than quality standard kibble. The primary cost risk is reactive veterinary care for urinary problems that proper diet significantly reduces.</p>"
+    }
+  },
+
+  "faq": [
+    {
+      "q": "What does a Dalmatian puppy cost from a reputable breeder?",
+      "a": "$600–$1,200 from responsible breeders who BAER-test all puppies and screen for hip dysplasia. The BAER hearing test is mandatory for responsible Dalmatian breeding — any litter without documented BAER results should be avoided. Properly screened puppies represent a better long-term investment than cheaper unscreened ones."
+    },
+    {
+      "q": "What food should I feed a Dalmatian?",
+      "a": "A low-purine diet. Dalmatians process purines differently from all other breeds and are uniquely prone to urate stone formation. Avoid foods high in organ meats, sardines, anchovies, or high-purine plant proteins. Chicken, turkey, lamb, or egg-based kibbles without organ meat emphasis work well. Fresh water available at all times is equally important — hydration directly reduces stone formation risk."
+    },
+    {
+      "q": "Is pet insurance worth it for a Dalmatian?",
+      "a": "Yes. Urate stone treatment — particularly surgery — can cost $1,500–$3,000+. Hip dysplasia and other large-breed orthopedic concerns are also possible. Insurance enrolled before the first vet visit provides coverage before any conditions are documented, protecting against the primary surgical cost risks this breed faces."
+    }
+  ]
+}
