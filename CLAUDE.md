@@ -197,11 +197,56 @@ polish-lowland-sheepdog polish-lowland-sheepdog-grooming-guide polish-lowland-sh
 puli puli-grooming-guide puli-first-year-costs puli-puppy-checklist
 ```
 
-### Day 21 slugs (May 5)
+### Day 21 slugs (May 5 → now Apr 29)
 ```
 spanish-water-dog spanish-water-dog-grooming-guide spanish-water-dog-first-year-costs spanish-water-dog-puppy-checklist
 swedish-vallhund swedish-vallhund-grooming-guide swedish-vallhund-first-year-costs swedish-vallhund-puppy-checklist
 best-watchdog-breeds most-popular-dog-breeds
+```
+
+---
+
+## New SEO Roundup Articles (Days 22–36)
+
+15 new roundup articles added to extend the publishing schedule beyond the original 21 days.
+
+| Day | Date | Slugs |
+|-----|------|-------|
+| 22 | Apr 30 | most-intelligent-dog-breeds, easiest-dogs-to-train |
+| 23 | May 1 | longest-living-dog-breeds, best-dogs-for-hot-climates, best-dogs-for-hiking |
+| 24 | May 2 | best-working-dog-breeds, best-toy-dog-breeds, best-non-sporting-dog-breeds |
+| 25 | May 3 | most-loyal-dog-breeds, dog-breeds-good-with-cats, quietest-dog-breeds |
+| 26 | May 4 | rarest-dog-breeds, most-expensive-dog-breeds |
+| 27 | May 5 | dog-breeds-by-size, dog-breeds-by-group |
+
+### Day 22 slugs (Apr 30)
+```
+most-intelligent-dog-breeds easiest-dogs-to-train
+```
+
+### Day 23 slugs (May 1)
+```
+longest-living-dog-breeds best-dogs-for-hot-climates best-dogs-for-hiking
+```
+
+### Day 24 slugs (May 2)
+```
+best-working-dog-breeds best-toy-dog-breeds best-non-sporting-dog-breeds
+```
+
+### Day 25 slugs (May 3)
+```
+most-loyal-dog-breeds dog-breeds-good-with-cats quietest-dog-breeds
+```
+
+### Day 26 slugs (May 4)
+```
+rarest-dog-breeds most-expensive-dog-breeds
+```
+
+### Day 27 slugs (May 5)
+```
+dog-breeds-by-size dog-breeds-by-group
 ```
 
 ---
