@@ -65,7 +65,7 @@ Start date: Apr 15, 2026. Day number = (today − Apr 15).day_count + 1
 | 20 | May 4 | Belgian Tervuren, Briard, Entlebucher Mountain Dog, Finnish Lapphund, Icelandic Sheepdog, Polish Lowland Sheepdog, Puli | — | 28 |
 | 21 | May 5 | Spanish Water Dog, Swedish Vallhund | best-watchdog-breeds, most-popular-dog-breeds | 10 |
 
-**Current status: Days 1–9 complete (357 articles published). Next: Day 10 on Apr 24.**
+**Current status: Days 1–10 complete (386 articles published). Next: Day 11 on Apr 25.**
 
 ---
 
