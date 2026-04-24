@@ -1,0 +1,105 @@
+name: Wooffy Daily Publisher
+
+on:
+  schedule:
+    - cron: '0 16 * * *'  # 9am PDT (UTC-7)
+  workflow_dispatch:       # allow manual trigger
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Create .env
+        run: |
+          printf 'SHOPIFY_STORE=%s\nSHOPIFY_TOKEN=%s\nSHOPIFY_BLOG_ID=%s\n' \
+            "${{ secrets.SHOPIFY_STORE }}" \
+            "${{ secrets.SHOPIFY_TOKEN }}" \
+            "${{ secrets.SHOPIFY_BLOG_ID }}" > .env
+
+      - name: Determine today's slugs and publish
+        run: |
+          python3 - <<'EOF'
+          import subprocess, sys, urllib.request, json
+          from datetime import date
+
+          today = date.today().strftime("%b %-d")  # e.g. "Apr 25"
+
+          schedule = {
+            "Apr 25": "day12",
+            "Apr 26": "day13",
+            "Apr 27": "day14",
+            "Apr 28": "day15",
+            "Apr 29": "day16",
+            "Apr 30": "day17",
+            "May 1":  "day18",
+            "May 2":  "day19",
+            "May 3":  "day20",
+            "May 4":  "day21",
+            "May 5":  "day22",
+            "May 6":  "day23",
+            "May 7":  "day24",
+            "May 8":  "day25",
+            "May 9":  "day26",
+            "May 10": "day27",
+          }
+
+          slugs_by_day = {
+            "day12": "otterhound otterhound-grooming-guide otterhound-first-year-costs otterhound-puppy-checklist pharaoh-hound pharaoh-hound-grooming-guide pharaoh-hound-first-year-costs pharaoh-hound-puppy-checklist redbone-coonhound redbone-coonhound-grooming-guide redbone-coonhound-first-year-costs redbone-coonhound-puppy-checklist scottish-deerhound scottish-deerhound-grooming-guide scottish-deerhound-first-year-costs scottish-deerhound-puppy-checklist anatolian-shepherd-dog anatolian-shepherd-dog-grooming-guide anatolian-shepherd-dog-first-year-costs anatolian-shepherd-dog-puppy-checklist bullmastiff bullmastiff-grooming-guide bullmastiff-first-year-costs bullmastiff-puppy-checklist dogue-de-bordeaux dogue-de-bordeaux-grooming-guide dogue-de-bordeaux-first-year-costs dogue-de-bordeaux-puppy-checklist best-hound-dog-breeds",
+            "day13": "giant-schnauzer giant-schnauzer-grooming-guide giant-schnauzer-first-year-costs giant-schnauzer-puppy-checklist greater-swiss-mountain-dog greater-swiss-mountain-dog-grooming-guide greater-swiss-mountain-dog-first-year-costs greater-swiss-mountain-dog-puppy-checklist leonberger leonberger-grooming-guide leonberger-first-year-costs leonberger-puppy-checklist neapolitan-mastiff neapolitan-mastiff-grooming-guide neapolitan-mastiff-first-year-costs neapolitan-mastiff-puppy-checklist standard-schnauzer standard-schnauzer-grooming-guide standard-schnauzer-first-year-costs standard-schnauzer-puppy-checklist tibetan-mastiff tibetan-mastiff-grooming-guide tibetan-mastiff-first-year-costs tibetan-mastiff-puppy-checklist german-pinscher german-pinscher-grooming-guide german-pinscher-first-year-costs german-pinscher-puppy-checklist",
+            "day14": "airedale-terrier airedale-terrier-grooming-guide airedale-terrier-first-year-costs airedale-terrier-puppy-checklist border-terrier border-terrier-grooming-guide border-terrier-first-year-costs border-terrier-puppy-checklist cairn-terrier cairn-terrier-grooming-guide cairn-terrier-first-year-costs cairn-terrier-puppy-checklist miniature-bull-terrier miniature-bull-terrier-grooming-guide miniature-bull-terrier-first-year-costs miniature-bull-terrier-puppy-checklist parson-russell-terrier parson-russell-terrier-grooming-guide parson-russell-terrier-first-year-costs parson-russell-terrier-puppy-checklist russell-terrier russell-terrier-grooming-guide russell-terrier-first-year-costs russell-terrier-puppy-checklist australian-terrier australian-terrier-grooming-guide australian-terrier-first-year-costs australian-terrier-puppy-checklist best-gentle-giant-dog-breeds",
+            "day15": "bedlington-terrier bedlington-terrier-grooming-guide bedlington-terrier-first-year-costs bedlington-terrier-puppy-checklist irish-terrier irish-terrier-grooming-guide irish-terrier-first-year-costs irish-terrier-puppy-checklist kerry-blue-terrier kerry-blue-terrier-grooming-guide kerry-blue-terrier-first-year-costs kerry-blue-terrier-puppy-checklist lakeland-terrier lakeland-terrier-grooming-guide lakeland-terrier-first-year-costs lakeland-terrier-puppy-checklist scottish-terrier scottish-terrier-grooming-guide scottish-terrier-first-year-costs scottish-terrier-puppy-checklist brussels-griffon brussels-griffon-grooming-guide brussels-griffon-first-year-costs brussels-griffon-puppy-checklist chinese-crested chinese-crested-grooming-guide chinese-crested-first-year-costs chinese-crested-puppy-checklist",
+            "day16": "miniature-pinscher miniature-pinscher-grooming-guide miniature-pinscher-first-year-costs miniature-pinscher-puppy-checklist papillon papillon-grooming-guide papillon-first-year-costs papillon-puppy-checklist pekingese pekingese-grooming-guide pekingese-first-year-costs pekingese-puppy-checklist japanese-chin japanese-chin-grooming-guide japanese-chin-first-year-costs japanese-chin-puppy-checklist american-eskimo-dog american-eskimo-dog-grooming-guide american-eskimo-dog-first-year-costs american-eskimo-dog-puppy-checklist chinese-shar-pei chinese-shar-pei-grooming-guide chinese-shar-pei-first-year-costs chinese-shar-pei-puppy-checklist coton-de-tulear coton-de-tulear-grooming-guide coton-de-tulear-first-year-costs coton-de-tulear-puppy-checklist",
+            "day17": "lhasa-apso lhasa-apso-grooming-guide lhasa-apso-first-year-costs lhasa-apso-puppy-checklist affenpinscher affenpinscher-grooming-guide affenpinscher-first-year-costs affenpinscher-puppy-checklist silky-terrier silky-terrier-grooming-guide silky-terrier-first-year-costs silky-terrier-puppy-checklist toy-fox-terrier toy-fox-terrier-grooming-guide toy-fox-terrier-first-year-costs toy-fox-terrier-puppy-checklist keeshond keeshond-grooming-guide keeshond-first-year-costs keeshond-puppy-checklist finnish-spitz finnish-spitz-grooming-guide finnish-spitz-first-year-costs finnish-spitz-puppy-checklist norfolk-terrier norfolk-terrier-grooming-guide norfolk-terrier-first-year-costs norfolk-terrier-puppy-checklist",
+            "day18": "norwich-terrier norwich-terrier-grooming-guide norwich-terrier-first-year-costs norwich-terrier-puppy-checklist skye-terrier skye-terrier-grooming-guide skye-terrier-first-year-costs skye-terrier-puppy-checklist welsh-terrier welsh-terrier-grooming-guide welsh-terrier-first-year-costs welsh-terrier-puppy-checklist wire-fox-terrier wire-fox-terrier-grooming-guide wire-fox-terrier-first-year-costs wire-fox-terrier-puppy-checklist lowchen lowchen-grooming-guide lowchen-first-year-costs lowchen-puppy-checklist schipperke schipperke-grooming-guide schipperke-first-year-costs schipperke-puppy-checklist tibetan-spaniel tibetan-spaniel-grooming-guide tibetan-spaniel-first-year-costs tibetan-spaniel-puppy-checklist",
+            "day19": "tibetan-terrier tibetan-terrier-grooming-guide tibetan-terrier-first-year-costs tibetan-terrier-puppy-checklist xoloitzcuintli xoloitzcuintli-grooming-guide xoloitzcuintli-first-year-costs xoloitzcuintli-puppy-checklist komondor komondor-grooming-guide komondor-first-year-costs komondor-puppy-checklist bearded-collie bearded-collie-grooming-guide bearded-collie-first-year-costs bearded-collie-puppy-checklist bouvier-des-flandres bouvier-des-flandres-grooming-guide bouvier-des-flandres-first-year-costs bouvier-des-flandres-puppy-checklist beauceron beauceron-grooming-guide beauceron-first-year-costs beauceron-puppy-checklist belgian-sheepdog belgian-sheepdog-grooming-guide belgian-sheepdog-first-year-costs belgian-sheepdog-puppy-checklist",
+            "day20": "belgian-tervuren belgian-tervuren-grooming-guide belgian-tervuren-first-year-costs belgian-tervuren-puppy-checklist briard briard-grooming-guide briard-first-year-costs briard-puppy-checklist entlebucher-mountain-dog entlebucher-mountain-dog-grooming-guide entlebucher-mountain-dog-first-year-costs entlebucher-mountain-dog-puppy-checklist finnish-lapphund finnish-lapphund-grooming-guide finnish-lapphund-first-year-costs finnish-lapphund-puppy-checklist icelandic-sheepdog icelandic-sheepdog-grooming-guide icelandic-sheepdog-first-year-costs icelandic-sheepdog-puppy-checklist polish-lowland-sheepdog polish-lowland-sheepdog-grooming-guide polish-lowland-sheepdog-first-year-costs polish-lowland-sheepdog-puppy-checklist puli puli-grooming-guide puli-first-year-costs puli-puppy-checklist",
+            "day21": "spanish-water-dog spanish-water-dog-grooming-guide spanish-water-dog-first-year-costs spanish-water-dog-puppy-checklist swedish-vallhund swedish-vallhund-grooming-guide swedish-vallhund-first-year-costs swedish-vallhund-puppy-checklist best-watchdog-breeds most-popular-dog-breeds",
+            "day22": "most-intelligent-dog-breeds easiest-dogs-to-train",
+            "day23": "longest-living-dog-breeds best-dogs-for-hot-climates best-dogs-for-hiking",
+            "day24": "best-working-dog-breeds best-toy-dog-breeds best-non-sporting-dog-breeds",
+            "day25": "most-loyal-dog-breeds dog-breeds-good-with-cats quietest-dog-breeds",
+            "day26": "rarest-dog-breeds most-expensive-dog-breeds",
+            "day27": "dog-breeds-by-size dog-breeds-by-group",
+          }
+
+          day_key = schedule.get(today)
+          if not day_key:
+              print(f"Nothing to publish today ({today})")
+              sys.exit(0)
+
+          slugs = slugs_by_day[day_key].split()
+          print(f"Today: {today} = {day_key} ({len(slugs)} articles)")
+
+          # Check already published
+          token = open('.env').read()
+          token = [l.split('=',1)[1].strip() for l in token.splitlines() if l.startswith('SHOPIFY_TOKEN')][0]
+          blog_id = [l.split('=',1)[1].strip() for l in open('.env').readlines() if l.startswith('SHOPIFY_BLOG_ID')][0]
+          store = [l.split('=',1)[1].strip() for l in open('.env').readlines() if l.startswith('SHOPIFY_STORE')][0]
+
+          def already_published(slug):
+              url = f'https://{store}/admin/api/2024-01/blogs/{blog_id}/articles.json?handle={slug}&fields=id,handle'
+              req = urllib.request.Request(url)
+              req.add_header('X-Shopify-Access-Token', token)
+              with urllib.request.urlopen(req) as r:
+                  data = json.loads(r.read())
+              return len(data.get('articles', [])) > 0
+
+          to_publish = [s for s in slugs if not already_published(s)]
+          skipped = len(slugs) - len(to_publish)
+          print(f"Already published: {skipped}, to publish: {len(to_publish)}")
+
+          if not to_publish:
+              print("All articles already published.")
+              sys.exit(0)
+
+          cmd = ['python3', 'scripts/generate.py'] + to_publish + ['--publish']
+          proc = subprocess.run(['bash', '-c', 'echo YES | ' + ' '.join(cmd)], capture_output=False)
+          sys.exit(proc.returncode)
+          EOF
