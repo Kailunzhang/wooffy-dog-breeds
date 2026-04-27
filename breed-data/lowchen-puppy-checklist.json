@@ -5,26 +5,20 @@
     "shopify_handle": "lowchen-puppy-checklist",
     "group": "Lowchen",
     "size_category": "Guide",
-    "tags": ["lowchen", "puppy", "checklist", "non-sporting"],
+    "tags": [
+      "lowchen",
+      "puppy",
+      "checklist",
+      "non-sporting"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "Everything you need to prepare, purchase, and do in the first weeks with your Lowchen puppy — from home setup and breeder coordination to first training steps and coat care.",
     "meta_description": "Lowchen puppy checklist: home prep, supplies, crate training, socialization, and early grooming handling for your new Little Lion Dog."
   },
-  "stats": {
-    "height": "12–14 inches",
-    "weight": "15 lbs",
-    "lifespan": "13–15 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Easy"
-  },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lowchen_dog.jpg/330px-Lowchen_dog.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Adult_Lowchen_Gaiting.jpg/330px-Adult_Lowchen_Gaiting.jpg",
       "alt": "Lowchen"
     }
   },
@@ -58,6 +52,5 @@
       "q": "How quickly do Lowchen puppies learn?",
       "a": "Very quickly compared to most small breeds. Name recognition, sit, and basic house rules are typically established within the first two weeks with consistent positive training. The Lowchen's combination of intelligence and willingness to engage makes it one of the easiest small breeds to train."
     }
-  ],
-  "related_breeds": ["bichon-frise", "maltese", "havanese"]
+  ]
 }

@@ -5,26 +5,61 @@
     "shopify_handle": "coton-de-tulear",
     "group": "Non-Sporting",
     "size_category": "Small",
-    "tags": ["coton-de-tulear", "non-sporting", "small"],
+    "tags": [
+      "coton-de-tulear",
+      "non-sporting",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "The Coton de Tulear is Madagascar's cheerful, cotton-coated companion — a low-shedding, long-lived small breed beloved for its gentle temperament and clownish personality. One of the most adaptable and family-friendly small dogs available.",
     "meta_description": "Coton de Tulear breed guide: temperament, cotton coat care, health, and costs. Madagascar's cheerful companion with a 15–19 year lifespan and low-shedding coat."
   },
   "stats": {
-    "height": "9–11 inches",
-    "weight": "8–13 lbs",
-    "lifespan": "15–19 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Easy"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Toy"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "8–13 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "15–19 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Coton_de_Tulear_600.jpg/330px-Coton_de_Tulear_600.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coton_de_Tular_1.jpg/330px-Coton_de_Tular_1.jpg",
       "alt": "Coton de Tulear"
     }
   },
@@ -67,7 +102,19 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "An Excellent Match for Most Household Types",
-      "html": "<p>The Coton de Tulear is one of the most broadly suitable small breeds available. It works well for families with children, seniors, singles, city dwellers, and first-time dog owners. It does require a commitment to regular grooming and cannot be left alone for very long periods. If you want a low-shedding, long-lived, cheerful companion dog and are prepared to commit to the coat, the Coton is an outstanding choice.</p>"
+      "good_fit": [
+        "The Coton de Tulear is one of the most broadly suitable small breeds available",
+        "It works well for families with children, seniors, singles, city dwellers, and first-time dog owners",
+        "It does require a commitment to regular grooming and cannot be left alone for very long periods",
+        "If you want a low-shedding, long-lived, cheerful companion dog and are prepared to commit to the coat, the Coton is an outstanding choice"
+      ],
+      "not_fit": [
+        "Households unable to commit to the breed's daily exercise needs",
+        "Owners wanting a low-maintenance or hands-off pet",
+        "First-time dog owners unfamiliar with this breed type",
+        "Living situations that don't match the breed's space requirements",
+        "Anyone unprepared for the grooming or training time the breed demands"
+      ]
     },
     "finding": {
       "label": "Finding a Coton de Tulear",
@@ -89,5 +136,21 @@
       "a": "Yes, the Coton is one of the best small-breed family dogs available. It is gentle with children, good with other dogs and pets, trainable, and has an adaptable, cheerful temperament that meshes well with varied household dynamics."
     }
   ],
-  "related_breeds": ["bichon-frise", "maltese", "havanese"]
+  "related_breeds": [
+    {
+      "name": "Bichon Frise",
+      "slug": "bichon-frise",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Maltese",
+      "slug": "maltese",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Havanese",
+      "slug": "havanese",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

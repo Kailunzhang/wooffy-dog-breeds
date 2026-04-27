@@ -5,26 +5,61 @@
     "shopify_handle": "bouvier-des-flandres",
     "group": "Herding",
     "size_category": "Large",
-    "tags": ["bouvier-des-flandres", "herding", "large-dog"],
+    "tags": [
+      "bouvier-des-flandres",
+      "herding",
+      "large-dog"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "The Bouvier des Flandres is a powerfully built, highly intelligent Belgian herding and working dog with a thick, rough double coat. Versatile and trainable, this breed has served as a cattle herder, police dog, and devoted family companion.",
     "meta_description": "Bouvier des Flandres breed guide: temperament, grooming, health, costs, and whether this powerful Belgian herding dog is right for you."
   },
   "stats": {
-    "height": "23.5–27.5 inches",
-    "weight": "70–110 lbs",
-    "lifespan": "10–12 years",
-    "energy_level": "High",
-    "grooming_needs": "High",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Easy"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "70–110 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–12 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bouvier_des_Flandres_2.jpg/330px-Bouvier_des_Flandres_2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bouvier.JPG/330px-Bouvier.JPG",
       "alt": "Bouvier des Flandres"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Bouvier des Flandres Right for Your Family?",
-      "html": "<p>The Bouvier des Flandres is a remarkable dog but genuinely demanding. An honest self-assessment of your experience and lifestyle is essential before committing to this breed.</p><p><strong>The Bouvier is an excellent match if you:</strong> Have experience with large, intelligent working dogs. Can provide 60–90 minutes of vigorous daily exercise. Are committed to ongoing training — not just puppy class, but regular training throughout the dog's life. Can invest in regular grooming. Want a deeply loyal, protective companion. Are interested in dog sports or working activities.</p><p><strong>The Bouvier is likely not a good match if you:</strong> Are a first-time dog owner. Have limited time for exercise and training. Prefer a low-maintenance coat. Want an easygoing, laid-back companion. Have a very small living space with no outdoor access.</p><p>For the right owner, the Bouvier is an extraordinary partner — athletic, intelligent, trainable, and deeply devoted. For the unprepared owner, the same traits that make the breed exceptional can become significant management challenges.</p>"
+      "good_fit": [
+        "Are a first-time dog owner",
+        "Have limited time for exercise and training",
+        "Prefer a low-maintenance coat",
+        "Want an easygoing, laid-back companion",
+        "Have a very small living space with no outdoor access"
+      ],
+      "not_fit": [
+        "Are a first-time dog owner",
+        "Have limited time for exercise and training",
+        "Prefer a low-maintenance coat",
+        "Want an easygoing, laid-back companion",
+        "Have a very small living space with no outdoor access"
+      ]
     },
     "finding": {
       "label": "Finding a Bouvier des Flandres",
@@ -97,5 +145,21 @@
       "a": "Both are Belgian working/herding breeds but quite different in practice. The Bouvier is larger, heavier, and has a thick rough coat, while the Malinois is leaner, faster, and has a short coat. Both are highly intelligent and trainable, but the Malinois tends to have even higher drive and intensity, making it even more demanding. The Bouvier is somewhat more suitable as a family companion."
     }
   ],
-  "related_breeds": ["belgian-malinois", "belgian-sheepdog", "giant-schnauzer"]
+  "related_breeds": [
+    {
+      "name": "Belgian Malinois",
+      "slug": "belgian-malinois",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Belgian Sheepdog",
+      "slug": "belgian-sheepdog",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Giant Schnauzer",
+      "slug": "giant-schnauzer",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

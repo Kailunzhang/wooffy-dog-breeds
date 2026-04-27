@@ -5,22 +5,15 @@
     "shopify_handle": "wire-fox-terrier-grooming-guide",
     "group": "Wire Fox Terrier",
     "size_category": "Guide",
-    "tags": ["wire-fox-terrier", "grooming", "terrier"],
+    "tags": [
+      "wire-fox-terrier",
+      "grooming",
+      "terrier"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "A complete grooming guide for the Wire Fox Terrier's dense wiry white coat — covering hand-stripping technique, clipping for pets, beard and leg maintenance, and bathing best practices.",
     "meta_description": "Wire Fox Terrier grooming guide: hand-stripping, clipping, brushing schedule, and coat care for the breed's iconic wiry white coat."
-  },
-  "stats": {
-    "height": "Up to 15.5 inches",
-    "weight": "15–18 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "Very High",
-    "grooming_needs": "High",
-    "good_with_kids": true,
-    "good_with_other_dogs": false,
-    "shedding": "Low",
-    "trainability": "Moderate"
   },
   "images": {
     "hero": {
@@ -58,6 +51,5 @@
       "q": "How do I prevent beard staining on my white Wire Fox Terrier?",
       "a": "Clean the beard after every meal with a damp cloth or pet-safe face wipe. Comb through daily to prevent matting and food accumulation. Use a stainless steel or ceramic bowl rather than plastic, which can harbor bacteria. Periodic use of a whitening shampoo on the beard during baths helps reduce accumulated staining."
     }
-  ],
-  "related_breeds": ["smooth-fox-terrier", "welsh-terrier", "lakeland-terrier"]
+  ]
 }

@@ -5,26 +5,61 @@
     "shopify_handle": "norwich-terrier",
     "group": "Terrier",
     "size_category": "Small",
-    "tags": ["norwich-terrier", "terrier", "small"],
+    "tags": [
+      "norwich-terrier",
+      "terrier",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "The Norwich Terrier is one of the smallest AKC terriers — bold, cheerful, and identified by its upright prick ears. A resilient working terrier with a happy-go-lucky personality and minimal shedding.",
     "meta_description": "Norwich Terrier breed guide: prick ears, temperament, grooming, health, and care for this small but hardy and cheerful terrier breed."
   },
   "stats": {
-    "height": "10 inches",
-    "weight": "12 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "12 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Norwich_Terrier.jpg/330px-Norwich_Terrier.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Norwichterrier.jpg/330px-Norwichterrier.jpg",
       "alt": "Norwich Terrier"
     }
   },
@@ -67,7 +102,18 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Norwich Terrier Right for You?",
-      "html": "<p>The Norwich Terrier suits active individuals, couples, and families with older children who want a small, spirited, low-shedding companion with genuine personality. It adapts to a variety of living situations with appropriate daily exercise. Its sociable nature makes it one of the more versatile small terriers.</p><p>It requires daily engagement, should not be left alone for long hours, and is not suitable for homes with small pets that trigger its prey drive. But for the right owner, the Norwich Terrier is an absolutely outstanding small dog — tough, funny, loyal, and full of life.</p>"
+      "good_fit": [
+        "The Norwich Terrier suits active individuals, couples, and families with older children who want a small, spirited, low-shedding companion with genuine personality",
+        "It adapts to a variety of living situations with appropriate daily exercise",
+        "Its sociable nature makes it one of the more versatile small terriers"
+      ],
+      "not_fit": [
+        "Homes with small pets that trigger its prey drive",
+        "But for the right owner, the Norwich Terrier is an absolutely outstanding small dog — tough, funny, loyal, and full of life",
+        "Households unable to commit to the breed's daily exercise needs",
+        "Owners wanting a low-maintenance or hands-off pet",
+        "First-time dog owners unfamiliar with this breed type"
+      ]
     },
     "finding": {
       "label": "Finding a Norwich Terrier",
@@ -89,5 +135,21 @@
       "a": "No. The wiry coat sheds minimally — dead hair tends to stay in the coat rather than falling out, which is why regular brushing or professional stripping is needed to remove it. This makes the Norwich a good choice for people who don't want heavy shedding."
     }
   ],
-  "related_breeds": ["norfolk-terrier", "cairn-terrier", "scottish-terrier"]
+  "related_breeds": [
+    {
+      "name": "Norfolk Terrier",
+      "slug": "norfolk-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Cairn Terrier",
+      "slug": "cairn-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Scottish Terrier",
+      "slug": "scottish-terrier",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

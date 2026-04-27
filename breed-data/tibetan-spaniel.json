@@ -5,26 +5,61 @@
     "shopify_handle": "tibetan-spaniel",
     "group": "Non-Sporting",
     "size_category": "Small",
-    "tags": ["tibetan-spaniel", "non-sporting", "small"],
+    "tags": [
+      "tibetan-spaniel",
+      "non-sporting",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "The Tibetan Spaniel is a watchful, independent monastic temple dog from Tibet with a silky double coat and a cat-like personality. It bonds deeply with its family while remaining elegantly reserved with strangers.",
     "meta_description": "Tibetan Spaniel breed guide: temperament, silky double coat, Tibetan monastery history, independent nature, health, grooming, and costs."
   },
   "stats": {
-    "height": "10 inches",
-    "weight": "9–15 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "Low",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "9–15 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tibetan_Spaniel_600.jpg/330px-Tibetan_Spaniel_600.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Tibetansk_spaniel.jpg/330px-Tibetansk_spaniel.jpg",
       "alt": "Tibetan Spaniel"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Tibetan Spaniel the Right Breed for You?",
-      "html": "<p>The Tibetan Spaniel is an excellent match for adults, couples, or families with respectful children who want a small companion dog with genuine personality, intelligence, and ancient heritage. Its low grooming requirements, moderate energy level, and adaptability to apartment or house living give it broad appeal. The independent, cat-like temperament is a feature for those who appreciate it and a mismatch for owners who want an effusive, eager-to-please companion.</p><p>The breed is less suitable for households that want instant, unconditional friendliness, for very young children (the dog's dignity deserves respect), or for owners who prioritize obedience over partnership. For the right owner — patient, respectful, and willing to earn the dog's trust — the Tibetan Spaniel is an endlessly rewarding companion.</p>"
+      "good_fit": [
+        "Owners who can match the breed's exercise and training needs",
+        "Households committed to early socialization and consistent boundaries",
+        "People who enjoy daily engagement and active companionship with their dog",
+        "Homes with the appropriate space and lifestyle for the breed's energy level",
+        "Owners who have researched the breed and understand its temperament"
+      ],
+      "not_fit": [
+        "Households that want instant",
+        "Unconditional friendliness",
+        "For very young children (the dog's dignity deserves respect)",
+        "For owners who prioritize obedience over partnership",
+        "For the right owner — patient, respectful, and willing to earn the dog's trust — the Tibetan Spaniel is an endlessly rewarding companion"
+      ]
     },
     "finding": {
       "label": "Finding a Tibetan Spaniel",
@@ -89,5 +137,21 @@
       "a": "They are alert dogs and will bark to announce approaching people or sounds outside the home. They are not excessive barkers for their own sake, but their watchdog heritage means they take their alerting role seriously. Training a quiet cue early is a good investment."
     }
   ],
-  "related_breeds": ["lhasa-apso", "tibetan-terrier", "pekingese"]
+  "related_breeds": [
+    {
+      "name": "Lhasa Apso",
+      "slug": "lhasa-apso",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Tibetan Terrier",
+      "slug": "tibetan-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Pekingese",
+      "slug": "pekingese",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

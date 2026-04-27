@@ -5,26 +5,20 @@
     "shopify_handle": "schipperke-puppy-checklist",
     "group": "Schipperke",
     "size_category": "Guide",
-    "tags": ["schipperke", "puppy", "checklist", "non-sporting"],
+    "tags": [
+      "schipperke",
+      "puppy",
+      "checklist",
+      "non-sporting"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "Your complete checklist for preparing your home, gathering supplies, and starting your Schipperke puppy off right — including the MPS IIIB documentation to verify and early training essentials for this spirited breed.",
     "meta_description": "Schipperke puppy checklist: home prep, supplies, health documentation, crate training, and early training tips for the Little Black Devil."
   },
-  "stats": {
-    "height": "10–13 inches",
-    "weight": "10–16 lbs",
-    "lifespan": "12–16 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Moderate"
-  },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schipperke_photo.jpg/330px-Schipperke_photo.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schipperke0001.jpg/330px-Schipperke0001.jpg",
       "alt": "Schipperke"
     }
   },
@@ -58,6 +52,5 @@
       "q": "When can I start puppy classes with my Schipperke?",
       "a": "Most veterinarians approve puppy class attendance after the second round of puppy vaccines, typically around 10–12 weeks of age. Given the Schipperke's energy level and intelligent, independent temperament, early positive-reinforcement training is strongly recommended — the sooner you start, the better the foundation."
     }
-  ],
-  "related_breeds": ["pomeranian", "keeshond", "finnish-spitz"]
+  ]
 }

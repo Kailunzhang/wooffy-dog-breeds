@@ -5,7 +5,10 @@
     "shopify_handle": "anatolian-shepherd-dog-grooming-guide",
     "group": "Anatolian Shepherd Dog",
     "size_category": "Guide",
-    "tags": ["anatolian-shepherd-dog", "grooming"],
+    "tags": [
+      "anatolian-shepherd-dog",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The Anatolian Shepherd Dog has a low-maintenance coat that requires regular brushing and seasonal attention to heavy shedding. Learn the essentials of keeping this working guardian looking and feeling its best.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Anatolian_Shepherd_Dog_Male.jpg/330px-Anatolian_Shepherd_Dog_Male.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Anatolian_Shepherd_Dog_01.jpg/330px-Anatolian_Shepherd_Dog_01.jpg",
       "alt": "Anatolian Shepherd Dog grooming"
     }
   },

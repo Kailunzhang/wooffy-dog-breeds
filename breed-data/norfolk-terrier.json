@@ -5,22 +5,57 @@
     "shopify_handle": "norfolk-terrier",
     "group": "Terrier",
     "size_category": "Small",
-    "tags": ["norfolk-terrier", "terrier", "small"],
+    "tags": [
+      "norfolk-terrier",
+      "terrier",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "The Norfolk Terrier is one of the smallest AKC terriers — gregarious, adaptable, and identified by its distinctive drop ears. A spirited but sociable working terrier that fits surprisingly well into family life.",
     "meta_description": "Norfolk Terrier breed guide: temperament, drop ears vs Norwich Terrier, grooming, health, and care tips for this small but hardy terrier."
   },
   "stats": {
-    "height": "9–10 inches",
-    "weight": "11–12 lbs",
-    "lifespan": "12–16 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Toy"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "11–12 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–16 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
@@ -67,7 +102,18 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Norfolk Terrier the Right Dog for You?",
-      "html": "<p>The Norfolk Terrier is an excellent choice for active individuals, couples, or families with children who want a small, robust, and sociable terrier. It adapts well to apartments with sufficient exercise and does well in houses with yards. Its dog-friendly nature makes it one of the more versatile terriers for multi-dog households.</p><p>It is not ideal for homes with birds, hamsters, or other small pets given its prey drive. Owners who want a calm, quiet lap dog will be surprised by the Norfolk's energy and vocal alertness. But for the right owner, it offers a long, rewarding, and entertaining relationship.</p>"
+      "good_fit": [
+        "Active individuals",
+        "Families with children who want a small",
+        "Sociable terrier",
+        "It adapts well to apartments with sufficient exercise and does well in houses with yards",
+        "Its dog-friendly nature makes it one of the more versatile terriers for multi-dog households"
+      ],
+      "not_fit": [
+        "It is not ideal for homes with birds, hamsters, or other small pets given its prey drive",
+        "Owners who want a calm, quiet lap dog will be surprised by the Norfolk's energy and vocal alertness",
+        "But for the right owner, it offers a long, rewarding, and entertaining relationship"
+      ]
     },
     "finding": {
       "label": "Finding a Norfolk Terrier",
@@ -89,5 +135,21 @@
       "a": "The Norfolk Terrier has a notably long lifespan of 12–16 years, making it one of the longer-lived small breeds. Maintaining a healthy weight and providing regular veterinary care supports longevity."
     }
   ],
-  "related_breeds": ["norwich-terrier", "cairn-terrier", "west-highland-white-terrier"]
+  "related_breeds": [
+    {
+      "name": "Norwich Terrier",
+      "slug": "norwich-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Cairn Terrier",
+      "slug": "cairn-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "West Highland White Terrier",
+      "slug": "west-highland-white-terrier",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

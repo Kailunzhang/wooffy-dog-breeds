@@ -5,26 +5,61 @@
     "shopify_handle": "australian-terrier",
     "group": "Terrier",
     "size_category": "Small",
-    "tags": ["australian-terrier", "terrier", "small"],
+    "tags": [
+      "australian-terrier",
+      "terrier",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Australian Terrier is one of the smallest working terriers in the world — a tough, spirited, and affectionate dog developed in Australia to hunt rodents and snakes in harsh conditions.",
     "meta_description": "Complete Australian Terrier breed guide: temperament, care, grooming, health, and costs. Learn about this adaptable, spirited small working terrier."
   },
   "stats": {
-    "height": "10–11 inches",
-    "weight": "15–20 lbs",
-    "lifespan": "11–15 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "15–20 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "11–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Australian_Terrier.jpg/330px-Australian_Terrier.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Australian_Terrier_adult_male.jpg/330px-Australian_Terrier_adult_male.jpg",
       "alt": "Australian Terrier"
     }
   },
@@ -67,7 +102,18 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Australian Terrier Right for You?",
-      "html": "<p>The Australian Terrier suits active households looking for a small dog with genuine working-dog substance and a somewhat more adaptable temperament than some other terrier breeds. It's a good choice for those with some dog experience who want a long-lived, loyal, and entertaining companion that does well in various living situations including apartments with sufficient exercise.</p><p>It's less ideal for first-time dog owners unfamiliar with terrier independence, households with pet rodents or birds, or owners who want a very low-energy companion requiring minimal exercise.</p>"
+      "good_fit": [
+        "The Australian Terrier suits active households looking for a small dog with genuine working-dog substance and a somewhat more adaptable temperament than some other terrier breeds",
+        "Those with some dog experience who want a long-lived",
+        "Entertaining companion that does well in various living situations including apartments with sufficient exercise"
+      ],
+      "not_fit": [
+        "Households unable to commit to the breed's daily exercise needs",
+        "Owners wanting a low-maintenance or hands-off pet",
+        "First-time dog owners unfamiliar with this breed type",
+        "Living situations that don't match the breed's space requirements",
+        "Anyone unprepared for the grooming or training time the breed demands"
+      ]
     },
     "finding": {
       "label": "Finding an Australian Terrier",
@@ -93,5 +139,21 @@
       "a": "30–45 minutes of daily vigorous exercise is typically sufficient. Daily walks plus active play sessions in a fenced yard work well. The breed has genuine working-dog stamina but is not as extremely high-energy as some terrier types."
     }
   ],
-  "related_breeds": ["cairn-terrier", "norwich-terrier", "yorkshire-terrier"]
+  "related_breeds": [
+    {
+      "name": "Cairn Terrier",
+      "slug": "cairn-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Norwich Terrier",
+      "slug": "norwich-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Yorkshire Terrier",
+      "slug": "yorkshire-terrier",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

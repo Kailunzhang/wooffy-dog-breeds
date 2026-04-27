@@ -5,26 +5,61 @@
     "shopify_handle": "brussels-griffon",
     "group": "Toy",
     "size_category": "Small",
-    "tags": ["brussels-griffon", "toy", "small"],
+    "tags": [
+      "brussels-griffon",
+      "toy",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "The Brussels Griffon is a tiny Belgian breed with a larger-than-life personality and an almost human facial expression. Sensitive, devoted, and occasionally neurotic, this breed bonds deeply with one person and demands to be involved in everything.",
     "meta_description": "Brussels Griffon breed guide: temperament, grooming, health, and costs. The little Belgian breed with the monkey face and a huge personality."
   },
   "stats": {
-    "height": "7–10 inches",
-    "weight": "8–10 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "Moderate",
-    "good_with_kids": false,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Toy"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "8–10 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Caution"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Brussels_Griffon_2010.jpg/330px-Brussels_Griffon_2010.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Monkey_Bizniz_Drama_Queen.jpg",
       "alt": "Brussels Griffon"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "A Dog for the Right Kind of Devoted Owner",
-      "html": "<p>The Brussels Griffon is right for adults or families with older children who want a deeply bonded small dog and can provide consistent companionship. It adapts well to apartment life and city living. It is not ideal for households with young children, for owners who travel frequently and will need to leave the dog for extended periods, or for people who want a low-maintenance, easygoing pet.</p>"
+      "good_fit": [
+        "Families with older children who want a deeply bonded small dog and can provide consistent companionship",
+        "It adapts well to apartment life and city living",
+        "Owners who can match the breed's exercise and training needs",
+        "Households committed to early socialization and consistent boundaries",
+        "People who enjoy daily engagement and active companionship with their dog"
+      ],
+      "not_fit": [
+        "It is not ideal for households with young children, for owners who travel frequently and will need to leave the dog for extended periods, or for people who want a low-maintenance, easygoing pet",
+        "Households unable to commit to the breed's daily exercise needs",
+        "Owners wanting a low-maintenance or hands-off pet",
+        "First-time dog owners unfamiliar with this breed type",
+        "Living situations that don't match the breed's space requirements"
+      ]
     },
     "finding": {
       "label": "Finding a Brussels Griffon",
@@ -89,5 +137,21 @@
       "a": "Syringomyelia is a condition where fluid-filled cavities form in the spinal cord, often associated with the domed skull structure of brachycephalic breeds. It can cause significant pain and neurological symptoms. Reputable breeders screen for it using MRI. Ask any breeder you contact about their syringomyelia screening protocols."
     }
   ],
-  "related_breeds": ["pug", "affenpinscher", "english-toy-spaniel"]
+  "related_breeds": [
+    {
+      "name": "Pug",
+      "slug": "pug",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Affenpinscher",
+      "slug": "affenpinscher",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "English Toy Spaniel",
+      "slug": "english-toy-spaniel",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

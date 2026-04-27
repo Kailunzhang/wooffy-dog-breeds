@@ -5,7 +5,10 @@
     "shopify_handle": "german-pinscher-grooming-guide",
     "group": "German Pinscher",
     "size_category": "Guide",
-    "tags": ["german-pinscher", "grooming"],
+    "tags": [
+      "german-pinscher",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The German Pinscher's sleek short coat is one of the easiest in the dog world to maintain. Learn the simple grooming routine that keeps this elegant breed looking sharp with minimal effort.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/German_Pinscher_Bonni_vom_Adelssitz_2014.jpg/330px-German_Pinscher_Bonni_vom_Adelssitz_2014.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bvdb-duitse_pincher.jpg/330px-Bvdb-duitse_pincher.jpg",
       "alt": "German Pinscher"
     }
   },

@@ -5,26 +5,61 @@
     "shopify_handle": "dogue-de-bordeaux",
     "group": "Working",
     "size_category": "Giant",
-    "tags": ["dogue-de-bordeaux", "working", "giant"],
+    "tags": [
+      "dogue-de-bordeaux",
+      "working",
+      "giant"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The Dogue de Bordeaux is one of France's oldest and most beloved breeds, famous for its massive wrinkled head and devoted temperament. Known worldwide as Hooch from Turner & Hooch, this breed is loyal, gentle, and deeply family-oriented.",
     "meta_description": "Dogue de Bordeaux breed guide: temperament, health risks, grooming, and costs. The French Mastiff known as Hooch — devoted, powerful, and short-lived."
   },
   "stats": {
-    "height": "23–27 inches",
-    "weight": "110+ lbs",
-    "lifespan": "5–8 years",
-    "energy_level": "Low",
-    "grooming_needs": "Low",
-    "good_with_kids": true,
-    "good_with_other_dogs": false,
-    "shedding": "Moderate",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Giant"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "110+ lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "5–8 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "30–60 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dogue_de_Bordeaux_profil.jpg/330px-Dogue_de_Bordeaux_profil.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/French_Mastiff_female_4.jpg/330px-French_Mastiff_female_4.jpg",
       "alt": "Dogue de Bordeaux"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "A Breed That Asks for Full Commitment",
-      "html": "<p>The Dogue de Bordeaux is right for you if you have the space for a giant breed, are prepared to manage health proactively, can accept a shorter-than-average lifespan with grace, and want a breed of extraordinary devotion and depth. It is not suitable for high-energy families looking for an active sporting companion, first-time owners unfamiliar with guardian-breed dynamics, or anyone not prepared to make significant veterinary investments.</p>"
+      "good_fit": [
+        "Owners with the space, budget, and patience for a giant guardian breed",
+        "Households ready for proactive health management and significant vet investment",
+        "People who can accept and prepare for a 5–8 year lifespan with grace",
+        "Calm households that suit a low-to-moderate energy companion",
+        "Owners who value deep loyalty over high trainability"
+      ],
+      "not_fit": [
+        "Active families wanting a sporting or running companion",
+        "First-time owners unfamiliar with guardian-breed dynamics",
+        "Anyone unable to budget for giant-breed food, vet care, and equipment",
+        "People bothered by heavy drooling and slobber",
+        "Hot, humid climates without strong air conditioning"
+      ]
     },
     "finding": {
       "label": "Finding a Dogue de Bordeaux",
@@ -89,5 +137,21 @@
       "a": "Yes, extensively. The breed has heavy jowls and drools around food, water, excitement, and heat. Drool cloths and regular jowl-wiping are part of life with this breed. If drool bothers you, the DDB is probably not the right choice."
     }
   ],
-  "related_breeds": ["bullmastiff", "mastiff", "cane-corso"]
+  "related_breeds": [
+    {
+      "name": "Bullmastiff",
+      "slug": "bullmastiff",
+      "note": "Closely related English mastiff cousin"
+    },
+    {
+      "name": "Mastiff",
+      "slug": "mastiff",
+      "note": "Larger English mastiff with longer lifespan"
+    },
+    {
+      "name": "Cane Corso",
+      "slug": "cane-corso",
+      "note": "Italian mastiff alternative with more energy"
+    }
+  ]
 }

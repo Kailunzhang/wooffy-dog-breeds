@@ -5,26 +5,61 @@
     "shopify_handle": "swedish-vallhund",
     "group": "Herding",
     "size_category": "Small",
-    "tags": ["swedish-vallhund", "herding", "small"],
+    "tags": [
+      "swedish-vallhund",
+      "herding",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-05-05T16:00:00Z",
     "excerpt": "The Swedish Vallhund is an ancient Viking herding dog — low-set, corgi-like in shape but entirely its own breed — with a harsh weather-resistant double coat, high energy, and a versatile, cheerful working temperament.",
     "meta_description": "Swedish Vallhund breed guide: temperament, Viking history, sable double coat, SVR eye disease testing, herding aptitude, and costs for this ancient Scandinavian breed."
   },
   "stats": {
-    "height": "11.5–13.5 inches",
-    "weight": "20–35 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Easy"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "20–35 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Swedish_Vallhund_bitch.jpg/330px-Swedish_Vallhund_bitch.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/V%C3%A4stg%C3%B6taspets_hane_5_%C3%A5r.jpg/330px-V%C3%A4stg%C3%B6taspets_hane_5_%C3%A5r.jpg",
       "alt": "Swedish Vallhund"
     }
   },
@@ -67,7 +102,19 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Swedish Vallhund the Right Breed for You?",
-      "html": "<p>The Swedish Vallhund is an excellent choice for active individuals, couples, or families with children who want a highly trainable, energetic small herding dog with a remarkable history and genuine working aptitude. It is adaptable to suburban or rural living with sufficient exercise, and its compact size makes it more manageable than full-sized herding breeds.</p><p>The Swedish Vallhund is not the right choice for sedentary households, owners who cannot provide 60–90 minutes of daily vigorous activity, or owners who want a calm, low-maintenance companion. SVR genetic testing is a non-negotiable requirement at purchase. For active, engaged owners who research the breed thoroughly and find a health-testing breeder, the Swedish Vallhund is one of the most rewarding herding breeds available.</p>"
+      "good_fit": [
+        "Active individuals",
+        "Families with children who want a highly trainable",
+        "Energetic small herding dog with a remarkable history and genuine working aptitude",
+        "It is adaptable to suburban or rural living with sufficient exercise, and its compact size makes it more manageable than full-sized herding breeds"
+      ],
+      "not_fit": [
+        "Sedentary households",
+        "Owners who cannot provide 60–90 minutes of daily vigorous activity",
+        "Owners who want a calm",
+        "Low-maintenance companion",
+        "SVR genetic testing is a non-negotiable requirement at purchase"
+      ]
     },
     "finding": {
       "label": "Finding a Swedish Vallhund",
@@ -89,5 +136,21 @@
       "a": "Excellent. The Swedish Vallhund is an outstanding agility dog — athletic, fast, highly trainable, and motivated. It also excels in herding trials, rally obedience, and nose work. Its combination of intelligence, drive, and biddability makes it competitive in any structured canine sport."
     }
   ],
-  "related_breeds": ["pembroke-welsh-corgi", "cardigan-welsh-corgi", "icelandic-sheepdog"]
+  "related_breeds": [
+    {
+      "name": "Pembroke Welsh Corgi",
+      "slug": "pembroke-welsh-corgi",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Cardigan Welsh Corgi",
+      "slug": "cardigan-welsh-corgi",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Icelandic Sheepdog",
+      "slug": "icelandic-sheepdog",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

@@ -5,26 +5,61 @@
     "shopify_handle": "chinese-crested",
     "group": "Toy",
     "size_category": "Small",
-    "tags": ["chinese-crested", "toy", "small"],
+    "tags": [
+      "chinese-crested",
+      "toy",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "The Chinese Crested is a uniquely striking Toy breed that comes in two varieties: the hairless, with flowing hair on head, feet, and tail, and the Powder Puff, fully covered in a soft double coat. Social, devoted, and low-shedding, they thrive on human company.",
     "meta_description": "Chinese Crested breed guide: hairless vs Powder Puff, temperament, skin care, dental health, and costs for this unique and devoted Toy breed."
   },
   "stats": {
-    "height": "11–13 inches",
-    "weight": "8–12 lbs",
-    "lifespan": "13–18 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Toy"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "8–12 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "13–18 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ChineseCresteddogs.jpg/330px-ChineseCresteddogs.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IndyStands.jpg/330px-IndyStands.jpg",
       "alt": "Chinese Crested"
     }
   },
@@ -67,7 +102,18 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "A Unique Breed for a Committed Owner",
-      "html": "<p>The Chinese Crested is right for owners who want a devoted, long-lived companion and are prepared to commit to the specific care needs: skin care and sunscreen for hairless dogs, dental vigilance for both, and regular grooming for Powder Puffs. The breed adapts well to apartment living, is good with older children and other pets, and has a remarkable lifespan. It is not the right choice for people who want a low-maintenance small dog, households with very young children, or owners who travel frequently without the ability to bring the dog along.</p>"
+      "good_fit": [
+        "The breed adapts well to apartment living, is good with older children and other pets, and has a remarkable lifespan",
+        "Owners who can match the breed's exercise and training needs",
+        "Households committed to early socialization and consistent boundaries",
+        "People who enjoy daily engagement and active companionship with their dog",
+        "Homes with the appropriate space and lifestyle for the breed's energy level"
+      ],
+      "not_fit": [
+        "People who want a low-maintenance small dog",
+        "Households with very young children",
+        "Owners who travel frequently without the ability to bring the dog along"
+      ]
     },
     "finding": {
       "label": "Finding a Chinese Crested",
@@ -89,5 +135,21 @@
       "a": "The gene responsible for hairlessness in the Chinese Crested is linked to dental abnormalities including missing, malformed, and weak teeth. This is a genetic characteristic of the hairless variety, not a reflection of care quality, though good dental hygiene and professional cleanings significantly slow tooth loss."
     }
   ],
-  "related_breeds": ["xoloitzcuintli", "brussels-griffon", "italian-greyhound"]
+  "related_breeds": [
+    {
+      "name": "Xoloitzcuintli",
+      "slug": "xoloitzcuintli",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Brussels Griffon",
+      "slug": "brussels-griffon",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Italian Greyhound",
+      "slug": "italian-greyhound",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

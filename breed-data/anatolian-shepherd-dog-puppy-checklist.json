@@ -5,7 +5,11 @@
     "shopify_handle": "anatolian-shepherd-dog-puppy-checklist",
     "group": "Anatolian Shepherd Dog",
     "size_category": "Guide",
-    "tags": ["anatolian-shepherd-dog", "puppy", "checklist"],
+    "tags": [
+      "anatolian-shepherd-dog",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "Preparing for an Anatolian Shepherd Dog puppy requires more infrastructure planning than most breeds. This checklist covers fencing, supplies, socialization, and the critical first weeks of training.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Anatolian_Shepherd_Dog_Male.jpg/330px-Anatolian_Shepherd_Dog_Male.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Anatolian_Shepherd_Dog_01.jpg/330px-Anatolian_Shepherd_Dog_01.jpg",
       "alt": "Anatolian Shepherd Dog puppy checklist"
     }
   },

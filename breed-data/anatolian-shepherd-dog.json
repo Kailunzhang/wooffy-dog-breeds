@@ -5,26 +5,61 @@
     "shopify_handle": "anatolian-shepherd-dog",
     "group": "Working",
     "size_category": "Large",
-    "tags": ["anatolian-shepherd-dog", "working", "large"],
+    "tags": [
+      "anatolian-shepherd-dog",
+      "working",
+      "large"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The Anatolian Shepherd Dog is an ancient Turkish livestock guardian bred to work independently without human direction. Powerful, territorial, and deeply loyal, this breed demands an experienced owner with serious fencing.",
     "meta_description": "Anatolian Shepherd Dog breed guide: temperament, care, health, and costs. Ancient Turkish livestock guardian built for independence and protection."
   },
   "stats": {
-    "height": "27–29 inches",
-    "weight": "80–150 lbs",
-    "lifespan": "11–13 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "Low",
-    "good_with_kids": false,
-    "good_with_other_dogs": false,
-    "shedding": "Moderate",
-    "trainability": "Difficult"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Giant"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "80–150 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "11–13 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Caution"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Anatolian_Shepherd_Dog_Male.jpg/330px-Anatolian_Shepherd_Dog_Male.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Anatolian_Shepherd_Dog_01.jpg/330px-Anatolian_Shepherd_Dog_01.jpg",
       "alt": "Anatolian Shepherd Dog"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "An Honest Assessment",
-      "html": "<p>The Anatolian Shepherd Dog is right for you if you have rural or semi-rural property with secure fencing, experience with independent or guardian breeds, and a working purpose for the dog — livestock protection, property guardianship, or conservation work. It is not right for first-time dog owners, apartment or small-yard dwellers, families with very young children who expect an easy-going family pet, or anyone who wants a highly obedient, biddable companion.</p><p>If you meet the requirements, the Anatolian rewards you with a level of loyalty, capability, and quiet presence that few breeds can match. If you don't, please do both yourself and the breed a favor and research other options.</p>"
+      "good_fit": [
+        "Owners with rural or semi-rural property and secure, sturdy fencing",
+        "People experienced with independent, guardian, or working breeds",
+        "Households needing a livestock guardian or property protector",
+        "Owners who can commit to early, consistent socialization with strangers and other animals",
+        "People who prefer a quiet, watchful companion over a biddable performance dog"
+      ],
+      "not_fit": [
+        "First-time dog owners or anyone wanting an easy-to-train pet",
+        "Apartment, condo, or small-yard living",
+        "Families with very young children expecting a tolerant family dog",
+        "Households with cats or small pets without careful management",
+        "Owners who want reliable off-leash obedience in open areas"
+      ]
     },
     "finding": {
       "label": "Finding an Anatolian Shepherd Dog",
@@ -89,5 +137,21 @@
       "a": "Yes. Nighttime barking is a natural behavior from their guardian heritage — they bark to warn off predators. This can be a significant issue in suburban or urban settings and is one of the breed's most common management challenges."
     }
   ],
-  "related_breeds": ["great-pyrenees", "kangal-shepherd-dog", "tibetan-mastiff"]
+  "related_breeds": [
+    {
+      "name": "Great Pyrenees",
+      "slug": "great-pyrenees",
+      "note": "Another large livestock guardian breed with a softer disposition"
+    },
+    {
+      "name": "Kangal Shepherd Dog",
+      "slug": "kangal-shepherd-dog",
+      "note": "Related kangal shepherd dog breed"
+    },
+    {
+      "name": "Tibetan Mastiff",
+      "slug": "tibetan-mastiff",
+      "note": "Related tibetan mastiff breed"
+    }
+  ]
 }

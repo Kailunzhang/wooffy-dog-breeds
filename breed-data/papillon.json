@@ -5,26 +5,61 @@
     "shopify_handle": "papillon",
     "group": "Toy",
     "size_category": "Small",
-    "tags": ["papillon", "toy-group", "small-dog"],
+    "tags": [
+      "papillon",
+      "toy-group",
+      "small-dog"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "The Papillon is a dainty yet athletic Toy breed named for its stunning butterfly-shaped ears. One of the most trainable small dogs in the world, the Papillon excels at agility, obedience, and any challenge you care to put in front of it.",
     "meta_description": "Everything about the Papillon dog breed — temperament, training, care, health, and costs for this butterfly-eared Toy breed champion."
   },
   "stats": {
-    "height": "8–11 inches",
-    "weight": "5–10 lbs",
-    "lifespan": "14–16 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Easy"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Toy"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "5–10 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "14–16 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Papillon_blanche_et_marron.jpg/330px-Papillon_blanche_et_marron.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Papillon-dog-black.jpg/330px-Papillon-dog-black.jpg",
       "alt": "Papillon"
     }
   },
@@ -67,7 +102,19 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Papillon Your Ideal Match?",
-      "html": "<p>The Papillon suits a wide range of households and lifestyles, but is ideally matched with owners who appreciate a mentally active, engaged dog rather than a passive companion.</p><p><strong>The Papillon may be right for you if:</strong></p><ul><li>You enjoy training and want a dog who excels at tricks, obedience, and sports</li><li>You live in an apartment but are committed to daily outdoor exercise and indoor enrichment</li><li>You want a small dog with a big, confident personality</li><li>You are interested in competitive dog sports like agility or rally</li><li>You have older, respectful children or a household of adults</li></ul><p><strong>The Papillon may NOT be right for you if:</strong></p><ul><li>You want a dog who is happy to simply sit quietly and be decorative</li><li>You have very young children who may not handle a fragile small dog safely</li><li>You are not prepared for a dog who needs daily mental engagement to stay content</li><li>You want a dog with minimal grooming needs (the coat requires weekly attention)</li></ul>"
+      "good_fit": [
+        "You enjoy training and want a dog who excels at tricks, obedience, and sports",
+        "You live in an apartment but are committed to daily outdoor exercise and indoor enrichment",
+        "You want a small dog with a big, confident personality",
+        "You are interested in competitive dog sports like agility or rally",
+        "You have older, respectful children or a household of adults"
+      ],
+      "not_fit": [
+        "You want a dog who is happy to simply sit quietly and be decorative",
+        "You have very young children who may not handle a fragile small dog safely",
+        "You are not prepared for a dog who needs daily mental engagement to stay content",
+        "You want a dog with minimal grooming needs (the coat requires weekly attention)"
+      ]
     },
     "finding": {
       "label": "Finding a Papillon",
@@ -97,5 +144,21 @@
       "a": "Papillons are one of the longest-lived dog breeds, with an average lifespan of 14 to 16 years. Many individuals live to 17 or 18 with good care. This longevity is one of the breed's great assets and should factor into the decision to get one."
     }
   ],
-  "related_breeds": ["miniature-pinscher", "toy-fox-terrier", "italian-greyhound"]
+  "related_breeds": [
+    {
+      "name": "Miniature Pinscher",
+      "slug": "miniature-pinscher",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Toy Fox Terrier",
+      "slug": "toy-fox-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Italian Greyhound",
+      "slug": "italian-greyhound",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

@@ -5,7 +5,11 @@
     "shopify_handle": "bullmastiff-puppy-checklist",
     "group": "Bullmastiff",
     "size_category": "Guide",
-    "tags": ["bullmastiff", "puppy", "checklist"],
+    "tags": [
+      "bullmastiff",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "A Bullmastiff puppy will be 100+ pounds within a year. This checklist covers everything you need before day one, what to tackle in the first week, and why early training is non-negotiable for this powerful guardian breed.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bullmastiff_edited2.jpg/330px-Bullmastiff_edited2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bullmastiff_edited.JPG/330px-Bullmastiff_edited.JPG",
       "alt": "Bullmastiff puppy checklist"
     }
   },

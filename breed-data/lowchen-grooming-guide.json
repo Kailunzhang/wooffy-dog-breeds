@@ -5,26 +5,19 @@
     "shopify_handle": "lowchen-grooming-guide",
     "group": "Lowchen",
     "size_category": "Guide",
-    "tags": ["lowchen", "grooming", "non-sporting"],
+    "tags": [
+      "lowchen",
+      "grooming",
+      "non-sporting"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "A complete grooming guide for the Lowchen — covering the traditional lion clip, natural coat maintenance, brushing routine, and how to keep that long wavy coat mat-free and beautiful.",
     "meta_description": "Lowchen grooming guide: lion clip technique, natural coat care, brushing schedule, and professional grooming tips for the Little Lion Dog."
   },
-  "stats": {
-    "height": "12–14 inches",
-    "weight": "15 lbs",
-    "lifespan": "13–15 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Easy"
-  },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lowchen_dog.jpg/330px-Lowchen_dog.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Adult_Lowchen_Gaiting.jpg/330px-Adult_Lowchen_Gaiting.jpg",
       "alt": "Lowchen"
     }
   },
@@ -58,6 +51,5 @@
       "q": "How do I prevent mats from forming in my Lowchen's coat?",
       "a": "Consistent brushing and combing three to four times per week is the only reliable prevention. Pay special attention to the behind-the-ears and armpit areas, which mat most quickly. Do not let the coat go more than a few days without brushing during the puppy coat transition phase."
     }
-  ],
-  "related_breeds": ["bichon-frise", "maltese", "havanese"]
+  ]
 }

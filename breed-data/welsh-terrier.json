@@ -5,22 +5,57 @@
     "shopify_handle": "welsh-terrier",
     "group": "Terrier",
     "size_category": "Small",
-    "tags": ["welsh-terrier", "terrier", "small"],
+    "tags": [
+      "welsh-terrier",
+      "terrier",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "The Welsh Terrier is a spirited, affectionate terrier from Wales with a handsome black-and-tan wiry coat. One of the oldest terrier breeds, it's bold enough for adventure but easygoing enough for family life.",
     "meta_description": "Welsh Terrier breed guide: temperament, black-and-tan coat, training, health, grooming, and cost information for this classic Welsh terrier breed."
   },
   "stats": {
-    "height": "15 inches",
-    "weight": "20 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "20 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
@@ -67,7 +102,19 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Welsh Terrier the Right Breed for You?",
-      "html": "<p>The Welsh Terrier is an excellent choice for active individuals, couples, or families with children who want a spirited but manageable medium-small terrier. It is adaptable to apartment life with sufficient exercise, and its dog-tolerant, family-friendly nature makes it one of the more versatile terrier breeds. The low-shedding coat is a practical bonus.</p><p>It is less suitable for households with small animals (birds, rodents, cats) given its prey drive, or for owners who want a calm, passive companion. The Welsh's energy level and need for daily exercise and mental engagement require a committed owner. But for those who can provide what it needs, the Welsh Terrier is a deeply rewarding, long-lived companion.</p>"
+      "good_fit": [
+        "Active individuals",
+        "Families with children who want a spirited but manageable medium-small terrier",
+        "It is adaptable to apartment life with sufficient exercise, and its dog-tolerant, family-friendly nature makes it one of the more versatile terrier breeds",
+        "The low-shedding coat is a practical bonus"
+      ],
+      "not_fit": [
+        "Households with small animals (birds, rodents, cats) given its prey drive",
+        "For owners who want a calm",
+        "Passive companion",
+        "The Welsh's energy level and need for daily exercise and mental engagement require a committed owner",
+        "But for those who can provide what it needs, the Welsh Terrier is a deeply rewarding, long-lived companion"
+      ]
     },
     "finding": {
       "label": "Finding a Welsh Terrier",
@@ -89,5 +136,21 @@
       "a": "They are alert dogs that will bark to announce arrivals and unusual sounds, but they are not considered excessive barkers for a terrier breed. Training to manage barking, started early, keeps vocal tendencies well within reason."
     }
   ],
-  "related_breeds": ["airedale-terrier", "lakeland-terrier", "norfolk-terrier"]
+  "related_breeds": [
+    {
+      "name": "Airedale Terrier",
+      "slug": "airedale-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Lakeland Terrier",
+      "slug": "lakeland-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Norfolk Terrier",
+      "slug": "norfolk-terrier",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

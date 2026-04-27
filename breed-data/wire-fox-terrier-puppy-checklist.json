@@ -5,22 +5,16 @@
     "shopify_handle": "wire-fox-terrier-puppy-checklist",
     "group": "Wire Fox Terrier",
     "size_category": "Guide",
-    "tags": ["wire-fox-terrier", "puppy", "checklist", "terrier"],
+    "tags": [
+      "wire-fox-terrier",
+      "puppy",
+      "checklist",
+      "terrier"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "Everything you need to prepare for, set up, and begin training your Wire Fox Terrier puppy — from the day you commit to a breeder through the first weeks home.",
     "meta_description": "Wire Fox Terrier puppy checklist: supplies, home setup, crate training, socialization, and early training tips for this energetic terrier breed."
-  },
-  "stats": {
-    "height": "Up to 15.5 inches",
-    "weight": "15–18 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "Very High",
-    "grooming_needs": "High",
-    "good_with_kids": true,
-    "good_with_other_dogs": false,
-    "shedding": "Low",
-    "trainability": "Moderate"
   },
   "images": {
     "hero": {
@@ -58,6 +52,5 @@
       "q": "Can Wire Fox Terrier puppies live with cats?",
       "a": "It is extremely challenging and generally not recommended. Wire Fox Terriers have a strong prey drive that makes them high-risk with cats, especially if the puppy did not grow up with cats from a very young age. If you have cats, a different breed is a wiser choice."
     }
-  ],
-  "related_breeds": ["smooth-fox-terrier", "welsh-terrier", "lakeland-terrier"]
+  ]
 }

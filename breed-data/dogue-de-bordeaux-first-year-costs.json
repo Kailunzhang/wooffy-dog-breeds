@@ -5,7 +5,11 @@
     "shopify_handle": "dogue-de-bordeaux-first-year-costs",
     "group": "Dogue de Bordeaux",
     "size_category": "Guide",
-    "tags": ["dogue-de-bordeaux", "costs", "first-year"],
+    "tags": [
+      "dogue-de-bordeaux",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The Dogue de Bordeaux is expensive to own relative to its short lifespan. This guide covers realistic first-year costs, ongoing annual expenses, and the financial case for pet insurance in a breed with serious health risks.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dogue_de_Bordeaux_profil.jpg/330px-Dogue_de_Bordeaux_profil.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/French_Mastiff_female_4.jpg/330px-French_Mastiff_female_4.jpg",
       "alt": "Dogue de Bordeaux cost guide"
     }
   },

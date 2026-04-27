@@ -5,26 +5,61 @@
     "shopify_handle": "belgian-tervuren",
     "group": "Herding",
     "size_category": "Medium",
-    "tags": ["belgian-tervuren", "herding", "medium-dog"],
+    "tags": [
+      "belgian-tervuren",
+      "herding",
+      "medium-dog"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Belgian Tervuren is a strikingly beautiful herding breed with a rich mahogany and fawn coat overlaid in black. Highly intelligent, athletic, and deeply loyal, the Tervuren thrives when given a job and an active owner to partner with.",
     "meta_description": "Belgian Tervuren breed guide: temperament, grooming, health, costs, and whether this mahogany-coated Belgian herding dog is right for your lifestyle."
   },
   "stats": {
-    "height": "22–26 inches",
-    "weight": "45–75 lbs",
-    "lifespan": "12–14 years",
-    "energy_level": "High",
-    "grooming_needs": "High",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "High",
-    "trainability": "Easy"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "45–75 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Belgian_Tervuren_2010.jpg/330px-Belgian_Tervuren_2010.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mus%C3%A9e_royal_de_l%27Afrique_centrale_20.JPG/330px-Mus%C3%A9e_royal_de_l%27Afrique_centrale_20.JPG",
       "alt": "Belgian Tervuren"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Belgian Tervuren Right for You?",
-      "html": "<p><strong>Great match if you:</strong> Are experienced with high-drive herding breeds. Live an active lifestyle with daily exercise. Are committed to consistent, ongoing training. Can invest in regular grooming or professional grooming appointments. Want an intensely loyal, protective, and highly trainable dog.</p><p><strong>Not a good match if you:</strong> Are a first-time dog owner. Have a sedentary lifestyle. Prefer a low-maintenance coat. Want a dog that is immediately warm with all strangers. Are away from home for most of the day.</p>"
+      "good_fit": [
+        "Are experienced with high-drive herding breeds",
+        "Live an active lifestyle with daily exercise",
+        "Are committed to consistent, ongoing training",
+        "Can invest in regular grooming or professional grooming appointments",
+        "Want an intensely loyal, protective, and highly trainable dog"
+      ],
+      "not_fit": [
+        "Are a first-time dog owner",
+        "Have a sedentary lifestyle",
+        "Prefer a low-maintenance coat",
+        "Want a dog that is immediately warm with all strangers",
+        "Are away from home for most of the day"
+      ]
     },
     "finding": {
       "label": "Finding a Belgian Tervuren",
@@ -93,5 +141,21 @@
       "a": "Yes — Belgian Tervurens are heavy shedders, especially during spring and fall seasonal coat blows. Regular brushing (3–4 times per week) manages household hair significantly. The thick double coat produces substantial loose hair year-round."
     }
   ],
-  "related_breeds": ["belgian-sheepdog", "belgian-malinois", "german-shepherd"]
+  "related_breeds": [
+    {
+      "name": "Belgian Sheepdog",
+      "slug": "belgian-sheepdog",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Belgian Malinois",
+      "slug": "belgian-malinois",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "German Shepherd",
+      "slug": "german-shepherd",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

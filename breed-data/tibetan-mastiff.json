@@ -5,22 +5,57 @@
     "shopify_handle": "tibetan-mastiff",
     "group": "Working",
     "size_category": "Giant",
-    "tags": ["tibetan-mastiff", "working", "giant"],
+    "tags": [
+      "tibetan-mastiff",
+      "working",
+      "giant"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The Tibetan Mastiff is an ancient giant guardian breed from the Himalayas, known for its lion-like mane and deeply loyal, protective nature. Independent and imposing, this breed is not for first-time dog owners.",
     "meta_description": "Learn everything about the Tibetan Mastiff: temperament, care, grooming, health, and costs. A complete guide to this ancient giant guardian breed."
   },
   "stats": {
-    "height": "24–26 inches",
-    "weight": "70–150 lbs",
-    "lifespan": "10–12 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "High",
-    "good_with_kids": true,
-    "good_with_other_dogs": false,
-    "shedding": "High",
-    "trainability": "Difficult"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Giant"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "70–150 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–12 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
   "images": {
     "hero": {
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Tibetan Mastiff the Right Breed for You?",
-      "html": "<p>The Tibetan Mastiff is a magnificent breed, but it is emphatically not the right dog for most households. Before bringing one home, honest self-assessment is essential.</p><p><strong>You might be a great Tibetan Mastiff owner if:</strong> You have experience with large, independent breeds. You have a securely fenced yard with at least 6-foot fencing. You have the time and patience for thorough socialization and consistent training. You can tolerate a dog that will not always obey commands. You live in a home where nighttime barking is not a serious neighborhood issue. You have the financial resources to support a giant breed.</p><p><strong>The Tibetan Mastiff is probably not right for you if:</strong> You are a first-time dog owner. You live in an apartment or home without a fenced yard. You have very young children and limited time for supervision. You want a dog that will reliably come when called off-leash. You're away from home for long hours — Tibetan Mastiffs can develop destructive behavior when left alone too long. You have neighbors who are sensitive to dog noise.</p><p>If you've done your research, have prior experience with large dogs, and are genuinely excited by the idea of sharing your life with one of the world's oldest and most impressive guardian breeds, the Tibetan Mastiff can be a profoundly rewarding companion. They are loyal, calm, and deeply connected to their people — on their own terms.</p>"
+      "good_fit": [
+        "Owners with experience handling large, independent guardian breeds",
+        "Households with a securely fenced yard and 6-foot or taller fencing",
+        "Owners committed to thorough early socialization and consistent training",
+        "People who can tolerate nighttime barking and territorial behavior",
+        "Cool-climate homes that suit the breed's heavy double coat"
+      ],
+      "not_fit": [
+        "First-time dog owners or anyone wanting an obedient family pet",
+        "Apartment, condo, or yard-less living",
+        "Households with cats or small animals without careful management",
+        "Hot, humid climates without strong air conditioning",
+        "Owners unprepared for shedding and intensive grooming during coat blow"
+      ]
     },
     "finding": {
       "label": "Finding a Tibetan Mastiff",
@@ -97,5 +145,21 @@
       "a": "Tibetan Mastiffs have a heavy annual shed (called 'blowing coat') where they lose enormous amounts of undercoat, typically in spring. During this period, daily brushing is necessary. Outside of shedding season, they shed moderately."
     }
   ],
-  "related_breeds": ["great-pyrenees", "leonberger", "saint-bernard"]
+  "related_breeds": [
+    {
+      "name": "Great Pyrenees",
+      "slug": "great-pyrenees",
+      "note": "Lighter livestock guardian alternative"
+    },
+    {
+      "name": "Leonberger",
+      "slug": "leonberger",
+      "note": "Sociable giant breed alternative"
+    },
+    {
+      "name": "Saint Bernard",
+      "slug": "saint-bernard",
+      "note": "Related saint bernard breed"
+    }
+  ]
 }

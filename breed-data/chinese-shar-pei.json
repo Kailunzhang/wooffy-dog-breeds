@@ -5,26 +5,61 @@
     "shopify_handle": "chinese-shar-pei",
     "group": "Non-Sporting",
     "size_category": "Medium",
-    "tags": ["chinese-shar-pei", "non-sporting-group", "medium-dog"],
+    "tags": [
+      "chinese-shar-pei",
+      "non-sporting-group",
+      "medium-dog"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "The Chinese Shar-Pei is one of the world's most recognizable dogs — a medium-sized guardian breed with a face and body covered in distinctive loose wrinkles and a blue-black tongue. Independent, devoted, and reserved with strangers, the Shar-Pei is a powerful dog requiring experienced ownership.",
     "meta_description": "Complete guide to the Chinese Shar-Pei — wrinkle care, health concerns, temperament, and costs for this uniquely wrinkled Non-Sporting breed."
   },
   "stats": {
-    "height": "18–20 inches",
-    "weight": "45–60 lbs",
-    "lifespan": "8–12 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": false,
-    "shedding": "Low",
-    "trainability": "Difficult"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "45–60 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "8–12 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Shar_Pei.jpg/330px-Shar_Pei.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Adult_sharpei.jpg",
       "alt": "Chinese Shar-Pei"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Shar-Pei Right for Your Household?",
-      "html": "<p><strong>The Shar-Pei may be right for you if:</strong></p><ul><li>You have experience with independent, strong-willed breeds</li><li>You are prepared for potentially significant veterinary expenses</li><li>You want a devoted, loyal companion who is also an effective deterrent</li><li>You have a single-dog household or are very experienced with introducing dogs</li><li>You appreciate a dignified, reserved personality rather than an effusively friendly one</li></ul><p><strong>The Shar-Pei may NOT be right for you if:</strong></p><ul><li>You are a first-time dog owner</li><li>You want a highly social dog who loves all people and animals</li><li>You have a multi-dog household without experience managing potential dog-dog conflict</li><li>You cannot commit to regular wrinkle care, monitoring, and proactive veterinary attention</li><li>You are not prepared for potentially higher-than-average veterinary costs</li></ul>"
+      "good_fit": [
+        "You have experience with independent, strong-willed breeds",
+        "You are prepared for potentially significant veterinary expenses",
+        "You want a devoted, loyal companion who is also an effective deterrent",
+        "You have a single-dog household or are very experienced with introducing dogs",
+        "You appreciate a dignified, reserved personality rather than an effusively friendly one"
+      ],
+      "not_fit": [
+        "You are a first-time dog owner",
+        "You want a highly social dog who loves all people and animals",
+        "You have a multi-dog household without experience managing potential dog-dog conflict",
+        "You cannot commit to regular wrinkle care, monitoring, and proactive veterinary attention",
+        "You are not prepared for potentially higher-than-average veterinary costs"
+      ]
     },
     "finding": {
       "label": "Finding a Chinese Shar-Pei",
@@ -97,5 +145,21 @@
       "a": "Entropion is a condition where the eyelid rolls inward, causing the eyelashes to scratch the cornea. It is very common in Shar-Pei due to the excess skin around the eyes. It causes significant pain and requires surgical correction, often as early as 12 weeks of age."
     }
   ],
-  "related_breeds": ["chow-chow", "mastiff", "bullmastiff"]
+  "related_breeds": [
+    {
+      "name": "Chow Chow",
+      "slug": "chow-chow",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Mastiff",
+      "slug": "mastiff",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Bullmastiff",
+      "slug": "bullmastiff",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

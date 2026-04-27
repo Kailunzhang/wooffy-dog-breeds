@@ -5,26 +5,61 @@
     "shopify_handle": "silky-terrier",
     "group": "Toy",
     "size_category": "Small",
-    "tags": ["silky-terrier", "toy", "small"],
+    "tags": [
+      "silky-terrier",
+      "toy",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "The Silky Terrier is a feisty, alert Australian toy breed with a stunning blue-and-tan silky coat. Despite its glamorous looks, it carries the bold terrier spirit in a compact package.",
     "meta_description": "Silky Terrier breed guide: temperament, grooming, health, costs, and care tips for this spirited Australian toy terrier."
   },
   "stats": {
-    "height": "9–10 inches",
-    "weight": "8–10 lbs",
-    "lifespan": "13–15 years",
-    "energy_level": "High",
-    "grooming_needs": "High",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Toy"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "8–10 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "13–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Silky_Terrier_600.jpg/330px-Silky_Terrier_600.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Australian_Silky_Terrier_Alana_Of_Silky%27s_Dream.jpg/330px-Australian_Silky_Terrier_Alana_Of_Silky%27s_Dream.jpg",
       "alt": "Silky Terrier"
     }
   },
@@ -67,7 +102,17 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Silky Terrier Your Match?",
-      "html": "<p>The Silky Terrier is an excellent choice for active singles, couples, or families with older children who want a small dog with a big personality. It does well in apartments as long as it gets sufficient daily exercise and mental stimulation. Its low-shedding coat is a bonus for tidy households.</p><p>It is NOT ideal for homes with small pets (birds, hamsters, guinea pigs), families with very young children who play rough, or owners who want a calm, easygoing lap dog. The Silky's prey drive, vocal tendencies, and grooming requirements are dealbreakers for some. But for the right owner, this breed offers years of lively, loyal, and genuinely entertaining companionship.</p>"
+      "good_fit": [
+        "Active singles",
+        "Families with older children who want a small dog with a big personality",
+        "It does well in apartments as long as it gets sufficient daily exercise and mental stimulation",
+        "Its low-shedding coat is a bonus for tidy households"
+      ],
+      "not_fit": [
+        "It is NOT ideal for homes with small pets (birds, hamsters, guinea pigs), families with very young children who play rough, or owners who want a calm, easygoing lap dog",
+        "The Silky's prey drive, vocal tendencies, and grooming requirements are dealbreakers for some",
+        "But for the right owner, this breed offers years of lively, loyal, and genuinely entertaining companionship"
+      ]
     },
     "finding": {
       "label": "Finding a Silky Terrier",
@@ -89,5 +134,21 @@
       "a": "The Silky Terrier is larger (8–10 lbs vs 7 lbs max for a Yorkie), has a coarser, less fine coat, and typically has a slightly more assertive, terrier-forward personality. It also has a more athletic build compared to the Yorkie's more refined frame."
     }
   ],
-  "related_breeds": ["yorkshire-terrier", "australian-terrier", "toy-fox-terrier"]
+  "related_breeds": [
+    {
+      "name": "Yorkshire Terrier",
+      "slug": "yorkshire-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Australian Terrier",
+      "slug": "australian-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Toy Fox Terrier",
+      "slug": "toy-fox-terrier",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

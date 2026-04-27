@@ -5,22 +5,57 @@
     "shopify_handle": "wire-fox-terrier",
     "group": "Terrier",
     "size_category": "Small",
-    "tags": ["wire-fox-terrier", "terrier", "small"],
+    "tags": [
+      "wire-fox-terrier",
+      "terrier",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "The Wire Fox Terrier is a bold, energetic show-ring legend with a dense wiry white coat and an irrepressible personality. Historically the most successful breed at Westminster, it is athletic, clever, and endlessly entertaining.",
     "meta_description": "Wire Fox Terrier breed guide: temperament, wiry white coat, Westminster history, training, health, grooming, and costs for this iconic terrier breed."
   },
   "stats": {
-    "height": "Up to 15.5 inches",
-    "weight": "15–18 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "Very High",
-    "grooming_needs": "High",
-    "good_with_kids": true,
-    "good_with_other_dogs": false,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "15–18 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "2+ hrs/day"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
@@ -67,7 +102,18 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Wire Fox Terrier the Right Breed for You?",
-      "html": "<p>The Wire Fox Terrier is an outstanding match for active individuals, couples, or families with older children who want a high-energy, highly intelligent terrier and can commit to its substantial exercise and mental stimulation needs. The low-shedding coat is practical, the size is manageable, and the personality is genuinely exceptional for people who appreciate terrier temperament.</p><p>This breed is not well-suited to apartment living without exceptional dedication to daily exercise, households with cats or small animals, or owners who want a calm, easily managed pet. The Wire Fox Terrier's energy level, prey drive, and potential dog-to-dog issues require an experienced, committed handler. But for the right owner, it is one of the most rewarding breeds in existence.</p>"
+      "good_fit": [
+        "Owners who can match the breed's exercise and training needs",
+        "Households committed to early socialization and consistent boundaries",
+        "People who enjoy daily engagement and active companionship with their dog",
+        "Homes with the appropriate space and lifestyle for the breed's energy level",
+        "Owners who have researched the breed and understand its temperament"
+      ],
+      "not_fit": [
+        "is not well-suited to apartment living without exceptional dedication to daily exercise, households with cats or small animals, or owners who want a calm, easily managed pet",
+        "The Wire Fox Terrier's energy level, prey drive, and potential dog-to-dog issues require an experienced, committed handler",
+        "But for the right owner, it is one of the most rewarding breeds in existence"
+      ]
     },
     "finding": {
       "label": "Finding a Wire Fox Terrier",
@@ -89,5 +135,21 @@
       "a": "More than most people expect from a small dog. Sixty to ninety minutes of vigorous daily exercise is a realistic minimum, plus mental engagement through training and play. Wire Fox Terriers that are under-exercised become destructive and difficult to live with."
     }
   ],
-  "related_breeds": ["smooth-fox-terrier", "welsh-terrier", "lakeland-terrier"]
+  "related_breeds": [
+    {
+      "name": "Smooth Fox Terrier",
+      "slug": "smooth-fox-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Welsh Terrier",
+      "slug": "welsh-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Lakeland Terrier",
+      "slug": "lakeland-terrier",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

@@ -5,22 +5,57 @@
     "shopify_handle": "finnish-lapphund",
     "group": "Herding",
     "size_category": "Medium",
-    "tags": ["finnish-lapphund", "herding", "medium"],
+    "tags": [
+      "finnish-lapphund",
+      "herding",
+      "medium"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Finnish Lapphund is a gentle, friendly spitz breed developed by the Sámi people of Lapland for reindeer herding. With a thick, beautiful double coat and an affectionate temperament, the Lapphund is one of Finland's most beloved breeds.",
     "meta_description": "Finnish Lapphund breed guide: temperament, thick double coat care, shedding, and costs. Finland's gentle reindeer herder and wonderful family companion."
   },
   "stats": {
-    "height": "16–21 inches",
-    "weight": "33–53 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "High",
-    "trainability": "Easy"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "33–53 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes"
+    }
   },
   "images": {
     "hero": {
@@ -67,7 +102,19 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "An Excellent Family Herding Breed",
-      "html": "<p>The Finnish Lapphund is right for active families or individuals who want a medium-sized, friendly, intelligent companion and can commit to regular coat maintenance and daily exercise. It is excellent with children and other pets. It is not ideal for owners in very hot climates without air conditioning, those who cannot tolerate significant seasonal shedding, or people looking for an extremely low-energy lap dog.</p>"
+      "good_fit": [
+        "Active families",
+        "Individuals who want a medium-sized",
+        "Intelligent companion and can commit to regular coat maintenance and daily exercise",
+        "It is excellent with children and other pets"
+      ],
+      "not_fit": [
+        "It is not ideal for owners in very hot climates without air conditioning, those who cannot tolerate significant seasonal shedding, or people looking for an extremely low-energy lap dog",
+        "Households unable to commit to the breed's daily exercise needs",
+        "Owners wanting a low-maintenance or hands-off pet",
+        "First-time dog owners unfamiliar with this breed type",
+        "Living situations that don't match the breed's space requirements"
+      ]
     },
     "finding": {
       "label": "Finding a Finnish Lapphund",
@@ -89,5 +136,21 @@
       "a": "The Lapphund is bred for Arctic conditions and tolerates cold better than heat. In hot climates, air conditioning and limiting outdoor exercise to cooler morning and evening hours are important for the dog's comfort and safety. The coat should never be shaved — it insulates against heat as well as cold."
     }
   ],
-  "related_breeds": ["swedish-lapphund", "samoyed", "norwegian-elkhound"]
+  "related_breeds": [
+    {
+      "name": "Swedish Lapphund",
+      "slug": "swedish-lapphund",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Samoyed",
+      "slug": "samoyed",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Norwegian Elkhound",
+      "slug": "norwegian-elkhound",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

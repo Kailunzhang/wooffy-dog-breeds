@@ -5,26 +5,19 @@
     "shopify_handle": "lowchen-first-year-costs",
     "group": "Lowchen",
     "size_category": "Guide",
-    "tags": ["lowchen", "costs", "non-sporting"],
+    "tags": [
+      "lowchen",
+      "costs",
+      "non-sporting"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "A complete first year cost breakdown for Lowchen ownership — covering the premium puppy price, one-time setup, veterinary care, grooming, and ongoing annual expenses for this rare breed.",
     "meta_description": "Lowchen first year cost guide: puppy price, setup expenses, grooming, vet care, food, and realistic annual budget for this rare small breed."
   },
-  "stats": {
-    "height": "12–14 inches",
-    "weight": "15 lbs",
-    "lifespan": "13–15 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Easy"
-  },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lowchen_dog.jpg/330px-Lowchen_dog.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Adult_Lowchen_Gaiting.jpg/330px-Adult_Lowchen_Gaiting.jpg",
       "alt": "Lowchen"
     }
   },
@@ -58,6 +51,5 @@
       "q": "Is pet insurance worth it for a Lowchen?",
       "a": "Yes. While the Lowchen is generally healthy, the breed's small gene pool makes genetic conditions a real consideration, and any unexpected veterinary cost is easier to manage with insurance in place. Enroll when the puppy is young and healthy to avoid pre-existing condition exclusions."
     }
-  ],
-  "related_breeds": ["bichon-frise", "maltese", "havanese"]
+  ]
 }

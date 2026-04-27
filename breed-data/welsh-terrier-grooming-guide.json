@@ -5,22 +5,15 @@
     "shopify_handle": "welsh-terrier-grooming-guide",
     "group": "Welsh Terrier",
     "size_category": "Guide",
-    "tags": ["welsh-terrier", "grooming", "terrier"],
+    "tags": [
+      "welsh-terrier",
+      "grooming",
+      "terrier"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "Everything you need to know about grooming your Welsh Terrier's distinctive black-and-tan wiry coat, from weekly brushing to hand-stripping versus clipping decisions.",
     "meta_description": "Welsh Terrier grooming guide: hand-stripping, clipping, brushing routine, and coat care tips for the black-and-tan wiry double coat."
-  },
-  "stats": {
-    "height": "15 inches",
-    "weight": "20 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Moderate"
   },
   "images": {
     "hero": {
@@ -58,6 +51,5 @@
       "q": "Will clipping ruin my Welsh Terrier's coat?",
       "a": "For a pet, clipping is a perfectly acceptable choice. It does gradually soften the coat texture and can mute the color distinction over time, but the dog will be comfortable, tidy, and well-maintained. Only show-bound dogs require the harder texture achieved through hand-stripping."
     }
-  ],
-  "related_breeds": ["airedale-terrier", "lakeland-terrier", "norfolk-terrier"]
+  ]
 }

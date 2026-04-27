@@ -5,26 +5,61 @@
     "shopify_handle": "entlebucher-mountain-dog",
     "group": "Herding",
     "size_category": "Medium",
-    "tags": ["entlebucher-mountain-dog", "herding", "medium"],
+    "tags": [
+      "entlebucher-mountain-dog",
+      "herding",
+      "medium"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Entlebucher Mountain Dog is the smallest and most energetic of Switzerland's four Sennenhund breeds. Tricolored, compact, and intensely active, this herding breed demands an owner who can match its boundless drive and assertive personality.",
     "meta_description": "Entlebucher Mountain Dog breed guide: temperament, energy needs, health, and costs. Switzerland's smallest Sennenhund — compact, assertive, and tireless."
   },
   "stats": {
-    "height": "16–21 inches",
-    "weight": "45–65 lbs",
-    "lifespan": "11–13 years",
-    "energy_level": "High",
-    "grooming_needs": "Low",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "45–65 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "11–13 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Entlebucher_Sennenhund_600.jpg/330px-Entlebucher_Sennenhund_600.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Elio_v_Schaerlig_im_Juni_2007_klein.jpg/330px-Elio_v_Schaerlig_im_Juni_2007_klein.jpg",
       "alt": "Entlebucher Mountain Dog"
     }
   },
@@ -67,7 +102,16 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "A Breed for Active, Committed Owners",
-      "html": "<p>The Entlebucher Mountain Dog is right for highly active individuals or families who have genuine time and energy to commit to this breed's needs. It thrives in homes with access to outdoor space and active lifestyles. It is not suitable for sedentary owners, apartment dwellers without active routines, or first-time owners who underestimate the herding breed work ethic.</p>"
+      "good_fit": [
+        "Highly active individuals",
+        "Families who have genuine time and energy to commit to this breed's needs",
+        "It thrives in homes with access to outdoor space and active lifestyles"
+      ],
+      "not_fit": [
+        "Sedentary owners",
+        "Apartment dwellers without active routines",
+        "First-time owners who underestimate the herding breed work ethic"
+      ]
     },
     "finding": {
       "label": "Finding an Entlebucher Mountain Dog",
@@ -89,5 +133,21 @@
       "a": "Ectopic ureter is a congenital condition where the ureter (the tube connecting the kidney to the bladder) connects in the wrong location, causing urinary incontinence. It is more common in Entlebuchers than in most breeds and is correctable with surgery. Ask any breeder about their testing and health records regarding this condition."
     }
   ],
-  "related_breeds": ["bernese-mountain-dog", "greater-swiss-mountain-dog", "appenzeller-sennenhund"]
+  "related_breeds": [
+    {
+      "name": "Bernese Mountain Dog",
+      "slug": "bernese-mountain-dog",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Greater Swiss Mountain Dog",
+      "slug": "greater-swiss-mountain-dog",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Appenzeller Sennenhund",
+      "slug": "appenzeller-sennenhund",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

@@ -5,26 +5,61 @@
     "shopify_handle": "skye-terrier",
     "group": "Terrier",
     "size_category": "Small",
-    "tags": ["skye-terrier", "terrier", "small"],
+    "tags": [
+      "skye-terrier",
+      "terrier",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "The Skye Terrier is a rare, elegant Scottish breed with a long flowing coat that reaches the ground and covers the eyes. Fiercely loyal to its owner and reserved with strangers, it's one of the AKC's most endangered breeds.",
     "meta_description": "Skye Terrier breed guide: long coat, loyal temperament, Greyfriars Bobby history, grooming needs, and care for this rare Scottish terrier."
   },
   "stats": {
-    "height": "9–10 inches",
-    "weight": "35–45 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "High",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "35–45 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Skye_Terrier_600.jpg/330px-Skye_Terrier_600.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Skye_terrier_800.jpg/330px-Skye_terrier_800.jpg",
       "alt": "Skye Terrier"
     }
   },
@@ -67,7 +102,19 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Skye Terrier the Right Breed for You?",
-      "html": "<p>The Skye Terrier is right for experienced dog owners who want a deeply loyal, moderate-energy companion with a striking appearance and don't mind significant grooming investment. It suits quieter households and individuals or couples who have the patience to earn a selective dog's trust. It can be good with children who are raised with it from puppyhood, but its reserved nature with strangers means it needs careful, respectful handling.</p><p>The breed is not suitable for first-time dog owners, busy households with limited time for grooming and relationship building, or owners who want a friendly, outgoing dog comfortable with everyone. The Skye chooses its people carefully — and rewards that choice with extraordinary loyalty.</p>"
+      "good_fit": [
+        "Experienced dog owners who want a deeply loyal",
+        "Moderate-energy companion with a striking appearance and don't mind significant grooming investment",
+        "It suits quieter households and individuals or couples who have the patience to earn a selective dog's trust",
+        "It can be good with children who are raised with it from puppyhood, but its reserved nature with strangers means it needs careful, respectful handling"
+      ],
+      "not_fit": [
+        "First-time dog owners",
+        "Busy households with limited time for grooming and relationship building",
+        "Owners who want a friendly",
+        "Outgoing dog comfortable with everyone",
+        "The Skye chooses its people carefully — and rewards that choice with extraordinary loyalty"
+      ]
     },
     "finding": {
       "label": "Finding a Skye Terrier",
@@ -89,5 +136,21 @@
       "a": "No — due to their unusual skeletal proportions, Skye Terrier puppies should be restricted from stairs, jumping, and vigorous exercise until approximately 18 months of age to protect their developing joints and spine. This is a firm breed-specific recommendation from health authorities."
     }
   ],
-  "related_breeds": ["scottish-terrier", "cairn-terrier", "norfolk-terrier"]
+  "related_breeds": [
+    {
+      "name": "Scottish Terrier",
+      "slug": "scottish-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Cairn Terrier",
+      "slug": "cairn-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Norfolk Terrier",
+      "slug": "norfolk-terrier",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

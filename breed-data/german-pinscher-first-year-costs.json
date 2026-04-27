@@ -5,7 +5,11 @@
     "shopify_handle": "german-pinscher-first-year-costs",
     "group": "German Pinscher",
     "size_category": "Guide",
-    "tags": ["german-pinscher", "costs", "first-year"],
+    "tags": [
+      "german-pinscher",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "Planning for a German Pinscher? This breakdown covers purchase price, food, vet care, training, and other first-year expenses for this uncommon but rewarding working breed.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/German_Pinscher_Bonni_vom_Adelssitz_2014.jpg/330px-German_Pinscher_Bonni_vom_Adelssitz_2014.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bvdb-duitse_pincher.jpg/330px-Bvdb-duitse_pincher.jpg",
       "alt": "German Pinscher"
     }
   },

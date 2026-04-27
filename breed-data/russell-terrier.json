@@ -5,26 +5,61 @@
     "shopify_handle": "russell-terrier",
     "group": "Terrier",
     "size_category": "Small",
-    "tags": ["russell-terrier", "terrier", "small"],
+    "tags": [
+      "russell-terrier",
+      "terrier",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Russell Terrier is a compact, lower-legged version of the hunting terrier family — equally bold and energetic as its taller Parson Russell cousin but slightly smaller and more rectangular in build.",
     "meta_description": "Complete Russell Terrier guide: temperament, care, training, health, and costs. Learn about this compact, bold terrier and whether it suits your home."
   },
   "stats": {
-    "height": "8–12 inches",
-    "weight": "9–15 lbs",
-    "lifespan": "12–14 years",
-    "energy_level": "Very High",
-    "grooming_needs": "Low",
-    "good_with_kids": true,
-    "good_with_other_dogs": false,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "9–15 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "2+ hrs/day"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Russell_Terrier_600.jpg/330px-Russell_Terrier_600.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Jack_Russell_Terrier_1.jpg/330px-Jack_Russell_Terrier_1.jpg",
       "alt": "Russell Terrier"
     }
   },
@@ -67,7 +102,19 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Russell Terrier Right for You?",
-      "html": "<p>The Russell Terrier is right for active owners who want a small-framed but big-spirited dog. If you want a dog for agility, earthdog, or other small dog sports; you have experience with terriers or working breeds; and you have a securely fenced yard, the Russell Terrier is an excellent choice. It's not ideal for first-time owners, cat households, or those who want a calm, obedient companion with minimal exercise needs.</p>"
+      "good_fit": [
+        "Active owners who want a small-framed but big-spirited dog",
+        "If you want a dog for agility, earthdog, or other small dog sports",
+        "you have experience with terriers or working breeds",
+        "and you have a securely fenced yard, the Russell Terrier is an excellent choice"
+      ],
+      "not_fit": [
+        "not ideal for first-time owners, cat households, or those who want a calm, obedient companion with minimal exercise needs",
+        "Households unable to commit to the breed's daily exercise needs",
+        "Owners wanting a low-maintenance or hands-off pet",
+        "First-time dog owners unfamiliar with this breed type",
+        "Living situations that don't match the breed's space requirements"
+      ]
     },
     "finding": {
       "label": "Finding a Russell Terrier",
@@ -89,5 +136,21 @@
       "a": "Variable. Early socialization helps, but dog-to-dog assertiveness is common, particularly with dogs of the same sex. Multi-dog households require careful management and proper introductions."
     }
   ],
-  "related_breeds": ["parson-russell-terrier", "cairn-terrier", "fox-terrier"]
+  "related_breeds": [
+    {
+      "name": "Parson Russell Terrier",
+      "slug": "parson-russell-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Cairn Terrier",
+      "slug": "cairn-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Fox Terrier",
+      "slug": "fox-terrier",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

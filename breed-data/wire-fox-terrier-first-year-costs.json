@@ -5,22 +5,15 @@
     "shopify_handle": "wire-fox-terrier-first-year-costs",
     "group": "Wire Fox Terrier",
     "size_category": "Guide",
-    "tags": ["wire-fox-terrier", "costs", "terrier"],
+    "tags": [
+      "wire-fox-terrier",
+      "costs",
+      "terrier"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "A thorough cost breakdown for Wire Fox Terrier ownership — from the puppy price and initial supplies through the first year of vet care, grooming, food, and training.",
     "meta_description": "Wire Fox Terrier first year cost guide: puppy price, setup supplies, grooming, vet care, food, and realistic annual budget totals."
-  },
-  "stats": {
-    "height": "Up to 15.5 inches",
-    "weight": "15–18 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "Very High",
-    "grooming_needs": "High",
-    "good_with_kids": true,
-    "good_with_other_dogs": false,
-    "shedding": "Low",
-    "trainability": "Moderate"
   },
   "images": {
     "hero": {
@@ -58,6 +51,5 @@
       "q": "How much does hand-stripping cost compared to clipping?",
       "a": "Hand-stripping typically costs $100–$160+ per session compared to $60–$90 for clipping. Over the course of a year (5–6 sessions), hand-stripping adds $200–$400 or more to grooming costs. For show dogs, hand-stripping is required; for pets, clipping is a practical and acceptable alternative."
     }
-  ],
-  "related_breeds": ["smooth-fox-terrier", "welsh-terrier", "lakeland-terrier"]
+  ]
 }

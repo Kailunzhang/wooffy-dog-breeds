@@ -5,22 +5,16 @@
     "shopify_handle": "welsh-terrier-puppy-checklist",
     "group": "Welsh Terrier",
     "size_category": "Guide",
-    "tags": ["welsh-terrier", "puppy", "checklist", "terrier"],
+    "tags": [
+      "welsh-terrier",
+      "puppy",
+      "checklist",
+      "terrier"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "Your complete checklist for preparing your home and starting your Welsh Terrier puppy off right — from supplies to schedule, safe introductions, and the first training steps.",
     "meta_description": "Welsh Terrier puppy checklist: everything to buy, do, and teach before and during your puppy's first weeks home."
-  },
-  "stats": {
-    "height": "15 inches",
-    "weight": "20 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Moderate"
   },
   "images": {
     "hero": {
@@ -58,6 +52,5 @@
       "q": "When should I start grooming my Welsh Terrier puppy?",
       "a": "From day one — not as a full grooming session, but as handling practice. Touch the coat, paws, ears, and muzzle gently every day. Introduce the brush within the first week. The first professional grooming appointment can happen around 12–16 weeks, after the initial vaccine series is underway."
     }
-  ],
-  "related_breeds": ["airedale-terrier", "lakeland-terrier", "norfolk-terrier"]
+  ]
 }

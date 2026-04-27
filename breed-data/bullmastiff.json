@@ -5,26 +5,61 @@
     "shopify_handle": "bullmastiff",
     "group": "Working",
     "size_category": "Large",
-    "tags": ["bullmastiff", "working", "large"],
+    "tags": [
+      "bullmastiff",
+      "working",
+      "large"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The Bullmastiff is a loyal, fearless guardian developed by English gamekeepers to catch poachers on large estates. Powerful and devoted, this breed is surprisingly gentle with its family despite its formidable size.",
     "meta_description": "Bullmastiff breed guide: temperament, health, grooming, and costs. The loyal English estate guardian that combines power with surprising gentleness."
   },
   "stats": {
-    "height": "24–27 inches",
-    "weight": "100–130 lbs",
-    "lifespan": "7–9 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "Low",
-    "good_with_kids": true,
-    "good_with_other_dogs": false,
-    "shedding": "Moderate",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Giant"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "100–130 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "7–9 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bullmastiff_edited2.jpg/330px-Bullmastiff_edited2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bullmastiff_edited.JPG/330px-Bullmastiff_edited.JPG",
       "alt": "Bullmastiff"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Honest Criteria for the Right Match",
-      "html": "<p>The Bullmastiff is a good match for owners who want a loyal, protective companion and are prepared to manage a large, strong dog responsibly. A home with a yard is ideal, though some Bullmastiffs adapt to large apartments if exercised consistently. The breed is generally good with children in its own family but needs supervision with small children due to sheer size. It is not recommended for multi-dog households without careful management of same-sex dynamics.</p><p>It is not the right breed for people who want a highly obedient performance dog, those who cannot commit to proactive health management, first-time owners who underestimate guardian-breed temperament, or anyone not prepared for the heartbreak of a shorter-than-average lifespan.</p>"
+      "good_fit": [
+        "Owners who want a loyal, calm, protective companion in the home",
+        "Households with the space and budget to support a 100+ pound dog",
+        "Families with older children who can respect a giant breed's size",
+        "Owners ready to invest in early, consistent obedience training",
+        "People who can accept a shorter-than-average lifespan and proactive health care"
+      ],
+      "not_fit": [
+        "High-activity owners wanting a running or hiking partner",
+        "First-time dog owners or anyone unable to manage a powerful guardian breed",
+        "Households with multiple same-sex dogs without careful management",
+        "Anyone bothered by drool, snoring, and gas",
+        "Hot-climate homes without reliable air conditioning"
+      ]
     },
     "finding": {
       "label": "Finding a Bullmastiff",
@@ -89,5 +137,21 @@
       "a": "No. The Bullmastiff is a relatively quiet breed — historically valued for silent tracking and holding. They may bark to alert to genuine strangers but are not nuisance barkers. This makes them good neighbors despite their size."
     }
   ],
-  "related_breeds": ["mastiff", "dogue-de-bordeaux", "rottweiler"]
+  "related_breeds": [
+    {
+      "name": "Mastiff",
+      "slug": "mastiff",
+      "note": "Larger English ancestor breed"
+    },
+    {
+      "name": "Dogue de Bordeaux",
+      "slug": "dogue-de-bordeaux",
+      "note": "Related dogue de bordeaux breed"
+    },
+    {
+      "name": "Rottweiler",
+      "slug": "rottweiler",
+      "note": "Smaller, more energetic guardian alternative"
+    }
+  ]
 }

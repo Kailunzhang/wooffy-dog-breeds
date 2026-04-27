@@ -5,26 +5,61 @@
     "shopify_handle": "miniature-pinscher",
     "group": "Toy",
     "size_category": "Small",
-    "tags": ["miniature-pinscher", "toy-group", "small-dog"],
+    "tags": [
+      "miniature-pinscher",
+      "toy-group",
+      "small-dog"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "The Miniature Pinscher is a fearless, energetic Toy breed known as the 'King of Toys.' Despite resembling a miniature Doberman, the Min Pin is an entirely distinct ancient breed with a signature hackney gait and outsized personality.",
     "meta_description": "Learn all about the Miniature Pinscher — temperament, care, grooming, health, and costs for this bold 'King of Toys' small dog breed."
   },
   "stats": {
-    "height": "10–12.5 inches",
-    "weight": "8–10 lbs",
-    "lifespan": "12–16 years",
-    "energy_level": "High",
-    "grooming_needs": "Low",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Toy"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "8–10 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–16 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Miniature_Pinscher_photo.jpg/330px-Miniature_Pinscher_photo.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Miniature_pinscher.jpg/330px-Miniature_pinscher.jpg",
       "alt": "Miniature Pinscher"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Min Pin the Right Dog for Your Lifestyle?",
-      "html": "<p>The Miniature Pinscher is a wonderful dog for the right owner, but he is emphatically not a good fit for everyone. Before bringing one home, consider whether your lifestyle genuinely matches what this breed needs.</p><p><strong>The Min Pin may be right for you if:</strong></p><ul><li>You are active and enjoy giving your dog daily exercise and engagement</li><li>You have experience with dogs and understand how to establish boundaries consistently</li><li>You live in an apartment or smaller home but are committed to regular outdoor exercise</li><li>You enjoy training and want a dog who can learn tricks and sports</li><li>You want a loyal, devoted companion with real personality</li></ul><p><strong>The Min Pin may NOT be right for you if:</strong></p><ul><li>You want a calm, mellow dog who is happy to lounge all day</li><li>You have very young children who may handle the dog roughly</li><li>You have small pets (birds, hamsters, rabbits) that could be harassed</li><li>You are a first-time dog owner not prepared for a stubborn, independent personality</li><li>You live somewhere with extreme cold and cannot provide adequate protection</li></ul><p>The Min Pin rewards patient, engaged, experienced owners with years of entertainment, loyalty, and genuine companionship. Go in with realistic expectations, and this little King of Toys will exceed them.</p>"
+      "good_fit": [
+        "You are active and enjoy giving your dog daily exercise and engagement",
+        "You have experience with dogs and understand how to establish boundaries consistently",
+        "You live in an apartment or smaller home but are committed to regular outdoor exercise",
+        "You enjoy training and want a dog who can learn tricks and sports",
+        "You want a loyal, devoted companion with real personality"
+      ],
+      "not_fit": [
+        "You want a calm, mellow dog who is happy to lounge all day",
+        "You have very young children who may handle the dog roughly",
+        "You have small pets (birds, hamsters, rabbits) that could be harassed",
+        "You are a first-time dog owner not prepared for a stubborn, independent personality",
+        "You live somewhere with extreme cold and cannot provide adequate protection"
+      ]
     },
     "finding": {
       "label": "Finding a Miniature Pinscher",
@@ -97,5 +145,21 @@
       "a": "Despite their small size, Min Pins need at least 30 to 45 minutes of vigorous exercise daily, plus mental stimulation through training and interactive toys. They are not satisfied with a short stroll around the block."
     }
   ],
-  "related_breeds": ["toy-fox-terrier", "italian-greyhound", "manchester-terrier"]
+  "related_breeds": [
+    {
+      "name": "Toy Fox Terrier",
+      "slug": "toy-fox-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Italian Greyhound",
+      "slug": "italian-greyhound",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Manchester Terrier",
+      "slug": "manchester-terrier",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

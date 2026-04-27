@@ -5,22 +5,57 @@
     "shopify_handle": "cairn-terrier",
     "group": "Terrier",
     "size_category": "Small",
-    "tags": ["cairn-terrier", "terrier", "small"],
+    "tags": [
+      "cairn-terrier",
+      "terrier",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Cairn Terrier is a spirited, hardy little dog from Scotland's Western Highlands — best known as Toto from The Wizard of Oz. Tenacious, curious, and surprisingly tough for its size, the Cairn makes a wonderful family companion.",
     "meta_description": "Complete Cairn Terrier breed guide: temperament, grooming, health, and care tips. Learn about this spirited Scottish terrier and whether it's the right dog for you."
   },
   "stats": {
-    "height": "9–10 inches",
-    "weight": "13–14 lbs",
-    "lifespan": "13–15 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "13–14 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "13–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Cairn Terrier the Right Breed for You?",
-      "html": "<p>The Cairn Terrier is an excellent choice for a wide range of households — but its terrier nature means it's not for everyone.</p><p><strong>The Cairn Terrier might be ideal for you if:</strong> You want a small dog with genuine personality and toughness. You have active children who enjoy energetic play. You want a dog that adapts well to city or country living. You can provide daily walks and interactive play. You appreciate a dog with strong character, even if it occasionally means a battle of wills.</p><p><strong>The Cairn Terrier may not be right for you if:</strong> You want a dog that's always obedient and never tests limits. You have a pet rabbit, guinea pig, or other small prey animals. You want a dog that can reliably be off-leash in open areas. You're not prepared for a determined digger. You want minimal exercise demands.</p><p>For the right home, the Cairn Terrier is a wonderful companion — long-lived, adaptable, and endlessly entertaining. They're a piece of Scotland's working heritage that also happens to be a charming household companion.</p>"
+      "good_fit": [
+        "You want a small dog with genuine personality and toughness",
+        "You have active children who enjoy energetic play",
+        "You want a dog that adapts well to city or country living",
+        "You can provide daily walks and interactive play",
+        "You appreciate a dog with strong character, even if it occasionally means a battle of wills"
+      ],
+      "not_fit": [
+        "You want a dog that's always obedient and never tests limits",
+        "You have a pet rabbit, guinea pig, or other small prey animals",
+        "You want a dog that can reliably be off-leash in open areas",
+        "You're not prepared for a determined digger",
+        "You want minimal exercise demands"
+      ]
     },
     "finding": {
       "label": "Finding a Cairn Terrier",
@@ -97,5 +145,21 @@
       "a": "Minimal shedding. The double coat sheds very little when properly maintained through regular brushing and hand-stripping. They are considered a good option for people who prefer a lower-shedding breed."
     }
   ],
-  "related_breeds": ["west-highland-white-terrier", "scottish-terrier", "norwich-terrier"]
+  "related_breeds": [
+    {
+      "name": "West Highland White Terrier",
+      "slug": "west-highland-white-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Scottish Terrier",
+      "slug": "scottish-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Norwich Terrier",
+      "slug": "norwich-terrier",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

@@ -5,26 +5,20 @@
     "shopify_handle": "tibetan-spaniel-puppy-checklist",
     "group": "Tibetan Spaniel",
     "size_category": "Guide",
-    "tags": ["tibetan-spaniel", "puppy", "checklist", "non-sporting"],
+    "tags": [
+      "tibetan-spaniel",
+      "puppy",
+      "checklist",
+      "non-sporting"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "Everything you need to prepare, buy, and do before and during your Tibetan Spaniel puppy's first weeks home — including health documentation to verify, early socialization priorities, and tips for the breed's independent nature.",
     "meta_description": "Tibetan Spaniel puppy checklist: home prep, supplies, PRA health documentation, socialization, and early training guidance for this ancient Tibetan breed."
   },
-  "stats": {
-    "height": "10 inches",
-    "weight": "9–15 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "Low",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Moderate"
-  },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tibetan_Spaniel_600.jpg/330px-Tibetan_Spaniel_600.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Tibetansk_spaniel.jpg/330px-Tibetansk_spaniel.jpg",
       "alt": "Tibetan Spaniel"
     }
   },
@@ -58,6 +52,5 @@
       "q": "Are Tibetan Spaniel puppies good with other family pets?",
       "a": "Generally yes, when introduced carefully. The breed is not particularly prey-driven and usually accepts cats and other small pets when introduced during puppyhood with positive associations. Adult dogs of any gender should be introduced on neutral territory with supervision."
     }
-  ],
-  "related_breeds": ["lhasa-apso", "tibetan-terrier", "pekingese"]
+  ]
 }

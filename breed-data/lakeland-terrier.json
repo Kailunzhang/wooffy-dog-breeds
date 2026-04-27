@@ -5,22 +5,57 @@
     "shopify_handle": "lakeland-terrier",
     "group": "Terrier",
     "size_category": "Small",
-    "tags": ["lakeland-terrier", "terrier", "small"],
+    "tags": [
+      "lakeland-terrier",
+      "terrier",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "The Lakeland Terrier is one of England's oldest working terrier breeds, bred to hunt fox in the harsh Lake District. Confident, playful, and remarkably versatile, this compact terrier is an excellent companion for owners who appreciate bold personality in a small package.",
     "meta_description": "Lakeland Terrier breed guide: temperament, wiry coat care, show history, and costs. One of England's oldest working terriers — confident, clever, and full of character."
   },
   "stats": {
-    "height": "14.5 inches",
-    "weight": "17 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": false,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "17 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "For Terrier Enthusiasts Who Want a Complete Package",
-      "html": "<p>The Lakeland Terrier is right for active individuals or families who appreciate classic terrier temperament — the confidence, independence, humor, and energy — and want a small to medium working terrier with a distinguished heritage. It is not ideal for passive owners, households with small animals (due to prey drive), or owners who want a highly obedient, biddable companion.</p>"
+      "good_fit": [
+        "Owners who can match the breed's exercise and training needs",
+        "Households committed to early socialization and consistent boundaries",
+        "People who enjoy daily engagement and active companionship with their dog",
+        "Homes with the appropriate space and lifestyle for the breed's energy level",
+        "Owners who have researched the breed and understand its temperament"
+      ],
+      "not_fit": [
+        "It is not ideal for passive owners, households with small animals (due to prey drive), or owners who want a highly obedient, biddable companion",
+        "Households unable to commit to the breed's daily exercise needs",
+        "Owners wanting a low-maintenance or hands-off pet",
+        "First-time dog owners unfamiliar with this breed type",
+        "Living situations that don't match the breed's space requirements"
+      ]
     },
     "finding": {
       "label": "Finding a Lakeland Terrier",
@@ -89,5 +137,21 @@
       "a": "With proper socialization, many Lakelands coexist well with familiar dogs. However, the breed tends toward assertiveness with unfamiliar dogs, particularly of the same sex. Introductions should be careful and supervised. The strong prey drive also means interactions with small animals require caution."
     }
   ],
-  "related_breeds": ["welsh-terrier", "wire-fox-terrier", "airedale-terrier"]
+  "related_breeds": [
+    {
+      "name": "Welsh Terrier",
+      "slug": "welsh-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Wire Fox Terrier",
+      "slug": "wire-fox-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Airedale Terrier",
+      "slug": "airedale-terrier",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

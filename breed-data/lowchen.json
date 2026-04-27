@@ -5,26 +5,61 @@
     "shopify_handle": "lowchen",
     "group": "Non-Sporting",
     "size_category": "Small",
-    "tags": ["lowchen", "non-sporting", "small"],
+    "tags": [
+      "lowchen",
+      "non-sporting",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "The Lowchen, or Little Lion Dog, is a cheerful, outgoing small breed with a long wavy coat traditionally styled in the dramatic lion clip. One of the rarer AKC breeds, it is easy to train, minimal-shedding, and genuinely adaptable.",
     "meta_description": "Lowchen breed guide: temperament, lion clip grooming, history, training, health, and costs for this rare and charming little lion dog."
   },
   "stats": {
-    "height": "12–14 inches",
-    "weight": "15 lbs",
-    "lifespan": "13–15 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Easy"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "15 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "13–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lowchen_dog.jpg/330px-Lowchen_dog.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Adult_Lowchen_Gaiting.jpg/330px-Adult_Lowchen_Gaiting.jpg",
       "alt": "Lowchen"
     }
   },
@@ -67,7 +102,18 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Lowchen the Right Breed for You?",
-      "html": "<p>The Lowchen suits a wide range of households — singles, couples, families with children, apartment dwellers, and suburban homeowners alike. Its moderate energy, easy trainability, low-shedding coat, and warm temperament make it one of the most versatile small companion breeds available. The primary obstacle to ownership is availability: this is a genuinely rare breed, and finding a quality puppy requires patience and commitment.</p><p>The Lowchen is not the right choice for someone who wants an instantly available puppy, needs a high-energy or working dog, or is unwilling to engage with the small but serious world of Lowchen breeders and fanciers. But for the right owner — one who does the research, finds the right breeder, and waits — the Lowchen is a deeply rewarding, long-lived companion unlike any other.</p>"
+      "good_fit": [
+        "The Lowchen suits a wide range of households — singles, couples, families with children, apartment dwellers, and suburban homeowners alike",
+        "Its moderate energy, easy trainability, low-shedding coat, and warm temperament make it one of the most versatile small companion breeds available",
+        "The primary obstacle to ownership is availability: this is a genuinely rare breed, and finding a quality puppy requires patience and commitment"
+      ],
+      "not_fit": [
+        "Someone who wants an instantly available puppy",
+        "Needs a high-energy",
+        "Working dog",
+        "Is unwilling to engage with the small but serious world of Lowchen breeders and fanciers",
+        "But for the right owner — one who does the research, finds the right breeder, and waits — the Lowchen is a deeply rewarding, long-lived companion unlike any other"
+      ]
     },
     "finding": {
       "label": "Finding a Lowchen",
@@ -89,5 +135,21 @@
       "a": "Yes — the Lowchen's easy trainability, moderate energy, and friendly temperament make it one of the better small breeds for first-time owners. Its coat requires consistent maintenance, and finding a quality breeder requires effort, but the day-to-day ownership experience is genuinely manageable."
     }
   ],
-  "related_breeds": ["bichon-frise", "maltese", "havanese"]
+  "related_breeds": [
+    {
+      "name": "Bichon Frise",
+      "slug": "bichon-frise",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Maltese",
+      "slug": "maltese",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Havanese",
+      "slug": "havanese",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

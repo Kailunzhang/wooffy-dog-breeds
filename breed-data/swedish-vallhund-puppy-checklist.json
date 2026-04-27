@@ -5,26 +5,20 @@
     "shopify_handle": "swedish-vallhund-puppy-checklist",
     "group": "Swedish Vallhund",
     "size_category": "Guide",
-    "tags": ["swedish-vallhund", "puppy", "checklist", "herding"],
+    "tags": [
+      "swedish-vallhund",
+      "puppy",
+      "checklist",
+      "herding"
+    ],
     "published": true,
     "published_at": "2026-05-05T16:00:00Z",
     "excerpt": "Everything you need to prepare for, set up, and begin training your Swedish Vallhund puppy — from SVR health documentation to supplies, back health management, and early training for this energetic Viking herding dog.",
     "meta_description": "Swedish Vallhund puppy checklist: home prep, SVR testing documentation, supplies, back health management, and early training tips for this ancient Nordic herding breed."
   },
-  "stats": {
-    "height": "11.5–13.5 inches",
-    "weight": "20–35 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Easy"
-  },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Swedish_Vallhund_bitch.jpg/330px-Swedish_Vallhund_bitch.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/V%C3%A4stg%C3%B6taspets_hane_5_%C3%A5r.jpg/330px-V%C3%A4stg%C3%B6taspets_hane_5_%C3%A5r.jpg",
       "alt": "Swedish Vallhund"
     }
   },
@@ -58,6 +52,5 @@
       "q": "Can I start herding training with my Swedish Vallhund puppy?",
       "a": "Herding instinct testing can be done as early as 6–8 months. Formal herding training typically begins around 12 months when the dog has sufficient physical and mental maturity. Exposing the puppy to livestock in a controlled, positive manner earlier than this — without formal training pressure — builds the foundation safely. Seek out an AKC herding club or a working dog trainer for guidance."
     }
-  ],
-  "related_breeds": ["pembroke-welsh-corgi", "cardigan-welsh-corgi", "icelandic-sheepdog"]
+  ]
 }

@@ -5,26 +5,61 @@
     "shopify_handle": "finnish-spitz",
     "group": "Non-Sporting",
     "size_category": "Medium",
-    "tags": ["finnish-spitz", "non-sporting", "medium"],
+    "tags": [
+      "finnish-spitz",
+      "non-sporting",
+      "medium"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "The Finnish Spitz is Finland's national dog — a golden-red, fox-like hunting breed famous for its extraordinary bark. Talkative, independent, and deeply loyal, it's unlike any other dog in the Non-Sporting Group.",
     "meta_description": "Finnish Spitz breed guide: temperament, barking traits, grooming, health, and care tips for this vocal golden-red Nordic breed."
   },
   "stats": {
-    "height": "15.5–20 inches",
-    "weight": "20–33 lbs",
-    "lifespan": "13–15 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "High",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "20–33 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "13–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Finnish_Spitz_Aske.JPG/330px-Finnish_Spitz_Aske.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Finnish_Spitz_600.jpg/330px-Finnish_Spitz_600.jpg",
       "alt": "Finnish Spitz"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Finnish Spitz the Right Breed for You?",
-      "html": "<p>The Finnish Spitz suits active households with outdoor space, patient owners who appreciate independent-minded dogs, and anyone looking for a breed with genuine personality and a fascinating history. It does well with families with older children and can coexist with other dogs.</p><p>It is not well-suited to apartment living, noise-sensitive environments, owners who want an obedient, handler-focused companion, or anyone with close neighbors who would be disturbed by regular barking. The heavy seasonal shedding is also a significant consideration for tidy households.</p>"
+      "good_fit": [
+        "The Finnish Spitz suits active households with outdoor space, patient owners who appreciate independent-minded dogs, and anyone looking for a breed with genuine personality and a fascinating history",
+        "It does well with families with older children and can coexist with other dogs",
+        "Owners who can match the breed's exercise and training needs",
+        "Households committed to early socialization and consistent boundaries",
+        "People who enjoy daily engagement and active companionship with their dog"
+      ],
+      "not_fit": [
+        "It is not well-suited to apartment living, noise-sensitive environments, owners who want an obedient, handler-focused companion, or anyone with close neighbors who would be disturbed by regular barking",
+        "The heavy seasonal shedding is also a significant consideration for tidy households",
+        "Households unable to commit to the breed's daily exercise needs",
+        "Owners wanting a low-maintenance or hands-off pet",
+        "First-time dog owners unfamiliar with this breed type"
+      ]
     },
     "finding": {
       "label": "Finding a Finnish Spitz",
@@ -89,5 +137,21 @@
       "a": "Generally not. The breed's independence, vocal nature, and strong instincts require an experienced owner who understands spitz-type behavior. It rewards patient, positive training but can be challenging for owners expecting quick obedience."
     }
   ],
-  "related_breeds": ["norwegian-elkhound", "samoyed", "american-eskimo-dog"]
+  "related_breeds": [
+    {
+      "name": "Norwegian Elkhound",
+      "slug": "norwegian-elkhound",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Samoyed",
+      "slug": "samoyed",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "American Eskimo Dog",
+      "slug": "american-eskimo-dog",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

@@ -5,26 +5,61 @@
     "shopify_handle": "puli",
     "group": "Herding",
     "size_category": "Medium",
-    "tags": ["puli", "herding", "medium"],
+    "tags": [
+      "puli",
+      "herding",
+      "medium"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Puli is Hungary's iconic corded herding dog, with a unique coat that forms naturally into long, tight cords over two years. Athletic, energetic, and sharp-minded, the Puli is one of the most striking and capable herding breeds in the world.",
     "meta_description": "Puli breed guide: corded coat care, formation timeline, temperament, and costs. Hungary's iconic herding dog with the remarkable natural corded coat."
   },
   "stats": {
-    "height": "16–17 inches",
-    "weight": "25–35 lbs",
-    "lifespan": "10–15 years",
-    "energy_level": "High",
-    "grooming_needs": "High",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "25–35 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Puli_standing.jpg/330px-Puli_standing.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PuliBlack_wb.jpg/330px-PuliBlack_wb.jpg",
       "alt": "Puli"
     }
   },
@@ -67,7 +102,18 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "For Owners Who Embrace the Commitment",
-      "html": "<p>The Puli is right for active, experienced dog owners who are specifically drawn to the breed's unique coat and working heritage and are fully prepared for the time investment of cord management and bathing. It is not suitable for owners looking for low-grooming convenience, first-time owners, or sedentary households.</p>"
+      "good_fit": [
+        "Experienced dog owners who are specifically drawn to the breed's unique coat and working heritage and are fully prepared for the time investment of cord management and bathing",
+        "Owners who can match the breed's exercise and training needs",
+        "Households committed to early socialization and consistent boundaries",
+        "People who enjoy daily engagement and active companionship with their dog",
+        "Homes with the appropriate space and lifestyle for the breed's energy level"
+      ],
+      "not_fit": [
+        "Owners looking for low-grooming convenience",
+        "First-time owners",
+        "Sedentary households"
+      ]
     },
     "finding": {
       "label": "Finding a Puli",
@@ -89,5 +135,21 @@
       "a": "Bathing a fully corded Puli requires soaking the cords thoroughly (they resist water initially), lathering, and rinsing each cord clean. Drying takes 8–12 hours with a high-velocity dryer or significantly longer with air drying. The cords must be fully dry to the core to prevent mildew and skin infections. Most owners plan Puli bath days as dedicated projects."
     }
   ],
-  "related_breeds": ["komondor", "bergamasco-sheepdog", "spanish-water-dog"]
+  "related_breeds": [
+    {
+      "name": "Komondor",
+      "slug": "komondor",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Bergamasco Sheepdog",
+      "slug": "bergamasco-sheepdog",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Spanish Water Dog",
+      "slug": "spanish-water-dog",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

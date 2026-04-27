@@ -5,26 +5,61 @@
     "shopify_handle": "pekingese",
     "group": "Toy",
     "size_category": "Small",
-    "tags": ["pekingese", "toy-group", "small-dog"],
+    "tags": [
+      "pekingese",
+      "toy-group",
+      "small-dog"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "The Pekingese is an ancient Chinese imperial breed of extraordinary dignity and flowing beauty. Opinionated, loyal, and unmistakably regal, the Peke carries centuries of palace breeding in every deliberate step.",
     "meta_description": "Complete guide to the Pekingese dog — temperament, grooming, health, costs, and care for this ancient Chinese Toy breed with a flowing double coat."
   },
   "stats": {
-    "height": "6–9 inches",
-    "weight": "Up to 14 lbs",
-    "lifespan": "12–14 years",
-    "energy_level": "Low",
-    "grooming_needs": "High",
-    "good_with_kids": false,
-    "good_with_other_dogs": true,
-    "shedding": "High",
-    "trainability": "Difficult"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "Up to 14 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "30–60 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Caution"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pekingese_2.jpg/330px-Pekingese_2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/1AKC_Pekingese_Dog_Show_2011.jpg/330px-1AKC_Pekingese_Dog_Show_2011.jpg",
       "alt": "Pekingese"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Pekingese Right for Your Household?",
-      "html": "<p>The Pekingese is a wonderful companion for the right owner but has specific requirements that make it a poor fit for some lifestyles.</p><p><strong>The Pekingese may be right for you if:</strong></p><ul><li>You want a devoted, dignified companion rather than an obedient, task-oriented dog</li><li>You live in a quiet household without young children</li><li>You have time for regular, thorough coat maintenance</li><li>You appreciate a dog with real personality and strong opinions</li><li>You prefer a low-energy dog who enjoys indoor life</li></ul><p><strong>The Pekingese may NOT be right for you if:</strong></p><ul><li>You have very young children who may handle the dog roughly</li><li>You want a highly trainable, command-following dog</li><li>You cannot commit to regular grooming (matting in this breed is a serious welfare issue)</li><li>You live in a hot climate where heat stroke risk is significant</li><li>You are a first-time dog owner expecting an easy, agreeable temperament</li></ul>"
+      "good_fit": [
+        "You want a devoted, dignified companion rather than an obedient, task-oriented dog",
+        "You live in a quiet household without young children",
+        "You have time for regular, thorough coat maintenance",
+        "You appreciate a dog with real personality and strong opinions",
+        "You prefer a low-energy dog who enjoys indoor life"
+      ],
+      "not_fit": [
+        "You have very young children who may handle the dog roughly",
+        "You want a highly trainable, command-following dog",
+        "You cannot commit to regular grooming (matting in this breed is a serious welfare issue)",
+        "You live in a hot climate where heat stroke risk is significant",
+        "You are a first-time dog owner expecting an easy, agreeable temperament"
+      ]
     },
     "finding": {
       "label": "Finding a Pekingese",
@@ -97,5 +145,21 @@
       "a": "The average Pekingese lifespan is 12 to 14 years. Well-cared-for individuals with moderate facial structure and good health management can live beyond this range."
     }
   ],
-  "related_breeds": ["japanese-chin", "shih-tzu", "lhasa-apso"]
+  "related_breeds": [
+    {
+      "name": "Japanese Chin",
+      "slug": "japanese-chin",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Shih Tzu",
+      "slug": "shih-tzu",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Lhasa Apso",
+      "slug": "lhasa-apso",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

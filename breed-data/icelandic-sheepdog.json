@@ -5,22 +5,57 @@
     "shopify_handle": "icelandic-sheepdog",
     "group": "Herding",
     "size_category": "Medium",
-    "tags": ["icelandic-sheepdog", "herding", "medium"],
+    "tags": [
+      "icelandic-sheepdog",
+      "herding",
+      "medium"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Icelandic Sheepdog is Iceland's only native breed and one of the oldest herding dogs in the world. Cheerful, energetic, and people-oriented, this spitz-type herder is an exceptional family companion for active households.",
     "meta_description": "Icelandic Sheepdog breed guide: temperament, double coat care, herding heritage, and costs. Iceland's only native breed — cheerful, loyal, and people-focused."
   },
   "stats": {
-    "height": "16.5–18 inches",
-    "weight": "25–30 lbs",
-    "lifespan": "12–14 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "High",
-    "trainability": "Easy"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "25–30 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
@@ -67,7 +102,19 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Perfect for Active, Social Households",
-      "html": "<p>The Icelandic Sheepdog is right for active families or individuals who want a cheerful, people-oriented herding dog and can provide daily vigorous exercise and regular grooming. It is excellent with children and other dogs. It is not ideal for sedentary owners, those in small spaces without outdoor access, or people who cannot tolerate significant seasonal shedding and a tendency to bark.</p>"
+      "good_fit": [
+        "Active families",
+        "Individuals who want a cheerful",
+        "People-oriented herding dog and can provide daily vigorous exercise and regular grooming",
+        "It is excellent with children and other dogs"
+      ],
+      "not_fit": [
+        "It is not ideal for sedentary owners, those in small spaces without outdoor access, or people who cannot tolerate significant seasonal shedding and a tendency to bark",
+        "Households unable to commit to the breed's daily exercise needs",
+        "Owners wanting a low-maintenance or hands-off pet",
+        "First-time dog owners unfamiliar with this breed type",
+        "Living situations that don't match the breed's space requirements"
+      ]
     },
     "finding": {
       "label": "Finding an Icelandic Sheepdog",
@@ -89,5 +136,21 @@
       "a": "The long-coat variety has longer fur throughout with feathering on the ears, legs, and tail. The short-coat variety has shorter, denser fur with less feathering. Both have the double coat. The long coat requires more frequent brushing to prevent tangles in the feathering."
     }
   ],
-  "related_breeds": ["finnish-lapphund", "norwegian-buhund", "swedish-lapphund"]
+  "related_breeds": [
+    {
+      "name": "Finnish Lapphund",
+      "slug": "finnish-lapphund",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Norwegian Buhund",
+      "slug": "norwegian-buhund",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Swedish Lapphund",
+      "slug": "swedish-lapphund",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

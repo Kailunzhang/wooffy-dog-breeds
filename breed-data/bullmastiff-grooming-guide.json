@@ -5,7 +5,10 @@
     "shopify_handle": "bullmastiff-grooming-guide",
     "group": "Bullmastiff",
     "size_category": "Guide",
-    "tags": ["bullmastiff", "grooming"],
+    "tags": [
+      "bullmastiff",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The Bullmastiff's short coat is low-maintenance, but facial wrinkle care and drool management are important daily routines. Learn how to keep your Bullmastiff clean, comfortable, and skin-healthy.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bullmastiff_edited2.jpg/330px-Bullmastiff_edited2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bullmastiff_edited.JPG/330px-Bullmastiff_edited.JPG",
       "alt": "Bullmastiff grooming"
     }
   },

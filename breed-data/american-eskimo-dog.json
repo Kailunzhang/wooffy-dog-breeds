@@ -5,26 +5,61 @@
     "shopify_handle": "american-eskimo-dog",
     "group": "Non-Sporting",
     "size_category": "Small",
-    "tags": ["american-eskimo-dog", "non-sporting-group", "small-dog"],
+    "tags": [
+      "american-eskimo-dog",
+      "non-sporting-group",
+      "small-dog"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "The American Eskimo Dog is a strikingly beautiful, highly intelligent Nordic breed that comes in three sizes. Known for its thick white double coat and its remarkable trainability, the Eskie has a proud history as a circus performer and remains one of the most agile and clever of all companion breeds.",
     "meta_description": "Complete guide to the American Eskimo Dog — temperament, grooming, sizes, health, and costs for this intelligent white double-coated Non-Sporting breed."
   },
   "stats": {
-    "height": "9–19 inches (varies by size)",
-    "weight": "6–35 lbs (varies by size)",
-    "lifespan": "13–15 years",
-    "energy_level": "High",
-    "grooming_needs": "High",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "High",
-    "trainability": "Easy"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "6–35 lbs (varies by size)"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "13–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/American_Eskimo_Dog_1.jpg/330px-American_Eskimo_Dog_1.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/American_Eskimo_Dog_1.jpg/330px-American_Eskimo_Dog_1.jpg",
       "alt": "American Eskimo Dog"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the American Eskimo Dog Right for You?",
-      "html": "<p><strong>The Eskie may be right for you if:</strong></p><ul><li>You want a highly trainable, intelligent dog who thrives on learning</li><li>You are active and can provide daily vigorous exercise</li><li>You appreciate a beautiful dog and are willing to manage a high-shedding coat</li><li>You have a family with children who engage respectfully with dogs</li><li>You are interested in dog sports or trick training</li></ul><p><strong>The Eskie may NOT be right for you if:</strong></p><ul><li>You work long hours and the dog would be alone most of the day</li><li>You want a low-shedding or low-grooming dog</li><li>You live in a very warm climate without good air conditioning</li><li>You want a quiet dog — Eskies are vocal and tend to bark</li><li>You are not prepared to invest time in training and mental stimulation</li></ul>"
+      "good_fit": [
+        "You want a highly trainable, intelligent dog who thrives on learning",
+        "You are active and can provide daily vigorous exercise",
+        "You appreciate a beautiful dog and are willing to manage a high-shedding coat",
+        "You have a family with children who engage respectfully with dogs",
+        "You are interested in dog sports or trick training"
+      ],
+      "not_fit": [
+        "You work long hours and the dog would be alone most of the day",
+        "You want a low-shedding or low-grooming dog",
+        "You live in a very warm climate without good air conditioning",
+        "You want a quiet dog — Eskies are vocal and tend to bark",
+        "You are not prepared to invest time in training and mental stimulation"
+      ]
     },
     "finding": {
       "label": "Finding an American Eskimo Dog",
@@ -97,5 +145,21 @@
       "a": "In the early 20th century, their remarkable trainability and athletic ability made them stars of traveling circuses across America, where they performed complex tricks, walked tightropes, and dazzled audiences. This circus history contributed significantly to the breed's popularity."
     }
   ],
-  "related_breeds": ["samoyed", "japanese-spitz", "pomeranian"]
+  "related_breeds": [
+    {
+      "name": "Samoyed",
+      "slug": "samoyed",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Japanese Spitz",
+      "slug": "japanese-spitz",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Pomeranian",
+      "slug": "pomeranian",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

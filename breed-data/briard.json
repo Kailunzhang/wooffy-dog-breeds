@@ -5,26 +5,61 @@
     "shopify_handle": "briard",
     "group": "Herding",
     "size_category": "Large",
-    "tags": ["briard", "herding", "large-dog"],
+    "tags": [
+      "briard",
+      "herding",
+      "large-dog"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Briard is a large, long-coated French herding breed often described as 'a heart of gold wrapped in fur.' Ancient in origin and loyal to the core, this versatile working dog thrives with active families willing to invest in grooming and training.",
     "meta_description": "Briard breed guide: learn about this ancient French herding dog's temperament, double dewclaws, grooming needs, health, and whether it's right for your family."
   },
   "stats": {
-    "height": "22–27 inches",
-    "weight": "55–100 lbs",
-    "lifespan": "10–12 years",
-    "energy_level": "High",
-    "grooming_needs": "High",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "55–100 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–12 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Briard_agility.jpg/330px-Briard_agility.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Briard_fauve.JPG/330px-Briard_fauve.JPG",
       "alt": "Briard"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Briard Right for You?",
-      "html": "<p><strong>Great match if you:</strong> Have herding-breed experience. Live an active lifestyle. Want an intensely loyal, devoted companion. Can commit to significant grooming. Are interested in dog sports or herding activities. Appreciate a watchful, protective dog.</p><p><strong>Not a good match if you:</strong> Are a first-time owner. Prefer a low-maintenance coat. Work long hours and would leave the dog alone frequently. Want a dog that is immediately friendly with everyone. Cannot tolerate significant dog hair in the home.</p>"
+      "good_fit": [
+        "Have herding-breed experience",
+        "Live an active lifestyle",
+        "Want an intensely loyal, devoted companion",
+        "Can commit to significant grooming",
+        "Are interested in dog sports or herding activities"
+      ],
+      "not_fit": [
+        "Are a first-time owner",
+        "Prefer a low-maintenance coat",
+        "Work long hours and would leave the dog alone frequently",
+        "Want a dog that is immediately friendly with everyone",
+        "Cannot tolerate significant dog hair in the home"
+      ]
     },
     "finding": {
       "label": "Finding a Briard",
@@ -97,5 +145,21 @@
       "a": "The Briard makes an excellent watchdog — they are naturally alert and will vocalize to alert owners to anything unusual. They are protective of their family by nature. However, they are not typically used as guard dogs in the aggressive sense. Their value is in watchfulness and deterrence rather than active confrontation."
     }
   ],
-  "related_breeds": ["bearded-collie", "beauceron", "old-english-sheepdog"]
+  "related_breeds": [
+    {
+      "name": "Bearded Collie",
+      "slug": "bearded-collie",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Beauceron",
+      "slug": "beauceron",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Old English Sheepdog",
+      "slug": "old-english-sheepdog",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

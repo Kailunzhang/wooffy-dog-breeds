@@ -5,26 +5,61 @@
     "shopify_handle": "toy-fox-terrier",
     "group": "Toy",
     "size_category": "Small",
-    "tags": ["toy-fox-terrier", "toy", "small"],
+    "tags": [
+      "toy-fox-terrier",
+      "toy",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "The Toy Fox Terrier is a sharp, athletic American breed that packs genuine terrier instincts into a sleek, tricolor package weighing as little as 3.5 pounds. Intelligent, loyal, and endlessly entertaining.",
     "meta_description": "Toy Fox Terrier breed guide: temperament, training, health, grooming, and costs for this compact American terrier toy breed."
   },
   "stats": {
-    "height": "8.5–11.5 inches",
-    "weight": "3.5–7 lbs",
-    "lifespan": "13–15 years",
-    "energy_level": "High",
-    "grooming_needs": "Low",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Easy"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Toy"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "3.5–7 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "13–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Toy_Fox_Terrier_2.jpg/330px-Toy_Fox_Terrier_2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Toy_Fox_Terrier_2.jpg/330px-Toy_Fox_Terrier_2.jpg",
       "alt": "Toy Fox Terrier"
     }
   },
@@ -67,7 +102,18 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Toy Fox Terrier a Good Fit?",
-      "html": "<p>The Toy Fox Terrier is an excellent fit for active owners in any living situation — apartment, house, city, or suburb. It thrives when given consistent training, daily exercise, and plenty of human interaction. It's one of the best choices for owners who want a genuinely trainable small dog with low grooming needs.</p><p>It's less ideal for owners who travel frequently and would leave the dog alone for long hours, homes with small pets like birds or rodents, or families with very young toddlers who may handle the dog too roughly given its small size. The TFT's confident, assertive personality also means it does best with owners who can establish gentle but consistent boundaries.</p>"
+      "good_fit": [
+        "The Toy Fox Terrier is an excellent fit for active owners in any living situation — apartment, house, city, or suburb",
+        "It thrives when given consistent training, daily exercise, and plenty of human interaction",
+        "It's one of the best choices for owners who want a genuinely trainable small dog with low grooming needs"
+      ],
+      "not_fit": [
+        "Households unable to commit to the breed's daily exercise needs",
+        "Owners wanting a low-maintenance or hands-off pet",
+        "First-time dog owners unfamiliar with this breed type",
+        "Living situations that don't match the breed's space requirements",
+        "Anyone unprepared for the grooming or training time the breed demands"
+      ]
     },
     "finding": {
       "label": "Finding a Toy Fox Terrier",
@@ -89,5 +135,21 @@
       "a": "They weigh 3.5–7 pounds and stand 8.5–11.5 inches at the shoulder. They are fully grown by around 10–12 months of age."
     }
   ],
-  "related_breeds": ["smooth-fox-terrier", "silky-terrier", "miniature-pinscher"]
+  "related_breeds": [
+    {
+      "name": "Smooth Fox Terrier",
+      "slug": "smooth-fox-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Silky Terrier",
+      "slug": "silky-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Miniature Pinscher",
+      "slug": "miniature-pinscher",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

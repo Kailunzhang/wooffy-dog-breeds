@@ -5,26 +5,61 @@
     "shopify_handle": "polish-lowland-sheepdog",
     "group": "Herding",
     "size_category": "Medium",
-    "tags": ["polish-lowland-sheepdog", "herding", "medium"],
+    "tags": [
+      "polish-lowland-sheepdog",
+      "herding",
+      "medium"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Polish Lowland Sheepdog (PON) is a confident, independent herding breed from Poland with a memorable shaggy coat and an extraordinary memory. Self-assured and devoted, the PON requires an experienced owner who respects its intelligence.",
     "meta_description": "Polish Lowland Sheepdog (PON) breed guide: temperament, coat care, grooming commitment, and costs. Poland's shaggy herder with exceptional memory and independent nature."
   },
   "stats": {
-    "height": "17–20 inches",
-    "weight": "30–50 lbs",
-    "lifespan": "10–14 years",
-    "energy_level": "High",
-    "grooming_needs": "High",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "30–50 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Polski_Owczarek_Nizinny_600.jpg/330px-Polski_Owczarek_Nizinny_600.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polski_owczarek_nizinny_rybnik-kamien_pl.jpg/330px-Polski_owczarek_nizinny_rybnik-kamien_pl.jpg",
       "alt": "Polish Lowland Sheepdog"
     }
   },
@@ -67,7 +102,19 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "For Experienced Owners Ready for the Grooming Commitment",
-      "html": "<p>The Polish Lowland Sheepdog is right for experienced dog owners with active lifestyles who enjoy training a genuinely intelligent, independent dog and are prepared for a significant grooming commitment. It is not suitable for first-time owners, sedentary households, or people who want a coat-free or minimal-grooming companion.</p>"
+      "good_fit": [
+        "Experienced dog owners with active lifestyles who enjoy training a genuinely intelligent",
+        "Independent dog and are prepared for a significant grooming commitment",
+        "Owners who can match the breed's exercise and training needs",
+        "Households committed to early socialization and consistent boundaries",
+        "People who enjoy daily engagement and active companionship with their dog"
+      ],
+      "not_fit": [
+        "First-time owners",
+        "Sedentary households",
+        "People who want a coat-free",
+        "Minimal-grooming companion"
+      ]
     },
     "finding": {
       "label": "Finding a Polish Lowland Sheepdog",
@@ -89,5 +136,21 @@
       "a": "Generally yes, especially with children in its own family that it has grown up with. The PON is loyal and affectionate with its family. Supervision with young children is always advisable due to the breed's independent nature and herding instincts."
     }
   ],
-  "related_breeds": ["bearded-collie", "old-english-sheepdog", "bergamasco-sheepdog"]
+  "related_breeds": [
+    {
+      "name": "Bearded Collie",
+      "slug": "bearded-collie",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Old English Sheepdog",
+      "slug": "old-english-sheepdog",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Bergamasco Sheepdog",
+      "slug": "bergamasco-sheepdog",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

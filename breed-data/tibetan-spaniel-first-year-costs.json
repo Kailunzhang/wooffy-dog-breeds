@@ -5,26 +5,19 @@
     "shopify_handle": "tibetan-spaniel-first-year-costs",
     "group": "Tibetan Spaniel",
     "size_category": "Guide",
-    "tags": ["tibetan-spaniel", "costs", "non-sporting"],
+    "tags": [
+      "tibetan-spaniel",
+      "costs",
+      "non-sporting"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "A complete first year cost breakdown for Tibetan Spaniel ownership — from puppy purchase price through setup, veterinary care, food, and the breed's notably low grooming costs.",
     "meta_description": "Tibetan Spaniel first year cost guide: puppy price, setup expenses, low grooming costs, vet care, and realistic annual budget for this small long-lived breed."
   },
-  "stats": {
-    "height": "10 inches",
-    "weight": "9–15 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "Low",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Moderate"
-  },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tibetan_Spaniel_600.jpg/330px-Tibetan_Spaniel_600.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Tibetansk_spaniel.jpg/330px-Tibetansk_spaniel.jpg",
       "alt": "Tibetan Spaniel"
     }
   },
@@ -58,6 +51,5 @@
       "q": "Does the Tibetan Spaniel really not need professional grooming?",
       "a": "Correct — for most pet owners, home brushing twice a week and periodic home baths are completely sufficient. The breed requires no structural trimming, and the silky coat is forgiving enough that at-home maintenance keeps it in excellent condition. Professional appointments are available when convenient but are not a budget requirement."
     }
-  ],
-  "related_breeds": ["lhasa-apso", "tibetan-terrier", "pekingese"]
+  ]
 }

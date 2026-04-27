@@ -5,26 +5,19 @@
     "shopify_handle": "schipperke-first-year-costs",
     "group": "Schipperke",
     "size_category": "Guide",
-    "tags": ["schipperke", "costs", "non-sporting"],
+    "tags": [
+      "schipperke",
+      "costs",
+      "non-sporting"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "A complete cost breakdown for owning a Schipperke through the first year — including puppy price, setup supplies, veterinary care, and the MPS IIIB health testing consideration.",
     "meta_description": "Schipperke first year cost guide: puppy price, setup, vet care including MPS IIIB testing, food, grooming, and total annual budget."
   },
-  "stats": {
-    "height": "10–13 inches",
-    "weight": "10–16 lbs",
-    "lifespan": "12–16 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Moderate"
-  },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schipperke_photo.jpg/330px-Schipperke_photo.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schipperke0001.jpg/330px-Schipperke0001.jpg",
       "alt": "Schipperke"
     }
   },
@@ -58,6 +51,5 @@
       "q": "How long will my Schipperke live, and how does that affect the total cost of ownership?",
       "a": "Schipperkes typically live 12–16 years, with many reaching 14–15 years in good health. On a per-year-of-life basis, the total cost of ownership is quite favorable. A $1,200 purchase price and $2,000/year in ongoing costs over 14 years represents a very reasonable investment for a breed this engaging."
     }
-  ],
-  "related_breeds": ["pomeranian", "keeshond", "finnish-spitz"]
+  ]
 }

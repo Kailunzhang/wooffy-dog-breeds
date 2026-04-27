@@ -5,26 +5,61 @@
     "shopify_handle": "bearded-collie",
     "group": "Herding",
     "size_category": "Medium",
-    "tags": ["bearded-collie", "herding", "medium-dog"],
+    "tags": [
+      "bearded-collie",
+      "herding",
+      "medium-dog"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "The Bearded Collie is a lively, intelligent Scottish herding dog known for its long flowing double coat and boundless enthusiasm. Affectionately called the 'Beardie,' this breed thrives on activity and human companionship.",
     "meta_description": "Learn about the Bearded Collie: temperament, grooming needs, health, and whether this energetic Scottish herding breed is right for your family."
   },
   "stats": {
-    "height": "20–22 inches",
-    "weight": "45–55 lbs",
-    "lifespan": "12–14 years",
-    "energy_level": "High",
-    "grooming_needs": "High",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "45–55 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bearded_Collie_laying.jpg/330px-Bearded_Collie_laying.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bearded_Collie_600.jpg/330px-Bearded_Collie_600.jpg",
       "alt": "Bearded Collie"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Bearded Collie the Right Breed for Your Lifestyle?",
-      "html": "<p>The Bearded Collie is an exceptional companion for the right household — but it's a breed that demands real commitment. Before bringing a Beardie home, honestly assess whether your lifestyle matches what this dog needs.</p><p><strong>The Beardie is a great fit if you:</strong> Have an active lifestyle with time for daily vigorous exercise. Enjoy grooming or are willing to invest in professional grooming. Have a securely fenced yard. Want a dog that is deeply engaged with family life. Are interested in dog sports or activities.</p><p><strong>The Beardie may not be right for you if:</strong> You work long hours and would leave the dog alone most of the day. You prefer a low-maintenance coat. You live in a small apartment without nearby outdoor space. You want a calm, easily managed dog. You have very young children and aren't prepared for a boisterous, energetic dog.</p><p>Beardies can adapt to various living situations if their needs are met, but they are truly happiest in homes with active owners who treat them as full family members. They are sensitive dogs that do not do well with neglect, harsh handling, or isolation.</p>"
+      "good_fit": [
+        "Have an active lifestyle with time for daily vigorous exercise",
+        "Enjoy grooming or are willing to invest in professional grooming",
+        "Have a securely fenced yard",
+        "Want a dog that is deeply engaged with family life",
+        "Are interested in dog sports or activities"
+      ],
+      "not_fit": [
+        "You work long hours and would leave the dog alone most of the day",
+        "You prefer a low-maintenance coat",
+        "You live in a small apartment without nearby outdoor space",
+        "You want a calm, easily managed dog",
+        "You have very young children and aren't prepared for a boisterous, energetic dog"
+      ]
     },
     "finding": {
       "label": "Finding a Bearded Collie",
@@ -97,5 +145,21 @@
       "a": "Addison's disease is a failure of the adrenal glands to produce sufficient hormones. Bearded Collies have a genetic predisposition to the condition. Signs include lethargy, poor appetite, vomiting, and intermittent weakness. It's manageable with medication but can be fatal if not diagnosed. Regular vet visits and awareness of the signs are important for Beardie owners."
     }
   ],
-  "related_breeds": ["border-collie", "rough-collie", "old-english-sheepdog"]
+  "related_breeds": [
+    {
+      "name": "Border Collie",
+      "slug": "border-collie",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Rough Collie",
+      "slug": "rough-collie",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Old English Sheepdog",
+      "slug": "old-english-sheepdog",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

@@ -5,26 +5,19 @@
     "shopify_handle": "swedish-vallhund-grooming-guide",
     "group": "Swedish Vallhund",
     "size_category": "Guide",
-    "tags": ["swedish-vallhund", "grooming", "herding"],
+    "tags": [
+      "swedish-vallhund",
+      "grooming",
+      "herding"
+    ],
     "published": true,
     "published_at": "2026-05-05T16:00:00Z",
     "excerpt": "A practical grooming guide for the Swedish Vallhund's harsh weather-resistant double coat — covering weekly brushing, managing the twice-yearly shed, bathing, and the minimal professional grooming this Viking herding dog needs.",
     "meta_description": "Swedish Vallhund grooming guide: brushing schedule, managing seasonal shedding, bathing, and coat care for the harsh sable double coat of this ancient Nordic breed."
   },
-  "stats": {
-    "height": "11.5–13.5 inches",
-    "weight": "20–35 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Easy"
-  },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Swedish_Vallhund_bitch.jpg/330px-Swedish_Vallhund_bitch.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/V%C3%A4stg%C3%B6taspets_hane_5_%C3%A5r.jpg/330px-V%C3%A4stg%C3%B6taspets_hane_5_%C3%A5r.jpg",
       "alt": "Swedish Vallhund"
     }
   },
@@ -58,6 +51,5 @@
       "q": "Can the harsh outer coat texture change over time?",
       "a": "Yes — spay and neuter can cause a gradual softening of the outer coat in some individuals, and aging can thin the coat slightly. Using harsh-coat-appropriate shampoos (avoiding softening conditioners) and maintaining regular brushing helps preserve the correct texture over time."
     }
-  ],
-  "related_breeds": ["pembroke-welsh-corgi", "cardigan-welsh-corgi", "icelandic-sheepdog"]
+  ]
 }

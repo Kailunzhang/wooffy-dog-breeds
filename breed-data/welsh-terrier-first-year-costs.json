@@ -5,22 +5,15 @@
     "shopify_handle": "welsh-terrier-first-year-costs",
     "group": "Welsh Terrier",
     "size_category": "Guide",
-    "tags": ["welsh-terrier", "costs", "terrier"],
+    "tags": [
+      "welsh-terrier",
+      "costs",
+      "terrier"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "A realistic breakdown of what it costs to buy, set up, and care for a Welsh Terrier through the first year — from puppy price to grooming, vet bills, and ongoing monthly expenses.",
     "meta_description": "Welsh Terrier first year cost breakdown: puppy price, setup supplies, grooming, vet care, food, and total annual budget estimates."
-  },
-  "stats": {
-    "height": "15 inches",
-    "weight": "20 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Low",
-    "trainability": "Moderate"
   },
   "images": {
     "hero": {
@@ -58,6 +51,5 @@
       "q": "What is the biggest unexpected expense Welsh Terrier owners face?",
       "a": "Allergy and skin condition management is the most commonly cited unexpected cost. Welsh Terriers can develop environmental or food allergies requiring veterinary consultations, prescription diets, or ongoing medication. Pet insurance and a good vet relationship help manage these costs."
     }
-  ],
-  "related_breeds": ["airedale-terrier", "lakeland-terrier", "norfolk-terrier"]
+  ]
 }

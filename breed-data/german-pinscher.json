@@ -5,26 +5,61 @@
     "shopify_handle": "german-pinscher",
     "group": "Working",
     "size_category": "Medium",
-    "tags": ["german-pinscher", "working", "medium"],
+    "tags": [
+      "german-pinscher",
+      "working",
+      "medium"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The German Pinscher is a sleek, energetic, and highly intelligent working dog with a strong prey drive and an even stronger personality. This medium-sized powerhouse is best suited to experienced, active owners.",
     "meta_description": "Complete German Pinscher breed guide: temperament, care, training, health, and costs. Learn if this energetic and intelligent working breed is right for you."
   },
   "stats": {
-    "height": "17–20 inches",
-    "weight": "25–45 lbs",
-    "lifespan": "12–14 years",
-    "energy_level": "High",
-    "grooming_needs": "Low",
-    "good_with_kids": true,
-    "good_with_other_dogs": false,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "25–45 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/German_Pinscher_Bonni_vom_Adelssitz_2014.jpg/330px-German_Pinscher_Bonni_vom_Adelssitz_2014.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bvdb-duitse_pincher.jpg/330px-Bvdb-duitse_pincher.jpg",
       "alt": "German Pinscher"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the German Pinscher the Right Breed for You?",
-      "html": "<p>The German Pinscher is an outstanding dog — for the right owner. Honestly assessing whether your lifestyle aligns with this breed's needs before bringing one home is critical.</p><p><strong>The German Pinscher is probably right for you if:</strong> You are active and exercise daily. You have experience with medium-to-large, high-energy breeds. You are committed to ongoing training and mental stimulation. You have a securely fenced yard. You do not have cats or other small pets. You want a dog sport or performance partner. You prefer minimal grooming requirements.</p><p><strong>The German Pinscher is probably not right for you if:</strong> You want a calm, easygoing companion. You are a first-time dog owner. You have cats, rabbits, or other small animals. You want a dog that's reliably friendly with all other dogs. You can't commit to 1–2 hours of vigorous daily exercise. You work long hours and would leave the dog alone for extended periods.</p><p>For experienced dog owners with active lifestyles and an appreciation for a challenging, clever, deeply loyal dog, the German Pinscher is one of the most rewarding breeds available. Its relative rarity means you won't see one at every dog park, which is part of its appeal.</p>"
+      "good_fit": [
+        "Active owners who can provide daily vigorous exercise",
+        "Households with experience handling intelligent, high-drive breeds",
+        "Owners committed to ongoing training and mental stimulation",
+        "Homes with secure fencing and no small pets to chase",
+        "People who want a confident, alert, dog with a strong prey drive"
+      ],
+      "not_fit": [
+        "First-time owners wanting an easy-going beginner breed",
+        "Households with cats, rabbits, or other small pets",
+        "Sedentary owners or busy households unable to exercise daily",
+        "Apartments without daily access to safe outdoor exercise",
+        "Anyone wanting a gentle, biddable, low-energy companion"
+      ]
     },
     "finding": {
       "label": "Finding a German Pinscher",
@@ -97,5 +145,21 @@
       "a": "No. The short, smooth coat is one of the breed's low-maintenance features. Shedding is minimal, and weekly brushing with a rubber mitt is all that's needed to keep the coat looking its best."
     }
   ],
-  "related_breeds": ["doberman-pinscher", "miniature-pinscher", "standard-schnauzer"]
+  "related_breeds": [
+    {
+      "name": "Doberman Pinscher",
+      "slug": "doberman-pinscher",
+      "note": "Larger, more athletic descendant breed"
+    },
+    {
+      "name": "Miniature Pinscher",
+      "slug": "miniature-pinscher",
+      "note": "Smaller cousin in the pinscher family"
+    },
+    {
+      "name": "Standard Schnauzer",
+      "slug": "standard-schnauzer",
+      "note": "Closely related German working breed"
+    }
+  ]
 }

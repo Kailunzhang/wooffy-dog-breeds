@@ -5,26 +5,61 @@
     "shopify_handle": "schipperke",
     "group": "Non-Sporting",
     "size_category": "Small",
-    "tags": ["schipperke", "non-sporting", "small"],
+    "tags": [
+      "schipperke",
+      "non-sporting",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "The Schipperke is a curious, mischievous Belgian barge dog wrapped in a thick black double coat with a signature neck ruff. Nicknamed the \"little black devil,\" it is clever, energetic, and endlessly entertaining.",
     "meta_description": "Schipperke breed guide: temperament, thick black coat, Belgian barge dog history, health, MPS IIIB testing, grooming, and costs for this spirited small breed."
   },
   "stats": {
-    "height": "10–13 inches",
-    "weight": "10–16 lbs",
-    "lifespan": "12–16 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "10–16 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–16 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schipperke_photo.jpg/330px-Schipperke_photo.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schipperke0001.jpg/330px-Schipperke0001.jpg",
       "alt": "Schipperke"
     }
   },
@@ -67,7 +102,19 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Schipperke the Right Breed for You?",
-      "html": "<p>The Schipperke is an excellent choice for active owners who want a high-energy, highly intelligent small dog with genuine personality and a lot of character. It is adaptable to apartment life with sufficient exercise and mental stimulation, good with children, and relatively long-lived. The moderate shedding and coat care requirements are manageable.</p><p>The Schipperke is not the right choice for owners who want a calm, easily managed small dog, for households with cats or rodents (without very careful management), or for anyone who is not prepared to provide significant daily exercise and mental engagement. The MPS IIIB health consideration underscores the importance of sourcing from a testing breeder. For active, engaged owners who do their research, the Schipperke is a deeply rewarding lifelong companion.</p>"
+      "good_fit": [
+        "Active owners who want a high-energy",
+        "Highly intelligent small dog with genuine personality and a lot of character",
+        "It is adaptable to apartment life with sufficient exercise and mental stimulation, good with children, and relatively long-lived",
+        "The moderate shedding and coat care requirements are manageable"
+      ],
+      "not_fit": [
+        "The MPS IIIB health consideration underscores the importance of sourcing from a testing breeder",
+        "For active, engaged owners who do their research, the Schipperke is a deeply rewarding lifelong companion",
+        "Households unable to commit to the breed's daily exercise needs",
+        "Owners wanting a low-maintenance or hands-off pet",
+        "First-time dog owners unfamiliar with this breed type"
+      ]
     },
     "finding": {
       "label": "Finding a Schipperke",
@@ -89,5 +136,21 @@
       "a": "Some Schipperkes are born naturally tailless or with a very short natural bob — a trait that occurs in the breed without artificial docking. Others are born with full tails; in the US, tails have historically been docked close to the body for the show ring appearance. Natural-tailed Schipperkes are increasingly shown and accepted."
     }
   ],
-  "related_breeds": ["pomeranian", "keeshond", "finnish-spitz"]
+  "related_breeds": [
+    {
+      "name": "Pomeranian",
+      "slug": "pomeranian",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Keeshond",
+      "slug": "keeshond",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Finnish Spitz",
+      "slug": "finnish-spitz",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

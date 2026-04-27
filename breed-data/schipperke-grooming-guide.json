@@ -5,26 +5,19 @@
     "shopify_handle": "schipperke-grooming-guide",
     "group": "Schipperke",
     "size_category": "Guide",
-    "tags": ["schipperke", "grooming", "non-sporting"],
+    "tags": [
+      "schipperke",
+      "grooming",
+      "non-sporting"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "A practical grooming guide for the Schipperke's dense black double coat — covering weekly brushing, managing the twice-yearly coat blow, bathing, and maintaining the breed's characteristic ruff and silhouette.",
     "meta_description": "Schipperke grooming guide: brushing schedule, managing coat blows, bathing tips, and maintaining the dense black double coat and signature neck ruff."
   },
-  "stats": {
-    "height": "10–13 inches",
-    "weight": "10–16 lbs",
-    "lifespan": "12–16 years",
-    "energy_level": "High",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Moderate"
-  },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schipperke_photo.jpg/330px-Schipperke_photo.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schipperke0001.jpg/330px-Schipperke0001.jpg",
       "alt": "Schipperke"
     }
   },
@@ -58,6 +51,5 @@
       "q": "Can I trim my Schipperke's coat to reduce shedding?",
       "a": "Shaving or heavily clipping the Schipperke coat is not recommended. It disrupts the double coat's natural temperature regulation function and does not reliably reduce shedding — the undercoat typically continues to shed regardless of outer coat length. Regular brushing is a far more effective approach."
     }
-  ],
-  "related_breeds": ["pomeranian", "keeshond", "finnish-spitz"]
+  ]
 }

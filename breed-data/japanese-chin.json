@@ -5,26 +5,61 @@
     "shopify_handle": "japanese-chin",
     "group": "Toy",
     "size_category": "Small",
-    "tags": ["japanese-chin", "toy-group", "small-dog"],
+    "tags": [
+      "japanese-chin",
+      "toy-group",
+      "small-dog"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "The Japanese Chin is a silky, aristocratic Toy breed famous for its cat-like behavior — washing its face with its paws, climbing to high perches, and greeting owners with calm, serene affection. One of the most elegant and gentle of all small breeds.",
     "meta_description": "Everything about the Japanese Chin — temperament, grooming, health, and costs for this graceful Asian Toy breed with distinctly feline personality traits."
   },
   "stats": {
-    "height": "8–11 inches",
-    "weight": "7–11 lbs",
-    "lifespan": "10–12 years",
-    "energy_level": "Low",
-    "grooming_needs": "Moderate",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Toy"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "7–11 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–12 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "30–60 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/JapaneseChin.jpg/330px-JapaneseChin.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Chin_posing.jpg/330px-Chin_posing.jpg",
       "alt": "Japanese Chin"
     }
   },
@@ -67,7 +102,19 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Japanese Chin Your Perfect Companion?",
-      "html": "<p>The Japanese Chin is ideal for the right owner and a poor fit for others. Honest self-assessment before adopting any breed saves both the dog and the owner from a mismatched relationship.</p><p><strong>The Chin may be right for you if:</strong></p><ul><li>You want a calm, elegant companion who doesn't demand excessive exercise</li><li>You appreciate a dog with cat-like qualities and refined behavior</li><li>You live in an apartment or quiet home</li><li>You have older children or an adult-only household</li><li>You are prepared to manage a brachycephalic breed's health needs</li></ul><p><strong>The Chin may NOT be right for you if:</strong></p><ul><li>You want an active, vigorous dog for outdoor adventures</li><li>You have very young children</li><li>You live in a hot climate without good air conditioning</li><li>You want a dog with a long lifespan compared to other Toy breeds</li></ul>"
+      "good_fit": [
+        "You want a calm, elegant companion who doesn't demand excessive exercise",
+        "You appreciate a dog with cat-like qualities and refined behavior",
+        "You live in an apartment or quiet home",
+        "You have older children or an adult-only household",
+        "You are prepared to manage a brachycephalic breed's health needs"
+      ],
+      "not_fit": [
+        "You want an active, vigorous dog for outdoor adventures",
+        "You have very young children",
+        "You live in a hot climate without good air conditioning",
+        "You want a dog with a long lifespan compared to other Toy breeds"
+      ]
     },
     "finding": {
       "label": "Finding a Japanese Chin",
@@ -93,5 +140,21 @@
       "a": "Generally very well — their own cat-like temperament makes them natural companions for feline housemates. Proper introduction is still important, but the Chin's gentle, non-chasing nature makes compatibility likely."
     }
   ],
-  "related_breeds": ["pekingese", "shih-tzu", "cavalier-king-charles-spaniel"]
+  "related_breeds": [
+    {
+      "name": "Pekingese",
+      "slug": "pekingese",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Shih Tzu",
+      "slug": "shih-tzu",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Cavalier King Charles Spaniel",
+      "slug": "cavalier-king-charles-spaniel",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

@@ -5,7 +5,10 @@
     "shopify_handle": "dogue-de-bordeaux-grooming-guide",
     "group": "Dogue de Bordeaux",
     "size_category": "Guide",
-    "tags": ["dogue-de-bordeaux", "grooming"],
+    "tags": [
+      "dogue-de-bordeaux",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The Dogue de Bordeaux's short coat is easy to maintain, but daily facial fold cleaning and drool management are essential health routines. Here is everything you need to keep a DDB clean and comfortable.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dogue_de_Bordeaux_profil.jpg/330px-Dogue_de_Bordeaux_profil.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/French_Mastiff_female_4.jpg/330px-French_Mastiff_female_4.jpg",
       "alt": "Dogue de Bordeaux grooming"
     }
   },

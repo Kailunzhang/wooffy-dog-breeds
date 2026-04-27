@@ -5,22 +5,57 @@
     "shopify_handle": "kerry-blue-terrier",
     "group": "Terrier",
     "size_category": "Medium",
-    "tags": ["kerry-blue-terrier", "terrier", "medium"],
+    "tags": [
+      "kerry-blue-terrier",
+      "terrier",
+      "medium"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "The Kerry Blue Terrier is Ireland's national dog — a versatile, wavy-coated working terrier with a striking blue-gray coat, boundless energy, and a personality as vibrant as its Irish heritage.",
     "meta_description": "Complete Kerry Blue Terrier guide: temperament, distinctive blue coat care, health, and costs. Learn about Ireland's national dog and whether it suits your home."
   },
   "stats": {
-    "height": "17.5–19.5 inches",
-    "weight": "33–40 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "High",
-    "grooming_needs": "High",
-    "good_with_kids": true,
-    "good_with_other_dogs": false,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "33–40 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Kerry Blue Terrier Right for You?",
-      "html": "<p><strong>The Kerry Blue is right for you if:</strong> You have experience with working breeds or terriers. You are active and can commit to 1–1.5 hours of daily exercise. You appreciate the breed's distinctive appearance and history. You are committed to regular professional grooming. You don't have cats or small animals. You can manage dog-to-dog interactions proactively.</p><p><strong>Not right for you if:</strong> You are a first-time dog owner. You want a dog that's reliably friendly with all other dogs. You have cats or small pets. You want minimal grooming expenses. You are away from home for long hours regularly. You live in close quarters with noise-sensitive neighbors.</p>"
+      "good_fit": [
+        "You have experience with working breeds or terriers",
+        "You are active and can commit to 1–1.5 hours of daily exercise",
+        "You appreciate the breed's distinctive appearance and history",
+        "You are committed to regular professional grooming",
+        "You don't have cats or small animals"
+      ],
+      "not_fit": [
+        "You are a first-time dog owner",
+        "You want a dog that's reliably friendly with all other dogs",
+        "You have cats or small pets",
+        "You want minimal grooming expenses",
+        "You are away from home for long hours regularly"
+      ]
     },
     "finding": {
       "label": "Finding a Kerry Blue Terrier",
@@ -97,5 +145,21 @@
       "a": "The Kerry Blue Terrier is recognized as the national dog of Ireland, named after County Kerry where the breed was developed in the southwest of the island."
     }
   ],
-  "related_breeds": ["lakeland-terrier", "welsh-terrier", "irish-terrier"]
+  "related_breeds": [
+    {
+      "name": "Lakeland Terrier",
+      "slug": "lakeland-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Welsh Terrier",
+      "slug": "welsh-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Irish Terrier",
+      "slug": "irish-terrier",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

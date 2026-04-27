@@ -5,26 +5,19 @@
     "shopify_handle": "tibetan-spaniel-grooming-guide",
     "group": "Tibetan Spaniel",
     "size_category": "Guide",
-    "tags": ["tibetan-spaniel", "grooming", "non-sporting"],
+    "tags": [
+      "tibetan-spaniel",
+      "grooming",
+      "non-sporting"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "A practical grooming guide for the Tibetan Spaniel — one of the easiest long-coated breeds to maintain. Covers brushing routine, managing seasonal shedding, bathing, and the minimal trimming this ancient breed requires.",
     "meta_description": "Tibetan Spaniel grooming guide: brushing schedule, seasonal shedding management, bathing, and low-maintenance coat care for this ancient small breed."
   },
-  "stats": {
-    "height": "10 inches",
-    "weight": "9–15 lbs",
-    "lifespan": "12–15 years",
-    "energy_level": "Moderate",
-    "grooming_needs": "Low",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "Moderate",
-    "trainability": "Moderate"
-  },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tibetan_Spaniel_600.jpg/330px-Tibetan_Spaniel_600.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Tibetansk_spaniel.jpg/330px-Tibetansk_spaniel.jpg",
       "alt": "Tibetan Spaniel"
     }
   },
@@ -58,6 +51,5 @@
       "q": "Can I trim my Tibetan Spaniel's coat shorter for the summer?",
       "a": "It is not recommended. The double coat provides insulation against both cold and heat; shaving or significantly shortening it removes this natural temperature regulation and can also damage the coat texture. During hot weather, provide shade, limit exercise to cooler parts of the day, and ensure access to fresh water."
     }
-  ],
-  "related_breeds": ["lhasa-apso", "tibetan-terrier", "pekingese"]
+  ]
 }

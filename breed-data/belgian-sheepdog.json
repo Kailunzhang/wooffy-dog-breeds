@@ -5,26 +5,61 @@
     "shopify_handle": "belgian-sheepdog",
     "group": "Herding",
     "size_category": "Medium",
-    "tags": ["belgian-sheepdog", "herding", "medium-dog"],
+    "tags": [
+      "belgian-sheepdog",
+      "herding",
+      "medium-dog"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "The Belgian Sheepdog, also known as the Groenendael, is an elegant, all-black herding breed with a long, flowing double coat. Highly intelligent and energetic, this versatile dog excels in herding, police work, and as a devoted family companion.",
     "meta_description": "Belgian Sheepdog (Groenendael) breed guide: temperament, grooming, health, costs, and whether this beautiful black herding dog is right for your active lifestyle."
   },
   "stats": {
-    "height": "22–26 inches",
-    "weight": "45–75 lbs",
-    "lifespan": "12–14 years",
-    "energy_level": "High",
-    "grooming_needs": "High",
-    "good_with_kids": true,
-    "good_with_other_dogs": true,
-    "shedding": "High",
-    "trainability": "Easy"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "45–75 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Belgian_Sheepdog_2.jpg/330px-Belgian_Sheepdog_2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/04_-_Belgian_shepherd_dog_varieties_-_Groenendael%2CTervuren%2C_Malinois%2C_Laekenois.jpg/330px-04_-_Belgian_shepherd_dog_varieties_-_Groenendael%2CTervuren%2C_Malinois%2C_Laekenois.jpg",
       "alt": "Belgian Sheepdog"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Belgian Sheepdog Right for You?",
-      "html": "<p><strong>The Belgian Sheepdog is an excellent match if you:</strong> Are active and can provide 60–90 minutes of vigorous daily exercise. Have experience with intelligent, high-drive herding breeds. Are committed to ongoing training and mental stimulation. Can invest time in regular grooming or afford professional grooming. Want an intensely loyal, protective companion.</p><p><strong>The Belgian Sheepdog may not be right for you if:</strong> You are a first-time dog owner without herding-breed experience. You have a sedentary lifestyle. You prefer a low-maintenance coat. You want a dog that is immediately friendly with all strangers. You are away from home for long periods daily.</p>"
+      "good_fit": [
+        "You are a first-time dog owner without herding-breed experience",
+        "You have a sedentary lifestyle",
+        "You prefer a low-maintenance coat",
+        "You want a dog that is immediately friendly with all strangers",
+        "You are away from home for long periods daily"
+      ],
+      "not_fit": [
+        "You are a first-time dog owner without herding-breed experience",
+        "You have a sedentary lifestyle",
+        "You prefer a low-maintenance coat",
+        "You want a dog that is immediately friendly with all strangers",
+        "You are away from home for long periods daily"
+      ]
     },
     "finding": {
       "label": "Finding a Belgian Sheepdog",
@@ -97,5 +145,21 @@
       "a": "Technically possible but not ideal. A Belgian Sheepdog in an apartment requires a very committed owner who provides extensive daily outdoor exercise — 90+ minutes of vigorous activity. Without a yard, off-leash parks and structured exercise become daily necessities. Most Belgian Sheepdog owners find the breed more manageable with access to a securely fenced outdoor space."
     }
   ],
-  "related_breeds": ["belgian-tervuren", "belgian-malinois", "german-shepherd"]
+  "related_breeds": [
+    {
+      "name": "Belgian Tervuren",
+      "slug": "belgian-tervuren",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Belgian Malinois",
+      "slug": "belgian-malinois",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "German Shepherd",
+      "slug": "german-shepherd",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

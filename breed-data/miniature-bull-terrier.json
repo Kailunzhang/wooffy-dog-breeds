@@ -5,26 +5,61 @@
     "shopify_handle": "miniature-bull-terrier",
     "group": "Terrier",
     "size_category": "Small",
-    "tags": ["miniature-bull-terrier", "terrier", "small"],
+    "tags": [
+      "miniature-bull-terrier",
+      "terrier",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Miniature Bull Terrier is everything you love about the Bull Terrier packed into a smaller package — the same egg-shaped head, the same fearless personality, and the same irresistible clownish charm.",
     "meta_description": "Complete Miniature Bull Terrier guide: temperament, care, health, and costs. Learn about this compact, comical, and devoted terrier breed."
   },
   "stats": {
-    "height": "10–14 inches",
-    "weight": "18–28 lbs",
-    "lifespan": "11–13 years",
-    "energy_level": "High",
-    "grooming_needs": "Low",
-    "good_with_kids": true,
-    "good_with_other_dogs": false,
-    "shedding": "Low",
-    "trainability": "Difficult"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "18–28 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "11–13 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Miniature_Bull_Terrier.jpg/330px-Miniature_Bull_Terrier.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Minibull_2_Moletai_May_2014.jpg/330px-Minibull_2_Moletai_May_2014.jpg",
       "alt": "Miniature Bull Terrier"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Miniature Bull Terrier the Right Breed for You?",
-      "html": "<p><strong>The Miniature Bull Terrier is right for you if:</strong> You have experience with independent, strong-willed breeds. You enjoy active training challenges. You want a devoted, amusing, unique companion. You don't have cats or small animals. You have a securely fenced yard. You can handle the breed's typical stubbornness with patience and humor.</p><p><strong>The Miniature Bull Terrier is not right for you if:</strong> You want a reliably obedient dog. You are a first-time dog owner. You have small children under 5. You have cats, rabbits, or other small pets. You want a dog that's universally friendly with other dogs. You're away from home for long hours.</p>"
+      "good_fit": [
+        "You have experience with independent, strong-willed breeds",
+        "You enjoy active training challenges",
+        "You want a devoted, amusing, unique companion",
+        "You don't have cats or small animals",
+        "You have a securely fenced yard"
+      ],
+      "not_fit": [
+        "You want a reliably obedient dog",
+        "You are a first-time dog owner",
+        "You have small children under 5",
+        "You have cats, rabbits, or other small pets",
+        "You want a dog that's universally friendly with other dogs"
+      ]
     },
     "finding": {
       "label": "Finding a Miniature Bull Terrier",
@@ -93,5 +141,21 @@
       "a": "No, they are among the more challenging breeds. Their stubbornness and independent thinking require patient, consistent positive reinforcement. They are intelligent and learn well when motivated, but they frequently test limits."
     }
   ],
-  "related_breeds": ["bull-terrier", "staffordshire-bull-terrier", "american-staffordshire-terrier"]
+  "related_breeds": [
+    {
+      "name": "Bull Terrier",
+      "slug": "bull-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Staffordshire Bull Terrier",
+      "slug": "staffordshire-bull-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "American Staffordshire Terrier",
+      "slug": "american-staffordshire-terrier",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

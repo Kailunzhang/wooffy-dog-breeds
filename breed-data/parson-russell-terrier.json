@@ -5,26 +5,61 @@
     "shopify_handle": "parson-russell-terrier",
     "group": "Terrier",
     "size_category": "Small",
-    "tags": ["parson-russell-terrier", "terrier", "small"],
+    "tags": [
+      "parson-russell-terrier",
+      "terrier",
+      "small"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Parson Russell Terrier is a bold, athletic, fox-hunting terrier with explosive energy and boundless intelligence. Originally bred by Reverend John Russell, this white-bodied dog with go-all-day stamina is not for sedentary owners.",
     "meta_description": "Complete Parson Russell Terrier guide: temperament, care, training, health, and costs. Learn about this bold, athletic hunting terrier and whether it suits your lifestyle."
   },
   "stats": {
-    "height": "13–14 inches",
-    "weight": "13–17 lbs",
-    "lifespan": "13–15 years",
-    "energy_level": "Very High",
-    "grooming_needs": "Low",
-    "good_with_kids": true,
-    "good_with_other_dogs": false,
-    "shedding": "Low",
-    "trainability": "Moderate"
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "13–17 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "13–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "2+ hrs/day"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution"
+    }
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Parson_Russell_Terrier_600.jpg/330px-Parson_Russell_Terrier_600.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/05052881_PRT_braun_rau.jpg/330px-05052881_PRT_braun_rau.jpg",
       "alt": "Parson Russell Terrier"
     }
   },
@@ -67,7 +102,20 @@
     "right_for_you": {
       "label": "Right for You?",
       "heading": "Is the Parson Russell Terrier Right for You?",
-      "html": "<p><strong>Right for you if:</strong> You are active and exercise daily. You want a dog sport partner. You have experience with high-energy terrier breeds. You have a securely fenced yard. You don't have cats or other small animals. You find independent terrier spirit charming.</p><p><strong>Not right for you if:</strong> You want a calm, low-energy companion. You're a first-time dog owner. You have cats or rabbits. You want reliable off-leash recall in open areas. You work long hours and leave the dog alone for extended periods.</p>"
+      "good_fit": [
+        "You are active and exercise daily",
+        "You want a dog sport partner",
+        "You have experience with high-energy terrier breeds",
+        "You have a securely fenced yard",
+        "You don't have cats or other small animals"
+      ],
+      "not_fit": [
+        "You want a calm, low-energy companion",
+        "You're a first-time dog owner",
+        "You have cats or rabbits",
+        "You want reliable off-leash recall in open areas",
+        "You work long hours and leave the dog alone for extended periods"
+      ]
     },
     "finding": {
       "label": "Finding a Parson Russell Terrier",
@@ -93,5 +141,21 @@
       "a": "Generally not recommended. Their high energy, strong prey drive, and independent nature can be overwhelming for inexperienced owners. They are best suited to owners with prior terrier or working breed experience."
     }
   ],
-  "related_breeds": ["russell-terrier", "cairn-terrier", "fox-terrier"]
+  "related_breeds": [
+    {
+      "name": "Russell Terrier",
+      "slug": "russell-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Cairn Terrier",
+      "slug": "cairn-terrier",
+      "note": "Related breed worth comparing"
+    },
+    {
+      "name": "Fox Terrier",
+      "slug": "fox-terrier",
+      "note": "Related breed worth comparing"
+    }
+  ]
 }

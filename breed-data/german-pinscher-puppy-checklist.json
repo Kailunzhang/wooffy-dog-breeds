@@ -5,7 +5,11 @@
     "shopify_handle": "german-pinscher-puppy-checklist",
     "group": "German Pinscher",
     "size_category": "Guide",
-    "tags": ["german-pinscher", "puppy", "checklist"],
+    "tags": [
+      "german-pinscher",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "Ready to bring home a German Pinscher puppy? Use this complete checklist to prepare your home, gather the right supplies, and start training this high-energy, intelligent working breed on the right foot.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/German_Pinscher_Bonni_vom_Adelssitz_2014.jpg/330px-German_Pinscher_Bonni_vom_Adelssitz_2014.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bvdb-duitse_pincher.jpg/330px-Bvdb-duitse_pincher.jpg",
       "alt": "German Pinscher"
     }
   },
