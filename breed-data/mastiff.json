@@ -6,74 +6,103 @@
     "group": "Working Group",
     "size_category": "Giant Breed",
     "tagline": "The Mastiff is one of the heaviest dog breeds in existence — calm, devoted, and gentle at home, but a massive physical commitment that few households fully anticipate. Drool, size, and a short lifespan come with the package.",
-    "tags": ["working-group", "giant-breed", "gentle-giant", "guard-dog", "short-lifespan", "dog-breeds"],
+    "tags": [
+      "working-group",
+      "giant-breed",
+      "gentle-giant",
+      "guard-dog",
+      "short-lifespan",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Mastiffs can exceed 200 lbs and have a calm, devoted temperament that belies their enormous size. They're gentle with their family and surprisingly low-energy indoors. The practical realities: significant drool, giant-breed health costs, a 6–10 year lifespan, and a dog that will drape itself across your couch permanently.",
     "meta_description": "Mastiff breed guide: gentle giant temperament, drool management, giant-breed health costs, lifespan expectations, and what everyday life with the world's heaviest dog breed looks like."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Giant" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "120–230+ lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "6–10 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "30–45 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low (drool management)" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Research required" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Giant"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "120–230+ lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "6–10 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "30–45 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low (drool management)"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Research required"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/137._English_Mastiff.JPG/330px-137._English_Mastiff.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/137._English_Mastiff.JPG",
       "alt": "Mastiff (English Mastiff)"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Mastiff?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The English Mastiff is one of the oldest and heaviest dog breeds known to history — recorded in ancient Egypt, referenced in Julius Caesar's accounts of Britain, and maintained as an estate guardian through the centuries. Modern Mastiffs carry that history in their physical presence: massive, heavily built, with a broad, wrinkled face and a dignified, calm bearing that suggests they take their own weight seriously.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Males typically weigh 160–230 lbs, with some individuals recorded significantly above that. The AKC standard describes the ideal as \"massive, symmetrical and well-knit frame.\" In practice, they're among the heaviest dogs any breeder produces — and that size comes with requirements that many households underestimate.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The temperament is genuinely gentle. Mastiffs are patient, devoted, and calm indoors — not frantic or destructive. They're natural guardians without aggression: their presence and size discourage intrusion without needing to act. They bond deeply to family and are typically good with children they're raised with.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Mastiffs Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">One of the world's heaviest dogs — males 160–230+ lbs, females 120–170 lbs. The body is rectangular and heavily muscled, with a broad, wrinkled head, pendant ears, and a deep chest. The face shows significant wrinkling around the muzzle and forehead, contributing to the characteristic expression of dignified concern.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Colors include apricot, fawn, and brindle — all with a black mask covering the muzzle, ears, and eye rims. The short, close coat is easy to maintain but the breed drools extensively — especially after drinking, eating, or physical activity. This is non-negotiable and not reducible through training or breeding. If drool is a dealbreaker, a Mastiff is not the right breed.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Calm, devoted, and patient — Mastiffs are gentle giants in the truest sense. At home, they tend toward couch furniture and proximity to their people rather than activity. They're not high-strung, not barky, and not destructive once mature. A well-raised adult Mastiff is among the most relaxed large breeds in the home.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family children: patient and tolerant. The size concern is physical, not behavioral — a 200-lb dog moving at normal pace can knock a child over accidentally. Supervision with young children is practical, not because of aggression risk but because of sheer mass.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With strangers: typically reserved and watchful. They're natural guardians — they note and assess unfamiliar people carefully. They're not aggressive without cause, but they take their protective function seriously. Proper early socialization produces a dog that's neutral and controlled, not reactive.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Mastiff",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Mastiff ownership is a specific lifestyle commitment. The dogs themselves are wonderful — calm, loyal, loving, with a presence that is genuinely awe-inspiring. Walking a 220-lb Mastiff is an experience. Having one lie on your feet while you read is another. They're extraordinary dogs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The practical conversation: the drool is constant. You'll have slinging on walls, on clothing, on guests. You'll keep towels at strategic locations. Some households adapt to this completely; others find it genuinely difficult. Be honest about your tolerance before committing.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The lifespan is hard. Six to ten years is the realistic range — and many Mastiffs don't reach the high end. You will grieve a dog you've barely had. This is the emotional reality of giant breeds. I'm not saying don't get one — I'm saying know this going in, and make those years count.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">30–45 minutes of moderate daily exercise — lower than you'd expect for a large breed. Adults are not high-energy; they're comfortable with daily walks and don't require intense activity. Do not over-exercise in heat — Mastiffs are sensitive to heat stress. Puppies: strict exercise limits until 18–24 months; no forced running or jumping while growth plates are open.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The coat is low-maintenance — weekly brushing, baths every 6–8 weeks. The wrinkles require cleaning 2–3 times weekly to prevent moisture buildup and skin infections. The drool is the primary grooming challenge: keep absorbent cloths available and wipe after meals and activity. See the <a href=\"/blogs/dog-breeds/mastiff-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Mastiff grooming guide</a>.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Start early — a 220-lb untrained dog is ungovernable. Basic obedience from puppyhood is essential. Mastiffs can be stubborn but are generally willing with positive reinforcement. The most critical behaviors: loose-leash walking and not jumping. Their mass makes both problems genuinely dangerous when unaddressed in a large adult.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Mastiffs carry the typical giant-breed health burden — musculoskeletal conditions, short lifespan, and bloat risk.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip &amp; Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Very common in giant breeds. Malformation of hip/elbow joints causes arthritis and mobility issues. OFA screening in breeding stock. Weight management is critical — every extra pound multiplies joint stress significantly at this size. Surgical options available for severe cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Life-threatening emergency in deep-chested giant breeds. Signs: distended abdomen, unproductive retching, restlessness after eating. Prophylactic gastropexy at spay/neuter is strongly recommended.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Osteosarcoma (Bone Cancer)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Giant breeds have significantly elevated rates of bone cancer. Osteosarcoma typically presents as limb pain or swelling in middle-aged to older dogs. Prognosis is generally poor; treatment options exist and may extend quality time significantly.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Cardiomyopathy &amp; PRA</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Heart disease occurs at elevated rates. CAER eye exam and cardiac screening recommended. Progressive retinal atrophy DNA test available.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA elbow, OFA cardiac, CAER eye clearances. Discuss prophylactic gastropexy before spay/neuter.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (giant breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$1,100–$1,700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$1,100–$1,700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series + gastropexy)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,000–$2,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$1,000–$2,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$1,000–$2,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (giant crate, XL supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$5,100–$9,100</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,900–$5,200</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/mastiff-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Mastiff first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Mastiff Right for You?",
@@ -92,25 +121,50 @@
         "Active households seeking a running or hiking partner"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Mastiff",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$2,500 from health-testing breeders. Required clearances: OFA hip, OFA elbow, OFA cardiac, CAER eye. The Mastiff Club of America maintains a breeder referral list. Given the short lifespan and orthopedic concerns, choosing a breeder with a rigorous health testing program is especially important.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Mastiff rescue organizations exist nationally. Common surrender reasons include underestimated size, food cost, and drool. Adult Mastiffs are often ideal rescue candidates — they're past the puppy clumsiness stage and their fundamental gentleness is usually intact. Request health records including any orthopedic history.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Mastiff comes home, complete the <a href=\"/blogs/dog-breeds/mastiff-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Mastiff puppy checklist</a>.</p>"
     }
   },
-
   "faq": [
-    { "q": "How much do Mastiffs drool?", "a": "Significantly — this is one of the breed's defining characteristics. They drool after drinking, after eating, after exercise, and sometimes just because. The drool can sling on walls, clothing, and faces. Many Mastiff owners keep absorbent cloths at water bowls, feeding stations, and near the couch. Some people adapt completely; others genuinely cannot. Assess your tolerance honestly." },
-    { "q": "Are Mastiffs good guard dogs?", "a": "Natural deterrents — yes. A 200-lb Mastiff at the door is a meaningful presence that discourages most unwanted visitors. They are alert and will bark at unusual activity. However, they're not trained attack dogs and don't need protection training. Their temperament is guardian, not aggressor — they watch and assess rather than act without cause." },
-    { "q": "How long do Mastiffs live?", "a": "Average 6–10 years, with the lower end of that range common. Giant breeds' shorter lifespans are biological — the faster growth rate correlates with earlier aging. Cancer, orthopedic disease, and cardiac issues are the primary causes of death. Getting a Mastiff means accepting a relatively short window. Many owners say the depth of the bond makes the time worthwhile despite the brevity." },
-    { "q": "Can Mastiff puppies exercise normally?", "a": "No — strict limits apply until 18–24 months when growth plates close. No forced running, jumping, or extended stair climbing. Free play on soft surfaces is fine; structured walks of appropriate length are fine. The growth rate of giant breeds is extreme, and premature stress on developing joints causes permanent damage. This is one of the most important puppy rules for Mastiffs." }
+    {
+      "q": "How much do Mastiffs drool?",
+      "a": "Significantly — this is one of the breed's defining characteristics. They drool after drinking, after eating, after exercise, and sometimes just because. The drool can sling on walls, clothing, and faces. Many Mastiff owners keep absorbent cloths at water bowls, feeding stations, and near the couch. Some people adapt completely; others genuinely cannot. Assess your tolerance honestly."
+    },
+    {
+      "q": "Are Mastiffs good guard dogs?",
+      "a": "Natural deterrents — yes. A 200-lb Mastiff at the door is a meaningful presence that discourages most unwanted visitors. They are alert and will bark at unusual activity. However, they're not trained attack dogs and don't need protection training. Their temperament is guardian, not aggressor — they watch and assess rather than act without cause."
+    },
+    {
+      "q": "How long do Mastiffs live?",
+      "a": "Average 6–10 years, with the lower end of that range common. Giant breeds' shorter lifespans are biological — the faster growth rate correlates with earlier aging. Cancer, orthopedic disease, and cardiac issues are the primary causes of death. Getting a Mastiff means accepting a relatively short window. Many owners say the depth of the bond makes the time worthwhile despite the brevity."
+    },
+    {
+      "q": "Can Mastiff puppies exercise normally?",
+      "a": "No — strict limits apply until 18–24 months when growth plates close. No forced running, jumping, or extended stair climbing. Free play on soft surfaces is fine; structured walks of appropriate length are fine. The growth rate of giant breeds is extreme, and premature stress on developing joints causes permanent damage. This is one of the most important puppy rules for Mastiffs."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Great Dane", "slug": "great-dane", "note": "Similar giant size and short lifespan, taller not heavier, slightly more active"},
-    {"name": "Akita", "slug": "akita", "note": "More independent and dog-selective, longer lifespan, considerably smaller"},
-    {"name": "Rottweiler", "slug": "rottweiler", "note": "More active and trainable, similar protective nature, longer lifespan"},
-    {"name": "Bullmastiff", "slug": "bullmastiff", "note": "Mastiff-Bulldog cross, slightly more active, similar guardian temperament"}
+    {
+      "name": "Great Dane",
+      "slug": "great-dane",
+      "note": "Similar giant size and short lifespan, taller not heavier, slightly more active"
+    },
+    {
+      "name": "Akita",
+      "slug": "akita",
+      "note": "More independent and dog-selective, longer lifespan, considerably smaller"
+    },
+    {
+      "name": "Rottweiler",
+      "slug": "rottweiler",
+      "note": "More active and trainable, similar protective nature, longer lifespan"
+    },
+    {
+      "name": "Bullmastiff",
+      "slug": "bullmastiff",
+      "note": "Mastiff-Bulldog cross, slightly more active, similar guardian temperament"
+    }
   ]
 }

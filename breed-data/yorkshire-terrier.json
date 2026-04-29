@@ -6,74 +6,103 @@
     "group": "Toy Group",
     "size_category": "Small Breed",
     "tagline": "The Yorkshire Terrier is a feisty, confident terrier who happens to weigh under 7 lbs. They have the energy, boldness, and stubbornness of a working terrier, the health vulnerabilities of a tiny dog, and a coat that demands serious maintenance.",
-    "tags": ["toy-group", "small-breed", "terrier", "hypoallergenic", "apartment-friendly", "dog-breeds"],
+    "tags": [
+      "toy-group",
+      "small-breed",
+      "terrier",
+      "hypoallergenic",
+      "apartment-friendly",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-19T16:00:00Z",
     "excerpt": "Yorkies are not lap dogs by temperament — they're working terriers in a small package. They also need a harness (tracheal collapse risk), rigorous dental care, and hypoglycemia monitoring as puppies. Understand the health picture before you fall for that face.",
     "meta_description": "Yorkshire Terrier breed guide: terrier personality in a toy body, tracheal collapse prevention, hypoglycemia risk, portosystemic shunts, dental disease, and grooming options."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Toy" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "Up to 7 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "13–16 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "30–45 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate-Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Older kids best" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With preparation" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Toy"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "Up to 7 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "13–16 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "30–45 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate-Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Older kids best"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "With preparation"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%282_version%29_Grupp_3%2C_YORKSHIRETERRIER%2C_NO_UCH_SE_UCH_Oxzar_Amazing_Bel%E2%80%99s_Toffy_%2824310212305%29.jpg/330px-%282_version%29_Grupp_3%2C_YORKSHIRETERRIER%2C_NO_UCH_SE_UCH_Oxzar_Amazing_Bel%E2%80%99s_Toffy_%2824310212305%29.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/%282_version%29_Grupp_3%2C_YORKSHIRETERRIER%2C_NO_UCH_SE_UCH_Oxzar_Amazing_Bel%E2%80%99s_Toffy_%2824310212305%29.jpg",
       "alt": "Yorkshire Terrier"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Yorkshire Terrier?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Yorkshire Terrier was developed in 19th-century Yorkshire, England, as a working ratter in textile mills and mines. The breed was created by crossing several terrier types to produce a small, agile, tenacious dog capable of hunting rats in confined spaces. The transformation from working ratter to fashionable companion happened relatively quickly — by the late 1800s, Yorkies had become status symbols among the wealthy, and the breed standard was refined toward the smaller, silkier dogs seen today.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">What did not get refined away was the terrier personality. Yorkies are bold, curious, territorial, and persistent. They have the prey drive and independent thinking of a working terrier. They will chase squirrels, investigate every corner, and hold their ground with much larger dogs. They are not meek, gentle lap dogs — they are terriers who weigh 4–7 lbs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">One critical note before anything else: Yorkies must be walked on a harness, never a collar. Tracheal collapse is a serious risk in this breed, and leash pressure on the neck can cause or accelerate it. This is the first piece of equipment to buy before a Yorkie comes home.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Yorkshire Terriers Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Small and compact, weighing up to 7 lbs (typically 4–7 lbs) with a height of 7–8 inches. The defining feature is the coat — a fine, straight, silky texture that more closely resembles human hair than typical dog fur. The adult show coat is steel blue on the body and rich tan on the head, chest, and legs. The texture means Yorkies are low-shedding — making them one of the more allergy-friendly toy breeds — but the coat requires significant maintenance in either of its two common configurations.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Most owners choose either a long show coat (requiring daily brushing) or a shorter puppy cut (requiring professional grooming every 6–8 weeks). The puppy cut is more practical for most households but still requires consistent professional maintenance to prevent matting. There is no low-maintenance Yorkie coat option.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bold, feisty, and self-confident far beyond what their size implies. Yorkies are terriers in every meaningful sense — curious, persistent, and quick to investigate anything that moves or makes a sound. They are not timid dogs. They will alert to strangers, challenge larger dogs, and pursue anything that triggers their prey drive.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family, Yorkies are affectionate and devoted. They typically bond closely to one person while being friendly with the rest of the household. They enjoy being involved and present — they are not dogs content to be left to their own devices for long periods. Separation anxiety is a real concern in this breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Training is moderate-to-challenging — not because Yorkies lack intelligence (they are quite clever) but because they have terrier independence and stubbornness. Positive reinforcement with high-value treats works well. Harsh corrections produce shutdown or escalation, not compliance. Expect to be patient and consistent. The terrier tenacity that makes them difficult to train also makes them entertaining once they decide to engage.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Yorkie",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">If you want a small, low-shedding dog with genuine personality and a long lifespan, a well-bred Yorkie is an excellent choice. If you want a calm, easy-to-manage lap dog, you are looking at the wrong breed. The terrier in a Yorkie is not a surface quality — it is the fundamental nature of the dog.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Dental disease is the health issue I would emphasize most strongly. Yorkies have small jaws with crowded teeth that accumulate tartar rapidly. Without daily tooth brushing and regular professional cleanings, most Yorkies lose multiple teeth in middle age — which is painful, affects eating, and can lead to systemic infection affecting heart and kidneys. Daily brushing is genuinely non-optional for this breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Ask your breeder specifically about portosystemic shunts. Liver shunts are present in Yorkie lines and can cause serious problems in puppies — stunted growth, neurological symptoms, and digestive issues. Reputable breeders will have had their breeding dogs' liver values tested. This is not a common condition, but it is breed-relevant and worth asking about directly.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate needs — 30–45 minutes of daily activity. Yorkies are more active than their size suggests and need genuine daily exercise to manage energy and prevent boredom-related behavior. All walks on a harness. Indoor play and puzzle toys supplement well on days when outdoor exercise is limited.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">One of the highest-maintenance coats in the toy group. Long coat requires daily brushing with a pin brush and fine-tooth comb; missing sessions leads to tangles that become mats quickly. The puppy cut reduces brushing to a few times per week but requires professional grooming every 6–8 weeks. Either way, grooming is a significant time and cost commitment. See the <a href=\"/blogs/dog-breeds/yorkshire-terrier-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Yorkie grooming guide</a>.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Dental Care</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Daily tooth brushing with enzymatic dog toothpaste. Professional dental cleanings every 1–2 years under anesthesia. This is the most important preventive health routine for a Yorkie. Small-breed dental disease is serious, progressive, and preventable with consistent care from puppyhood.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Yorkies are long-lived (13–16 years) with generally good health, but several breed-specific conditions deserve serious attention.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Tracheal Collapse</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Weakened tracheal cartilage rings leading to airway collapse under pressure. The classic symptom is a harsh, honking cough. Use a harness — never a collar. Managed medically; surgical options exist for severe cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypoglycemia (puppies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Blood sugar drops can be life-threatening in very small toy puppies. Feed every 3–4 hours minimum; do not skip meals in the first 3–4 months. Signs: lethargy, weakness, disorientation, seizures. Emergency response: rub Karo syrup on gums, get to vet immediately.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Dental Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Severe periodontal disease is nearly universal in adult Yorkies without daily dental care. Crowded small teeth accumulate tartar rapidly. Leads to tooth loss, pain, and systemic infection. Prevented by daily brushing from puppyhood and regular professional cleanings.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Portosystemic Shunts (Liver Shunts)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Abnormal blood vessel bypasses the liver, allowing toxins to enter the bloodstream. Congenital form affects puppies — signs include poor growth, neurological symptoms, and digestive issues. Surgical correction is possible. Ask breeders for liver panel testing on breeding dogs.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Patellar Luxation</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Kneecap slipping out of position — common in small breeds. Ranges from occasional gait skipping to chronic lameness. OFA certification available.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Legg-Calvé-Perthes Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Degeneration of the femoral head causing hip pain and lameness, typically in young dogs (6–12 months). Surgical correction (femoral head and neck excision) usually results in good outcomes in small breeds.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA patella, liver panel values on breeding dogs, and honest discussion of any shunt history in the lines.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,200–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (small breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$150–$300</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$150–$300</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Professional grooming (6–8 wk cycle)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Dental cleanings</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (harness, crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$150–$300</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,900–$5,800</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,450–$2,800</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/yorkshire-terrier-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Yorkie first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Yorkshire Terrier Right for You?",
@@ -91,25 +120,50 @@
         "Owners who want a dog that will reliably and easily comply with training"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Yorkshire Terrier",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,200–$2,500 from reputable breeders. The Yorkshire Terrier Club of America maintains a breeder referral. Ask specifically about liver shunt testing in breeding lines — this is not a universal screening but responsible breeders in Yorkie lines test for it. Avoid breeders advertising \"teacup\" Yorkies — dogs below the breed standard weight have more health problems, not fewer.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Yorkie rescues are active and well-organized. Many adults are surrendered for grooming-related reasons or by owners who underestimated the terrier personality. Adult rescues are past hypoglycemia risk and have established temperaments.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Yorkie comes home, complete the <a href=\"/blogs/dog-breeds/yorkshire-terrier-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Yorkshire Terrier puppy checklist</a> — harness, hypoglycemia protocol, and dental care supplies are the non-negotiables for day one.</p>"
     }
   },
-
   "faq": [
-    { "q": "Are Yorkshire Terriers hypoallergenic?", "a": "More accurately: they are low-shedding. The silky Yorkie coat does not shed the way double-coated breeds do, which reduces the amount of dander-carrying hair distributed through a home. Many people with dog allergies tolerate Yorkies better than heavier-shedding breeds. However, no dog is truly hypoallergenic — all dogs produce dander to some degree. If allergies are a concern, spend time with a Yorkie before committing." },
-    { "q": "How long do Yorkshire Terriers live?", "a": "13–16 years is a realistic lifespan for a well-cared-for Yorkie. They are one of the longer-lived toy breeds. The longevity dividend comes with the requirement of managing the health conditions associated with the breed — particularly dental disease and tracheal health — throughout that long life." },
-    { "q": "What is the difference between a puppy cut and a show coat for Yorkies?", "a": "The show coat is the long, floor-length steel blue and tan coat seen in competition — it requires daily brushing, weekly baths, and meticulous maintenance. The puppy cut (also called a \"teddy bear cut\") is shorter, easier to maintain at home, and requires professional trimming every 6–8 weeks. Most pet owners choose the puppy cut for practical reasons. Both coats are the same underlying hair type — the maintenance difference is significant." },
-    { "q": "Can Yorkies be left alone during the day?", "a": "For moderate periods, yes — though they are more social than truly independent dogs. Yorkies can develop separation anxiety if left alone for very long periods. Building a gradual alone-time routine, providing puzzle toys, and establishing a consistent schedule helps. Long days of isolation daily is not ideal for this breed." }
+    {
+      "q": "Are Yorkshire Terriers hypoallergenic?",
+      "a": "More accurately: they are low-shedding. The silky Yorkie coat does not shed the way double-coated breeds do, which reduces the amount of dander-carrying hair distributed through a home. Many people with dog allergies tolerate Yorkies better than heavier-shedding breeds. However, no dog is truly hypoallergenic — all dogs produce dander to some degree. If allergies are a concern, spend time with a Yorkie before committing."
+    },
+    {
+      "q": "How long do Yorkshire Terriers live?",
+      "a": "13–16 years is a realistic lifespan for a well-cared-for Yorkie. They are one of the longer-lived toy breeds. The longevity dividend comes with the requirement of managing the health conditions associated with the breed — particularly dental disease and tracheal health — throughout that long life."
+    },
+    {
+      "q": "What is the difference between a puppy cut and a show coat for Yorkies?",
+      "a": "The show coat is the long, floor-length steel blue and tan coat seen in competition — it requires daily brushing, weekly baths, and meticulous maintenance. The puppy cut (also called a \"teddy bear cut\") is shorter, easier to maintain at home, and requires professional trimming every 6–8 weeks. Most pet owners choose the puppy cut for practical reasons. Both coats are the same underlying hair type — the maintenance difference is significant."
+    },
+    {
+      "q": "Can Yorkies be left alone during the day?",
+      "a": "For moderate periods, yes — though they are more social than truly independent dogs. Yorkies can develop separation anxiety if left alone for very long periods. Building a gradual alone-time routine, providing puzzle toys, and establishing a consistent schedule helps. Long days of isolation daily is not ideal for this breed."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Silky Terrier", "slug": "silky-terrier", "note": "Close cousin, slightly larger, similar coat type and terrier personality"},
-    {"name": "Maltese", "slug": "maltese", "note": "Similar size and silky coat, gentler personality, less terrier energy"},
-    {"name": "Pomeranian", "slug": "pomeranian", "note": "Similar size and long-lived, spitz versus terrier personality"},
-    {"name": "Biewer Terrier", "slug": "biewer-terrier", "note": "Bred from Yorkies, tricolor coat, similar personality"}
+    {
+      "name": "Silky Terrier",
+      "slug": "silky-terrier",
+      "note": "Close cousin, slightly larger, similar coat type and terrier personality"
+    },
+    {
+      "name": "Maltese",
+      "slug": "maltese",
+      "note": "Similar size and silky coat, gentler personality, less terrier energy"
+    },
+    {
+      "name": "Pomeranian",
+      "slug": "pomeranian",
+      "note": "Similar size and long-lived, spitz versus terrier personality"
+    },
+    {
+      "name": "Biewer Terrier",
+      "slug": "biewer-terrier",
+      "note": "Bred from Yorkies, tricolor coat, similar personality"
+    }
   ]
 }

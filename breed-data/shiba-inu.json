@@ -6,74 +6,104 @@
     "group": "Non-Sporting Group",
     "size_category": "Small-Medium Breed",
     "tagline": "The Shiba Inu is a small package containing the personality of an ancient, independent primitive breed — complete with a talent for escape, a contempt for commands they don't feel like following, and a scream that will make your neighbors call 911.",
-    "tags": ["non-sporting-group", "small-medium-breed", "independent", "primitive-breed", "japanese-breed", "escape-artist", "dog-breeds"],
+    "tags": [
+      "non-sporting-group",
+      "small-medium-breed",
+      "independent",
+      "primitive-breed",
+      "japanese-breed",
+      "escape-artist",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Shiba Inus are the internet's favorite dog and one of the most challenging small breeds you can own. The 'Shiba scream' is real, the escape artistry is real, the off-leash danger is real. Know what you're getting into.",
     "meta_description": "Shiba Inu breed guide: primitive breed independence, the Shiba scream, escape artist tendencies, prey drive, off-leash safety, health conditions, and whether a Shiba fits your household."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Small-Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "17–23 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "13–16 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Selective" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small-Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "17–23 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "13–16 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Selective"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Taka_Shiba.jpg/250px-Taka_Shiba.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Taka_Shiba.jpg",
       "alt": "Shiba Inu"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Shiba Inu?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Shiba Inu is Japan's smallest native spitz breed and one of the oldest dog breeds in the world, dating back thousands of years. Originally bred to hunt small game and birds in mountainous terrain, the Shiba retains the independence, prey drive, and self-directed intelligence of a primitive hunting dog in a tidy, fox-like package. They became famous in the West partly through internet memes — but the meme version doesn't come with the Shiba scream, the escape attempts, or the 16-year commitment.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Shibas are often described as cat-like, and it's accurate: they're fastidiously clean, often aloof, make decisions about whether your request is worth complying with, and can be intensely curious and playful on their own terms. They're also deeply loyal to their family — just not in a demonstrative, eager-to-please way.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Males weigh 20–23 lbs; females 17–20 lbs. They live 13–16 years — a genuine long-term commitment. And they should never, ever be off-leash outside a securely fenced area. This is not a negotiable recommendation.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Shiba Inus Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Small to medium, compact and well-muscled. Classic spitz features: curled tail over the back, erect triangular ears, foxlike face with a confident expression. The double coat comes in red (most common), black and tan, sesame (red with black tips), and cream. Urajiro — the pale cream or white markings on the cheeks, chest, belly, and inner legs — is a traditional Shiba feature required by breed standard.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The coat sheds moderately year-round and dramatically twice a year during coat blows. The undercoat releases in large quantities over several weeks; daily brushing during this period is necessary. Never shave the double coat — the structure protects from both heat and cold.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Shiba Inu has three official character traits in the Japanese breed standard: kaani-i (spirited boldness), ryosei (good nature), and soboku (artless sincerity). What this translates to in daily life is a dog with intense self-confidence, loyalty to family without constant demonstration, and a directness that doesn't involve much guile or manipulation — they either want to do something or they don't.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Shiba scream is genuinely a thing. When a Shiba Inu is unhappy with something — being restrained, bathed, having nails trimmed, or simply objecting to a situation — they can produce a high-pitched, operatic scream that sounds like the dog is being murdered. It's drama. They're fine. But the first time it happens will absolutely terrify you and everyone nearby.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With other dogs: dog-selective to dog-aggressive, particularly with same-sex dogs. Many Shibas do fine with a carefully chosen companion; others are emphatically one-dog dogs. Prey drive is significant — cats and small animals are risky depending on the individual dog and how they were raised.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Shiba Inu",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Shibas are spectacular dogs that look deceptively manageable because of their size. They're not manageable — they're small but they are primitive-breed independent with ancient hunting instincts and a level of stubbornness that would make a terrier respectful. The size is the only thing about a Shiba Inu that's small.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The off-leash rule is the first thing I'd emphasize to anyone: Shiba Inus should never be off-leash outside a fully secured fenced area. The prey drive is strong enough that a squirrel or a cat across the street will override any recall training you've ever done. They're also very fast and very small — they fit through fence gaps that dogs twice their size can't. Your fence needs to be Shiba-proofed, and that means checking every single gap.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The resource guarding tendency is worth knowing upfront. Shibas can be possessive of food, toys, and space, particularly with children. This is manageable with early training but requires consistent management throughout the dog's life. This is not a breed that tolerates children taking food from its bowl.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of exercise daily in a fully fenced area or on leash. Shibas have genuine endurance and curiosity — they do well with varied walks, hikes on leash, and vigorous play in secured yards. Never off-leash in open areas regardless of recall history. Secure fencing is non-negotiable: check for gaps, dig vulnerabilities, and any surface they could use as a climbing assist.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Weekly brushing with a rubber mitt or slicker during normal periods; daily undercoat raking during the two annual coat blows. Never shave. The coat is surprisingly self-cleaning — mud often brushes out once dry. Baths every 6–8 weeks. See the <a href=\"/blogs/dog-breeds/shiba-inu-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Shiba Inu grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Positive reinforcement works; harsh corrections produce the Shiba shutdown (they simply stop engaging) or rebellion. Shibas learn commands quickly and then decide whether to execute them based on their own assessment of the situation and the value of what's being offered. High-value treats, short sessions, and a sense of humor about the whole enterprise are necessary. Socialization in the 8–16 week window is critically important for reducing adult reactivity.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Shibas are generally healthy with an excellent lifespan of 13–16 years. The primary health concerns are musculoskeletal and eye-related.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Present in the breed. OFA or PennHIP clearances from responsible breeders. Managed with medication; less common than in large breeds but still worth screening for.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Allergies / Atopic Dermatitis</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Shibas have elevated allergy rates. Environmental and food allergies manifest as itching, skin irritation, ear infections, and paw licking. Management involves identifying triggers; some dogs require long-term medication.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Glaucoma</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Increased pressure in the eye that can lead to blindness if untreated. Requires emergency treatment when acute. Regular eye exams with a veterinary ophthalmologist are recommended as the dog ages.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Patellar Luxation</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Kneecap slipping out of its groove. Common in small to medium breeds. Ranges from mild (occasional skip in gait) to severe (requires surgery). OFA patella evaluation available.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Underactive thyroid — manageable with daily medication. OFA thyroid clearance available from breeders.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA patella, CAER eye exam, and thyroid clearances for both parents.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,400–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (small-medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, supplies, fence)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,900–$5,300</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,200–$2,200</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/shiba-inu-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Shiba Inu first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Shiba Inu Right for You?",
@@ -92,24 +122,45 @@
         "Owners who won't commit to the 13–16 year lifespan"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Shiba Inu",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,400–$2,500 from reputable breeders. Required health clearances: OFA hip, OFA patella, CAER eye exam. The National Shiba Club of America maintains a breeder referral. Shibas have become popular enough that backyard breeders and puppy mills are prevalent — avoid breeders who can't produce health clearances for both parents.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Shiba Inu rescue organizations exist nationwide. Many are surrendered by owners who misread the breed from internet culture. Experienced handlers only — unknown history and the breed's natural independence require patient, structured re-introduction to household rules.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Shiba comes home, complete the <a href=\"/blogs/dog-breeds/shiba-inu-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Shiba Inu puppy checklist</a> — fence audit, secure containment plan, and socialization schedule are the critical pre-arrival items.</p>"
     }
   },
-
   "faq": [
-    { "q": "What is the 'Shiba scream'?", "a": "A high-pitched, dramatic vocalization Shibas produce when they're unhappy, restrained, or objecting to something. It sounds alarming — like the dog is in serious distress — but is typically just the Shiba expressing displeasure. It tends to occur during baths, nail trims, vet visits, or any restraint they object to. Desensitization training from puppyhood reduces but doesn't always eliminate it." },
-    { "q": "Can Shiba Inus ever be off-leash?", "a": "Only in fully fenced, secure areas. Never in open areas regardless of recall training. The prey drive in Shiba Inus is ancient and strong — a squirrel, cat, or interesting smell across a road will override any training. Shibas are also fast and small enough to fit through gaps and under fences. This is a firm breed-specific safety rule, not a training failure." },
-    { "q": "Are Shiba Inus good with children?", "a": "With respectful, older children — generally yes, with supervision. Shibas can resource guard and have a low tolerance for being grabbed, crowded, or handled roughly. Very young children who don't yet read dog body language are a mismatch. Homes with toddlers should be honest about whether a Shiba's needs and a toddler's behavior can be safely managed." },
-    { "q": "How long do Shiba Inus live?", "a": "13–16 years — one of the longer lifespans for any breed of this size. This is both a wonderful thing (you get a long time with a great dog) and something to take seriously as a commitment. A Shiba Inu acquired at 30 may still be alive at 46. Plan accordingly." }
+    {
+      "q": "What is the 'Shiba scream'?",
+      "a": "A high-pitched, dramatic vocalization Shibas produce when they're unhappy, restrained, or objecting to something. It sounds alarming — like the dog is in serious distress — but is typically just the Shiba expressing displeasure. It tends to occur during baths, nail trims, vet visits, or any restraint they object to. Desensitization training from puppyhood reduces but doesn't always eliminate it."
+    },
+    {
+      "q": "Can Shiba Inus ever be off-leash?",
+      "a": "Only in fully fenced, secure areas. Never in open areas regardless of recall training. The prey drive in Shiba Inus is ancient and strong — a squirrel, cat, or interesting smell across a road will override any training. Shibas are also fast and small enough to fit through gaps and under fences. This is a firm breed-specific safety rule, not a training failure."
+    },
+    {
+      "q": "Are Shiba Inus good with children?",
+      "a": "With respectful, older children — generally yes, with supervision. Shibas can resource guard and have a low tolerance for being grabbed, crowded, or handled roughly. Very young children who don't yet read dog body language are a mismatch. Homes with toddlers should be honest about whether a Shiba's needs and a toddler's behavior can be safely managed."
+    },
+    {
+      "q": "How long do Shiba Inus live?",
+      "a": "13–16 years — one of the longer lifespans for any breed of this size. This is both a wonderful thing (you get a long time with a great dog) and something to take seriously as a commitment. A Shiba Inu acquired at 30 may still be alive at 46. Plan accordingly."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Akita", "slug": "akita", "note": "Larger Japanese spitz relative, same independent temperament, much larger scale"},
-    {"name": "Chow Chow", "slug": "chow-chow", "note": "Similar aloof/independent personality, different structure, heavier grooming needs"},
-    {"name": "Finnish Spitz", "slug": "finnish-spitz", "note": "Similar spitz appearance, more vocal, hunting background, similarly independent"}
+    {
+      "name": "Akita",
+      "slug": "akita",
+      "note": "Larger Japanese spitz relative, same independent temperament, much larger scale"
+    },
+    {
+      "name": "Chow Chow",
+      "slug": "chow-chow",
+      "note": "Similar aloof/independent personality, different structure, heavier grooming needs"
+    },
+    {
+      "name": "Finnish Spitz",
+      "slug": "finnish-spitz",
+      "note": "Similar spitz appearance, more vocal, hunting background, similarly independent"
+    }
   ]
 }
