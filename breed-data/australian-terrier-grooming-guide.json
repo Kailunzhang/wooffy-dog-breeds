@@ -5,7 +5,10 @@
     "shopify_handle": "australian-terrier-grooming-guide",
     "group": "Australian Terrier",
     "size_category": "Guide",
-    "tags": ["australian-terrier", "grooming"],
+    "tags": [
+      "australian-terrier",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Australian Terrier's harsh double coat needs regular brushing and periodic hand-stripping or trimming to maintain its characteristic texture. Learn the right grooming approach for this distinctive small breed.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Australian_Terrier_adult_male.jpg/330px-Australian_Terrier_adult_male.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_d26fe3e9-3909-4058-9fd3-736b449daf00.png?v=1777580309",
       "alt": "Australian Terrier"
     }
   },

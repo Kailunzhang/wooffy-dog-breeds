@@ -5,20 +5,26 @@
     "shopify_handle": "xoloitzcuintli-grooming-guide",
     "group": "Xoloitzcuintli",
     "size_category": "Guide",
-    "tags": ["xoloitzcuintli", "xolo", "grooming", "hairless", "skin-care", "sunscreen", "dental-care"],
+    "tags": [
+      "xoloitzcuintli",
+      "xolo",
+      "grooming",
+      "hairless",
+      "skin-care",
+      "sunscreen",
+      "dental-care"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "Grooming a hairless Xolo isn't about brushing — it's about skin protection, sun care, and warmth in cold weather. The coated variety needs minimal brushing. Both benefit from a consistent dental care routine.",
     "meta_description": "Xoloitzcuintli grooming guide: hairless variety skin care and sun protection, cold weather clothing, dental care for missing teeth, coated variety routine, and what to watch for on bare skin."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BIR_Grupp_5-_MEXIKANSK_NAKENHUND%2C_Lokal_Hero%E2%80%99s_King_Og_Hart%E2%80%99s_Istas_%2823607403303%29.jpg/250px-BIR_Grupp_5-_MEXIKANSK_NAKENHUND%2C_Lokal_Hero%E2%80%99s_King_Og_Hart%E2%80%99s_Istas_%2823607403303%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ec29846b-090b-4e32-9bc7-5ef5ef7c8154.png?v=1777580208",
       "alt": "Xoloitzcuintli grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Two Varieties, Two Care Approaches",
@@ -36,7 +42,6 @@
       "html": "<h3>Cold Weather Clothing</h3><p>A hairless Xolo in cold weather needs clothing the same way you do — it's not optional. Practical approach:</p><ul><li>A well-fitted dog coat or sweater for outdoor time when temperatures are below 50°F</li><li>Indoor clothing in cold or drafty homes — some hairless dogs are comfortable indoors at normal household temperatures without clothing; others appreciate a lightweight shirt</li><li>For cold climates: have multiple coats so one is always dry; wet clothing on a hairless dog is cold rapidly</li><li>Measure your dog before purchasing — a correctly fitted coat stays in place and allows full movement; an ill-fitting coat either restricts movement or falls off</li></ul><h3>Skin Blemishes</h3><p>Hairless Xolos are prone to acne-like skin blemishes — blackheads and small pustules, particularly on the back and along the spine. This is normal for the breed and typically manageable at home:</p><ul><li>Gentle cleansing with a soft cloth and mild shampoo during bath time keeps blemishes from accumulating</li><li>Don't squeeze or pick at blemishes — this introduces bacteria and worsens the problem</li><li>If blemishes are widespread, inflamed, or spreading, see your vet — bacterial skin infections may require treatment</li><li>Some dogs improve with a consistent bathing schedule; others have chronically oily skin that requires more active management. Your vet can recommend appropriate options.</li></ul><h3>Dental Care: More Important Than Average</h3><p>The hairless gene in Xolos is linked to missing or irregular dentition. Dogs without a full complement of teeth can develop dental problems differently than dogs with complete teeth sets — food may not wear correctly against remaining teeth, and some dogs have odd spacing that traps debris. Regular dental care matters more, not less:</p><ul><li>Daily toothbrushing is the goal; 3–4 times per week is meaningful</li><li>Professional dental cleanings under anesthesia on the schedule your vet recommends — typically annually for dogs with active tartar buildup</li><li>Dental chews and toys help, though the missing-teeth pattern means some chews are used differently than in dogs with full dentition</li></ul><h3>Coated Variety Routine</h3><p>Simple by comparison: weekly brushing with a soft brush or rubber mitt removes loose hair and stimulates skin circulation. Bath every 4–6 weeks. Nail trim monthly. Dental care same as above. The coated variety has no special skin or temperature management requirements.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What sunscreen is safe to use on a Xoloitzcuintli?",

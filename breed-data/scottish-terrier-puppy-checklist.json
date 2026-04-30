@@ -5,7 +5,11 @@
     "shopify_handle": "scottish-terrier-puppy-checklist",
     "group": "Scottish Terrier",
     "size_category": "Guide",
-    "tags": ["scottish-terrier", "puppy", "checklist"],
+    "tags": [
+      "scottish-terrier",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "A Scottish Terrier puppy arrives with strong opinions and a big personality in a small package. This checklist covers what to prepare, how to establish respectful mutual boundaries, and the training approach that works for this independent and dignified breed.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Scottish_Terrier_Photo_of_Face.jpg/330px-Scottish_Terrier_Photo_of_Face.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_212dc274-077e-4f12-a3e2-412f9628d86b.png?v=1777579569",
       "alt": "Scottish Terrier puppy checklist"
     }
   },

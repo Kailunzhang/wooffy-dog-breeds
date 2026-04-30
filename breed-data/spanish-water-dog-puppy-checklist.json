@@ -5,20 +5,26 @@
     "shopify_handle": "spanish-water-dog-puppy-checklist",
     "group": "Spanish Water Dog",
     "size_category": "Guide",
-    "tags": ["spanish-water-dog", "puppy", "checklist", "no-brush-coat", "pra", "svo", "socialization"],
+    "tags": [
+      "spanish-water-dog",
+      "puppy",
+      "checklist",
+      "no-brush-coat",
+      "pra",
+      "svo",
+      "socialization"
+    ],
     "published": true,
     "published_at": "2026-05-05T16:00:00Z",
     "excerpt": "Before your Spanish Water Dog comes home: make your coat decision (cord or clip), understand why the coat must NEVER be brushed, verify the DNA tests, and plan the early socialization that shapes how well this reserved herding breed handles the world.",
     "meta_description": "Spanish Water Dog puppy checklist: the critical never-brush coat rule, cord vs clip decision before arrival, PRA and SVO DNA test verification, socialization priorities for a reserved working breed, and first vet visit checklist."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Perro_agua_%28cropped%29.jpg/330px-Perro_agua_%28cropped%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_6019986c-9d03-411c-aedd-64316db29600.png?v=1777579721",
       "alt": "Spanish Water Dog puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +42,6 @@
       "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam</li><li>Vaccine schedule verification</li><li>Parasite prevention</li><li>Microchip if not done by breeder</li><li>Discuss hip and eye health monitoring schedule appropriate for the breed</li><li>Get pet insurance before this visit — PRA is the most significant genetic health risk and is an ongoing monitoring concern even in DNA-tested lines</li></ul><h3>Socialization: Critical for a Reserved Breed</h3><p>The Spanish Water Dog is not a naturally social breed with strangers — it bonds deeply with its family and is reserved to wary with unfamiliar people. Without thorough socialization during the 8–16 week window, that reserve can develop into reactive behavior and difficulty managing the dog in public. This is one of the most important things you can do for a Spanish Water Dog puppy.</p><ul><li>Controlled, positive exposures to diverse people: different ages, heights, uniforms, accessories. Let the puppy set the pace — don't force greetings, reward calm curiosity</li><li>Different environments: urban settings, traffic, varied outdoor spaces, different indoor spaces with varied sounds and surfaces</li><li>Puppy class: valuable for controlled dog-dog interactions and structured socialization in a supervised setting</li><li>Expose to situations that will recur throughout the dog's life: vet exam tables, car travel, doorbell sounds, visitors entering the home</li><li>Practice brief alone-time from the first week; the breed's intense family loyalty creates separation anxiety risk if alone time is never normalized</li></ul><h3>Exercise and Mental Engagement: Not Negotiable</h3><p>This is a working breed with genuine drive. Starting the exercise and engagement habits in puppyhood establishes the adult dog's needs as a normal routine rather than something you scramble to accommodate:</p><ul><li>Puppy exercise follows the 5-minutes-per-month-of-age rule for structured exercise; free play and leash walking are fine beyond that</li><li>Mental stimulation from the start: training sessions, puzzle feeders, nose work games — these matter as much as physical exercise for this breed</li><li>Begin introducing a dog sport (agility, herding, nosework, dock diving) when the puppy is old enough — breed clubs often have junior/puppy programs that are worth investigating early</li></ul><h3>Teaching the No-Brush Rule to Everyone in the Household</h3><p>Every person who will ever handle the dog — family members, dog walkers, pet sitters, groomers — needs to know and follow the no-brush rule. It only takes one well-meaning brushing to permanently alter the coat texture. Put it on the dog's care card if you board or use a dog walker. It sounds like overcommunication; it is not.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What happens if someone accidentally brushes my Spanish Water Dog?",

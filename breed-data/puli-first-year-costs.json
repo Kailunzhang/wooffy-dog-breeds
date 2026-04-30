@@ -5,7 +5,11 @@
     "shopify_handle": "puli-first-year-costs",
     "group": "Puli",
     "size_category": "Guide",
-    "tags": ["puli", "costs", "first-year"],
+    "tags": [
+      "puli",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Puli's main ownership cost is time rather than money — cord management is labor-intensive but inexpensive. This guide covers first-year expenses and what to budget for this athletic Hungarian herding breed.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PuliBlack_wb.jpg/330px-PuliBlack_wb.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_2850660c-ec90-45d7-aa64-b5cebaabba35.png?v=1777579290",
       "alt": "Puli cost guide"
     }
   },

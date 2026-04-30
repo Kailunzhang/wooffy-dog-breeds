@@ -5,7 +5,10 @@
     "shopify_handle": "redbone-coonhound-grooming-guide",
     "group": "Redbone Coonhound",
     "size_category": "Guide",
-    "tags": ["redbone-coonhound", "grooming"],
+    "tags": [
+      "redbone-coonhound",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "The Redbone Coonhound's short, dense red coat is one of the simplest coats in the hound group — weekly brushing with a hound glove, monthly baths, and regular ear cleaning are the complete routine.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Redbone-coonhound-detail.jpg/250px-Redbone-coonhound-detail.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_b3e348d2-bab6-4439-9204-be32a28bb878.png?v=1777579356",
       "alt": "Redbone Coonhound grooming guide"
     }
   },

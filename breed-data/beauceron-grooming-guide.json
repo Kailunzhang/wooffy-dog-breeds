@@ -5,7 +5,10 @@
     "shopify_handle": "beauceron-grooming-guide",
     "group": "Beauceron",
     "size_category": "Guide",
-    "tags": ["beauceron", "grooming"],
+    "tags": [
+      "beauceron",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "The Beauceron's short, dense double coat is one of the easiest to maintain in the herding group. This guide covers brushing, shedding management, bathing, and dewclaw care for this low-maintenance French breed.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BeauceronStand.jpg/330px-BeauceronStand.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_54762f5a-4313-462b-aea1-0f3356fc8c05.png?v=1777580404",
       "alt": "Beauceron grooming"
     }
   },

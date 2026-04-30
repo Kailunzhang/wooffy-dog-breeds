@@ -5,7 +5,11 @@
     "shopify_handle": "pekingese-puppy-checklist",
     "group": "Pekingese",
     "size_category": "Guide",
-    "tags": ["pekingese", "puppy", "checklist"],
+    "tags": [
+      "pekingese",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "Welcoming a Pekingese puppy requires special preparation for their unique needs — heavy grooming, brachycephalic health care, and handling the Peke's famously independent personality from day one.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/1AKC_Pekingese_Dog_Show_2011.jpg/330px-1AKC_Pekingese_Dog_Show_2011.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5f3dc10f-9802-4878-a2a2-9b830e34e1d3.png?v=1777580557",
       "alt": "Pekingese"
     }
   },

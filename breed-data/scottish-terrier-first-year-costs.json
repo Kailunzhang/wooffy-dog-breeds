@@ -5,7 +5,11 @@
     "shopify_handle": "scottish-terrier-first-year-costs",
     "group": "Scottish Terrier",
     "size_category": "Guide",
-    "tags": ["scottish-terrier", "costs", "first-year"],
+    "tags": [
+      "scottish-terrier",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "The Scottish Terrier is moderately priced with ongoing professional grooming as the primary recurring cost. This guide covers first-year expenses and the financial considerations of the breed's specific health concerns.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Scottish_Terrier_Photo_of_Face.jpg/330px-Scottish_Terrier_Photo_of_Face.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_812db7ce-f0d7-42be-8e4b-788122802c8f.png?v=1777579576",
       "alt": "Scottish Terrier cost guide"
     }
   },

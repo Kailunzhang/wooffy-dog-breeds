@@ -5,7 +5,11 @@
     "shopify_handle": "russell-terrier-first-year-costs",
     "group": "Russell Terrier",
     "size_category": "Guide",
-    "tags": ["russell-terrier", "costs", "first-year"],
+    "tags": [
+      "russell-terrier",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Russell Terrier is one of the most affordable small breeds to own year-round. Here's a realistic first-year cost breakdown for prospective owners.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Jack_Russell_Terrier_1.jpg/330px-Jack_Russell_Terrier_1.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_056c5573-17b3-4724-9f39-f3e11aab04b6.png?v=1777580694",
       "alt": "Russell Terrier"
     }
   },

@@ -5,7 +5,11 @@
     "shopify_handle": "beauceron-puppy-checklist",
     "group": "Beauceron",
     "size_category": "Guide",
-    "tags": ["beauceron", "puppy", "checklist"],
+    "tags": [
+      "beauceron",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "Bringing a Beauceron puppy home requires preparation for a large, intelligent, and assertive working breed. This checklist covers supplies, home setup, early training, and socialization priorities.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BeauceronStand.jpg/330px-BeauceronStand.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_662b5aab-fbfb-4723-aac3-e74da66ac9e2.png?v=1777580389",
       "alt": "Beauceron puppy checklist"
     }
   },

@@ -5,7 +5,10 @@
     "shopify_handle": "scottish-deerhound-grooming-guide",
     "group": "Scottish Deerhound",
     "size_category": "Guide",
-    "tags": ["scottish-deerhound", "grooming"],
+    "tags": [
+      "scottish-deerhound",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-26T16:00:00Z",
     "excerpt": "The Scottish Deerhound's harsh, ragged coat is one of the more forgiving rough coats — low-shedding, moderately mat-resistant, and requiring brushing only a few times per week. The beard and leg feathering need the most attention.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Karrie.JPG/250px-Karrie.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_68baac26-b675-4889-96df-912a93091789.png?v=1777579521",
       "alt": "Scottish Deerhound grooming guide"
     }
   },

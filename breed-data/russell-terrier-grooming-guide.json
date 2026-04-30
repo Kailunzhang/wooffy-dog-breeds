@@ -5,7 +5,10 @@
     "shopify_handle": "russell-terrier-grooming-guide",
     "group": "Russell Terrier",
     "size_category": "Guide",
-    "tags": ["russell-terrier", "grooming"],
+    "tags": [
+      "russell-terrier",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Russell Terrier's smooth, broken, or rough coat is easy to maintain at home with minimal tools and time. Learn the simple grooming routine for this compact working terrier.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Jack_Russell_Terrier_1.jpg/330px-Jack_Russell_Terrier_1.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_300d36ca-55d0-4d83-b844-9f5a8361fe26.png?v=1777580725",
       "alt": "Russell Terrier"
     }
   },

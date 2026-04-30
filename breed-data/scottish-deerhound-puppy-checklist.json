@@ -5,7 +5,11 @@
     "shopify_handle": "scottish-deerhound-puppy-checklist",
     "group": "Scottish Deerhound",
     "size_category": "Guide",
-    "tags": ["scottish-deerhound", "puppy", "checklist"],
+    "tags": [
+      "scottish-deerhound",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-26T16:00:00Z",
     "excerpt": "Everything you need before your Scottish Deerhound puppy comes home — 6-foot fencing, cardiac and Factor VII health documentation from the breeder, gastropexy planning, and insurance before cardiac issues are detected.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Karrie.JPG/250px-Karrie.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3dbe7700-360b-4495-a48e-cbc1e679c37f.png?v=1777579512",
       "alt": "Scottish Deerhound puppy checklist"
     }
   },

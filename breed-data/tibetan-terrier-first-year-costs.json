@@ -5,20 +5,24 @@
     "shopify_handle": "tibetan-terrier-first-year-costs",
     "group": "Tibetan Terrier",
     "size_category": "Guide",
-    "tags": ["tibetan-terrier", "cost", "budget", "first-year", "medium-breed"],
+    "tags": [
+      "tibetan-terrier",
+      "cost",
+      "budget",
+      "first-year",
+      "medium-breed"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "Tibetan Terrier ownership costs $2,500–$5,000 in the first year. Professional grooming is a consistent ongoing expense, and the breed's long 15–16 year lifespan means lifetime costs are a meaningful commitment.",
     "meta_description": "Tibetan Terrier first year costs: puppy price, professional grooming budget, PRA and lens luxation health test context, and lifetime cost planning for this long-lived companion breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Tibet_Terrier_Bennie_%28cropped%29.jpg/250px-Tibet_Terrier_Bennie_%28cropped%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_fbed5f33-7991-4d1f-9d77-53f0b2dbb7d5.png?v=1777579946",
       "alt": "Tibetan Terrier first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>The Tibetan Terrier's exceptional lifespan of 15–16 years makes lifetime cost planning particularly important — you're budgeting for a much longer relationship than with most breeds.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog from DNA-tested parents, no major health events</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$28,000–$46,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">PLL event requiring emergency treatment, otherwise healthy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$31,000–$52,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">PRA with monitoring plus PLL event and senior care</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$36,000–$60,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">The grooming cost runs every year for the lifetime of the dog — it's the most predictable ongoing expense after food. The health costs are the variables, and the DNA test documentation from breeders significantly reduces (though doesn't eliminate) the most expensive scenarios. For a breed that regularly lives 15+ years, the investment in a reputable breeder with full health documentation is sound financial planning as much as it is responsible purchasing.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does a Tibetan Terrier puppy cost from a reputable breeder?",

@@ -5,7 +5,11 @@
     "shopify_handle": "redbone-coonhound-first-year-costs",
     "group": "Redbone Coonhound",
     "size_category": "Guide",
-    "tags": ["redbone-coonhound", "costs", "first-year"],
+    "tags": [
+      "redbone-coonhound",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Redbone Coonhound first-year costs run $2,500–$5,500 including purchase price. Grooming costs are minimal. The main financial priorities are secure fencing, ear care prevention, and insurance for hip dysplasia risk.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Redbone-coonhound-detail.jpg/250px-Redbone-coonhound-detail.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_da210464-a48d-4cb2-b032-246e683de9e7.png?v=1777579342",
       "alt": "Redbone Coonhound first year costs"
     }
   },

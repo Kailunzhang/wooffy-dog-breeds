@@ -5,20 +5,26 @@
     "shopify_handle": "tibetan-terrier-puppy-checklist",
     "group": "Tibetan Terrier",
     "size_category": "Guide",
-    "tags": ["tibetan-terrier", "puppy", "checklist", "pra", "lens-luxation", "grooming", "socialization"],
+    "tags": [
+      "tibetan-terrier",
+      "puppy",
+      "checklist",
+      "pra",
+      "lens-luxation",
+      "grooming",
+      "socialization"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "Before your Tibetan Terrier puppy comes home: verify DNA test documentation from your breeder, get grooming tools in hand, plan your socialization schedule, and secure pet insurance before the first vet visit.",
     "meta_description": "Tibetan Terrier puppy checklist: PRA and lens luxation DNA test verification, grooming tools and routine setup, socialization priorities for this sensitive breed, and first vet visit checklist."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Tibet_Terrier_Bennie_%28cropped%29.jpg/250px-Tibet_Terrier_Bennie_%28cropped%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_4121b0ca-4a62-4dfc-bf05-9199f917843e.png?v=1777579961",
       "alt": "Tibetan Terrier puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +42,6 @@
       "html": "<h3>Socialization: Gentle but Consistent</h3><p>Tibetan Terriers are sensitive dogs — they notice everything and respond to how they're treated. The socialization window of 8–16 weeks is important for building confidence and reducing the wariness that, in an under-socialized dog, can become reactive or fearful behavior as an adult. The key: positive exposure, never forced interaction.</p><ul><li>Diverse people: different ages, heights, uniforms, accessories — let the puppy approach when curious rather than forcing greetings</li><li>Diverse environments: different floor surfaces (wood, tile, outdoor pavement, grass), urban sounds, different indoor spaces</li><li>Friendly dogs in controlled settings — puppy class is excellent for structured socialization</li><li>Practice being alone for short periods from the first week; Tibetan Terriers bond closely and need to learn that departures end in returns</li></ul><h3>Training a Gentle, Capable Dog</h3><p>Tibetan Terriers are intelligent, willing, and sensitive. They learn quickly with positive reinforcement and shut down with harsh correction. Short, positive, varied sessions are far more effective than long repetitive ones.</p><ul><li>Core commands from the first week: sit, down, stay, come, leave it</li><li>Crate training — Tibetan Terriers adapt well; introduce with treats and meals in the crate before closing the door</li><li>Loose-leash walking from the first walk</li><li>Handling exercises: daily touch of paws, ears, mouth, all over the body — makes grooming, vet exams, and veterinary treatment substantially easier throughout the dog's 15+ year life</li></ul><h3>Managing the Puppy Coat Transition</h3><p>At around 9–12 months, the soft puppy coat gives way to the adult coat. This transition period requires daily brushing — the mixed coat types mat significantly faster than either alone. Plan for this period:</p><ul><li>When the coat starts to feel cottony or matting more easily than before, increase brushing frequency to daily</li><li>If the coat becomes difficult to manage at home, see a professional groomer immediately — waiting allows mats to reach the skin, which requires shaving</li><li>Many owners find it helpful to schedule an appointment with their groomer at the start of this transition for guidance on managing the specific coat their dog has</li></ul>"
     }
   },
-
   "faq": [
     {
       "q": "What should I do if I think my Tibetan Terrier has Primary Lens Luxation?",

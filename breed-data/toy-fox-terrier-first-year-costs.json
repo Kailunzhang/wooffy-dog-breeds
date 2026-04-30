@@ -5,7 +5,11 @@
     "shopify_handle": "toy-fox-terrier-first-year-costs",
     "group": "Toy Fox Terrier",
     "size_category": "Guide",
-    "tags": ["toy-fox-terrier", "costs", "first-year"],
+    "tags": [
+      "toy-fox-terrier",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "The Toy Fox Terrier is one of the more affordable small breeds to own, thanks to minimal grooming costs and a small appetite. Here's a full first-year cost breakdown.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Toy_Fox_Terrier_2.jpg/330px-Toy_Fox_Terrier_2.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_799b05f9-b53c-471e-9952-5194a6e888c1.png?v=1777580008",
       "alt": "Toy Fox Terrier costs"
     }
   },

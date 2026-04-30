@@ -5,7 +5,11 @@
     "shopify_handle": "puli-puppy-checklist",
     "group": "Puli",
     "size_category": "Guide",
-    "tags": ["puli", "puppy", "checklist"],
+    "tags": [
+      "puli",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Puli puppy arrives with a fluffy coat that will begin forming cords around 9 months. This checklist covers what to prepare before the puppy arrives, how to begin the cord formation process, and training priorities for this energetic Hungarian herding breed.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PuliBlack_wb.jpg/330px-PuliBlack_wb.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_d0221886-7a23-49d1-ba97-195a400a6dab.png?v=1777579293",
       "alt": "Puli puppy checklist"
     }
   },

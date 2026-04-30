@@ -5,7 +5,11 @@
     "shopify_handle": "silky-terrier-first-year-costs",
     "group": "Silky Terrier",
     "size_category": "Guide",
-    "tags": ["silky-terrier", "costs", "first-year"],
+    "tags": [
+      "silky-terrier",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "Budgeting for a Silky Terrier? First-year costs include the puppy price, setup supplies, vet care, and frequent grooming appointments. Here's what to expect.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Australian_Silky_Terrier_Alana_Of_Silky%27s_Dream.jpg/330px-Australian_Silky_Terrier_Alana_Of_Silky%27s_Dream.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_730c47d2-9229-4a2b-bdf9-eb7be85020e7.png?v=1777579627",
       "alt": "Silky Terrier costs"
     }
   },

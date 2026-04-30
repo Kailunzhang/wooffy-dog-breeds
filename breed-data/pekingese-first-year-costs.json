@@ -5,7 +5,11 @@
     "shopify_handle": "pekingese-first-year-costs",
     "group": "Pekingese",
     "size_category": "Guide",
-    "tags": ["pekingese", "costs", "first-year"],
+    "tags": [
+      "pekingese",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "The Pekingese's demanding coat and brachycephalic health concerns make it a more expensive breed to maintain than its small size might suggest. This guide gives a realistic picture of first-year and ongoing costs.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/1AKC_Pekingese_Dog_Show_2011.jpg/330px-1AKC_Pekingese_Dog_Show_2011.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_e9e82f98-ba29-4dcf-a096-f83ea5d98521.png?v=1777580550",
       "alt": "Pekingese"
     }
   },

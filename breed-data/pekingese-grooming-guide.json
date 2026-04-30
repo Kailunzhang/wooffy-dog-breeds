@@ -5,7 +5,10 @@
     "shopify_handle": "pekingese-grooming-guide",
     "group": "Pekingese",
     "size_category": "Guide",
-    "tags": ["pekingese", "grooming"],
+    "tags": [
+      "pekingese",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "The Pekingese has one of the most demanding coats in the Toy group. This complete grooming guide covers brushing technique, mat prevention, facial fold care, bathing, and coat maintenance options for pet owners.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/1AKC_Pekingese_Dog_Show_2011.jpg/330px-1AKC_Pekingese_Dog_Show_2011.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_b3caeda3-6210-47c7-8053-a06487b87774.png?v=1777580546",
       "alt": "Pekingese"
     }
   },

@@ -5,7 +5,11 @@
     "shopify_handle": "skye-terrier-first-year-costs",
     "group": "Skye Terrier",
     "size_category": "Guide",
-    "tags": ["skye-terrier", "costs", "first-year"],
+    "tags": [
+      "skye-terrier",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "The Skye Terrier is a rare breed with higher purchase costs and meaningful grooming expenses. This guide breaks down all first-year ownership costs.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Skye_terrier_800.jpg/330px-Skye_terrier_800.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_3de8e8cb-2004-4ddc-93cc-7ad8d3b70a7d.png?v=1777579678",
       "alt": "Skye Terrier costs"
     }
   },

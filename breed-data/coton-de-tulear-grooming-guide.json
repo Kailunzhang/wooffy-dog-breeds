@@ -5,7 +5,10 @@
     "shopify_handle": "coton-de-tulear-grooming-guide",
     "group": "Coton de Tulear",
     "size_category": "Guide",
-    "tags": ["coton-de-tulear", "grooming"],
+    "tags": [
+      "coton-de-tulear",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "The Coton de Tulear's cotton-textured coat is beautiful but requires regular brushing to prevent matting. This guide covers full-coat maintenance, the popular puppy trim, bathing, and keeping the white coat bright.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coton_de_Tular_1.jpg/330px-Coton_de_Tular_1.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_e0844df7-a10b-4179-b02b-206f5d5f0e3b.png?v=1777580491",
       "alt": "Coton de Tulear grooming"
     }
   },

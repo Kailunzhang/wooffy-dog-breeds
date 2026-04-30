@@ -5,7 +5,10 @@
     "shopify_handle": "skye-terrier-grooming-guide",
     "group": "Skye Terrier",
     "size_category": "Guide",
-    "tags": ["skye-terrier", "grooming"],
+    "tags": [
+      "skye-terrier",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "The Skye Terrier's floor-length coat is one of the most demanding in the terrier group. This guide covers brushing routines, mat prevention, bathing, and practical options for pet owners who prefer a shorter trim.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Skye_terrier_800.jpg/330px-Skye_terrier_800.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_67f89c0a-0082-4c7f-8deb-e259e9810fd4.png?v=1777579674",
       "alt": "Skye Terrier grooming"
     }
   },

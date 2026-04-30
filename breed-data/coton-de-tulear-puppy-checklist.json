@@ -5,7 +5,11 @@
     "shopify_handle": "coton-de-tulear-puppy-checklist",
     "group": "Coton de Tulear",
     "size_category": "Guide",
-    "tags": ["coton-de-tulear", "puppy", "checklist"],
+    "tags": [
+      "coton-de-tulear",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "Preparing for a Coton de Tulear puppy means getting the right grooming tools, establishing daily brushing from week one, and beginning socialization for this cheerful and adaptable small companion.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coton_de_Tular_1.jpg/330px-Coton_de_Tular_1.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_cc10bb18-f5a5-40e8-945a-39c61ce98906.png?v=1777580468",
       "alt": "Coton de Tulear puppy checklist"
     }
   },

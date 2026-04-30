@@ -5,7 +5,10 @@
     "shopify_handle": "standard-schnauzer-grooming-guide",
     "group": "Standard Schnauzer",
     "size_category": "Guide",
-    "tags": ["standard-schnauzer", "grooming"],
+    "tags": [
+      "standard-schnauzer",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The Standard Schnauzer's harsh double coat requires professional clipping or hand-stripping every 6–8 weeks. Home brushing twice weekly and beard wiping after meals are the daily maintenance requirements for this classic working terrier.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Standard_Grey_Schnauzer_%28cropped%29.JPG/250px-Standard_Grey_Schnauzer_%28cropped%29.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_748e4fcc-fc86-4d3c-9abe-7c0d2953662d.png?v=1777579776",
       "alt": "Standard Schnauzer grooming guide"
     }
   },

@@ -5,7 +5,11 @@
     "shopify_handle": "scottish-deerhound-first-year-costs",
     "group": "Scottish Deerhound",
     "size_category": "Guide",
-    "tags": ["scottish-deerhound", "costs", "first-year"],
+    "tags": [
+      "scottish-deerhound",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-26T16:00:00Z",
     "excerpt": "Scottish Deerhound first-year costs run $4,500–$9,500 including purchase price. The breed's documented cardiac disease risk (cardiomyopathy, Factor VII deficiency) makes insurance enrollment before the first vet visit essential.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Karrie.JPG/250px-Karrie.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_857fa515-6341-4653-84c2-898a00a52112.png?v=1777579516",
       "alt": "Scottish Deerhound first year costs"
     }
   },

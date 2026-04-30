@@ -5,7 +5,10 @@
     "shopify_handle": "polish-lowland-sheepdog-grooming-guide",
     "group": "Polish Lowland Sheepdog",
     "size_category": "Guide",
-    "tags": ["polish-lowland-sheepdog", "grooming"],
+    "tags": [
+      "polish-lowland-sheepdog",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Polish Lowland Sheepdog's long, shaggy double coat is one of the most demanding in the herding group. Regular brushing, mat prevention, and professional grooming every 6–8 weeks are essential for keeping the PON's coat healthy and manageable.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polski_owczarek_nizinny_rybnik-kamien_pl.jpg/330px-Polski_owczarek_nizinny_rybnik-kamien_pl.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_b0d78e00-4fac-4db2-a29a-f87cc04be6ef.png?v=1777580622",
       "alt": "Polish Lowland Sheepdog grooming"
     }
   },

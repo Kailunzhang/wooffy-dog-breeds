@@ -6,74 +6,103 @@
     "group": "Hound Group",
     "size_category": "Large Breed",
     "tagline": "A strikingly handsome deep red hound — affectionate, tenacious, and melodic in ways your neighbors will definitely notice. The nose runs the show outside. Ear cleaning is weekly, non-negotiable.",
-    "tags": ["hound-group", "large-breed", "scent-hound", "coonhound", "hunting-dog", "dog-breeds"],
+    "tags": [
+      "hound-group",
+      "large-breed",
+      "scent-hound",
+      "coonhound",
+      "hunting-dog",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-26T16:00:00Z",
     "excerpt": "Redbone Coonhounds are loyal, affectionate scent hounds with a striking all-red coat and a melodic baying voice. They're tenacious on a trail and warm at home. The standard coonhound requirements apply: secure fencing, weekly ear care, and management of the voice.",
     "meta_description": "Redbone Coonhound breed guide: affectionate temperament, the baying voice, tenacious scent-drive management, ear care for pendulous ears, bloat risk, and what a devoted red hound needs at home."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "45–70 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–15 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low (ears critical)" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With patience" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "45–70 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low (ears critical)"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "With patience"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Redbone-coonhound-detail.jpg/250px-Redbone-coonhound-detail.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_27065f3e-dfba-4cbd-a4fb-c116f1253efd.png?v=1777579352",
       "alt": "Redbone Coonhound"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Redbone Coonhound?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Redbone Coonhound is one of the most visually striking American hound breeds — a deep, solid red coat that ranges from rich chestnut to mahogany, set against expressive dark eyes and long, soft ears. Bred to hunt raccoon, bear, and mountain lion in the American South and Appalachian Mountains, the Redbone combines tenacity on a trail with warmth and affection at home.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Redbone is perhaps the most affectionate of the coonhound breeds — loyal and warm with their people in a way that borders on devoted. At home with adequate exercise, they are calm, settled dogs that genuinely enjoy time with their family.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Outside on a trail, the Redbone is a different animal — methodical, focused, and committed. The melodic baying voice that alerts the hunter to the quarry is one of the most distinctive sounds in the dog world. It carries significant distances and is not optional equipment on this breed.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Redbone Coonhounds Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Medium to large — 45–70 lbs, 21–27 inches tall. The coat is the breed's most distinctive feature: short, dense, and a rich, deep red — one of the most uniformly solid-colored of the hound breeds. The deep chest, strong back, and well-muscled hindquarters reflect athletic capacity for hours of field work.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The long, soft ears hang well past the muzzle. The eyes are dark hazel to brown with a warm, soulful expression. The overall impression is of a beautiful, well-balanced working hound. The short coat requires almost no maintenance.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">At home: affectionate, loyal, and devoted — the Redbone tends to form deep bonds with their family and is notably warm compared to some of the more independent hound breeds. They do well with children, are generally friendly with other dogs (pack-hunting background), and are not typically aggressive or dominant. With adequate exercise, they are calm and settled indoors.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Outside: tenacious and nose-driven. Once a scent is engaged, the Redbone will follow it with methodical determination. Recall is unreliable against an active trail. This is breed design — the same quality that makes them exceptional field dogs makes them dogs that cannot be trusted off-leash outside secure fencing.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The voice: the Redbone's bay is melodic, deep, and resonant. It is one of the more musical of the hound voices, which doesn't reduce the volume. They will bay on scent, when bored, when excited, and when alerting. If this is a dealbreaker for your living situation, choose a different breed.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Redbone Coonhound",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Redbone is an excellent dog for the right household. The combination of visual beauty, warm temperament, and 12–15 year lifespan makes them a compelling choice for active owners with space. They're warmer and more people-oriented than some coonhound breeds, which can make them easier to live with day-to-day.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The requirements are the same as every coonhound: secure fencing (mandatory), leash outside the fence (mandatory), and a genuine acceptance of the baying voice. The third one is where owners get surprised — hearing a Redbone bay in a field sounds poetic. Hearing it at 6:30am because a squirrel crossed the yard is less charming. These are the same dog.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Ear cleaning is the other weekly task that owners sometimes underestimate. The pendulous ears require consistent preventive care. It takes 3 minutes per week and prevents significant expense and discomfort. Do not skip it.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes daily. Redbones are high-energy working dogs that need real exercise. Leash walks for daily routine; securely fenced yard for off-leash running. Nose work and tracking games provide mental enrichment that tires the breed effectively. Without adequate exercise, Redbones become vocal and restless indoors.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The short red coat requires a weekly rubber mitt wipe — minimal maintenance, minimal shedding. The critical task is ear care. See the <a href=\"/blogs/dog-breeds/redbone-coonhound-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Redbone Coonhound grooming guide</a> for the ear cleaning protocol.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Intelligent and food-motivated but scent-distracted outdoors. Short sessions with high-value rewards in low-distraction environments. The warmth and people-orientation of the breed makes them responsive to training when the environment is controlled. Channel the nose drive through organized nose work rather than fighting the instinct.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Redbone Coonhounds are generally healthy with an excellent 12–15 year lifespan. No severe breed-specific conditions dominate the health picture. The main ongoing concern is ear infections due to the pendulous ear structure.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Ear Infections</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Chronic infections due to long pendulous ears reducing airflow. Weekly preventive ear cleaning significantly reduces frequency. Most common ongoing health management task in the breed.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Joint malformation causing pain and arthritis. OFA screening available. Ask breeders for clearances.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Deep-chested breed risk. Know the signs: distended abdomen, unproductive retching, restlessness. Life-threatening emergency requiring immediate vet care. Discuss prophylactic gastropexy with your vet at spay/neuter time.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip clearances and CAER eye exam documentation.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,300–$4,200</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,500–$2,700</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/redbone-coonhound-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Redbone Coonhound first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Redbone Coonhound Right for You?",
@@ -92,24 +121,46 @@
         "People looking for a quiet, low-energy companion"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Redbone Coonhound",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$600–$1,200 from reputable breeders. The American Redbone Coonhound Association is the breed club of record. Ask for OFA hip clearances. CAER eye exam documentation is also recommended.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Coonhound rescue organizations operate nationally and frequently have Redbones — often surrendered by owners who underestimated the voice or the containment requirements.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Redbone comes home, complete the <a href=\"/blogs/dog-breeds/redbone-coonhound-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Redbone Coonhound puppy checklist</a>.</p>"
     }
   },
-
   "faq": [
-    { "q": "Are Redbone Coonhounds good family dogs?", "a": "Yes — the Redbone is one of the more family-oriented coonhound breeds. They are affectionate, patient with children, and generally friendly with other dogs. The management requirements are the scent drive (secure fencing, leash outside the fence) and the voice, not temperament concerns." },
-    { "q": "How loud is a Redbone Coonhound?", "a": "Loud — and the bay is melodic and carries significant distances. A Redbone baying in the yard will be heard by neighbors within a reasonable radius. This is not occasional barking; it's a working voice that is fundamental to the breed. Management through exercise and enrichment reduces boredom baying, but the voice cannot be trained away." },
-    { "q": "What is the Redbone Coonhound's lifespan?", "a": "12–15 years — excellent for a large breed. The Redbone is generally healthy without the dominant cardiac, cancer, or orthopedic risks that shorten lifespan in many other large breeds. This is one of the more favorable health and longevity profiles available in a large working dog." }
+    {
+      "q": "Are Redbone Coonhounds good family dogs?",
+      "a": "Yes — the Redbone is one of the more family-oriented coonhound breeds. They are affectionate, patient with children, and generally friendly with other dogs. The management requirements are the scent drive (secure fencing, leash outside the fence) and the voice, not temperament concerns."
+    },
+    {
+      "q": "How loud is a Redbone Coonhound?",
+      "a": "Loud — and the bay is melodic and carries significant distances. A Redbone baying in the yard will be heard by neighbors within a reasonable radius. This is not occasional barking; it's a working voice that is fundamental to the breed. Management through exercise and enrichment reduces boredom baying, but the voice cannot be trained away."
+    },
+    {
+      "q": "What is the Redbone Coonhound's lifespan?",
+      "a": "12–15 years — excellent for a large breed. The Redbone is generally healthy without the dominant cardiac, cancer, or orthopedic risks that shorten lifespan in many other large breeds. This is one of the more favorable health and longevity profiles available in a large working dog."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Black and Tan Coonhound", "slug": "black-and-tan-coonhound", "note": "Similar coonhound type, slightly more laid-back energy, black and tan coat"},
-    {"name": "Bluetick Coonhound", "slug": "bluetick-coonhound", "note": "Comparable coonhound, distinctive blue ticked coat, similar energy level"},
-    {"name": "American Foxhound", "slug": "american-foxhound", "note": "Larger scent hound, similar pack-working heritage, higher speed focus"},
-    {"name": "Bloodhound", "slug": "bloodhound", "note": "Ancestral relative — larger, extreme scenting ability, more pendulous skin"}
+    {
+      "name": "Black and Tan Coonhound",
+      "slug": "black-and-tan-coonhound",
+      "note": "Similar coonhound type, slightly more laid-back energy, black and tan coat"
+    },
+    {
+      "name": "Bluetick Coonhound",
+      "slug": "bluetick-coonhound",
+      "note": "Comparable coonhound, distinctive blue ticked coat, similar energy level"
+    },
+    {
+      "name": "American Foxhound",
+      "slug": "american-foxhound",
+      "note": "Larger scent hound, similar pack-working heritage, higher speed focus"
+    },
+    {
+      "name": "Bloodhound",
+      "slug": "bloodhound",
+      "note": "Ancestral relative — larger, extreme scenting ability, more pendulous skin"
+    }
   ]
 }

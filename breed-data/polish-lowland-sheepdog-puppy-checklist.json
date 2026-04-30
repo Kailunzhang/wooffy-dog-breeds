@@ -5,7 +5,11 @@
     "shopify_handle": "polish-lowland-sheepdog-puppy-checklist",
     "group": "Polish Lowland Sheepdog",
     "size_category": "Guide",
-    "tags": ["polish-lowland-sheepdog", "puppy", "checklist"],
+    "tags": [
+      "polish-lowland-sheepdog",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "A Polish Lowland Sheepdog puppy is intelligent, independent, and will start forming its adult coat within the first year. This checklist covers supplies, grooming setup, and training priorities for this smart Polish herding breed.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polski_owczarek_nizinny_rybnik-kamien_pl.jpg/330px-Polski_owczarek_nizinny_rybnik-kamien_pl.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_4649f433-32ad-4c3f-9bc8-ea783cc0aa95.png?v=1777580615",
       "alt": "Polish Lowland Sheepdog puppy checklist"
     }
   },

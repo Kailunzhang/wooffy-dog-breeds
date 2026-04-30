@@ -5,7 +5,10 @@
     "shopify_handle": "scottish-terrier-grooming-guide",
     "group": "Scottish Terrier",
     "size_category": "Guide",
-    "tags": ["scottish-terrier", "grooming"],
+    "tags": [
+      "scottish-terrier",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "The Scottish Terrier's iconic look is maintained through hand-stripping for show dogs or regular clipping for pets, combined with beard care and brushing of the leg furnishings. This guide covers everything you need for a well-groomed Scottie.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Scottish_Terrier_Photo_of_Face.jpg/330px-Scottish_Terrier_Photo_of_Face.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_270a325d-3763-4c39-9844-059ffec66a32.png?v=1777579564",
       "alt": "Scottish Terrier grooming"
     }
   },

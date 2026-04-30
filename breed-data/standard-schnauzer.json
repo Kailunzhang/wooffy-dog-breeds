@@ -6,74 +6,103 @@
     "group": "Working Group",
     "size_category": "Medium Breed",
     "tagline": "The Standard Schnauzer is the original — the spirited, intelligent, mischievous middle sibling of the Schnauzer family. Compact and versatile, with a wiry coat and an attitude that punches well above its weight class.",
-    "tags": ["working-group", "medium-breed", "intelligent", "spirited", "schnauzer", "dog-breeds"],
+    "tags": [
+      "working-group",
+      "medium-breed",
+      "intelligent",
+      "spirited",
+      "schnauzer",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The Standard Schnauzer is the original Schnauzer — versatile, high-energy, and smart enough to be mischievous when under-stimulated. Lower shedding and generally healthier than the Giant or Miniature, but still needs a handler who can keep up.",
     "meta_description": "Standard Schnauzer breed guide: spirited medium-breed temperament, wiry coat care, intelligence and stubbornness balance, health conditions, and what ownership actually requires."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "30–50 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "13–16 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good with supervision" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Manageable" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "30–50 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "13–16 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good with supervision"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Manageable"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Standard_Grey_Schnauzer_%28cropped%29.JPG/250px-Standard_Grey_Schnauzer_%28cropped%29.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_8491a0a2-039e-471c-a461-e94d40ffed04.png?v=1777579784",
       "alt": "Standard Schnauzer"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Standard Schnauzer?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Standard Schnauzer is the oldest of the three Schnauzer breeds and the ancestral type from which both the Giant and Miniature Schnauzers were developed. Originating in Bavaria as a farm utility dog — ratting, herding small stock, guarding carts — the Standard is classified in the Working Group by the AKC, reflecting its working dog roots rather than simply its size. It is the most versatile of the three, fitting comfortably into a medium-breed package while retaining the intelligence and drive of its larger relative.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Standard Schnauzers weigh 30–50 lbs and stand 17.5–19.5 inches — compact and solidly built, with the characteristic wiry coat, arched eyebrows, and distinguished beard of the breed family. They are typically pepper-and-salt or solid black. The wiry double coat is low-shedding, which is genuinely true and one of the breed's practical advantages for owners who prefer a cleaner home.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">What characterizes the Standard is its combination of intelligence and attitude. These dogs are bright, alert, and quick to learn — and then equally quick to decide whether following the instruction serves their interests. That combination makes them engaging, sometimes frustrating, and never boring.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Standard Schnauzers Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Compact, squarely built, and muscular. The body length equals the height at the withers, giving the classic rectangular-blocked Schnauzer silhouette. Males stand 18.5–19.5 inches; females 17.5–18.5 inches. Weight runs 30–45 lbs for females, 35–50 lbs for males. The build is athletic and capable without being heavy.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The wiry double coat is the breed's signature. The outer coat is hard and wiry; the undercoat is soft and dense. The beard, eyebrows, and leg furnishings are full and characteristic. Colors are pepper-and-salt or solid black. The coat requires professional grooming — either hand-stripping for show dogs or clipping for pets — every 6–8 weeks. The beard collects food and water with every meal and drink and needs regular wiping to remain clean and odor-free.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Standard Schnauzers are spirited, alert, and highly intelligent. They are affectionate with their family and naturally watchful — good alarm dogs that will announce visitors reliably. Unlike the Giant Schnauzer, they are not aggressive guardians by default, but their assertiveness and wariness with strangers makes them effective deterrents.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The intelligence is real and cuts both ways. Standard Schnauzers learn quickly — new commands in very few repetitions. They also get bored quickly and invent their own entertainment when under-stimulated. An under-exercised, under-engaged Standard Schnauzer will find things to do: chewing, exploring, testing boundaries. The solution is consistent exercise, training, and mental engagement.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The stubbornness that defines the breed is a real but manageable trait. These are not dogs that refuse out of confusion — they refuse out of judgment. When a Standard Schnauzer doesn't follow an instruction, it's a decision, not a misunderstanding. Consistent positive reinforcement with clear expectations produces excellent results. Frustration and inconsistency produce stubbornness and checkiness.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Standard Schnauzer",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Standard Schnauzers occupy an interesting niche — they're a medium-sized, low-shedding, long-lived working dog with genuine intelligence and a personality that rewards engagement. For the right owner, they are outstanding: versatile enough for hiking, dog sports, or city apartment life (with proper exercise), and compact enough to fit in spaces where a Giant Schnauzer would be impractical.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest note is that they are not low-effort dogs. The intelligence that makes them fun to train also means they notice every inconsistency in your rules and will exploit it. The energy level requires real daily exercise — not a quick walk around the block. And the beard, while charming, requires daily maintenance or it becomes unpleasant quickly.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">If you want a low-shedding, active, intelligent medium breed with a 13–16 year lifespan and a personality that keeps you on your toes — the Standard Schnauzer deserves serious consideration. If you want something easygoing that doesn't test you, look elsewhere.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of vigorous exercise daily. Standard Schnauzers are high-energy for their size and need activity that challenges them physically and mentally. They excel at agility, obedience, tracking, and hiking. A bored Standard Schnauzer is mischievous; a well-exercised one is an excellent companion.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The wiry coat requires professional grooming every 6–8 weeks — either hand-stripping (preserves coat texture) or clipping (more practical). Minimal shedding makes this a lower-maintenance coat at home between appointments, but the beard requires daily wiping after meals. See the <a href=\"/blogs/dog-breeds/standard-schnauzer-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Standard Schnauzer grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Positive reinforcement with consistent expectations. These dogs learn fast and need rules applied consistently — gaps in consistency are immediately noticed and tested. Puppy training class from day one establishes the owner-dog dynamic correctly. Advanced obedience, agility, or trick training keeps the mind engaged and prevents the stubbornness that emerges from boredom.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Standard Schnauzers are generally the healthiest of the three Schnauzer sizes — notably more robust than the Giant Schnauzer's autoimmune tendencies or the Miniature's metabolic issues. The 13–16 year lifespan is excellent for any breed and reflects genuine hardiness.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Less common than in the Giant but present in the breed. OFA or PennHIP hip clearances from both parents are standard health testing to request. Managed with medication and joint support.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Autoimmune Thyroiditis</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Immune-mediated thyroid condition leading to hypothyroidism. OFA thyroid clearances from breeders are appropriate to request. Manageable with daily medication once diagnosed.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Eye Diseases</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Various inherited eye conditions occur. CAER eye exam clearances should be provided by responsible breeders. Schedule regular veterinary eye checks.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA thyroid, CAER eye exam clearances.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,200–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,000–$5,850</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,500–$2,850</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/standard-schnauzer-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Standard Schnauzer first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Standard Schnauzer Right for You?",
@@ -92,25 +121,50 @@
         "Owners who want a dog that will reliably defer on every decision"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Standard Schnauzer",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,200–$2,500 from reputable breeders. Required health clearances: OFA hip, OFA thyroid, CAER eye exam. The Standard Schnauzer Club of America maintains a breeder referral directory. Standard Schnauzers are less common than Miniature or Giant, so expect wait lists from responsible breeders.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Standard Schnauzer rescue is available through the SSCA and regional Schnauzer rescue organizations. Surrendered dogs often come from owners who underestimated the energy and intelligence requirements. Excellent option for experienced owners who can meet a dog where it is.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Standard Schnauzer comes home, complete the <a href=\"/blogs/dog-breeds/standard-schnauzer-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Standard Schnauzer puppy checklist</a> — training class enrollment and the beard maintenance routine are the critical first-week priorities.</p>"
     }
   },
-
   "faq": [
-    { "q": "How is the Standard Schnauzer different from the Giant and Miniature?", "a": "The Standard is the original breed from which both the Giant (developed by crossing with Great Danes and Bouvier des Flandres) and Miniature (crossed with Affenpinschers and Poodles) were created. The Standard occupies the medium size range at 30–50 lbs. It is generally considered the healthiest of the three — fewer autoimmune issues than the Giant, fewer metabolic conditions than the Miniature. Temperamentally, it shares the intelligence and assertiveness of the Giant in a more manageable size." },
-    { "q": "Do Standard Schnauzers shed?", "a": "Very little — this is a genuinely low-shedding breed, not a marketing claim. The wiry double coat sheds minimally compared to smooth or double-coated breeds. This makes them a practical choice for owners who dislike dog hair in the home. The tradeoff is that the coat needs professional grooming every 6–8 weeks to stay neat." },
-    { "q": "Are Standard Schnauzers good with other dogs?", "a": "Generally yes, with appropriate socialization. They are not dog-aggressive like some working breeds, but they are assertive and will stand their ground if challenged. Early, consistent socialization with other dogs produces well-mannered adults. They do best with dogs of similar size and energy level." },
-    { "q": "How long do Standard Schnauzers live?", "a": "13–16 years — excellent for any breed and outstanding for a working dog. This longevity is one of the Standard's genuine advantages and reflects their overall hardiness compared to larger Schnauzer sizes. Good genetics from health-tested parents, appropriate weight maintenance, and regular veterinary care contribute to the dogs reaching their potential lifespan." }
+    {
+      "q": "How is the Standard Schnauzer different from the Giant and Miniature?",
+      "a": "The Standard is the original breed from which both the Giant (developed by crossing with Great Danes and Bouvier des Flandres) and Miniature (crossed with Affenpinschers and Poodles) were created. The Standard occupies the medium size range at 30–50 lbs. It is generally considered the healthiest of the three — fewer autoimmune issues than the Giant, fewer metabolic conditions than the Miniature. Temperamentally, it shares the intelligence and assertiveness of the Giant in a more manageable size."
+    },
+    {
+      "q": "Do Standard Schnauzers shed?",
+      "a": "Very little — this is a genuinely low-shedding breed, not a marketing claim. The wiry double coat sheds minimally compared to smooth or double-coated breeds. This makes them a practical choice for owners who dislike dog hair in the home. The tradeoff is that the coat needs professional grooming every 6–8 weeks to stay neat."
+    },
+    {
+      "q": "Are Standard Schnauzers good with other dogs?",
+      "a": "Generally yes, with appropriate socialization. They are not dog-aggressive like some working breeds, but they are assertive and will stand their ground if challenged. Early, consistent socialization with other dogs produces well-mannered adults. They do best with dogs of similar size and energy level."
+    },
+    {
+      "q": "How long do Standard Schnauzers live?",
+      "a": "13–16 years — excellent for any breed and outstanding for a working dog. This longevity is one of the Standard's genuine advantages and reflects their overall hardiness compared to larger Schnauzer sizes. Good genetics from health-tested parents, appropriate weight maintenance, and regular veterinary care contribute to the dogs reaching their potential lifespan."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Giant Schnauzer", "slug": "giant-schnauzer", "note": "Larger, more dominant, more demanding — same family, significantly higher experience requirement"},
-    {"name": "Miniature Schnauzer", "slug": "miniature-schnauzer", "note": "Smaller (11–20 lbs), Terrier Group, more widely kept, more prone to metabolic conditions"},
-    {"name": "Airedale Terrier", "slug": "airedale-terrier", "note": "Similar wiry coat, similar intelligence and stubbornness, slightly larger, terrier classification"},
-    {"name": "Portuguese Water Dog", "slug": "portuguese-water-dog", "note": "Similar medium build and low-shedding coat, water-oriented working heritage, more biddable"}
+    {
+      "name": "Giant Schnauzer",
+      "slug": "giant-schnauzer",
+      "note": "Larger, more dominant, more demanding — same family, significantly higher experience requirement"
+    },
+    {
+      "name": "Miniature Schnauzer",
+      "slug": "miniature-schnauzer",
+      "note": "Smaller (11–20 lbs), Terrier Group, more widely kept, more prone to metabolic conditions"
+    },
+    {
+      "name": "Airedale Terrier",
+      "slug": "airedale-terrier",
+      "note": "Similar wiry coat, similar intelligence and stubbornness, slightly larger, terrier classification"
+    },
+    {
+      "name": "Portuguese Water Dog",
+      "slug": "portuguese-water-dog",
+      "note": "Similar medium build and low-shedding coat, water-oriented working heritage, more biddable"
+    }
   ]
 }
