@@ -1,0 +1,608 @@
+[
+  {
+    "slug": "afghan-hound",
+    "name": "Afghan Hound",
+    "group": "Hound Group",
+    "appearance": "Tall, elegant, and distinctly aristocratic in bearing. Males stand 27 inches and weigh around 60 lbs; females slightly smaller at 25 inches and 50 lbs. The long, flowing coat comes in virtually all colors — cream, black, red, blue, brindle, and combinations thereof. The saddle area (back) typically has shorter, closer-lying hair. The long, silky topknot on the head, the fall of coat over the face,"
+  },
+  {
+    "slug": "akita",
+    "name": "Akita",
+    "group": "Working Group",
+    "appearance": "Large, powerful, and bear-like in build — males weigh 100–130 lbs, females 70–100 lbs. The broad, flat head, deep-set triangular eyes, and thick double coat give the Akita an unmistakable presence. American Akitas are heavier and more bear-like; Japanese Akita Inus are more refined and fox-like in facial appearance. The double coat is thick and dense, with a soft undercoat and a harsher outer coat"
+  },
+  {
+    "slug": "alaskan-malamute",
+    "name": "Alaskan Malamute",
+    "group": "Working Group",
+    "appearance": "A large, powerful dog with a broad head, erect ears, and a plumed tail carried over the back. Females typically weigh 75 lbs; males 85–100+ lbs. Height is 23–25 inches at the withers. The build is heavily muscled and compact — less leggy than a Husky, more powerfully built. The double coat is dense and thick — a soft, wooly undercoat beneath a coarse, standoff outer coat. Colors include various sh"
+  },
+  {
+    "slug": "american-foxhound",
+    "name": "American Foxhound",
+    "group": "Hound Group",
+    "appearance": "A lean, athletic hound standing 21–25 inches tall and weighing 60–70 lbs. The body is built for speed and endurance — long legs, deep chest, well-muscled hindquarters. The head is broad with long, low-set ears. Eyes are large, soft, and brown or hazel. The coat is hard and dense — close to the body, low maintenance. Colors are typically tricolor (black, white, and tan), but any hound color is acce"
+  },
+  {
+    "slug": "american-staffordshire-terrier",
+    "name": "American Staffordshire Terrier",
+    "group": "Terrier Group",
+    "appearance": "Medium-sized and powerfully muscled — 40–70 lbs in a compact, athletic frame. The head is broad with a distinct stop, and the jaw is strong. Eyes are dark and round; ears may be natural (half-prick or rose) or cropped. The body is compact and well-muscled, with a short back and a low-set tail. The short coat accepts all colors and color combinations except solid white, more than 80% white, black a"
+  },
+  {
+    "slug": "american-water-spaniel",
+    "name": "American Water Spaniel",
+    "group": "Sporting Group",
+    "appearance": "Medium-sized, sturdy, and athletic — 25–45 lbs and 15–18 inches at the shoulder. The build is practical: substantial enough to handle cold-water retrieves and brush work, compact enough to work from a small boat. They're more robustly built than a Cocker Spaniel but smaller than a Springer. The coat is the most distinctive feature — a tight curl or wavy pattern in solid liver, brown, or dark choco"
+  },
+  {
+    "slug": "anatolian-shepherd-dog",
+    "name": "Anatolian Shepherd Dog",
+    "group": "Working",
+    "appearance": "The Anatolian Shepherd Dog is a large, well-muscled dog with a broad, slightly domed head and a powerful, arched neck. The jaw is strong and the muzzle is blocky, giving the face a serious, alert expression. Ears are V-shaped, medium-sized, and drop forward. The body is athletic but substantial — deep-chested and long in the back — with well-boned legs and rounded, cat-like feet suited for rugged "
+  },
+  {
+    "slug": "australian-cattle-dog",
+    "name": "Australian Cattle Dog",
+    "group": "Herding Group",
+    "appearance": "Medium-sized, compact, and heavily muscled for their weight. 35–50 lbs, 17–20 inches. The blue mottled variety has a blue, blue-mottled, or blue speckled coat with or without black, blue, or tan markings. The red speckled variety has an even red speckle. Both have a double coat with a short, dense outer coat and a thick undercoat. ACDs are born white — the color and pattern develops in the first f"
+  },
+  {
+    "slug": "australian-shepherd",
+    "name": "Australian Shepherd",
+    "group": "Herding Group",
+    "appearance": "Medium-sized, athletic, and strikingly colored — 40–65 lbs, 18–23 inches. The coat is medium-length, weather-resistant, and comes in four base colors: black, red (liver), blue merle, and red merle. White and copper markings are common. The merle pattern — a marbled, mottled effect — makes Aussies among the most visually distinctive dogs. Note on double merle: breeding two merle dogs together produ"
+  },
+  {
+    "slug": "basenji",
+    "name": "Basenji",
+    "group": "Hound Group",
+    "appearance": "A small, elegant, squarely built dog with a flat skull, almond-shaped eyes, erect ears, and a distinctive tightly curled tail carried over the back. Males stand 17 inches and weigh 24 lbs; females 16 inches and 22 lbs. The short, fine coat lies close to the body with minimal shedding. Colors include red and white, black and white, brindle and white, and tricolor. The characteristic wrinkled forehe"
+  },
+  {
+    "slug": "basset-hound",
+    "name": "Basset Hound",
+    "group": "Hound Group",
+    "appearance": "Basset Hounds are instantly recognizable: long, drooping ears that nearly reach the ground when the head is lowered, deeply wrinkled skin around the face and neck, and those famously mournful eyes with their reddish lower lids. Despite weighing 40–65 lbs, they're low-slung — their legs are short and heavy-boned, built to minimize height rather than weight. The coat is short, dense, and weather-res"
+  },
+  {
+    "slug": "beagle",
+    "name": "Beagle",
+    "group": "Hound Group",
+    "appearance": "Compact and muscular with a slightly domed skull, long droopy ears, and a sturdy square build. They come in two size varieties: under 13 inches (typically 20–22 lbs) and 13–15 inches (22–30 lbs). The classic tri-color (black, tan, and white) is most common, but lemon-and-white, red-and-white, and other combinations exist. Short, dense, water-resistant coat that needs minimal care. The tail tip is "
+  },
+  {
+    "slug": "belgian-malinois",
+    "name": "Belgian Malinois",
+    "group": "Herding Group",
+    "appearance": "Medium to large, athletic, and squarely built. Females 40–60 lbs; males 60–80 lbs. Height 22–26 inches. The coat is short, straight, and dense — fawn to mahogany in color with a characteristic black mask and black-tipped hairs. The expression is alert, intense, and watchful. Malinois move with a fluid, effortless gait that reflects their physical capability. They are fast, agile, and have extraord"
+  },
+  {
+    "slug": "bernese-mountain-dog",
+    "name": "Bernese Mountain Dog",
+    "group": "Working Group",
+    "appearance": "Large and sturdy — 70–115 lbs, 23–27.5 inches at the shoulder. The tricolor coat is the breed's signature: a base of jet black with rich rust markings above the eyes, on the cheeks, legs, and chest, and white on the blaze, chest, and paws. The coat is moderately long and slightly wavy or straight, with a thick undercoat that sheds significantly year-round and explosively twice a year. The expressi"
+  },
+  {
+    "slug": "bichon-frise",
+    "name": "Bichon Frise",
+    "group": "Non-Sporting Group",
+    "appearance": "Small and sturdy, 12–18 lbs, with a round, powder-puff appearance that comes from their dense, curly white coat (occasionally with apricot or cream shadings). The head is round with large, dark, alert eyes and dropped ears that blend into the coat. When properly groomed, they look like a small, animated cloud. The coat requires regular professional shaping to maintain the characteristic round silh"
+  },
+  {
+    "slug": "black-and-tan-coonhound",
+    "name": "Black and Tan Coonhound",
+    "group": "Hound Group",
+    "appearance": "Large, well-muscled, and athletic — males typically weigh 65–110 lbs and stand 23–27 inches tall. The coat is short, dense, and glossy black with rich tan markings above the eyes, on the muzzle, chest, legs, and under the tail — the classic black-and-tan pattern that gives the breed its name. The most distinctive physical features are the long, pendulous ears that reach well past the nose when pul"
+  },
+  {
+    "slug": "bloodhound",
+    "name": "Bloodhound",
+    "group": "Hound Group",
+    "appearance": "A large, powerful, wrinkled hound with long, pendulous ears, deep-set diamond-shaped eyes showing significant haw (red lining), and an extraordinarily loose skin that forms deep folds around the head and neck. Males weigh 90–110 lbs and stand 25–27 inches; females 80–100 lbs at 23–25 inches. Colors include black and tan, liver and tan, and red. The loose facial skin and long ears serve a functiona"
+  },
+  {
+    "slug": "bluetick-coonhound",
+    "name": "Bluetick Coonhound",
+    "group": "Hound Group",
+    "appearance": "Medium to large — males typically 55–80 lbs, females 45–65 lbs, standing 21–27 inches. The signature coat is the blue mottling: dark blue ticking on white creates a distinctive steel-blue appearance, usually with black saddle markings and tan points on the face and legs. Long, low-set ears hang well past the muzzle. Deep chest and well-muscled hindquarters reflect athletic capacity. The eyes are l"
+  },
+  {
+    "slug": "border-collie",
+    "name": "Border Collie",
+    "group": "Herding Group",
+    "appearance": "Athletic, lean, and built for endurance rather than power. 30–55 lbs, 18–22 inches. The characteristic \"herding eye\" — the intense, focused gaze a Border Collie uses to control livestock — is one of the most distinctive features of the breed. When a Border Collie locks onto something, the focus is complete and the posture drops into a characteristic crouch. The rough coat needs regular brushing; t"
+  },
+  {
+    "slug": "borzoi",
+    "name": "Borzoi",
+    "group": "Hound Group",
+    "appearance": "Large, lean, and extraordinarily graceful. Males typically 75–105 lbs, females 60–85 lbs, and both stand over 26 inches at the shoulder. The body is long and curved — an arched loin, deep chest, and tucked abdomen give the breed its distinctive silhouette. The head is long and narrow, the eyes dark and keen, the expression combining gentleness with alertness. The coat is long, silky, and flowing —"
+  },
+  {
+    "slug": "boston-terrier",
+    "name": "Boston Terrier",
+    "group": "Non-Sporting Group",
+    "appearance": "Compact and muscular, weighing 12–25 lbs (they come in three weight classes: under 15 lbs, 15–20 lbs, and 20–25 lbs) with a height of 15–17 inches. The short, smooth, fine coat requires minimal grooming. Classic coloring is black and white in the tuxedo pattern; brindle and white and seal and white are also acceptable. The square head, flat face, erect bat ears, and large, round eyes are instantly"
+  },
+  {
+    "slug": "boxer",
+    "name": "Boxer",
+    "group": "Working Group",
+    "appearance": "Medium to large — 50–80 lbs, 21.5–25 inches. Powerful, muscular, and square-built with a broad, flat face that gives the breed its characteristic expression. The underbite is normal for the breed. Colors are fawn (varying from light tan to deep mahogany) and brindle, typically with white markings on the face, chest, and paws. White Boxers occur but are excluded from AKC conformation showing; they'"
+  },
+  {
+    "slug": "brittany",
+    "name": "Brittany",
+    "group": "Sporting Group",
+    "appearance": "Medium build, lightly boned but muscular, with an alert, eager expression. The coat is medium length, either flat or wavy, with feathering on the ears, chest, legs, and abdomen. Colors include orange and white, liver and white, and roan patterns. Some individuals are naturally bob-tailed. The overall impression is of a compact, athletic dog built for covering ground. Nothing exaggerated — the bree"
+  },
+  {
+    "slug": "bull-terrier",
+    "name": "Bull Terrier",
+    "group": "Terrier Group",
+    "appearance": "Medium-sized and powerfully built — 50–70 lbs in a compact, muscular frame. The defining feature is the long, egg-shaped head with a Roman nose profile and small, triangular, deep-set eyes. The body is round in substance, with a level back, deep chest, and short, strong neck. Colors include white (the classic), colored (fawn, brindle, black, red, or tricolor), and white with colored patches. White"
+  },
+  {
+    "slug": "bulldog",
+    "name": "Bulldog",
+    "group": "Non-Sporting Group",
+    "appearance": "Stocky and low-slung, weighing 40 lbs (females) to 50 lbs (males) with a height of 14–15 inches. The broad, massive head with pronounced underbite, deep wrinkles, and rope of skin over the nose is immediately recognizable. The body is heavily muscled with wide shoulders, a narrow rear, and a characteristic rolling gait. The short, fine coat comes in brindle, white, fawn, red, or any combination. T"
+  },
+  {
+    "slug": "bullmastiff",
+    "name": "Bullmastiff",
+    "group": "Working",
+    "appearance": "The Bullmastiff is a large, symmetrical dog that conveys great strength without heaviness or exaggeration. The head is large and broad, with a short, square muzzle approximately one-third the length of the skull. The dark mask is a hallmark of the breed and gives the face its characteristic serious expression. Eyes are medium-sized, dark, and set apart. The body is compact and powerful, with a bro"
+  },
+  {
+    "slug": "cane-corso",
+    "name": "Cane Corso",
+    "group": "Working Group",
+    "appearance": "Large and muscular, with a heavy rectangular head and a serious, watchful expression. Males typically weigh 99–110+ lbs; females 88–99 lbs. Height at the withers is 23.5–27.5 inches. The build is athletic and powerful — this is a working dog, not a sedentary giant. The short, stiff double coat sheds moderately. Colors include black, gray (all shades), fawn, red, and brindle. Black or gray masks ar"
+  },
+  {
+    "slug": "cardigan-welsh-corgi",
+    "name": "Cardigan Welsh Corgi",
+    "group": "Herding Group",
+    "appearance": "Long-bodied, low-set, and sturdily built. 25–38 lbs (females toward the lower end, males toward the upper). The long, low silhouette with upright, large ears and a fox brush tail is unmistakable. The head is broader and the ears more rounded compared to the Pembroke. The double coat is medium length, with a harsh outer coat and dense undercoat. Shedding is significant — more than their size sugges"
+  },
+  {
+    "slug": "cavalier-king-charles-spaniel",
+    "name": "Cavalier King Charles Spaniel",
+    "group": "Toy Group",
+    "appearance": "Compact and elegant, 12–18 lbs with a silky, medium-length coat that comes in four color patterns: Blenheim (chestnut and white), Tricolor (black, white, and tan), Black and Tan, and Ruby (solid rich red). The large, expressive dark eyes and rounded head give them a permanently gentle expression that, in this breed's case, actually matches the personality. Feathering on the ears, chest, legs, and "
+  },
+  {
+    "slug": "chesapeake-bay-retriever",
+    "name": "Chesapeake Bay Retriever",
+    "group": "Sporting Group",
+    "appearance": "Males 23–26 inches, 65–80 lbs; females 21–24 inches, 55–70 lbs. Powerfully built, with a broad, round skull and a slightly wavy, oily coat that is unique in the retriever world. The coat should feel slightly greasy — that oiliness is functional, providing water resistance. Colors are brown (ranging from dark to light), sedge (reddish-yellow), and deadgrass (straw-colored) — all camouflage-appropri"
+  },
+  {
+    "slug": "chihuahua",
+    "name": "Chihuahua",
+    "group": "Toy Group",
+    "appearance": "Two coat varieties: smooth (short, close, glossy) and long (soft, flat or slightly wavy with ear fringing and a feathered tail). Both come in any color and pattern imaginable — solid, bi-color, tri-color, merle. Two head shapes exist informally: the apple dome (round, prominent forehead, characteristic of the breed standard) and the deer head (longer, flatter skull). Only apple domes are AKC confo"
+  },
+  {
+    "slug": "chow-chow",
+    "name": "Chow Chow",
+    "group": "Non-Sporting Group",
+    "appearance": "Medium to large dogs, 45–70 lbs, with a stocky, square build and a large, broad head. The rough variety's mane around the head and neck is the breed's signature visual. The smooth variety has a shorter, denser coat that still shows the same plush quality. Both have the characteristic blue-black tongue and deep-set, somewhat sunken eyes that give the Chow its distinctive expression. The slightly st"
+  },
+  {
+    "slug": "clumber-spaniel",
+    "name": "Clumber Spaniel",
+    "group": "Sporting Group",
+    "appearance": "A large, heavy, long-bodied spaniel with a broad skull, deep chest, and distinctive droopy eyes. Males weigh 70–85 lbs and stand 19–20 inches; females 55–70 lbs at 17–19 inches. The primary coat color is predominantly white with lemon or orange markings on the head and body. The dense, flat, silky coat is weather-resistant and feathered on the ears, chest, legs, and belly. The face has characteris"
+  },
+  {
+    "slug": "cocker-spaniel",
+    "name": "Cocker Spaniel",
+    "group": "Sporting Group",
+    "appearance": "Compact and elegant — 20–30 lbs, 13–16 inches at the shoulder. The most distinctive features are the long, pendulous ears, the round, expressive eyes, and the flowing coat that feathers on the ears, chest, belly, and legs. Coat colors range widely: black, ASCOB (any solid color other than black), and parti-color (white with patches of color). The American Cocker Spaniel is distinct from the Englis"
+  },
+  {
+    "slug": "collie",
+    "name": "Collie (Rough Collie)",
+    "group": "Herding Group",
+    "appearance": "The Rough Collie is a large, elegant dog with a distinctive silhouette — long wedge-shaped head, almond eyes, abundant flowing coat, and a graceful build. Males weigh 60–75 lbs and stand 24–26 inches; females are 50–65 lbs at 22–24 inches. The smooth Collie is the same breed with a shorter coat, though the rough-coated version is far more common. The double coat has a dense, soft undercoat and a h"
+  },
+  {
+    "slug": "dachshund",
+    "name": "Dachshund",
+    "group": "Hound Group",
+    "appearance": "There are two sizes: Standard Dachshunds weigh 16–32 lbs; Miniature Dachshunds weigh under 11 lbs. There are also three coat types: smooth (short, close, low maintenance), wirehaired (rough, bristly; needs hand-stripping or trimming), and longhaired (silky, flowing; requires regular brushing). All three coat types come in both sizes. Color variety is wide: red, cream, black and tan, chocolate and "
+  },
+  {
+    "slug": "dalmatian",
+    "name": "Dalmatian",
+    "group": "Non-Sporting Group",
+    "appearance": "Medium to large, 45–70 lbs, with a lean, athletic, well-muscled build. The coat is short, dense, and close-fitting — and despite being short, it sheds constantly and heavily year-round. The distinctive spots (black or liver on white) develop after birth; Dalmatian puppies are born white and develop their spots in the first few weeks. Dalmatian hair has a particular quality that makes it embed itse"
+  },
+  {
+    "slug": "doberman-pinscher",
+    "name": "Doberman Pinscher",
+    "group": "Working Group",
+    "appearance": "Muscular, athletic, and elegant — Dobermans weigh 60–100 lbs and stand 24–28 inches. The classic look is the black and rust coloration with rust markings above the eyes, on the muzzle, chest, legs, and feet. Other accepted colors include red and rust, blue and rust, and fawn (Isabella) and rust — though blue and fawn colorations carry higher risk for color dilution alopecia (hair loss and skin iss"
+  },
+  {
+    "slug": "dogue-de-bordeaux",
+    "name": "Dogue de Bordeaux",
+    "group": "Working",
+    "appearance": "The Dogue de Bordeaux is defined above all by its head, which is the largest in proportion to body size of any breed. The skull is enormous, broad, and covered in characteristic wrinkles and folds. The muzzle is short (no more than one-third of skull length), broad, and powerful, with a slightly undershot jaw. The dark mask, which extends over the muzzle and around the eyes, is a defining breed fe"
+  },
+  {
+    "slug": "english-cocker-spaniel",
+    "name": "English Cocker Spaniel",
+    "group": "Sporting Group",
+    "appearance": "Compact and well-balanced — 15–17 inches at the shoulder, 20–34 lbs. The head is square and refined, with long, low-set ears covered in silky feathering. The coat is silky and flat-lying on the body with long, feathered furnishings on the ears, chest, belly, and legs. Colors are wide-ranging: solid black, liver, red, or golden; blue roan, liver roan, or orange roan (roan = mixture of colored and w"
+  },
+  {
+    "slug": "english-setter",
+    "name": "English Setter",
+    "group": "Sporting Group",
+    "appearance": "Males weigh 65–80 lbs, females 45–55 lbs. They are longer than tall, with an elegant, athletic build. The head is long and lean, with a square muzzle. The silky coat lies flat with feathering on the chest, belly, legs, and tail — show dogs carry considerably more coat than field dogs. The distinctive coloring is called belton — a white base with flecking or ticking in orange (orange belton), black"
+  },
+  {
+    "slug": "english-springer-spaniel",
+    "name": "English Springer Spaniel",
+    "group": "Sporting Group",
+    "appearance": "A well-proportioned, athletic spaniel. Weight 40–50 lbs; height 19–20 inches. The expression is friendly, alert, and eager — one of the most expressive faces in dogdom. The long, pendant ears are feathered with wavy hair. The double coat is flat or wavy with feathering on the ears, chest, belly, and legs. Colors include liver and white, black and white, and tricolor combinations with tan points. S"
+  },
+  {
+    "slug": "field-spaniel",
+    "name": "Field Spaniel",
+    "group": "Sporting Group",
+    "appearance": "Medium-sized and well-balanced — males and females typically 35–50 lbs, 17–18 inches at the shoulder. The body is moderately long, with a level topline and a deep chest suited to the field. The head is distinctive: a long, lean skull with an almond-shaped eye giving an expression of gravity and gentleness. The coat is the breed's most visible feature — dense, flat or slightly wavy, silky in textur"
+  },
+  {
+    "slug": "flat-coated-retriever",
+    "name": "Flat-Coated Retriever",
+    "group": "Sporting Group",
+    "appearance": "Males 23–24.5 inches, females slightly smaller. Weight 55–70 lbs. The coat is flat, dense, and glossy — either solid black or solid liver (reddish-brown). Feathering appears on the ears, chest, legs, and tail. The breed has a distinctive \"one-piece\" head with a long, flat skull that flows smoothly into the muzzle without a pronounced stop. The overall impression is an athletic, elegant dog with a "
+  },
+  {
+    "slug": "french-bulldog",
+    "name": "French Bulldog",
+    "group": "Non-Sporting Group",
+    "appearance": "Compact, muscular, and low to the ground — French Bulldogs weigh 20–28 lbs and stand about 11–13 inches tall. Their most recognizable features are the large, upright bat ears (set apart, not close together like English Bulldogs), the extremely flat face (brachycephalic skull), and the wrinkled, loose skin around the face and neck. The body is heavy-boned for its size, with a broad chest and a shor"
+  },
+  {
+    "slug": "german-pinscher",
+    "name": "German Pinscher",
+    "group": "Working",
+    "appearance": "The German Pinscher is the picture of athletic elegance. The breed standard calls for a square outline — the body length approximately equal to the height at the withers — giving the dog a compact, powerful profile. The musculature is lean and defined, visible even through the short coat. This is a dog built for speed and agility as much as for strength. The head is elongated and elegant, with a f"
+  },
+  {
+    "slug": "german-shepherd-dog",
+    "name": "German Shepherd Dog",
+    "group": "Herding Group",
+    "appearance": "GSDs are large, athletic, and well-muscled — 50–90 lbs (females on the lower end, males on the higher), standing 22–26 inches at the shoulder. The classic appearance is the standard double coat in black-and-tan saddle pattern, but solid black, sable, bicolor, and occasionally solid white GSDs exist. A long coat variety also exists — slightly different texture, same breed otherwise. There's a signi"
+  },
+  {
+    "slug": "german-shorthaired-pointer",
+    "name": "German Shorthaired Pointer",
+    "group": "Sporting Group",
+    "appearance": "Lean, athletic, and built for endurance — GSPs weigh 45–70 lbs and stand 21–25 inches. Their short, dense coat is typically liver (brown), liver and white, or liver roan; black variations exist but are rarer. The coat is functional: weather-resistant, quick-drying, and virtually self-cleaning. Webbed feet for swimming, a deep chest for sustained aerobic output, and a naturally docked or full tail "
+  },
+  {
+    "slug": "german-wirehaired-pointer",
+    "name": "German Wirehaired Pointer",
+    "group": "Sporting Group",
+    "appearance": "Males 24–26 inches at the shoulder, females 22–24 inches. Weight 50–70 lbs — lean and athletic, not heavy-boned. The defining feature is the coat: a harsh, wiry outer coat with a dense, soft undercoat. The beard and eyebrows are prominent and functional, protecting the face in thick cover. Colors are liver and white, or solid liver. The expression is alert and confident. The breed should look like"
+  },
+  {
+    "slug": "golden-retriever-outdoor-space",
+    "name": "How Much Outdoor Space Does a Golden Retriever Need?",
+    "group": "Golden Retriever",
+    "appearance": ""
+  },
+  {
+    "slug": "golden-retriever",
+    "name": "Golden Retriever",
+    "group": "Sporting Group",
+    "appearance": "Large breed, 55–75 lbs as adults, with a dense double coat that ranges from light cream to dark gold. You'll come across three lines: American (leaner, darker coat), British (blockier build, paler coat, sometimes marketed as 'English Cream'), and Canadian (taller, thinner coat). For most families, the type matters less than people think. A well-bred Golden from any line will have the same temperam"
+  },
+  {
+    "slug": "gordon-setter",
+    "name": "Gordon Setter",
+    "group": "Sporting Group",
+    "appearance": "Males weigh 55–80 lbs, females 45–70 lbs — Gordon Setters are the heaviest of the setter breeds, with a more substantial, muscular build than Irish or English Setters. They're built for endurance work in rough Scottish terrain, not for the lighter, faster style of field trial competition. The coat is shining black with chestnut or mahogany tan markings in specific places: muzzle, throat, two spots"
+  },
+  {
+    "slug": "great-dane",
+    "name": "Great Dane",
+    "group": "Working Group",
+    "appearance": "Massive — males typically 140–175 lbs, females 110–140 lbs, though exceptional individuals exceed these ranges. The tallest dogs ever recorded have been Great Danes. The body is lean and athletic despite the size, with a long, rectangular head and a deep chest. Colors are varied and include fawn (golden yellow with black mask), brindle, blue (gray), black, harlequin (white with irregular black pat"
+  },
+  {
+    "slug": "great-pyrenees",
+    "name": "Great Pyrenees",
+    "group": "Working Group",
+    "appearance": "Large to giant in size — females typically 85–115 lbs, males 100–160 lbs, though large males can exceed this. The breed's signature is the thick, weather-resistant double coat: a coarse outer coat and a dense, wooly undercoat, almost always white or white with markings of gray, tan, or badger on the ears and body. The coat repels rain and insulates in cold; it also mats if not maintained. The face"
+  },
+  {
+    "slug": "greyhound",
+    "name": "Greyhound",
+    "group": "Hound Group",
+    "appearance": "The Greyhound's physique is unmistakable: a narrow, aerodynamic head, deep chest, tucked abdomen, long muscular legs, and a lean, almost architectural body. Their skin is thin and their coat is short, smooth, and comes in nearly every color — fawn, brindle, black, blue, white, red, and combinations of each. They have almost no body fat, which matters practically: they get cold easily and need a co"
+  },
+  {
+    "slug": "harrier",
+    "name": "Harrier",
+    "group": "Hound Group",
+    "appearance": "Medium-sized, sturdy, and well-muscled — 45–60 lbs, 19–21 inches tall. The resemblance to a larger Beagle is immediately apparent: similar tricolor or hound-colored coat (black, tan, and white in various combinations), similar pendulous ears, similar expression. The coat is short, dense, and hard — minimal maintenance required. The build is more substantial than a Beagle but less heavy than the la"
+  },
+  {
+    "slug": "havanese",
+    "name": "Havanese",
+    "group": "Toy Group",
+    "appearance": "Small and sturdy, weighing 7–13 lbs and standing 8.5–11.5 inches at the shoulder. The build is slightly longer than tall with a characteristic springy, buoyant gait. The coat is long, silky, and slightly wavy — it flows freely and comes in virtually every color and pattern imaginable. The double coat is low-shedding, making this a reasonable choice for people who want to reduce dog hair in their h"
+  },
+  {
+    "slug": "ibizan-hound",
+    "name": "Ibizan Hound",
+    "group": "Hound Group",
+    "appearance": "Tall and lean — 45–50 lbs, standing 22.5–27.5 inches. The classic sighthound profile: deep chest, tucked abdomen, long neck, lean head. The most distinctive feature is the large, upright, slightly bat-like ears that are highly mobile and expressive. The eyes are amber to light caramel — another distinctive feature alongside the amber nose rather than the black nose seen in most breeds. Coloring is"
+  },
+  {
+    "slug": "irish-setter",
+    "name": "Irish Setter",
+    "group": "Sporting Group",
+    "appearance": "A large, elegant sporting dog with a rich mahogany or chestnut coat. Males stand 27 inches and weigh around 70 lbs; females 25 inches and 60 lbs. The silky coat lies flat and close to the body with longer feathering on the ears, chest, belly, legs, and tail — giving the breed its characteristic flowing appearance in motion. The head is long and refined; the eyes are dark, almond-shaped, and expres"
+  },
+  {
+    "slug": "irish-water-spaniel",
+    "name": "Irish Water Spaniel",
+    "group": "Sporting Group",
+    "appearance": "The coat is the defining feature — dense, tight, crisp curls covering the body and legs in a rich liver (dark reddish-brown) color. There is no other acceptable color for this breed. The face is smooth with a falling topknot of loose curls, and the tail is unique in the spaniel world: smooth-coated, tapered, and rat-like rather than feathered. The curly coat is low-shedding, making Irish Water Spa"
+  },
+  {
+    "slug": "irish-wolfhound",
+    "name": "Irish Wolfhound",
+    "group": "Hound Group",
+    "appearance": "Massively tall and muscularly built — but not as heavy as the mastiff breeds. Males typically stand 32–35 inches at the shoulder and weigh 120–180+ lbs; females are somewhat smaller but still towering compared to virtually every other breed. The Guinness record for tallest living dog has been held by Irish Wolfhounds multiple times. The coat is rough and wiry — harsh to the touch — in colors rangi"
+  },
+  {
+    "slug": "italian-greyhound",
+    "name": "Italian Greyhound",
+    "group": "Toy Group",
+    "appearance": "Miniature sighthound conformation: arched back, deep narrow chest, tucked abdomen, long slender legs, and a narrow elongated head with a fine muzzle. Weight 7–14 lbs; height 13–15 inches at the shoulder. Despite the small size, this is a structurally athletic dog that can run at impressive speeds for short bursts. The coat is short, fine, and single-layered — essentially no undercoat. Colors inclu"
+  },
+  {
+    "slug": "labrador-retriever",
+    "name": "Labrador Retriever",
+    "group": "Sporting Group",
+    "appearance": "Large, athletic, and solidly built — Labs weigh 55–80 lbs and stand 21–24 inches at the shoulder. They have a dense, water-resistant double coat that comes in three colors: black, yellow (ranging from pale cream to fox red), and chocolate. The thick \"otter tail\" is a distinctive feature, used as a rudder when swimming. There are two general types within the breed: English (show) Labs, which are st"
+  },
+  {
+    "slug": "lagotto-romagnolo",
+    "name": "Lagotto Romagnolo",
+    "group": "Sporting Group",
+    "appearance": "Compact and sturdy — 16–19 inches at the shoulder, 24–35 lbs. The defining feature is the dense, tight curls covering the entire body. The coat can be trimmed to any practical length, but left ungroomed, the curls form mats. Colors include off-white, white and orange, orange roan, brown roan, brown, and orange, sometimes with or without a brown mask. The head is rounded with a well-defined stop, a"
+  },
+  {
+    "slug": "maltese",
+    "name": "Maltese",
+    "group": "Toy Group",
+    "appearance": "The Maltese is a tiny, well-proportioned dog with a rounded skull, black nose, and large, expressive dark eyes. The coat is single-layered (no undercoat), purely white, and silky — it drapes to the ground in show condition and doesn't shed the way double-coated breeds do. The lack of undercoat is why Maltese are often better tolerated by allergy sufferers. Most pet-owner Maltese are kept in a shor"
+  },
+  {
+    "slug": "mastiff",
+    "name": "Mastiff",
+    "group": "Working Group",
+    "appearance": "One of the world's heaviest dogs — males 160–230+ lbs, females 120–170 lbs. The body is rectangular and heavily muscled, with a broad, wrinkled head, pendant ears, and a deep chest. The face shows significant wrinkling around the muzzle and forehead, contributing to the characteristic expression of dignified concern. Colors include apricot, fawn, and brindle — all with a black mask covering the mu"
+  },
+  {
+    "slug": "miniature-american-shepherd",
+    "name": "Miniature American Shepherd",
+    "group": "Herding Group",
+    "appearance": "A smaller, slightly more refined version of the Australian Shepherd in every visual regard. Medium-length double coat with feathering on the back of the legs and under the chest. Colors include blue merle, red merle, black, and red — with white markings and tan points common across all colors. Eyes can be brown, blue, amber, or any combination — merle-patterned dogs frequently have blue or heteroc"
+  },
+  {
+    "slug": "miniature-poodle",
+    "name": "Miniature Poodle",
+    "group": "Non-Sporting Group",
+    "appearance": "Miniature Poodles are square-proportioned — their height roughly matches their length — with a refined, athletic build. The face is long and refined with dark, alert eyes. The tail is docked in show dogs in the US, though many countries now prohibit this. The ears hang close to the head. The coat is the Poodle's most distinctive feature: dense, curly, and continuously growing rather than shedding."
+  },
+  {
+    "slug": "miniature-schnauzer",
+    "name": "Miniature Schnauzer",
+    "group": "Terrier Group",
+    "appearance": "Compact and square-proportioned — 11–20 lbs, 12–14 inches at the shoulder. The hallmarks are the bushy eyebrows, prominent beard and mustache, and wiry double coat. Traditional colors: salt and pepper (the most common), black and silver, and solid black. White Miniature Schnauzers exist but are not AKC conformation-recognized, though they're healthy dogs. The wiry outer coat lies flat against the "
+  },
+  {
+    "slug": "neapolitan-mastiff",
+    "name": "Neapolitan Mastiff",
+    "group": "Working Group",
+    "appearance": "Massive and heavily built with an abundance of loose, wrinkled skin across the head, neck, and body. The head is enormous — broad and heavy with deep facial wrinkles, pronounced dewlaps, and a serious expression. The body is more elongated than wide, giving a surprisingly mobile silhouette despite the weight. Colors include blue (most common), black, mahogany, and tawny; brindling is acceptable in"
+  },
+  {
+    "slug": "newfoundland",
+    "name": "Newfoundland",
+    "group": "Working Group",
+    "appearance": "Large and powerfully built — females typically 100–120 lbs, males 130–150 lbs. The coat is flat, dense, and water-resistant, with a soft undercoat and a coarser outer coat. Colors include black (most common), brown, gray, and black and white (the Landseer pattern). The Landseer is considered a separate breed in some countries. The face is broad and soft in expression, the jowls deep — which is dir"
+  },
+  {
+    "slug": "norwegian-elkhound",
+    "name": "Norwegian Elkhound",
+    "group": "Hound Group",
+    "appearance": "Compact and sturdy at 48–55 lbs, standing 19.5–20.5 inches. The coat is the defining visual feature: a thick double coat with a dense, woolly undercoat and a coarser, grey outer coat with lighter grey shading. The face and ears are darker; the saddle markings are darker grey. No other color variation is correct. The tightly curled tail carried over the back, erect pricked ears, and dark almond eye"
+  },
+  {
+    "slug": "nova-scotia-duck-tolling-retriever",
+    "name": "Nova Scotia Duck Tolling Retriever",
+    "group": "Sporting Group",
+    "appearance": "Compact and athletic — 17–21 inches at the shoulder, 35–50 lbs. The coat is medium-length, double-layered, and water-repellent in shades of deep orange to golden red, often with white markings on the chest, feet, face, and tail tip. The tail is full and bushy, carried in a distinctive curve when the dog is alert or working. The head is fox-like — wedge-shaped with a slightly rounded skull, almond-"
+  },
+  {
+    "slug": "old-english-sheepdog",
+    "name": "Old English Sheepdog",
+    "group": "Herding Group",
+    "appearance": "Large and solidly built — males typically 70–100 lbs, females 60–80 lbs. The breed stands at minimum 21 inches at the shoulder, with many dogs taller. The bear-like, rolling gait is distinctive and characteristic. The tail is traditionally docked (though increasingly left natural), which contributes to the square, rounded hindquarter silhouette. The double coat is profuse — hard-textured on the ou"
+  },
+  {
+    "slug": "pembroke-welsh-corgi",
+    "name": "Pembroke Welsh Corgi",
+    "group": "Herding Group",
+    "appearance": "Long, low, and sturdy — Corgis weigh 22–30 lbs but stand only 10–12 inches tall due to their famously short legs (a form of achondroplastic dwarfism). The foxy face, large upright ears, and naturally bobbed or docked tail are characteristic. Coat colors include red, sable, fawn, and black-and-tan, typically with white markings on the face, chest, neck, and legs. The medium-length double coat sheds"
+  },
+  {
+    "slug": "pharaoh-hound",
+    "name": "Pharaoh Hound",
+    "group": "Hound Group",
+    "appearance": "A medium-sized, lean sighthound with a distinctly elegant build. Males 23–25 inches at the shoulder, females 21–24 inches, both 45–55 lbs. The coat is short, fine, and very low-maintenance — tan or rich tan, sometimes with white markings. The large, erect ears are a signature feature. The amber eyes have an intelligent, alert expression. The overall silhouette is athletic and streamlined — built f"
+  },
+  {
+    "slug": "pointer",
+    "name": "Pointer",
+    "group": "Sporting Group",
+    "appearance": "A lean, athletic, muscular dog built for speed and endurance. Males stand 25–28 inches and weigh 55–75 lbs; females 23–26 inches and 45–65 lbs. The short, smooth coat lies close to the body and comes in liver, lemon, black, or orange — solid or combined with white. The long, graceful head with a slightly dish-faced profile, deep chest, and powerful hindquarters give the Pointer a distinctive field"
+  },
+  {
+    "slug": "pomeranian",
+    "name": "Pomeranian",
+    "group": "Toy Group",
+    "appearance": "Compact and square-bodied, weighing 3–7 lbs and standing 6–7 inches at the shoulder. The double coat is the defining physical feature — a soft, dense undercoat with a harsher, straight outer coat that fans out from the body and forms a distinctive ruff around the neck and chest. The plumed tail curls over the back. The face is fox-like with a short muzzle, dark almond-shaped eyes, and small erect "
+  },
+  {
+    "slug": "portuguese-water-dog",
+    "name": "Portuguese Water Dog",
+    "group": "Working Group",
+    "appearance": "A medium-sized, robustly built dog. Females weigh 35–50 lbs; males 42–60 lbs. Height 17–23 inches. The body is muscular and athletic — this was a working dog designed to swim in cold Atlantic waters all day. The coat comes in two types: curly (tight, cylindrical curls with a matte appearance) or wavy (gentle waves with a slight sheen). Both are single-layer coats that shed minimally. Colors are bl"
+  },
+  {
+    "slug": "pug",
+    "name": "Pug",
+    "group": "Toy Group",
+    "appearance": "Compact and square-bodied, weighing 14–18 lbs with a height of 10–13 inches. The distinctive flat face (brachycephalic skull), prominent round eyes, deep wrinkles, and curled tail over a rounded rump are the defining physical features. Colors are fawn (most common) and black. The double coat is short and smooth but sheds heavily — Pugs shed far more than their small size suggests. The prominent, s"
+  },
+  {
+    "slug": "rhodesian-ridgeback",
+    "name": "Rhodesian Ridgeback",
+    "group": "Hound Group",
+    "appearance": "A large, muscular, athletic dog in a light wheaten to red wheaten short coat. The ridge of reverse-growing hair along the dorsal line is the definitive feature — typically 2 inches wide, running from just behind the shoulders to the hip area, with two identical crowns (whorls) at the top. Dogs without a ridge exist but are not breed standard. Build is balanced and athletic — not as heavy as a Mast"
+  },
+  {
+    "slug": "rottweiler",
+    "name": "Rottweiler",
+    "group": "Working Group",
+    "appearance": "Large, massively built, and powerful — Rottweilers weigh 80–135 lbs (females on the lower end, males on the higher) and stand 22–27 inches at the shoulder. The characteristic black-and-mahogany or black-and-rust coloring is consistent across the breed — a black base with tan/rust markings on the muzzle, cheeks, chest, and legs. Short, dense double coat. Naturally docked tail (though this is becomi"
+  },
+  {
+    "slug": "saint-bernard",
+    "name": "Saint Bernard",
+    "group": "Working Group",
+    "appearance": "Very large to giant — females typically 120–140 lbs, males 140–180+ lbs. Large, powerful, and heavy-boned. The broad, flat head with deep-set, warm eyes and the deep jowls are breed signature characteristics. The jowls are the anatomical source of the drool — deep and loose, they catch and accumulate saliva, which then strings and drops. Coat colors are always a combination of red/brown with white"
+  },
+  {
+    "slug": "saluki",
+    "name": "Saluki",
+    "group": "Hound Group",
+    "appearance": "The Saluki is a lean, elegant dog with a deep chest, tucked abdomen, and long, arched neck — the classic sighthound silhouette. Males stand 23–28 inches at the shoulder and weigh 40–65 lbs. The build is deceptive: they look fragile and are not — they're athletes built for acceleration and endurance over desert terrain. The coat comes in two varieties: smooth (very short, minimal feathering) and fe"
+  },
+  {
+    "slug": "samoyed",
+    "name": "Samoyed",
+    "group": "Working Group",
+    "appearance": "A medium-to-large spitz with a cloud-like white double coat, erect triangular ears, dark almond eyes, and a plumed tail carried over the back. Males weigh 45–65 lbs and stand 21–23.5 inches; females 35–50 lbs and 19–21 inches. The coat is pure white, biscuit, or cream — never trimmed, always maintained. The double coat has a harsh, straight outer coat and a thick, woolly undercoat that serves as g"
+  },
+  {
+    "slug": "shetland-sheepdog",
+    "name": "Shetland Sheepdog",
+    "group": "Herding Group",
+    "appearance": "A small, elegant dog that resembles a miniature Rough Collie — long, narrow muzzle, semi-erect ears with tipped tops, and a profuse double coat with a distinctive mane and frill. Weight ranges from 15–25 lbs; height 13–16 inches at the shoulder. The breed is slightly longer than tall. Colors include sable and white (golden to mahogany), tricolor (black, white, and tan), blue merle (gray marbled wi"
+  },
+  {
+    "slug": "shiba-inu",
+    "name": "Shiba Inu",
+    "group": "Non-Sporting Group",
+    "appearance": "Small to medium, compact and well-muscled. Classic spitz features: curled tail over the back, erect triangular ears, foxlike face with a confident expression. The double coat comes in red (most common), black and tan, sesame (red with black tips), and cream. Urajiro — the pale cream or white markings on the cheeks, chest, belly, and inner legs — is a traditional Shiba feature required by breed sta"
+  },
+  {
+    "slug": "shih-tzu",
+    "name": "Shih Tzu",
+    "group": "Toy Group",
+    "appearance": "The Shih Tzu is compact and sturdy, 9–16 lbs with a round, broad head, flat face (brachycephalic), large dark eyes, and a soft, flowing double coat that can grow floor-length if left untrimmed. The coat comes in virtually every color and combination — gold, white, black, brindle, liver, combinations of all of these. Most owners who aren't showing their Shih Tzu keep them in a \"puppy cut\" (short al"
+  },
+  {
+    "slug": "siberian-husky",
+    "name": "Siberian Husky",
+    "group": "Working Group",
+    "appearance": "Medium-sized, athletic, and wolf-like in appearance — Huskies weigh 35–60 lbs (females lighter, males heavier) and stand 20–23 inches tall. The dense double coat comes in a wide range of colors — black and white, gray and white, red and white, sable, and pure white. Blue eyes are common and often both eyes are different colors (heterochromia). The expression is alert and often looks mischievous. T"
+  },
+  {
+    "slug": "soft-coated-wheaten-terrier",
+    "name": "Soft Coated Wheaten Terrier",
+    "group": "Terrier Group",
+    "appearance": "A medium-sized, squarely built terrier with a flowing wheat-colored single coat. Males weigh 35–45 lbs and stand 18–19 inches; females 30–40 lbs and 17–18 inches. The coat ranges from pale honey to warm gold, with a silky, wavy texture quite unlike a standard terrier's wiry coat. There are two coat styles: the Irish trim (longer, more natural, flowing) and the American/English trim (shorter, neate"
+  },
+  {
+    "slug": "spinone-italiano",
+    "name": "Spinone Italiano",
+    "group": "Sporting Group",
+    "appearance": "Large, muscular, and substantial — 62–85 lbs, 22.5–27.5 inches at the shoulder. The body is broad and deep-chested, built for endurance rather than speed. The head is large and sculptured with a long muzzle, pendulous lips, and large, soft eyes framed by bushy eyebrows that give the Spinone its characteristically thoughtful, wise expression. The coat is dense, wiry, and rough to the touch, 1.5–2.5"
+  },
+  {
+    "slug": "staffordshire-bull-terrier",
+    "name": "Staffordshire Bull Terrier",
+    "group": "Terrier Group",
+    "appearance": "A compact, muscular dog with a broad skull, defined cheek muscles, strong jaw, and a smooth, short coat. Despite the powerful build, Staffords are medium-sized — males 24–38 lbs and 14–16 inches at the shoulder. The body is square and well-muscled without being bulky. Colors include red, fawn, white, black, blue, brindle, and any combination with white. The short, smooth coat is the breed's groomi"
+  },
+  {
+    "slug": "standard-poodle",
+    "name": "Standard Poodle",
+    "group": "Non-Sporting Group",
+    "appearance": "Elegant and athletic, weighing 40–70 lbs and standing over 15 inches (the AKC standard simply requires over 15 inches; most Standards are 22–27 inches at the shoulder). The build is square, well-muscled, and built for movement — they move with a light, springy gait that reflects their athletic heritage. The single curly coat is the defining feature: dense, thick, and virtually non-shedding. Colors"
+  },
+  {
+    "slug": "tibetan-mastiff",
+    "name": "Tibetan Mastiff",
+    "group": "Working",
+    "appearance": "The Tibetan Mastiff's appearance is nothing short of majestic. The breed's most immediately striking feature is its thick, heavy double coat, which is especially pronounced around the neck and shoulders forming a dramatic mane. The topcoat is coarse and straight, while the undercoat is dense and woolly — an evolutionary adaptation to the brutal Himalayan winters. Acceptable coat colors include bla"
+  },
+  {
+    "slug": "vizsla",
+    "name": "Vizsla",
+    "group": "Sporting Group",
+    "appearance": "Lean, muscular, and elegant. Females weigh 44–55 lbs; males 55–65 lbs. Height 21–24 inches. The build is athletic and light-boned for the size — Vizslas look and move like athletes. The coat is the breed's most distinctive feature: short, dense, and a uniform rust or golden-rust color with no markings. The eyes, nose, and nails match the coat color in the ideal specimen — the whole dog is the same"
+  },
+  {
+    "slug": "weimaraner",
+    "name": "Weimaraner",
+    "group": "Sporting Group",
+    "appearance": "Large and athletic, with a lean but muscular build. Females weigh 55–75 lbs; males 70–90 lbs. Height 23–27 inches — the Weimaraner is a distinctly tall dog. The build is elegant and powerful, built for sustained work over varied terrain. The short, smooth, sleek coat is gray in all shades from charcoal to silver-gray to mouse-gray — no other color is acceptable in the standard. The eyes are pale a"
+  },
+  {
+    "slug": "welsh-springer-spaniel",
+    "name": "Welsh Springer Spaniel",
+    "group": "Sporting Group",
+    "appearance": "Medium-sized and compact — 35–55 lbs, 17–19 inches at the shoulder. The red-and-white coat is the defining visual characteristic: a rich, dark red (not orange or chestnut — truly red) against a white base. No other color combination is correct for the breed. The coat is silky in texture, flat or slightly wavy, with feathering on the ears, chest, belly, and legs. It provides good weather protection"
+  },
+  {
+    "slug": "west-highland-white-terrier",
+    "name": "West Highland White Terrier",
+    "group": "Terrier Group",
+    "appearance": "A compact, well-balanced small terrier. Males weigh 15–22 lbs and stand 11 inches; females slightly lighter at 10 inches. The coat is always white — a hard, dense outer coat over a soft undercoat, giving the breed a characteristic full-face appearance with the mane of white around the head. The carrot-shaped tail carried upright, erect ears, and round, dark eyes give the Westie a bright, alert exp"
+  },
+  {
+    "slug": "whippet",
+    "name": "Whippet",
+    "group": "Hound Group",
+    "appearance": "Whippets are lean, elegant, and aerodynamically shaped — a narrow head, long neck, deep chest, dramatically tucked abdomen, and long muscular hindquarters that provide their explosive acceleration. They weigh 25–40 lbs but look lighter because of how their weight distributes across a long, lean frame. Like Greyhounds, they have very little body fat. The coat is short, smooth, and requires essentia"
+  },
+  {
+    "slug": "wirehaired-pointing-griffon",
+    "name": "Wirehaired Pointing Griffon",
+    "group": "Sporting Group",
+    "appearance": "Medium to large build — 35–70 lbs with a significant size variation, 20–24 inches at the shoulder. The body is strong and athletic, built for endurance rather than pure speed. The face is framed by a distinctive bushy mustache and eyebrows that are characteristic of the breed. The double coat consists of a harsh, wiry outer coat and a thick undercoat. Steel gray with brown markings is the classic "
+  },
+  {
+    "slug": "yorkshire-terrier",
+    "name": "Yorkshire Terrier",
+    "group": "Toy Group",
+    "appearance": "Small and compact, weighing up to 7 lbs (typically 4–7 lbs) with a height of 7–8 inches. The defining feature is the coat — a fine, straight, silky texture that more closely resembles human hair than typical dog fur. The adult show coat is steel blue on the body and rich tan on the head, chest, and legs. The texture means Yorkies are low-shedding — making them one of the more allergy-friendly toy "
+  }
+]

@@ -5,39 +5,40 @@
     "shopify_handle": "golden-retriever-puppy-checklist",
     "group": "Golden Retriever",
     "size_category": "Guide",
-    "tags": ["golden-retriever", "puppy", "checklist", "new-owner", "preparation"],
+    "tags": [
+      "golden-retriever",
+      "puppy",
+      "checklist",
+      "new-owner",
+      "preparation"
+    ],
     "published": true,
     "excerpt": "Everything you need before your Golden Retriever puppy comes home — including the things nobody thinks to mention until it's too late.",
     "meta_description": "Golden Retriever puppy checklist: supplies, vet prep, home setup, and the first-week plan. What to have ready before your puppy arrives."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Golden_Retriever_Puppy.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy.png?v=1777501474",
       "alt": "Golden Retriever puppy"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before They Arrive",
       "heading": "What to Have Ready Before Your Puppy Comes Home",
       "html": "<p>The first 48 hours with a new puppy are chaotic regardless of how prepared you are. The goal of this checklist isn't to eliminate the chaos — it's to make sure you're not running to a pet store at 11pm because you forgot something basic.</p><p>This list is specific to Golden Retrievers — a large breed that sheds heavily, mouths everything, and grows from 10 lbs to 70 lbs faster than you expect.</p>"
     },
-
     "care": {
       "label": "The Full List",
       "heading": "Supplies Checklist",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Containment & Sleep</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Large crate with divider</strong> — buy adult size from day one; the divider makes it puppy-sized now</li><li><strong style=\"color:#1a1a1a;\">Durable dog bed</strong> — expect it to get chewed; don't buy expensive until they're past the chewing phase (~12 months)</li><li><strong style=\"color:#1a1a1a;\">X-pen or baby gates</strong> — essential for controlling puppy access to the house during the first months</li></ul><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Feeding</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Stainless steel bowls</strong> (2) — one for food, one for water; easier to clean than plastic, don't harbor bacteria</li><li><strong style=\"color:#1a1a1a;\">Large-breed puppy food</strong> — ask your breeder what they've been feeding; transition slowly over 7–10 days to avoid stomach upset</li><li><strong style=\"color:#1a1a1a;\">Slow feeder bowl</strong> — Goldens eat fast; a slow feeder reduces bloat risk from day one</li></ul><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Collar, Leash & ID</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Flat collar</strong> — sized for a puppy neck (usually 10–14 inches); you'll replace this within weeks as they grow</li><li><strong style=\"color:#1a1a1a;\">6-foot leash</strong> — standard for training; avoid retractable leashes for puppies</li><li><strong style=\"color:#1a1a1a;\">ID tag</strong> — with your phone number; have this ready before the puppy arrives, not after</li><li><strong style=\"color:#1a1a1a;\">Harness (optional)</strong> — useful once they start pulling; wait until 12–16 weeks when sizing stabilizes</li></ul><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Slicker brush</strong> — start brushing from week one so they get used to it before the adult coat comes in</li><li><strong style=\"color:#1a1a1a;\">Puppy shampoo</strong> — gentle formula; you'll bathe them more often than you expect in the first months</li><li><strong style=\"color:#1a1a1a;\">Ear cleaning solution</strong> — floppy ears trap moisture; weekly checks start immediately</li><li><strong style=\"color:#1a1a1a;\">Nail clippers or grinder</strong> — start handling paws from day one even if you're not trimming yet</li></ul><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Toys</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Kong (medium/large)</strong> — freeze with peanut butter or kibble; invaluable for crate training and settling</li><li><strong style=\"color:#1a1a1a;\">Rope toy</strong> — durable; doubles as tug and fetch toy</li><li><strong style=\"color:#1a1a1a;\">Nylabone or bully stick</strong> — for teething; reduces furniture chewing significantly</li><li><strong style=\"color:#1a1a1a;\">Soft plush toy</strong> — they will destroy it, but puppies need something to carry around</li></ul><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Health & Safety</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Vet appointment booked</strong> — within the first 3 days; confirm vaccine records from breeder</li><li><strong style=\"color:#1a1a1a;\">Pet insurance applied for</strong> — before the first vet visit, not after</li><li><strong style=\"color:#1a1a1a;\">Enzyme cleaner</strong> — for accidents; regular cleaners don't remove the scent that draws puppies back to the same spot</li><li><strong style=\"color:#1a1a1a;\">Puppy-proofed space</strong> — electrical cords secured, toxic plants removed, small objects off the floor</li></ul>"
     },
-
     "special": {
       "label": "First Week",
       "heading": "The First Week Plan",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Day 1–2: Keep It Calm</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Resist the urge to show the puppy everything immediately. Let them explore one room at a time. Keep the household quieter than normal. The first night in a crate will likely involve crying — this is normal and it passes within 3–5 nights if you're consistent.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Day 3: First Vet Visit</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Bring all health records from the breeder. Confirm the vaccine schedule. Ask about flea/tick/heartworm prevention appropriate for their current age. This is also when you confirm microchip registration if the breeder already chipped them.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Week 1: Establish the Routine</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 10px 0;\">Puppies learn from pattern. The routine you establish in week one becomes the baseline. Start as you mean to go on:</p><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 16px 0;\"><li>Take them outside immediately after waking, after eating, and after play</li><li>Use the crate for naps and night — don't start with free roam and restrict later</li><li>Begin name recognition and sit on day one — Goldens respond fast</li><li>Handle paws, ears, and mouth daily even when not grooming; this builds tolerance for vet exams</li></ul><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">The One Thing Most New Owners Get Wrong</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They let the puppy sleep in the bed on night one because the crate crying feels cruel. Then a month later they have a 25-lb puppy who won't sleep anywhere else and the transition to the crate is 10x harder. Decide where the dog is sleeping long-term before night one and start there.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What food should I start my Golden puppy on?",

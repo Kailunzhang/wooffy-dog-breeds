@@ -1,0 +1,893 @@
+{
+  "labrador-retriever": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_e3c0700d-6ca9-45fd-92e1-af74cf11084b.png?v=1777525188",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_efa5744d-5005-4fc1-82b0-7ff901cc3761.png?v=1777525192",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_c3b2bba6-bb63-4c29-977c-04d5e38fd98b.png?v=1777525196",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7c63b60e-550b-4098-8420-ddb6dd4d1460.png?v=1777525201"
+    },
+    "stage1_at": "2026-04-30T05:00:02Z"
+  },
+  "afghan-hound": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_479a1968-d14b-4b6b-8c7e-22bb6abae860.png?v=1777525282",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_f9650e44-375a-4035-ab8e-d496d5fab2a2.png?v=1777525286",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_84b10545-e15c-4868-835f-8cb41bcad2ee.png?v=1777525291",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_8c7c0795-3e3e-4587-8ab5-57b432ae6433.png?v=1777525294"
+    },
+    "stage1_at": "2026-04-30T05:01:36Z"
+  },
+  "akita": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_6e8ef3dc-4a7e-4fa9-8b00-db46a462df39.png?v=1777525338",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_00170be3-f1e9-467f-b5c3-3e9b48afea0f.png?v=1777525342",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_a5814d1c-391b-4c4a-9fcd-c0d7cfe7f2de.png?v=1777525346",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ee0fb262-e35a-4dce-a339-4f487fa0378a.png?v=1777525351"
+    },
+    "stage1_at": "2026-04-30T05:02:34Z"
+  },
+  "alaskan-malamute": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_f0b6359e-0d39-4bb6-8e7f-b22da92fd304.png?v=1777525396",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_c2468f99-3431-44d5-a306-7795636ca600.png?v=1777525401",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_4539c826-12e8-48ac-85c3-81116e76368f.png?v=1777525405",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_0b856902-96d7-4f91-b56e-5401c51d6f4d.png?v=1777525411"
+    },
+    "stage1_at": "2026-04-30T05:03:33Z"
+  },
+  "american-foxhound": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_cff042db-8d3e-4c21-8ec5-121761411a34.png?v=1777525452",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_e2649a1b-f7fc-4475-b6d0-563bfa97faae.png?v=1777525456",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2fc78a56-3723-40a8-8358-ff13d928db41.png?v=1777525460",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_b32f4505-b5ef-4714-90a7-1068f68b8dfc.png?v=1777525464"
+    },
+    "stage1_at": "2026-04-30T05:04:25Z"
+  },
+  "american-staffordshire-terrier": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_ed231c43-3909-4f9d-92c0-f42efeba6f06.png?v=1777525503",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ec9dfda1-e6fb-4fcf-af3c-bc08ed6e8132.png?v=1777525507",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_155894d8-4a86-4e12-97fb-f6859073cff9.png?v=1777525512",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_88ced3b6-9285-4c16-8f92-ebfe15a452ab.png?v=1777525517"
+    },
+    "stage1_at": "2026-04-30T05:05:18Z"
+  },
+  "american-water-spaniel": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_f5e2e6f0-ca1b-42fc-b424-a8d624893ff1.png?v=1777525564",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_8baba605-6623-4593-8920-2e62850129e1.png?v=1777525568",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_f96f44e3-940e-4b16-a890-10c0f49e4626.png?v=1777525573",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_726c7dee-58e1-4acb-9c8c-0459aef2f5b5.png?v=1777525576"
+    },
+    "stage1_at": "2026-04-30T05:06:17Z"
+  },
+  "anatolian-shepherd-dog": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0ededdf8-9dfe-4799-b2af-498901eb3794.png?v=1777525616",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_61e347bd-a5d5-4379-b7e1-388043c41fdb.png?v=1777525620",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_f66fa50f-0494-4bfb-8a27-af62fce357b7.png?v=1777525624",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_49b02e57-30a6-401c-bf9e-3c613bccab9c.png?v=1777525628"
+    },
+    "stage1_at": "2026-04-30T05:07:09Z"
+  },
+  "australian-cattle-dog": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ea997743-c0df-4bea-a49d-59c778b017b4.png?v=1777525667",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_4f3b9277-3895-4187-86e7-0d9efead4f9c.png?v=1777525671",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_cc75145b-7ba6-40f0-ac69-f3bcf600600a.png?v=1777525677",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_ab7114a8-592d-4e44-983c-19a1adfb78e7.png?v=1777525683"
+    },
+    "stage1_at": "2026-04-30T05:08:04Z"
+  },
+  "australian-shepherd": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_69ce4fac-1bcf-40b3-b533-83b3e964f661.png?v=1777525718",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_077f2c33-42cd-4e2c-8294-6156aea935c4.png?v=1777525722",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7753dd6a-9241-4142-a0bf-9055aea33377.png?v=1777525727",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9e4e5374-0dad-4492-b957-70a04972f149.png?v=1777525731"
+    },
+    "stage1_at": "2026-04-30T05:08:52Z"
+  },
+  "basenji": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_dc5c7381-4912-4ca0-a39e-7e9a98283b47.png?v=1777525776",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_cdadf8fb-655e-433d-95f8-56677ecee158.png?v=1777525780",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_5fc378e4-b125-48d9-9f5f-18db12d0337c.png?v=1777525785",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_092d7c6d-b1e9-49a6-8b9b-95d81ace075c.png?v=1777525789"
+    },
+    "stage1_at": "2026-04-30T05:09:49Z"
+  },
+  "basset-hound": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_e22885d1-f0b6-4cac-9bc1-16e4acc280c0.png?v=1777525832",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_2b3f39be-df2f-43a2-941a-b64b71c9b235.png?v=1777525836",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_54e63a09-bd39-4448-b010-a92e84eca909.png?v=1777525840",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_26c6970a-66bc-4d75-aaa9-9d787148ee30.png?v=1777525844"
+    },
+    "stage1_at": "2026-04-30T05:10:45Z"
+  },
+  "beagle": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_1f8743a3-f660-48cf-baa3-16d520b4b946.png?v=1777525883",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_cd2e0ed8-7697-424a-bee7-07178bcc18b9.png?v=1777525887",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_f8549465-d51e-4f40-9831-f45f895f4366.png?v=1777525891",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_552db3a7-6b70-44b5-b6a1-6754d7626f28.png?v=1777525897"
+    },
+    "stage1_at": "2026-04-30T05:11:37Z"
+  },
+  "belgian-malinois": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_3237c65a-bd1b-47e6-8179-821e24d8f5f7.png?v=1777525940",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_d709838a-965d-4f42-ac9e-422a7f0ae3b0.png?v=1777525945",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_2d416c12-19b7-4c39-bf14-1e001dcb4371.png?v=1777525948",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0e579954-eb2b-4dba-9d15-b9737ecd2c66.png?v=1777525953"
+    },
+    "stage1_at": "2026-04-30T05:12:34Z"
+  },
+  "bernese-mountain-dog": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0426dc0f-4b40-45d0-9c1a-4d1341fab1a1.png?v=1777525992",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_01f661b3-c2b3-42f0-9aeb-1911f8fab3ee.png?v=1777525996",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_1d6750d2-a423-4af9-922f-3e7e1a5d18bd.png?v=1777526000",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_9ad49b14-3bd4-4ddc-86fc-1e48707d2a97.png?v=1777526005"
+    },
+    "stage1_at": "2026-04-30T05:13:26Z"
+  },
+  "bichon-frise": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_b93e665a-b4dd-45c0-ac04-48ec3df0ef15.png?v=1777526044",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_948153b3-bff2-4483-9ec6-49a876cce4c2.png?v=1777526048",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5e1f512b-d6ac-47d6-917c-08ee66ac22e1.png?v=1777526053",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_f18b1943-860f-4cfb-8293-6c8f35589d8b.png?v=1777526057"
+    },
+    "stage1_at": "2026-04-30T05:14:18Z"
+  },
+  "black-and-tan-coonhound": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_1b08492a-22f9-4b64-9139-4755524f5cd8.png?v=1777526097",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_7fde5db9-f8ff-4f8f-8d06-1c3a92888230.png?v=1777526101",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2106b5ed-92bd-4537-980d-db1585fbe023.png?v=1777526105",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_20df211f-645f-48d8-a1ac-10a91b743de7.png?v=1777526109"
+    },
+    "stage1_at": "2026-04-30T05:15:10Z"
+  },
+  "bloodhound": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_1ce707f9-0626-409c-a102-538077c3c368.png?v=1777526153",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_aa1835c8-7de1-441d-b40c-cf7b1333a196.png?v=1777526157",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2cbbc3fb-3072-43db-b2de-37a3f6da0199.png?v=1777526161",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0cb8f8a0-206c-4165-9c20-bbf3e69f6203.png?v=1777526165"
+    },
+    "stage1_at": "2026-04-30T05:16:06Z"
+  },
+  "bluetick-coonhound": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_c77aacbd-add2-43b7-a2f7-6e90c2b6d770.png?v=1777526213",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_d7ad1d9c-ed36-4e4a-8814-84e50758a535.png?v=1777526217",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_f3152e3d-fcb8-4b90-bf84-46fcd8fc5e6c.png?v=1777526221",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_1295de24-c1a2-4dd0-8a70-102cc852d37c.png?v=1777526225"
+    },
+    "stage1_at": "2026-04-30T05:17:06Z"
+  },
+  "border-collie": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7c081500-5dfe-4184-9df2-86e658ca4f95.png?v=1777526265",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_9c1274b3-2b43-4534-b440-e6f58dab74f5.png?v=1777526272",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9a410929-830b-4320-8899-de38f2e135ba.png?v=1777526279",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_780d4102-99e6-4519-8057-b803e653fa3c.png?v=1777526283"
+    },
+    "stage1_at": "2026-04-30T05:18:04Z"
+  },
+  "borzoi": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_eb7a44fc-0142-4df3-810d-383559c9245a.png?v=1777526327",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4aa8ac13-c87a-44a5-bdaa-1da8ecf32280.png?v=1777526331",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_01140674-e202-4622-a511-c08c4a3e1d1e.png?v=1777526335",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_90df2c92-5ea6-4e12-a81b-69b5e32b9b17.png?v=1777526339"
+    },
+    "stage1_at": "2026-04-30T05:19:00Z"
+  },
+  "boston-terrier": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_a5ebbb6e-1805-4675-a32a-869b11de6c1a.png?v=1777526382",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_211ddfce-9466-4ef7-9c24-8cd84f9f12ab.png?v=1777526386",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_3d63e939-2d2f-4614-8541-7dd86e20caa3.png?v=1777526391",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0ad0f85d-efd1-45f4-93b1-c23d629404aa.png?v=1777526395"
+    },
+    "stage1_at": "2026-04-30T05:19:55Z"
+  },
+  "boxer": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_16bc1e25-af0c-4b70-91dc-28a654119c49.png?v=1777526434",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_309fd0a5-c5ad-472f-81a2-bac274cf0f87.png?v=1777526437",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5e1c80c5-35c3-4093-b173-fa31b7afd15e.png?v=1777526442",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_59c4ff77-5586-4355-8f07-9e9becc3ac41.png?v=1777526446"
+    },
+    "stage1_at": "2026-04-30T05:20:47Z"
+  },
+  "brittany": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_18d9b30e-b93c-49e7-ae9e-f3b653c64e2c.png?v=1777526485",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_bab7baa5-718b-482d-a3fa-38509feb2f72.png?v=1777526489",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_6d25c435-99b8-469f-bfc4-1a85a4cfc5a2.png?v=1777526493",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_dd81bca7-be8f-4369-adcc-c3544bb4ee6e.png?v=1777526498"
+    },
+    "stage1_at": "2026-04-30T05:21:38Z"
+  },
+  "bull-terrier": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9949d5b0-463a-40ba-863c-fb234445afe5.png?v=1777526557",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_44361309-4d3b-4dc4-8b1c-e13564d7af43.png?v=1777526564",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_97e20d92-69d3-4b9a-b35d-a24d80de0cc7.png?v=1777526568",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_99652124-ae2f-4aa1-91b9-8f1e9593eac3.png?v=1777526572"
+    },
+    "stage1_at": "2026-04-30T05:22:53Z"
+  },
+  "bulldog": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_f14dc488-246c-4fb5-bc6b-a5733de91395.png?v=1777526620",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_e7a6da94-7077-4311-be34-3f0a12b7c663.png?v=1777526623",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_f51d76bc-d770-4c99-842e-84f91a4533b9.png?v=1777526627",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7c8a2a6c-4dc2-4af7-95db-8b521325b7cc.png?v=1777526632"
+    },
+    "stage1_at": "2026-04-30T05:23:52Z"
+  },
+  "bullmastiff": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_78f00a52-9f05-4d26-aa22-82fbd2c993fc.png?v=1777526679",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_ef89720d-ee2c-4a06-88f3-981543f8d43f.png?v=1777526683",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_94503020-20eb-4f46-98bd-cfcdac719341.png?v=1777526687",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_4ef0f318-e067-4a32-942d-24c70d5e75f3.png?v=1777526691"
+    },
+    "stage1_at": "2026-04-30T05:24:52Z"
+  },
+  "cane-corso": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_edfd923f-408d-46a7-9da6-e7be2c0c6d84.png?v=1777526732",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_d1cc08a3-cbb8-47b1-b4dc-d566259a309f.png?v=1777526736",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_e919f595-5043-4a55-b147-1e0eb457d7d4.png?v=1777526740",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_a2be4a93-3f7b-426b-8d3c-a5f464aadf24.png?v=1777526745"
+    },
+    "stage1_at": "2026-04-30T05:25:45Z"
+  },
+  "cardigan-welsh-corgi": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_5fae695a-eeae-424b-88d1-045808f5da85.png?v=1777526784",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_58994fe0-29ef-4a40-a92a-d91d994e25c7.png?v=1777526788",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_e68fcfef-39a1-4be8-b56b-ce5774fbc56c.png?v=1777526792",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_8249ad7e-70ce-44a2-9772-2f867f78be14.png?v=1777526796"
+    },
+    "stage1_at": "2026-04-30T05:26:37Z"
+  },
+  "cavalier-king-charles-spaniel": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_bee4b025-da9e-4aa9-9a26-6433d8a60c59.png?v=1777526840",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3df4e2c2-cc12-4e1b-91e2-b41b8d27602a.png?v=1777526844",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_d1ba6810-7897-445c-be18-22fb7cca7a2a.png?v=1777526848",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_237ac07a-28be-4e01-9f5b-97745a663b21.png?v=1777526852"
+    },
+    "stage1_at": "2026-04-30T05:27:33Z"
+  },
+  "chesapeake-bay-retriever": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_7e8c2017-f87c-4d5d-8229-97b89188fe58.png?v=1777526895",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2c4fd2e0-59e3-449d-a8b1-efd618a66015.png?v=1777526899",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_cded4db8-ceaf-4932-b4cb-72b549d699b4.png?v=1777526903",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_fba68748-5a84-449a-810d-569153cd3cb0.png?v=1777526907"
+    },
+    "stage1_at": "2026-04-30T05:28:28Z"
+  },
+  "chihuahua": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_d2243a89-c43d-4a2d-979d-1b6ccab8420b.png?v=1777526954",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_e928c93e-cec5-418d-8f55-7082c41b43f1.png?v=1777526958",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_77ee0376-e485-438a-82b4-3eb9b9088b95.png?v=1777526962",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_021a2bff-ebf2-48a3-921b-2e72f1dff825.png?v=1777526966"
+    },
+    "stage1_at": "2026-04-30T05:29:27Z"
+  },
+  "chow-chow": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_d78e47bf-4f7f-4f57-8b8c-a5c43d51f4b1.png?v=1777527015",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_643a450a-f3e7-441c-9b64-e0f1b807e88e.png?v=1777527019",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_474f3127-c41c-400d-a9af-95b789cab9fa.png?v=1777527023",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_ac8c33b0-b761-466f-8738-bf5e3bf03981.png?v=1777527027"
+    },
+    "stage1_at": "2026-04-30T05:30:28Z"
+  },
+  "clumber-spaniel": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_6c699628-770e-47ab-b611-fb62f341aa7d.png?v=1777527066",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_d5810c55-fd3e-4d7e-a457-71683669c426.png?v=1777527070",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_c0dd057a-720e-4af8-b662-a1c5ac8a34fc.png?v=1777527074",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_b1217ba3-385d-4535-a293-52af132693e0.png?v=1777527078"
+    },
+    "stage1_at": "2026-04-30T05:31:19Z"
+  },
+  "cocker-spaniel": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_8d2b0961-310b-46c9-8007-d7eaf0a829ee.png?v=1777527118",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_88e49288-8f02-472f-9c83-b043a5fef045.png?v=1777527122",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_b8c4de2f-b295-4763-b8d0-ae253c2f8cf7.png?v=1777527127",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_a335769b-15ac-4d4d-9d45-4e6a438eceef.png?v=1777527132"
+    },
+    "stage1_at": "2026-04-30T05:32:14Z"
+  },
+  "collie": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_cfaeb703-e301-4c31-810b-d3e7c267396e.png?v=1777527180",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_73b173b0-fc1d-4010-b281-2c871c38e70f.png?v=1777527185",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_1e0b7705-cffc-4eb2-b5b2-6beecc042d75.png?v=1777527191",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_a27d6335-361b-49c3-8f64-3d8435ecbf34.png?v=1777527195"
+    },
+    "stage1_at": "2026-04-30T05:33:16Z"
+  },
+  "dachshund": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_aa1829c6-4c6b-4e70-926f-b4049c772fa7.png?v=1777527337",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2c099c3d-5ab7-4d61-b69a-dfae3db32d87.png?v=1777527343",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_b8a58f3c-5e59-4285-91ac-1b0f1094384c.png?v=1777527347",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ce46c8bc-b939-4ede-b628-578b288e1873.png?v=1777527351"
+    },
+    "stage1_at": "2026-04-30T05:35:52Z"
+  },
+  "dalmatian": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_33b3c678-2d5b-4dcb-945b-98216f9f317e.png?v=1777527386",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_00d204b4-775f-4856-bfcd-f41d4dca5955.png?v=1777527390",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_697c79f5-1fb0-455a-9a4b-41a51d3735d5.png?v=1777527394",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9cc74a57-5f35-4e5a-bb1e-e2fcfe480fb6.png?v=1777527398"
+    },
+    "stage1_at": "2026-04-30T05:36:39Z"
+  },
+  "doberman-pinscher": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2f8c8919-427f-455e-8143-cbfeac064f62.png?v=1777527453",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_c6aaff3a-169f-4c83-9ad0-87c46837fda0.png?v=1777527458",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_d885fbb7-c59f-48c3-9db3-22928b345d9a.png?v=1777527461",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_7c68cb65-68ac-4400-b300-2dda63f02423.png?v=1777527466"
+    },
+    "stage1_at": "2026-04-30T05:37:47Z"
+  },
+  "dogue-de-bordeaux": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ad1787fa-e694-4471-8262-f06403432b09.png?v=1777527518",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_a431608e-800c-41ff-beb9-54880df928f3.png?v=1777527522",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_05ae2691-4f9b-45f2-ac79-6ce1c7932842.png?v=1777527526",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_20f7001c-6003-42fa-9b86-ebf622090e5f.png?v=1777527530"
+    },
+    "stage1_at": "2026-04-30T05:38:50Z"
+  },
+  "english-cocker-spaniel": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4c9d50c7-030a-4462-b979-dc58f00b4bd1.png?v=1777527567",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_2461b230-ee4e-403d-aa76-9bf741fc0c47.png?v=1777527572",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_214ec750-e929-430a-aab3-f32dd51825f4.png?v=1777527575",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_a416cf15-853c-44f7-99a3-9fa16f5dbd67.png?v=1777527579"
+    },
+    "stage1_at": "2026-04-30T05:39:41Z"
+  },
+  "english-setter": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_ca6c019f-afe7-4181-b2b7-55c0cb2d2ab7.png?v=1777527619",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_c936c311-6ec1-4463-8568-aa682f1befc9.png?v=1777527623",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_274e78dd-8d46-458a-a88a-5699e579e0c3.png?v=1777527627",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_411a2fbf-2ee4-4165-8dbf-822c209f8013.png?v=1777527631"
+    },
+    "stage1_at": "2026-04-30T05:40:32Z"
+  },
+  "english-springer-spaniel": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_3dd7d080-1c38-4f40-b4d9-96c49f8c2b47.png?v=1777527666",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_dd754de0-1b56-450d-a80b-1df73ff7e43b.png?v=1777527670",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_c9735e2d-7d75-4635-b43f-8b1209c26568.png?v=1777527674",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_3cd22993-dc9a-405c-9658-963589b202a2.png?v=1777527678"
+    },
+    "stage1_at": "2026-04-30T05:41:19Z"
+  },
+  "field-spaniel": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_a2f261d5-37c8-465f-8f85-0397316229cc.png?v=1777527722",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_7c80703f-8263-4232-85a8-d7a649e3daab.png?v=1777527726",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_493a5673-5bcb-4fc3-bf96-a4d276d60ef4.png?v=1777527730",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5e2fb721-e817-49e7-a929-02c31001507b.png?v=1777527734"
+    },
+    "stage1_at": "2026-04-30T05:42:15Z"
+  },
+  "flat-coated-retriever": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_c3afd20a-77e4-4942-938b-cca8443d3901.png?v=1777527782",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_23b97603-8d4a-4abb-8e99-a99297ce4915.png?v=1777527786",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_6a125a81-22d7-445e-8a92-d53a4e73161f.png?v=1777527790",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_e6b0ece5-1f33-4c87-b62f-1200d5279cfe.png?v=1777527794"
+    },
+    "stage1_at": "2026-04-30T05:43:15Z"
+  },
+  "french-bulldog": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_068ce089-4e3f-4288-83c9-1f4b5a03d6a2.png?v=1777527842",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_c2a9c8f0-e88e-4f8e-8dae-c1c44cd64d2e.png?v=1777527846",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_161a47a1-305d-4416-97ab-d3764478c6ee.png?v=1777527850",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_89bf4fb0-c41c-4cfc-b343-24d56263e5ee.png?v=1777527854"
+    },
+    "stage1_at": "2026-04-30T05:44:15Z"
+  },
+  "german-pinscher": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_3df9e25e-7ff0-486b-bfea-ed689aac6c8e.png?v=1777527902",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_fd617a5c-9a28-4b10-9061-72bdef98ef12.png?v=1777527909",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_cf9bbdc9-6798-465e-ad01-f44575c14598.png?v=1777527912",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_8202e18c-56d8-4ca2-b642-a57b97f3d5e0.png?v=1777527917"
+    },
+    "stage1_at": "2026-04-30T05:45:18Z"
+  },
+  "german-shepherd-dog": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_c8031b77-c2cb-4912-994a-a8d6a7c8b024.png?v=1777527964",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_163788f4-b5e7-44f1-94a2-300e46b5d25b.png?v=1777527969",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_4913c9fd-0fff-41cb-b279-002dffc098d7.png?v=1777527972",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_a9b25137-81db-4050-9464-e8235f6286d4.png?v=1777527977"
+    },
+    "stage1_at": "2026-04-30T05:46:17Z"
+  },
+  "german-shorthaired-pointer": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_bff6a82c-e2e0-4472-8789-b27b867d50e9.png?v=1777528016",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3219856b-489b-4482-b1bc-8f2d55ca47e1.png?v=1777528021",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_7796059b-c83b-488b-9490-1870e4064608.png?v=1777528024",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_56aa98e8-77ad-4b4a-98fe-00e7770f4bde.png?v=1777528028"
+    },
+    "stage1_at": "2026-04-30T05:47:09Z"
+  },
+  "german-wirehaired-pointer": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_a88de939-5a7d-470a-b578-01c724d00e13.png?v=1777528080",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_ea2fcfdd-1a2d-431f-9b6a-37c5f3a48439.png?v=1777528084",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_ec6a0313-2d1a-4a62-b8e5-8284db180e86.png?v=1777528088",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_36225727-bf1b-4d32-ba08-8ca6f3b2370f.png?v=1777528092"
+    },
+    "stage1_at": "2026-04-30T05:48:13Z"
+  },
+  "golden-retriever": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_65a18f71-5e44-4fee-9e54-a166388b9626.png?v=1777528136",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_4a8502ef-6822-495f-8191-78478e59cd4d.png?v=1777528140",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_7c16da00-47ff-402a-86a4-b868b17db4fa.png?v=1777528144",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_b80e20ff-34da-4255-b6b4-44b083c560b6.png?v=1777528148"
+    },
+    "stage1_at": "2026-04-30T05:49:09Z"
+  },
+  "gordon-setter": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_0ecdabae-1ec4-4afb-a7ce-ac6a4a0bf622.png?v=1777528191",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_e67ac4d3-5ec9-4dee-9785-563e9cfe85ef.png?v=1777528195",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_cbe447b8-08a9-4649-9643-d7f0d661bb61.png?v=1777528199",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3563d2c1-070d-4ac8-9966-2372badd3b05.png?v=1777528203"
+    },
+    "stage1_at": "2026-04-30T05:50:04Z"
+  },
+  "great-dane": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_376c3b21-4114-4bdf-bec6-0b6d1af0f223.png?v=1777528247",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_6fb2bf9a-3794-4ab1-b413-a8f801886afb.png?v=1777528251",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_c4103480-4b64-47f9-a2b4-17afae164b4c.png?v=1777528255",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_57f64e6e-d1ef-43af-aede-c8bf53d050ad.png?v=1777528259"
+    },
+    "stage1_at": "2026-04-30T05:51:00Z"
+  },
+  "great-pyrenees": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_644fb722-4fa1-4b46-92e3-3a827d8ee2f1.png?v=1777528298",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_877259ac-3123-45e6-bb79-1eba9701c329.png?v=1777528302",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_fc60fab5-341d-4502-b606-b0f3110699a2.png?v=1777528307",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_528b585a-a83a-471e-8cc5-ec9a1c41e019.png?v=1777528311"
+    },
+    "stage1_at": "2026-04-30T05:51:52Z"
+  },
+  "greyhound": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_b5be0fdb-1a28-4989-b649-600db4708dfd.png?v=1777528354",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_4f40370b-1e9f-47f5-8a84-ff8687cefbb1.png?v=1777528358",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_593b4ac7-d86e-4e88-9234-ac1b5b72d650.png?v=1777528362",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_73baf366-5417-4767-bdb1-ee131a2c561a.png?v=1777528366"
+    },
+    "stage1_at": "2026-04-30T05:52:47Z"
+  },
+  "harrier": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_ce085731-cc46-4ec6-bb4d-c540fb40ca80.png?v=1777528410",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_f6a901df-09b6-441f-9352-85aec909c7e0.png?v=1777528415",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_10e5a447-451c-412e-8aaa-f201d9056372.png?v=1777528419",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_d18de9ac-fb41-4939-878f-67f6075ef702.png?v=1777528423"
+    },
+    "stage1_at": "2026-04-30T05:53:44Z"
+  },
+  "havanese": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_f6019699-c40d-41ac-855b-aa15e135b366.png?v=1777528467",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_f72f8e40-110a-4de9-87b4-f588fc4ffaf9.png?v=1777528471",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_133e6ce8-c3a3-4254-8b36-1c75461c05f1.png?v=1777528479",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_5d323592-4bfb-47e8-a333-f36eca5219c2.png?v=1777528483"
+    },
+    "stage1_at": "2026-04-30T05:54:44Z"
+  },
+  "ibizan-hound": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_89e9a958-d5b8-4907-8957-3c83e2d034e2.png?v=1777528522",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_0e2ad79a-4c47-40f7-b4b3-595e8bf95532.png?v=1777528526",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5b57dde3-8c70-4e04-bdc9-805df3f40e49.png?v=1777528531",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_6d0784c6-e7cc-4d23-9efd-1bdd6d06a46b.png?v=1777528535"
+    },
+    "stage1_at": "2026-04-30T05:55:35Z"
+  },
+  "irish-setter": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_037c3b3d-0d13-4bdb-a432-2df998c73574.png?v=1777528577",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_99a4b29d-eb59-40be-9fcd-ff3c068086cb.png?v=1777528582",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ea6c9cb9-aa89-42ee-8bd9-dd1d808eeb2e.png?v=1777528586",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_6a616634-e6ba-46a2-95f4-35ea7c48dab5.png?v=1777528590"
+    },
+    "stage1_at": "2026-04-30T05:56:31Z"
+  },
+  "irish-water-spaniel": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_dfd0cda5-a8d3-4390-a68f-caf3fd1bec4f.png?v=1777528633",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_44fb6306-1333-406c-8d9f-2d864be6c096.png?v=1777528638",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_76ea5106-cd7e-4fff-ba6b-ae171655f167.png?v=1777528642",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_8c5da6b5-da35-4b5f-bc6a-7809d5d526e1.png?v=1777528646"
+    },
+    "stage1_at": "2026-04-30T05:57:27Z"
+  },
+  "irish-wolfhound": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3076f48e-d5ba-4da3-9a2f-17ed49790aaf.png?v=1777528685",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_7a759a87-36cc-4392-93a8-af1660046925.png?v=1777528689",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_3d58dedd-8ebc-466e-9a01-d5594a4ba4cc.png?v=1777528693",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_2bc05047-9e89-42d7-b138-d38208277f2d.png?v=1777528697"
+    },
+    "stage1_at": "2026-04-30T05:58:18Z"
+  },
+  "italian-greyhound": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_0218d0f1-8a7c-4ba6-ab19-518816930d3b.png?v=1777528736",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2742dc64-a83d-4267-88eb-6d931d5b95eb.png?v=1777528740",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_1154f02a-21b5-41a6-b9af-4b77277d338e.png?v=1777528745",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_4cd43891-4922-405a-81c3-33ad89522333.png?v=1777528749"
+    },
+    "stage1_at": "2026-04-30T05:59:09Z"
+  },
+  "lagotto-romagnolo": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_5f7afa65-6101-4ec9-bed2-8fabd0415160.png?v=1777528789",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_1d4804f6-7267-4903-8cf4-5ab8417603af.png?v=1777528794",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_53fdb441-5f66-40da-9493-6d68987f8afa.png?v=1777528797",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3cc8d877-13cd-4819-9607-d73bffaea749.png?v=1777528801"
+    },
+    "stage1_at": "2026-04-30T06:00:02Z"
+  },
+  "maltese": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_86a21bc2-42ac-4ca0-bccc-83821b1373bd.png?v=1777529628",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_8b3e9d4c-443c-43df-9c39-d2a1a0ec74ad.png?v=1777529631",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_d5a57c3f-0366-4fd8-8c7c-0fd84e8531b2.png?v=1777529636",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_52b2e29b-9970-4171-9914-f031bd1dbc39.png?v=1777529640"
+    },
+    "stage1_at": "2026-04-30T06:14:01Z"
+  },
+  "mastiff": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_551b9b2f-40d6-4718-9bc7-6a1d1b47271d.png?v=1777529679",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_2f7f58f8-d29d-4f26-81c2-4482ba0a0b54.png?v=1777529683",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_df994855-2566-4a4e-90cb-78167f14a989.png?v=1777529688",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ea2c7a4f-d91e-48ff-b352-001565d8dc3b.png?v=1777529694"
+    },
+    "stage1_at": "2026-04-30T06:14:55Z"
+  },
+  "miniature-american-shepherd": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_a0f02e63-41ba-4141-9367-a65a0eee3549.png?v=1777529737",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_d0992a24-2b44-4f16-a147-9679457605e5.png?v=1777529741",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2a583a84-7571-4abd-8356-b8f2e9130455.png?v=1777529745",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_4e15625d-71a4-46c2-bf5b-ac2f5500d8e2.png?v=1777529749"
+    },
+    "stage1_at": "2026-04-30T06:15:50Z"
+  },
+  "miniature-poodle": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_3f2f424e-0e0c-4a2a-a99f-adf68da06927.png?v=1777529794",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_0f877e02-3d14-46b5-90ab-7bb42e39a610.png?v=1777529800",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_c170677c-35b1-4231-b9ed-b646de8b7246.png?v=1777529805",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9727bc3a-6e2a-4e39-be7b-a6011163c338.png?v=1777529808"
+    },
+    "stage1_at": "2026-04-30T06:16:50Z"
+  },
+  "miniature-schnauzer": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_39a4d11c-b75e-4448-bd6d-23efc931b728.png?v=1777529844",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3c82db30-71ae-424d-9e6a-3dae2b235c41.png?v=1777529848",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_de3c71bd-8076-4915-a85c-1633f9e18aa5.png?v=1777529852",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_86bc6cf3-66a4-4de5-ab75-40193c9d5e61.png?v=1777529857"
+    },
+    "stage1_at": "2026-04-30T06:17:37Z"
+  },
+  "neapolitan-mastiff": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_09f9c8e1-53de-44fd-89d3-291edf5602a4.png?v=1777529892",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_efa98422-a6bc-4c13-b00a-d5abf8c7109c.png?v=1777529897",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_17d5c13f-7342-4022-997c-b91998ce15d6.png?v=1777529901",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_f26dea13-e051-4586-b4c8-cef6e7385b98.png?v=1777529905"
+    },
+    "stage1_at": "2026-04-30T06:18:26Z"
+  },
+  "newfoundland": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_480cc8f5-1517-4bd2-99a5-d64a3b0a1a2c.png?v=1777529946",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_1863a979-79f2-4de4-8b30-764a6069f72b.png?v=1777529949",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_cb6629de-9387-4ae6-bae2-f66f521863d6.png?v=1777529953",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2df2100d-21f8-4b66-a01b-43637344ae88.png?v=1777529958"
+    },
+    "stage1_at": "2026-04-30T06:19:18Z"
+  },
+  "norwegian-elkhound": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_0ec80e5c-5d4e-4e98-b277-1aeb3d1bed22.png?v=1777530006",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_9b4d5922-4eef-45bb-a4a5-3873c73a7598.png?v=1777530011",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_f409f5fb-3df0-4254-922d-2d3354495a72.png?v=1777530014",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_785c3b3e-5a5a-4c0b-a8e5-4a5eb784deac.png?v=1777530019"
+    },
+    "stage1_at": "2026-04-30T06:20:20Z"
+  },
+  "nova-scotia-duck-tolling-retriever": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_aa8dd516-8c41-45de-9d4d-6e92287d0e78.png?v=1777530170",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_c6c90821-7f86-4210-99cc-cb62c8019159.png?v=1777530174",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4f587aa8-acab-4dd3-89cf-d70f479ef9c1.png?v=1777530179",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_fbb7f4d4-15a1-4969-a4ec-c47e50526a53.png?v=1777530182"
+    },
+    "stage1_at": "2026-04-30T06:23:03Z"
+  },
+  "old-english-sheepdog": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_e4967370-1161-427b-bbfc-182ae1409609.png?v=1777530226",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_ddd542d4-6a4d-4c63-b525-1750131d9086.png?v=1777530230",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_b58a7ea0-5431-46eb-b8ce-7239a544777e.png?v=1777530234",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_0b8acc8b-85f3-4932-9681-38fbdc1b51c0.png?v=1777530238"
+    },
+    "stage1_at": "2026-04-30T06:23:59Z"
+  },
+  "pembroke-welsh-corgi": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0f47d187-6e0e-4267-b784-a6949db2ca47.png?v=1777530282",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_3c48d927-09a4-407d-8bf0-2d28d2987fcf.png?v=1777530286",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_5a103018-07f9-447e-bda2-5e928f0050e2.png?v=1777530290",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_c0cb3e8f-0cf9-4e56-a2a7-56183733153f.png?v=1777530294"
+    },
+    "stage1_at": "2026-04-30T06:24:55Z"
+  },
+  "pharaoh-hound": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5aab0886-8c6b-4fed-8ab0-dca13fa98082.png?v=1777530329",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_d61b17f2-745f-4cef-a64a-e58b77f95e78.png?v=1777530333",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_0127bc43-435e-4c9a-9ffb-671a1a41394a.png?v=1777530337",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_69e0ba73-53d4-42d5-90cd-3cab38a6f975.png?v=1777530342"
+    },
+    "stage1_at": "2026-04-30T06:25:42Z"
+  },
+  "pointer": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_a20d52ec-493e-4068-a973-a3016817daaa.png?v=1777530380",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_6a0bc1d5-35e1-438a-a21b-4bbf11fb5fb5.png?v=1777530384",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_19366581-6feb-4bea-bda8-2a6da1166eaa.png?v=1777530388",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_9fd2e33e-b291-46ae-a7cc-6f809e2d2898.png?v=1777530392"
+    },
+    "stage1_at": "2026-04-30T06:26:33Z"
+  },
+  "pomeranian": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_655fa2b5-42a8-491d-9ec5-fe3ead59a0bc.png?v=1777530438",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_f6ec91b8-a841-4577-8a34-154f13d44251.png?v=1777530441",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_f81188a4-c803-44f9-acd8-1450c03d342e.png?v=1777530445",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_977ab195-8137-4a6c-a475-0dad6a1da2c8.png?v=1777530449"
+    },
+    "stage1_at": "2026-04-30T06:27:30Z"
+  },
+  "portuguese-water-dog": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_c359ddc5-df48-4e58-90b8-52e23daba45d.png?v=1777530488",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_ec51f203-e1ac-44d2-80b2-ccefce8b00fd.png?v=1777530492",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_ce5fc7dc-da08-4027-ac33-edf860f299b9.png?v=1777530496",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_1339867e-034b-4d92-8a6e-59f936aba059.png?v=1777530500"
+    },
+    "stage1_at": "2026-04-30T06:28:21Z"
+  },
+  "pug": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_652114a6-4152-4a5a-8e4a-38458b7fa079.png?v=1777530535",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_9cf4dc33-4d65-47f1-8651-b19330dfaa70.png?v=1777530539",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_9af21e28-5978-4411-bd65-0f3486aec575.png?v=1777530543",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9252d693-154b-44da-a6fa-44004633b224.png?v=1777530547"
+    },
+    "stage1_at": "2026-04-30T06:29:08Z"
+  },
+  "rhodesian-ridgeback": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_427cc022-c10d-4adc-89aa-73c1bb8a73fa.png?v=1777530793",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_0d89dcc6-f8b5-4ad4-9feb-20b3cfebdc88.png?v=1777530797",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_f32efbaf-10f7-4e48-ae2c-0353967b5e8e.png?v=1777530801",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_cd742c99-50ec-455a-923a-da64d778849e.png?v=1777530805"
+    },
+    "stage1_at": "2026-04-30T06:33:26Z"
+  },
+  "saint-bernard": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_c00ee275-511d-4772-93b0-8d789d09e3bc.png?v=1777531097",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_adea74c1-18d0-4df1-919c-94407688b586.png?v=1777531101",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7e6c526b-7998-40b1-a068-19694588442c.png?v=1777531105",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_7a87f5bd-2a5f-40a6-bddd-cd018fa7109f.png?v=1777531109"
+    },
+    "stage1_at": "2026-04-30T06:38:30Z"
+  },
+  "saluki": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_71f16b8c-af62-461b-8792-b90a2716db01.png?v=1777531148",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ca69e647-1fdf-45b0-ab77-739a5ddac95e.png?v=1777531152",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_40e85012-418e-40f1-997c-e5a6b1a34874.png?v=1777531156",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_3b4b1cd8-9ddb-4e21-9c90-86521c309d01.png?v=1777531160"
+    },
+    "stage1_at": "2026-04-30T06:39:22Z"
+  },
+  "samoyed": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_f6f29976-d539-4239-8ad9-55cf30ed8c9a.png?v=1777531196",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_a7a7133c-00ef-41d4-bdde-f6125f4ee4c7.png?v=1777531200",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_9bb69e00-12ed-4b24-9917-a0c7ff9d4428.png?v=1777531204",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_aa1c9c61-79c9-46a6-90f8-bfae44809d46.png?v=1777531208"
+    },
+    "stage1_at": "2026-04-30T06:40:09Z"
+  },
+  "shetland-sheepdog": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_54f31fe1-6f11-4924-a799-fd53815b76f7.png?v=1777531450",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_f24d2a67-1ffd-4fb5-90ef-e8720f770823.png?v=1777531454",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_46e60639-83f4-4656-b317-2f0d19841495.png?v=1777531458",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_c5e928de-51e4-464b-b609-756c3e74d97a.png?v=1777531462"
+    },
+    "stage1_at": "2026-04-30T06:44:23Z"
+  },
+  "shiba-inu": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_430bdfcb-1cb7-43e1-a389-d6288770f72b.png?v=1777531510",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_88cdd2e4-50b4-46c1-ac5f-db0e9dece34e.png?v=1777531514",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_adc48d5c-ef21-4226-8749-8046405bf9b1.png?v=1777531518",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_bb1c5b03-a29f-49ef-b4b3-f18f93d4bb29.png?v=1777531522"
+    },
+    "stage1_at": "2026-04-30T06:45:23Z"
+  },
+  "shih-tzu": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_d5966d26-a9b1-4c8a-8aaa-3271545e64b8.png?v=1777531562",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_a345cc25-99a7-41f1-a7aa-0ffab51daac2.png?v=1777531566",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_5370f35a-ec3e-4a05-abe3-0fd5d7f9aa0d.png?v=1777531572",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_dfec2479-0f3c-43b0-9c47-f6f9ea074903.png?v=1777531576"
+    },
+    "stage1_at": "2026-04-30T06:46:17Z"
+  },
+  "siberian-husky": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_78ab5242-7ce5-459f-ba7c-4fb48a75deda.png?v=1777531622",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2af4103e-ccde-499e-be22-384c8d278086.png?v=1777531626",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0d845525-51fe-4aa2-9c8e-e0a7a7377464.png?v=1777531630",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9cfd1cd8-0976-40ce-8a43-d0562ec7d96d.png?v=1777531634"
+    },
+    "stage1_at": "2026-04-30T06:47:15Z"
+  },
+  "soft-coated-wheaten-terrier": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_035f4dd9-94de-43f3-a58a-0206440ed1e3.png?v=1777531673",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_5d56416e-fd90-4173-91e3-712deb238785.png?v=1777531677",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3dbed4e2-e2b6-44bd-8f62-b7b712cac3b1.png?v=1777531681",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_83c94c6b-9110-441d-8c77-5680524b82d0.png?v=1777531685"
+    },
+    "stage1_at": "2026-04-30T06:48:06Z"
+  },
+  "spinone-italiano": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_924535fd-cacb-48df-87d5-ad5e95bb1073.png?v=1777531819",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_374ed0bf-3cfc-4dda-b6bc-f7d47231b753.png?v=1777531823",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_5b0038a5-b6f1-49c4-a936-113e952bdd9c.png?v=1777531827",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_75013dc5-7c46-4017-b609-0852e8bb8d91.png?v=1777531831"
+    },
+    "stage1_at": "2026-04-30T06:50:32Z"
+  },
+  "staffordshire-bull-terrier": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_af961644-cb4b-46b0-bade-b707fd7178df.png?v=1777531870",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_11331cad-481a-46b7-8dc4-187ee46be50b.png?v=1777531874",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_09599064-766e-4d76-aede-c62e796d6b84.png?v=1777531879",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_5f4fe538-6a67-488d-a1da-884575b5842c.png?v=1777531882"
+    },
+    "stage1_at": "2026-04-30T06:51:23Z"
+  },
+  "standard-poodle": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_e07879b9-c778-416b-b2d0-675e3d174f57.png?v=1777531939",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_7797e443-55b7-401d-8ef6-ee4a50d38415.png?v=1777531951",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_56800c94-3ed2-4f8f-9134-b9de2cc9ac35.png?v=1777531956",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_4a644985-603a-47ed-99c7-a2ef80c26cb5.png?v=1777531960"
+    },
+    "stage1_at": "2026-04-30T06:52:41Z"
+  },
+  "tibetan-mastiff": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4be4765d-93e5-40f9-8257-e2a165be7294.png?v=1777532012",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_653106e4-950b-4eb7-8744-fa6bfd8dbca3.png?v=1777532015",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_970aa344-4372-488d-8611-513211cbefd7.png?v=1777532020",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_42c437f2-85b5-4b65-8fac-faed44669744.png?v=1777532026"
+    },
+    "stage1_at": "2026-04-30T06:53:47Z"
+  },
+  "vizsla": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_41edeb36-9bf7-4ab6-a1cb-83c4e1ef7fae.png?v=1777532069",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_5757ce83-c817-48e3-aba4-cfb1922523b7.png?v=1777532073",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_0bfaf41d-376f-4726-959e-b41d48f14a7f.png?v=1777532077",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_93adac40-efad-40a4-9e61-3e193df382a6.png?v=1777532081"
+    },
+    "stage1_at": "2026-04-30T06:54:42Z"
+  },
+  "weimaraner": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_d159642c-8ef5-45c8-a63a-8152847741bf.png?v=1777532128",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_68c80383-f6be-4221-b981-e1302876571c.png?v=1777532134",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_6f02c639-5a4a-463a-8309-bb76540fa5fd.png?v=1777532139",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_a2dfcf76-cf3f-44b9-8978-9fa6ec9f1075.png?v=1777532142"
+    },
+    "stage1_at": "2026-04-30T06:55:43Z"
+  },
+  "welsh-springer-spaniel": {
+    "image_urls": {
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_cb7b4166-a705-4063-9493-44edaa169f78.png?v=1777532182",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_bbc87f1b-f503-4c0f-adda-b0f684deab76.png?v=1777532186",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_22702470-5e47-4698-9bf2-5655c02a37e4.png?v=1777532190",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_76c85f40-a2d6-41be-9490-18a78f48a936.png?v=1777532194"
+    },
+    "stage1_at": "2026-04-30T06:56:35Z"
+  },
+  "wirehaired-pointing-griffon": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_af476ce7-8e7f-4c8f-8144-827f3835339f.png?v=1777532562",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_55dd30da-71d0-4e9e-b4d6-d47933831359.png?v=1777532566",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_87613c63-3b04-45ea-bda1-205baf43aa91.png?v=1777532569",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_8bc502d0-7a3b-4b74-9f38-079c31105b87.png?v=1777532573"
+    },
+    "stage1_at": "2026-04-30T07:02:55Z"
+  },
+  "yorkshire-terrier": {
+    "image_urls": {
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_8506372e-9a88-4c22-a4ca-f52aaf457916.png?v=1777532609",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_4c6f5eca-98fc-4799-8ad8-1ac30e7f570f.png?v=1777532613",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_ce311006-a472-40cd-a135-1e51cc1fbaf3.png?v=1777532617",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_16e3db48-d58f-41e1-9d5e-ef1d7576e383.png?v=1777532620"
+    },
+    "stage1_at": "2026-04-30T07:03:42Z"
+  },
+  "west-highland-white-terrier": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_5e75affc-4708-4bbf-ae9f-61131b48ebd9.png?v=1777532978",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_143b478b-9a62-4883-a821-a867f90fda52.png?v=1777532983",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_300ecf05-0f54-4b23-8ae9-72bbdf5233ab.png?v=1777532989",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_6e148bc4-03a3-4c0d-8238-7ca1a4c504a2.png?v=1777532993"
+    },
+    "stage1_at": "2026-04-30T07:09:54Z"
+  },
+  "whippet": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_54932cde-1e32-40bb-b7d0-e81a6ef479c2.png?v=1777533038",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_e7870ea9-5696-4da5-b51c-56c371a97742.png?v=1777533041",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_40933de7-5ed1-4d4b-882c-aa2d759f76f2.png?v=1777533045",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_cef74e21-55da-49fe-8a92-dea80b2e9594.png?v=1777533049"
+    },
+    "stage1_at": "2026-04-30T07:10:50Z"
+  }
+}

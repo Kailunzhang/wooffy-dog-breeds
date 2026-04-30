@@ -6,26 +6,62 @@
     "group": "Sporting Group",
     "size_category": "Large Breed",
     "tagline": "Everybody says Goldens are the perfect family dog. They're mostly right—but here's what you need to know before you bring one home, from someone who's been in your research tab.",
-    "tags": ["sporting-group", "large-breed", "family-dog", "retrievers", "dog-breeds"],
+    "tags": [
+      "sporting-group",
+      "large-breed",
+      "family-dog",
+      "retrievers",
+      "dog-breeds"
+    ],
     "published": true,
     "excerpt": "The Golden Retriever is one of the most recommended breeds for first-time owners. Friendly doesn't mean low-maintenance. Here's what life with one actually looks like.",
     "meta_description": "Is a Golden Retriever right for you? The real picture on exercise needs, shedding, emotional demands, health costs, and what first-time owners actually deal with."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "55–75 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–12 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Very Easy" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "55–75 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–12 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Very Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Excellent"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_Retriever_Dukedestiny01_drvd.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait.png?v=1777501449",
       "alt": "Golden Retriever — classic breed profile"
     },
     "secondary": [
@@ -43,57 +79,48 @@
       }
     ]
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Golden Retriever?",
       "html": "<p>The Golden Retriever is a large sporting breed, originally developed in the Scottish Highlands to retrieve game. Today they're consistently one of the three most popular breeds in the US—and the most recommended first dog for most people.</p><p>That reputation holds up. But 'good for beginners' and 'low-maintenance' are not the same thing. This guide gives you the real picture: what owning one actually costs, what daily life looks like, and how to know if a Golden fits your life right now.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Goldens Look Like",
       "html": "<p>Large breed, 55–75 lbs as adults, with a dense double coat that ranges from light cream to dark gold. You'll come across three lines: American (leaner, darker coat), British (blockier build, paler coat, sometimes marketed as 'English Cream'), and Canadian (taller, thinner coat). For most families, the type matters less than people think. A well-bred Golden from any line will have the same temperament. Focus on health testing, not coat color or country of origin.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p>Goldens are genuinely people-oriented—not 'friendly when they feel like it,' but consistently, reliably social. They greet strangers the same way they greet you. That's a feature for most families and a non-starter if you wanted a guard dog.</p><p>In Stanley Coren's intelligence ranking, Goldens sit at #4 across all breeds for working obedience—learning commands in under 5 repetitions, 95% compliance. In practice, this means training actually works with them. They want to get it right.</p><p>What surprises new owners most isn't the friendliness—it's the intensity of it. Goldens want to be near people constantly. They follow you from room to room, they notice when you're upset, and they are not good at being background dogs. If you want a dog that's happy to do its own thing, this is not that breed.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Golden",
       "html": "<p>If a friend texted me 'thinking about getting a Golden, thoughts?'—here's what I'd actually say, not what the breed books say.</p><p>The energy thing surprises people. Everyone knows Goldens are friendly. What new owners consistently underestimate is the physical output required. These are working dogs. A 20-minute walk around the block doesn't count. You're planning for 60 to 90 minutes of real exercise daily—off-leash running, fetch, something with actual speed involved. A bored Golden doesn't sit quietly. It redecorates.</p><p>The shedding is not what 'they shed a lot' prepares you for. The correct mental model: every dark piece of clothing you own will look like it went through a lint roller in reverse, permanently. Your couch. Your car. Your guests' black pants. Brushing three times a week helps, but it doesn't solve it. You're not managing the shedding—you're accepting it as part of your home's aesthetic. If that genuinely bothers you, no amount of affection for the breed will make it okay.</p><p>The one people miss most: Goldens have real emotional needs. They were bred to work alongside people all day. Eight hours alone, five days a week is genuinely hard on them—not 'they'll adjust' hard, but the kind that shows up as anxiety, destruction, and a dog that's difficult to live with. If your household is empty most of the day, a dog walker, daycare, or a second dog needs to be part of the plan before a Golden makes sense.</p><p>If none of that is a dealbreaker, you're probably going to love life with a Golden. They're good dogs that make ordinary days better. If two of those are dealbreakers, maybe look at a <a href=\"/blogs/dog-breeds/low-maintenance-dog-breeds\" style=\"color:#1a1a1a;font-weight:700;\">less demanding breed</a> instead.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;font-weight:400;line-height:1.7;color:#6b7177;margin:0 0 10px 0;\">Plan for 60 to 90 minutes of real activity daily—not a walk around the block, but something with actual running. Off-leash fetch, swimming, or trail running covers it. Mental exercise (training sessions, puzzle feeders) counts toward the total. <a href=\"/blogs/dog-breeds/golden-retriever-outdoor-space\" style=\"color:#1a1a1a;font-weight:700;\">I wrote a separate piece on how much outdoor space a Golden actually needs</a> if you're on the fence about your situation.</p><p style=\"font-size:0.95em;font-weight:400;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">If your Golden is going to spend time outside, size the shelter for their adult weight (55–75 lbs). I built <a href=\"https://thewooffy.com\" style=\"color:#1a1a1a;font-weight:700;\">Wooffy House — Circla</a> for exactly this size range, because nothing on the market felt right for a big breed that also lives indoors most of the time.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Feeding</h3><ul style=\"font-size:0.95em;font-weight:400;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Adults:</strong> 3–5 cups premium large-breed kibble daily, split into 2 meals</li><li><strong style=\"color:#1a1a1a;\">Puppies:</strong> 3 meals/day until 6 months, then 2</li><li><strong style=\"color:#1a1a1a;\">Seniors (7+):</strong> Switch to a senior formula with joint support</li><li><strong style=\"color:#1a1a1a;\">Watch:</strong> Goldens gain weight easily—an overweight Golden's joints pay for it later</li></ul><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><ul style=\"font-size:0.95em;font-weight:400;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 10px 0;\"><li><strong style=\"color:#1a1a1a;\">Brushing:</strong> 2–3x per week; daily during spring and fall shedding season</li><li><strong style=\"color:#1a1a1a;\">Bathing:</strong> Every 6–8 weeks; dry thoroughly to prevent hot spots</li><li><strong style=\"color:#1a1a1a;\">Professional grooming:</strong> Every 8–12 weeks</li><li><strong style=\"color:#1a1a1a;\">Ears:</strong> Check weekly—floppy ears trap moisture and get infected fast</li></ul><p style=\"font-size:0.95em;font-weight:400;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Buy the brush before you bring the puppy home. <a href=\"/blogs/dog-breeds/golden-retriever-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Here's what actually works for Golden shedding</a>—I've tested a few.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;font-weight:400;line-height:1.7;color:#6b7177;margin:0;\">This is where owning a Golden is genuinely easy. They want to get it right, and they respond to positive reinforcement quickly. Start with recall, loose-leash walking, leave it, and settle—in that order. Puppy classes are worth it, more for socialization than the training itself.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "lifespan": "10–12 years",
       "html": "<p>Lifespan is 10–12 years. Goldens are generally healthy dogs, but they carry real predispositions to a few serious conditions—cancer chief among them. This doesn't mean your dog will get cancer, but it means annual checkups are not optional and pet insurance is worth getting before the first vet visit.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;width:28%;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What to Know</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Cancer</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;line-height:1.6;\">Over 60% of Goldens develop cancer. Hemangiosarcoma, lymphoma, osteosarcoma, and mast cell tumors are most common. Annual check-ups and knowing warning signs are essential.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;line-height:1.6;\">Hereditary joint malformation leading to arthritis. Screened via OFA or PennHIP by responsible breeders.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;line-height:1.6;\">Similar developmental joint issue affecting the elbow. OFA-screened by responsible breeders.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Heart Disease (SAS)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;line-height:1.6;\">Subvalvular aortic stenosis is the most common cardiac defect. Ranges mild to severe. Annual cardiac exams by responsible breeders.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;line-height:1.6;\">Underactive thyroid causes weight gain and lethargy. Manageable with daily medication.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Skin Allergies &amp; Hot Spots</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;line-height:1.6;\">Dense coat traps moisture. Regular grooming and thorough drying after swimming prevents hot spots.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Eye Conditions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;line-height:1.6;\">PRA and hereditary cataracts can cause vision loss. CAER eye exams part of responsible health testing.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Bloat (GDV)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;line-height:1.6;\">Life-threatening stomach twist. Avoid exercise around mealtimes. Distended belly + unproductive retching = emergency vet immediately.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Ear Infections</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;line-height:1.6;\">Floppy ears trap moisture. Weekly checks and cleaning after swimming reduce frequency significantly.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Ichthyosis</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;line-height:1.6;\">Genetic skin scaling condition. Mild cases are cosmetic. DNA testing identifies carriers.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;line-height:1.6;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA Hip &amp; Elbow, OFA Cardiac, CAER Eye, Ichthyosis DNA—both parents.</p>"
     },
-
     "special": {
       "label": "Good to Know",
       "heading": "Before You Commit",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">The Alone-Time Problem</h3><p style=\"font-size:0.95em;font-weight:400;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Goldens were bred to work beside people all day. If your household is empty for 8 hours most days, you need a concrete plan before getting one: a dog walker, doggy daycare, or a companion dog. This isn't optional—it's the difference between a happy Golden and a destructive one.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">The Adolescent Phase (6–18 Months)</h3><p style=\"font-size:0.95em;font-weight:400;line-height:1.7;color:#6b7177;margin:0 0 14px 0;\">Expect selective amnesia about commands they already know, more mouthiness, and testing of every boundary around recall. This is normal and it passes. Consistent exercise and training carry you through it faster than frustration does.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Mouthy Puppies</h3><p style=\"font-size:0.95em;font-weight:400;line-height:1.7;color:#6b7177;margin:0;\">Goldens were bred to carry things. Redirect from day one—the habit that's manageable at 10 lbs becomes a real problem at 70.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<p style=\"font-size:0.95em;font-weight:400;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Budget $4,000–$8,000 for year one if you're buying from a health-testing breeder. Ongoing annual costs run $1,700–$3,100 before any emergencies. Cancer, ACL surgery, or bloat can each cost $3,000–$10,000—get pet insurance before the first vet visit, not after a diagnosis.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy / Adoption fee</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$3,500 / $200–$500</td><td style=\"padding:10px 12px;color:#4d4d4d;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Routine vet care</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Professional grooming</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Spay / Neuter</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$200–$500</td><td style=\"padding:10px 12px;color:#4d4d4d;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Supplies</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$100–$200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Training classes</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$150–$400</td><td style=\"padding:10px 12px;color:#4d4d4d;background:#f8f8f8;\">Optional</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$4,000–$8,000+</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,700–$3,100</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;line-height:1.6;\">I put together a <a href=\"/blogs/dog-breeds/golden-retriever-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full first-year cost breakdown with real numbers</a> if you want to stress-test your budget before committing.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Golden Right for You?",
@@ -112,14 +139,12 @@
         "Aren't prepared for significant vet costs"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Golden Retriever",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Reputable Breeder</h3><p style=\"font-size:0.95em;font-weight:400;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Expect $1,500–$3,500 from a breeder who does proper health testing. Verify OFA Hip &amp; Elbow, OFA Cardiac, CAER Eye clearances, and ask to meet the mother in person. Prices under $1,000 almost always mean no health testing—that's a false saving that shows up in vet bills later. <a href=\"/blogs/dog-breeds/golden-retriever-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Here's a full Golden Retriever puppy checklist</a> for what to look for before you put down a deposit.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Adopting from Rescue</h3><p style=\"font-size:0.95em;font-weight:400;line-height:1.7;color:#6b7177;margin:0;\">Adoption fees typically run $200–$500 and include spay/neuter, vaccines, and a health check. Start with the Golden Retriever Club of America Rescue or Petfinder.com. Adult rescues often have known temperaments, which is genuinely useful for first-time owners.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Is a Golden too much dog for a first-time owner?",
@@ -142,18 +167,32 @@
       "a": "It helps significantly, but it's not a strict requirement. What you actually need is a reliable recall and a daily plan for off-leash running—whether that's a yard, a dog park, or a long line at a field. A Golden cooped up without a way to run is a problem regardless of what's around the perimeter."
     }
   ],
-
   "quiz_cta": {
     "heading": "Not sure if the Golden Retriever<br>is your dream dog?",
     "body": "Answer a few quick questions about your lifestyle and we'll match you with breeds that truly fit your life.",
     "button_text": "Take the Quiz →",
     "button_url": "/pages/coming-soon"
   },
-
   "related_breeds": [
-    { "name": "Labrador Retriever",    "slug": "labrador-retriever",    "note": "Same friendly nature, shorter low-maintenance coat" },
-    { "name": "Flat-Coated Retriever", "slug": "flat-coated-retriever", "note": "The Golden's ancestor; equally enthusiastic" },
-    { "name": "Irish Setter",          "slug": "irish-setter",          "note": "Similar energy and affection with a striking mahogany coat" },
-    { "name": "Bernese Mountain Dog",  "slug": "bernese-mountain-dog",  "note": "Equally devoted, calmer and lower energy" }
+    {
+      "name": "Labrador Retriever",
+      "slug": "labrador-retriever",
+      "note": "Same friendly nature, shorter low-maintenance coat"
+    },
+    {
+      "name": "Flat-Coated Retriever",
+      "slug": "flat-coated-retriever",
+      "note": "The Golden's ancestor; equally enthusiastic"
+    },
+    {
+      "name": "Irish Setter",
+      "slug": "irish-setter",
+      "note": "Similar energy and affection with a striking mahogany coat"
+    },
+    {
+      "name": "Bernese Mountain Dog",
+      "slug": "bernese-mountain-dog",
+      "note": "Equally devoted, calmer and lower energy"
+    }
   ]
 }

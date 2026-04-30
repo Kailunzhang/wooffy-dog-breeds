@@ -5,39 +5,40 @@
     "shopify_handle": "golden-retriever-grooming-guide",
     "group": "Golden Retriever",
     "size_category": "Guide",
-    "tags": ["golden-retriever", "grooming", "shedding", "coat-care", "dog-care"],
+    "tags": [
+      "golden-retriever",
+      "grooming",
+      "shedding",
+      "coat-care",
+      "dog-care"
+    ],
     "published": true,
     "excerpt": "The honest guide to Golden Retriever shedding — what tools actually work, how often to brush, and how to survive the spring coat blow.",
     "meta_description": "Golden Retriever grooming guide: the brushes that actually work, a weekly routine that controls shedding, and what to do during seasonal coat blows."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Dog_grooming.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming.png?v=1777501455",
       "alt": "Dog grooming"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Nobody Warns You About Golden Shedding",
       "html": "<p>Everyone says Goldens shed a lot. Nobody tells you that 'a lot' means finding fur in your coffee, in your keyboard, and somehow inside sealed containers in the fridge. This guide is about what actually controls it — not eliminates it, controls it.</p><p>The good news: Golden coats are manageable with the right tools and a consistent routine. The bad news: there is no tool or routine that stops it entirely. You're not managing the shedding — you're deciding how much of it ends up on your furniture versus in the trash.</p>"
     },
-
     "care": {
       "label": "Tools & Routine",
       "heading": "What Actually Works",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">The Two Tools You Actually Need</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 8px 0;\">You don't need a drawer full of grooming tools. You need two:</p><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Slicker brush</strong> — removes loose surface fur and detangles the outer coat. Use this 2–3x per week year-round.</li><li><strong style=\"color:#1a1a1a;\">Undercoat rake</strong> (also called a deshedding rake) — reaches the dense undercoat where most of the shedding originates. Use this 1–2x per week, more during shedding season.</li></ul><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Furminator is heavily marketed for Goldens. It works, but it's easy to overuse and can damage the coat with too much pressure. A good undercoat rake does the same job more safely.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Weekly Grooming Routine</h3><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;width:25%;\">Frequency</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Task</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;\">2–3x per week</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Slicker brush — full body, 10–15 minutes</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;\">1–2x per week</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Undercoat rake — focus on neck, chest, and hindquarters</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;\">Weekly</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Check and clean ears — floppy ears trap moisture and get infected fast</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;\">Every 6–8 weeks</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Bath — use a de-shedding shampoo and conditioner; dry thoroughly</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;\">Every 8–12 weeks</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional groom — trim feathering, paws, ears</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;\">Monthly</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Nail trim — if you can hear clicking on hard floors, it's overdue</td></tr></tbody></table><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:24px 0 10px 0;\">Bathing Tips</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 10px 0;\">The most common mistake: not drying thoroughly. A Golden's dense undercoat holds moisture close to the skin, which creates hot spots — painful, infected patches that require vet treatment. Use a high-velocity dog dryer or a human blow dryer on low heat, and keep going until the undercoat feels completely dry, not just the surface.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Brush before bathing to remove loose fur. Bathing a matted coat makes the mats worse.</p>"
     },
-
     "special": {
       "label": "Shedding Season",
       "heading": "Surviving the Coat Blow",
       "html": "<p>Twice a year — spring and fall — Goldens 'blow their coat.' This is a 2–4 week period where the undercoat sheds en masse. If your normal shedding is a 6/10, coat blow season is a 12/10. You will find fur in places that don't make geometric sense.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:16px 0 10px 0;\">What to Do During Coat Blow</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li>Switch to daily brushing for the duration</li><li>Add one professional bath + blow-dry session mid-season — this removes loose undercoat faster than brushing alone</li><li>Consider a de-shedding treatment at a professional groomer (typically $20–$40 extra)</li><li>Vacuum more frequently — fur that builds up in corners gets tracked through the house</li></ul><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">What Doesn't Help</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Shaving a Golden doesn't reduce shedding and disrupts the coat's ability to regulate temperature. The double coat protects them from both heat and cold. Don't do it.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often should I brush my Golden?",
