@@ -5,7 +5,11 @@
     "shopify_handle": "entlebucher-mountain-dog-first-year-costs",
     "group": "Entlebucher Mountain Dog",
     "size_category": "Guide",
-    "tags": ["entlebucher-mountain-dog", "costs", "first-year"],
+    "tags": [
+      "entlebucher-mountain-dog",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Entlebucher Mountain Dog is a medium-sized breed with moderate ownership costs, elevated by its scarcity in the United States and the potential for specific health conditions. This guide covers first-year and ongoing costs.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Elio_v_Schaerlig_im_Juni_2007_klein.jpg/330px-Elio_v_Schaerlig_im_Juni_2007_klein.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_59648131-558f-4d3a-85f7-705f8784fb26.png?v=1777574695",
       "alt": "Entlebucher Mountain Dog cost guide"
     }
   },

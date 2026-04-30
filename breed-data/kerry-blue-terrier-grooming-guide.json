@@ -5,7 +5,10 @@
     "shopify_handle": "kerry-blue-terrier-grooming-guide",
     "group": "Kerry Blue Terrier",
     "size_category": "Guide",
-    "tags": ["kerry-blue-terrier", "grooming"],
+    "tags": [
+      "kerry-blue-terrier",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "The Kerry Blue Terrier's soft, wavy, non-shedding coat requires professional clipping every 6–8 weeks and home brushing several times per week to prevent matting. The beard and eyebrows need daily attention.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kerry_Blue_Terrier.jpg/330px-Kerry_Blue_Terrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_3a2feda5-a6d5-4f01-aad1-c168db5c2323.png?v=1777575321",
       "alt": "Kerry Blue Terrier grooming guide"
     }
   },

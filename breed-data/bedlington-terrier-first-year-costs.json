@@ -5,20 +5,24 @@
     "shopify_handle": "bedlington-terrier-first-year-costs",
     "group": "Bedlington Terrier",
     "size_category": "Guide",
-    "tags": ["bedlington-terrier", "cost", "budget", "first-year", "small-breed"],
+    "tags": [
+      "bedlington-terrier",
+      "cost",
+      "budget",
+      "first-year",
+      "small-breed"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "Bedlington Terrier ownership costs $3,300–$5,700 in the first year. The ongoing professional grooming expense is the largest recurring cost — budget $500–$800 per year for professional trims. Copper Toxicosis is the primary financial health risk.",
     "meta_description": "Bedlington Terrier first year costs: puppy price, professional grooming budget, vet costs, insurance, and the financial impact of the breed's key genetic health risk."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Boutchie_apres_championnat_004.JPG/250px-Boutchie_apres_championnat_004.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_4f929d42-8d74-4145-877e-84a4cecf97f8.png?v=1777573635",
       "alt": "Bedlington Terrier first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With an 11–16 year lifespan — one of the longer ranges for any breed — the Bedlington represents a long financial commitment. The good news is that dogs from health-tested parents tend to live out their full lifespan without major interventions.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog from DNA-cleared parents</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$22,000–$38,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Dog requiring treatment for hip dysplasia or PRA</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$28,000–$45,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Dog with Copper Toxicosis (untested parents)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$35,000–$60,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">The difference between the first and third rows is largely preventable by buying from DNA-tested breeders and carrying pet insurance. The grooming cost is unavoidable regardless of health status.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does a Bedlington Terrier puppy cost from a reputable breeder?",

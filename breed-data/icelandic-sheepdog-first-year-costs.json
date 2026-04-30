@@ -5,7 +5,11 @@
     "shopify_handle": "icelandic-sheepdog-first-year-costs",
     "group": "Icelandic Sheepdog",
     "size_category": "Guide",
-    "tags": ["icelandic-sheepdog", "costs", "first-year"],
+    "tags": [
+      "icelandic-sheepdog",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Icelandic Sheepdog is a rare breed in the US with moderate ongoing ownership costs. This guide covers first-year expenses and annual budget for Iceland's cheerful native herding dog.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Icelandic_Sheepdog_Alisa_von_Lehenberg.jpg/330px-Icelandic_Sheepdog_Alisa_von_Lehenberg.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7c263d2e-f305-4366-aaff-1c2691dca7b0.png?v=1777575065",
       "alt": "Icelandic Sheepdog cost guide"
     }
   },

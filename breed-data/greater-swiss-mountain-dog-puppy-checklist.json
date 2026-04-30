@@ -5,7 +5,11 @@
     "shopify_handle": "greater-swiss-mountain-dog-puppy-checklist",
     "group": "Greater Swiss Mountain Dog",
     "size_category": "Guide",
-    "tags": ["greater-swiss-mountain-dog", "puppy", "checklist"],
+    "tags": [
+      "greater-swiss-mountain-dog",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "Everything you need before your Greater Swiss Mountain Dog puppy comes home — OFA and cardiac screening planning, gastropexy discussion, exercise restriction for the fast-growing heavy breed, and insurance before the first vet visit.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Greater_Swiss_Mountain_Dog_2018.jpg/250px-Greater_Swiss_Mountain_Dog_2018.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_132d3f1c-4c0b-49ff-a491-605cd7c04c2f.png?v=1777574968",
       "alt": "Greater Swiss Mountain Dog puppy checklist"
     }
   },

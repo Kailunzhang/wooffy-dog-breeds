@@ -5,7 +5,10 @@
     "shopify_handle": "entlebucher-mountain-dog-grooming-guide",
     "group": "Entlebucher Mountain Dog",
     "size_category": "Guide",
-    "tags": ["entlebucher-mountain-dog", "grooming"],
+    "tags": [
+      "entlebucher-mountain-dog",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Entlebucher Mountain Dog has a short, dense tricolor coat that is easy to maintain. Weekly brushing, seasonal deshedding, and basic care keep this hardworking Swiss breed looking sharp.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Elio_v_Schaerlig_im_Juni_2007_klein.jpg/330px-Elio_v_Schaerlig_im_Juni_2007_klein.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_b71d7d39-f181-4ef3-9b14-713a5a6cbf50.png?v=1777574686",
       "alt": "Entlebucher Mountain Dog grooming"
     }
   },

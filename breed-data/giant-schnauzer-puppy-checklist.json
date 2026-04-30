@@ -5,7 +5,11 @@
     "shopify_handle": "giant-schnauzer-puppy-checklist",
     "group": "Giant Schnauzer",
     "size_category": "Guide",
-    "tags": ["giant-schnauzer", "puppy", "checklist"],
+    "tags": [
+      "giant-schnauzer",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "Everything you need before your Giant Schnauzer puppy comes home — groomer selection, experienced trainer booking, secure fencing, gastropexy planning, and understanding the working dog temperament commitment.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Nev_Lemar_Barbara1.jpg/250px-Nev_Lemar_Barbara1.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_1e9584fa-53fd-4218-85f4-ee9d053123e4.png?v=1777574927",
       "alt": "Giant Schnauzer puppy checklist"
     }
   },

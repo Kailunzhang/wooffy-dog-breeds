@@ -5,20 +5,24 @@
     "shopify_handle": "bedlington-terrier-grooming-guide",
     "group": "Bedlington Terrier",
     "size_category": "Guide",
-    "tags": ["bedlington-terrier", "grooming", "curly-coat", "low-shedding", "terrier"],
+    "tags": [
+      "bedlington-terrier",
+      "grooming",
+      "curly-coat",
+      "low-shedding",
+      "terrier"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "The Bedlington's crisp, curly coat doesn't shed much — but it needs professional trimming every 6–8 weeks and regular brushing between appointments. The distinctive lamb-like shape requires a groomer who knows the breed's specific pattern.",
     "meta_description": "Bedlington Terrier grooming guide: maintaining the curly low-shedding coat, the professional trimming schedule, brushing routine, and finding a groomer who knows the breed pattern."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Boutchie_apres_championnat_004.JPG/250px-Boutchie_apres_championnat_004.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_2fa92dc5-394f-4320-a8f9-a887c6ed8302.png?v=1777573631",
       "alt": "Bedlington Terrier grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Bedlington Coat",
@@ -36,7 +40,6 @@
       "html": "<p>The Bedlington's ear structure — drop ears covered in fine, tasseled hair — creates a warm, low-airflow environment that can accumulate moisture and debris. Check ears weekly for odor, redness, or excessive wax. Wipe gently with a cotton ball dampened with ear cleaner. Do not probe deeply into the ear canal. If you notice any of the following, see your vet: head shaking, ear scratching, dark discharge, or an unpleasant smell — these indicate infection, not a grooming issue.</p><h3>Coat Color and Fading</h3><p>Bedlington coat colors change with age and sun exposure. Blues may fade to a silver-grey; sandies and livers may lighten. This is normal for the breed. UV exposure from sun can accelerate fading in darker-coated dogs, but this is cosmetic, not a health concern.</p><h3>Coat vs. Skin Irritation</h3><p>Some Bedlingtons are prone to skin sensitivity. If you notice excessive scratching, redness at the skin level, or dandruff-like flaking that doesn't respond to regular brushing, consult your vet — this may indicate a skin condition rather than a grooming issue. The coat's texture can mask underlying skin problems until they're quite developed, so check the skin level when brushing, not just the surface of the coat.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does a Bedlington need professional grooming?",

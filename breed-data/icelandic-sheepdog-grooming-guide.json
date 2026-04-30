@@ -5,7 +5,10 @@
     "shopify_handle": "icelandic-sheepdog-grooming-guide",
     "group": "Icelandic Sheepdog",
     "size_category": "Guide",
-    "tags": ["icelandic-sheepdog", "grooming"],
+    "tags": [
+      "icelandic-sheepdog",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Icelandic Sheepdog's thick double coat comes in long and short varieties and sheds significantly twice a year. This guide covers brushing, shedding management, and bathing for Iceland's only native breed.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Icelandic_Sheepdog_Alisa_von_Lehenberg.jpg/330px-Icelandic_Sheepdog_Alisa_von_Lehenberg.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_cecc729c-f791-4d09-8a09-9d9da3ec2ad5.png?v=1777575050",
       "alt": "Icelandic Sheepdog grooming"
     }
   },

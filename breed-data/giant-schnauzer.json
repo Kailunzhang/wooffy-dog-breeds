@@ -6,74 +6,103 @@
     "group": "Working Group",
     "size_category": "Large Breed",
     "tagline": "The Giant Schnauzer is a powerful, dominant working dog that demands an experienced handler, consistent leadership, and a genuine job to do. In the right hands, they are loyal, capable, and impressive. In the wrong hands, they are a serious management problem.",
-    "tags": ["working-group", "large-breed", "dominant", "guard-dog", "intelligent", "dog-breeds"],
+    "tags": [
+      "working-group",
+      "large-breed",
+      "dominant",
+      "guard-dog",
+      "intelligent",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "Giant Schnauzers are not oversized house pets — they are working dogs with strong guarding instincts, dominant personalities, and high intelligence. They thrive under confident, experienced handling and fall apart under passive ownership.",
     "meta_description": "Giant Schnauzer breed guide: dominant temperament, guarding instincts, exercise and training requirements, health conditions, and whether a Giant Schnauzer fits your household."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "55–85 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–15 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "90–120 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate–High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Experienced only" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "55–85 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90–120 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate–High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Experienced only"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Nev_Lemar_Barbara1.jpg/250px-Nev_Lemar_Barbara1.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_07f1748f-a5b8-4038-8928-d5ccf51aae2d.png?v=1777574913",
       "alt": "Giant Schnauzer"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Giant Schnauzer?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Giant Schnauzer originated in Bavaria in the 17th century, bred to drive cattle and later used as a police and military dog across Europe. This is not a breed scaled up from a family companion — the Giant Schnauzer was developed for serious working roles requiring strength, intelligence, and assertiveness. Those traits remain fully intact today.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Weighing 55–85 lbs with a wiry double coat, hard rectangular build, and characteristic beard, the Giant Schnauzer looks striking and carries itself with unmistakable confidence. Males are considerably larger and more dominant than females. Both sexes have strong guarding instincts and bond intensely to their family while remaining suspicious of strangers.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">This breed is fundamentally unsuited to passive ownership. Giant Schnauzers need a job, need clear leadership, and need an owner who understands working dog dynamics. Given that, they are exceptional — intelligent, loyal, and genuinely impressive to work with. Without it, they become dominant, hard to manage, and potentially problematic with strangers and other dogs.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Giant Schnauzers Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Large and powerfully built with a rectangular silhouette — the body length roughly equals the height at the withers. Males stand 25.5–27.5 inches at the shoulder; females 23.5–25.5 inches. Weight ranges from 55–85 lbs, with males at the heavier end. The overall impression is of a compact, muscular working dog rather than a bulky one.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The wiry double coat comes in solid black or salt-and-pepper. The beard, eyebrows, and leg furnishings are the breed's signature look. The coat requires professional care — either hand-stripping (traditional, maintains coat texture for show dogs) or clipping (more practical for pets). The beard traps food and water and must be cleaned regularly. Ears are cropped in some countries; natural drop ears in others.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Giant Schnauzers are dominant, highly intelligent, and deeply loyal to their family. They form strong bonds and are naturally protective — this is not trained-in behavior but a core trait of the breed. They take their role as guardian seriously and will act on it without direction if they perceive a threat.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With strangers, Giant Schnauzers are naturally reserved to suspicious. A well-socialized Giant Schnauzer can be controlled and neutral in public; an under-socialized one can be reactive and difficult to manage. Their size and strength means reactivity has real consequences. Early socialization starting at 8 weeks is not optional — it's essential for producing a dog that can exist safely in the world.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The dominance in this breed is real and directed at everyone, including their owners. Giant Schnauzers test handlers who aren't confident, will push boundaries if leadership is inconsistent, and can develop serious problems with passive or permissive owners. This is not a breed for someone who wants an easy, agreeable dog. It is a breed for someone who wants a dog that works with them and respects consistent authority.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Giant Schnauzer",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Giant Schnauzers attract people who want an impressive, capable, loyal working dog — and those qualities are all genuinely there. When this breed is well-raised and properly handled, they are extraordinary: athletic, intelligent, responsive to training, and fiercely devoted. Working with a well-trained Giant Schnauzer is a qualitatively different experience from most breeds.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest conversation is that most households are not set up for this breed. Passive owners who don't establish clear leadership end up with a dominant dog that controls the house rather than the other way around. Owners who don't provide adequate exercise and mental stimulation end up with a destructive, frustrated dog that finds its own outlets. This breed needs a job — whether that's formal protection work, competitive obedience, Schutzhund/IPO training, or a rigorous daily exercise and training routine.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">If you have experience with dominant working breeds, are committed to ongoing training, can provide vigorous daily exercise, and want a dog that is not merely a companion but a genuine working partner — the Giant Schnauzer is worth serious consideration. If any of those conditions aren't met, look at a different breed.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">90–120 minutes of vigorous exercise daily, minimum. Giant Schnauzers are high-energy working dogs that do not do well with casual strolls — they need activity that challenges their body and mind. Hiking, running, cycling, fetch in a securely fenced area, protection sports, or competitive obedience. A bored Giant Schnauzer becomes a destructive and dominant Giant Schnauzer quickly.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The wiry coat requires either hand-stripping (every 4–6 months for show dogs) or professional clipping (every 6–8 weeks for pets). The beard collects food and water after every meal and drink — wipe it down daily to prevent odor and skin irritation. See the <a href=\"/blogs/dog-breeds/giant-schnauzer-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Giant Schnauzer grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Training must begin from day one and continue throughout the dog's life. Giant Schnauzers are intelligent and learn quickly — the problem is never inability, it's the dominant personality testing whether the owner will consistently enforce rules. Positive reinforcement with clear boundaries works well. Harsh compulsion typically produces resistance or aggression. This is a breed where working with a trainer experienced in dominant working breeds from the start produces dramatically better outcomes than waiting for problems to develop.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Giant Schnauzers have a 12–15 year lifespan — excellent for a large breed. However, they carry real health risks that prospective owners should understand before committing.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint causing pain and arthritis. OFA or PennHIP screening available; ask breeders for clearances. Managed with medication and, in severe cases, surgery.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Underactive thyroid affecting metabolism, weight, energy, and coat. Manageable with daily medication. OFA thyroid clearance available from responsible breeders.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Autoimmune Conditions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Giant Schnauzers have elevated autoimmune disease susceptibility including autoimmune hemolytic anemia and immune-mediated thrombocytopenia. These can be serious and require specialist veterinary care.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Epilepsy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Seizure disorders occur in the breed. Manageable with anticonvulsant medication in most cases. Ask about seizure history in both parent lines.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">OCD (Osteochondrosis)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Osteochondrosis dissecans is a developmental joint condition affecting young dogs. Can cause lameness and requires surgical treatment in significant cases. More common in large, rapidly growing breeds.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Eye Issues</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Various inherited eye conditions occur in the breed. CAER eye exam clearances should be provided by reputable breeders.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Cancer</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The breed has an elevated cancer tendency compared to many breeds. Toe/nail bed tumors and other forms occur. Regular vet exams matter for early detection.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA thyroid, CAER eye exam clearances. Ask about epilepsy and autoimmune history in both parent lines.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$3,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (large crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Training</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$200–$500</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$4,350–$8,400</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,150–$4,000</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/giant-schnauzer-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Giant Schnauzer first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Giant Schnauzer Right for You?",
@@ -92,25 +121,50 @@
         "Households with very young children unless the owner is highly experienced"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Giant Schnauzer",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$3,000 from reputable breeders. Required health clearances: OFA hip, OFA thyroid, CAER eye exam. The Giant Schnauzer Club of America maintains a breeder referral directory. Ask about epilepsy and autoimmune history in both parent lines — responsible breeders will have this information and discuss it honestly.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Giant Schnauzers are surrendered with some regularity by owners who underestimated the temperament and exercise requirements. Rescue is a worthwhile option for experienced handlers. Expect an unknown history and the need for patient, structured reintegration. Giant Schnauzer Club of America rescue and regional breed rescues are the best starting points.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Giant Schnauzer comes home, complete the <a href=\"/blogs/dog-breeds/giant-schnauzer-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Giant Schnauzer puppy checklist</a> — fencing, trainer identification, and insurance enrollment are the critical pre-arrival items.</p>"
     }
   },
-
   "faq": [
-    { "q": "Are Giant Schnauzers good family dogs?", "a": "In experienced hands — yes. Giant Schnauzers are loyal and protective of their family, including children in the household. They are not suitable for families expecting a tolerant, easygoing dog. Their dominance and size requires confident management, and interactions with young children should always be supervised. For families with dog experience who want a protective, engaged companion, they can be excellent." },
-    { "q": "How much exercise does a Giant Schnauzer need?", "a": "90–120 minutes of vigorous exercise daily, minimum. This is not a breed that gets by with a leisurely walk around the block. Running, hiking, dog sports, or play in a large securely fenced area is required. Insufficient exercise produces a frustrated, destructive, and dominant dog. If you cannot commit to this level of activity reliably, look at a less demanding breed." },
-    { "q": "Are Giant Schnauzers aggressive?", "a": "Giant Schnauzers have strong guarding instincts and can be aggressive toward strangers or other dogs if not properly socialized and managed. This is not the same as being uncontrollably dangerous — a well-socialized, well-trained Giant Schnauzer under confident handling is a controlled dog. The risk comes from under-socialization, passive ownership, and insufficient training. In those contexts, their size and guarding drive creates real safety concerns." },
-    { "q": "What is hand-stripping and does my Giant Schnauzer need it?", "a": "Hand-stripping is the traditional technique for maintaining the wiry Schnauzer coat — dead hairs are pulled out by hand rather than cut, which preserves the coat's hard texture and color. Show dogs require it. Pet dogs are typically clipped instead, which is easier and less expensive but eventually softens the coat texture and may affect color. Both are valid options depending on your goals. See the grooming guide for details." }
+    {
+      "q": "Are Giant Schnauzers good family dogs?",
+      "a": "In experienced hands — yes. Giant Schnauzers are loyal and protective of their family, including children in the household. They are not suitable for families expecting a tolerant, easygoing dog. Their dominance and size requires confident management, and interactions with young children should always be supervised. For families with dog experience who want a protective, engaged companion, they can be excellent."
+    },
+    {
+      "q": "How much exercise does a Giant Schnauzer need?",
+      "a": "90–120 minutes of vigorous exercise daily, minimum. This is not a breed that gets by with a leisurely walk around the block. Running, hiking, dog sports, or play in a large securely fenced area is required. Insufficient exercise produces a frustrated, destructive, and dominant dog. If you cannot commit to this level of activity reliably, look at a less demanding breed."
+    },
+    {
+      "q": "Are Giant Schnauzers aggressive?",
+      "a": "Giant Schnauzers have strong guarding instincts and can be aggressive toward strangers or other dogs if not properly socialized and managed. This is not the same as being uncontrollably dangerous — a well-socialized, well-trained Giant Schnauzer under confident handling is a controlled dog. The risk comes from under-socialization, passive ownership, and insufficient training. In those contexts, their size and guarding drive creates real safety concerns."
+    },
+    {
+      "q": "What is hand-stripping and does my Giant Schnauzer need it?",
+      "a": "Hand-stripping is the traditional technique for maintaining the wiry Schnauzer coat — dead hairs are pulled out by hand rather than cut, which preserves the coat's hard texture and color. Show dogs require it. Pet dogs are typically clipped instead, which is easier and less expensive but eventually softens the coat texture and may affect color. Both are valid options depending on your goals. See the grooming guide for details."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Standard Schnauzer", "slug": "standard-schnauzer", "note": "Same family, significantly smaller and more manageable, same wiry coat"},
-    {"name": "Doberman Pinscher", "slug": "doberman-pinscher", "note": "Similar working dog intelligence and loyalty, more trainable, established breed for personal protection"},
-    {"name": "Rottweiler", "slug": "rottweiler", "note": "Similar guardian temperament, heavier build, different coat type"},
-    {"name": "Belgian Malinois", "slug": "belgian-malinois", "note": "Higher drive, more demanding, similar working dog intensity"}
+    {
+      "name": "Standard Schnauzer",
+      "slug": "standard-schnauzer",
+      "note": "Same family, significantly smaller and more manageable, same wiry coat"
+    },
+    {
+      "name": "Doberman Pinscher",
+      "slug": "doberman-pinscher",
+      "note": "Similar working dog intelligence and loyalty, more trainable, established breed for personal protection"
+    },
+    {
+      "name": "Rottweiler",
+      "slug": "rottweiler",
+      "note": "Similar guardian temperament, heavier build, different coat type"
+    },
+    {
+      "name": "Belgian Malinois",
+      "slug": "belgian-malinois",
+      "note": "Higher drive, more demanding, similar working dog intensity"
+    }
   ]
 }

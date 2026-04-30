@@ -5,7 +5,11 @@
     "shopify_handle": "belgian-tervuren-puppy-checklist",
     "group": "Belgian Tervuren",
     "size_category": "Guide",
-    "tags": ["belgian-tervuren", "puppy", "checklist"],
+    "tags": [
+      "belgian-tervuren",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "Preparing for a Belgian Tervuren puppy means setting up for an energetic, intelligent, and long-coated herding breed. Use this checklist to get everything ready before your Tervuren puppy comes home.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mus%C3%A9e_royal_de_l%27Afrique_centrale_20.JPG/330px-Mus%C3%A9e_royal_de_l%27Afrique_centrale_20.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_b64c5b70-5c4d-458f-8e91-2a39a2ca0d4d.png?v=1777573741",
       "alt": "Belgian Tervuren puppy checklist"
     }
   },

@@ -5,7 +5,11 @@
     "shopify_handle": "chinese-crested-first-year-costs",
     "group": "Chinese Crested",
     "size_category": "Guide",
-    "tags": ["chinese-crested", "costs", "first-year"],
+    "tags": [
+      "chinese-crested",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "The Chinese Crested has moderate ownership costs elevated by skin care supplies (hairless variety) and ongoing dental care. This guide breaks down year-one expenses and the long-term costs of a breed that can live 13–18 years.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IndyStands.jpg/330px-IndyStands.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_70b2ce9d-1c5a-435d-b89f-642190b9b450.png?v=1777574321",
       "alt": "Chinese Crested cost guide"
     }
   },

@@ -6,74 +6,103 @@
     "group": "Non-Sporting Group",
     "size_category": "Small Breed",
     "tagline": "The Lhasa Apso is an ancient Tibetan sentinel dog — independent, dignified, and surprisingly assertive for its size. They bond deeply with family while remaining aloof with strangers, and they come with a coat that demands a real grooming commitment.",
-    "tags": ["non-sporting-group", "small-breed", "independent", "watchdog", "tibetan-breed", "dog-breeds"],
+    "tags": [
+      "non-sporting-group",
+      "small-breed",
+      "independent",
+      "watchdog",
+      "tibetan-breed",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "Lhasa Apsos look like lap dogs but don't act like them. These ancient Tibetan sentinel dogs are independent, alert, and capable of real stubbornness. They're devoted to their family, aloof with strangers, and come with a coat that requires serious maintenance.",
     "meta_description": "Lhasa Apso breed guide: independent temperament, watchdog instincts, grooming requirements, renal dysplasia and other health concerns, and whether a Lhasa fits your household."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Small" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "12–18 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–15 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "30–45 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Older kids" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With research" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "12–18 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "30–45 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Older kids"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "With research"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aishia.jpg/250px-Aishia.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_9a014aca-0119-4444-9aac-92b62c02e9c5.png?v=1777575573",
       "alt": "Lhasa Apso"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Lhasa Apso?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Lhasa Apso originated in the Himalayan highlands of Tibet, where it served as a sentinel dog in monasteries and noble households for over a thousand years. These dogs were never working dogs in the physical sense — they were watchdogs, alert to intruders and trusted to sound the alarm to the larger Tibetan Mastiffs posted outside. That history shaped a dog with sharp senses, genuine wariness of strangers, and a sense of its own authority that still surprises owners expecting a mellow lap dog.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Lhasa's floor-length coat — flowing, parted down the middle in full show trim — is one of the most recognizable in the dog world, and one of the most demanding. Many pet owners opt for a shorter \"puppy trim,\" which significantly reduces grooming labor without sacrificing the breed's essential character.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">What most people don't expect: Lhasa Apsos are assertive, opinionated, and not especially eager to please. They're devoted to their family but on their own terms. They think, they evaluate, and they sometimes simply decide not to comply. Understanding this before you get one is the difference between finding it charming and finding it frustrating.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Lhasa Apsos Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Small and sturdy — 12 to 18 pounds, 10 to 11 inches at the shoulder. The body is slightly longer than tall, and the whole structure is solid beneath all that coat. The heavy fall of hair over the face is protective in origin — it shielded the dog's eyes from the harsh Himalayan wind and sun.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Coat colors include gold, honey, dark grizzle, slate, smoke, particolors, white, brown, and black. The full show coat literally reaches the floor. In a pet trim, the coat is cut to a manageable length — still recognizably Lhasa, but dramatically easier to maintain. Either way, the coat is the breed's defining feature and its biggest maintenance demand.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family: deeply loyal, often velcro-like with their chosen person, and genuinely affectionate on their own schedule. Lhasa Apsos are not effusively friendly — they are selectively devoted. They tend to bond most closely with one or two people and are more reserved with others in the household.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With strangers: naturally aloof and sometimes openly suspicious. The breed was literally bred to not trust unknown people. A well-socialized Lhasa learns to tolerate and accept strangers without warmth; an under-socialized one can be snappy. This is not a dog that greets everyone enthusiastically at the door — it's a dog that observes and evaluates.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Independence and stubbornness are real breed traits. Lhasa Apsos are capable of learning what you want and then deciding whether it's worth their effort. They respond to patient, reward-based training and poorly to harsh correction. They were never bred to take direction — they were bred to make their own judgments. That mindset persists.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Lhasa Apso",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Lhasa Apso is frequently misread as a decorative small dog that will happily go along with anything. It is not. There is a real dog under that coat — alert, independent, and with a genuine sense of self. The breed's ancient role as a sentinel shaped a personality that doesn't need your approval and isn't going to perform for you on demand.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">If you want a small dog with actual character and independence, the Lhasa delivers. If you want a small dog that's easy, biddable, and uniformly friendly, look elsewhere. The grooming commitment is also real — a full coat in proper condition is a daily task. If you're not willing to brush the coat or budget for regular professional grooming, this is not your breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">One health note that every Lhasa prospective owner should know: renal dysplasia — a progressive kidney disease — is a genuine breed concern. Ask breeders about it directly. A responsible breeder will know what it is, screen for it, and be transparent about the lines they work with.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate — 30 to 45 minutes of daily activity is sufficient. Lhasa Apsos are not high-energy dogs, but they are not couch potatoes either. Leash walks, indoor play, and a small yard are adequate. They are adaptable to apartment living when walked consistently.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">High maintenance in full coat; moderate in a short pet trim. Dogs kept in long coat need daily brushing to prevent mats, plus professional grooming every 6 to 8 weeks. Dogs in short trim still need brushing 2 to 3 times per week and professional grooming every 8 to 10 weeks. See the <a href=\"/blogs/dog-breeds/lhasa-apso-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Lhasa Apso grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Possible but requires patience. Lhasa Apsos are smart enough to learn quickly and independent enough to comply selectively. Positive reinforcement, short sessions, and consistency work. Harsh corrections or prolonged repetition produce a dog that simply disengages. Housetraining can take longer than with more biddable breeds — consistency and crate training matter here.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Lhasa Apso is a generally long-lived breed at 12 to 15 years. The most serious breed-specific concern is renal dysplasia — a progressive kidney disease that affects the breed at a higher rate than most. Responsible breeders take this seriously; buyers should too.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Renal Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Progressive kidney disease notable in this breed — abnormal kidney development that worsens over time. Can manifest in young dogs. Ask breeders directly about kidney disease in their lines. There is no cure; management focuses on diet and supportive care.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inherited retinal degeneration leading to blindness. DNA tests available. Reputable breeders screen breeding stock.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint causing pain and arthritis. Less common than in large breeds but present in Lhasas. OFA screening available.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Sebaceous Adenitis</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inflammatory skin condition affecting sebaceous glands, causing dry flaky skin and hair loss. Manageable with medicated shampoos and treatment; not life-threatening.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Patellar Luxation</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Kneecap slipping out of position — common in small breeds. Mild cases are managed conservatively; severe cases may require surgery. OFA patella evaluation available.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> CAER eye exam, OFA patella, OFA hip, and documentation regarding renal dysplasia screening in their lines.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,000–$2,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (small breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,550–$4,900</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,250–$2,300</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/lhasa-apso-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Lhasa Apso first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Lhasa Apso Right for You?",
@@ -92,25 +121,50 @@
         "Owners who want a dog that's warm and friendly with everyone it meets"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Lhasa Apso",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,000–$2,000 from reputable breeders. The American Lhasa Apso Club maintains breeder referrals. Required health documentation: CAER eye exam, OFA patella, and frank discussion of renal dysplasia in the breeder's lines. A breeder who doesn't know what renal dysplasia is, or dismisses the question, is not the right breeder.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Lhasa Apso rescue organizations operate in most regions. Adult rescues can be excellent — you see the actual temperament, the dog is past the destructive puppy phase, and many are already grooming-tolerant. Some arrive from owners who underestimated the coat maintenance or the independent personality.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Lhasa comes home, complete the <a href=\"/blogs/dog-breeds/lhasa-apso-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Lhasa Apso puppy checklist</a> — grooming tools, vet appointment, and pet insurance are the critical pre-arrival items.</p>"
     }
   },
-
   "faq": [
-    { "q": "Are Lhasa Apsos good with children?", "a": "Better with older children than young ones. Lhasa Apsos are small, can be snappy if handled roughly, and don't have the endless tolerance of some larger family breeds. With children who understand to give the dog space and not grab or pick it up uninvited, a Lhasa can be a fine companion. With toddlers, supervision is essential." },
-    { "q": "Do Lhasa Apsos bark a lot?", "a": "More than average. They were bred as sentinel dogs and take that role seriously — alerting to sounds, strangers, and perceived intruders is instinctive. With training and socialization, excessive barking can be managed, but some alert barking is a fixed breed trait. Apartment neighbors should be considered." },
-    { "q": "What is renal dysplasia and should I be worried?", "a": "Renal dysplasia is a progressive kidney disease that appears at higher rates in Lhasa Apsos than in most breeds. Affected dogs have abnormally developed kidneys that deteriorate over time; some dogs show signs young, others live years before symptoms appear. Ask breeders directly about kidney health in their lines. It's a real concern, not a fringe issue, and it's one reason pet insurance is particularly important for this breed." },
-    { "q": "How much grooming does a Lhasa Apso really need?", "a": "In full coat: daily brushing to prevent mats, plus professional grooming every 6 to 8 weeks. In a pet trim: brushing 2 to 3 times per week and grooming every 8 to 10 weeks. Either way, the coat is the breed's biggest maintenance demand. Most pet owners choose the shorter trim — it's more practical and the dog doesn't know the difference." }
+    {
+      "q": "Are Lhasa Apsos good with children?",
+      "a": "Better with older children than young ones. Lhasa Apsos are small, can be snappy if handled roughly, and don't have the endless tolerance of some larger family breeds. With children who understand to give the dog space and not grab or pick it up uninvited, a Lhasa can be a fine companion. With toddlers, supervision is essential."
+    },
+    {
+      "q": "Do Lhasa Apsos bark a lot?",
+      "a": "More than average. They were bred as sentinel dogs and take that role seriously — alerting to sounds, strangers, and perceived intruders is instinctive. With training and socialization, excessive barking can be managed, but some alert barking is a fixed breed trait. Apartment neighbors should be considered."
+    },
+    {
+      "q": "What is renal dysplasia and should I be worried?",
+      "a": "Renal dysplasia is a progressive kidney disease that appears at higher rates in Lhasa Apsos than in most breeds. Affected dogs have abnormally developed kidneys that deteriorate over time; some dogs show signs young, others live years before symptoms appear. Ask breeders directly about kidney health in their lines. It's a real concern, not a fringe issue, and it's one reason pet insurance is particularly important for this breed."
+    },
+    {
+      "q": "How much grooming does a Lhasa Apso really need?",
+      "a": "In full coat: daily brushing to prevent mats, plus professional grooming every 6 to 8 weeks. In a pet trim: brushing 2 to 3 times per week and grooming every 8 to 10 weeks. Either way, the coat is the breed's biggest maintenance demand. Most pet owners choose the shorter trim — it's more practical and the dog doesn't know the difference."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Shih Tzu", "slug": "shih-tzu", "note": "Similar Tibetan origin, slightly more outgoing temperament, same coat demands"},
-    {"name": "Tibetan Terrier", "slug": "tibetan-terrier", "note": "Larger Tibetan breed, similar independent nature, athletic and more active"},
-    {"name": "Tibetan Spaniel", "slug": "tibetan-spaniel", "note": "Similar monastery watchdog history, shorter easier coat, equally cat-like personality"},
-    {"name": "Pekingese", "slug": "pekingese", "note": "Similarly dignified and independent, even more low-energy, palace dog origins"}
+    {
+      "name": "Shih Tzu",
+      "slug": "shih-tzu",
+      "note": "Similar Tibetan origin, slightly more outgoing temperament, same coat demands"
+    },
+    {
+      "name": "Tibetan Terrier",
+      "slug": "tibetan-terrier",
+      "note": "Larger Tibetan breed, similar independent nature, athletic and more active"
+    },
+    {
+      "name": "Tibetan Spaniel",
+      "slug": "tibetan-spaniel",
+      "note": "Similar monastery watchdog history, shorter easier coat, equally cat-like personality"
+    },
+    {
+      "name": "Pekingese",
+      "slug": "pekingese",
+      "note": "Similarly dignified and independent, even more low-energy, palace dog origins"
+    }
   ]
 }

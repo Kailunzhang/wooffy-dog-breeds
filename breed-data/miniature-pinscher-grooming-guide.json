@@ -5,7 +5,10 @@
     "shopify_handle": "miniature-pinscher-grooming-guide",
     "group": "Miniature Pinscher",
     "size_category": "Guide",
-    "tags": ["miniature-pinscher", "grooming"],
+    "tags": [
+      "miniature-pinscher",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "The Miniature Pinscher's short, smooth coat is one of the easiest to maintain of any breed. This grooming guide covers their minimal routine needs and the extra steps that keep a Min Pin looking sharp.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Miniature_pinscher.jpg/330px-Miniature_pinscher.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4f2a98e1-0860-4809-b11d-589dd19cbab2.png?v=1777575758",
       "alt": "Miniature Pinscher"
     }
   },

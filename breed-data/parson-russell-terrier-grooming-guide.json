@@ -5,7 +5,10 @@
     "shopify_handle": "parson-russell-terrier-grooming-guide",
     "group": "Parson Russell Terrier",
     "size_category": "Guide",
-    "tags": ["parson-russell-terrier", "grooming"],
+    "tags": [
+      "parson-russell-terrier",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Parson Russell Terrier comes in smooth, broken, and rough coat varieties — each with slightly different grooming needs. Learn how to keep each coat type looking sharp with minimal effort.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/05052881_PRT_braun_rau.jpg/330px-05052881_PRT_braun_rau.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_9a65234b-9362-496e-a5d8-89db54812f4e.png?v=1777576095",
       "alt": "Parson Russell Terrier"
     }
   },

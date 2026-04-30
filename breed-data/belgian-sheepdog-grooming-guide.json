@@ -5,7 +5,10 @@
     "shopify_handle": "belgian-sheepdog-grooming-guide",
     "group": "Belgian Sheepdog",
     "size_category": "Guide",
-    "tags": ["belgian-sheepdog", "grooming"],
+    "tags": [
+      "belgian-sheepdog",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "The Belgian Sheepdog's long, dense all-black double coat requires consistent brushing to prevent mats and manage heavy shedding. This guide covers the full grooming routine for this elegant Belgian herding breed.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/04_-_Belgian_shepherd_dog_varieties_-_Groenendael%2CTervuren%2C_Malinois%2C_Laekenois.jpg/330px-04_-_Belgian_shepherd_dog_varieties_-_Groenendael%2CTervuren%2C_Malinois%2C_Laekenois.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4c4cd6e7-a73d-44b6-b9e4-e068b16c8bef.png?v=1777573683",
       "alt": "Belgian Sheepdog grooming"
     }
   },

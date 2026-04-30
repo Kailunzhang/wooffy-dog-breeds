@@ -5,7 +5,11 @@
     "shopify_handle": "brussels-griffon-puppy-checklist",
     "group": "Brussels Griffon",
     "size_category": "Guide",
-    "tags": ["brussels-griffon", "puppy", "checklist"],
+    "tags": [
+      "brussels-griffon",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "Bringing home a Brussels Griffon puppy means preparing for a sensitive, devoted little dog that will want to be your shadow. This checklist covers the supplies, vet priorities, and socialization essentials for a confident, well-adjusted Griffon.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Monkey_Bizniz_Drama_Queen.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_ee179884-68e9-40d0-808c-92ba09095485.png?v=1777574171",
       "alt": "Brussels Griffon puppy checklist"
     }
   },

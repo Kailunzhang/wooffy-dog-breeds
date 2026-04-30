@@ -5,7 +5,10 @@
     "shopify_handle": "belgian-tervuren-grooming-guide",
     "group": "Belgian Tervuren",
     "size_category": "Guide",
-    "tags": ["belgian-tervuren", "grooming"],
+    "tags": [
+      "belgian-tervuren",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Belgian Tervuren's long mahogany double coat requires consistent brushing to prevent mats and manage heavy shedding. This guide covers the complete grooming routine for this stunning herding breed.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mus%C3%A9e_royal_de_l%27Afrique_centrale_20.JPG/330px-Mus%C3%A9e_royal_de_l%27Afrique_centrale_20.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_947d6036-2335-43c7-bf9a-558482c8c075.png?v=1777573745",
       "alt": "Belgian Tervuren grooming"
     }
   },

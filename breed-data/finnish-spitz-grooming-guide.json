@@ -5,7 +5,10 @@
     "shopify_handle": "finnish-spitz-grooming-guide",
     "group": "Finnish Spitz",
     "size_category": "Guide",
-    "tags": ["finnish-spitz", "grooming"],
+    "tags": [
+      "finnish-spitz",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "The Finnish Spitz's golden-red double coat is self-cleaning but sheds heavily twice a year. This guide covers brushing routines, managing seasonal shedding, and keeping that brilliant coat looking its best.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Finnish_Spitz_600.jpg/330px-Finnish_Spitz_600.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_b48737fe-ccb5-4cbf-b8f8-ee2260648c5e.png?v=1777574823",
       "alt": "Finnish Spitz grooming"
     }
   },

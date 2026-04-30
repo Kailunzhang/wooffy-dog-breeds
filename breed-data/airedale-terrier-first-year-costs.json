@@ -5,20 +5,24 @@
     "shopify_handle": "airedale-terrier-first-year-costs",
     "group": "Airedale Terrier",
     "size_category": "Guide",
-    "tags": ["airedale-terrier", "cost", "budget", "first-year", "medium-breed"],
+    "tags": [
+      "airedale-terrier",
+      "cost",
+      "budget",
+      "first-year",
+      "medium-breed"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "Airedale Terrier ownership costs $2,500–$5,200 in the first year. Grooming is the standout ongoing cost — professional trimming every 8–12 weeks adds up. Pet insurance is important given the breed's orthopedic risk.",
     "meta_description": "Airedale Terrier first year costs: puppy price, food, vet care, professional grooming budget, insurance, and lifetime cost estimates."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Airedale_Terrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_86ac219c-d881-440d-84cb-38db1a19bdf6.png?v=1777572814",
       "alt": "Airedale Terrier first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With an 11–14 year lifespan, an Airedale represents a substantial but manageable long-term financial commitment.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, minimal health interventions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$18,000–$28,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate health issues (hypothyroidism, mild hip dysplasia)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$24,000–$36,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant health issues (hip surgery, chronic skin condition)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$32,000–$50,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">Grooming costs alone add $3,600–$7,200 over a 12-year lifespan — a figure smooth-coated breed owners never face. Factor this into your ongoing budget from the start.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does an Airedale Terrier puppy cost from a reputable breeder?",

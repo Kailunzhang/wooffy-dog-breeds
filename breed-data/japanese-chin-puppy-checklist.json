@@ -5,7 +5,11 @@
     "shopify_handle": "japanese-chin-puppy-checklist",
     "group": "Japanese Chin",
     "size_category": "Guide",
-    "tags": ["japanese-chin", "puppy", "checklist"],
+    "tags": [
+      "japanese-chin",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "Preparing for a Japanese Chin puppy means creating a calm, safe environment and starting daily health routines from day one. This checklist covers supplies, home prep, and early care for this sensitive Toy breed.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Chin_posing.jpg/330px-Chin_posing.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_d7534f09-201d-44a7-9fdc-be287f30b4b5.png?v=1777575186",
       "alt": "Japanese Chin"
     }
   },

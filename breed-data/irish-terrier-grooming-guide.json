@@ -5,20 +5,24 @@
     "shopify_handle": "irish-terrier-grooming-guide",
     "group": "Irish Terrier",
     "size_category": "Guide",
-    "tags": ["irish-terrier", "grooming", "hand-stripping", "wiry-coat", "low-shedding"],
+    "tags": [
+      "irish-terrier",
+      "grooming",
+      "hand-stripping",
+      "wiry-coat",
+      "low-shedding"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "The Irish Terrier's wiry red coat is low-shedding and low-maintenance between sessions — but it needs hand-stripping or clipping twice a year to stay tidy. Here's what that means in practice and how to choose your approach.",
     "meta_description": "Irish Terrier grooming guide: hand-stripping vs clipping the wiry red coat, weekly maintenance routine, beard cleaning, and tool recommendations for this low-shedding terrier."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/IrishTerrierSydenhamHillWoods.jpg/250px-IrishTerrierSydenhamHillWoods.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_f663fd53-d4fa-4a94-aa21-560b1d43d0f0.png?v=1777575133",
       "alt": "Irish Terrier grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Irish Terrier Coat",
@@ -36,7 +40,6 @@
       "html": "<p>The Irish Terrier's beard and eyebrows are breed hallmarks — they add to the distinctive expression — but they need specific attention. The beard area is the most maintenance-intensive part of the coat on a weekly basis.</p><h3>Beard Maintenance</h3><ul><li>Wipe the beard after every meal. This prevents staining (the red coat shows discoloration clearly) and prevents food particles from creating a persistent damp, odorous area</li><li>Comb through the beard 2–3 times per week to prevent tangles from developing. Once the beard tangles, combing through it is uncomfortable for the dog</li><li>Use a gentle dog-safe conditioner on the beard area when bathing — it keeps the texture manageable between sessions</li><li>Trim the beard corners with scissors if needed to keep them from dragging in the food bowl or water bowl — this is a practical pet trim that has nothing to do with show grooming</li></ul><h3>Grooming a Bold Terrier</h3><p>Irish Terriers are confident, bold dogs that are not inherently submissive about handling. Grooming tolerance is built through consistent practice from puppyhood. Start handling all body parts — paws, ears, inside the mouth, body — from day one. An Irish Terrier that has been handled regularly since puppyhood is manageable. An adult that has never been groomed properly is a project.</p><ul><li>Use high-value treats during grooming sessions to build positive association with the tools and process</li><li>Work in short sessions rather than marathon grooming — 15 minutes of focused, productive work beats 45 minutes of wrestling</li><li>Non-slip mat on the grooming surface: terriers are steadier when they feel secure underfoot</li><li>If the dog is genuinely resistant to nail trimming, a rotary dremel grinder is often better tolerated than clippers</li></ul><h3>Eye Area Care</h3><p>The fall of hair near the eyes can occasionally cause irritation if it grows long enough to contact the eye surface. Check periodically and trim the eyebrow hair that falls toward the eyes if needed. Any sign of discharge, redness, or squinting warrants a vet check rather than just grooming attention.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Do Irish Terriers shed?",

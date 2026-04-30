@@ -5,7 +5,10 @@
     "shopify_handle": "bouvier-des-flandres-grooming-guide",
     "group": "Bouvier des Flandres",
     "size_category": "Guide",
-    "tags": ["bouvier-des-flandres", "grooming"],
+    "tags": [
+      "bouvier-des-flandres",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "The Bouvier des Flandres has a thick, rough double coat that requires regular brushing and professional trimming. This guide covers everything from weekly brushing routines to beard maintenance.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bouvier.JPG/330px-Bouvier.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ce55ed97-61ce-44d6-9edb-c33b9ace347f.png?v=1777573868",
       "alt": "Bouvier des Flandres grooming"
     }
   },

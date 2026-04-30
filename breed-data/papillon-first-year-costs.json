@@ -5,7 +5,11 @@
     "shopify_handle": "papillon-first-year-costs",
     "group": "Papillon",
     "size_category": "Guide",
-    "tags": ["papillon", "costs", "first-year"],
+    "tags": [
+      "papillon",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "The Papillon is a cost-efficient breed to own thanks to its small size and manageable grooming needs. This breakdown covers everything from purchase price to annual ongoing expenses for the butterfly-eared Toy champion.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Papillon-dog-black.jpg/330px-Papillon-dog-black.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_f6182553-8d94-411e-abeb-44a8aa36fe94.png?v=1777576019",
       "alt": "Papillon"
     }
   },

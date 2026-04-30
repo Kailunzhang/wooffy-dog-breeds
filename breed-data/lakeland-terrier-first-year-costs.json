@@ -5,7 +5,11 @@
     "shopify_handle": "lakeland-terrier-first-year-costs",
     "group": "Lakeland Terrier",
     "size_category": "Guide",
-    "tags": ["lakeland-terrier", "costs", "first-year"],
+    "tags": [
+      "lakeland-terrier",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "The Lakeland Terrier is a moderately priced small breed with ongoing professional grooming as the primary recurring cost. Here is a realistic first-year and annual budget breakdown.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lakeland_Terrier.jpg/330px-Lakeland_Terrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_52c762ed-e001-4d54-9607-fc7b75dbeee3.png?v=1777575464",
       "alt": "Lakeland Terrier cost guide"
     }
   },

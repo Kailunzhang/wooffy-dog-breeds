@@ -5,20 +5,25 @@
     "shopify_handle": "affenpinscher-puppy-checklist",
     "group": "Affenpinscher",
     "size_category": "Guide",
-    "tags": ["affenpinscher", "puppy", "checklist", "patellar-luxation", "legg-calve-perthes", "socialization"],
+    "tags": [
+      "affenpinscher",
+      "puppy",
+      "checklist",
+      "patellar-luxation",
+      "legg-calve-perthes",
+      "socialization"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "Before your Affenpinscher puppy arrives: get pet insurance before the first vet visit, have the vet check the patella at the first exam, and know the signs of Legg-Calvé-Perthes during the first year.",
     "meta_description": "Affenpinscher puppy checklist: patellar luxation check at first vet visit, Legg-Calvé-Perthes awareness during the first year, cardiac screening, gear list, and socialization for this independent toy breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Affenpinscher.jpg/250px-Affenpinscher.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9b51f5f4-686f-439b-a81c-3d0c86ee6e94.png?v=1777572759",
       "alt": "Affenpinscher puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Socialization: Bold But Needs It</h3><p>Affenpinschers are confident dogs, but confidence isn't the same as being well-socialized. Without good socialization during the 8–16 week window, that confidence can become reactive — a dog that challenges everything rather than assessing it. Socialization produces a confident dog that can assess situations accurately rather than one that defaults to bravado.</p><ul><li>Positive exposures to different people: children, elderly, people in uniforms, people with unusual accessories</li><li>Different environments: urban sounds, traffic, various floor surfaces, elevators, crowds</li><li>Controlled interactions with friendly, vaccinated dogs in puppy class</li><li>The goal is not to make the Affenpinscher love strangers — it's to make the dog confident and controlled around them</li></ul><h3>Training Approach</h3><p>Affenpinschers are intelligent and stubborn in equal measure. Short sessions with high-value rewards work. Marathon drilling produces a dog that simply disengages. The breed responds to training that feels like a game — trick training and reward-based obedience where the dog is choosing to participate rather than being compelled.</p><ul><li>Sit, down, come, leave it from the first week — particularly come and leave it for safety management</li><li>Loose-leash walking from the first walk — small dogs that pull are less dangerous than large ones, but the habit is still better unlearned</li><li>Housetraining: consistent schedule and crate training for the toy breed timeline (expect 4–6 months of work)</li><li>No jumping up on people — adorable at 8 lbs but still a habit worth preventing from the start</li></ul><h3>Managing Interactions With Other Dogs</h3><p>Affenpinschers are terrier-spirited — they will not back down from a challenge regardless of size. This creates real risk in encounters with larger dogs. From day one:</p><ul><li>Practice management skills: redirect past approaching dogs, call the puppy away from intense interactions</li><li>Teach the puppy to disengage from another dog when called — this is one of the most important safety skills for a small dog with a big attitude</li><li>Supervise all interactions with larger dogs until trust is established</li></ul>"
     }
   },
-
   "faq": [
     {
       "q": "How do I know if my Affenpinscher puppy has Legg-Calvé-Perthes disease?",

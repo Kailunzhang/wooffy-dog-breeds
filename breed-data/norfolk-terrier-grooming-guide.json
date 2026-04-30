@@ -5,7 +5,10 @@
     "shopify_handle": "norfolk-terrier-grooming-guide",
     "group": "Norfolk Terrier",
     "size_category": "Guide",
-    "tags": ["norfolk-terrier", "grooming"],
+    "tags": [
+      "norfolk-terrier",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "The Norfolk Terrier's hard, wiry coat is low-shedding but needs regular brushing and periodic stripping or trimming to stay healthy. This guide covers everything from weekly brushing to hand-stripping techniques.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Norfolk_terrier_CAC.jpg/330px-Norfolk_terrier_CAC.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_49439493-a618-4c60-a708-30860e556c0a.png?v=1777575823",
       "alt": "Norfolk Terrier grooming"
     }
   },

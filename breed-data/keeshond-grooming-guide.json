@@ -5,20 +5,25 @@
     "shopify_handle": "keeshond-grooming-guide",
     "group": "Keeshond",
     "size_category": "Guide",
-    "tags": ["keeshond", "grooming", "double-coat", "shedding", "never-shave", "spectacle-markings"],
+    "tags": [
+      "keeshond",
+      "grooming",
+      "double-coat",
+      "shedding",
+      "never-shave",
+      "spectacle-markings"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "The Keeshond's spectacular double coat sheds heavily twice a year and moderately all the time. Weekly brushing, a high-velocity dryer approach to coat blows, and a firm no-shave policy are the fundamentals of Keeshond coat care.",
     "meta_description": "Keeshond grooming guide: managing the heavy double coat and seasonal coat blows, the spectacle marking eye area, NEVER SHAVE rule explained, tool recommendations, and weekly routine."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Keeshond_Majic_standing_cropped.jpg/250px-Keeshond_Majic_standing_cropped.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4e7a2eeb-a0b1-48e9-8f34-86d74d1b677b.png?v=1777575255",
       "alt": "Keeshond grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Keeshond Coat",
@@ -36,7 +41,6 @@
       "html": "<h3>The Spectacle Markings: Care and Preservation</h3><p>The distinctive dark shading lines from the eye corners to the ears — the spectacle markings that make the Keeshond instantly recognizable — are a natural coat coloration, not something that can be maintained or altered by grooming. What grooming does affect is the area around and beneath the markings:</p><ul><li>Gently wipe the inner corner of each eye daily with a damp cloth to remove any discharge. Tear staining is less dramatic than in breeds like Lhasa Apsos, but routine wiping prevents accumulation</li><li>The spectacle area shading can look best when the coat around it is well-brushed and lying flat — consistent grooming maintains the correct coat direction that showcases the markings</li><li>Don't use grooming products (whitening shampoos, bleaching agents) on the spectacle area — these are natural markings, and trying to alter them damages the coat</li></ul><h3>Grooming a Social Breed</h3><p>Keeshonds are people-oriented, social dogs that generally accept grooming well when accustomed to it from puppyhood. Unlike more independent or guardian breeds, a Keeshond that was handled consistently from puppyhood is usually a cooperative grooming subject.</p><ul><li>Start grooming handling from day one — brush for 5 minutes with treats, build to full sessions over weeks</li><li>Use grooming time as bonding time — the Keeshond's social nature means grooming can become a positive routine rather than a chore for either party</li><li>Non-slip mat on the grooming surface; most dogs are calmer when they feel stable underfoot</li><li>If the dog becomes wiggly or uncooperative, end the session on a successful note (a simple sit + treat) rather than forcing completion — come back and finish later</li></ul><h3>Managing the Ruff and Trousers</h3><p>The ruff (the thick mane around the neck and chest) and the trousers (the thick feathering on the hindquarters and rear legs) are the densest, most mat-prone areas. When brushing, part the ruff and work from the skin outward — don't just brush over the surface. The same applies to the trousers. A wide-tooth comb drawn through after brushing tells you whether you've actually gotten through to the skin or only cleared the surface layer.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often do Keeshonds need professional grooming?",

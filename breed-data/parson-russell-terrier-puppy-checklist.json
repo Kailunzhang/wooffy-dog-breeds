@@ -5,7 +5,11 @@
     "shopify_handle": "parson-russell-terrier-puppy-checklist",
     "group": "Parson Russell Terrier",
     "size_category": "Guide",
-    "tags": ["parson-russell-terrier", "puppy", "checklist"],
+    "tags": [
+      "parson-russell-terrier",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "Bringing home a Parson Russell Terrier puppy? Use this checklist to prepare your home, start socialization, and begin training this fearless, athletic little hunting terrier.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/05052881_PRT_braun_rau.jpg/330px-05052881_PRT_braun_rau.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_13a29168-c7b5-402a-8903-60e489ad42f7.png?v=1777576129",
       "alt": "Parson Russell Terrier"
     }
   },

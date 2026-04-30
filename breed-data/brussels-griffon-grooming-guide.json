@@ -5,7 +5,10 @@
     "shopify_handle": "brussels-griffon-grooming-guide",
     "group": "Brussels Griffon",
     "size_category": "Guide",
-    "tags": ["brussels-griffon", "grooming"],
+    "tags": [
+      "brussels-griffon",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "Brussels Griffons come in rough and smooth coat varieties with very different grooming requirements. This guide covers hand-stripping versus clipping for rough coats, smooth coat care, and facial hygiene for both varieties.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Monkey_Bizniz_Drama_Queen.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_0034635a-f9b2-4a75-92c2-04dda241bb06.png?v=1777574175",
       "alt": "Brussels Griffon grooming"
     }
   },

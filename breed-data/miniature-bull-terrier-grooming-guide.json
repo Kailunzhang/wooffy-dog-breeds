@@ -5,7 +5,10 @@
     "shopify_handle": "miniature-bull-terrier-grooming-guide",
     "group": "Miniature Bull Terrier",
     "size_category": "Guide",
-    "tags": ["miniature-bull-terrier", "grooming"],
+    "tags": [
+      "miniature-bull-terrier",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Miniature Bull Terrier's short, flat coat is one of the lowest-maintenance in the dog world. A quick weekly brush and occasional bath is all this breed needs to look its best.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Minibull_2_Moletai_May_2014.jpg/330px-Minibull_2_Moletai_May_2014.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_8f8d8fe9-0629-4f1d-b6b3-8e446cd7f493.png?v=1777575685",
       "alt": "Miniature Bull Terrier"
     }
   },

@@ -5,7 +5,10 @@
     "shopify_handle": "giant-schnauzer-grooming-guide",
     "group": "Giant Schnauzer",
     "size_category": "Guide",
-    "tags": ["giant-schnauzer", "grooming"],
+    "tags": [
+      "giant-schnauzer",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The Giant Schnauzer requires professional clipping or hand-stripping every 6–8 weeks to maintain the harsh double coat and signature silhouette. Home brushing twice weekly and beard cleaning after meals are the daily maintenance requirements.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Nev_Lemar_Barbara1.jpg/250px-Nev_Lemar_Barbara1.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_93436f67-316a-40d2-ae74-12534d549e07.png?v=1777574917",
       "alt": "Giant Schnauzer grooming guide"
     }
   },

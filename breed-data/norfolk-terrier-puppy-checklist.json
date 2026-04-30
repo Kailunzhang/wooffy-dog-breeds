@@ -5,7 +5,11 @@
     "shopify_handle": "norfolk-terrier-puppy-checklist",
     "group": "Norfolk Terrier",
     "size_category": "Guide",
-    "tags": ["norfolk-terrier", "puppy", "checklist"],
+    "tags": [
+      "norfolk-terrier",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "Getting ready for a Norfolk Terrier puppy? This checklist covers everything you need before pickup day — from supplies and home prep to first-week routines and early training.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Norfolk_terrier_CAC.jpg/330px-Norfolk_terrier_CAC.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_776d9cba-bf5a-4ebd-8198-40528bf4e223.png?v=1777575838",
       "alt": "Norfolk Terrier puppy"
     }
   },

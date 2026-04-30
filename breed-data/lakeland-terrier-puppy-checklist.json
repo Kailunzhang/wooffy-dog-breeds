@@ -5,7 +5,11 @@
     "shopify_handle": "lakeland-terrier-puppy-checklist",
     "group": "Lakeland Terrier",
     "size_category": "Guide",
-    "tags": ["lakeland-terrier", "puppy", "checklist"],
+    "tags": [
+      "lakeland-terrier",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "A Lakeland Terrier puppy is alert, energetic, and already testing limits from week one. This checklist covers supplies, socialization, and training priorities for this bold and clever working terrier.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lakeland_Terrier.jpg/330px-Lakeland_Terrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_71e6cc73-d391-4f8d-b3e1-868a5e2adfdf.png?v=1777575456",
       "alt": "Lakeland Terrier puppy checklist"
     }
   },

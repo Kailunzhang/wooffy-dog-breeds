@@ -5,7 +5,10 @@
     "shopify_handle": "briard-grooming-guide",
     "group": "Briard",
     "size_category": "Guide",
-    "tags": ["briard", "grooming"],
+    "tags": [
+      "briard",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Briard's long, wavy double coat is one of the most beautiful — and most demanding — in the herding group. This guide covers brushing, bathing, beard care, and dewclaw maintenance for this ancient French herding breed.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Briard_fauve.JPG/330px-Briard_fauve.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_0eeb1400-1775-4d59-8d13-9711c41f6e08.png?v=1777574123",
       "alt": "Briard grooming"
     }
   },

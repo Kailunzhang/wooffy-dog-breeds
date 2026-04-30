@@ -5,7 +5,11 @@
     "shopify_handle": "finnish-spitz-puppy-checklist",
     "group": "Finnish Spitz",
     "size_category": "Guide",
-    "tags": ["finnish-spitz", "puppy", "checklist"],
+    "tags": [
+      "finnish-spitz",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "Bringing home a Finnish Spitz puppy requires preparation for an independent, vocal Nordic breed. This checklist covers supplies, home setup, first-week routines, and training priorities.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Finnish_Spitz_600.jpg/330px-Finnish_Spitz_600.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5e7b3dc1-1a16-4c5f-9a52-831f2dd6e16e.png?v=1777574865",
       "alt": "Finnish Spitz puppy"
     }
   },

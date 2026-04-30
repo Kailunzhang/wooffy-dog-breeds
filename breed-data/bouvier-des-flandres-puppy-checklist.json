@@ -5,7 +5,11 @@
     "shopify_handle": "bouvier-des-flandres-puppy-checklist",
     "group": "Bouvier des Flandres",
     "size_category": "Guide",
-    "tags": ["bouvier-des-flandres", "puppy", "checklist"],
+    "tags": [
+      "bouvier-des-flandres",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "Preparing for a Bouvier des Flandres puppy means setting up for a large, intelligent, high-drive working dog. Use this checklist to get ready before your new Bouvier arrives.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bouvier.JPG/330px-Bouvier.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_93f11262-e305-4a0e-b251-f926954773e0.png?v=1777573883",
       "alt": "Bouvier des Flandres puppy checklist"
     }
   },

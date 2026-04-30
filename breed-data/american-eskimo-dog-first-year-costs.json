@@ -5,7 +5,11 @@
     "shopify_handle": "american-eskimo-dog-first-year-costs",
     "group": "American Eskimo Dog",
     "size_category": "Guide",
-    "tags": ["american-eskimo-dog", "costs", "first-year"],
+    "tags": [
+      "american-eskimo-dog",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "American Eskimo Dog ownership costs vary significantly by size — a Toy Eskie costs noticeably less to feed than a Standard. Grooming is the primary ongoing expense. This guide covers all first-year costs across all three sizes.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/American_Eskimo_Dog_1.jpg/330px-American_Eskimo_Dog_1.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_3da95066-93b5-4cbc-9a70-dc950ad562ed.png?v=1777572936",
       "alt": "American Eskimo Dog"
     }
   },

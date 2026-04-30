@@ -5,20 +5,24 @@
     "shopify_handle": "otterhound-puppy-checklist",
     "group": "Otterhound",
     "size_category": "Guide",
-    "tags": ["otterhound", "puppy", "checklist", "rare-breed", "hound"],
+    "tags": [
+      "otterhound",
+      "puppy",
+      "checklist",
+      "rare-breed",
+      "hound"
+    ],
     "published": true,
     "published_at": "2026-04-26T16:00:00Z",
     "excerpt": "What you need before your Otterhound puppy arrives — including the vet briefing on thrombocytopathia, fence verification, and ear care routine that matter most for this breed.",
     "meta_description": "Otterhound puppy checklist: vet preparation for thrombocytopathia, fence requirements, ear care routine, socialization priorities for a scent hound, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Two_otterhounds.jpg/250px-Two_otterhounds.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_8b70f54c-9741-419e-85b9-c84475383ce2.png?v=1777575950",
       "alt": "Otterhound puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Start Training Immediately — With Appropriate Expectations</h3><p>Otterhounds are intelligent but have hound independence. They will learn commands but apply them when they judge it appropriate, especially when a scent is involved. Establish clear, consistent rules from day one using positive reinforcement. Realistic adult expectations: reliable sit, down, stay, and leash manners in familiar environments. Off-leash recall in open scent environments is not a realistic outcome regardless of training investment.</p><ul><li>Sit, down, stay, come, leave it — build these from the start</li><li>Loose-leash walking from the first walk — never allow pulling to become habitual</li><li>No jumping — manageable at puppy size, problematic at 100+ lbs</li><li>Crate training — Otterhounds are generally accepting of crates with proper introduction</li></ul><h3>The Beard: Start Now</h3><p>Acclimatize the puppy to beard handling, wiping, and combing from the first days. Adults that are habituated to beard grooming are easy to maintain. Adults that were never handled around their face are difficult. Daily brief face-handling sessions with treats establish the tolerance you will need for years.</p><h3>Exercise Rules for Puppies</h3><p>Follow the 5-minutes-per-month-of-age rule for structured exercise (so a 3-month-old gets 15-minute leash walk sessions). Growth plates in a large breed close around 18 months — no forced running, jumping, or extended high-impact activity until then. Free play and structured short walks are appropriate; jogging or extended hikes are not until physical maturity.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Do I need to tell my vet about thrombocytopathia before routine procedures?",

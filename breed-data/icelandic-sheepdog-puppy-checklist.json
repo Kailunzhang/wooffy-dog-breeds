@@ -5,7 +5,11 @@
     "shopify_handle": "icelandic-sheepdog-puppy-checklist",
     "group": "Icelandic Sheepdog",
     "size_category": "Guide",
-    "tags": ["icelandic-sheepdog", "puppy", "checklist"],
+    "tags": [
+      "icelandic-sheepdog",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Icelandic Sheepdog puppy is cheerful and people-oriented from day one. This checklist covers supplies, grooming setup, and the socialization and training priorities for this active Nordic herding breed.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Icelandic_Sheepdog_Alisa_von_Lehenberg.jpg/330px-Icelandic_Sheepdog_Alisa_von_Lehenberg.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_eea2d50f-0c7f-4416-80d5-58086b67ee8f.png?v=1777575046",
       "alt": "Icelandic Sheepdog puppy checklist"
     }
   },

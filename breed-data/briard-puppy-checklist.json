@@ -5,7 +5,11 @@
     "shopify_handle": "briard-puppy-checklist",
     "group": "Briard",
     "size_category": "Guide",
-    "tags": ["briard", "puppy", "checklist"],
+    "tags": [
+      "briard",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "Preparing for a Briard puppy means setting up for a large, long-coated French herding breed with a heart of gold. This checklist covers everything you need before your Briard puppy arrives home.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Briard_fauve.JPG/330px-Briard_fauve.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_fc4d3c0f-25a2-44c5-8b38-144bc7fe4e19.png?v=1777574115",
       "alt": "Briard puppy checklist"
     }
   },

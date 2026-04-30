@@ -5,20 +5,24 @@
     "shopify_handle": "border-terrier-first-year-costs",
     "group": "Border Terrier",
     "size_category": "Guide",
-    "tags": ["border-terrier", "cost", "budget", "first-year", "small-breed"],
+    "tags": [
+      "border-terrier",
+      "cost",
+      "budget",
+      "first-year",
+      "small-breed"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "Border Terrier ownership costs $2,500–$5,000 in the first year. Food and ongoing vet costs are modest for a small breed, but CECS dietary management — if it develops — adds a permanent ongoing expense worth planning for.",
     "meta_description": "Border Terrier first year costs: puppy price, food budget, vet costs, pet insurance, and the financial reality of CECS dietary management if it develops."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Border_Terrier.jpg/330px-Border_Terrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_1e5818fb-8daf-48dc-b20c-5c3f80ed46da.png?v=1777573797",
       "alt": "Border Terrier first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With a lifespan of 12–15 years, Border Terriers are a long-term financial commitment — though a modest one by small-breed standards.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, no CECS, no major health events</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$15,000–$25,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">CECS managed with gluten-free diet (no other issues)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$18,000–$30,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Cardiac condition requiring specialist care or intervention</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$22,000–$40,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">The Border Terrier is one of the more affordable small breeds to own over a lifetime. The biggest variable is whether CECS develops — and if it does, the cost is manageable rather than catastrophic. Pet insurance provides meaningful protection against the cardiac and orthopedic risks.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does a Border Terrier puppy cost from a reputable breeder?",

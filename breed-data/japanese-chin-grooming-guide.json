@@ -5,7 +5,10 @@
     "shopify_handle": "japanese-chin-grooming-guide",
     "group": "Japanese Chin",
     "size_category": "Guide",
-    "tags": ["japanese-chin", "grooming"],
+    "tags": [
+      "japanese-chin",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "The Japanese Chin's silky single-layer coat is beautiful and moderately easy to maintain. This guide covers brushing, bathing, facial fold care, and eye maintenance for this elegant Toy breed.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Chin_posing.jpg/330px-Chin_posing.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_2de2a21f-69f6-40fd-bb27-e85822d44613.png?v=1777575206",
       "alt": "Japanese Chin"
     }
   },

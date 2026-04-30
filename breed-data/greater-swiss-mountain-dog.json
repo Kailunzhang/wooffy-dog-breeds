@@ -6,74 +6,103 @@
     "group": "Working Group",
     "size_category": "Giant Breed",
     "tagline": "The Greater Swiss Mountain Dog is a loyal, gentle giant with a drafting heritage, a tricolor coat that turns heads, and a heat sensitivity that most owners underestimate. Less known than the Bernese but every bit as devoted.",
-    "tags": ["working-group", "giant-breed", "gentle-giant", "drafting", "loyal", "dog-breeds"],
+    "tags": [
+      "working-group",
+      "giant-breed",
+      "gentle-giant",
+      "drafting",
+      "loyal",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "Greater Swiss Mountain Dogs are loyal, calm giant-breed dogs built for pulling carts and working with farmers. They make excellent family dogs for owners who can handle their size, heavy shedding, and serious bloat risk.",
     "meta_description": "Greater Swiss Mountain Dog breed guide: temperament, drafting heritage, heat sensitivity, health risks including bloat and hip dysplasia, and what it costs to own one."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Giant" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "85–140 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "8–11 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate–High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good with supervision" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With research" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Giant"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "85–140 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "8–11 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate–High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good with supervision"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "With research"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Greater_Swiss_Mountain_Dog_2018.jpg/250px-Greater_Swiss_Mountain_Dog_2018.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_01c4bf16-e81d-494e-8bb8-ab3c333a7cda.png?v=1777574987",
       "alt": "Greater Swiss Mountain Dog"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Greater Swiss Mountain Dog?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Greater Swiss Mountain Dog — often called the Swissy — is the largest and oldest of the four Swiss Sennenhund breeds, developed in the Swiss Alps for drafting (cart-pulling), herding, and farm guarding. They predate the Bernese Mountain Dog and are considered the foundation breed of the group. Despite being one of the most popular dogs in Switzerland, the Swissy remains relatively rare in the United States — a situation that suits the breed's devoted following just fine.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Weighing 85–140 lbs with a striking tricolor short coat, the Swissy presents as a powerfully built, confident dog with a calm, even temperament. They are not the same breed as the Bernese Mountain Dog — the coat is shorter and denser, the build more muscular, and the temperament somewhat more assertive — but they share the gentle, family-oriented disposition that makes the Swiss mountain breeds so appealing.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The most important things to know before getting a Swissy: their lifespan is shorter than you want it to be (8–11 years), their bloat risk is serious and manageable with a surgical procedure, and they do not tolerate heat well. None of these are dealbreakers for the right owner — they're just facts that should be part of the decision.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Greater Swiss Mountain Dogs Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Large and powerfully built — this is a breed that looks like it was designed to pull a loaded cart, because it was. Males stand 25.5–28.5 inches at the shoulder and typically weigh 105–140 lbs; females 23.5–27 inches and 85–110 lbs. The build is muscular and substantial without being bulky or slow-looking.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The tricolor coat — black body with rust and white markings on the face, chest, legs, and tail tip — is the breed's signature. Unlike the Bernese, the Swissy's coat is short and dense, not long. This makes grooming more manageable but shedding still substantial. The double coat sheds heavily year-round and dramatically during seasonal changes.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Greater Swiss Mountain Dogs are loyal, calm, and devoted family dogs. They bond strongly with their household and are naturally alert — their farm guarding heritage means they notice strangers and announce them, though they are not aggressive watchdogs. Well-socialized Swissys are generally friendly and approachable with people they're properly introduced to.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With children, Swissys are typically gentle and patient — but their size requires supervision with small children. A wagging tail or an enthusiastic movement from a 130-lb dog can knock a toddler over without any aggressive intent whatsoever. Teach children how to interact safely with a large breed from day one.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The working heritage comes through in their love of having a job. Swissys excel at drafting and carting activities, backpacking, and other activities that give them purposeful work to do. A Swissy with nothing to do is more likely to become bored and pushy than a destructive problem — but adequate exercise and engagement makes for a noticeably more content dog.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Swissy",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Greater Swiss Mountain Dogs are genuinely wonderful — loyal, calm, beautiful, and eager to please without being needy. For the right household, they're hard to beat. The breed attracts devoted owners for good reason.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest conversation has two parts. First, the lifespan. An 8–11 year average is the reality for this breed. You're committing to a relatively short time with a dog you're going to deeply love, and that grief is real and arrives sooner than you want it to. Second, bloat. Giant-breed dogs with deep chests are at serious risk for gastric dilatation-volvulus (GDV) — a life-threatening emergency. Discussing prophylactic gastropexy (a surgical stomach-tacking procedure done at the same time as spay/neuter) with your vet at the first visit is one of the most important conversations you can have for this breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The heat sensitivity is real and often underestimated. Swissys struggle in hot climates and need careful management in summer months. Air conditioning is not optional; outdoor activity in heat requires active precaution.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of moderate exercise daily. Swissys are moderately energetic — they need daily walks and activity but are not the non-stop working dogs that some breeds are. They particularly enjoy activities that engage their drafting heritage: carting, backpacking, and hiking. Avoid vigorous exercise in hot weather — their heat sensitivity is real and heatstroke risk is significant.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Weekly brushing with an undercoat rake or slicker brush maintains the short dense coat and manages shedding. Expect heavy shedding year-round and heavier seasonal shedding. Baths every 6–8 weeks. See the <a href=\"/blogs/dog-breeds/greater-swiss-mountain-dog-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Greater Swiss Mountain Dog grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Swissys are moderately trainable — willing to please without being pushy or dominant. Positive reinforcement works well. They can be slow to mature and may be stubbornly playful as young dogs, but patient consistency produces reliable results. Basic obedience is especially important given their size — a 130-lb dog that pulls on leash or jumps on people is a real physical hazard regardless of friendly intent.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Swissy has several serious health concerns that require proactive management. The lifespan of 8–11 years reflects real underlying health challenges, particularly orthopedic and cardiac.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Very high incidence in the breed. OFA or PennHIP screening is essential — do not buy a puppy without both parent clearances. Managed with medication and joint support; severe cases may require surgery.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Developmental elbow joint abnormality causing lameness. OFA elbow clearances should be requested alongside hip clearances. Can require surgical treatment in significant cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Deep-chested giant breeds carry significant bloat risk. GDV is life-threatening and requires emergency surgery. Prophylactic gastropexy — a stomach-tacking procedure — dramatically reduces GDV risk and should be discussed with your vet at the first visit. It can be performed at the time of spay/neuter.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Distichiasis</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Extra eyelashes growing from abnormal positions that irritate the eye surface. Common in Swissys. Can cause chronic eye discomfort and corneal damage if untreated. Surgical correction available.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Epilepsy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited seizure disorder occurs in the breed. Manageable with medication. Ask about seizure history in parent lines.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Urinary Incontinence</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Spayed females in the breed have elevated incidence of urinary incontinence. Manageable with medication. Not a reason to avoid spaying, but worth knowing before the fact.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA elbow, CAER eye exam clearances. Discuss prophylactic gastropexy with your vet at first visit.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$3,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (giant breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$800–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$800–$1,200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Gastropexy (at spay/neuter)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$200–$500 add-on</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (giant crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$4,200–$8,000</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,200–$4,000</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/greater-swiss-mountain-dog-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Greater Swiss Mountain Dog first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Greater Swiss Mountain Dog Right for You?",
@@ -92,25 +121,50 @@
         "Owners who will not follow through on bloat prevention discussions"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Greater Swiss Mountain Dog",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$3,000 from reputable breeders. Required health clearances: OFA hip, OFA elbow, CAER eye exam. The Greater Swiss Mountain Dog Club of America maintains a breeder directory. Wait lists are common — this is not a high-volume breed, and responsible breeders produce limited litters.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Swissy rescue is available through the GSMDCA rescue program and regional breed rescues. Because this is a less common breed, rescue dogs are fewer in number but worth checking for suitable adults.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Swissy comes home, complete the <a href=\"/blogs/dog-breeds/greater-swiss-mountain-dog-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Greater Swiss Mountain Dog puppy checklist</a> — the gastropexy conversation and giant-breed puppy food are the most time-sensitive items.</p>"
     }
   },
-
   "faq": [
-    { "q": "How is the Greater Swiss Mountain Dog different from the Bernese Mountain Dog?", "a": "Both are Swiss Sennenhund breeds with tricolor markings, but they differ meaningfully. The Swissy is larger, has a short dense coat instead of a long silky one, and has a slightly more assertive temperament. The Bernese is more widely known and bred in higher volumes. Both have similar health challenges and shorter-than-average lifespans. Grooming commitment is lower for the Swissy due to the shorter coat, though shedding is still substantial." },
-    { "q": "What is gastropexy and should my Swissy have it?", "a": "Gastropexy is a surgical procedure that tacks the stomach to the abdominal wall, preventing the stomach rotation that makes GDV (bloat) rapidly fatal. It does not prevent bloat from occurring but eliminates the fatal torsion component. For a deep-chested giant breed with known bloat susceptibility, the answer to whether your Swissy should have it is almost always yes. It is typically added to the spay/neuter procedure at modest additional cost. Discuss it at your first vet visit." },
-    { "q": "Do Greater Swiss Mountain Dogs tolerate heat?", "a": "Poorly. The dense double coat and large body mass make heat dissipation difficult. In hot climates or summer weather, exercise should be limited to early morning or evening hours, fresh cool water must always be available, and air conditioning is essential. Signs of heatstroke — excessive panting, drooling, disorientation, collapse — require immediate veterinary attention. Never leave a Swissy in a parked car." },
-    { "q": "How much do Greater Swiss Mountain Dogs shed?", "a": "A lot — year-round. The short dense double coat sheds continuously at a moderate-to-heavy level, with increased shedding during seasonal coat changes. Weekly brushing reduces loose hair in the home but does not eliminate it. If dog hair is a dealbreaker, the Swissy is the wrong breed." }
+    {
+      "q": "How is the Greater Swiss Mountain Dog different from the Bernese Mountain Dog?",
+      "a": "Both are Swiss Sennenhund breeds with tricolor markings, but they differ meaningfully. The Swissy is larger, has a short dense coat instead of a long silky one, and has a slightly more assertive temperament. The Bernese is more widely known and bred in higher volumes. Both have similar health challenges and shorter-than-average lifespans. Grooming commitment is lower for the Swissy due to the shorter coat, though shedding is still substantial."
+    },
+    {
+      "q": "What is gastropexy and should my Swissy have it?",
+      "a": "Gastropexy is a surgical procedure that tacks the stomach to the abdominal wall, preventing the stomach rotation that makes GDV (bloat) rapidly fatal. It does not prevent bloat from occurring but eliminates the fatal torsion component. For a deep-chested giant breed with known bloat susceptibility, the answer to whether your Swissy should have it is almost always yes. It is typically added to the spay/neuter procedure at modest additional cost. Discuss it at your first vet visit."
+    },
+    {
+      "q": "Do Greater Swiss Mountain Dogs tolerate heat?",
+      "a": "Poorly. The dense double coat and large body mass make heat dissipation difficult. In hot climates or summer weather, exercise should be limited to early morning or evening hours, fresh cool water must always be available, and air conditioning is essential. Signs of heatstroke — excessive panting, drooling, disorientation, collapse — require immediate veterinary attention. Never leave a Swissy in a parked car."
+    },
+    {
+      "q": "How much do Greater Swiss Mountain Dogs shed?",
+      "a": "A lot — year-round. The short dense double coat sheds continuously at a moderate-to-heavy level, with increased shedding during seasonal coat changes. Weekly brushing reduces loose hair in the home but does not eliminate it. If dog hair is a dealbreaker, the Swissy is the wrong breed."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Bernese Mountain Dog", "slug": "bernese-mountain-dog", "note": "Same Swiss heritage, longer coat, more widely available, similar health challenges"},
-    {"name": "Leonberger", "slug": "leonberger", "note": "Giant breed with similar gentle temperament, much heavier grooming commitment"},
-    {"name": "Rottweiler", "slug": "rottweiler", "note": "Similar working heritage, smaller, more trainable, longer lifespan"},
-    {"name": "Saint Bernard", "slug": "saint-bernard", "note": "Similar giant gentle temperament, Swiss mountain heritage, heavier drooler"}
+    {
+      "name": "Bernese Mountain Dog",
+      "slug": "bernese-mountain-dog",
+      "note": "Same Swiss heritage, longer coat, more widely available, similar health challenges"
+    },
+    {
+      "name": "Leonberger",
+      "slug": "leonberger",
+      "note": "Giant breed with similar gentle temperament, much heavier grooming commitment"
+    },
+    {
+      "name": "Rottweiler",
+      "slug": "rottweiler",
+      "note": "Similar working heritage, smaller, more trainable, longer lifespan"
+    },
+    {
+      "name": "Saint Bernard",
+      "slug": "saint-bernard",
+      "note": "Similar giant gentle temperament, Swiss mountain heritage, heavier drooler"
+    }
   ]
 }

@@ -5,7 +5,10 @@
     "shopify_handle": "chinese-crested-grooming-guide",
     "group": "Chinese Crested",
     "size_category": "Guide",
-    "tags": ["chinese-crested", "grooming"],
+    "tags": [
+      "chinese-crested",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "The Chinese Crested's grooming needs differ dramatically between hairless and Powder Puff varieties. Hairless dogs need daily skin care and sunscreen; Powder Puffs need regular brushing. Both need dedicated dental care.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IndyStands.jpg/330px-IndyStands.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_d9254b5e-31fa-4d36-9c12-bb6a45686e50.png?v=1777574310",
       "alt": "Chinese Crested grooming"
     }
   },

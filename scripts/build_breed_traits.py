@@ -14,7 +14,8 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-META = ROOT / "_published_breeds_meta.json"
+META_PUB = ROOT / "_published_breeds_meta.json"
+META_UNPUB = ROOT / "_unpublished_breeds_meta.json"
 OUT = ROOT / "breed_traits.json"
 
 
@@ -180,15 +181,79 @@ OVERRIDES: dict[str, dict] = {
     "whippet": {"coat": "very short smooth brindle-and-white coat, lean aerodynamic frame", "puppy_coat": "smooth brindle-and-white puppy coat"},
     "wirehaired-pointing-griffon": {"coat": "harsh wiry steel-gray coat with brown markings, bushy mustache and eyebrows", "puppy_coat": "soft steel-gray puppy coat (before the wiry adult coat develops)"},
     "yorkshire-terrier": {"coat": "long fine silky steel-blue-and-tan single coat (resembles human hair)", "puppy_coat": "soft black-and-tan puppy coat (color matures over months)"},
+
+    # ── Unpublished breeds (Phase 1) ─────────────────────────────────────────
+    "affenpinscher": {"category": "wiry_terrier", "coat": "scruffy wiry black coat with monkey-like beard and bushy eyebrows", "puppy_coat": "soft black puppy coat"},
+    "airedale-terrier": {"category": "wiry_terrier", "coat": "dense wiry black saddle and tan body with a beard and bushy eyebrows", "puppy_coat": "soft fluffy black-and-tan puppy coat (still soft, before the wiry adult coat develops)"},
+    "american-eskimo-dog": {"category": "thick_double", "coat": "thick pure white double coat with a fluffy ruff", "puppy_coat": "fluffy white puppy double coat"},
+    "australian-terrier": {"category": "wiry_terrier", "coat": "harsh wiry blue-and-tan coat with a soft topknot", "puppy_coat": "soft blue-and-tan puppy coat"},
+    "bearded-collie": {"category": "thick_double", "coat": "long shaggy gray-and-white double coat with a full beard", "puppy_coat": "fluffy gray-and-white puppy coat"},
+    "beauceron": {"category": "smooth_short", "coat": "short black-and-tan double coat with double dewclaws on rear legs, large athletic frame", "puppy_coat": "smooth black-and-tan puppy coat"},
+    "bedlington-terrier": {"category": "curly_poodle", "coat": "crisp curly low-shedding lamb-like coat with a fluffy lighter topknot", "puppy_coat": "soft fluffy crisp curly puppy coat"},
+    "belgian-sheepdog": {"category": "thick_double", "coat": "long jet-black double coat with abundant ruff and feathering", "puppy_coat": "fluffy black puppy coat"},
+    "belgian-tervuren": {"category": "thick_double", "coat": "long mahogany-fawn double coat with black overlay and feathering", "puppy_coat": "fluffy mahogany puppy coat"},
+    "border-terrier": {"category": "wiry_terrier", "coat": "harsh wiry grizzle-and-tan coat with otter-like head", "puppy_coat": "soft grizzle-and-tan puppy coat"},
+    "bouvier-des-flandres": {"category": "wiry_terrier", "coat": "harsh wiry tousled black coat with prominent beard and bushy eyebrows, large athletic frame", "puppy_coat": "soft black puppy coat"},
+    "briard": {"category": "long_silky", "coat": "long flowing tawny double coat with shaggy beard and eyebrows covering the eyes", "puppy_coat": "soft tawny puppy coat"},
+    "brussels-griffon": {"category": "wiry_terrier", "coat": "rough wiry red coat with full beard and pushed-in monkey-like face", "puppy_coat": "soft red puppy coat"},
+    "cairn-terrier": {"category": "wiry_terrier", "coat": "shaggy harsh wiry wheaten coat (Toto-style)", "puppy_coat": "soft wheaten puppy coat"},
+    "chinese-crested": {"category": "hairless", "coat": "smooth pinkish hairless skin with feathered crest, ankle plumes, and plumed tail (hairless variety)", "puppy_coat": "smooth pink puppy skin with soft tufted crest"},
+    "chinese-shar-pei": {"category": "smooth_short", "coat": "short bristly fawn coat with deep characteristic loose wrinkles and hippopotamus-like muzzle", "puppy_coat": "deeply wrinkled fawn puppy coat (extreme wrinkles)"},
+    "coton-de-tulear": {"category": "long_silky", "coat": "long cotton-soft pure white coat", "puppy_coat": "soft fluffy white puppy coat"},
+    "entlebucher-mountain-dog": {"category": "smooth_short", "coat": "short tricolor (black, rust, white) Swiss mountain dog coat with athletic compact frame", "puppy_coat": "smooth tricolor puppy coat"},
+    "finnish-lapphund": {"category": "thick_double", "coat": "thick long black double coat with profuse ruff and curled tail", "puppy_coat": "fluffy black puppy double coat"},
+    "finnish-spitz": {"category": "thick_double", "coat": "fox-red double coat with curled tail over the back, fox-like face", "puppy_coat": "fluffy red puppy coat"},
+    "giant-schnauzer": {"category": "wiry_terrier", "coat": "harsh wiry black or salt-and-pepper coat with prominent beard and bushy eyebrows, large powerful frame", "puppy_coat": "soft black puppy coat"},
+    "greater-swiss-mountain-dog": {"category": "thick_double", "coat": "short tricolor (black, rust, white) double coat, large powerful Swiss mountain frame", "puppy_coat": "soft tricolor puppy coat"},
+    "icelandic-sheepdog": {"category": "thick_double", "coat": "thick tan-and-white double coat with curled tail, spitz-type build", "puppy_coat": "fluffy tan-and-white puppy coat"},
+    "irish-terrier": {"category": "wiry_terrier", "coat": "harsh wiry rich red coat with beard and eyebrows", "puppy_coat": "soft red puppy coat"},
+    "japanese-chin": {"category": "long_silky", "coat": "long silky black-and-white coat with flat brachycephalic face", "puppy_coat": "soft black-and-white puppy coat"},
+    "keeshond": {"category": "thick_double", "coat": "thick gray-and-cream double coat with characteristic spectacle markings around the eyes", "puppy_coat": "fluffy gray puppy coat"},
+    "kerry-blue-terrier": {"category": "curly_poodle", "coat": "soft dense wavy blue-gray coat with beard", "puppy_coat": "soft blue-gray puppy coat (born black, clears to blue over months)"},
+    "komondor": {"category": "corded", "coat": "long white corded mop-like coat", "puppy_coat": "fluffy soft white pre-cord puppy fur"},
+    "lakeland-terrier": {"category": "wiry_terrier", "coat": "harsh wiry blue-and-tan coat with beard and eyebrows", "puppy_coat": "soft blue-and-tan puppy coat"},
+    "leonberger": {"category": "thick_double", "coat": "long lion-like golden-mahogany double coat with dark mask, large gentle giant frame", "puppy_coat": "fluffy golden puppy coat"},
+    "lhasa-apso": {"category": "long_silky", "coat": "long flowing silky golden double coat reaching the floor", "puppy_coat": "soft golden puppy coat"},
+    "lowchen": {"category": "long_silky", "coat": "long silky white-and-cream coat in characteristic 'little lion' clip", "puppy_coat": "soft white-and-cream puppy coat"},
+    "miniature-bull-terrier": {"category": "smooth_short", "coat": "short white coat with the iconic egg-shaped head profile (smaller than standard Bull Terrier)", "puppy_coat": "smooth white puppy coat with the egg-shaped head"},
+    "miniature-pinscher": {"category": "smooth_short", "coat": "short sleek black-and-rust coat with hackney-trotting toy frame", "puppy_coat": "smooth black-and-rust puppy coat"},
+    "norfolk-terrier": {"category": "wiry_terrier", "coat": "harsh wiry red coat with folded drop ears", "puppy_coat": "soft red puppy coat"},
+    "norwich-terrier": {"category": "wiry_terrier", "coat": "harsh wiry red coat with prick ears", "puppy_coat": "soft red puppy coat"},
+    "otterhound": {"category": "wirehaired_sporting", "coat": "rough harsh wiry grizzle coat, large bear-like build, long droopy ears", "puppy_coat": "soft grizzle puppy coat"},
+    "papillon": {"category": "long_silky", "coat": "long silky black-and-white coat with butterfly-shaped fringed erect ears", "puppy_coat": "soft black-and-white puppy coat with oversized fringed ears"},
+    "parson-russell-terrier": {"category": "smooth_short", "coat": "short white-with-tan coat (predominantly white body, athletic working terrier frame)", "puppy_coat": "smooth white-with-tan puppy coat"},
+    "pekingese": {"category": "long_silky", "coat": "long flowing thick gold-and-white double coat with lion-like mane and flat brachycephalic face", "puppy_coat": "fluffy gold-and-white puppy coat"},
+    "polish-lowland-sheepdog": {"category": "thick_double", "coat": "long shaggy gray-and-white double coat covering the eyes", "puppy_coat": "fluffy gray-and-white puppy coat"},
+    "puli": {"category": "corded", "coat": "long black corded mop-like coat", "puppy_coat": "fluffy soft black pre-cord puppy fur"},
+    "redbone-coonhound": {"category": "smooth_short", "coat": "short solid mahogany-red hound coat with long pendulous ears", "puppy_coat": "smooth red puppy coat"},
+    "russell-terrier": {"category": "smooth_short", "coat": "short white-with-tan coat (Jack Russell type, athletic compact frame)", "puppy_coat": "smooth white-with-tan puppy coat"},
+    "schipperke": {"category": "thick_double", "coat": "thick black double coat with profuse ruff, fox-like face, naturally tailless", "puppy_coat": "fluffy black puppy coat"},
+    "scottish-deerhound": {"category": "wirehaired_sporting", "coat": "harsh wiry blue-gray coat, towering Greyhound-like sighthound silhouette", "puppy_coat": "soft blue-gray puppy coat"},
+    "scottish-terrier": {"category": "wiry_terrier", "coat": "harsh wiry black coat with characteristic beard and eyebrows, short legs", "puppy_coat": "soft black puppy coat"},
+    "silky-terrier": {"category": "long_silky", "coat": "long fine silky steel-blue-and-tan coat (resembles miniature Yorkie)", "puppy_coat": "soft black-and-tan puppy coat"},
+    "skye-terrier": {"category": "long_silky", "coat": "long flowing silver-blue coat reaching the ground with drop ears", "puppy_coat": "soft silver-blue puppy coat"},
+    "spanish-water-dog": {"category": "curly_poodle", "coat": "dense corded or curled brown coat (often clipped uniformly)", "puppy_coat": "soft curly brown puppy coat"},
+    "standard-schnauzer": {"category": "wiry_terrier", "coat": "harsh wiry salt-and-pepper coat with prominent beard and bushy eyebrows", "puppy_coat": "soft salt-and-pepper puppy coat"},
+    "swedish-vallhund": {"category": "thick_double", "coat": "short gray-and-tan double coat, low-bodied corgi-like Spitz frame", "puppy_coat": "fluffy gray-and-tan puppy coat"},
+    "tibetan-spaniel": {"category": "long_silky", "coat": "medium silky golden double coat with feathered tail, flat-faced", "puppy_coat": "soft golden puppy coat"},
+    "tibetan-terrier": {"category": "long_silky", "coat": "long flowing silky double coat (white, gold, or black) covering the eyes", "puppy_coat": "fluffy puppy coat"},
+    "toy-fox-terrier": {"category": "smooth_short", "coat": "short tricolor (black, white, tan) toy frame", "puppy_coat": "smooth tricolor puppy coat"},
+    "welsh-terrier": {"category": "wiry_terrier", "coat": "harsh wiry black-and-tan coat with beard and eyebrows", "puppy_coat": "soft black-and-tan puppy coat"},
+    "wire-fox-terrier": {"category": "wiry_terrier", "coat": "harsh wiry white-with-tan-markings coat with prominent beard and eyebrows", "puppy_coat": "soft white-with-tan puppy coat"},
+    "xoloitzcuintli": {"category": "hairless", "coat": "smooth dark gray-black hairless skin with almond eyes and bat-like ears (hairless variety)", "puppy_coat": "smooth dark gray-black hairless puppy skin"},
 }
 
 
 def main() -> int:
-    if not META.exists():
-        print(f"missing {META}; run the published-meta dump first")
+    if not META_PUB.exists():
+        print(f"missing {META_PUB}; run the published-meta dump first")
         return 1
 
-    breeds = json.loads(META.read_text(encoding="utf-8"))
+    breeds = json.loads(META_PUB.read_text(encoding="utf-8"))
+    if META_UNPUB.exists():
+        unpub = json.loads(META_UNPUB.read_text(encoding="utf-8"))
+        seen = {b["slug"] for b in breeds}
+        breeds += [b for b in unpub if b["slug"] not in seen]
     rows: list[dict] = []
     skipped: list[str] = []
 

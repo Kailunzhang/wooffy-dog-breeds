@@ -5,7 +5,11 @@
     "shopify_handle": "brussels-griffon-first-year-costs",
     "group": "Brussels Griffon",
     "size_category": "Guide",
-    "tags": ["brussels-griffon", "costs", "first-year"],
+    "tags": [
+      "brussels-griffon",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "Brussels Griffons are not cheap to acquire, and ongoing grooming, dental, and potential health costs add up. Here is a realistic first-year cost breakdown for this devoted little Belgian breed.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Monkey_Bizniz_Drama_Queen.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_4174bdb3-2ec2-4b25-9904-0393b93085f8.png?v=1777574167",
       "alt": "Brussels Griffon cost guide"
     }
   },

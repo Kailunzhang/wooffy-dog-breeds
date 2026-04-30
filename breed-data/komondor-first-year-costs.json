@@ -5,20 +5,25 @@
     "shopify_handle": "komondor-first-year-costs",
     "group": "Komondor",
     "size_category": "Guide",
-    "tags": ["komondor", "cost", "budget", "first-year", "large-breed", "guardian-breed"],
+    "tags": [
+      "komondor",
+      "cost",
+      "budget",
+      "first-year",
+      "large-breed",
+      "guardian-breed"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "Komondor ownership costs $3,500–$7,000 in the first year. Food for a 100+ lb dog, specialist training for a guardian breed, preventive gastropexy, and professional grooming for the corded coat all add up. Know what you're committing to.",
     "meta_description": "Komondor first year costs: large breed food budget, corded coat grooming costs, gastropexy for GDV prevention, experienced trainer costs, and lifetime cost estimate for this working guardian."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Komondor_delvin.jpg/250px-Komondor_delvin.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_89d7dd47-cffc-4b29-889c-b6dad9a2fb79.png?v=1777575409",
       "alt": "Komondor first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +41,6 @@
       "html": "<p>The Komondor's shorter lifespan for a large breed (10–12 years) and higher annual costs produce a significant lifetime financial picture.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, gastropexy done, no major health events</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$28,000–$50,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Hip dysplasia managed medically in later years</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$33,000–$60,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">GDV surgery (no gastropexy) plus ongoing care</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$38,000–$70,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">The preventive gastropexy is the most cost-effective single intervention in the Komondor's healthcare plan — $400–$800 once versus $3,000–$7,000 for emergency GDV surgery (if the dog survives). Pet insurance covers hip dysplasia management. The grooming commitment is ongoing and not reducible. Budget honestly before acquiring this breed.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What is gastropexy and why is it important for Komondors?",

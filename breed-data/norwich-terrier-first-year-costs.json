@@ -5,7 +5,11 @@
     "shopify_handle": "norwich-terrier-first-year-costs",
     "group": "Norwich Terrier",
     "size_category": "Guide",
-    "tags": ["norwich-terrier", "costs", "first-year"],
+    "tags": [
+      "norwich-terrier",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "Norwich Terriers are a rare breed with a higher purchase price. This guide breaks down all first-year ownership costs from puppy price to food, vet care, and grooming.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Norwichterrier.jpg/330px-Norwichterrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_24dddf67-4ddd-48f1-a204-d186217bef98.png?v=1777575890",
       "alt": "Norwich Terrier costs"
     }
   },

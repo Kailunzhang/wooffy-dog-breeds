@@ -1,0 +1,350 @@
+[
+  {
+    "slug": "affenpinscher",
+    "name": "Affenpinscher",
+    "group": "Toy Group",
+    "appearance": "Small, sturdy, and square in build — not delicate. The flat, wide face with a prominent lower jaw creates the monkey-like expression. Large, round, dark eyes and a pushed-in nose are breed hallmarks. Ears are small and either cropped (in countries where permitted) or natural and folded. The coat is dense, harsh, and wiry — black is most common, but black-and-tan, red, belge (black and reddish brow"
+  },
+  {
+    "slug": "airedale-terrier",
+    "name": "Airedale Terrier",
+    "group": "Terrier Group",
+    "appearance": "Airedales are the largest terrier breed — males typically 50–65 lbs, females 40–55 lbs, standing approximately 23 inches at the shoulder. The build is athletic and substantial: a strong, level topline, well-muscled quarters, and a confident, upright carriage that broadcasts their self-assurance. The coat is the defining physical characteristic: a dense, wiry outer coat over a softer undercoat, tra"
+  },
+  {
+    "slug": "american-eskimo-dog",
+    "name": "American Eskimo Dog",
+    "group": "Non-Sporting",
+    "appearance": "The American Eskimo Dog is a Nordic-type Spitz, with all the hallmarks of that group: a wedge-shaped head, erect triangular ears, a thick double coat, and a tail curled over the back. The body is well-proportioned — neither heavy-boned nor fine-boned — with a deep chest, level topline, and strong, well-muscled hindquarters that give the breed its agile, efficient movement. The coat is the defining"
+  },
+  {
+    "slug": "australian-terrier",
+    "name": "Australian Terrier",
+    "group": "Terrier",
+    "appearance": "The Australian Terrier is a sturdy, low-set, moderately long dog with a characteristic outline that's immediately recognizable. The body is longer than it is tall, giving it a rectangular profile different from the more square-bodied terriers. The chest is deep and the legs are short but straight and strong. The head is long and strong, with a slightly flat skull and a powerful muzzle. The eyes ar"
+  },
+  {
+    "slug": "bearded-collie",
+    "name": "Bearded Collie",
+    "group": "Herding",
+    "appearance": "The Bearded Collie is a medium-sized, athletic dog with a sturdy build that belies its agility. Males typically stand 21–22 inches at the shoulder, while females measure 20–21 inches. Weight ranges from 45 to 55 pounds, with most dogs landing solidly in the middle of that range. The breed's most defining feature is its magnificent double coat. The outer coat is flat, harsh, and strong — designed t"
+  },
+  {
+    "slug": "beauceron",
+    "name": "Beauceron",
+    "group": "Herding",
+    "appearance": "The Beauceron is a large, well-muscled dog that projects strength and elegance simultaneously. Males stand 25.5–27.5 inches at the shoulder and females 24–26.5 inches. Weight ranges from 70 to 110 pounds, with most males weighing 85–100 pounds. The body is slightly longer than tall, with a strong, level back and a deep chest. The coat is short, dense, and close-lying on the body, with a slightly l"
+  },
+  {
+    "slug": "bedlington-terrier",
+    "name": "Bedlington Terrier",
+    "group": "Terrier Group",
+    "appearance": "The Bedlington is small but not fragile — males and females typically weigh 17–23 lbs and stand 15–17.5 inches at the shoulder. The narrow, pear-shaped head, deep-set almond eyes, and the distinctive topknot of lighter, fluffy hair create the breed's lamb-like silhouette. The arched back and tucked abdomen — similar to a Whippet — give the breed a graceful, almost elegant outline. The coat is cris"
+  },
+  {
+    "slug": "belgian-sheepdog",
+    "name": "Belgian Sheepdog",
+    "group": "Herding",
+    "appearance": "The Belgian Sheepdog is a medium-to-large dog with a graceful, well-proportioned build. Males typically stand 24–26 inches at the shoulder and weigh 55–75 pounds; females are slightly smaller at 22–24 inches and 45–60 pounds. The body is square (as long as it is tall), with a level topline and a deep, moderately broad chest. The Belgian Sheepdog moves with a light, effortless gait — it covers grou"
+  },
+  {
+    "slug": "belgian-tervuren",
+    "name": "Belgian Tervuren",
+    "group": "Herding",
+    "appearance": "The Belgian Tervuren is a medium-to-large, well-proportioned dog with a square, athletic build. Males typically stand 24–26 inches at the shoulder and weigh 55–75 pounds; females stand 22–24 inches and weigh 45–60 pounds. The body has a square silhouette with a level topline, deep chest, and strong, muscular hindquarters. Movement is one of the Tervuren's most celebrated features — the breed's gai"
+  },
+  {
+    "slug": "border-terrier",
+    "name": "Border Terrier",
+    "group": "Terrier Group",
+    "appearance": "Small and workmanlike — 11–16 lbs, 11–16 inches tall, built for function rather than show ring glamour. The head is distinctive: otter-like, with a broad skull, short muzzle, and dark, keen eyes. The body is compact and narrow through the chest — designed to fit through underground passages. The coat is a dense, wiry grizzle-and-tan, red, blue-and-tan, or grizzle — close-lying over a thick underco"
+  },
+  {
+    "slug": "bouvier-des-flandres",
+    "name": "Bouvier des Flandres",
+    "group": "Herding",
+    "appearance": "The Bouvier des Flandres is a large, powerfully built dog with a compact, square body that conveys strength and agility. Males stand 24.5–27.5 inches at the shoulder and weigh 70–110 pounds; females are slightly smaller at 23.5–26.5 inches. The breed has a strong, broad head with a flat skull, and the characteristic thick beard and mustache that frame the muzzle. The eyebrows are arched, giving th"
+  },
+  {
+    "slug": "briard",
+    "name": "Briard",
+    "group": "Herding",
+    "appearance": "The Briard is a large, muscular, well-proportioned dog with a powerful build that conveys both strength and agility. Males stand 23–27 inches at the shoulder and weigh 70–100 pounds; females are slightly smaller at 22–25.5 inches and 55–75 pounds. The body is slightly longer than tall, with a strong, level back, broad loin, and powerful hindquarters that support the breed's endurance and working c"
+  },
+  {
+    "slug": "brussels-griffon",
+    "name": "Brussels Griffon",
+    "group": "Toy",
+    "appearance": "The Brussels Griffon is a compact, sturdy little dog with a notably large, domed head relative to its body size. The face is the breed's defining feature: the pushed-in muzzle (brachycephalic), large, prominent dark eyes, and prominent chin create the famous monkey or human-like expression. The rough variety has wiry facial furnishings — a beard, mustache, and prominent eyebrows — that amplify the"
+  },
+  {
+    "slug": "cairn-terrier",
+    "name": "Cairn Terrier",
+    "group": "Terrier",
+    "appearance": "The Cairn Terrier's appearance beautifully reflects its working heritage: this is a compact, sturdy dog built to move through rough terrain and dig with determination. The overall impression should be that of a small, active terrier — broader in proportion to its length than many other small breeds, with a distinctive wide head and short strong muzzle. The coat is the Cairn's most distinctive feat"
+  },
+  {
+    "slug": "chinese-crested",
+    "name": "Chinese Crested",
+    "group": "Toy",
+    "appearance": "The Hairless variety has smooth, soft, warm skin — often described as feeling like human skin — that may be solid in color or spotted. The skin tone varies considerably from pink to dark gray to black, with many dogs having a mottled combination. Hair is present on three areas only: the crest (a flowing fall of silky hair from the top of the skull), the socks (feathering on the feet and lower legs"
+  },
+  {
+    "slug": "chinese-shar-pei",
+    "name": "Chinese Shar-Pei",
+    "group": "Non-Sporting",
+    "appearance": "The Chinese Shar-Pei's appearance is unique in the dog world. The head is large and somewhat disproportionate to the body, covered in excess loose skin that creates deep folds over the forehead and face. In adults, the wrinkles are typically concentrated on the head and neck; in puppies, the entire body appears to be one size too big for the dog inside it, with skin rolls covering the shoulders, b"
+  },
+  {
+    "slug": "coton-de-tulear",
+    "name": "Coton de Tulear",
+    "group": "Non-Sporting",
+    "appearance": "The Coton de Tulear is a small, well-balanced dog with a slightly longer body than it is tall. The coat is the dominant physical feature: long, thick, and profuse over the entire body, with a texture that is soft and cottony rather than silky or wiry. The coat naturally forms gentle waves or light curls and should never be flat or harsh. In show trim it is long and flows to the ground; many pet ow"
+  },
+  {
+    "slug": "entlebucher-mountain-dog",
+    "name": "Entlebucher Mountain Dog",
+    "group": "Herding",
+    "appearance": "The Entlebucher Mountain Dog is a compact, sturdy, and well-muscled dog. The coat is short and tight, with the classic Swiss Sennenhund tricolor pattern: a black base coat with symmetrical rust and white markings. White appears on the muzzle, blaze, chest, and feet; rust (tan/mahogany) appears above the eyes, on the cheeks, and on the legs. The symmetry of the markings is considered an important b"
+  },
+  {
+    "slug": "finnish-lapphund",
+    "name": "Finnish Lapphund",
+    "group": "Herding",
+    "appearance": "The Finnish Lapphund is a medium-sized, well-balanced dog with a substantial double coat that makes it appear larger than its actual weight. The outer coat is long, straight to slightly wavy, and coarse; the undercoat is dense, soft, and provides exceptional insulation. The coat is shorter on the face, ears, and front of the legs, and longer on the neck, body, and back of the legs, creating a natu"
+  },
+  {
+    "slug": "finnish-spitz",
+    "name": "Finnish Spitz",
+    "group": "Non-Sporting",
+    "appearance": "The Finnish Spitz is a square, medium-sized dog with clean lines and a lively, spirited bearing. The head is fox-like with a moderately narrow muzzle, almond-shaped dark eyes, and sharply erect ears that are high-set and always active. The expression is keen and intelligent. The coat is double-layered: a dense, short, soft undercoat beneath a longer, harsher, straight outer coat that stands somewh"
+  },
+  {
+    "slug": "giant-schnauzer",
+    "name": "Giant Schnauzer",
+    "group": "Working Group",
+    "appearance": "Large and powerfully built with a rectangular silhouette — the body length roughly equals the height at the withers. Males stand 25.5–27.5 inches at the shoulder; females 23.5–25.5 inches. Weight ranges from 55–85 lbs, with males at the heavier end. The overall impression is of a compact, muscular working dog rather than a bulky one. The wiry double coat comes in solid black or salt-and-pepper. Th"
+  },
+  {
+    "slug": "greater-swiss-mountain-dog",
+    "name": "Greater Swiss Mountain Dog",
+    "group": "Working Group",
+    "appearance": "Large and powerfully built — this is a breed that looks like it was designed to pull a loaded cart, because it was. Males stand 25.5–28.5 inches at the shoulder and typically weigh 105–140 lbs; females 23.5–27 inches and 85–110 lbs. The build is muscular and substantial without being bulky or slow-looking. The tricolor coat — black body with rust and white markings on the face, chest, legs, and ta"
+  },
+  {
+    "slug": "icelandic-sheepdog",
+    "name": "Icelandic Sheepdog",
+    "group": "Herding",
+    "appearance": "The Icelandic Sheepdog is a compact, well-proportioned spitz-type dog. The head is strongly made with a moderately broad skull, a clearly defined stop, and a muzzle that is slightly shorter than the skull length. Ears are erect, medium-sized, and triangular. Eyes are medium-sized, almond-shaped, and typically dark brown. The tail is set high and curls over the back — a characteristic spitz feature"
+  },
+  {
+    "slug": "irish-terrier",
+    "name": "Irish Terrier",
+    "group": "Terrier Group",
+    "appearance": "Medium-sized and racily built — males and females both fall in the 25–27 lb range and stand around 18 inches at the shoulder. The Irish Terrier has a long, flat head with small V-shaped ears that fold forward, dark, alert eyes, and the upright tail that typifies terrier breeds. The overall impression is of a lean, athletic dog built for speed and endurance rather than bulk. The coat is dense, wiry"
+  },
+  {
+    "slug": "japanese-chin",
+    "name": "Japanese Chin",
+    "group": "Toy",
+    "appearance": "The Japanese Chin's most arresting feature is its face: a very flat profile, a broad skull, wide-set large dark eyes, and a nose set high between the eyes — a configuration that gives the breed its characteristic surprised, open expression. The muzzle is extremely short and wide, and the lower jaw is very slightly wider than the upper, creating a barely perceptible underbite that is considered a b"
+  },
+  {
+    "slug": "keeshond",
+    "name": "Keeshond",
+    "group": "Non-Sporting Group",
+    "appearance": "Medium-sized and compact — 35 to 45 pounds, 17 to 18 inches at the shoulder. The profuse double coat creates a lion's mane effect around the neck and chest (the ruff), with thick fur on the hindquarters forming distinctive \"trousers.\" The tail curls over the back in classic spitz fashion. Color is a mixture of grey, black, and cream, with the characteristic spectacle markings — dark lines from the"
+  },
+  {
+    "slug": "kerry-blue-terrier",
+    "name": "Kerry Blue Terrier",
+    "group": "Terrier",
+    "appearance": "The Kerry Blue Terrier's most immediately striking feature is its wavy, dense coat in blue-gray shades — a color that exists in very few dog breeds. The coat should be soft and wavy (not curly or straight), dense, and of medium length. The blue coloring is unique in its depth and the way it catches light, ranging from deep slate to a lighter silver-blue. Tan markings or other colors indicate the d"
+  },
+  {
+    "slug": "komondor",
+    "name": "Komondor",
+    "group": "Working Group",
+    "appearance": "Large and powerful — males are typically 100+ lbs and over 27 inches at the shoulder, making the Komondor one of the largest breeds by mass. The build is muscular and substantial beneath the coat. The head is broad, the expression calm and serious. The coat is the defining feature: white cords that develop naturally over the first two years of the dog's life. Puppies are born with fluffy white coa"
+  },
+  {
+    "slug": "lakeland-terrier",
+    "name": "Lakeland Terrier",
+    "group": "Terrier",
+    "appearance": "The Lakeland Terrier is a small, well-balanced dog that conveys strength and agility despite its modest size. The head is rectangular and flat-skulled, with a strong, well-filled muzzle approximately equal in length to the skull. The eyes are small, dark, and have the intense, direct expression characteristic of terrier breeds. Ears are small, V-shaped, and fold forward. The neck is clean and mode"
+  },
+  {
+    "slug": "leonberger",
+    "name": "Leonberger",
+    "group": "Working Group",
+    "appearance": "Massive, lion-like, and striking. Males are considerably larger than females — males typically weigh 130–170 lbs and stand 28–31.5 inches; females 90–130 lbs and 25.5–29.5 inches. The overall impression is of a powerful but elegant giant — not the shapeless bulk of some mastiff breeds, but a well-proportioned, muscular dog with clear working-dog structure. The double coat is long and flowing, rang"
+  },
+  {
+    "slug": "lhasa-apso",
+    "name": "Lhasa Apso",
+    "group": "Non-Sporting Group",
+    "appearance": "Small and sturdy — 12 to 18 pounds, 10 to 11 inches at the shoulder. The body is slightly longer than tall, and the whole structure is solid beneath all that coat. The heavy fall of hair over the face is protective in origin — it shielded the dog's eyes from the harsh Himalayan wind and sun. Coat colors include gold, honey, dark grizzle, slate, smoke, particolors, white, brown, and black. The full"
+  },
+  {
+    "slug": "lowchen",
+    "name": "Lowchen",
+    "group": "Non-Sporting",
+    "appearance": "The Lowchen has a moderate, well-balanced build — sturdy for its size, with a level topline, good bone, and a head that is broad and relatively short-muzzled with a warm, expressive face. The large, round, dark eyes and the gently wavy coat give the dog a soft, appealing expression that is simultaneously charming and alert. The coat is the breed's most visually distinctive feature. It is long and "
+  },
+  {
+    "slug": "miniature-bull-terrier",
+    "name": "Miniature Bull Terrier",
+    "group": "Terrier",
+    "appearance": "The Miniature Bull Terrier's most recognizable feature is its head — long, strong, and egg-shaped when viewed from the front, with no stop and a surface that arcs gently from the top of the skull down to the tip of the nose. This distinctive profile is one of the most unique in the dog world and is instantly recognizable. The eyes are small, triangular, and dark, set obliquely in the skull and giv"
+  },
+  {
+    "slug": "miniature-pinscher",
+    "name": "Miniature Pinscher",
+    "group": "Toy",
+    "appearance": "The Miniature Pinscher is a well-balanced, compact dog with a sturdy, muscular build. His body is square in proportion, with a level topline and a deep chest that gives him an air of substance despite his small frame. The head is narrow and elongated, with a strong muzzle and dark, oval eyes that exude intelligence and alertness. Ears can be cropped (in countries where the practice is permitted) o"
+  },
+  {
+    "slug": "norfolk-terrier",
+    "name": "Norfolk Terrier",
+    "group": "Terrier",
+    "appearance": "The Norfolk Terrier has a compact, low, well-boned body. It is slightly longer than it is tall, with a level topline and strong hindquarters. The head is broad and slightly rounded, with dark oval eyes that convey boldness and intelligence. The defining feature is its V-shaped drop ears, which fold forward and lie close to the skull — always in motion when the dog is alert. The coat is hard, wiry,"
+  },
+  {
+    "slug": "norwich-terrier",
+    "name": "Norwich Terrier",
+    "group": "Terrier",
+    "appearance": "The Norwich Terrier is a compact, low, sturdy dog. The body is short and level, with good substance for its size — heavy bone and strong musculature belie the small frame. The head is slightly rounded, the muzzle wedge-shaped and strong. The prick ears are small, erect, and set wide apart on a broad skull, giving the breed its characteristic open, alert expression. The coat is wiry, hard, and stra"
+  },
+  {
+    "slug": "otterhound",
+    "name": "Otterhound",
+    "group": "Hound Group",
+    "appearance": "Large and heavily built, males typically 115 lbs, females somewhat lighter. The defining feature is the rough, shaggy double coat — harsh outer coat over a soft, oily, wooly undercoat that is genuinely water-resistant. The coat can be grizzle, sandy, red, wheaten, blue, or tan, often with black saddle markings. It looks perpetually disheveled. That's normal. The head is large and noble with a dist"
+  },
+  {
+    "slug": "papillon",
+    "name": "Papillon",
+    "group": "Toy",
+    "appearance": "The Papillon is a fine-boned, dainty dog with a light, elegant build that somehow manages to look both fragile and athletic. The body is slightly longer than it is tall, with a well-rounded ribcage, level topline, and a long, plumed tail carried arched over the back. Despite a silhouette that suggests delicacy, the Papillon is a sound, well-muscled dog capable of impressive speed and agility. The "
+  },
+  {
+    "slug": "parson-russell-terrier",
+    "name": "Parson Russell Terrier",
+    "group": "Terrier",
+    "appearance": "The Parson Russell Terrier is a well-balanced, athletic dog whose appearance reflects its working heritage. The breed standard calls for a body that is slightly longer than tall, with a small, flexible chest that allows the dog to squeeze through underground burrows — a practical feature of its fox-hunting origins. The chest should be easily spannable by adult human hands. The head is flat and mod"
+  },
+  {
+    "slug": "pekingese",
+    "name": "Pekingese",
+    "group": "Toy",
+    "appearance": "The Pekingese is built close to the ground with a heavy front end, wide chest, and somewhat bowed forelegs that give him his characteristic rolling, unhurried gait. The body is pear-shaped — heavier in the front than the rear — and surprisingly solid and substantial despite a small overall frame. The topline is level and the hindquarters are lighter than the front. The head is large relative to th"
+  },
+  {
+    "slug": "polish-lowland-sheepdog",
+    "name": "Polish Lowland Sheepdog",
+    "group": "Herding",
+    "appearance": "The Polish Lowland Sheepdog's most immediately recognizable feature is its profuse, shaggy double coat, which covers the entire body including the face and eyes. The outer coat is long, dense, and of harsh or crisp texture; the undercoat is soft and dense. The coat does not have a natural wave or curl but hangs flat in a shaggy curtain. Colors include white with black, gray, or sandy patches; gray"
+  },
+  {
+    "slug": "puli",
+    "name": "Puli",
+    "group": "Herding",
+    "appearance": "A fully corded adult Puli is one of the most striking sights in the dog world. The cords hang from all parts of the body — head, body, legs, and tail — in long, flat-to-round rope-like locks that completely obscure the dog's underlying structure. The face is covered in cords that fan out from the head, hiding the eyes; the body cords hang to the ground on an adult dog. The tail's cords blend into "
+  },
+  {
+    "slug": "redbone-coonhound",
+    "name": "Redbone Coonhound",
+    "group": "Hound Group",
+    "appearance": "Medium to large — 45–70 lbs, 21–27 inches tall. The coat is the breed's most distinctive feature: short, dense, and a rich, deep red — one of the most uniformly solid-colored of the hound breeds. The deep chest, strong back, and well-muscled hindquarters reflect athletic capacity for hours of field work. The long, soft ears hang well past the muzzle. The eyes are dark hazel to brown with a warm, s"
+  },
+  {
+    "slug": "russell-terrier",
+    "name": "Russell Terrier",
+    "group": "Terrier",
+    "appearance": "The Russell Terrier is longer in body than it is tall — the ratio of height to length is approximately 1:1.1 to 1:1.2, giving it a slightly rectangular outline compared to the squarer Parson Russell. The body depth is roughly equal to the leg length, and the chest must be easily spannable by human hands — a critical working conformation requirement for a dog that needs to move through underground "
+  },
+  {
+    "slug": "schipperke",
+    "name": "Schipperke",
+    "group": "Non-Sporting",
+    "appearance": "The Schipperke's silhouette is distinctive and immediately recognizable. The body is slightly longer than tall, with a level topline that slopes slightly toward the naturally raised rear — a slope emphasized by the longer coat over the withers and shoulders compared to the rear. This characteristic outline gives the dog a unique, almost wedge-shaped profile when viewed from the side. The coat is a"
+  },
+  {
+    "slug": "scottish-deerhound",
+    "name": "Scottish Deerhound",
+    "group": "Hound Group",
+    "appearance": "Large and rangy — males 85–110 lbs, standing 30–32 inches; females 75–95 lbs, somewhat smaller. The rough, wiry coat in shades of blue-grey, brindle, or grey gives the Deerhound a slightly shaggy, aristocratic appearance. The coat is harsh to the touch — more wiry than soft — and provides weather resistance for the Scottish Highlands climate. The classic sighthound silhouette: deep chest, tucked a"
+  },
+  {
+    "slug": "scottish-terrier",
+    "name": "Scottish Terrier",
+    "group": "Terrier",
+    "appearance": "The Scottish Terrier's appearance is immediately recognizable: a long, low body set on short but powerful legs, a large rectangular head with prominent beard and eyebrows, upright pointed ears, and an upright tail carried erect or with a slight forward curl. The breed's proportions — relatively long body for its height, with a large, heavily furnished head — give it an unusual and distinctive appe"
+  },
+  {
+    "slug": "silky-terrier",
+    "name": "Silky Terrier",
+    "group": "Toy",
+    "appearance": "The Silky Terrier is a moderately low-set dog with a refined, compact build. The body is slightly longer than it is tall, giving it an alert, forward-leaning stance. Its wedge-shaped head is carried high, with dark almond-shaped eyes that sparkle with intelligence and mischief. The ears are small, V-shaped, and erect — always pricked, always listening. The coat is the breed's crown jewel: straight"
+  },
+  {
+    "slug": "skye-terrier",
+    "name": "Skye Terrier",
+    "group": "Terrier",
+    "appearance": "The Skye Terrier is built quite differently from most terriers — it is remarkably long in proportion to its height, with a body roughly twice as long as it is tall. This low, powerful silhouette was purpose-built for working in underground dens. Despite the small height of 9–10 inches, the breed is surprisingly heavy, weighing 35–45 pounds — far more substantial than the coat alone suggests. The c"
+  },
+  {
+    "slug": "spanish-water-dog",
+    "name": "Spanish Water Dog",
+    "group": "Herding Group",
+    "appearance": "Medium-sized and solidly built — males typically 40–49 lbs and 17.75–19.75 inches at the shoulder; females 31–40 lbs and 15.75–18 inches. The body is slightly longer than tall, with the muscular, athletic build of a dog designed to work all day across varied terrain. The face is broad, with almond-shaped eyes in hazel to chestnut brown and pendant ears that hang flat against the head. The coat is "
+  },
+  {
+    "slug": "standard-schnauzer",
+    "name": "Standard Schnauzer",
+    "group": "Working Group",
+    "appearance": "Compact, squarely built, and muscular. The body length equals the height at the withers, giving the classic rectangular-blocked Schnauzer silhouette. Males stand 18.5–19.5 inches; females 17.5–18.5 inches. Weight runs 30–45 lbs for females, 35–50 lbs for males. The build is athletic and capable without being heavy. The wiry double coat is the breed's signature. The outer coat is hard and wiry; the"
+  },
+  {
+    "slug": "swedish-vallhund",
+    "name": "Swedish Vallhund",
+    "group": "Herding",
+    "appearance": "The Swedish Vallhund's body is longer than it is tall — a build shared by other herding breeds that worked cattle by nipping at heels and staying low to avoid kicks. The legs are short but strongly muscled; the chest is long and well-developed; the back is level and strong. The overall impression is of a compact, powerful, purpose-built working dog. The head is wedge-shaped and clean, the muzzle a"
+  },
+  {
+    "slug": "tibetan-spaniel",
+    "name": "Tibetan Spaniel",
+    "group": "Non-Sporting",
+    "appearance": "The Tibetan Spaniel has a small, slightly domed head — a characteristic shared with several other Tibetan breeds — with a medium-length, blunt muzzle, a slight undershot or level bite, and large, dark, slightly wide-set eyes that give the face its warm, watchful expression. The ears are pendant and feathered, hanging close to the head. The overall expression combines intelligence, warmth, and rese"
+  },
+  {
+    "slug": "tibetan-terrier",
+    "name": "Tibetan Terrier",
+    "group": "Non-Sporting Group",
+    "appearance": "Medium-sized and squarely built, weighing 18–30 lbs and standing 14–17 inches at the shoulder. The hallmark feature is the long, flowing double coat — a soft woolly undercoat beneath a fine, straight-to-wavy outer coat that can be any color or combination. The coat naturally parts down the back. The feet are the other signature: large, flat, and round — described as \"snowshoe\" feet — which helped "
+  },
+  {
+    "slug": "toy-fox-terrier",
+    "name": "Toy Fox Terrier",
+    "group": "Toy",
+    "appearance": "The Toy Fox Terrier has a balanced, athletic build — compact but never coarse. The body is square in proportion, with a level back and a well-muscled rear. The head is slightly rounded, the muzzle tapered, and the expression is keen and alert. The large, erect ears frame the face and give the breed its characteristic look of constant attention. The smooth, short coat lies flat against the body and"
+  },
+  {
+    "slug": "welsh-terrier",
+    "name": "Welsh Terrier",
+    "group": "Terrier",
+    "appearance": "The Welsh Terrier has a square, well-proportioned build — the body length approximately equal to the height at the shoulder. The head is long and flat, the muzzle strong, and the expression is alert and intelligent. The small, V-shaped ears fold forward and lie close to the skull. The eyes are small, dark, and full of fire. The coat is hard, wiry, and dense — the outer coat protecting a softer und"
+  },
+  {
+    "slug": "wire-fox-terrier",
+    "name": "Wire Fox Terrier",
+    "group": "Terrier",
+    "appearance": "The Wire Fox Terrier's build is a study in proportion and power. The back is short and level; the chest is deep rather than wide; the legs are straight and well-boned. The neck is long and muscular, flowing cleanly into well-laid-back shoulders. The overall silhouette — square, balanced, and upstanding — is one of the most recognizable in the dog world. The wiry coat is the breed's signature featu"
+  },
+  {
+    "slug": "xoloitzcuintli",
+    "name": "Xoloitzcuintli",
+    "group": "Non-Sporting Group",
+    "appearance": "Toy Xolos weigh 10–15 lbs; Miniatures 15–30 lbs; Standards 30–55 lbs. All three sizes share the same lean, elegant build — almond-shaped eyes, large bat-like ears, a smooth or hairless body, and a sleek, athletic silhouette. The Xolo is built like a primitive dog: functional, without exaggeration in any direction. The hairless variety's skin can range from dark gray-black to bronze, spotted, or pa"
+  }
+]

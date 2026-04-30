@@ -5,7 +5,11 @@
     "shopify_handle": "bearded-collie-puppy-checklist",
     "group": "Bearded Collie",
     "size_category": "Guide",
-    "tags": ["bearded-collie", "puppy", "checklist"],
+    "tags": [
+      "bearded-collie",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "Preparing for a Bearded Collie puppy requires planning for an energetic, long-coated herding dog. Use this checklist to get your home, supplies, and routine ready before your Beardie arrives.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bearded_Collie_600.jpg/330px-Bearded_Collie_600.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_416b6903-074b-41d9-bb30-1472c662287f.png?v=1777573263",
       "alt": "Bearded Collie puppy checklist"
     }
   },

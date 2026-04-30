@@ -5,20 +5,24 @@
     "shopify_handle": "otterhound-first-year-costs",
     "group": "Otterhound",
     "size_category": "Guide",
-    "tags": ["otterhound", "cost", "budget", "first-year", "rare-breed"],
+    "tags": [
+      "otterhound",
+      "cost",
+      "budget",
+      "first-year",
+      "rare-breed"
+    ],
     "published": true,
     "published_at": "2026-04-26T16:00:00Z",
     "excerpt": "Otterhound ownership costs $3,400–$6,400 in the first year, with a puppy price that reflects the breed's extreme rarity. Pet insurance before the first vet visit is essential given hip dysplasia risk and the breed-specific thrombocytopathia condition.",
     "meta_description": "Otterhound first year costs: what a rare breed puppy actually costs, food and vet expenses for a large hound, insurance considerations for thrombocytopathia, and lifetime cost estimates."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Two_otterhounds.jpg/250px-Two_otterhounds.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_b2f3e4d3-a05a-44c0-a1a3-8295e612f21c.png?v=1777575937",
       "alt": "Otterhound first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With a 10–13 year lifespan, the Otterhound represents a meaningful financial commitment. The ongoing costs are moderate for a large breed when the dog is healthy.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, minimal health interventions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$20,000–$32,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate issues (chronic ear infections, mild dysplasia)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$28,000–$42,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant issues (hip surgery, ongoing orthopedic management)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$38,000–$55,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">Pet insurance enrolled before the first vet visit is the most effective cost management strategy for the surgical scenarios.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Why do Otterhound puppies cost more than average?",

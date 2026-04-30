@@ -6,74 +6,103 @@
     "group": "Terrier Group",
     "size_category": "Small Breed",
     "tagline": "The Border Terrier is a working terrier that looks unpretentious and actually is. Energetic, good-natured, and more socially flexible than most terriers — but still a terrier, with prey drive, digging instinct, and the drive to keep moving.",
-    "tags": ["terrier-group", "small-breed", "high-energy", "working-terrier", "family-terrier", "dog-breeds"],
+    "tags": [
+      "terrier-group",
+      "small-breed",
+      "high-energy",
+      "working-terrier",
+      "family-terrier",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Border Terrier is one of the most practical small dogs: energetic, hardy, good with families, and more tolerant of other dogs than most terrier breeds. The honest requirements are real daily exercise, secure fencing, and awareness of CECS — a dietary-managed health condition specific to the breed.",
     "meta_description": "Border Terrier breed guide: temperament, exercise needs, CECS health condition, grooming the grizzled coat, and honest ownership requirements for this working family terrier."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Small" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "11–16 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–15 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "45–60 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low-Moderate" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Very good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Possible with research" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "11–16 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "45–60 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low-Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Very good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Possible with research"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Border_Terrier.jpg/330px-Border_Terrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_fe925623-20a9-4a4c-8fd1-ee9579ef43b3.png?v=1777573802",
       "alt": "Border Terrier"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Border Terrier?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Border Terrier originated in the Cheviot Hills on the Anglo-Scottish border, bred to hunt foxes alongside horses and hounds — which required a dog small enough to go to ground after quarry, but long-legged enough to keep pace with horses across rough country. The result is a compact, athletic terrier with a working character and a genuinely good temperament.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Border Terriers are consistently rated among the most family-friendly terrier breeds. They are less combative toward other dogs than many terriers, generally good with children, and trainable with consistent, positive methods. They are also genuinely high-energy working dogs with strong prey drive, a love of digging, and the stamina to outlast most owners in the field.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">One health condition specific to the breed requires special attention: CECS (Canine Epileptoid Cramping Syndrome), sometimes called Spike's Disease — a dietary-managed condition involving episodic cramping that can be controlled through gluten elimination in many affected dogs.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Border Terriers Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Small and workmanlike — 11–16 lbs, 11–16 inches tall, built for function rather than show ring glamour. The head is distinctive: otter-like, with a broad skull, short muzzle, and dark, keen eyes. The body is compact and narrow through the chest — designed to fit through underground passages.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The coat is a dense, wiry grizzle-and-tan, red, blue-and-tan, or grizzle — close-lying over a thick undercoat. The coat does not shed heavily and requires minimal maintenance compared to longer-coated breeds. Traditional hand-stripping twice yearly maintains working coat texture; trimming is acceptable for pets.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Border Terriers are good-natured, alert, and affectionate with their family. They are one of the terrier breeds most reliably good with children — patient for a terrier, playful without being rough. They bond closely with their people but have enough independence to manage alone for reasonable periods without significant separation anxiety.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With other dogs: notably more tolerant than most terrier breeds. Border Terriers can live peacefully with other dogs and often do well in multi-dog households. Proper introductions and supervision still matter, and same-sex combinations require more management than opposite-sex pairs. They were bred to work in packs, which shapes this relative tolerance.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With small animals: prey drive is high and consistent. Cats raised with the dog may coexist; cats introduced to an adult Border Terrier are at significant risk. Small caged animals (rabbits, guinea pigs) should not be left accessible. This is not a temperament problem — it is the working purpose the breed was designed for.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Border Terrier",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Border Terrier is probably the easiest terrier for a household that hasn't owned terriers before — and that's a genuine compliment to the breed. They're affectionate, good-natured, and far more manageable around other dogs than the typical terrier. If you want a terrier's energy and character in a family-compatible package, the Border is the most accessible option in the group.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest context: \"easiest terrier\" still means real exercise needs, reliable prey drive, and a dog that will dig if you let it. These aren't training failures; they're what the dog is. The management is not complicated, but it needs to be consistent.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">CECS is the one thing prospective owners really need to understand. If your Border develops cramping episodes, gluten elimination from the diet may be the solution — it's not a dangerous condition if managed correctly, but it needs to be recognized rather than written off as something else. Ask your vet specifically about CECS if you see unusual movement or cramping.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">45–60 minutes of purposeful exercise daily — not just a slow walk around the block. Border Terriers have working-dog stamina in a small package and need to actually run, explore, and use their nose. Hiking, agility, and off-leash play in a securely fenced area all work well. Never off-leash in unfenced areas near roads or small animals.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Low compared to most dogs. The short, wiry coat needs weekly brushing. Twice-yearly hand-stripping maintains the traditional working coat texture; trimming is acceptable for pets. Professional grooming 1–2 times per year is typical. See the <a href=\"/blogs/dog-breeds/border-terrier-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Border Terrier grooming guide</a> for details.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Smarter and more willing than many terrier breeds. Positive reinforcement works well, and Border Terriers are capable of impressive competitive obedience, agility, and trick training. They still have a terrier streak of independent decision-making — consistent rules and engagement are more effective than harsh correction.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Border Terriers are generally a hardy, healthy breed with a good lifespan of 12–15 years. There is one breed-specific condition that every Border Terrier owner must understand: CECS.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">CECS / Spike's Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Canine Epileptoid Cramping Syndrome — a breed-specific condition involving episodes of muscle cramping, abnormal movement, and sometimes collapse. Believed to have a gluten-sensitivity component in many affected dogs. Managed through a strict gluten-free diet in many cases, with significant improvement or resolution of episodes. If your Border Terrier shows cramping, stiffness, or unusual movement episodes, raise CECS specifically with your vet and discuss a gluten-free diet trial.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Less common than in larger breeds but documented in Border Terriers. OFA screening available; ask breeders for clearances.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Heart Disease (Pulmonic Stenosis)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">A congenital narrowing of the pulmonic valve. Ranges from mild (monitored, no treatment required) to severe (requiring intervention). Cardiac screening of breeding stock is important. Ask breeders whether cardiac clearances have been performed.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Underactive thyroid — manageable with daily medication. Signs include weight gain, lethargy, and coat changes.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip clearance and cardiac auscultation or echo clearance. Research the CECS condition thoroughly before bringing a Border Terrier home.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (small breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$450</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$250–$450</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Grooming (1–2x/yr professional)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$100–$200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$100–$200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$150–$350</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,950–$3,800</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$900–$1,700</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/border-terrier-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Border Terrier first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Border Terrier Right for You?",
@@ -92,25 +121,50 @@
         "Households feeding gluten-containing foods and unwilling to change if CECS develops"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Border Terrier",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,500 from reputable breeders. Required health clearances: OFA hip and cardiac screening. The Border Terrier Club of America maintains a breeder referral directory. Ask breeders about the prevalence of CECS in their lines and what dietary management they recommend.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Border Terrier rescue organizations operate across the US. Adults from rescue can be well-suited for households that want a known temperament. Ask about CECS history or any dietary requirements the dog may have.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Border Terrier comes home, complete the <a href=\"/blogs/dog-breeds/border-terrier-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Border Terrier puppy checklist</a> — fence security, food choice research, and early socialization planning are the critical pre-arrival steps.</p>"
     }
   },
-
   "faq": [
-    { "q": "What is CECS in Border Terriers?", "a": "Canine Epileptoid Cramping Syndrome (CECS), also called Spike's Disease, is a condition specific to Border Terriers involving episodes of cramping, abnormal movement, and sometimes collapse. It's distinct from epilepsy. Many affected dogs improve significantly or fully resolve episodes when switched to a strict gluten-free diet. If your Border Terrier shows cramping or movement abnormalities, raise CECS specifically with your vet rather than assuming it's a seizure disorder." },
-    { "q": "Are Border Terriers good with other dogs?", "a": "Yes — more reliably than most terrier breeds. Border Terriers were bred to work alongside packs of hounds, which may explain their relative social tolerance. They can live peacefully with other dogs with proper introduction and management. Like all terriers, same-sex pairs need more careful monitoring. Prey drive toward small animals is still high regardless of sociability with dogs." },
-    { "q": "Do Border Terriers shed?", "a": "Minimally. The short, dense wiry coat is one of the breed's practical advantages — it doesn't shed heavily and doesn't produce much dog odor. Regular brushing and twice-yearly professional grooming (or home stripping) keeps the coat in good condition. This is a real advantage for households that object to hair on furniture." },
-    { "q": "Are Border Terriers good for first-time owners?", "a": "Among the better terrier options for first-time owners — but research the breed first. They are more biddable and socially flexible than many terriers. The requirements are real daily exercise, secure fencing, and understanding of prey drive and digging. With those expectations clearly set and a willingness to train consistently, a Border Terrier is achievable for a motivated first-time owner." }
+    {
+      "q": "What is CECS in Border Terriers?",
+      "a": "Canine Epileptoid Cramping Syndrome (CECS), also called Spike's Disease, is a condition specific to Border Terriers involving episodes of cramping, abnormal movement, and sometimes collapse. It's distinct from epilepsy. Many affected dogs improve significantly or fully resolve episodes when switched to a strict gluten-free diet. If your Border Terrier shows cramping or movement abnormalities, raise CECS specifically with your vet rather than assuming it's a seizure disorder."
+    },
+    {
+      "q": "Are Border Terriers good with other dogs?",
+      "a": "Yes — more reliably than most terrier breeds. Border Terriers were bred to work alongside packs of hounds, which may explain their relative social tolerance. They can live peacefully with other dogs with proper introduction and management. Like all terriers, same-sex pairs need more careful monitoring. Prey drive toward small animals is still high regardless of sociability with dogs."
+    },
+    {
+      "q": "Do Border Terriers shed?",
+      "a": "Minimally. The short, dense wiry coat is one of the breed's practical advantages — it doesn't shed heavily and doesn't produce much dog odor. Regular brushing and twice-yearly professional grooming (or home stripping) keeps the coat in good condition. This is a real advantage for households that object to hair on furniture."
+    },
+    {
+      "q": "Are Border Terriers good for first-time owners?",
+      "a": "Among the better terrier options for first-time owners — but research the breed first. They are more biddable and socially flexible than many terriers. The requirements are real daily exercise, secure fencing, and understanding of prey drive and digging. With those expectations clearly set and a willingness to train consistently, a Border Terrier is achievable for a motivated first-time owner."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Cairn Terrier", "slug": "cairn-terrier", "note": "Similar small working terrier, slightly more independent, longer coat"},
-    {"name": "Welsh Terrier", "slug": "welsh-terrier", "note": "Larger, similar wiry coat, more Airedale-like in structure"},
-    {"name": "Jack Russell Terrier", "slug": "parson-russell-terrier", "note": "Very similar energy level, higher intensity, more combative"},
-    {"name": "West Highland White Terrier", "slug": "west-highland-white-terrier", "note": "Similar size, hardier than its groomed appearance suggests"}
+    {
+      "name": "Cairn Terrier",
+      "slug": "cairn-terrier",
+      "note": "Similar small working terrier, slightly more independent, longer coat"
+    },
+    {
+      "name": "Welsh Terrier",
+      "slug": "welsh-terrier",
+      "note": "Larger, similar wiry coat, more Airedale-like in structure"
+    },
+    {
+      "name": "Jack Russell Terrier",
+      "slug": "parson-russell-terrier",
+      "note": "Very similar energy level, higher intensity, more combative"
+    },
+    {
+      "name": "West Highland White Terrier",
+      "slug": "west-highland-white-terrier",
+      "note": "Similar size, hardier than its groomed appearance suggests"
+    }
   ]
 }

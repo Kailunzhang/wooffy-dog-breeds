@@ -5,7 +5,10 @@
     "shopify_handle": "leonberger-grooming-guide",
     "group": "Leonberger",
     "size_category": "Guide",
-    "tags": ["leonberger", "grooming"],
+    "tags": [
+      "leonberger",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The Leonberger's long, lion-like double coat requires brushing several times per week and full mat-prevention attention to the mane and feathering. Seasonal blowouts are substantial. Professional grooming is optional but the home commitment is real.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Leonberger_male.jpg/250px-Leonberger_male.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_2a42f671-16a6-470c-9298-9cdf9afbdff0.png?v=1777575503",
       "alt": "Leonberger grooming guide"
     }
   },

@@ -5,20 +5,26 @@
     "shopify_handle": "keeshond-puppy-checklist",
     "group": "Keeshond",
     "size_category": "Guide",
-    "tags": ["keeshond", "puppy", "checklist", "epilepsy", "pda", "double-coat", "socialization"],
+    "tags": [
+      "keeshond",
+      "puppy",
+      "checklist",
+      "epilepsy",
+      "pda",
+      "double-coat",
+      "socialization"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "Before your Keeshond puppy comes home: know the epilepsy signs to watch for, get the cardiac check at the first vet visit, have the grooming tools ready, and get pet insurance before anything is documented.",
     "meta_description": "Keeshond puppy checklist: epilepsy awareness and signs, cardiac check at first vet visit for PDA, grooming tool setup, separation anxiety prevention, and socialization priorities."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Keeshond_Majic_standing_cropped.jpg/250px-Keeshond_Majic_standing_cropped.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_03d91818-78b0-4280-8788-4712c6c21b3a.png?v=1777575251",
       "alt": "Keeshond puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +42,6 @@
       "html": "<h3>Separation Anxiety Prevention</h3><p>Keeshonds were barge dogs that lived in close quarters with their people — they are wired for constant company. This makes them wonderful family dogs and creates a real risk of separation anxiety when left alone. Prevention is much easier than remediation:</p><ul><li>Crate train from day one — the crate provides a safe, comfortable space and prevents the destructive behaviors that develop when an anxious dog has the run of the house</li><li>Practice departures from the first week: step out for 30 seconds, return calmly, step out again. Build duration gradually. The puppy that learns departures end in returns is calmer than one who only experiences long absences</li><li>Don't make departures or arrivals dramatic — low-key goodbyes and calm greetings reduce the emotional loading of comings and goings</li><li>Provide enrichment in the crate: frozen Kongs, puzzle feeders, chew toys — mental engagement during alone time helps</li></ul><h3>Barking Management</h3><p>Keeshonds are vocal. Alert barking is a genuine breed trait and will not disappear entirely. Managing it means shaping it — the dog can alert to something once, be acknowledged, and be asked to settle. Teaching \"quiet\" or \"enough\" as a trained behavior gives you a tool. Ignoring barking or reacting with frustration makes it worse.</p><h3>Socialization: Use the Window</h3><p>8–16 weeks is the critical socialization period. Keeshonds are naturally friendly, but socialization still shapes their adult confidence, their response to strangers, and their ability to settle in new environments.</p><ul><li>Diverse people: tall/short, different ages, uniforms, hats</li><li>Diverse environments: urban sounds, traffic, different floor types, public spaces</li><li>Controlled dog interactions in puppy class — crucial for a dog that will live closely with its family's social life</li><li>Positive exposure to being alone for short periods, building tolerance gradually</li></ul><h3>Never Shave Rule: Establish It Early</h3><p>Tell every groomer, pet sitter, and dog-caring person in your network: the Keeshond double coat is never shaved. Print it on the grooming instructions if you board the dog. Groomers who are unfamiliar with double-coated breeds sometimes clip them in summer as a default — preventing this requires explicit communication every time.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What is PDA and how serious is it in Keeshond puppies?",

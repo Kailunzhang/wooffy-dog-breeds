@@ -5,7 +5,11 @@
     "shopify_handle": "belgian-sheepdog-puppy-checklist",
     "group": "Belgian Sheepdog",
     "size_category": "Guide",
-    "tags": ["belgian-sheepdog", "puppy", "checklist"],
+    "tags": [
+      "belgian-sheepdog",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "Preparing for a Belgian Sheepdog puppy means getting ready for an intelligent, active, and long-coated herding breed. This checklist covers supplies, home prep, and early training essentials.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/04_-_Belgian_shepherd_dog_varieties_-_Groenendael%2CTervuren%2C_Malinois%2C_Laekenois.jpg/330px-04_-_Belgian_shepherd_dog_varieties_-_Groenendael%2CTervuren%2C_Malinois%2C_Laekenois.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_946367ed-a359-4426-8697-a6e9ed650249.png?v=1777573692",
       "alt": "Belgian Sheepdog puppy checklist"
     }
   },

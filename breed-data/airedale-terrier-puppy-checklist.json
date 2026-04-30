@@ -5,20 +5,24 @@
     "shopify_handle": "airedale-terrier-puppy-checklist",
     "group": "Airedale Terrier",
     "size_category": "Guide",
-    "tags": ["airedale-terrier", "puppy", "checklist", "terrier", "socialization"],
+    "tags": [
+      "airedale-terrier",
+      "puppy",
+      "checklist",
+      "terrier",
+      "socialization"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "Before your Airedale puppy comes home: secure the fence, find a groomer experienced with wire-coated terriers, and enroll in a training class. The socialization window is short and critical for a breed with strong working instincts.",
     "meta_description": "Airedale Terrier puppy checklist: fence security, groomer research, socialization priorities, and essential gear before your puppy arrives."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Airedale_Terrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_27d1c381-df1c-4b13-bc59-4b01d1a02103.png?v=1777572857",
       "alt": "Airedale Terrier puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Start Training Before You Need It</h3><p>An Airedale puppy is manageable. An Airedale adult who never learned household rules is a 60-lb independent-minded project. Every command installed in the first 12 weeks doesn't need to be negotiated later.</p><ul><li>Sit, down, stay, come, leave it — establish all core commands from day one</li><li>Loose-leash walking from the very first walk — pulling is far easier to prevent than to correct</li><li>Door manners: sit before going outside, sit before greeting people</li><li>No jumping — playful and acceptable at 15 lbs; unacceptable at 60 lbs</li><li>Drop it / give — essential for a terrier that will grab anything interesting</li></ul><h3>Digging Management</h3><p>Airedales dig. This is not misbehavior — it is terrier behavior. Manage it from the start:</p><ul><li>Provide a designated digging area (sandbox or dirt patch) and reinforce digging there</li><li>Supervise outdoor time until reliable dig-prevention habits are established</li><li>Check fence base regularly and reinforce any vulnerable spots before they become escape routes</li></ul><h3>Puppy Exercise Rules</h3><p>Follow the puppy exercise guideline: 5 minutes per month of age, twice daily maximum. A 3-month-old puppy gets 15-minute sessions maximum. Growth plates close at 12–18 months — avoid forced running, jumping, or stair climbing until then. Play and short leash walks are appropriate; vigorous jogging with the dog is not until 18 months.</p>"
     }
   },
-
   "faq": [
     {
       "q": "When should I start training my Airedale puppy?",

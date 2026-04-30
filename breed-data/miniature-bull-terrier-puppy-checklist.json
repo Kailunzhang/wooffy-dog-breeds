@@ -5,7 +5,11 @@
     "shopify_handle": "miniature-bull-terrier-puppy-checklist",
     "group": "Miniature Bull Terrier",
     "size_category": "Guide",
-    "tags": ["miniature-bull-terrier", "puppy", "checklist"],
+    "tags": [
+      "miniature-bull-terrier",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "Bringing home a Miniature Bull Terrier puppy? This checklist covers everything you need to set up for success with this unique, stubborn, and deeply lovable compact terrier.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Minibull_2_Moletai_May_2014.jpg/330px-Minibull_2_Moletai_May_2014.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_65ce5cee-b73f-4e1b-8bfb-6732b16dfe9e.png?v=1777575677",
       "alt": "Miniature Bull Terrier"
     }
   },

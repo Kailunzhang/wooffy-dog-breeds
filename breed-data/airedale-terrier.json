@@ -6,74 +6,103 @@
     "group": "Terrier Group",
     "size_category": "Medium Breed",
     "tagline": "The King of Terriers is bold, athletic, and versatile — a working dog in a wiry coat. Airedales demand an active owner who appreciates independence, not one who wants easy compliance.",
-    "tags": ["terrier-group", "medium-breed", "high-energy", "wiry-coat", "working-heritage", "dog-breeds"],
+    "tags": [
+      "terrier-group",
+      "medium-breed",
+      "high-energy",
+      "wiry-coat",
+      "working-heritage",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The largest of all terrier breeds, the Airedale Terrier earned its title as King of Terriers through versatility — hunting, police work, military service. Bold, loyal, and athletic, they're outstanding dogs for active owners who understand that terrier independence is a feature, not a flaw.",
     "meta_description": "Airedale Terrier breed guide: temperament, exercise needs, grooming the wiry double coat, health conditions including hip dysplasia and cardiac concerns, and honest ownership requirements."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium-Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "40–65 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "11–14 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate-High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate-Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good with family" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Not ideal" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium-Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "40–65 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "11–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate-High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate-Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good with family"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Not ideal"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Airedale_Terrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_5e06cf15-20ac-4732-955b-5a4979feb9de.png?v=1777572872",
       "alt": "Airedale Terrier"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is an Airedale Terrier?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Airedale Terrier originated in the Aire Valley of Yorkshire, England, bred to hunt otters and rats along the riverbanks. Crossed with otterhounds and various working terriers, the Airedale became the largest terrier breed — hence the title \"King of Terriers.\" Their working history extends well beyond hunting: Airedales served as police and military dogs in both World Wars, carried messages under fire, and performed search-and-rescue duties. This is a dog with a genuine working heritage, not just a show ring title.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Modern Airedales retain that versatile, driven character. They are bold, confident, and loyal — deeply bonded to their family but independent enough to make their own decisions. They can be affectionate and playful, and they are generally better with other dogs than many terrier breeds, though their instinct to chase small animals remains firmly intact.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The honest context: Airedales are not passive dogs. High prey drive, a strong sense of their own agenda, and a coat that requires real maintenance all come with the territory. For an active owner who respects these traits and channels them, the Airedale is one of the most rewarding medium-large breeds available.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Airedale Terriers Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Airedales are the largest terrier breed — males typically 50–65 lbs, females 40–55 lbs, standing approximately 23 inches at the shoulder. The build is athletic and substantial: a strong, level topline, well-muscled quarters, and a confident, upright carriage that broadcasts their self-assurance.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The coat is the defining physical characteristic: a dense, wiry outer coat over a softer undercoat, traditionally in tan with a black or grizzle saddle. The coat does not shed significantly — it requires hand-stripping or clipping to maintain properly. The characteristic beard and mustache are breed hallmarks and require regular cleaning to prevent food and moisture buildup.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Airedales are spirited, curious, and loyal. With their family they are playful and affectionate — this is not a standoffish breed. They tend to pick a favorite person but remain warm with the whole household. They generally have more social flexibility with other dogs than many terrier breeds, though individual variation exists and prey drive toward small animals is consistent.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The independence is real and should be understood as a breed characteristic rather than a training problem. Airedales think for themselves. They learn commands quickly and then evaluate whether the current situation warrants following them. This is an intelligent, self-directed dog — not a stubborn one in the negative sense, but one that requires a handler who earns respect through consistency rather than demanding compliance.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Prey drive is high and reliable. Airedales should not be trusted off-leash near small animals, and recall is unreliable around strong distractions. A securely fenced yard is not optional — it is infrastructure.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About an Airedale",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Airedales attract people who want a substantial, athletic terrier with a real history behind it — and that appeal is completely legitimate. The King of Terriers title is earned. These dogs are genuinely versatile, trainable to a high level for the right handler, and deeply connected to their people.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The two things that most often trip up Airedale owners: the coat, and the independence. The wiry double coat looks low-maintenance but isn't — hand-stripping to maintain proper texture is a real skill and regular professional grooming is an ongoing cost. The independence means standard obedience classes designed for retrievers or herding breeds can feel frustrating. Finding a trainer familiar with terrier temperament makes a significant difference.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">If you want a dog that does exactly what you ask, every time, without evaluation — get a different breed. If you want a bold, loyal, athletic dog who will keep you honest, engage your brain, and be genuinely excellent company for an active life, the Airedale delivers.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of vigorous exercise daily. Airedales have the stamina for long hikes, running, and extended play — they were bred to work all day. A bored Airedale becomes a destructive Airedale. On-leash walks in suburban settings should be supplemented with off-leash time in a securely fenced area. Never off-leash in open areas with small animals present.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The wiry double coat requires professional grooming every 8–12 weeks. Hand-stripping maintains correct coat texture and color — clipping softens the coat and alters the color over time, which is acceptable for pets but a consideration for show dogs. Weekly brushing between appointments, plus regular beard cleaning after meals and water. See the <a href=\"/blogs/dog-breeds/airedale-terrier-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Airedale grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Positive reinforcement works well; harsh corrections produce stubbornness or shutdown. Airedales respond to handlers they respect — consistency, fair rules, and genuine engagement. They excel at activities that channel their drive: rally, agility, nose work, and tracking are all excellent outlets. Basic obedience from puppyhood is non-negotiable for a dog of this size and drive.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Airedales are generally a healthy breed with a lifespan of 11–14 years. The primary concerns are orthopedic, endocrine, and in some lines, cardiac.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint causing pain and arthritis over time. OFA or PennHIP screening available. Ask breeders for clearances. Managed with medication and, in severe cases, surgical intervention.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Underactive thyroid — manageable with daily medication. Signs include weight gain, lethargy, and coat changes. OFA thyroid clearance available from breeders.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Skin Conditions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Airedales can be prone to skin allergies, hot spots, and dermatitis — especially if the coat is clipped rather than stripped, as the altered coat texture can affect skin health. Regular grooming and monitoring are important.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Cardiac Issues (some lines)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Certain Airedale lines carry higher rates of cardiac conditions. Ask your breeder about cardiac history in the line. Annual cardiac auscultation by your vet is worthwhile.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip clearance, OFA thyroid clearance, and information about cardiac history in the line.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$1,800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium-large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming (4–5x/yr)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,550–$5,200</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,400–$2,600</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/airedale-terrier-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Airedale first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is an Airedale Terrier Right for You?",
@@ -92,25 +121,50 @@
         "Anyone looking for a dog that will work without an experienced, consistent handler"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Airedale Terrier",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,800 from reputable breeders. Required health clearances: OFA hip clearance and OFA thyroid. The Airedale Terrier Club of America maintains a breeder referral. Ask breeders specifically about cardiac history in the line and whether they health test breeding pairs.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Airedale rescue organizations exist across the US. Adults from rescue can be excellent dogs for experienced terrier owners — their personality is fully formed and you know what you're getting. The Airedale Terrier Club of America Rescue and Adoption Committee is a good starting point.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Airedale comes home, complete the <a href=\"/blogs/dog-breeds/airedale-terrier-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Airedale puppy checklist</a> — fence security, groomer research, and training class enrollment are the critical pre-arrival steps.</p>"
     }
   },
-
   "faq": [
-    { "q": "Are Airedale Terriers good family dogs?", "a": "Yes, for active families. Airedales are playful, loyal, and generally good with children in their own household. Their energy level and independence mean they need an engaged family, not a passive one. They do best with older children who can interact with them appropriately — their exuberance and size can be too much for toddlers." },
-    { "q": "Do Airedale Terriers shed?", "a": "Very little — the wiry double coat does not shed significantly compared to smooth or double-coated breeds. This is one of the Airedale's practical advantages. However, the coat still requires regular professional grooming (hand-stripping or clipping) every 8–12 weeks to stay in good condition." },
-    { "q": "Are Airedales good with other dogs?", "a": "Generally better than many terrier breeds — Airedales can coexist with other dogs with proper socialization, and they tend to be less combative than smaller terriers. However, prey drive toward small animals is high and consistent. Same-sex pairs can be problematic. Individual temperament varies; early socialization is important." },
-    { "q": "How much exercise does an Airedale Terrier need?", "a": "60–90 minutes of vigorous activity daily. Airedales have working-dog stamina and need real exercise — not a 20-minute stroll. They excel at hiking, running, agility, and active games. An under-exercised Airedale will find its own entertainment, which usually involves your furniture, your garden, or your neighbor's cat." }
+    {
+      "q": "Are Airedale Terriers good family dogs?",
+      "a": "Yes, for active families. Airedales are playful, loyal, and generally good with children in their own household. Their energy level and independence mean they need an engaged family, not a passive one. They do best with older children who can interact with them appropriately — their exuberance and size can be too much for toddlers."
+    },
+    {
+      "q": "Do Airedale Terriers shed?",
+      "a": "Very little — the wiry double coat does not shed significantly compared to smooth or double-coated breeds. This is one of the Airedale's practical advantages. However, the coat still requires regular professional grooming (hand-stripping or clipping) every 8–12 weeks to stay in good condition."
+    },
+    {
+      "q": "Are Airedales good with other dogs?",
+      "a": "Generally better than many terrier breeds — Airedales can coexist with other dogs with proper socialization, and they tend to be less combative than smaller terriers. However, prey drive toward small animals is high and consistent. Same-sex pairs can be problematic. Individual temperament varies; early socialization is important."
+    },
+    {
+      "q": "How much exercise does an Airedale Terrier need?",
+      "a": "60–90 minutes of vigorous activity daily. Airedales have working-dog stamina and need real exercise — not a 20-minute stroll. They excel at hiking, running, agility, and active games. An under-exercised Airedale will find its own entertainment, which usually involves your furniture, your garden, or your neighbor's cat."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Welsh Terrier", "slug": "welsh-terrier", "note": "Smaller, same wiry coat and terrier temperament, more manageable size"},
-    {"name": "Irish Terrier", "slug": "irish-terrier", "note": "Similar build and working history, slightly smaller, equally spirited"},
-    {"name": "Standard Schnauzer", "slug": "standard-schnauzer", "note": "Similar size and wiry coat, working heritage, arguably more biddable"},
-    {"name": "Wirehaired Pointing Griffon", "slug": "wirehaired-pointing-griffon", "note": "Wiry coat, working dog, hunting heritage, more cooperative temperament"}
+    {
+      "name": "Welsh Terrier",
+      "slug": "welsh-terrier",
+      "note": "Smaller, same wiry coat and terrier temperament, more manageable size"
+    },
+    {
+      "name": "Irish Terrier",
+      "slug": "irish-terrier",
+      "note": "Similar build and working history, slightly smaller, equally spirited"
+    },
+    {
+      "name": "Standard Schnauzer",
+      "slug": "standard-schnauzer",
+      "note": "Similar size and wiry coat, working heritage, arguably more biddable"
+    },
+    {
+      "name": "Wirehaired Pointing Griffon",
+      "slug": "wirehaired-pointing-griffon",
+      "note": "Wiry coat, working dog, hunting heritage, more cooperative temperament"
+    }
   ]
 }

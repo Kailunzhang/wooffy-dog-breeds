@@ -5,20 +5,24 @@
     "shopify_handle": "lhasa-apso-grooming-guide",
     "group": "Lhasa Apso",
     "size_category": "Guide",
-    "tags": ["lhasa-apso", "grooming", "long-coat", "puppy-trim", "tear-staining"],
+    "tags": [
+      "lhasa-apso",
+      "grooming",
+      "long-coat",
+      "puppy-trim",
+      "tear-staining"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "Lhasa Apso grooming ranges from daily brushing of a floor-length show coat to manageable maintenance of a professional puppy trim. Most pet owners choose the trim. Here's what each approach actually requires.",
     "meta_description": "Lhasa Apso grooming guide: long coat vs puppy trim decision, daily brushing technique, mat prevention, tear stain management, and professional grooming schedule."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aishia.jpg/250px-Aishia.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_30c092e4-19b6-4d4e-8e4a-d67d721f3fb4.png?v=1777575555",
       "alt": "Lhasa Apso grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Lhasa Apso Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Tear staining — the reddish-brown discoloration that appears in the corner of the eye and down the face — is a consistent maintenance task for Lhasa Apsos. The breed's relatively flat face and prominent eyes make them prone to epiphora (overflow of tears onto the face). The staining itself is caused by a pigment in tears called porphyrin that oxidizes and darkens on exposure to air and light.</p><h3>Daily Face Cleaning Routine</h3><ul><li>Wipe the eye corner and the skin beneath with a damp cloth, pet-safe grooming wipe, or cotton ball moistened with saline or diluted dog-safe eye cleaner</li><li>Work from the inner corner of the eye outward, using a fresh surface of the cloth for each wipe — don't spread discharge back toward the eye</li><li>Dry the area after wiping — leaving moisture against the skin promotes yeast growth and worsens staining</li><li>Use a fine-tooth comb or flea comb to carefully comb out any dried discharge from the face hair before it crusts and pulls at the skin</li></ul><h3>Reducing Staining</h3><ul><li>Filtered water instead of tap water reduces mineral intake that can contribute to staining in some dogs</li><li>Stainless steel water bowls rather than plastic or ceramic — plastic bowls harbor bacteria that can worsen face staining</li><li>Some dogs respond to probiotic supplementation with reduced staining — discuss with your vet if staining is severe</li><li>Keep the face hair trimmed short around the eye corners — this reduces the surface area for stain buildup and is easier to keep clean</li></ul><h3>When Staining Signals a Problem</h3><p>Some tear production is normal for the breed. Excessive tearing that starts suddenly, is accompanied by redness, squinting, or discharge that is yellow or green-tinged, warrants a vet check rather than just grooming management. Eye infections, corneal irritation, and blocked tear ducts all look like \"tear staining\" from the outside but require treatment.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How do I prevent mats in a Lhasa Apso coat?",

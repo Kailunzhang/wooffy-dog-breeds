@@ -5,7 +5,11 @@
     "shopify_handle": "giant-schnauzer-first-year-costs",
     "group": "Giant Schnauzer",
     "size_category": "Guide",
-    "tags": ["giant-schnauzer", "costs", "first-year"],
+    "tags": [
+      "giant-schnauzer",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "Giant Schnauzer first-year costs run $5,000–$10,000 including purchase price. Professional grooming at 6–8 week intervals is a fixed ongoing cost. The breed's working dog temperament requires significant early training investment.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Nev_Lemar_Barbara1.jpg/250px-Nev_Lemar_Barbara1.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_bd2d7b4b-4f13-49aa-a768-ea314626b984.png?v=1777574921",
       "alt": "Giant Schnauzer first year costs"
     }
   },

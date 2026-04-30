@@ -5,7 +5,11 @@
     "shopify_handle": "bouvier-des-flandres-first-year-costs",
     "group": "Bouvier des Flandres",
     "size_category": "Guide",
-    "tags": ["bouvier-des-flandres", "costs", "first-year"],
+    "tags": [
+      "bouvier-des-flandres",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "The Bouvier des Flandres is a large, high-maintenance working breed with significant grooming, training, and food costs. This guide breaks down what to budget for the first year of ownership.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bouvier.JPG/330px-Bouvier.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_ee58bce2-3fa2-4c57-bdb9-f2b5546785d9.png?v=1777573864",
       "alt": "Bouvier des Flandres first year costs"
     }
   },

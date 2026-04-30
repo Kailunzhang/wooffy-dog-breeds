@@ -5,20 +5,24 @@
     "shopify_handle": "airedale-terrier-grooming-guide",
     "group": "Airedale Terrier",
     "size_category": "Guide",
-    "tags": ["airedale-terrier", "grooming", "wiry-coat", "hand-stripping", "terrier-coat"],
+    "tags": [
+      "airedale-terrier",
+      "grooming",
+      "wiry-coat",
+      "hand-stripping",
+      "terrier-coat"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Airedale's wiry double coat is low-shedding but not low-maintenance. Hand-stripping preserves the correct texture and color; clipping is an acceptable pet alternative. Either way, the coat and beard need consistent attention.",
     "meta_description": "Airedale Terrier grooming guide: hand-stripping vs clipping, beard cleaning, weekly routine, and how to maintain the wiry double coat without damaging its texture."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Airedale_Terrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_0a13d346-3136-4909-9efd-1e07adeeedee.png?v=1777572821",
       "alt": "Airedale Terrier grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Airedale Coat",
@@ -36,7 +40,6 @@
       "html": "<p>The Airedale's characteristic beard is a breed hallmark — and the single most maintenance-intensive part of the coat. It collects food, water, mud, and debris constantly. Neglected beards develop a permanent damp odor, mat heavily, and can cause skin fold dermatitis where the beard contacts the face.</p><h3>Daily Beard Maintenance</h3><ul><li>Wipe the beard with a dry cloth or paper towel after every meal and water session</li><li>Comb through daily with a small metal comb to prevent matting at the base</li><li>During wet weather or outdoor adventures, towel-dry the beard when the dog comes inside</li><li>If beard odor develops despite regular cleaning, schedule a professional bath — the undercoat at the beard root may need thorough cleaning</li></ul><h3>Finding a Groomer Experienced with Terrier Coats</h3><p>Not all groomers know how to hand-strip or properly shape a terrier coat. When researching groomers, ask specifically about experience with Airedales or other wire-coated terriers (Welsh, Irish, Wire Fox). A groomer who only clips and has no hand-stripping experience is still functional for pet maintenance, but will not achieve the correct terrier silhouette or coat texture.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Can I groom my Airedale at home?",

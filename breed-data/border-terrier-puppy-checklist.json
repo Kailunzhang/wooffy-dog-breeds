@@ -5,20 +5,24 @@
     "shopify_handle": "border-terrier-puppy-checklist",
     "group": "Border Terrier",
     "size_category": "Guide",
-    "tags": ["border-terrier", "puppy", "checklist", "cecs", "socialization"],
+    "tags": [
+      "border-terrier",
+      "puppy",
+      "checklist",
+      "cecs",
+      "socialization"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "What to do before your Border Terrier puppy comes home — including secure fencing, CECS awareness, and the socialization plan that shapes how well this terrier handles adult life.",
     "meta_description": "Border Terrier puppy checklist: fence security, CECS awareness and dietary preparation, socialization priorities, gear list, and the first vet visit checklist."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Border_Terrier.jpg/330px-Border_Terrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_87533e14-e519-4bb9-97c7-4510e07e0a78.png?v=1777573806",
       "alt": "Border Terrier puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>First Vet Visit (Within 48–72 Hours)</h3><ul><li>Full physical exam including cardiac auscultation — ask specifically whether any murmur is present</li><li>Vaccine schedule verification and continuation</li><li>Parasite prevention discussion</li><li>Microchip if not done by breeder</li><li>Raise CECS awareness with your vet — make sure they know the breed's history with the condition</li><li>Get pet insurance before this appointment or immediately after — cardiac and orthopedic coverage matters for this breed</li></ul><h3>Socialization: Use the 8–16 Week Window</h3><p>The critical socialization window runs from approximately 8 to 16 weeks. Border Terriers are more socially flexible than many terrier breeds, but the window still matters — experiences during this period shape adult confidence and reactivity more than any later training.</p><ul><li>Expose to different types of people: tall/short, children, elderly, people in uniforms or hats</li><li>Expose to different environments: urban sounds, traffic, different floor surfaces, stairs</li><li>Introduce to friendly, vaccinated dogs in controlled settings — puppy class is valuable for this</li><li>Carry the puppy in areas of disease risk rather than skipping socialization while waiting for full vaccination</li></ul><h3>Managing Prey Drive From Day One</h3><p>Border Terriers have strong, consistent prey drive. Start managing it from the first walk:</p><ul><li>Practice \"look at me\" or \"leave it\" commands with distractions from the beginning</li><li>Never allow off-leash in unfenced areas — this is a lifelong rule, not a training phase</li><li>Be aware of small animals near your property and manage accordingly — this includes birds at feeders, squirrels, cats in adjacent yards</li></ul><h3>Digging: Accept and Redirect</h3><p>Border Terriers dig. This is not a training failure. The practical approach is to provide a designated digging area in your yard and redirect digging to that spot, rather than expecting to eliminate the behavior entirely. Bury toys in the designated area to make it rewarding.</p><h3>Heart Monitoring Plan</h3><p>Ask your vet to note the cardiac auscultation results from the puppy exam. Annual wellness visits should include a listen to the heart. If any murmur is detected, a referral to a veterinary cardiologist for an echocardiogram is the appropriate next step — pulmonic stenosis is graded by severity and mild cases often require only monitoring, while significant cases benefit from intervention.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Does every Border Terrier get CECS?",

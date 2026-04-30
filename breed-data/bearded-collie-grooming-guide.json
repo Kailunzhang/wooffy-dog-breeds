@@ -5,7 +5,10 @@
     "shopify_handle": "bearded-collie-grooming-guide",
     "group": "Bearded Collie",
     "size_category": "Guide",
-    "tags": ["bearded-collie", "grooming"],
+    "tags": [
+      "bearded-collie",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "The Bearded Collie's long flowing double coat requires regular brushing and maintenance to prevent painful mats. This guide covers everything you need to keep your Beardie's coat healthy and beautiful.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bearded_Collie_600.jpg/330px-Bearded_Collie_600.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_95e5ff26-efe0-4c26-842d-8a756802f551.png?v=1777573269",
       "alt": "Bearded Collie grooming"
     }
   },

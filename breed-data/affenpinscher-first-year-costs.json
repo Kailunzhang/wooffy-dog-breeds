@@ -5,20 +5,24 @@
     "shopify_handle": "affenpinscher-first-year-costs",
     "group": "Affenpinscher",
     "size_category": "Guide",
-    "tags": ["affenpinscher", "cost", "budget", "first-year", "toy-breed"],
+    "tags": [
+      "affenpinscher",
+      "cost",
+      "budget",
+      "first-year",
+      "toy-breed"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "Affenpinscher ownership costs $2,200–$4,500 in the first year. Puppy prices run higher than most toys due to the breed's rarity, but ongoing food costs are minimal. The main health risks — patellar luxation and Legg-Calvé-Perthes disease — are the reason pet insurance matters.",
     "meta_description": "Affenpinscher first year costs: puppy price for a rare breed, grooming budget, Legg-Calvé-Perthes and patellar luxation cost context, and lifetime cost estimate."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Affenpinscher.jpg/250px-Affenpinscher.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_eca1329c-9741-417c-a765-cab24086ef5e.png?v=1777572745",
       "alt": "Affenpinscher first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With a lifespan of 12–15 years, the Affenpinscher is a long-term financial commitment, though food costs remain modest throughout.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, no Legg-Calvé-Perthes, grade 1–2 patellar luxation (monitored only)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$18,000–$32,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">One FHO surgery for Legg-Calvé-Perthes, otherwise healthy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$20,000–$36,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Patellar luxation surgery plus other health events</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$25,000–$45,000</td></tr></tbody></table><p style=\"margin-top:16px;\">The Affenpinscher's modest food costs make it one of the cheaper-to-maintain small breeds once past initial health events. The high-cost scenarios are the orthopedic surgeries — which is exactly what pet insurance addresses. Enroll before the first vet visit.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Why are Affenpinscher puppies so expensive?",

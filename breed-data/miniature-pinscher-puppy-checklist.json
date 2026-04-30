@@ -5,7 +5,11 @@
     "shopify_handle": "miniature-pinscher-puppy-checklist",
     "group": "Miniature Pinscher",
     "size_category": "Guide",
-    "tags": ["miniature-pinscher", "puppy", "checklist"],
+    "tags": [
+      "miniature-pinscher",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "Bringing home a Miniature Pinscher puppy requires thorough preparation — these bold little escape artists need a secure, stimulating environment from day one. Use this checklist to get everything in order before your Min Pin arrives.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Miniature_pinscher.jpg/330px-Miniature_pinscher.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9aa269ff-0414-4a3c-92a1-02ad085f15ca.png?v=1777575746",
       "alt": "Miniature Pinscher"
     }
   },

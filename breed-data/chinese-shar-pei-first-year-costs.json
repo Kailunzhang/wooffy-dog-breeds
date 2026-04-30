@@ -5,7 +5,11 @@
     "shopify_handle": "chinese-shar-pei-first-year-costs",
     "group": "Chinese Shar-Pei",
     "size_category": "Guide",
-    "tags": ["chinese-shar-pei", "costs", "first-year"],
+    "tags": [
+      "chinese-shar-pei",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "The Chinese Shar-Pei can be one of the most expensive breeds to own due to its complex health issues. This honest cost guide covers puppy prices, expected veterinary costs including entropion surgery, and realistic ongoing expenses.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Adult_sharpei.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_8e13b3e4-adc1-4798-a7fd-8327a1dafe70.png?v=1777574383",
       "alt": "Chinese Shar-Pei"
     }
   },

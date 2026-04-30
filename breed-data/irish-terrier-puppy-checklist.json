@@ -5,20 +5,25 @@
     "shopify_handle": "irish-terrier-puppy-checklist",
     "group": "Irish Terrier",
     "size_category": "Guide",
-    "tags": ["irish-terrier", "puppy", "checklist", "hyperkeratosis", "cystinuria", "socialization"],
+    "tags": [
+      "irish-terrier",
+      "puppy",
+      "checklist",
+      "hyperkeratosis",
+      "cystinuria",
+      "socialization"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "Before your Irish Terrier puppy comes home: verify the DNA health tests, plan your socialization schedule, secure your fencing, and get the gear sorted. The breeder's DNA clearances are the most important pre-purchase step.",
     "meta_description": "Irish Terrier puppy checklist: DNA test verification before purchase, fencing requirements, socialization plan, gear list, and first vet visit priorities for this bold terrier breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/IrishTerrierSydenhamHillWoods.jpg/250px-IrishTerrierSydenhamHillWoods.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_c51cb86b-e51c-4b0a-be26-86082749051d.png?v=1777575104",
       "alt": "Irish Terrier puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Terrier-Appropriate Training Approach</h3><p>Irish Terriers are intelligent but not inherently biddable — they respond well to positive reinforcement and poorly to harsh correction. What works: high-value rewards, short sessions, clear rules established from the start. What produces problems: repetitive drilling, compulsion methods, inconsistent rules.</p><ul><li>Establish core commands from the first week: sit, down, stay, come, leave it</li><li>Loose-leash walking from the first walk — never allow pulling to become habitual. A terrier that has always pulled is much harder to remediate than one that never learned it was effective</li><li>Door manners: sit before going outside, sit before greeting people</li><li>No jumping — manageable at 10 lbs, dangerous at 25 lbs when directed at small children</li></ul><h3>Dog-Dog Management: The Critical Skill</h3><p>The Irish Terrier's dog-combative instinct means that safe management of other-dog encounters is a permanent, non-negotiable skill for Irish Terrier owners. Start practicing it with the puppy so it becomes routine rather than reactive:</p><ul><li>Read approaching dogs before contact — body language, posture, energy level</li><li>Cross the street, change direction, or create distance when there's any doubt</li><li>Practice the \"let's go\" or \"this way\" redirect so the dog responds to your cue to move away reliably</li><li>Never put the puppy in situations with unknown adult dogs off-leash</li><li>Dog parks are not appropriate at any age for this breed</li></ul><h3>Exercise Guidelines for Puppies</h3><p>Follow the 5-minutes-per-month-of-age rule for formal exercise: a 3-month-old puppy gets 15-minute sessions twice daily. Growth plates in a medium breed close around 14–16 months — avoid forced running, repetitive jumping, or stairs on demand until then. Free play and leash walking are appropriate; jogging with the dog waits until after 14–16 months.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What DNA tests should I ask an Irish Terrier breeder for?",

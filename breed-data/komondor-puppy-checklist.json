@@ -5,20 +5,26 @@
     "shopify_handle": "komondor-puppy-checklist",
     "group": "Komondor",
     "size_category": "Guide",
-    "tags": ["komondor", "puppy", "checklist", "corded-coat", "gastropexy", "guardian-breed", "fencing"],
+    "tags": [
+      "komondor",
+      "puppy",
+      "checklist",
+      "corded-coat",
+      "gastropexy",
+      "guardian-breed",
+      "fencing"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "Before your Komondor puppy comes home: secure fencing must be in place, a cord management plan established, an experienced guardian breed trainer identified, and the gastropexy conversation with your vet planned before spay/neuter.",
     "meta_description": "Komondor puppy checklist: fence security and property management for a guardian breed, cord separation plan starting at 9 months, gastropexy discussion at first vet visit, and experienced trainer requirements."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Komondor_delvin.jpg/250px-Komondor_delvin.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_4eb47a02-4413-41d7-92ef-35d3fcc03276.png?v=1777575380",
       "alt": "Komondor puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +42,6 @@
       "html": "<h3>Cord Management Timeline</h3><p>The puppy coat is fluffy and relatively easy to maintain with occasional brushing. The cord development begins around 9 months. From that point, your hands become your primary tool:</p><ul><li><strong>Now (0–8 months):</strong> Handle the coat, touch the skin, accustom the puppy to having its body handled all over. An adult Komondor that accepts coat inspection and cord separation is one that was habituated to it as a puppy.</li><li><strong>At 9 months:</strong> The coat starts to change — it becomes softer and begins to mat. This is when cord separation begins. Start by running your fingers through the coat regularly, feeling for sections that are merging together, and pulling them gently apart. At this stage, the coat responds easily to separation.</li><li><strong>9 months to 2 years:</strong> Regular cord separation every few days. The cords are forming; your job is to guide them into distinct units rather than letting them fuse. This is a hands-on routine, not a tools routine.</li><li><strong>After 2 years:</strong> Weekly cord separation checks at the base, plus bath days as needed (with full drying commitment).</li></ul><h3>Building the Working Relationship</h3><p>Komondor puppies are manageable; Komondor adults that were not trained and properly socialized as puppies are not. Use the puppy period to establish the working relationship that makes the adult dog livable:</p><ul><li>Basic obedience from the first week — sit, down, come, stay, leave it. The Komondor will learn these; the question is whether it will choose to comply. Consistent, firm, patient work with this breed establishes respect.</li><li>Handling acceptance: paws, ears, mouth, body — every part. For a dog that will need regular cord separation and veterinary care, body-handling tolerance is essential.</li><li>Managed exposures to approved household guests — practice the introduction protocol from puppyhood. Guest arrives at the property, you go out first, bring the dog out on leash, formal introduction, then gradual access. This is how it will work for the dog's entire life; start building the routine now.</li><li>Never allow the puppy to practice guarding behaviors that won't be acceptable as an adult — jumping up on guests to investigate, blocking doorways protectively, or responding aggressively to normal household movement are all habits easier to prevent in puppyhood than to correct in a 100+ lb adult.</li></ul><h3>Puppy Exercise Rules for a Large Breed</h3><p>Growth plates in large breeds close at 18–24 months. Do not allow forced running, jumping, or stair climbing on demand until then. Free play and leash walks are appropriate. Joining you for runs or vigorous sustained activity waits until full physical maturity.</p>"
     }
   },
-
   "faq": [
     {
       "q": "When does the Komondor's coat start to cord, and when should I start managing it?",

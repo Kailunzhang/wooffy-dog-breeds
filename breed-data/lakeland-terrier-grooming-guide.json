@@ -5,7 +5,10 @@
     "shopify_handle": "lakeland-terrier-grooming-guide",
     "group": "Lakeland Terrier",
     "size_category": "Guide",
-    "tags": ["lakeland-terrier", "grooming"],
+    "tags": [
+      "lakeland-terrier",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "The Lakeland Terrier's wiry double coat is maintained through hand-stripping for show dogs or clipping for pets. This guide covers both techniques, regular home brushing, and the basic care routine for this hardy working terrier.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lakeland_Terrier.jpg/330px-Lakeland_Terrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_1ee2801f-2200-486d-b71e-4f4e75db0077.png?v=1777575460",
       "alt": "Lakeland Terrier grooming"
     }
   },

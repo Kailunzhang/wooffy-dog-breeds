@@ -5,7 +5,11 @@
     "shopify_handle": "chinese-shar-pei-puppy-checklist",
     "group": "Chinese Shar-Pei",
     "size_category": "Guide",
-    "tags": ["chinese-shar-pei", "puppy", "checklist"],
+    "tags": [
+      "chinese-shar-pei",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "Everything you need before your Chinese Shar-Pei puppy comes home — daily wrinkle cleaning setup, familial Shar-Pei fever (FSF) awareness discussion with your vet, eye screening for entropion, and insurance enrollment before the breed's significant health concerns develop.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Adult_sharpei.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_efc627fd-85e8-45b3-9bff-bf9e962af784.png?v=1777574369",
       "alt": "Chinese Shar-Pei puppy checklist"
     }
   },

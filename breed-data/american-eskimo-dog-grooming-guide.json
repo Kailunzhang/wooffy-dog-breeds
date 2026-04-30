@@ -5,7 +5,10 @@
     "shopify_handle": "american-eskimo-dog-grooming-guide",
     "group": "American Eskimo Dog",
     "size_category": "Guide",
-    "tags": ["american-eskimo-dog", "grooming"],
+    "tags": [
+      "american-eskimo-dog",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-30T16:00:00Z",
     "excerpt": "The American Eskimo Dog's thick white double coat is stunning but demands regular brushing, seasonal deshedding, and careful bathing. This guide covers everything you need to keep your Eskie's coat brilliant white and mat-free.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/American_Eskimo_Dog_1.jpg/330px-American_Eskimo_Dog_1.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_10297bf7-c705-4063-ad4c-3d07e994c461.png?v=1777572928",
       "alt": "American Eskimo Dog"
     }
   },

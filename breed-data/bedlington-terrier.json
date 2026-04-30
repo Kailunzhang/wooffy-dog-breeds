@@ -6,74 +6,102 @@
     "group": "Terrier Group",
     "size_category": "Small Breed",
     "tagline": "The Bedlington Terrier looks like a lamb and moves like a greyhound — but underneath that soft, curly coat is a true terrier: fast, bold, and built for hunting. Don't let the appearance fool you.",
-    "tags": ["terrier-group", "small-breed", "low-shedding", "active", "dog-breeds"],
+    "tags": [
+      "terrier-group",
+      "small-breed",
+      "low-shedding",
+      "active",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "The Bedlington Terrier looks like a lamb but acts like the working terrier it is. Graceful, fast, and less combative than many terriers — but still independent, energetic, and carrying a serious genetic health risk that requires DNA testing before you buy.",
     "meta_description": "Bedlington Terrier breed guide: gentle appearance, true terrier temperament, exercise needs, and the critical Copper Toxicosis DNA test every buyer must request."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Small" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "17–23 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "11–16 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "45–60 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Possible" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "17–23 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "11–16 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "45–60 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Possible"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Boutchie_apres_championnat_004.JPG/250px-Boutchie_apres_championnat_004.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_36ca3e96-c6be-4dc2-b6b4-183f5134aa1a.png?v=1777573627",
       "alt": "Bedlington Terrier"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Bedlington Terrier?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Bedlington Terrier originated in the Northumberland mining town of the same name in northeast England, where it was used to hunt rats, rabbits, and other small quarry in the mines and surrounding countryside. The breed's extraordinary appearance — arched back, tasseled ears, and the soft, curly lamb-like coat — is genuinely unique among terriers. No other breed looks quite like a Bedlington.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Despite the gentle appearance, the Bedlington is a real terrier: fast, tenacious, and capable of surprising assertiveness when pushed. Historically it was also crossed with Whippets, which accounts for the breed's graceful movement, arched topline, and notable turn of speed — a Bedlington at full gallop is genuinely quick. This whippet influence also makes the Bedlington somewhat less dog-aggressive than many other terriers, though the prey drive toward small animals remains strong.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The most critical thing prospective owners need to know: Bedlingtons carry a genetic liver disease called Copper Toxicosis. DNA testing of both parents is non-negotiable when buying a puppy. This is addressed in detail in the health section.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Bedlington Terriers Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Bedlington is small but not fragile — males and females typically weigh 17–23 lbs and stand 15–17.5 inches at the shoulder. The narrow, pear-shaped head, deep-set almond eyes, and the distinctive topknot of lighter, fluffy hair create the breed's lamb-like silhouette. The arched back and tucked abdomen — similar to a Whippet — give the breed a graceful, almost elegant outline.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The coat is crisp, curly, and very low-shedding — an advantage for owners concerned about pet hair in the home. Coat colors include blue, sandy, liver, blue and tan, sandy and tan, and liver and tan. The coat requires professional trimming every 6–8 weeks to maintain its distinctive shape, but does not shed significantly around the house.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bedlingtons are affectionate and good-natured with their families, particularly gentle with children within the household. They are more moderate in temperament than many terriers — less prone to starting fights with other dogs, more willing to get along in a multi-dog household when properly socialized. The Whippet influence shows in their more even disposition.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">That said, a Bedlington is still a terrier. They have a genuine prey drive toward small animals — cats, rabbits, rodents — and can be tenacious when they've decided to pursue something. They are also independent thinkers, and training requires consistency and patience rather than repetition and force. They tend to respond well to positive reinforcement.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Bedlingtons are known for being attentive and sensitive to their owners' moods. They form close bonds and dislike being left alone for long periods. An under-exercised or under-stimulated Bedlington will find its own entertainment — usually through digging or creative destruction.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Bedlington Terrier",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Bedlington is genuinely underrated. It combines a manageable size, a non-shedding coat, a less combative terrier temperament, and athletic ability into a package that works well for active families, single owners, and apartment dwellers who can provide real daily exercise. The unique look is a conversation-starter everywhere you go.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest complication is the Copper Toxicosis risk. This is not a minor breed quirk — it's a genetic liver disease that causes copper to accumulate in the liver, eventually causing liver failure. An affected dog that isn't caught early faces a significantly shortened life. The good news: there is a reliable DNA test. The requirement is simply that you buy from a breeder who has tested both parents and can provide a certificate showing both are clear.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Do not skip this test requirement. Any breeder who can't produce DNA clearances for Copper Toxicosis is not a reputable Bedlington breeder. Walk away.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">45–60 minutes of exercise daily. Bedlingtons are surprisingly fast and athletic for their size, and they need genuine exercise — not just a brief walk around the block. A safely fenced area where they can run freely is ideal. They excel at dog sports including lure coursing, agility, and earthdog. Never off-leash in open areas — prey drive and speed make recall unreliable around interesting quarry.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The crisp, curly coat does not shed significantly but requires professional grooming every 6–8 weeks to maintain the breed's distinctive shape. Between professional appointments, the coat needs brushing 2–3 times per week to prevent matting. See the <a href=\"/blogs/dog-breeds/bedlington-terrier-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Bedlington Terrier grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Intelligent and trainable, but with typical terrier independence. Positive reinforcement works well; harsh corrections produce resistance. Early socialization is important for confidence — Bedlingtons exposed thoroughly to strangers, environments, and other dogs as puppies develop into confident, manageable adults. Recall training requires extra work given the prey drive.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Bedlington Terrier's most serious health concern is genetic and requires specific action before you buy a puppy.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Copper Toxicosis (Copper Storage Disease)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">A genetic liver disease in which affected dogs accumulate copper in the liver, eventually causing liver failure. This is the breed's most serious health issue. A DNA test is available and both parents must test clear — do not buy a puppy from parents without a clear certificate. Ask for documentation before committing.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inherited retinal degeneration leading to blindness. DNA test available; reputable breeders screen for it. No treatment currently, but DNA-clear parents eliminate the risk.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint causing pain and arthritis. Less common in this breed than in larger breeds but present. OFA or PennHIP screening available from breeders.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> Copper Toxicosis DNA test (both parents clear — this is mandatory), PRA DNA test, OFA hip clearance.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (small breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming (6–8 week intervals)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,300–$5,700</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,500–$2,600</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/bedlington-terrier-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Bedlington Terrier first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Bedlington Terrier Right for You?",
@@ -92,25 +120,50 @@
         "Sedentary households — Bedlingtons need real daily exercise to stay well-behaved"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Bedlington Terrier",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$2,500 from reputable breeders. Required clearances: Copper Toxicosis DNA test (both parents clear — this is the non-negotiable), PRA DNA test, OFA hip clearance. The Bedlington Terrier Club of America maintains a breeder referral list. Do not buy from any breeder who cannot produce the Copper Toxicosis clearance certificate for both parents.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Bedlington Terrier Club of America maintains a rescue program. Bedlingtons in rescue are uncommon but available. Adult rescue dogs are a good option for owners who want a known temperament.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Bedlington comes home, complete the <a href=\"/blogs/dog-breeds/bedlington-terrier-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Bedlington Terrier puppy checklist</a> — fencing verification, insurance enrollment, and groomer identification are the critical pre-arrival items.</p>"
     }
   },
-
   "faq": [
-    { "q": "Do Bedlington Terriers shed?", "a": "Very little. The crisp, curly coat is one of the lowest-shedding in dogdom — comparable to a Poodle or Bichon. This makes the Bedlington a good option for households concerned about pet hair. The tradeoff is that the coat requires professional trimming every 6–8 weeks and regular brushing between appointments to prevent matting." },
-    { "q": "What is Copper Toxicosis in Bedlingtons?", "a": "Copper Toxicosis (also called Copper Storage Disease) is a genetic liver condition in which affected dogs cannot properly metabolize copper. Copper accumulates in the liver over time, eventually causing liver failure. It affects a significant portion of the Bedlington population. A reliable DNA test exists — both parents must test clear for a puppy to be safe. Ask for the certificate before you buy." },
-    { "q": "Are Bedlington Terriers aggressive?", "a": "Less so than many terriers. The Whippet influence in the breed's ancestry moderates the typical terrier combativeness, and Bedlingtons are generally more tolerant of other dogs than breeds like the Bull Terrier or Jack Russell. That said, they are still working terriers with prey drive, and introductions to small animals must be managed carefully." },
-    { "q": "How fast is a Bedlington Terrier?", "a": "Surprisingly fast. The arched back, deep chest, and Whippet ancestry give the Bedlington genuine speed for a small breed. They can reach 30 mph at full gallop. This speed is part of why off-leash recall in open areas cannot be fully relied upon — once they've spotted quarry, they move fast." }
+    {
+      "q": "Do Bedlington Terriers shed?",
+      "a": "Very little. The crisp, curly coat is one of the lowest-shedding in dogdom — comparable to a Poodle or Bichon. This makes the Bedlington a good option for households concerned about pet hair. The tradeoff is that the coat requires professional trimming every 6–8 weeks and regular brushing between appointments to prevent matting."
+    },
+    {
+      "q": "What is Copper Toxicosis in Bedlingtons?",
+      "a": "Copper Toxicosis (also called Copper Storage Disease) is a genetic liver condition in which affected dogs cannot properly metabolize copper. Copper accumulates in the liver over time, eventually causing liver failure. It affects a significant portion of the Bedlington population. A reliable DNA test exists — both parents must test clear for a puppy to be safe. Ask for the certificate before you buy."
+    },
+    {
+      "q": "Are Bedlington Terriers aggressive?",
+      "a": "Less so than many terriers. The Whippet influence in the breed's ancestry moderates the typical terrier combativeness, and Bedlingtons are generally more tolerant of other dogs than breeds like the Bull Terrier or Jack Russell. That said, they are still working terriers with prey drive, and introductions to small animals must be managed carefully."
+    },
+    {
+      "q": "How fast is a Bedlington Terrier?",
+      "a": "Surprisingly fast. The arched back, deep chest, and Whippet ancestry give the Bedlington genuine speed for a small breed. They can reach 30 mph at full gallop. This speed is part of why off-leash recall in open areas cannot be fully relied upon — once they've spotted quarry, they move fast."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Whippet", "slug": "whippet", "note": "Shares ancestry; faster and larger, lower prey drive toward dogs"},
-    {"name": "Soft Coated Wheaten Terrier", "slug": "soft-coated-wheaten-terrier", "note": "Similar low-shedding terrier profile, more social temperament"},
-    {"name": "Dandie Dinmont Terrier", "slug": "dandie-dinmont-terrier", "note": "Related terrier from same region, similar independent character"},
-    {"name": "Kerry Blue Terrier", "slug": "kerry-blue-terrier", "note": "Larger terrier, similarly low-shedding wavy coat, more dog-aggressive"}
+    {
+      "name": "Whippet",
+      "slug": "whippet",
+      "note": "Shares ancestry; faster and larger, lower prey drive toward dogs"
+    },
+    {
+      "name": "Soft Coated Wheaten Terrier",
+      "slug": "soft-coated-wheaten-terrier",
+      "note": "Similar low-shedding terrier profile, more social temperament"
+    },
+    {
+      "name": "Dandie Dinmont Terrier",
+      "slug": "dandie-dinmont-terrier",
+      "note": "Related terrier from same region, similar independent character"
+    },
+    {
+      "name": "Kerry Blue Terrier",
+      "slug": "kerry-blue-terrier",
+      "note": "Larger terrier, similarly low-shedding wavy coat, more dog-aggressive"
+    }
   ]
 }

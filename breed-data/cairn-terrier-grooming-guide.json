@@ -5,7 +5,10 @@
     "shopify_handle": "cairn-terrier-grooming-guide",
     "group": "Cairn Terrier",
     "size_category": "Guide",
-    "tags": ["cairn-terrier", "grooming"],
+    "tags": [
+      "cairn-terrier",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Cairn Terrier's shaggy double coat needs regular brushing and ideally hand-stripping to maintain its proper texture. Learn the right techniques to keep your Cairn looking its rustic best.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cairn-Terrier-Garten1.jpg/330px-Cairn-Terrier-Garten1.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_e4903d14-d279-4064-a491-b0038c0c722a.png?v=1777574276",
       "alt": "Cairn Terrier"
     }
   },

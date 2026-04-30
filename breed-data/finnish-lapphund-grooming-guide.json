@@ -5,7 +5,10 @@
     "shopify_handle": "finnish-lapphund-grooming-guide",
     "group": "Finnish Lapphund",
     "size_category": "Guide",
-    "tags": ["finnish-lapphund", "grooming"],
+    "tags": [
+      "finnish-lapphund",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Finnish Lapphund's beautiful double coat is moderate to maintain with regular brushing and becomes demanding during the twice-yearly coat blow. This guide covers the full brushing routine, shedding management, and bathing for this Nordic spitz breed.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Finnish_Lapphund_Glenchess_Revontuli.jpg/330px-Finnish_Lapphund_Glenchess_Revontuli.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_63184b0e-54d8-4a98-a525-579e2bc321f3.png?v=1777574746",
       "alt": "Finnish Lapphund grooming"
     }
   },

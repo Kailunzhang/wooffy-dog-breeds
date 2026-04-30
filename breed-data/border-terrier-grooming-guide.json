@@ -5,20 +5,24 @@
     "shopify_handle": "border-terrier-grooming-guide",
     "group": "Border Terrier",
     "size_category": "Guide",
-    "tags": ["border-terrier", "grooming", "wiry-coat", "hand-stripping", "low-maintenance"],
+    "tags": [
+      "border-terrier",
+      "grooming",
+      "wiry-coat",
+      "hand-stripping",
+      "low-maintenance"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Border Terrier is one of the lower-maintenance wiry-coated breeds — minimal shedding, minimal odor, and a coat that only needs professional attention twice a year. Weekly brushing at home keeps things tidy between appointments.",
     "meta_description": "Border Terrier grooming guide: hand-stripping schedule, weekly brushing routine, and coat care for this naturally low-maintenance working terrier."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Border_Terrier.jpg/330px-Border_Terrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_45df4868-8e97-4ee9-95f2-d10c51907828.png?v=1777573810",
       "alt": "Border Terrier grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Border Terrier Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Border Terriers have folded ears that reduce airflow and can trap moisture. Weekly ear checks are a good habit — look for odor, redness, or excessive wax. A clean ear requires nothing more than a wipe with an ear-cleaning solution. If you see dark discharge, strong odor, or the dog is shaking its head or scratching at its ear, see your vet — ear infections need treatment, not just cleaning.</p><h3>Paws</h3><p>The paw pads of a working terrier take a lot of wear, but indoor pet Border Terriers may develop overgrown nails quickly. Check every 2–3 weeks. Nails that touch the floor when the dog stands are too long — this affects the foot posture and gait over time. If the dog has light-colored nails you can see the quick; dark nails require taking small amounts off at a time.</p><h3>Dealing with Mud</h3><p>Border Terriers love to dig and will return from outdoor time muddy regularly. Their coat sheds dirt reasonably well when dry — allow mud to dry and brush it out rather than bathing after every outdoor session. This preserves the natural coat texture and oils and makes the job much easier.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Do Border Terriers need professional grooming?",

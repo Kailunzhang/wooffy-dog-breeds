@@ -5,20 +5,24 @@
     "shopify_handle": "bedlington-terrier-puppy-checklist",
     "group": "Bedlington Terrier",
     "size_category": "Guide",
-    "tags": ["bedlington-terrier", "puppy", "checklist", "copper-toxicosis", "socialization"],
+    "tags": [
+      "bedlington-terrier",
+      "puppy",
+      "checklist",
+      "copper-toxicosis",
+      "socialization"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "Everything you need before your Bedlington Terrier puppy comes home — including the Copper Toxicosis DNA clearance you must verify before you commit to a breeder, and the fencing check that applies to all terriers.",
     "meta_description": "Bedlington Terrier puppy checklist: Copper Toxicosis DNA clearance verification, fencing for a fast terrier, socialization priorities, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Boutchie_apres_championnat_004.JPG/250px-Boutchie_apres_championnat_004.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_62721659-191e-47ab-80ac-0a3b8fb9f891.png?v=1777573623",
       "alt": "Bedlington Terrier puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Start Training Immediately</h3><p>Bedlingtons are intelligent and trainable — they learn quickly when motivated. Start immediately:</p><ul><li>Sit, down, stay, come, leave it — establish core commands from the start</li><li>Recall practice: this is especially important given the prey drive. Use high-value treats, practice in controlled environments, and never assume recall is reliable around small animals or fast-moving prey items</li><li>Loose-leash walking from the first walk — Bedlingtons can pull when stimulated</li><li>No jumping — establish this from day one</li></ul><h3>Prey Drive Management</h3><p>If you have cats, rabbits, or other small pets, the introduction requires serious management:</p><ul><li>Never leave a Bedlington puppy unsupervised with small animals</li><li>Introduce slowly and with the small animal in a secure carrier first</li><li>Some Bedlingtons live successfully with cats when raised together from puppyhood; others never fully accept them. The individual dog's drive level varies</li></ul><h3>Handling Desensitization for Grooming</h3><p>Bedlingtons need extensive grooming throughout their lives. Start handling every part of the puppy from day one: ears, paws, mouth, body. Introduce the slicker brush early as a positive experience. The puppy that accepts being handled calmly becomes the adult that makes grooming appointments stress-free. The puppy that isn't handled becomes the adult that fights grooming — and those fights get harder as the dog gets older.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What health tests should I demand before buying a Bedlington puppy?",

@@ -5,7 +5,10 @@
     "shopify_handle": "norwich-terrier-grooming-guide",
     "group": "Norwich Terrier",
     "size_category": "Guide",
-    "tags": ["norwich-terrier", "grooming"],
+    "tags": [
+      "norwich-terrier",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-05-02T16:00:00Z",
     "excerpt": "The Norwich Terrier's wiry coat is low-shedding and relatively easy to maintain. This guide covers home brushing, hand-stripping for show dogs, and professional clipping options for pets.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Norwichterrier.jpg/330px-Norwichterrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_0799df3e-6406-465d-bc8a-b51313733946.png?v=1777575883",
       "alt": "Norwich Terrier grooming"
     }
   },

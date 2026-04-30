@@ -5,20 +5,24 @@
     "shopify_handle": "irish-terrier-first-year-costs",
     "group": "Irish Terrier",
     "size_category": "Guide",
-    "tags": ["irish-terrier", "cost", "budget", "first-year", "medium-breed"],
+    "tags": [
+      "irish-terrier",
+      "cost",
+      "budget",
+      "first-year",
+      "medium-breed"
+    ],
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "Irish Terrier ownership costs $2,500–$5,000 in the first year. Food and vet costs are modest for the size, but professional grooming is a real ongoing expense — and the DNA health tests you require from your breeder are worth asking for before purchase, not after.",
     "meta_description": "Irish Terrier first year costs: puppy price, grooming budget for hand-stripping or clipping, health test context, and the lifetime cost picture for this low-shedding medium terrier."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/IrishTerrierSydenhamHillWoods.jpg/250px-IrishTerrierSydenhamHillWoods.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_fcbe80e4-da08-4224-8d91-14128ccf8bc5.png?v=1777575117",
       "alt": "Irish Terrier first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With a lifespan of 13–15 years, the Irish Terrier represents a meaningful long-term financial commitment, though a reasonable one relative to similar-sized breeds.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog from DNA-tested parents, no major health events</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$20,000–$35,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Digital Hyperkeratosis managed with daily paw care</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$22,000–$40,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Cystinuria with dietary management + one surgical episode</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$28,000–$50,000</td></tr></tbody></table><p style=\"margin-top:16px;\">The variance between scenarios is the reason DNA tests from breeders matter so much for this breed. Starting with tested parents significantly reduces the probability of the higher-cost scenarios. Pet insurance enrolled before the first vet visit provides financial protection if inherited conditions emerge despite testing — recessive traits can still appear in tested lines.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does an Irish Terrier puppy cost from a reputable breeder?",

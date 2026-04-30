@@ -5,7 +5,11 @@
     "shopify_handle": "parson-russell-terrier-first-year-costs",
     "group": "Parson Russell Terrier",
     "size_category": "Guide",
-    "tags": ["parson-russell-terrier", "costs", "first-year"],
+    "tags": [
+      "parson-russell-terrier",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Parson Russell Terrier is one of the more affordable small breeds to own, with modest food costs and minimal grooming expenses. Here's a complete first-year cost breakdown.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/05052881_PRT_braun_rau.jpg/330px-05052881_PRT_braun_rau.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0c71eaa9-da19-439e-a0b4-7708c20bba67.png?v=1777576120",
       "alt": "Parson Russell Terrier"
     }
   },

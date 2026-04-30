@@ -5,20 +5,24 @@
     "shopify_handle": "otterhound-grooming-guide",
     "group": "Otterhound",
     "size_category": "Guide",
-    "tags": ["otterhound", "grooming", "rough-coat", "double-coat", "hound-grooming"],
+    "tags": [
+      "otterhound",
+      "grooming",
+      "rough-coat",
+      "double-coat",
+      "hound-grooming"
+    ],
     "published": true,
     "published_at": "2026-04-26T16:00:00Z",
     "excerpt": "The Otterhound's shaggy, waterproof double coat needs weekly brushing and dedicated beard maintenance. The coat should never be shaved — the oily undercoat is functional and part of what makes the breed what it is.",
     "meta_description": "Otterhound grooming guide: brushing a rough double coat, managing the beard, ear care for pendulous ears, and bathing a large waterproof coat without stripping its protective oils."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Two_otterhounds.jpg/250px-Two_otterhounds.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_e356c299-9bd4-490d-9f34-e96bfa09e473.png?v=1777575934",
       "alt": "Otterhound grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Otterhound Coat",
@@ -36,7 +40,6 @@
       "html": "<p>The Otterhound's long, hanging ears reduce airflow to the ear canal, creating conditions where moisture, debris, and bacteria accumulate. This is the breed's most consistent ongoing health maintenance area. Ear infections are common and largely preventable with routine care.</p><h3>Weekly Ear Routine</h3><ul><li>Check both ears weekly — look for redness, odor, discharge, or the dog shaking/rubbing its head</li><li>Wipe the visible part of the ear canal with a cotton ball dampened with veterinarian-recommended ear cleaner</li><li>Do not insert anything deep into the canal</li><li>After swimming or bathing, dry the ears thoroughly — moisture in a pendulous ear after water activity is a primary cause of infection</li></ul><h3>When to See the Vet</h3><p>Odor, redness, dark discharge, head shaking, or pawing at ears all warrant a vet visit rather than additional cleaning. Ear infections need appropriate treatment; cleaning an infected ear without addressing the underlying infection can drive it deeper. Establish a relationship with your vet about this breed's ear vulnerability early.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does an Otterhound need to be brushed?",

@@ -5,7 +5,11 @@
     "shopify_handle": "finnish-spitz-first-year-costs",
     "group": "Finnish Spitz",
     "size_category": "Guide",
-    "tags": ["finnish-spitz", "costs", "first-year"],
+    "tags": [
+      "finnish-spitz",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "The Finnish Spitz is a rare breed that can be harder to find from a reputable breeder. Here's a full first-year cost breakdown for prospective owners.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Finnish_Spitz_600.jpg/330px-Finnish_Spitz_600.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_3fbc2b25-8ba3-472c-a127-f70a6b283a63.png?v=1777574857",
       "alt": "Finnish Spitz costs"
     }
   },
