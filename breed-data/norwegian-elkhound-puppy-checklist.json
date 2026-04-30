@@ -5,20 +5,24 @@
     "shopify_handle": "norwegian-elkhound-puppy-checklist",
     "group": "Norwegian Elkhound",
     "size_category": "Guide",
-    "tags": ["norwegian-elkhound", "puppy", "checklist", "double-coat", "spitz"],
+    "tags": [
+      "norwegian-elkhound",
+      "puppy",
+      "checklist",
+      "double-coat",
+      "spitz"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Before your Norwegian Elkhound puppy comes home: grooming tools ready, fencing secure, PHPT DNA test confirmation from your breeder, and a plan for the coat blows.",
     "meta_description": "Norwegian Elkhound puppy checklist: PHPT breeder test confirmation, undercoat rake setup, handling desensitization, grooming from day one, and spitz independence in training."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Elkhound2020_%28cropped%29.jpg/250px-Elkhound2020_%28cropped%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_f409f5fb-3df0-4254-922d-2d3354495a72.png?v=1777530014",
       "alt": "Norwegian Elkhound puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<p>Norwegian Elkhounds are intelligent dogs that learn quickly and then decide whether to comply. This is not stubbornness in the traditional sense — it's the independent decision-making that made them effective working dogs without constant handler direction. Training approach:</p><ul><li>Positive reinforcement only — punishment-based methods produce shutdown, not obedience</li><li>Short sessions (5–8 minutes) with clear, consistent commands</li><li>High-value rewards (real food, not dry kibble) for new skills</li><li>Vary the training — Elkhounds disengage from repetitive drills quickly</li><li>Establish the basics (sit, stay, come in yard, leash manners, door protocols) from the first week</li></ul><p>Accept from the beginning that the spitz independence is part of the dog. You can shape and manage it with good training foundations — you cannot eliminate it, and trying to do so through force produces a resentful, difficult dog.</p><h3>Barking Management</h3><p>Elkhounds communicate through barking and will do so regularly. Management strategies: consistent exercise and mental enrichment reduce boredom barking. Teaching a 'quiet' cue (reward silence after barking starts) is achievable with patience. The fundamental vocal nature of the breed cannot be trained away — it can only be managed.</p>"
     }
   },
-
   "faq": [
     {
       "q": "At what age do Norwegian Elkhound puppies get their adult coat?",

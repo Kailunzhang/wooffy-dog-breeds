@@ -5,20 +5,24 @@
     "shopify_handle": "cocker-spaniel-puppy-checklist",
     "group": "Cocker Spaniel",
     "size_category": "Guide",
-    "tags": ["cocker-spaniel", "puppy", "checklist", "new-dog-owner", "grooming-training"],
+    "tags": [
+      "cocker-spaniel",
+      "puppy",
+      "checklist",
+      "new-dog-owner",
+      "grooming-training"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Everything you need before your Cocker Spaniel puppy comes home — with a focus on starting the grooming routine early so your dog accepts handling for life.",
     "meta_description": "Cocker Spaniel puppy checklist: essential gear, first vet visit, ear care from day one, grooming desensitization, and training priorities."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gessa_d%27Aran_Copo_de_Nieve-_arancio_roano-_prop.Kalesa.jpg/330px-Gessa_d%27Aran_Copo_de_Nieve-_arancio_roano-_prop.Kalesa.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_a335769b-15ac-4d4d-9d45-4e6a438eceef.png?v=1777527132",
       "alt": "Cocker Spaniel puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Training Notes for Cockers</h3><p>Cocker Spaniels are among the most trainable family breeds — eager to please, gentle, and food-motivated. Positive reinforcement works extremely well. Never use harsh corrections or punishment with a Cocker; they can become timid and shut down if treated roughly.</p><h3>Year One Priorities</h3><ol><li><strong>Puppy class:</strong> Enroll as soon as vaccinated. Socialization during the 8–16 week window is critical. Cockers are sociable by nature, but early positive exposure builds confidence.</li><li><strong>Basic obedience:</strong> Sit, down, stay, come, leave it. These dogs learn fast — keep sessions short (5–10 min) and positive.</li><li><strong>Grooming tolerance:</strong> Practice all elements of grooming daily. This is not optional for a breed that needs professional grooming every 6–8 weeks for life.</li><li><strong>Leash manners:</strong> Cockers are not hard pullers, but establish loose-leash walking habits from the start.</li><li><strong>Crate training:</strong> Creates a safe space and prevents destructive behavior when unsupervised. Most Cockers adapt to crate training quickly.</li></ol><h3>Find a Groomer Early</h3><p>Don't wait until your Cocker needs their first professional groom. Visit a groomer for a 'puppy introduction' appointment — just a bath, blow-dry, and gentle handling with no cutting. This gets the dog comfortable with the groomer environment before a full appointment is needed at 4–6 months.</p>"
     }
   },
-
   "faq": [
     {
       "q": "When should I start grooming my Cocker Spaniel puppy?",

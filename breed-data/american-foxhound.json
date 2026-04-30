@@ -6,74 +6,103 @@
     "group": "Hound Group",
     "size_category": "Large Breed",
     "tagline": "The American Foxhound is one of the oldest American breeds, bred to run all day and follow a scent trail without looking back. They are affectionate, friendly dogs — with a baying voice that carries for miles and a nose that overrides commands.",
-    "tags": ["hound-group", "large-breed", "scent-hound", "high-energy", "american-breed", "dog-breeds"],
+    "tags": [
+      "hound-group",
+      "large-breed",
+      "scent-hound",
+      "high-energy",
+      "american-breed",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "American Foxhounds are friendly, pack-oriented dogs built for endurance and scent work. The challenges are real and specific: a baying voice unsuitable for close neighbors, essentially no off-leash recall when on a scent, and exercise requirements that most suburban households underestimate.",
     "meta_description": "American Foxhound breed guide: baying voice, scent-drive behavior, exercise needs, fencing requirements, health conditions, and whether this breed fits your life."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "60–70 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "11–13 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "90+ min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "60–70 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "11–13 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/AmericanFoxhound2.jpg/250px-AmericanFoxhound2.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2fc78a56-3723-40a8-8358-ff13d928db41.png?v=1777525460",
       "alt": "American Foxhound"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is an American Foxhound?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The American Foxhound is one of the first breeds developed in the United States — George Washington was among the early breeders, working to develop a faster, more athletic version of the English Foxhound for American fox hunting. The result was a lean, leggy, incredibly fast scent hound with exceptional stamina and a deep, musical voice bred to carry across fields and forests.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">As a companion, the American Foxhound is genuinely friendly and affectionate. They are pack-oriented dogs — bred to work in groups — and they get along well with other dogs, children, and people in general. The temperament is open and sociable, nothing like the more guarded working breeds.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The challenges are specific and significant: the voice is loud and persistent in a way that is genuinely problematic in suburban or urban settings. The nose — and the single-minded tracking behavior it triggers — means reliable off-leash recall is essentially impossible when the dog is on a scent. And the exercise needs are substantial: this is an endurance athlete that needs real running, not just a daily walk.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What American Foxhounds Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A lean, athletic hound standing 21–25 inches tall and weighing 60–70 lbs. The body is built for speed and endurance — long legs, deep chest, well-muscled hindquarters. The head is broad with long, low-set ears. Eyes are large, soft, and brown or hazel. The coat is hard and dense — close to the body, low maintenance.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Colors are typically tricolor (black, white, and tan), but any hound color is acceptable: red, white, tan, blue. The tail is carried up in a saber curve when the dog is alert or moving. Overall, the American Foxhound has the clean, athletic look of a dog built to do a job over long distances.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family and people: openly friendly, affectionate, and social. American Foxhounds do not have the guarded temperament of protective breeds. They like people, children, and other dogs. Their pack-bred nature means they are generally good with other dogs and may actually do better with canine companionship than as a single dog.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The voice: this is the most significant lifestyle factor for most owners. American Foxhounds bay — a deep, resonant, carrying howl that was bred to be heard across miles of terrain. They use it when they're bored, excited, lonely, on a scent, or simply feeling vocal. This is breed-typical behavior, not a problem to train away. It is genuinely incompatible with apartment living or houses with close neighbors who value quiet.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">On a scent: when an American Foxhound picks up an interesting trail, nose goes to the ground and the dog moves. Commands do not compete with scent in any meaningful way. This is not disobedience — it is the fundamental behavior the breed was created to produce. Containment is the only reliable management strategy.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About an American Foxhound",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">American Foxhounds are wonderful dogs in the right environment — genuinely friendly, good with families and other dogs, athletic and capable. In the right home they thrive.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The right home is specific: a property with space, a secure fence, and no close neighbors who would be affected by baying. Rural properties or homes on large lots work. Suburban neighborhoods with houses 20 feet apart do not work. Apartments definitely do not work.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The exercise needs are real. A 20-minute walk twice a day is maintenance for many breeds; for an American Foxhound it produces a frustrated, destructive, noisy dog. These dogs were bred to run for hours. If your daily schedule doesn't include significant physical outlets — long runs, field work, dog sports — seriously consider whether this breed fits your life right now.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">90+ minutes of vigorous exercise daily — and this should include real running, not just leash walks. A securely fenced yard for off-leash running is near-essential. Running with the dog, bike riding alongside, or participation in dog sports (lure coursing, tracking, scent work) are appropriate outlets. An under-exercised American Foxhound will bay, pace, and become destructive.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Minimal — weekly brushing with a hound glove or bristle brush, monthly nail trim, regular ear checks. The short, hard coat sheds moderately but doesn't require intensive maintenance. See the <a href=\"/blogs/dog-breeds/american-foxhound-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">American Foxhound grooming guide</a> for full details.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Positive reinforcement works; food motivation is usually strong, which helps. These dogs are intelligent and can learn commands reliably in known contexts. The limitation is scent — no training reliably overrides the nose when the dog is on a trail. Train for reliable behavior in controlled situations and manage through containment outdoors.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">American Foxhounds are generally a healthy breed with an 11–13 year lifespan. The most notable breed-specific condition is a platelet disorder unique to the breed.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Thrombocytopathy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">A platelet disorder specific to American Foxhounds that impairs blood clotting. Affected dogs may bleed more than expected from minor cuts or during surgery. Not life-threatening in most cases, but important for vets to know before any procedures. Inform your vet of the breed before any surgery.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Malformed hip joint causing pain and arthritis over time. OFA or PennHIP screening available. Ask breeders for hip clearances. Managed with medication; severe cases may require surgery.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Ear Infections</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Long, drop ears reduce airflow and trap moisture. Check and clean ears weekly. Chronic or recurrent infections need vet-prescribed treatment rather than over-the-counter products.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Obesity</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">American Foxhounds love food and will overeat if allowed. A dog that isn't getting enough exercise is at particular risk. Measure food portions, avoid free-feeding, and monitor body condition — ribs should be easily felt but not visible.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip clearances. Inform your vet of thrombocytopathy risk before any surgical procedures.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Secure fencing (if needed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$2,500+</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,800–$7,200</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,500–$2,700</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/american-foxhound-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full American Foxhound first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is an American Foxhound Right for You?",
@@ -92,25 +121,50 @@
         "First-time dog owners unfamiliar with scent hound behavior"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your American Foxhound",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$500–$1,500 from reputable breeders. American Foxhounds are less common as companions than as working hunting dogs — many breeders produce primarily working field lines. Ask about temperament selection for companion homes. Required health clearances: OFA hip. The American Foxhound Club maintains breeder contacts.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">American Foxhounds appear regularly in hound rescue organizations and general shelters. Many come from hunting situations where they were no longer needed, or from owners who underestimated the exercise and baying requirements. Adult dogs are an excellent option — temperament is fully established and rescue organizations assess each dog's specific exercise and environment needs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your dog comes home, complete the <a href=\"/blogs/dog-breeds/american-foxhound-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">American Foxhound puppy checklist</a> — fence security and exercise planning are the critical pre-arrival items.</p>"
     }
   },
-
   "faq": [
-    { "q": "How loud is an American Foxhound's baying?", "a": "Very loud — and it carries. The baying voice was bred specifically to be audible across long distances of open field. In a suburban neighborhood, a Foxhound baying in the backyard will be heard by every neighbor within 200 yards. This is not manageable through training in any meaningful way — baying is a core breed behavior. If you have close neighbors, this breed is genuinely incompatible with that environment." },
-    { "q": "Can American Foxhounds live with cats?", "a": "Possible but requires careful management and early introduction. American Foxhounds have prey drive, and a cat that runs triggers pursuit instinct. Dogs raised with cats from puppyhood often learn to coexist. A Foxhound introduced to a cat as an adult, or encountering an unfamiliar cat, is a different situation. Never leave them unsupervised until you're confident in the relationship." },
-    { "q": "Are American Foxhounds good with children?", "a": "Generally yes — they're friendly, tolerant, and pack-oriented, which translates well to family life with children. They're not delicate dogs, and children's active energy is usually a good match for a high-energy Foxhound. Standard supervision rules apply for any large dog with young children." },
-    { "q": "What is thrombocytopathy in American Foxhounds?", "a": "A breed-specific platelet disorder that causes abnormal clotting. Affected dogs may bleed more than expected from cuts or during surgery. It's not typically life-threatening in everyday life, but it's important for your vet to know before any procedure. Inform every vet — including emergency vets — that your dog is an American Foxhound so they can take appropriate precautions." }
+    {
+      "q": "How loud is an American Foxhound's baying?",
+      "a": "Very loud — and it carries. The baying voice was bred specifically to be audible across long distances of open field. In a suburban neighborhood, a Foxhound baying in the backyard will be heard by every neighbor within 200 yards. This is not manageable through training in any meaningful way — baying is a core breed behavior. If you have close neighbors, this breed is genuinely incompatible with that environment."
+    },
+    {
+      "q": "Can American Foxhounds live with cats?",
+      "a": "Possible but requires careful management and early introduction. American Foxhounds have prey drive, and a cat that runs triggers pursuit instinct. Dogs raised with cats from puppyhood often learn to coexist. A Foxhound introduced to a cat as an adult, or encountering an unfamiliar cat, is a different situation. Never leave them unsupervised until you're confident in the relationship."
+    },
+    {
+      "q": "Are American Foxhounds good with children?",
+      "a": "Generally yes — they're friendly, tolerant, and pack-oriented, which translates well to family life with children. They're not delicate dogs, and children's active energy is usually a good match for a high-energy Foxhound. Standard supervision rules apply for any large dog with young children."
+    },
+    {
+      "q": "What is thrombocytopathy in American Foxhounds?",
+      "a": "A breed-specific platelet disorder that causes abnormal clotting. Affected dogs may bleed more than expected from cuts or during surgery. It's not typically life-threatening in everyday life, but it's important for your vet to know before any procedure. Inform every vet — including emergency vets — that your dog is an American Foxhound so they can take appropriate precautions."
+    }
   ],
-
   "related_breeds": [
-    {"name": "English Foxhound", "slug": "english-foxhound", "note": "The ancestor breed, heavier build, similarly pack-oriented and scent-driven"},
-    {"name": "Beagle", "slug": "beagle", "note": "Smaller scent hound, same baying tendency, more manageable size for average households"},
-    {"name": "Black and Tan Coonhound", "slug": "black-and-tan-coonhound", "note": "Similar hound personality, larger, equally voice-prominent"},
-    {"name": "Harrier", "slug": "harrier", "note": "Between Beagle and Foxhound in size, similar pack-bred temperament"}
+    {
+      "name": "English Foxhound",
+      "slug": "english-foxhound",
+      "note": "The ancestor breed, heavier build, similarly pack-oriented and scent-driven"
+    },
+    {
+      "name": "Beagle",
+      "slug": "beagle",
+      "note": "Smaller scent hound, same baying tendency, more manageable size for average households"
+    },
+    {
+      "name": "Black and Tan Coonhound",
+      "slug": "black-and-tan-coonhound",
+      "note": "Similar hound personality, larger, equally voice-prominent"
+    },
+    {
+      "name": "Harrier",
+      "slug": "harrier",
+      "note": "Between Beagle and Foxhound in size, similar pack-bred temperament"
+    }
   ]
 }

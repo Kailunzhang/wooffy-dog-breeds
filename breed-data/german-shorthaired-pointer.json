@@ -6,74 +6,102 @@
     "group": "Sporting Group",
     "size_category": "Large Breed",
     "tagline": "The German Shorthaired Pointer is a top-tier athlete disguised as a family dog. When their exercise needs are met, they're among the best companions available. When they're not, they'll redecorate your house.",
-    "tags": ["sporting-group", "large-breed", "active-dogs", "hunting-dogs", "dog-breeds"],
+    "tags": [
+      "sporting-group",
+      "large-breed",
+      "active-dogs",
+      "hunting-dogs",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "GSPs are one of the most capable sporting dogs alive — and one of the most demanding pets. Two hours of real daily exercise isn't a suggestion. Here's the full honest picture.",
     "meta_description": "German Shorthaired Pointer breed guide: exercise requirements, health conditions, cost breakdown, and whether a GSP fits your actual lifestyle."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "45–70 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–12 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "2+ hrs/day" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Easy" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "45–70 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–12 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "2+ hrs/day"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Duitse_staande_korthaar_10-10-2.jpg/330px-Duitse_staande_korthaar_10-10-2.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_7796059b-c83b-488b-9490-1870e4064608.png?v=1777528024",
       "alt": "German Shorthaired Pointer"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a German Shorthaired Pointer?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The German Shorthaired Pointer is what happens when you engineer a dog to do everything. Bred in 19th-century Germany to point, retrieve, track, and hunt both birds and game on land and water, the GSP is a complete all-purpose hunting dog that also happens to be affectionate, highly trainable, and family-compatible. In sporting dog circles, GSPs are regarded as one of the most versatile working dogs ever developed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The challenge is that all that capability requires a corresponding outlet. A GSP running 20 miles with a hunter in the field will come home and sleep contentedly. A GSP in a suburban backyard getting one walk a day will systematically dismantle anything it can reach. The breed's energy requirements are genuinely high — not \"active dog\" high, but \"you need a plan for two-plus hours of serious exercise every single day\" high.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">If you can provide that, GSPs are exceptional. If you can't, there are better breed choices.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What GSPs Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Lean, athletic, and built for endurance — GSPs weigh 45–70 lbs and stand 21–25 inches. Their short, dense coat is typically liver (brown), liver and white, or liver roan; black variations exist but are rarer. The coat is functional: weather-resistant, quick-drying, and virtually self-cleaning.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Webbed feet for swimming, a deep chest for sustained aerobic output, and a naturally docked or full tail (tail docking is traditional in hunting lines, increasingly avoided in show and companion dogs). The overall impression is of a fit, capable working animal — because that's exactly what they are.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">GSPs are enthusiastic, people-oriented dogs. They bond strongly with their family, are genuinely friendly with strangers (not guard dogs by nature), and tend to get along well with children and other dogs when socialized early. They want to be involved in everything going on in the household — this is not a dog that's content to be left in the yard.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Trainability is excellent. GSPs are smart, attentive, and motivated to work with their handler. They pick up commands quickly and do well in obedience, agility, hunt tests, dock diving, and most dog sports.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The personality challenge is the instinct intensity. Off-leash, an unsatisfied GSP will follow its nose into traffic. Chase drive is strong. A reliable recall requires real work — and the breed's off-leash safety should be treated as a training project, not an assumption.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a GSP",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">If you run, bike, hike, hunt, or do dog sports — a GSP might be the best dog you ever own. They are extraordinarily capable athletes who form deep bonds with active owners. The relationship between a GSP and someone who genuinely exercises with them daily is one of the best things about owning dogs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">But I'd be doing you a disservice if I made two hours of vigorous daily exercise sound optional. It isn't. The stories of GSPs destroying furniture, fences, and relationships are almost always traceable to exercise deficits. These are working dogs that need actual work, or the closest approximation you can provide.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Second consideration: separation. GSPs are people-oriented in a way that tips into anxiety if isolated too long. Long solo work days without a dog walker or doggy daycare are difficult for this breed. They need a household that's actually present, or a plan to cover the time when it isn't.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Two or more hours of vigorous exercise daily. This means running, hiking, swimming, fetch with sprinting, or fieldwork — not casual leash walking. Off-leash time in a safely fenced area is essential. Dog sports (agility, hunt tests, dock diving) satisfy both the physical and mental requirements simultaneously and are excellent outlets for GSPs that don't have a hunting context.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">One of the easier breeds to maintain. Weekly brush with a rubber curry brush or slicker, monthly bath, nails every 3–4 weeks. Check and clean ears weekly — especially after swimming or fieldwork. The short coat doesn't mat or require professional grooming.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">See the <a href=\"/blogs/dog-breeds/german-shorthaired-pointer-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">German Shorthaired Pointer grooming guide</a> for the complete routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Highly trainable with positive reinforcement. Prioritize recall (lifesaving given the chase drive), loose-leash walking, and \"leave it.\" Start from day one. GSPs respond quickly and remember well — the investment in early training pays compound returns throughout the dog's life.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">GSPs are generally a healthy breed. Hip dysplasia and bloat are the primary concerns to prepare for.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Common in large sporting breeds. OFA clearances on both parents reduce risk. Mild cases managed with exercise modification; severe cases require surgery ($3,000–$6,000/joint).</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Deep-chested breeds are at elevated risk for gastric dilatation and volvulus. Feed 2 meals daily, restrict vigorous exercise 1 hour before and after eating. Emergency surgery if it occurs: $3,000–$7,000. Gastropexy (preventive surgery) can be done at spay/neuter.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Cone Rod Dystrophy (CRD)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited eye condition causing progressive vision loss. DNA test available. Ask breeders for eye clearances.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Underactive thyroid causing weight gain and lethargy. Managed with lifelong medication ($30–$60/month). OFA thyroid clearance available.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, cardiac, and thyroid clearances; CRD and PRA DNA tests; eye exam from a board-certified ophthalmologist</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">GSPs are moderately expensive to own — large breed food, standard vet costs, and the exercise infrastructure (secure fencing, dog sports, or a dog walker) add up.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,100</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,100</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (large crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,500–$6,500+</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,800–$3,100</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/german-shorthaired-pointer-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full German Shorthaired Pointer first-year cost breakdown</a> for the detailed numbers.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a German Shorthaired Pointer Right for You?",
@@ -92,25 +120,50 @@
         "Households with very young children — GSP puppies are large and intensely energetic"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your GSP",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,500 from a reputable breeder with health clearances. Required: OFA hip, cardiac, and thyroid clearances on both parents; CRD and PRA DNA tests; CAER eye exam. The German Shorthaired Pointer Club of America maintains a breeder referral list. Ask whether the line is field or show oriented — field lines tend to be higher energy.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">GSPs end up in rescue regularly, almost always due to exercise needs that owners weren't prepared for. Many are young adults who are otherwise healthy and well-dispositioned. GSP breed rescues can be found through the national club.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before pickup, work through the <a href=\"/blogs/dog-breeds/german-shorthaired-pointer-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">German Shorthaired Pointer puppy checklist</a> — fence inspection and exercise plan are the two most important items.</p>"
     }
   },
-
   "faq": [
-    { "q": "Are German Shorthaired Pointers good family dogs?", "a": "Yes, for active families. GSPs are affectionate, gentle with children, and loyal to their household. The caveat is significant: they need real daily exercise. An under-exercised GSP in a family setting becomes destructive and difficult. For families that hike, run, or spend time outdoors — GSPs are excellent." },
-    { "q": "Can a German Shorthaired Pointer live in an apartment?", "a": "Not practically. GSPs need substantial off-leash exercise in open areas, which is logistically very difficult from an apartment. Even with two long daily walks, the exercise deficit tends to produce destructive and anxious behavior. A house with a securely fenced yard is the baseline." },
-    { "q": "How much exercise does a GSP actually need?", "a": "Two or more hours of vigorous exercise daily — and this means running, swimming, fetch at pace, or fieldwork. Not casual leash walking. The most common GSP behavior problem (destruction) is almost always under-exercise, not a training problem. A tired GSP is a very easy dog." },
-    { "q": "Are GSPs good with other dogs?", "a": "Generally yes, when socialized early. GSPs are social, pack-oriented dogs that usually get along well with other dogs. Bird dogs by instinct, they may show prey drive toward small pets. Early socialization with a variety of dogs builds appropriate social behavior." }
+    {
+      "q": "Are German Shorthaired Pointers good family dogs?",
+      "a": "Yes, for active families. GSPs are affectionate, gentle with children, and loyal to their household. The caveat is significant: they need real daily exercise. An under-exercised GSP in a family setting becomes destructive and difficult. For families that hike, run, or spend time outdoors — GSPs are excellent."
+    },
+    {
+      "q": "Can a German Shorthaired Pointer live in an apartment?",
+      "a": "Not practically. GSPs need substantial off-leash exercise in open areas, which is logistically very difficult from an apartment. Even with two long daily walks, the exercise deficit tends to produce destructive and anxious behavior. A house with a securely fenced yard is the baseline."
+    },
+    {
+      "q": "How much exercise does a GSP actually need?",
+      "a": "Two or more hours of vigorous exercise daily — and this means running, swimming, fetch at pace, or fieldwork. Not casual leash walking. The most common GSP behavior problem (destruction) is almost always under-exercise, not a training problem. A tired GSP is a very easy dog."
+    },
+    {
+      "q": "Are GSPs good with other dogs?",
+      "a": "Generally yes, when socialized early. GSPs are social, pack-oriented dogs that usually get along well with other dogs. Bird dogs by instinct, they may show prey drive toward small pets. Early socialization with a variety of dogs builds appropriate social behavior."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Vizsla", "slug": "vizsla", "note": "Similar energy and versatility, slightly lighter build"},
-    {"name": "Weimaraner", "slug": "weimaraner", "note": "Same group and drive, larger and more independent"},
-    {"name": "Labrador Retriever", "slug": "labrador-retriever", "note": "More family-adaptable, lower peak exercise ceiling"},
-    {"name": "German Wirehaired Pointer", "slug": "german-wirehaired-pointer", "note": "Same breed origin, rougher coat, more protective instinct"}
+    {
+      "name": "Vizsla",
+      "slug": "vizsla",
+      "note": "Similar energy and versatility, slightly lighter build"
+    },
+    {
+      "name": "Weimaraner",
+      "slug": "weimaraner",
+      "note": "Same group and drive, larger and more independent"
+    },
+    {
+      "name": "Labrador Retriever",
+      "slug": "labrador-retriever",
+      "note": "More family-adaptable, lower peak exercise ceiling"
+    },
+    {
+      "name": "German Wirehaired Pointer",
+      "slug": "german-wirehaired-pointer",
+      "note": "Same breed origin, rougher coat, more protective instinct"
+    }
   ]
 }

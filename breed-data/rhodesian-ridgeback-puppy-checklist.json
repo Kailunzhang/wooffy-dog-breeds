@@ -5,7 +5,11 @@
     "shopify_handle": "rhodesian-ridgeback-puppy-checklist",
     "group": "Rhodesian Ridgeback",
     "size_category": "Guide",
-    "tags": ["rhodesian-ridgeback", "puppy", "checklist"],
+    "tags": [
+      "rhodesian-ridgeback",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "Everything you need before your Rhodesian Ridgeback puppy comes home — verify dermoid sinus examination results from the breeder, plan gastropexy, understand the independent temperament and training commitment, and enroll in insurance before the first vet visit.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rhodesian_ridgeback.jpg/330px-Rhodesian_ridgeback.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_cd742c99-50ec-455a-923a-da64d778849e.png?v=1777530805",
       "alt": "Rhodesian Ridgeback puppy checklist"
     }
   },

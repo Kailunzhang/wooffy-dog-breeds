@@ -5,20 +5,25 @@
     "shopify_handle": "welsh-springer-spaniel-grooming-guide",
     "group": "Welsh Springer Spaniel",
     "size_category": "Guide",
-    "tags": ["welsh-springer-spaniel", "grooming", "silky-coat", "feathering", "ear-cleaning", "red-white"],
+    "tags": [
+      "welsh-springer-spaniel",
+      "grooming",
+      "silky-coat",
+      "feathering",
+      "ear-cleaning",
+      "red-white"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "The Welsh Springer Spaniel's silky red-and-white coat is relatively straightforward to maintain — weekly brushing, regular ear cleaning, and occasional feathering trims. The coat is less profuse than the English Springer Spaniel, making home maintenance manageable.",
     "meta_description": "Welsh Springer Spaniel grooming guide: maintaining the silky red-and-white coat, ear cleaning for floppy-eared spaniels, feathering trim schedule, and the complete home care routine."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Welsh_Springer_Spaniel_1.jpg/250px-Welsh_Springer_Spaniel_1.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_bbc87f1b-f503-4c0f-adda-b0f684deab76.png?v=1777532186",
       "alt": "Welsh Springer Spaniel grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Welsh Springer Coat",
@@ -36,7 +41,6 @@
       "html": "<p>The Welsh Springer Spaniel's long, feathered ears create ideal conditions for moisture retention and ear infection development. Weekly ear cleaning is the standard maintenance. Apply veterinary ear cleaning solution, massage the ear base, let the dog shake, then wipe visible debris with cotton balls. Check for odor, redness, or discharge at each cleaning session. After water exposure or bathing, clean and dry the ears promptly.</p><h3>Glaucoma Monitoring</h3><p>Glaucoma — elevated intraocular pressure that can damage the optic nerve — has been documented in Welsh Springer Spaniels. An eye exam at the first vet visit establishes a baseline. Signs of acute glaucoma include visible eye redness, cloudiness, squinting, or the dog pawing at one eye. These are emergency signs — glaucoma can cause permanent vision loss rapidly and requires immediate veterinary attention. Annual eye monitoring for adult Welsh Springers is prudent for a breed with documented glaucoma risk.</p><h3>Progressive Retinal Atrophy</h3><p>PRA is also documented in Welsh Springer Spaniels. DNA testing of breeding parents reduces the risk. During regular grooming, note any changes in how the dog navigates in low light — this can be an early sign of progressive visual changes.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does a Welsh Springer Spaniel need professional grooming?",

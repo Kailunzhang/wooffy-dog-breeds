@@ -5,20 +5,25 @@
     "shopify_handle": "nova-scotia-duck-tolling-retriever-grooming-guide",
     "group": "Nova Scotia Duck Tolling Retriever",
     "size_category": "Guide",
-    "tags": ["nova-scotia-duck-tolling-retriever", "toller", "grooming", "double-coat", "feathering", "shedding"],
+    "tags": [
+      "nova-scotia-duck-tolling-retriever",
+      "toller",
+      "grooming",
+      "double-coat",
+      "feathering",
+      "shedding"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "The Toller's medium-length water-repellent double coat is relatively easy to maintain — weekly brushing, attention to the feathered legs and tail, and occasional baths. The coat sheds moderately year-round with heavier seasonal blows.",
     "meta_description": "Nova Scotia Duck Tolling Retriever grooming guide: maintaining the water-repellent double coat, managing feathering and seasonal shedding, bathing schedule, and the full maintenance routine for this active retriever."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Duck_Toller.jpg/250px-Duck_Toller.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4f587aa8-acab-4dd3-89cf-d70f479ef9c1.png?v=1777530179",
       "alt": "Nova Scotia Duck Tolling Retriever grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Toller Coat",
@@ -36,7 +41,6 @@
       "html": "<p>The Nova Scotia Duck Tolling Retriever has floppy ears that can trap moisture after swimming or water work. Weekly ear cleaning is the standard maintenance schedule, with additional cleaning after any significant water exposure. Check for odor, redness, swelling, or discharge — these indicate an infection requiring veterinary treatment.</p><h3>Progressive Retinal Atrophy Awareness</h3><p>PRCD-PRA (Progressive Rod-Cone Degeneration) affects Tollers at a meaningful rate. While grooming, make it a habit to observe the dog's visual tracking behavior — difficulty seeing in low light, hesitation at stairs in dim conditions, or eye cloudiness are signs to bring to a veterinarian. DNA testing of breeding parents eliminates the genetic risk in puppies (both parents clear = puppy cannot be affected), but dogs from untested parents warrant monitoring.</p><h3>Collie Eye Anomaly (CEA)</h3><p>CEA affects some Toller lines. An ophthalmologic exam in puppyhood by a veterinary ophthalmologist is a reasonable investment for dogs from untested parents. When buying a puppy, ask specifically whether both parents have been CEA tested.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does a Nova Scotia Duck Tolling Retriever need professional grooming?",

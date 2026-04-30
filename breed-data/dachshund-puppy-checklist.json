@@ -5,20 +5,24 @@
     "shopify_handle": "dachshund-puppy-checklist",
     "group": "Dachshund",
     "size_category": "Guide",
-    "tags": ["dachshund", "puppy", "checklist", "ivdd-prevention", "spine-safe"],
+    "tags": [
+      "dachshund",
+      "puppy",
+      "checklist",
+      "ivdd-prevention",
+      "spine-safe"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Everything you need before your Dachshund puppy comes home — including the spine-safe setup that protects their back from day one.",
     "meta_description": "Dachshund puppy checklist: spine-safe ramp setup, IVDD prevention from day one, housetraining tips for a stubborn breed, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg/330px-%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_aa1829c6-4c6b-4e70-926f-b4049c772fa7.png?v=1777527337",
       "alt": "Dachshund puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>The Three Rules of Spine-Safe Living</h3><ol><li><strong>No jumping on/off furniture.</strong> Every jump adds stress to the discs. Use ramps and train your puppy to use them from day one. This is easier to teach as a puppy than to change as an adult habit.</li><li><strong>Weight management starting now.</strong> Extra weight compresses the discs. Measure food, avoid excessive treats, and get your vet to assess body condition at every annual visit. A fit Dachshund has a visible waist when viewed from above.</li><li><strong>Supportive carry technique.</strong> When picking up a Dachshund, always support both the chest and the hindquarters simultaneously. Never lift by the front legs or let the body hang unsupported — this strains the lumbar spine.</li></ol><h3>Watch for IVDD Warning Signs</h3><p>Knowing the symptoms allows early intervention, which dramatically improves outcomes:</p><ul><li>Reluctance to move, climb stairs, or go on walks</li><li>Crying when picked up or when touched along the back</li><li>Shaking or hunched posture</li><li>Loss of coordination, wobbling, or weakness in hind legs</li><li>In severe cases: partial or complete paralysis of the hindquarters</li></ul><p>If you observe any of these signs, contact your vet the same day. IVDD treatment outcomes are significantly better when caught early.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Do I need to buy ramps for a Dachshund puppy?",

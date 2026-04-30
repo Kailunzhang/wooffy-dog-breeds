@@ -6,74 +6,104 @@
     "group": "Sporting Group",
     "size_category": "Large Breed",
     "tagline": "The Clumber Spaniel is the dignified, heavy-framed spaniel — slower and more deliberate than its cousins, deeply loyal, and an enthusiastic white-fur shedding machine. A calm sporting dog for owners who prefer substance over speed.",
-    "tags": ["sporting-group", "large-breed", "low-energy", "heavy-shedder", "white-coat", "spaniel", "dog-breeds"],
+    "tags": [
+      "sporting-group",
+      "large-breed",
+      "low-energy",
+      "heavy-shedder",
+      "white-coat",
+      "spaniel",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "The Clumber Spaniel is the calmest and heaviest spaniel — thoughtful, loyal, and less frenetic than Cockers or Springers. They shed heavily and require eye and ear care. A good choice for spaniel fans who want a more manageable energy level.",
     "meta_description": "Clumber Spaniel breed guide: calm temperament, heavy shedding management, hip dysplasia prevalence, eye and ear health requirements, hypothyroidism risk, and honest ownership expectations."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "55–85 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–12 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "30–60 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate–High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes, with research" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "55–85 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–12 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "30–60 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate–High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes, with research"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Clumber_spaniel_rybnik_kamien_pppl.jpg/330px-Clumber_spaniel_rybnik_kamien_pppl.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_6c699628-770e-47ab-b611-fb62f341aa7d.png?v=1777527066",
       "alt": "Clumber Spaniel"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Clumber Spaniel?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Clumber Spaniel is the heaviest and most deliberate of the spaniel family — a breed that works at a careful, methodical pace through dense cover rather than the frantic questing of a Cocker or Springer. Developed in England (with possible French influence from the Duc de Noailles) and refined at Clumber Park in Nottinghamshire, these were traditionally the spaniels favored by British royalty for estate hunting.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The personality reflects the pace: calm, thoughtful, and loyal rather than frenetically enthusiastic. Clumbers are good-natured, patient dogs that tend toward a dignified affection. They're less demanding than most sporting breeds in terms of energy, which makes them more accessible for households that want a sporting dog temperament without the 2-hour daily exercise requirement.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The honest trade-offs: Clumbers shed heavily — the white coat is everywhere, constantly. Hip dysplasia rates are high in the breed. And the droopy eyes and heavy facial skin create ongoing eye and ear care responsibilities that must be maintained to prevent chronic infections.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Clumber Spaniels Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A large, heavy, long-bodied spaniel with a broad skull, deep chest, and distinctive droopy eyes. Males weigh 70–85 lbs and stand 19–20 inches; females 55–70 lbs at 17–19 inches. The primary coat color is predominantly white with lemon or orange markings on the head and body.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The dense, flat, silky coat is weather-resistant and feathered on the ears, chest, legs, and belly. The face has characteristic wrinkles and the eyes show the haw (lower eyelid lining), which contributes to the breed's gentle, slightly melancholy expression but also creates vulnerability to entropion and ectropion.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Calm, loyal, and good-humored. Clumbers are affectionate with family and typically gentle with children. They're less socially demanding than retrievers — they enjoy company but don't require constant engagement. A Clumber is often described as the spaniel for people who like spaniels but not the spaniel intensity.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">They can be stubborn — the methodical, deliberate temperament that serves them in the field means they also evaluate instructions at their own pace. Positive training works well; they're food-motivated and respond to patient, consistent handlers.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Heat sensitivity is a real concern — the heavy build, dense white coat, and facial features make Clumbers vulnerable to overheating. Outdoor activity in hot weather must be limited, and cool environments are essential in summer.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Clumber",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Clumber is a genuinely underrated breed. For owners who want a sporting dog temperament — loyal, engaged, good-natured — without the high-octane energy of most sporting breeds, the Clumber fills that space well. They're calm enough for households that aren't doing two-hour runs, and they're good enough-natured to be genuine family dogs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The practical realities to accept before committing: the white shedding is significant and constant. Everything in your home will have white fur on it. The eye and ear care isn't optional — Clumbers with unkept eyes develop chronic eye infections, and their heavy ears collect moisture and bacteria. These are weekly maintenance tasks, not occasional ones.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Hip dysplasia rates are high enough that OFA clearances from breeders should be treated as a minimum, not a bonus. And the shorter lifespan of 10–12 years is worth considering in the context of a 55–85 lb dog that requires significant daily care.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">30–60 minutes daily. More accessible than most sporting breeds — Clumbers are genuinely less demanding than Setters, Pointers, or Springers. Daily walks plus some outdoor exploration time meets their needs. Avoid vigorous exercise in heat; Clumbers overheat easily and should be exercised in the coolest part of the day in warm weather.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Regular brushing 3–4 times per week to manage the heavy white shedding, with extra attention to ear feathering and leg furnishings. Eye cleaning is a daily task — the facial anatomy predisposes to tear staining and discharge that must be wiped to prevent skin irritation. Ear cleaning weekly minimum. See the <a href=\"/blogs/dog-breeds/clumber-spaniel-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Clumber grooming guide</a>.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Patient, positive reinforcement. Clumbers are food-motivated and willing, but they work at their own pace. They respond well to handlers who are consistent and reward-focused. Don't mistake their deliberateness for stupidity — Clumbers are thoughtful dogs.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Clumbers live 10–12 years — a shorter lifespan reflecting their size and known health challenges. Hip dysplasia rates are high in the breed and should be screened for in all breeding animals.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint — high rate in the breed. OFA clearances required from both parents. A heavy breed with significant hip disease has substantially limited quality of life. This is the most important health clearance to verify.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Malformed elbow joint — also seen in the breed. OFA elbow clearances available; ask breeders for documentation alongside hip clearances.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Entropion / Ectropion</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Eyelid abnormalities — entropion (inward rolling) causes the lash to irritate the cornea; ectropion (outward sagging) exposes the inner eyelid to irritation. Both may require surgical correction. The facial anatomy of Clumbers predisposes them to both. Regular eye checks for irritation, redness, or discharge are essential.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Underactive thyroid — manageable with daily medication. OFA thyroid clearance available.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Heat Sensitivity</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The combination of heavy build, dense coat, and some brachycephalic facial features makes Clumbers sensitive to heat. Outdoor exercise in warm weather must be limited; cool resting environments are essential. Know the signs of heat stroke.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip and elbow clearances (both parents), CAER eye exam, OFA thyroid.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$3,000–$5,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (large crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$550</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$4,800–$8,750</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,350–$2,400</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/clumber-spaniel-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Clumber Spaniel first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Clumber Spaniel Right for You?",
@@ -90,24 +120,45 @@
         "People who want a long-lived large dog — 10–12 years is the typical range"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Clumber Spaniel",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$3,000–$5,500 from reputable breeders. The Clumber Spaniel Club of America maintains a breeder directory. Required health clearances: OFA hip and elbow (both parents), CAER eye exam. Clumbers are a rare breed — expect limited litter availability and possible wait times from responsible breeders.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Clumber Spaniel rescue organizations operate in the US. Given the breed's rarity, rescue dogs are less common than for more popular breeds — but they exist and represent a genuine option for experienced spaniel households.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Clumber comes home, complete the <a href=\"/blogs/dog-breeds/clumber-spaniel-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Clumber Spaniel puppy checklist</a> — eye and ear care supplies, insurance enrollment, and heat management plan are the priorities.</p>"
     }
   },
-
   "faq": [
-    { "q": "Are Clumber Spaniels rare?", "a": "Yes — they're one of the rarer AKC sporting breeds. Annual registrations are a fraction of popular sporting breeds like Labradors or Golden Retrievers. This means finding a reputable breeder may take time, waiting lists are common, and rescue dogs are less frequently available. The rarity is worth factoring into timeline planning." },
-    { "q": "Do Clumbers get along with other dogs?", "a": "Generally yes. They're not typically dog-aggressive and their calm, non-confrontational temperament tends toward easy coexistence. As with any breed, early socialization improves adult behavior around unfamiliar dogs." },
-    { "q": "How much do Clumber Spaniels shed?", "a": "Heavily and consistently. The white coat sheds year-round, with heavier periods seasonally. Unlike double-coated breeds with dramatic blows, Clumbers produce a steady high volume of white fur that coats furniture, clothing, and floors. This is a real consideration for households with strong preferences for a fur-free environment." },
-    { "q": "What eye care does a Clumber Spaniel need?", "a": "Daily wiping of eye discharge using a damp cloth or specific eye wipes. The droopy lower eyelids collect discharge and the facial skin folds trap moisture — leaving this unmanaged leads to skin irritation, staining, and infection. Ectropion or entropion (eyelid abnormalities) may also require surgical correction in some individuals — discuss with your vet at the first visit." }
+    {
+      "q": "Are Clumber Spaniels rare?",
+      "a": "Yes — they're one of the rarer AKC sporting breeds. Annual registrations are a fraction of popular sporting breeds like Labradors or Golden Retrievers. This means finding a reputable breeder may take time, waiting lists are common, and rescue dogs are less frequently available. The rarity is worth factoring into timeline planning."
+    },
+    {
+      "q": "Do Clumbers get along with other dogs?",
+      "a": "Generally yes. They're not typically dog-aggressive and their calm, non-confrontational temperament tends toward easy coexistence. As with any breed, early socialization improves adult behavior around unfamiliar dogs."
+    },
+    {
+      "q": "How much do Clumber Spaniels shed?",
+      "a": "Heavily and consistently. The white coat sheds year-round, with heavier periods seasonally. Unlike double-coated breeds with dramatic blows, Clumbers produce a steady high volume of white fur that coats furniture, clothing, and floors. This is a real consideration for households with strong preferences for a fur-free environment."
+    },
+    {
+      "q": "What eye care does a Clumber Spaniel need?",
+      "a": "Daily wiping of eye discharge using a damp cloth or specific eye wipes. The droopy lower eyelids collect discharge and the facial skin folds trap moisture — leaving this unmanaged leads to skin irritation, staining, and infection. Ectropion or entropion (eyelid abnormalities) may also require surgical correction in some individuals — discuss with your vet at the first visit."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Sussex Spaniel", "slug": "sussex-spaniel", "note": "Another rare, heavy-framed spaniel, golden liver coat, similar calm disposition"},
-    {"name": "English Springer Spaniel", "slug": "english-springer-spaniel", "note": "More energetic spaniel cousin, similar field heritage but significantly higher exercise needs"},
-    {"name": "Cocker Spaniel", "slug": "cocker-spaniel", "note": "Smaller, more common spaniel, similar good nature but higher energy than a Clumber"}
+    {
+      "name": "Sussex Spaniel",
+      "slug": "sussex-spaniel",
+      "note": "Another rare, heavy-framed spaniel, golden liver coat, similar calm disposition"
+    },
+    {
+      "name": "English Springer Spaniel",
+      "slug": "english-springer-spaniel",
+      "note": "More energetic spaniel cousin, similar field heritage but significantly higher exercise needs"
+    },
+    {
+      "name": "Cocker Spaniel",
+      "slug": "cocker-spaniel",
+      "note": "Smaller, more common spaniel, similar good nature but higher energy than a Clumber"
+    }
   ]
 }

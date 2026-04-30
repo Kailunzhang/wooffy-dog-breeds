@@ -5,20 +5,25 @@
     "shopify_handle": "miniature-american-shepherd-puppy-checklist",
     "group": "Miniature American Shepherd",
     "size_category": "Guide",
-    "tags": ["miniature-american-shepherd", "puppy", "checklist", "CEA", "MDR1", "dog-sports"],
+    "tags": [
+      "miniature-american-shepherd",
+      "puppy",
+      "checklist",
+      "CEA",
+      "MDR1",
+      "dog-sports"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "Everything you need before your Miniature American Shepherd puppy comes home — including the CEA and MDR1 documentation that are required from any responsible breeder.",
     "meta_description": "Miniature American Shepherd puppy checklist: CEA and MDR1 test documentation, exercise plan, sport training research, socialization priorities, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blue_Merle_Miniature_American_Shepherd_in_Grass.jpg/330px-Blue_Merle_Miniature_American_Shepherd_in_Grass.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_d0992a24-2b44-4f16-a147-9679457605e5.png?v=1777529741",
       "alt": "Miniature American Shepherd puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>MAS Training Capacity</h3><p>Miniature American Shepherds are highly trainable, eager dogs that learn quickly and retain reliably. They respond well to positive reinforcement and genuinely enjoy the engagement of training sessions. Establish all foundation commands during puppyhood: sit, down, stay, come, leave it, loose-leash walking. These form the basis for any future sport work.</p><ul><li>Puppy class at 8–10 weeks</li><li>Progress to intermediate obedience — MAS are capable of advanced work</li><li>Introduce sport-specific foundations at appropriate developmental age</li></ul><h3>Age-Appropriate Exercise</h3><p>MAS puppies are energetic, but growing joints must be protected. Follow the 5-minutes-per-month-of-age guideline for structured leash walks. Full sport training — jumping sequences, weave poles, etc. — should wait until growth plates close around 12–14 months. Foundation skills (attention, targeting, basic agility body awareness exercises) can begin much earlier on the flat.</p><h3>Mental Stimulation as a Daily Constant</h3><p>Like all herding breeds, MAS need cognitive engagement as much as physical exercise:</p><ul><li>Feed meals from puzzle feeders</li><li>Multiple short training sessions daily — the breed learns quickly and tires of repetition</li><li>Rotate toy types to maintain novelty</li><li>New environments, surfaces, and experiences keep the herding brain engaged</li></ul>"
     }
   },
-
   "faq": [
     {
       "q": "Why do both CEA and MDR1 tests matter for the Miniature American Shepherd?",

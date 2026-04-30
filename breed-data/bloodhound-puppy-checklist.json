@@ -5,7 +5,11 @@
     "shopify_handle": "bloodhound-puppy-checklist",
     "group": "Bloodhound",
     "size_category": "Guide",
-    "tags": ["bloodhound", "puppy", "checklist"],
+    "tags": [
+      "bloodhound",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Everything you need before your Bloodhound puppy comes home — fencing, ear cleaning protocol establishment, gastropexy discussion, insurance enrollment, and understanding the drool reality before it arrives.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bloodhound_Erland22.jpg/330px-Bloodhound_Erland22.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_aa1835c8-7de1-441d-b40c-cf7b1333a196.png?v=1777526157",
       "alt": "Bloodhound puppy checklist"
     }
   },

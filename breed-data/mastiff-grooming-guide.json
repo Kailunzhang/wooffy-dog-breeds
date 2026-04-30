@@ -5,20 +5,24 @@
     "shopify_handle": "mastiff-grooming-guide",
     "group": "Mastiff",
     "size_category": "Guide",
-    "tags": ["mastiff", "grooming", "wrinkle-care", "drool-management", "giant-breed"],
+    "tags": [
+      "mastiff",
+      "grooming",
+      "wrinkle-care",
+      "drool-management",
+      "giant-breed"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Mastiff grooming is simple — except for the drool and the wrinkles. Both require consistent management, and at 200+ lbs, getting your Mastiff comfortable with grooming handling from puppyhood is essential.",
     "meta_description": "Mastiff grooming guide: wrinkle and skin fold care to prevent dermatitis, drool management, giant-breed nail care, and bath logistics for one of the world's heaviest dogs."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/137._English_Mastiff.JPG/330px-137._English_Mastiff.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ea2c7a4f-d91e-48ff-b352-001565d8dc3b.png?v=1777529694",
       "alt": "Mastiff grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Mastiff Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Mastiffs have significant facial wrinkling — the broad, heavy head and pendant lips create multiple skin folds where moisture, food particles, and saliva accumulate. Without regular cleaning, this environment grows bacteria and yeast, causing skin fold dermatitis: redness, odor, and discomfort.</p><h3>The Cleaning Routine</h3><ol><li>Use a damp cloth or unscented dog wipe to clean inside each fold — wipe away all visible debris and residue</li><li>Use a dry cloth or cotton ball to thoroughly dry the inside of each fold. This step is critical — damp folds after cleaning are worse than no cleaning</li><li>Some owners apply a small amount of cornstarch to absorb residual moisture after cleaning and drying</li><li>Check for redness, odor, or skin irritation each time you clean. These are early signs of dermatitis</li></ol><h3>Signs of a Skin Problem</h3><ul><li>Redness or raw skin inside the fold</li><li>Sour or musty odor from the wrinkles</li><li>Dog rubbing their face on furniture or the ground</li><li>Discharge visible in the fold</li></ul><p>If you notice these signs, see your vet. Mild cases respond to topical treatment; established infections may need oral antibiotics or antifungals. Preventive cleaning is far easier than treating infections.</p><h3>Drool Management at Scale</h3><p>Mastiff owners develop systems. Common approaches: absorbent cloths at strategic locations, easy-access hanging towels near food and water, machine-washable couch covers, and keeping a cloth on you during active periods. Accepting the drool as a lifestyle feature — rather than fighting it as a problem — makes Mastiff ownership much more comfortable.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often do I need to clean my Mastiff's wrinkles?",

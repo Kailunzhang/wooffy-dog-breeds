@@ -6,74 +6,103 @@
     "group": "Sporting Group",
     "size_category": "Medium Breed",
     "tagline": "The American Water Spaniel is a versatile Midwestern hunting dog — small enough to work from a canoe, determined enough to retrieve in icy water. They're enthusiastic, loyal family dogs that are rare enough most people haven't met one.",
-    "tags": ["sporting-group", "medium-breed", "versatile", "hunting-dog", "curly-coat", "dog-breeds"],
+    "tags": [
+      "sporting-group",
+      "medium-breed",
+      "versatile",
+      "hunting-dog",
+      "curly-coat",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "The American Water Spaniel is Wisconsin's state dog and one of the few breeds developed entirely in the United States. They're versatile hunters, enthusiastic family dogs, and genuinely rare. Cardiac monitoring is recommended — Mitral Valve Disease is a real concern in the breed.",
     "meta_description": "American Water Spaniel breed guide: Midwestern hunting heritage, temperament, Mitral Valve Disease cardiac monitoring, curly coat care, and what makes this rare breed distinctive."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "25–45 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–14 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise",  "value": "60 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming",  "value": "Low-Moderate" },
-    "training": { "emoji": "🎓", "label": "Training",  "value": "Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "25–45 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low-Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Chien_d%27eau_americain_champion_1.JPG/250px-Chien_d%27eau_americain_champion_1.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_8baba605-6623-4593-8920-2e62850129e1.png?v=1777525568",
       "alt": "American Water Spaniel"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is an American Water Spaniel?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The American Water Spaniel is one of only a handful of breeds developed entirely in the United States — specifically in the Fox and Wolf River valleys of Wisconsin and Minnesota in the mid-1800s. They were bred to do everything: flush and retrieve upland birds, retrieve waterfowl in cold Midwestern lakes, work from small boats and canoes, and function as a versatile working dog for hunters who needed one dog to do it all.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Wisconsin designated the American Water Spaniel as its state dog in 1986. Despite this recognition, they remain genuinely rare — AKC registration numbers are consistently low, and most people have never encountered one. That rarity means finding a puppy requires research and waiting, but it also means reputable breeders in the breed are closely connected and knowledgeable.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">For families or hunters who discover them, American Water Spaniels offer a package that's hard to replicate: medium size, genuine versatility in the field, friendly family temperament, and a low-shedding curly coat. The cardiac health monitoring requirement is the most significant thing to know — Mitral Valve Disease has real prevalence in the breed.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What American Water Spaniels Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Medium-sized, sturdy, and athletic — 25–45 lbs and 15–18 inches at the shoulder. The build is practical: substantial enough to handle cold-water retrieves and brush work, compact enough to work from a small boat. They're more robustly built than a Cocker Spaniel but smaller than a Springer.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The coat is the most distinctive feature — a tight curl or wavy pattern in solid liver, brown, or dark chocolate. The curly coat provides insulation and water resistance for cold-water work. It's a low-shedding coat, which surprises people given the density. Eyes are typically yellow, brown, or hazel — never black. Ears are long, hanging close to the head, and well feathered.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">American Water Spaniels are enthusiastic, eager, and people-oriented dogs. They're good family dogs — friendly with children, adaptable to household life when exercised, and genuinely attached to their people. They don't have the aloof independence of working breeds or the reserved nature of some hunting dogs; they want to be involved in whatever is happening.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">They can have some territorial tendencies and may be reserved with strangers initially — consistent socialization from puppyhood produces confident, well-adjusted adults. Some individuals can be barky, which is worth managing from puppyhood if noise is a concern in your living situation.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With other dogs and pets, most American Water Spaniels are social and manageable. The prey drive for birds is real — cats and small animals should be introduced carefully and supervised. Some individuals have stronger prey drive than others; ask the breeder about the specific temperament tendencies in their lines.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About an American Water Spaniel",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The American Water Spaniel is a genuinely great find for the right owner — a versatile, medium-sized sporting dog with a low-shedding coat, friendly temperament, and real working ability. They're the rare breed where you get a lot of dog in a manageable package. The fact that they're uncommon actually works in favor of buyers who do their research, because the reputable breeders in the breed tend to know each other and hold high standards.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest part: they need exercise. These are high-energy hunting dogs, not couch companions. Without adequate daily exercise they become restless and find their own outlets. In an active family or a hunting household, they shine. In a sedentary environment, they struggle.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The cardiac monitoring requirement is not something to skip. Mitral Valve Disease is present in the breed and annual cardiac exams by a veterinary cardiologist allow early detection. Many affected dogs live full lives with management — but catching it early matters. Ask breeders about the cardiac health status of their dogs and get annual checks.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60 minutes of active exercise daily. These are hunting dogs bred for all-day field work; they have real stamina and need genuine outlets. Swimming is a natural fit — they love water and it provides excellent exercise. Running, hiking, fetch, and active play in a fenced yard all work well. An under-exercised American Water Spaniel is a restless, potentially destructive one.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The curly/wavy coat is lower maintenance than many sporting breeds. Occasional brushing and trimming are needed — curly coats don't shed much but can mat without periodic attention. Ear cleaning is the most critical regular task given the drop ear anatomy and the breed's affinity for water. See the <a href=\"/blogs/dog-breeds/american-water-spaniel-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">American Water Spaniel grooming guide</a> for specifics.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Moderate trainability — American Water Spaniels are willing and intelligent, responding well to positive reinforcement. They're not as immediately biddable as Labs or Goldens, but they're cooperative. Consistency from puppyhood is important. Field training for hunting is a natural extension of their instincts — the fundamentals (point, flush, retrieve) come easily to well-bred individuals.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">American Water Spaniels have a 10–14 year lifespan. The most important breed-specific health concern is Mitral Valve Disease — cardiac monitoring with annual exams is the standard of care recommended for this breed.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Mitral Valve Disease (MVD)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Degeneration of the heart's mitral valve, leading over time to heart enlargement and congestive heart failure. Many dogs live years with MVD before it becomes symptomatic. Annual cardiac exams by a veterinary cardiologist allow monitoring and early intervention. The American Water Spaniel Field Association recommends cardiac screening as part of health testing.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Malformed hip joint causing pain and arthritis. OFA or PennHIP screening available. Ask breeders for clearances.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited retinal degeneration leading to blindness. DNA test available — ask breeders for clearances.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Eye Issues</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Various inherited eye conditions. Annual CAER eye exams can detect problems early. Ask breeders for CAER clearances on parents.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip clearances, CAER eye exam, PRA DNA test. Budget for annual cardiac exams throughout the dog's life.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$250–$450</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Annual cardiac exam</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$100–$250</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$100–$250</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Grooming (occasional professional trim)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$150–$300</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$150–$300</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,250–$4,250</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,100–$2,100</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/american-water-spaniel-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full American Water Spaniel first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is an American Water Spaniel Right for You?",
@@ -92,25 +121,50 @@
         "Owners looking for an extremely biddable, immediately responsive dog"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your American Water Spaniel",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,500 from reputable breeders, but expect a wait — litter frequency is lower for a rare breed. The American Water Spaniel Field Association maintains a breeder directory and holds health screening standards. Required clearances: OFA hip, CAER eye exam, PRA DNA test. Ask breeders specifically about the cardiac health status of their breeding dogs.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">American Water Spaniel rescue is active but volume is low given the breed's rarity. Connecting with the national breed club is the best route to finding rescue placement opportunities.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your American Water Spaniel comes home, complete the <a href=\"/blogs/dog-breeds/american-water-spaniel-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">American Water Spaniel puppy checklist</a>.</p>"
     }
   },
-
   "faq": [
-    { "q": "Why is the American Water Spaniel so rare?", "a": "The breed was developed in a specific geographic region (Wisconsin/Minnesota) for practical hunting purposes and never became a popular show breed or widely promoted companion. When hunting with specialized breeds became less common in the mid-20th century, population numbers declined significantly. Dedicated breeders have maintained the breed, but AKC registration numbers remain consistently low. This rarity means quality puppies require planning and waiting." },
-    { "q": "What is Mitral Valve Disease and how does it affect American Water Spaniels?", "a": "Mitral Valve Disease (MVD) is degeneration of the heart's mitral valve, which over time can lead to heart enlargement and congestive heart failure. It's been documented at meaningful prevalence in American Water Spaniels. Annual cardiac exams by a veterinary cardiologist allow early detection — many dogs live years with MVD before becoming symptomatic, and early detection allows for appropriate management. Ask breeders about the cardiac history of their dogs." },
-    { "q": "Do American Water Spaniels shed much?", "a": "No — this is one of the breed's practical advantages. The curly coat sheds minimally compared to flat-coated sporting breeds, making them a better fit for households with mild allergies or strong preferences for a lower-shedding dog. The trade-off is that curly coats require periodic professional trimming and attention to mat prevention, but overall maintenance is manageable." },
-    { "q": "Are American Water Spaniels good for first-time dog owners?", "a": "Generally yes, compared to more demanding sporting breeds. They're friendly, people-oriented, and respond well to consistent positive training. The exercise requirement is real and non-negotiable — they're not a low-energy dog — but their trainability and temperament are not particularly challenging for someone willing to put in the work. Research the breed thoroughly before committing; their rarity means fewer resources than for common breeds." }
+    {
+      "q": "Why is the American Water Spaniel so rare?",
+      "a": "The breed was developed in a specific geographic region (Wisconsin/Minnesota) for practical hunting purposes and never became a popular show breed or widely promoted companion. When hunting with specialized breeds became less common in the mid-20th century, population numbers declined significantly. Dedicated breeders have maintained the breed, but AKC registration numbers remain consistently low. This rarity means quality puppies require planning and waiting."
+    },
+    {
+      "q": "What is Mitral Valve Disease and how does it affect American Water Spaniels?",
+      "a": "Mitral Valve Disease (MVD) is degeneration of the heart's mitral valve, which over time can lead to heart enlargement and congestive heart failure. It's been documented at meaningful prevalence in American Water Spaniels. Annual cardiac exams by a veterinary cardiologist allow early detection — many dogs live years with MVD before becoming symptomatic, and early detection allows for appropriate management. Ask breeders about the cardiac history of their dogs."
+    },
+    {
+      "q": "Do American Water Spaniels shed much?",
+      "a": "No — this is one of the breed's practical advantages. The curly coat sheds minimally compared to flat-coated sporting breeds, making them a better fit for households with mild allergies or strong preferences for a lower-shedding dog. The trade-off is that curly coats require periodic professional trimming and attention to mat prevention, but overall maintenance is manageable."
+    },
+    {
+      "q": "Are American Water Spaniels good for first-time dog owners?",
+      "a": "Generally yes, compared to more demanding sporting breeds. They're friendly, people-oriented, and respond well to consistent positive training. The exercise requirement is real and non-negotiable — they're not a low-energy dog — but their trainability and temperament are not particularly challenging for someone willing to put in the work. Research the breed thoroughly before committing; their rarity means fewer resources than for common breeds."
+    }
   ],
-
   "related_breeds": [
-    {"name": "English Springer Spaniel", "slug": "english-springer-spaniel", "note": "More common, similar sporting purpose, flat coat, slightly larger and more energetic"},
-    {"name": "Boykin Spaniel", "slug": "boykin-spaniel", "note": "South Carolina's state dog, similar size and curly coat, another rare American spaniel"},
-    {"name": "Cocker Spaniel", "slug": "cocker-spaniel", "note": "More popular, smaller, primarily companion-focused, similar drop ears"},
-    {"name": "Chesapeake Bay Retriever", "slug": "chesapeake-bay-retriever", "note": "Another American hunting breed, larger and more challenging temperament, strong water affinity"}
+    {
+      "name": "English Springer Spaniel",
+      "slug": "english-springer-spaniel",
+      "note": "More common, similar sporting purpose, flat coat, slightly larger and more energetic"
+    },
+    {
+      "name": "Boykin Spaniel",
+      "slug": "boykin-spaniel",
+      "note": "South Carolina's state dog, similar size and curly coat, another rare American spaniel"
+    },
+    {
+      "name": "Cocker Spaniel",
+      "slug": "cocker-spaniel",
+      "note": "More popular, smaller, primarily companion-focused, similar drop ears"
+    },
+    {
+      "name": "Chesapeake Bay Retriever",
+      "slug": "chesapeake-bay-retriever",
+      "note": "Another American hunting breed, larger and more challenging temperament, strong water affinity"
+    }
   ]
 }

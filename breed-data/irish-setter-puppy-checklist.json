@@ -5,7 +5,14 @@
     "shopify_handle": "irish-setter-puppy-checklist",
     "group": "Irish Setter",
     "size_category": "Guide",
-    "tags": ["irish-setter", "puppy", "checklist", "clad", "gastropexy", "socialization"],
+    "tags": [
+      "irish-setter",
+      "puppy",
+      "checklist",
+      "clad",
+      "gastropexy",
+      "socialization"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "Everything you need before your Irish Setter comes home — including CLAD documentation verification, exercise plan for a high-energy breed, and the gastropexy conversation for your first vet visit.",
@@ -13,7 +20,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Can_Setter_dog_GFDL.jpg/330px-Can_Setter_dog_GFDL.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_6a616634-e6ba-46a2-95f4-35ea7c48dab5.png?v=1777528590",
       "alt": "Irish Setter puppy checklist"
     }
   },
@@ -35,7 +42,13 @@
     }
   },
   "faq": [
-    {"q": "Why is the CLAD test non-negotiable for Irish Setters?", "a": "CLAD is fatal — affected puppies die from infection before age six months. It's an autosomal recessive disease; two tested-clear parents cannot produce an affected puppy. The test is inexpensive relative to the puppy price. A breeder without CLAD test documentation is not testing for a preventable fatal disease. Walk away."},
-    {"q": "How do I manage an Irish Setter's energy in the first year?", "a": "Follow the 5-minute puppy exercise rule (5 minutes per month of age, twice daily) until 18 months when growth plates close. Focus exercise on play, controlled walks, and mental enrichment rather than forced running. A puppy's energy is real; your job is to channel it appropriately rather than letting it translate to destructive behavior indoors."}
+    {
+      "q": "Why is the CLAD test non-negotiable for Irish Setters?",
+      "a": "CLAD is fatal — affected puppies die from infection before age six months. It's an autosomal recessive disease; two tested-clear parents cannot produce an affected puppy. The test is inexpensive relative to the puppy price. A breeder without CLAD test documentation is not testing for a preventable fatal disease. Walk away."
+    },
+    {
+      "q": "How do I manage an Irish Setter's energy in the first year?",
+      "a": "Follow the 5-minute puppy exercise rule (5 minutes per month of age, twice daily) until 18 months when growth plates close. Focus exercise on play, controlled walks, and mental enrichment rather than forced running. A puppy's energy is real; your job is to channel it appropriately rather than letting it translate to destructive behavior indoors."
+    }
   ]
 }

@@ -6,74 +6,103 @@
     "group": "Toy Group",
     "size_category": "Toy Breed",
     "tagline": "The Italian Greyhound is an elegant, affectionate toy sighthound with a surprisingly athletic build and a startling fragility. Leg fractures from jumping off furniture are a genuine, costly reality. Dental disease will be a lifelong battle.",
-    "tags": ["toy-group", "toy-breed", "sighthound", "low-shedding", "fragile", "dog-breeds"],
+    "tags": [
+      "toy-group",
+      "toy-breed",
+      "sighthound",
+      "low-shedding",
+      "fragile",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-18T16:00:00Z",
     "excerpt": "Italian Greyhounds are affectionate, low-maintenance companions — as long as you keep them off high furniture and brush their teeth daily. Leg fractures from jumping are genuinely common, dental disease is severe in the breed, and they are exquisitely sensitive to cold. Know these trade-offs going in.",
     "meta_description": "Italian Greyhound breed guide: fracture risk and prevention, dental disease management, cold sensitivity, health conditions, and what realistic ownership of this fragile toy breed looks like."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Toy" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "7–14 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "14–15 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "30–45 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Very Low" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate–Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Older kids only" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Cautiously yes" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Toy"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "7–14 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "14–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "30–45 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Very Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate–Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Older kids only"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Cautiously yes"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Italian_Greyhound_standing_gray_%28cropped%29.jpg/330px-Italian_Greyhound_standing_gray_%28cropped%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2742dc64-a83d-4267-88eb-6d931d5b95eb.png?v=1777528740",
       "alt": "Italian Greyhound"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is an Italian Greyhound?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Italian Greyhound is a miniaturized sighthound — a true Greyhound in a 7–14 lb body, with the same arched back, deep chest, tucked-up waist, and explosive sprinting ability of its larger cousins. Evidence of small companion sighthounds appears in ancient Mediterranean art, and they were beloved lap dogs of European royalty for centuries. They are not a recent designer creation; this is an ancient breed refined over millennia for companionship.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">What they offer: an elegant, deeply affectionate, low-shedding companion with a long lifespan (14–15 years), minimal coat maintenance, and a snuggling intensity that makes them exceptional at their core purpose — being a warm, present companion. They are sensitive, gentle dogs that bond closely with their family.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">What you need to know before committing: the fine, slender bones of the Italian Greyhound are genuinely fragile. Leg fractures — particularly from jumping off furniture — are a common, expensive, and sometimes repeated occurrence in the breed. This is not an exaggeration or a cautionary edge case; it's a structural reality. Ramps and steps to furniture, and training the dog not to leap from height, are management tools that every IG owner needs. Dental disease is equally endemic and requires daily brushing to delay the inevitable tooth loss that affects many IGs.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Italian Greyhounds Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Miniature sighthound conformation: arched back, deep narrow chest, tucked abdomen, long slender legs, and a narrow elongated head with a fine muzzle. Weight 7–14 lbs; height 13–15 inches at the shoulder. Despite the small size, this is a structurally athletic dog that can run at impressive speeds for short bursts.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The coat is short, fine, and single-layered — essentially no undercoat. Colors include a wide range: gray (all shades), fawn, red, blue, cream, and pied combinations. Shedding is minimal. The coat provides virtually no insulation, which is why IGs are sensitive to cold and often seen in dog sweaters — this is not fashion, it's practicality. A shivering Italian Greyhound is a genuinely cold dog, not an anxious one.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Affectionate, sensitive, and deeply bonded to their person. Italian Greyhounds gravitate toward warmth — literal warmth, from sun patches, heating vents, and laps — and the emotional warmth of their primary companion. They are not independent dogs; they want contact and proximity.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The sensitivity extends to their training. Italian Greyhounds respond poorly to harsh corrections — they can become shut down, anxious, or simply ignore you. Positive reinforcement with patience is the only productive approach. There is a stubborn streak: IGs know what they want and will demonstrate that they don't agree with your instructions. This requires patience, not force.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With children: not recommended with young children. The fragility of the breed and the activity level of young children is a poor combination — accidental kicks, falls, or rough handling can fracture a leg. Households with gentle older children can work well. With other dogs: generally good with other small dogs and other IGs. They should not be in households with large boisterous dogs for safety reasons.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About an Italian Greyhound",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Italian Greyhounds are genuinely excellent for the right household. They're affectionate, long-lived, nearly odorless, minimal shedders, and content with moderate exercise. In a calm household with adults or older children, they are exceptional companions. The 14–15 year lifespan means a long, deep relationship.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">I want to be direct about the fracture risk because it's undersold in a lot of breed descriptions. A leg fracture in an Italian Greyhound is not an unlikely worst-case scenario — it's something a meaningful percentage of owners experience. Jumping off a couch or bed is the most common cause. The repair costs $2,000–$5,000 and sometimes requires specialist orthopedic surgery. The prevention — low furniture ramps, training not to jump from height, keeping the dog off tall beds and couches without an exit route — is entirely achievable, but you have to be consistent about it.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The dental situation is similar — not optional. Daily brushing from puppyhood delays the tooth loss that otherwise affects many IGs significantly by middle age. Budget for annual professional dental cleanings as well. These two things — fractures and dental disease — are the defining management responsibilities of owning an Italian Greyhound.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate — 30–45 minutes daily is typically sufficient for physical needs. IGs are sprinters: short, intense bursts of speed followed by long rest periods. A safe, fenced area for off-leash sprinting is ideal. Note: IGs can reach 25 mph and will not stop for traffic. Never off-leash in unfenced areas.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Coat is minimal — rubber mitt weekly, ear checks weekly, nail trims regularly. The primary grooming task is dental care: daily tooth brushing with dog-safe toothpaste to delay severe dental disease. Annual professional dental cleanings at the vet. Cold-weather clothing is practical, not optional for outdoor time in cold climates. See the <a href=\"/blogs/dog-breeds/italian-greyhound-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Italian Greyhound grooming guide</a>.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Fracture Prevention</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Install low ramps or pet stairs to furniture the dog has access to. Train the dog not to leap from high surfaces. Keep them off beds and couches that don't have a low, safe exit route. This is the most important management responsibility for an IG owner.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Italian Greyhounds are long-lived but come with two near-universal management concerns: fractures and dental disease. Both are manageable with preventive effort.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Bone Fractures</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The slender, fine bone structure of the Italian Greyhound fractures easily — particularly the radius and ulna (foreleg) from landing impacts. Jumping from furniture is the most common cause. Repair costs $2,000–$5,000 and may require specialist orthopedic surgery. Prevention through ramps and training is essential. Pet insurance before the first vet visit covers this cost.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Dental Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Severe dental disease and early tooth loss are endemic in Italian Greyhounds. The small jaw and crowded teeth accumulate tartar rapidly. Daily brushing delays progression significantly. Professional cleanings under anesthesia — $300–$600 per session — are required annually. Without diligent care, many IGs lose most of their teeth by middle age.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Patellar Luxation</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Slipping kneecap — common in small breeds. Severity varies from Grade 1 (occasional skip in gait) to Grade 4 (requires surgical correction). OFA patellar evaluation available from breeders.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Epilepsy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Seizure disorders occur in the breed. Managed with medication when necessary. Know the signs and discuss with your vet if you observe unusual episodes.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Legg-Calvé-Perthes</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Degeneration of the femoral head — more common in small breeds. Causes lameness and pain; surgical correction (femoral head ostectomy) is typically successful.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Underactive thyroid — manageable with daily medication.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Color Dilution Alopecia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Hair loss and skin changes associated with dilute coat colors (blue, fawn). Manageable cosmetically; not life-threatening.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA patellar clearance, CAER eye exam. Enroll in pet insurance before the first vet visit — fracture repair is the primary financial risk.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,200–$3,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (small breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Dental cleanings (annual)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Ramps, jackets, setup</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$50–$150</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Fracture repair (if it occurs)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$2,000–$5,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Variable</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total (no fracture)</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,500–$5,500</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,100–$2,200</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">Fracture repair ($2,000–$5,000) is a realistic risk, not a worst-case scenario. Pet insurance before the first vet visit is the most important financial decision for an IG owner. See the <a href=\"/blogs/dog-breeds/italian-greyhound-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is an Italian Greyhound Right for You?",
@@ -92,25 +121,50 @@
         "Cold-climate owners who won't accommodate warm clothing needs"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Italian Greyhound",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,200–$3,000 from reputable breeders. Health clearances: OFA patellar evaluation, CAER eye exam. The Italian Greyhound Club of America maintains a breeder referral directory. Discuss the family's health history for fractures and epilepsy with any prospective breeder.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Italian Greyhound rescue organizations are active. Surrenders often come from households that weren't prepared for the fragility management or the dental care requirements. Experienced, patient households are good rescue candidates.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your IG comes home, complete the <a href=\"/blogs/dog-breeds/italian-greyhound-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Italian Greyhound puppy checklist</a> — ramp installation and pet insurance enrollment are the two most important pre-arrival tasks.</p>"
     }
   },
-
   "faq": [
-    { "q": "Do Italian Greyhounds break their legs often?", "a": "More often than owners expect. Leg fractures — especially of the radius and ulna — are one of the most common injuries in Italian Greyhounds, typically caused by jumping from furniture or being stepped on. Repair costs $2,000–$5,000 and requires specialist orthopedic care. Prevention is possible through ramp installation, training the dog not to jump from height, and careful management. Pet insurance before the first vet visit covers this cost." },
-    { "q": "Why do Italian Greyhounds need dental care so urgently?", "a": "The small jaw, crowded teeth, and specific dental anatomy of the breed create conditions where tartar accumulates rapidly and dental disease progresses severely. Without consistent home brushing and annual professional cleanings, many IGs lose most of their teeth by middle age. This is painful and affects their ability to eat. Daily brushing from puppyhood — using dog-safe toothpaste and building it as a routine from the first week — is the primary preventive measure." },
-    { "q": "How cold-sensitive are Italian Greyhounds?", "a": "Significantly. The thin single coat provides almost no insulation. IGs will shiver in temperatures that wouldn't bother most breeds. A dog jacket or sweater for outdoor time below 50°F is practical, not cosmetic. Inside, IGs seek out warmth sources — sun patches, heating vents, under blankets. This is normal breed behavior." },
-    { "q": "Are Italian Greyhounds good with children?", "a": "With gentle, older children — yes. With toddlers or young children who run, grab, and play roughly — the fracture risk is too real. Even well-intentioned small children can accidentally kick or land on an IG, with potentially serious injury. Most Italian Greyhound breeders and rescue organizations prefer households with children over 8–10 years old." }
+    {
+      "q": "Do Italian Greyhounds break their legs often?",
+      "a": "More often than owners expect. Leg fractures — especially of the radius and ulna — are one of the most common injuries in Italian Greyhounds, typically caused by jumping from furniture or being stepped on. Repair costs $2,000–$5,000 and requires specialist orthopedic care. Prevention is possible through ramp installation, training the dog not to jump from height, and careful management. Pet insurance before the first vet visit covers this cost."
+    },
+    {
+      "q": "Why do Italian Greyhounds need dental care so urgently?",
+      "a": "The small jaw, crowded teeth, and specific dental anatomy of the breed create conditions where tartar accumulates rapidly and dental disease progresses severely. Without consistent home brushing and annual professional cleanings, many IGs lose most of their teeth by middle age. This is painful and affects their ability to eat. Daily brushing from puppyhood — using dog-safe toothpaste and building it as a routine from the first week — is the primary preventive measure."
+    },
+    {
+      "q": "How cold-sensitive are Italian Greyhounds?",
+      "a": "Significantly. The thin single coat provides almost no insulation. IGs will shiver in temperatures that wouldn't bother most breeds. A dog jacket or sweater for outdoor time below 50°F is practical, not cosmetic. Inside, IGs seek out warmth sources — sun patches, heating vents, under blankets. This is normal breed behavior."
+    },
+    {
+      "q": "Are Italian Greyhounds good with children?",
+      "a": "With gentle, older children — yes. With toddlers or young children who run, grab, and play roughly — the fracture risk is too real. Even well-intentioned small children can accidentally kick or land on an IG, with potentially serious injury. Most Italian Greyhound breeders and rescue organizations prefer households with children over 8–10 years old."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Whippet", "slug": "whippet", "note": "Larger sighthound, same athletic grace, more robust and durable"},
-    {"name": "Greyhound", "slug": "greyhound", "note": "The full-size version, surprisingly calm indoors, great for adopting ex-racers"},
-    {"name": "Miniature Pinscher", "slug": "miniature-pinscher", "note": "Similar small size and short coat, more assertive and toy-group personality"},
-    {"name": "Chihuahua", "slug": "chihuahua", "note": "Comparable size range, also fragile, more outgoing personality"}
+    {
+      "name": "Whippet",
+      "slug": "whippet",
+      "note": "Larger sighthound, same athletic grace, more robust and durable"
+    },
+    {
+      "name": "Greyhound",
+      "slug": "greyhound",
+      "note": "The full-size version, surprisingly calm indoors, great for adopting ex-racers"
+    },
+    {
+      "name": "Miniature Pinscher",
+      "slug": "miniature-pinscher",
+      "note": "Similar small size and short coat, more assertive and toy-group personality"
+    },
+    {
+      "name": "Chihuahua",
+      "slug": "chihuahua",
+      "note": "Comparable size range, also fragile, more outgoing personality"
+    }
   ]
 }

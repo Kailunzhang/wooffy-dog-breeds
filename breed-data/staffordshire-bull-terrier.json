@@ -6,74 +6,103 @@
     "group": "Terrier Group",
     "size_category": "Medium Breed",
     "tagline": "The Staffordshire Bull Terrier is an intensely people-oriented, sturdy, and enthusiastic breed that earned the nickname 'nanny dog' in the UK for its devotion to children. They carry specific DNA-testable conditions and may face breed-specific legislation in your area.",
-    "tags": ["terrier-group", "medium-breed", "family-dog", "low-shedding", "bsl", "dog-breeds"],
+    "tags": [
+      "terrier-group",
+      "medium-breed",
+      "family-dog",
+      "low-shedding",
+      "bsl",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "The Stafford is one of the most devoted family breeds in existence — loving, sturdy, and enthusiastic. They require HC and L2HGA DNA tests from both parents. Verify breed-specific legislation in your jurisdiction before purchase, as BSL may apply.",
     "meta_description": "Staffordshire Bull Terrier breed guide: nanny dog reputation, family temperament, HC/L2HGA DNA tests required, BSL considerations, grooming requirements, and honest ownership expectations."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "24–38 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–14 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "45–60 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Very Low" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With research" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "24–38 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "45–60 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Very Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Excellent"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "With research"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%D7%A1%D7%90%D7%98%D7%A3_%D7%90%D7%A0%D7%92%D7%9C%D7%99.jpg/330px-%D7%A1%D7%90%D7%98%D7%A3_%D7%90%D7%A0%D7%92%D7%9C%D7%99.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_11331cad-481a-46b7-8dc4-187ee46be50b.png?v=1777531874",
       "alt": "Staffordshire Bull Terrier"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Staffordshire Bull Terrier?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Staffordshire Bull Terrier is a compact, muscular terrier from the English Midlands, developed in the 19th century from Bulldog and terrier crosses. The breed's working origins are in bull-baiting and later dog fighting — but the temperament that emerged from those uses was the opposite of aggression toward people: a dog that had to be handled, broken apart in fights, and managed closely by humans developed an intense bond with people and particular gentleness toward children.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The \"nanny dog\" nickname isn't marketing — it's a long-standing description in the UK that reflects the Stafford's genuine character with family, especially children. They are energetic, devoted, and physically enthusiastic in their affection in a way that can knock over small children simply from joy.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Two important practical notes: First, all Staffords should be DNA tested for Hereditary Cataracts (HC) and L-2-Hydroxyglutaric Aciduria (L2HGA) — both parents must be clear. Second, Breed Specific Legislation (BSL) applies to Staffords or similar-looking dogs in certain jurisdictions, including some countries outright. Check your local laws before purchasing.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Staffordshire Bull Terriers Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A compact, muscular dog with a broad skull, defined cheek muscles, strong jaw, and a smooth, short coat. Despite the powerful build, Staffords are medium-sized — males 24–38 lbs and 14–16 inches at the shoulder. The body is square and well-muscled without being bulky.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Colors include red, fawn, white, black, blue, brindle, and any combination with white. The short, smooth coat is the breed's grooming advantage — virtually maintenance-free. The rose or half-pricked ears and the characteristic broad forehead give the breed an alert, engaged expression.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family: intensely devoted, physically affectionate, and socially hungry. Staffords want to be with their people at all times. They are not aloof, not independent in the spitz or sighthound sense — they are actively oriented toward human contact and suffer genuinely from extended isolation.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With children: the nanny dog reputation holds. Well-socialized Staffords are typically patient, gentle, and playful with children in their family. Supervision is always appropriate with any dog and any child, but Staffords are among the breeds specifically noted for tolerance of child handling.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With other dogs: this is where caution is required. Adult Staffords — particularly intact males — can be dog-selective or dog-aggressive. Early socialization helps but does not eliminate the tendency entirely. They are often fine with dogs they know well and trickier with unfamiliar dogs. Dog parks are a managed risk with this breed, not a given.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Stafford",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Staffordshire Bull Terrier is genuinely misrepresented in public discourse. The actual temperament of a well-bred Stafford toward humans — including children — is among the most reliably affectionate in the terrier group. They are not the threat their appearance suggests to people unfamiliar with the breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The real requirements: get the DNA tests. HC (Hereditary Cataracts) and L2HGA (a metabolic neurological disease) are DNA-testable, and responsible Stafford breeders screen both parents. This is a non-negotiable ask. Any breeder who hasn't tested both parents or cannot produce documentation is not a breeder to buy from.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The BSL issue is practical and immediate: verify your local laws before you purchase. In some countries (Australia, parts of Canada, some US municipalities), Staffords or dogs perceived to look like them may be restricted or prohibited. Buying a dog into a jurisdiction that will require you to surrender or relocate it is a foreseeable harm to the dog.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">45–60 minutes daily. Staffords have real energy but are not the endurance athletes that some other terriers are. Daily walks, play sessions, and games of fetch are appropriate. A securely fenced yard for off-leash play is ideal; recall can be unreliable when something interesting is happening.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Minimal — a rubber grooming mitt once a week removes loose hair and stimulates the coat. Nail trims every 3–4 weeks; ear checks for debris. No professional grooming required. See the <a href=\"/blogs/dog-breeds/staffordshire-bull-terrier-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Stafford grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Staffords are people-oriented enough that training is more accessible than with more independent terriers. They respond to positive reinforcement and are genuinely motivated to engage with their owners. Puppy class from 8–10 weeks for socialization is important; basic obedience is accessible with consistent positive methods.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Staffords generally live 12–14 years. Two DNA-testable conditions are the critical screening items. Both conditions are fully preventable by testing — only buy from tested, clear parents.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hereditary Cataracts (HC)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">An inherited form of cataracts specific to the breed that causes premature lens clouding and vision loss. DNA test available; both parents must test clear. A Stafford from two clear parents cannot be affected.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">L-2-Hydroxyglutaric Aciduria (L2HGA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">A metabolic disease affecting the nervous system — causes seizures, behavioral changes, and progressive neurological deterioration. No treatment. DNA test available; both parents must test clear. Completely avoidable by buying from tested-clear breeding pairs.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint. Less severe on average than in larger breeds but worth screening. OFA clearances available from reputable breeders.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> HC DNA test (both parents clear), L2HGA DNA test (both parents clear), OFA hip clearance. These are non-negotiable.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$2,500–$5,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$550</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$550</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$550</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,900–$7,550</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,050–$1,800</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/staffordshire-bull-terrier-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Stafford first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Staffordshire Bull Terrier Right for You?",
@@ -91,25 +120,50 @@
         "Owners who want an independent dog comfortable being left alone for long hours"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Stafford",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$2,500–$5,000 from reputable breeders. The Staffordshire Bull Terrier Club of America maintains a breeder directory. Required clearances: HC DNA test (both parents clear), L2HGA DNA test (both parents clear), OFA hip. Verify BSL in your area before committing. Any breeder who is not familiar with HC and L2HGA testing should not be trusted for this breed.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Stafford-specific rescues operate in the US, UK, and Australia. Many dogs come from surrendered pets or BSL displacement. Adult rescue Staffords are often well-tempered and benefit enormously from a stable, committed home.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Stafford comes home, complete the <a href=\"/blogs/dog-breeds/staffordshire-bull-terrier-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Stafford puppy checklist</a> — DNA test documentation review, insurance enrollment, and socialization plan are the priority items.</p>"
     }
   },
-
   "faq": [
-    { "q": "Are Staffordshire Bull Terriers dangerous?", "a": "To humans — no, and the characterization is inaccurate. The breed was historically handled closely by humans and is noted for human-directed affection, not aggression. To other dogs — adult Staffords can be dog-selective or dog-aggressive, which requires management. BSL is based on physical appearance, not behavioral data. Well-bred, well-socialized Staffords are among the more reliably human-friendly terrier breeds." },
-    { "q": "What is L2HGA and can it be prevented?", "a": "L-2-Hydroxyglutaric Aciduria is a metabolic disease affecting the nervous system, causing seizures and neurological deterioration. It has no treatment. It is autosomal recessive and completely preventable: a dog from two DNA-tested clear parents cannot be affected. This is why the DNA test is non-negotiable — ask for documentation from both parents, not just the sire." },
-    { "q": "What BSL applies to Staffordshire Bull Terriers?", "a": "BSL varies by country, state, and municipality. The UK, Australia, and parts of Europe have restrictions or bans on breeds perceived as 'pit bull type,' which may or may not include Staffords depending on the jurisdiction and the enforcement interpretation. In the US, some cities have breed-specific ordinances. Check your local government's laws specifically before purchasing — this is a practical, legal necessity." },
-    { "q": "How are Staffords with small children?", "a": "Generally excellent — the nanny dog nickname reflects a real trait. Staffords are typically patient, tolerant, and playful with children in their household. Supervision is always appropriate with any dog and young children. The main physical risk is the dog's enthusiasm and energy knocking over a toddler — not aggression, just exuberance at 35+ lbs." }
+    {
+      "q": "Are Staffordshire Bull Terriers dangerous?",
+      "a": "To humans — no, and the characterization is inaccurate. The breed was historically handled closely by humans and is noted for human-directed affection, not aggression. To other dogs — adult Staffords can be dog-selective or dog-aggressive, which requires management. BSL is based on physical appearance, not behavioral data. Well-bred, well-socialized Staffords are among the more reliably human-friendly terrier breeds."
+    },
+    {
+      "q": "What is L2HGA and can it be prevented?",
+      "a": "L-2-Hydroxyglutaric Aciduria is a metabolic disease affecting the nervous system, causing seizures and neurological deterioration. It has no treatment. It is autosomal recessive and completely preventable: a dog from two DNA-tested clear parents cannot be affected. This is why the DNA test is non-negotiable — ask for documentation from both parents, not just the sire."
+    },
+    {
+      "q": "What BSL applies to Staffordshire Bull Terriers?",
+      "a": "BSL varies by country, state, and municipality. The UK, Australia, and parts of Europe have restrictions or bans on breeds perceived as 'pit bull type,' which may or may not include Staffords depending on the jurisdiction and the enforcement interpretation. In the US, some cities have breed-specific ordinances. Check your local government's laws specifically before purchasing — this is a practical, legal necessity."
+    },
+    {
+      "q": "How are Staffords with small children?",
+      "a": "Generally excellent — the nanny dog nickname reflects a real trait. Staffords are typically patient, tolerant, and playful with children in their household. Supervision is always appropriate with any dog and young children. The main physical risk is the dog's enthusiasm and energy knocking over a toddler — not aggression, just exuberance at 35+ lbs."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Bull Terrier", "slug": "bull-terrier", "note": "Larger terrier relative, oval-skull profile, similar people-oriented temperament"},
-    {"name": "American Staffordshire Terrier", "slug": "american-staffordshire-terrier", "note": "American cousin, larger and heavier, same working origins"},
-    {"name": "Boxer", "slug": "boxer", "note": "Different group but similar enthusiastic, family-oriented, people-loving temperament"},
-    {"name": "American Pit Bull Terrier", "slug": "american-pit-bull-terrier", "note": "Related breed type, UKC recognized, similar temperament profile and BSL concerns"}
+    {
+      "name": "Bull Terrier",
+      "slug": "bull-terrier",
+      "note": "Larger terrier relative, oval-skull profile, similar people-oriented temperament"
+    },
+    {
+      "name": "American Staffordshire Terrier",
+      "slug": "american-staffordshire-terrier",
+      "note": "American cousin, larger and heavier, same working origins"
+    },
+    {
+      "name": "Boxer",
+      "slug": "boxer",
+      "note": "Different group but similar enthusiastic, family-oriented, people-loving temperament"
+    },
+    {
+      "name": "American Pit Bull Terrier",
+      "slug": "american-pit-bull-terrier",
+      "note": "Related breed type, UKC recognized, similar temperament profile and BSL concerns"
+    }
   ]
 }

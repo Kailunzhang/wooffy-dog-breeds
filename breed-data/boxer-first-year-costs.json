@@ -5,20 +5,24 @@
     "shopify_handle": "boxer-first-year-costs",
     "group": "Boxer",
     "size_category": "Guide",
-    "tags": ["boxer", "cost", "budget", "first-year", "cancer-risk"],
+    "tags": [
+      "boxer",
+      "cost",
+      "budget",
+      "first-year",
+      "cancer-risk"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Boxers cost $2,700–$5,400 in the first year. The insurance priority is real: Boxers have one of the highest cancer rates of any breed, and the ongoing heart monitoring for ARVC adds a breed-specific cost.",
     "meta_description": "Boxer first year costs: puppy price, food and vet costs for a medium-large breed, pet insurance rationale given the cancer statistics, and ARVC cardiac monitoring costs."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Male_fawn_Boxer_undocked.jpg/330px-Male_fawn_Boxer_undocked.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_16bc1e25-af0c-4b70-91dc-28a654119c49.png?v=1777526434",
       "alt": "Boxer first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>Boxers live 10–12 years — a reasonable lifespan for a medium-large breed. The health costs depend significantly on whether cancer develops and how aggressively it's treated.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, minimal health interventions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$22,000–$35,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate health issues (mast cell removal, ARVC monitoring)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$28,000–$42,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant cancer treatment</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$38,000–$60,000+</td></tr></tbody></table>"
     }
   },
-
   "faq": [
     {
       "q": "How much does a Boxer puppy cost?",

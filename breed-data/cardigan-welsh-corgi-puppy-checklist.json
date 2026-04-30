@@ -5,20 +5,24 @@
     "shopify_handle": "cardigan-welsh-corgi-puppy-checklist",
     "group": "Cardigan Welsh Corgi",
     "size_category": "Guide",
-    "tags": ["cardigan-welsh-corgi", "puppy", "checklist", "IVDD-prevention", "ramps"],
+    "tags": [
+      "cardigan-welsh-corgi",
+      "puppy",
+      "checklist",
+      "IVDD-prevention",
+      "ramps"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Everything you need before your Cardigan Welsh Corgi puppy comes home — including the IVDD prevention setup and PRA documentation that are specific to this breed.",
     "meta_description": "Cardigan Welsh Corgi puppy checklist: IVDD prevention ramps and setup, PRA DNA test verification, socialization priorities, weight management from puppyhood, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cardigan_Welsh_Corgi%2C_Profile.png/250px-Cardigan_Welsh_Corgi%2C_Profile.png",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_e68fcfef-39a1-4be8-b56b-ce5774fbc56c.png?v=1777526792",
       "alt": "Cardigan Welsh Corgi puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Training: Cardigans Are Very Trainable</h3><p>Cardigan Welsh Corgis are intelligent herding dogs that learn quickly and retain well. They respond to positive reinforcement training and generally enjoy the engagement of training sessions. Establish core commands early and maintain consistent rules throughout the household — Cardigans are clever enough to understand different rules apply in different contexts if allowed to learn that.</p><ul><li>Sit, down, stay, come, leave it — establish these from the start</li><li>Loose-leash walking from the first walk — Corgis that pull are uncomfortable to walk</li><li>The ramp rule is a training exercise: puppy learns to use the ramp rather than jumping</li></ul><h3>Herding Instinct Management</h3><p>Cardigans have herding instincts that may appear as nipping at heels, chasing, or attempting to herd children or other pets. Redirect to toys consistently from puppyhood. This behavior is manageable with early redirection and consistent training.</p><h3>Exercise Rules for Puppies</h3><p>Follow the 5-minutes-per-month-of-age guideline for leash walks. Avoid repetitive jumping, stair bounding, or high-impact activities during the growth period — growth plates close around 12 months, and the long-backed structure has additional spinal vulnerability that warrants conservative exercise management during growth.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Do Cardigan Welsh Corgis need ramps from puppyhood?",

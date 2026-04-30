@@ -5,14 +5,21 @@
     "shopify_handle": "siberian-husky-puppy-checklist",
     "group": "Siberian Husky",
     "size_category": "Guide",
-    "tags": ["siberian-husky", "puppy", "checklist", "new-owner", "preparation", "dog-breeds"],
+    "tags": [
+      "siberian-husky",
+      "puppy",
+      "checklist",
+      "new-owner",
+      "preparation",
+      "dog-breeds"
+    ],
     "published": true,
     "excerpt": "Husky puppy prep has one non-negotiable before everything else: verify and upgrade your fencing. An escaped Husky is both a safety problem and a liability.",
     "meta_description": "Siberian Husky puppy checklist: fencing verification, supplies, first-week plan, exercise limits for puppies, and what to discuss at the first vet visit."
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Husky_L.jpg/330px-Husky_L.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9cfd1cd8-0976-40ce-8a43-d0562ec7d96d.png?v=1777531634",
       "alt": "Siberian Husky"
     }
   },
@@ -34,9 +41,21 @@
     }
   },
   "faq": [
-    { "q": "What kind of harness should I use for a Siberian Husky?", "a": "A properly fitting escape-proof harness — specifically one the dog can't back out of. Huskies are known for slipping standard harnesses. Look for a Y-front design (not one with a piece across the chest) with a snug fit at the neck and girth. Check the fit every few weeks as puppies grow rapidly." },
-    { "q": "Can Husky puppies be left alone?", "a": "Only briefly. Huskies are pack animals; isolation leads to howling, destructive behavior, and anxiety. A puppy can be alone 1–2 hours maximum. For working owners, a dog walker, doggy daycare, or a household member home during the day is necessary. Two Huskies together is a common solution — they keep each other company, though it also doubles all the other challenges." },
-    { "q": "My Husky puppy is howling all night. Is this normal?", "a": "Normal for the first 1–3 weeks in a new home. Huskies are vocal by nature and separation distress is real for pack animals. Consistency with crate training is the fastest resolution — checking on the puppy when they howl extends the behavior. Placing the crate near your bed, covering it with a blanket, and putting a worn piece of clothing inside all help. This resolves significantly with time and routine." },
-    { "q": "At what age can I start running with my Husky?", "a": "After growth plates close — typically around 12–18 months. Before that, short gentle walks are appropriate; sustained running, jumping, and rough play on hard surfaces can stress developing joints. After 18 months, Huskies are built to run and will happily become excellent running or biking partners." }
+    {
+      "q": "What kind of harness should I use for a Siberian Husky?",
+      "a": "A properly fitting escape-proof harness — specifically one the dog can't back out of. Huskies are known for slipping standard harnesses. Look for a Y-front design (not one with a piece across the chest) with a snug fit at the neck and girth. Check the fit every few weeks as puppies grow rapidly."
+    },
+    {
+      "q": "Can Husky puppies be left alone?",
+      "a": "Only briefly. Huskies are pack animals; isolation leads to howling, destructive behavior, and anxiety. A puppy can be alone 1–2 hours maximum. For working owners, a dog walker, doggy daycare, or a household member home during the day is necessary. Two Huskies together is a common solution — they keep each other company, though it also doubles all the other challenges."
+    },
+    {
+      "q": "My Husky puppy is howling all night. Is this normal?",
+      "a": "Normal for the first 1–3 weeks in a new home. Huskies are vocal by nature and separation distress is real for pack animals. Consistency with crate training is the fastest resolution — checking on the puppy when they howl extends the behavior. Placing the crate near your bed, covering it with a blanket, and putting a worn piece of clothing inside all help. This resolves significantly with time and routine."
+    },
+    {
+      "q": "At what age can I start running with my Husky?",
+      "a": "After growth plates close — typically around 12–18 months. Before that, short gentle walks are appropriate; sustained running, jumping, and rough play on hard surfaces can stress developing joints. After 18 months, Huskies are built to run and will happily become excellent running or biking partners."
+    }
   ]
 }

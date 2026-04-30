@@ -5,20 +5,24 @@
     "shopify_handle": "doberman-pinscher-puppy-checklist",
     "group": "Doberman Pinscher",
     "size_category": "Guide",
-    "tags": ["doberman-pinscher", "puppy", "checklist", "large-breed", "training-priorities"],
+    "tags": [
+      "doberman-pinscher",
+      "puppy",
+      "checklist",
+      "large-breed",
+      "training-priorities"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Everything you need before your Doberman puppy comes home — with a clear emphasis on why training from day one is non-negotiable for this breed.",
     "meta_description": "Doberman Pinscher puppy checklist: essential gear for a large breed, first vet visit priorities, socialization during the critical window, and training plan for year one."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dobermann_handling.jpg/330px-Dobermann_handling.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_7c68cb65-68ac-4400-b300-2dda63f02423.png?v=1777527466",
       "alt": "Doberman Pinscher puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<p>Dobermans are exceptionally trainable — but they require real, consistent training. They learn fast, which means they learn bad habits as quickly as good ones. An untrained adolescent Doberman is genuinely difficult to manage. The first year's training investment pays dividends for the next decade.</p><h3>Year One Training Roadmap</h3><ol><li><strong>Puppy class (8–12 weeks):</strong> Socialization + basic manners. Choose a positive reinforcement-based trainer who has experience with large breeds.</li><li><strong>Basic obedience (3–6 months):</strong> Sit, down, stay, come, leave it, heel. Practice in multiple environments, not just at home.</li><li><strong>Adolescent training (6–18 months):</strong> This is the testing phase — Dobermans push boundaries in adolescence. Consistent, clear rules and daily training sessions prevent the teenage regression common in the breed.</li><li><strong>Advanced training or sport (optional, highly recommended):</strong> Obedience trials, Schutzhund/IPO, agility, or tracking. Dobermans excel at virtually every dog sport. Channeling drive into sport produces exceptionally well-balanced adults.</li></ol><h3>Trainer Selection</h3><p>Choose a trainer with specific experience with Dobermans or other working breeds. Avoid trainers who rely on punishment or harsh corrections — Dobermans trained with fear-based methods can become unpredictable. Positive reinforcement with clear, consistent boundaries is the gold standard.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Are Doberman puppies hard to raise?",

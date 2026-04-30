@@ -5,20 +5,24 @@
     "shopify_handle": "old-english-sheepdog-puppy-checklist",
     "group": "Old English Sheepdog",
     "size_category": "Guide",
-    "tags": ["old-english-sheepdog", "puppy", "checklist", "grooming-budget", "professional-groomer"],
+    "tags": [
+      "old-english-sheepdog",
+      "puppy",
+      "checklist",
+      "grooming-budget",
+      "professional-groomer"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "Everything you need before your Old English Sheepdog puppy comes home — starting with finding a professional groomer and establishing a daily brushing routine from day one.",
     "meta_description": "Old English Sheepdog puppy checklist: finding a professional groomer before puppy arrives, daily grooming routine setup, face care, hip dysplasia awareness, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Old_English_Sheepdog_%28side%29.jpg/330px-Old_English_Sheepdog_%28side%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_0b8acc8b-85f3-4932-9681-38fbdc1b51c0.png?v=1777530238",
       "alt": "Old English Sheepdog puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Training the OES</h3><p>Old English Sheepdogs are intelligent, trainable dogs with a reputation for being boisterous and enthusiastic as puppies. They respond well to positive reinforcement. Channel their enthusiasm into training from puppyhood — an untrained large dog that jumps and mouths is difficult to manage regardless of the breed's gentle nature.</p><ul><li>Puppy class at 8–10 weeks</li><li>Core commands early: sit, down, stay, come, leave it</li><li>No jumping — cute at 15 lbs, genuinely unsafe at 65+ lbs</li><li>Loose-leash walking from the first walk</li></ul><h3>Face Coat Care: Daily Requirement</h3><p>The hair over the OES eyes requires daily management. Left unmanaged:</p><ul><li>Long facial hair touches the cornea and causes chronic eye irritation</li><li>Moisture from water and food accumulates on the muzzle and causes skin fold dermatitis</li><li>The face coat mats rapidly without daily attention</li></ul><p>Daily face care for an OES puppy:</p><ul><li>Wipe around the eyes with a soft damp cloth to remove discharge and debris</li><li>Check the muzzle hair after eating and drinking — wipe if damp</li><li>Brush or clip the hair away from the eye area</li><li>Many OES owners clip the face hair short as a practical measure even when keeping the body coat long</li></ul><h3>Exercise Rules for Puppies</h3><p>Follow the 5-minutes-per-month-of-age guideline for structured exercise. Growth plates close around 18 months for large breeds — no forced running, jumping, or stair climbing before then. OES are moderately active adults; they need daily exercise but are not high-intensity working dogs.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How do I find a professional groomer for an Old English Sheepdog?",

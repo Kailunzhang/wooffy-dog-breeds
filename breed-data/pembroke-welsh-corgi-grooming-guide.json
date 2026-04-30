@@ -5,14 +5,20 @@
     "shopify_handle": "pembroke-welsh-corgi-grooming-guide",
     "group": "Pembroke Welsh Corgi",
     "size_category": "Guide",
-    "tags": ["pembroke-welsh-corgi", "grooming", "shedding", "double-coat", "dog-breeds"],
+    "tags": [
+      "pembroke-welsh-corgi",
+      "grooming",
+      "shedding",
+      "double-coat",
+      "dog-breeds"
+    ],
     "published": true,
     "excerpt": "Corgis shed more than most small dogs — the double coat blows twice yearly. Here's the complete routine for managing a Corgi's coat.",
     "meta_description": "Pembroke Welsh Corgi grooming guide: managing shedding and coat blow seasons, the right tools for a double coat, and bathing tips."
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Welsh_Pembroke_Corgi.jpg/330px-Welsh_Pembroke_Corgi.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_3c48d927-09a4-407d-8bf0-2d28d2987fcf.png?v=1777530286",
       "alt": "Pembroke Welsh Corgi"
     }
   },
@@ -34,9 +40,21 @@
     }
   },
   "faq": [
-    { "q": "How much do Corgis shed?", "a": "More than you'd expect from a small breed. The dense double coat sheds year-round, with two pronounced seasonal blowouts. Regular brushing (2–3x/week) keeps most loose hair on the brush rather than the furniture. During coat blow season, daily brushing plus a professional deshedding bath is the effective management approach." },
-    { "q": "Should I shave my Corgi in summer?", "a": "No. Like all double-coated breeds, the Corgi's coat serves as insulation in both directions — shaving removes the heat protection as well as the cold protection. The coat texture changes permanently after shaving, and shedding isn't reduced meaningfully. Manage summer heat through shade, water, and exercise timing instead." },
-    { "q": "How often should a Corgi go to a professional groomer?", "a": "At minimum twice a year for a deshedding bath during coat blow season. Beyond that, professional grooming every 6–8 weeks is a nice convenience but not required — Corgis don't need clipping or styling. Many owners handle home grooming entirely, visiting a groomer only at coat blow." },
-    { "q": "Can I use a regular brush on my Corgi?", "a": "A slicker brush is useful but should follow an undercoat rake — it's not sufficient on its own for managing the Corgi's dense undercoat. The undercoat rake is the tool that does the real shedding management work by reaching through the outer coat to pull loose undercoat. Start with the rake, finish with the slicker brush." }
+    {
+      "q": "How much do Corgis shed?",
+      "a": "More than you'd expect from a small breed. The dense double coat sheds year-round, with two pronounced seasonal blowouts. Regular brushing (2–3x/week) keeps most loose hair on the brush rather than the furniture. During coat blow season, daily brushing plus a professional deshedding bath is the effective management approach."
+    },
+    {
+      "q": "Should I shave my Corgi in summer?",
+      "a": "No. Like all double-coated breeds, the Corgi's coat serves as insulation in both directions — shaving removes the heat protection as well as the cold protection. The coat texture changes permanently after shaving, and shedding isn't reduced meaningfully. Manage summer heat through shade, water, and exercise timing instead."
+    },
+    {
+      "q": "How often should a Corgi go to a professional groomer?",
+      "a": "At minimum twice a year for a deshedding bath during coat blow season. Beyond that, professional grooming every 6–8 weeks is a nice convenience but not required — Corgis don't need clipping or styling. Many owners handle home grooming entirely, visiting a groomer only at coat blow."
+    },
+    {
+      "q": "Can I use a regular brush on my Corgi?",
+      "a": "A slicker brush is useful but should follow an undercoat rake — it's not sufficient on its own for managing the Corgi's dense undercoat. The undercoat rake is the tool that does the real shedding management work by reaching through the outer coat to pull loose undercoat. Start with the rake, finish with the slicker brush."
+    }
   ]
 }

@@ -5,20 +5,25 @@
     "shopify_handle": "west-highland-white-terrier-grooming-guide",
     "group": "West Highland White Terrier",
     "size_category": "Guide",
-    "tags": ["westie", "grooming", "double-coat", "white-coat", "hand-stripping", "professional-grooming"],
+    "tags": [
+      "westie",
+      "grooming",
+      "double-coat",
+      "white-coat",
+      "hand-stripping",
+      "professional-grooming"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "The Westie's white double coat requires professional grooming every 6–8 weeks and regular brushing between appointments. Hand-stripping preserves the correct harsh outer coat texture; clipping is easier but softens the coat over time.",
     "meta_description": "West Highland White Terrier grooming guide: clipping vs hand-stripping, white coat maintenance, professional grooming schedule, home brushing routine, and managing atopic dermatitis skin monitoring during grooming."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/West_Highland_White_Terrier_Krakow.jpg/330px-West_Highland_White_Terrier_Krakow.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_5e75affc-4708-4bbf-ae9f-61131b48ebd9.png?v=1777532978",
       "alt": "West Highland White Terrier grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Westie Coat",
@@ -36,7 +41,6 @@
       "html": "<p>Given the very high prevalence of atopic dermatitis in the breed, grooming sessions are the ideal time to check the skin for early signs of irritation. The short-coated belly and inner thighs are often the first areas to show redness.</p><h3>What to Check During Grooming</h3><ul><li>Belly and groin: look for pink or red skin, rash, or papules</li><li>Between the toes: check for redness, swelling, or brown staining (from licking, which is a sign of foot irritation)</li><li>Ear canals: check for redness, odor, or discharge — recurring ear infections in Westies are often atopy-related</li><li>Muzzle and chin: check for redness that might indicate food allergy</li></ul><p>If you notice any of these signs, document them (a phone photo works well) and discuss with your vet. Early atopic dermatitis management is significantly more effective — and less expensive — than treating an established chronic condition.</p><h3>Ear Cleaning</h3><p>Clean the visible ear canal with a dog ear cleaning solution and cotton ball monthly. Never insert anything into the ear canal. The Westie's drop ear and hair in the ear canal reduces airflow — moisture accumulates and creates conditions for infection. If you notice head shaking, ear scratching, odor, or discharge, see your vet promptly.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often do Westies need professional grooming?",

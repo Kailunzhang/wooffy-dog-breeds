@@ -5,20 +5,24 @@
     "shopify_handle": "saluki-grooming-guide",
     "group": "Saluki",
     "size_category": "Guide",
-    "tags": ["saluki", "grooming", "sighthound", "feathered-coat", "low-shedding"],
+    "tags": [
+      "saluki",
+      "grooming",
+      "sighthound",
+      "feathered-coat",
+      "low-shedding"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Saluki grooming is among the easiest of any breed — especially the smooth variety. The feathered coat needs occasional brushing on the silky sections. The real grooming priority is ear and nail care.",
     "meta_description": "Saluki grooming guide: smooth vs feathered coat care, ear maintenance, nail trimming for an active sighthound, and bathing a sensitive breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Red_Smooth_Saluki.jpg/250px-Red_Smooth_Saluki.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ca69e647-1fdf-45b0-ab77-739a5ddac95e.png?v=1777531152",
       "alt": "Saluki grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Saluki Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Salukis are sensitive dogs — sensitive to temperature, sensitive to handling, and sensitive to stress. Grooming sessions that are calm and positive from puppyhood produce dogs that accept handling well. Rushed or rough grooming produces avoidance and anxiety.</p><h3>Cold Sensitivity</h3><p>Salukis have minimal body fat and a thin coat — they get cold in ways most dogs do not. After bathing, dry the dog completely and keep it warm until fully dry. In cold weather, a dog coat or jacket is not excessive for a Saluki on winter walks.</p><h3>Skin Sensitivity</h3><p>Use gentle, dog-appropriate shampoos. Salukis can react to harsh grooming products with dry skin or irritation. If your Saluki develops dry or flaky skin, switch to a moisturizing shampoo and check with your vet — hypothyroidism can manifest as coat and skin changes in this breed.</p><h3>Professional Grooming</h3><p>Most Saluki owners groom at home given the breed's low-maintenance coat. If using a professional groomer, specify clearly: no trimming of feathering beyond tidying split ends, no shaving, gentle handling. The primary professional service useful for Salukis is nail grinding if the owner is not comfortable with nail trims.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How much do Salukis shed?",

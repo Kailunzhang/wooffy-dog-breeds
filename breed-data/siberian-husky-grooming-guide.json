@@ -5,14 +5,20 @@
     "shopify_handle": "siberian-husky-grooming-guide",
     "group": "Siberian Husky",
     "size_category": "Guide",
-    "tags": ["siberian-husky", "grooming", "shedding", "double-coat", "dog-breeds"],
+    "tags": [
+      "siberian-husky",
+      "grooming",
+      "shedding",
+      "double-coat",
+      "dog-breeds"
+    ],
     "published": true,
     "excerpt": "Huskies shed in volumes that impress even experienced dog owners. Here's how to manage it, what tools work, and why shaving is always the wrong answer.",
     "meta_description": "Siberian Husky grooming guide: managing the dramatic twice-yearly coat blow, daily shedding routine, why never to shave a Husky, and bathing tips."
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Husky_L.jpg/330px-Husky_L.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_78ab5242-7ce5-459f-ba7c-4fb48a75deda.png?v=1777531622",
       "alt": "Siberian Husky"
     }
   },
@@ -34,9 +40,21 @@
     }
   },
   "faq": [
-    { "q": "Can I shave my Husky in summer to keep them cool?", "a": "No. This is the most common grooming mistake for Huskies. The double coat actually provides some heat protection through dead-air insulation — shaving it removes this protection and can increase UV exposure and overheating risk. The coat texture changes permanently after shaving. Manage heat exposure through timing (exercise in early morning or evening), shade, water, and air conditioning instead." },
-    { "q": "How often should I brush a Siberian Husky?", "a": "2–3 times per week as a baseline, daily during the twice-yearly coat blow season. Use an undercoat rake as the primary tool. Consistency matters more than session length — 15 minutes three times per week is more effective than an occasional 90-minute marathon." },
-    { "q": "Do Huskies need professional grooming?", "a": "At minimum, twice a year for a professional deshedding bath and high-velocity blow-out during coat blow season. This single appointment removes more loose undercoat than weeks of home brushing. At home, Huskies don't require trimming or styling — just consistent brushing and occasional bathing." },
-    { "q": "Why does my Husky's coat look dull or patchy after shaving?", "a": "Shaving a Husky's double coat causes the outer guard hairs and soft undercoat to grow back at different rates and often at different textures. The coat may not return to its original appearance. This is why grooming professionals and veterinarians consistently advise against shaving double-coated breeds." }
+    {
+      "q": "Can I shave my Husky in summer to keep them cool?",
+      "a": "No. This is the most common grooming mistake for Huskies. The double coat actually provides some heat protection through dead-air insulation — shaving it removes this protection and can increase UV exposure and overheating risk. The coat texture changes permanently after shaving. Manage heat exposure through timing (exercise in early morning or evening), shade, water, and air conditioning instead."
+    },
+    {
+      "q": "How often should I brush a Siberian Husky?",
+      "a": "2–3 times per week as a baseline, daily during the twice-yearly coat blow season. Use an undercoat rake as the primary tool. Consistency matters more than session length — 15 minutes three times per week is more effective than an occasional 90-minute marathon."
+    },
+    {
+      "q": "Do Huskies need professional grooming?",
+      "a": "At minimum, twice a year for a professional deshedding bath and high-velocity blow-out during coat blow season. This single appointment removes more loose undercoat than weeks of home brushing. At home, Huskies don't require trimming or styling — just consistent brushing and occasional bathing."
+    },
+    {
+      "q": "Why does my Husky's coat look dull or patchy after shaving?",
+      "a": "Shaving a Husky's double coat causes the outer guard hairs and soft undercoat to grow back at different rates and often at different textures. The coat may not return to its original appearance. This is why grooming professionals and veterinarians consistently advise against shaving double-coated breeds."
+    }
   ]
 }

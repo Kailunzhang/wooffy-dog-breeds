@@ -6,74 +6,103 @@
     "group": "Sporting Group",
     "size_category": "Medium Breed",
     "tagline": "The English Cocker Spaniel is a cheerful, merry sporting dog that's excellent with families — with one maintenance requirement that matters more than any other: weekly ear cleaning. Skip it and you will have a dog with chronic ear infections.",
-    "tags": ["sporting-group", "medium-breed", "spaniel", "family-dog", "moderate-energy", "dog-breeds"],
+    "tags": [
+      "sporting-group",
+      "medium-breed",
+      "spaniel",
+      "family-dog",
+      "moderate-energy",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "English Cocker Spaniels are genuinely happy, gentle dogs — excellent with families and eager to please. They're different from American Cockers: larger, more field-like in build, with a more moderate head. The practical note that applies to every Cocker owner: weekly ear cleaning is not optional. Floppy ears plus feathering equals chronic ear infections if neglected.",
     "meta_description": "English Cocker Spaniel breed guide: personality, differences from American Cocker Spaniels, ear infection prevention, health conditions including Familial Nephropathy and PRA, and whether an English Cocker fits your household."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "20–34 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–14 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise",  "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Easy" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "20–34 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Excellent"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%22Bill%22_-_Cocker_spaniel_anglais_2.JPG/250px-%22Bill%22_-_Cocker_spaniel_anglais_2.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_214ec750-e929-430a-aab3-f32dd51825f4.png?v=1777527575",
       "alt": "English Cocker Spaniel"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is an English Cocker Spaniel?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The English Cocker Spaniel is an old British flushing spaniel, developed to hunt woodcock and other upland game birds in the dense cover of the English countryside. The breed has a long history — spaniels appear in records going back to the 14th century. The \"Cocker\" name comes from their specialty in hunting woodcock.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The English Cocker is distinct from the American Cocker Spaniel — a separate breed with a notably different appearance. English Cockers are larger, more moderate in head structure, with a longer muzzle and a less exaggerated dome. Show lines and field lines within the breed also differ meaningfully in build and energy level; working-bred Cockers tend to be more athletic and higher-drive than show lines.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">For most families, an English Cocker Spaniel is a genuinely excellent choice: cheerful, affectionate, manageable in size, eager to please, and good with children. The grooming requirement is real — this is a high-maintenance coat — and the ear care is non-negotiable. But for owners prepared for both, the English Cocker delivers consistent, joyful companionship.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What English Cocker Spaniels Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Compact and well-balanced — 15–17 inches at the shoulder, 20–34 lbs. The head is square and refined, with long, low-set ears covered in silky feathering. The coat is silky and flat-lying on the body with long, feathered furnishings on the ears, chest, belly, and legs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Colors are wide-ranging: solid black, liver, red, or golden; blue roan, liver roan, or orange roan (roan = mixture of colored and white hairs); and parti-colored combinations. The expression is soft, intelligent, and characteristically happy. The breed should carry its tail in constant motion when working or playing — the \"merry Cocker\" description refers to this wagging tail quality.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">English Cockers are affectionate, gentle, and genuinely cheerful. They form strong bonds with their family and are typically excellent with children — patient and playful without the overwhelming exuberance of some larger sporting breeds. They are adaptable and do well in active or more moderate households, provided they receive adequate daily exercise.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With strangers, English Cockers are generally friendly — this is not an aloof or protective breed. With other dogs, they are typically sociable. Their spaniel heritage gives them a nose and hunting instinct that shows up as enthusiasm on walks — they'll follow interesting smells eagerly. A reliable recall is worth investing in early.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The \"Rage Syndrome\" mention that sometimes appears in Cocker discussions deserves context: it is an extremely rare, documented condition seen in certain golden and red show-line Cockers (both English and American) characterized by sudden, unprovoked aggression followed by apparent normalcy. It is genuine but uncommon, and a responsible breeder aware of it can discuss their lines. It should not be the first or primary concern when evaluating this breed — temperament overall is gentle and reliable.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About an English Cocker Spaniel",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">English Cockers are excellent family dogs, and I would recommend them to a first-time owner willing to commit to two things: a professional grooming appointment every 6–8 weeks, and a weekly ear cleaning routine. Both are non-negotiable and together define the real cost and time commitment of Cocker ownership.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The ear issue is serious enough to emphasize twice. The long, pendulous ears and the feathered ear canal create an environment where moisture and debris accumulate rapidly. Without consistent weekly cleaning, infections develop — and chronic ear infections in Cockers become painful, expensive, and in severe cases can lead to permanent damage. The cleaning takes five minutes once you're in the habit. It saves hundreds of dollars in vet bills annually.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">For the rest — they are genuinely lovely dogs. Easy to train, genuinely happy animals, good with kids, manageable size. If you want a medium-sized sporting companion that integrates well into family life, the English Cocker is worth serious consideration.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of exercise daily. Walking, hiking, fetch, and free play in a fenced yard are all appropriate. Field-bred Cockers have more drive and need more activity than show-bred lines. They are adaptable to active or moderately active households.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">High-maintenance coat requiring professional grooming every 6–8 weeks. Between appointments: brush the coat 2–3 times per week to prevent matting, especially in the ear feathering and leg furnishings. The most important maintenance task by far is ear cleaning — weekly, every week, without exception. See the <a href=\"/blogs/dog-breeds/english-cocker-spaniel-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">English Cocker grooming guide</a> for the full ear cleaning protocol and coat care routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Easy and enjoyable — English Cockers are eager to please and respond quickly to positive reinforcement. They are sensitive dogs; harsh corrections are unnecessary and counterproductive. A puppy class followed by basic obedience will get you most of what you need. The spaniel nose means recall training takes more consistent work around interesting scents.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">English Cockers are a generally healthy breed with a good lifespan. The most important genetic conditions to screen for are Familial Nephropathy (a serious kidney disease) and PRA — both are DNA testable.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Ear Infections</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The #1 ongoing health issue for this breed. Floppy ears and feathered ear canals trap moisture and debris. Without weekly cleaning, otitis externa (external ear infection) is predictable. Chronic infections can progress to the middle and inner ear. Prevention is entirely within the owner's control.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Familial Nephropathy (FN)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inherited progressive kidney disease that affects young dogs. Affected dogs develop kidney failure typically before age 2. A DNA test is available — buying from two clear parents eliminates the risk. This is a non-negotiable test to require from any breeder.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (PRCD-PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited retinal degeneration leading to blindness. DNA testable. Puppies from two clear parents cannot be affected. Require this documentation from any breeder.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">OFA screening available. Less significant than in larger breeds but still relevant. Ask breeders for clearances.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Adult Onset Neuropathy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Progressive neurological condition affecting working dogs in their middle years. DNA test now available. Ask breeders about their testing status for this condition.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Rage Syndrome</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Extremely rare, documented condition of sudden-onset aggression in certain golden/red show-line dogs. Genetic basis suspected. Ask breeders about temperament history in their lines. Not a common risk but worth asking about in affected-color lines.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> FN DNA test, PRCD-PRA DNA test, OFA hip certification, CAER eye exam, Adult Onset Neuropathy DNA test.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,200–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$550</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$550</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Professional grooming (6–8 week cycle)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,100–$5,950</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,750–$3,000</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">Grooming is the ongoing cost that surprises new Cocker owners most — budget $500–$900/year for professional appointments. See the <a href=\"/blogs/dog-breeds/english-cocker-spaniel-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is an English Cocker Spaniel Right for You?",
@@ -92,24 +121,45 @@
         "Very sedentary owners — they need real daily exercise"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your English Cocker Spaniel",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,200–$2,500 from health-testing breeders. The English Cocker Spaniel Club of America maintains a breeder directory. Required health clearances: FN DNA test (non-negotiable), PRCD-PRA DNA test, OFA hips, CAER eye exam. The FN test is the single most important document to request — do not buy from a breeder who cannot provide clear FN status for both parents.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Show Lines vs. Field Lines</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Working/field-bred English Cockers are more athletic and higher-drive than show-bred lines. For active hunters or very active households, field-bred lines may be a better fit. For family companions, either line works well with adequate exercise.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Cocker comes home, review the <a href=\"/blogs/dog-breeds/english-cocker-spaniel-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">English Cocker puppy checklist</a> — establishing the ear cleaning routine from week one is the single most important habit to build.</p>"
     }
   },
-
   "faq": [
-    { "q": "What is the difference between an English Cocker Spaniel and an American Cocker Spaniel?", "a": "They are separate breeds. English Cockers are larger (20–34 lbs vs. 20–30 lbs), with a longer muzzle, less pronounced skull dome, and less extreme coat furnishings than the American Cocker. The English Cocker is closer in build and drive to its working spaniel heritage. American Cockers have been more heavily selectively bred for show, resulting in more exaggerated features. Both breeds share the ear infection tendency and need consistent ear care." },
-    { "q": "How often do English Cocker Spaniels need professional grooming?", "a": "Every 6–8 weeks for a full clip, tidy, and bath. The coat continues to grow and will mat significantly if left longer than 8 weeks without professional attention. Between appointments, brush 2–3 times per week and check the feathering for tangles and debris from outdoor activity." },
-    { "q": "Why do English Cockers get so many ear infections?", "a": "The combination of long, low-set pendulous ears and feathering in the ear canal creates warm, moist, low-airflow conditions — an ideal environment for bacteria and yeast. Weekly cleaning with a veterinary-recommended ear cleaner removes the debris and moisture before infection can establish. Dogs that swim or get their ears wet frequently may need more frequent cleaning." },
-    { "q": "What is Familial Nephropathy in English Cocker Spaniels?", "a": "A serious inherited kidney disease specific to Cocker Spaniels that causes progressive kidney failure, typically affecting dogs under 2 years old. It is autosomal recessive — a puppy needs two copies of the defective gene to be affected. A DNA test is available that identifies clear, carrier, and affected status. Buying a puppy from two clear parents eliminates the risk entirely. Never buy an English Cocker without this test result." }
+    {
+      "q": "What is the difference between an English Cocker Spaniel and an American Cocker Spaniel?",
+      "a": "They are separate breeds. English Cockers are larger (20–34 lbs vs. 20–30 lbs), with a longer muzzle, less pronounced skull dome, and less extreme coat furnishings than the American Cocker. The English Cocker is closer in build and drive to its working spaniel heritage. American Cockers have been more heavily selectively bred for show, resulting in more exaggerated features. Both breeds share the ear infection tendency and need consistent ear care."
+    },
+    {
+      "q": "How often do English Cocker Spaniels need professional grooming?",
+      "a": "Every 6–8 weeks for a full clip, tidy, and bath. The coat continues to grow and will mat significantly if left longer than 8 weeks without professional attention. Between appointments, brush 2–3 times per week and check the feathering for tangles and debris from outdoor activity."
+    },
+    {
+      "q": "Why do English Cockers get so many ear infections?",
+      "a": "The combination of long, low-set pendulous ears and feathering in the ear canal creates warm, moist, low-airflow conditions — an ideal environment for bacteria and yeast. Weekly cleaning with a veterinary-recommended ear cleaner removes the debris and moisture before infection can establish. Dogs that swim or get their ears wet frequently may need more frequent cleaning."
+    },
+    {
+      "q": "What is Familial Nephropathy in English Cocker Spaniels?",
+      "a": "A serious inherited kidney disease specific to Cocker Spaniels that causes progressive kidney failure, typically affecting dogs under 2 years old. It is autosomal recessive — a puppy needs two copies of the defective gene to be affected. A DNA test is available that identifies clear, carrier, and affected status. Buying a puppy from two clear parents eliminates the risk entirely. Never buy an English Cocker without this test result."
+    }
   ],
-
   "related_breeds": [
-    {"name": "American Cocker Spaniel", "slug": "american-cocker-spaniel", "note": "Closely related but distinct breed, more extreme coat, similar temperament"},
-    {"name": "Springer Spaniel", "slug": "english-springer-spaniel", "note": "Larger spaniel cousin, more field-oriented, similar friendly temperament"},
-    {"name": "Cavalier King Charles Spaniel", "slug": "cavalier-king-charles-spaniel", "note": "Smaller spaniel, lower energy, lap dog orientation, different health concerns"}
+    {
+      "name": "American Cocker Spaniel",
+      "slug": "american-cocker-spaniel",
+      "note": "Closely related but distinct breed, more extreme coat, similar temperament"
+    },
+    {
+      "name": "Springer Spaniel",
+      "slug": "english-springer-spaniel",
+      "note": "Larger spaniel cousin, more field-oriented, similar friendly temperament"
+    },
+    {
+      "name": "Cavalier King Charles Spaniel",
+      "slug": "cavalier-king-charles-spaniel",
+      "note": "Smaller spaniel, lower energy, lap dog orientation, different health concerns"
+    }
   ]
 }

@@ -5,7 +5,11 @@
     "shopify_handle": "pointer-first-year-costs",
     "group": "Pointer",
     "size_category": "Guide",
-    "tags": ["pointer", "costs", "first-year"],
+    "tags": [
+      "pointer",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "Pointer first-year costs run $2,500–$6,500 including purchase price. Grooming is essentially free. Exercise and field trial activities are the variable costs. Hip dysplasia and hypothyroidism are the main health concerns to insure against.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/English_Pointer_orange-white.jpg/330px-English_Pointer_orange-white.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_19366581-6feb-4bea-bda8-2a6da1166eaa.png?v=1777530388",
       "alt": "Pointer first year costs"
     }
   },

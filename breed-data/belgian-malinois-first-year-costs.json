@@ -5,20 +5,24 @@
     "shopify_handle": "belgian-malinois-first-year-costs",
     "group": "Belgian Malinois",
     "size_category": "Guide",
-    "tags": ["belgian-malinois", "cost", "budget", "first-year", "professional-training"],
+    "tags": [
+      "belgian-malinois",
+      "cost",
+      "budget",
+      "first-year",
+      "professional-training"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Belgian Malinois ownership costs $3,500–$8,000 in the first year. Professional training is not optional for this breed — budget $2,000–$5,000 for training in year one alone.",
     "meta_description": "Belgian Malinois first year costs: puppy price, professional training budget, food, vet bills, pet insurance, and lifetime cost estimates for a high-drive working breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Malinois_Shepherd3.JPG/250px-Malinois_Shepherd3.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0e579954-eb2b-4dba-9d15-b9737ecd2c66.png?v=1777525953",
       "alt": "Belgian Malinois first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With a 12–14 year lifespan, the training investment is ongoing — Malinois are not a \"train once, done\" breed. The annual training budget continues throughout the working years.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Well-trained dog, no major health issues</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$35,000–$55,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Ongoing training + moderate health management</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$45,000–$65,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Orthopedic surgery + training + chronic conditions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$55,000–$80,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">The Belgian Malinois is among the highest-lifetime-cost dogs to own correctly — primarily because of the training investment required throughout the dog's active years. The physical health costs are relatively moderate for a medium-large breed; the training costs are what distinguish ownership of this breed.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does a Belgian Malinois puppy cost from a reputable breeder?",

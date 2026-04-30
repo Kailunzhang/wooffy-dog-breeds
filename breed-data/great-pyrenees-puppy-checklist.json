@@ -5,20 +5,24 @@
     "shopify_handle": "great-pyrenees-puppy-checklist",
     "group": "Great Pyrenees",
     "size_category": "Guide",
-    "tags": ["great-pyrenees", "puppy", "checklist", "fence-security", "livestock-guardian"],
+    "tags": [
+      "great-pyrenees",
+      "puppy",
+      "checklist",
+      "fence-security",
+      "livestock-guardian"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Everything you need before your Great Pyrenees puppy comes home — starting with the fence, which must be verified before the dog arrives, not after.",
     "meta_description": "Great Pyrenees puppy checklist: fence verification steps, socialization priorities for an independent guardian breed, essential gear for a giant breed, and first vet visit priorities."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Great_Pyrenees_Mountain_Dog_2.png/330px-Great_Pyrenees_Mountain_Dog_2.png",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_644fb722-4fa1-4b46-92e3-3a827d8ee2f1.png?v=1777528298",
       "alt": "Great Pyrenees puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Training Reality for an Independent Breed</h3><p>Great Pyrenees are intelligent dogs that understand what you're asking. They are not eager-to-please dogs that perform reliably because they want your approval. Training a Pyr requires patience, positive reinforcement, and realistic expectations about what commands are achievable:</p><ul><li>Sit, down, stay — achievable and useful; practice consistently from puppyhood</li><li>Recall — achievable in a fenced yard; not reliable off-leash in open areas regardless of training investment</li><li>Loose-leash walking — critical to establish early; a pulling adult Pyr is a safety hazard</li><li>Door manners — sit before going outside, wait before entering — establish from the start</li><li>No jumping — cute at 20 lbs, problematic at 100+ lbs</li></ul><p>Do not use harsh corrections. Great Pyrenees that are corrected harshly either shut down or develop resistance. Consistent positive reinforcement with high-value treats builds willing cooperation from an otherwise independent thinker.</p><h3>The Barking Conversation</h3><p>Prepare yourself and anyone who shares the living space for nighttime barking. The Great Pyrenees is a nocturnal guardian breed. They bark at sounds, movement, animals, and perceived threats after dark. This will not be trained away completely — it can be managed. Keeping the dog indoors at night reduces the trigger exposure significantly. A white noise machine near sleeping areas helps. Neighbors within earshot should know what's coming before the puppy arrives.</p><h3>Exercise Limits for Puppies</h3><p>Follow the standard puppy exercise guideline: 5 minutes per month of age, twice daily. Growth plates in giant breeds close later than in smaller breeds — restrict forced running, jumping, and stair climbing until 18 months minimum. Free play in the yard is appropriate; jogging or long forced walks are not until fully grown.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What height fence do I need for a Great Pyrenees?",

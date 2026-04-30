@@ -5,20 +5,25 @@
     "shopify_handle": "great-dane-first-year-costs",
     "group": "Great Dane",
     "size_category": "Guide",
-    "tags": ["great-dane", "cost", "budget", "first-year", "giant-breed", "bloat-prevention"],
+    "tags": [
+      "great-dane",
+      "cost",
+      "budget",
+      "first-year",
+      "giant-breed",
+      "bloat-prevention"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Great Dane ownership costs $4,400–$8,500 in the first year. Giant-breed pricing applies to everything — food, medications, boarding, and vet care. The gastropexy is a first-year investment that can save your dog's life.",
     "meta_description": "Great Dane first year costs: giant-breed food budget, gastropexy cost, bloat emergency costs, DCM cardiac monitoring, and why everything costs more when your dog weighs 170 lbs."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dog_niemiecki_%C5%BC%C3%B3%C5%82ty_LM980.jpg/330px-Dog_niemiecki_%C5%BC%C3%B3%C5%82ty_LM980.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_376c3b21-4114-4bdf-bec6-0b6d1af0f223.png?v=1777528247",
       "alt": "Great Dane first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +41,6 @@
       "html": "<p>Great Danes live 7–10 years — a shorter lifespan that reduces total years of routine costs, but concentrates health expenses in that window.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost (7–10 yrs)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, gastropexy done, minimal other issues</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$25,000–$42,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate issues (dysplasia, DCM monitoring)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$32,000–$52,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Major health events (GDV emergency, hip surgery, cancer)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$45,000–$75,000+</td></tr></tbody></table>"
     }
   },
-
   "faq": [
     {
       "q": "How much does it cost to feed a Great Dane?",

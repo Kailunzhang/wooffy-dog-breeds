@@ -6,74 +6,103 @@
     "group": "Sporting Group",
     "size_category": "Medium-Large Breed",
     "tagline": "The Irish Water Spaniel is the court jester of the spaniel world — curly-coated, liver-colored, endlessly energetic, and one of the best water retrievers ever developed. They're also one of the largest spaniels and need significant exercise and regular grooming.",
-    "tags": ["sporting-group", "medium-large-breed", "water-retriever", "curly-coat", "spaniel", "dog-breeds"],
+    "tags": [
+      "sporting-group",
+      "medium-large-breed",
+      "water-retriever",
+      "curly-coat",
+      "spaniel",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Irish Water Spaniels are clownish, high-energy, and excellent in the water — one of the largest and most distinctive spaniel breeds. The curly liver coat sheds very little but requires regular trimming to prevent matting. A drug sensitivity issue affecting the breed warrants attention before any veterinary procedures.",
     "meta_description": "Irish Water Spaniel breed guide: the clownish personality, curly coat grooming requirements, critical drug sensitivity, hip dysplasia, and what distinguishes this large spaniel from other retrieving breeds."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium-Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "45–68 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–12 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "90+ min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate-High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With research" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium-Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "45–68 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–12 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate-High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "With research"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ierse_Water_Spaniel.jpg/250px-Ierse_Water_Spaniel.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_76ea5106-cd7e-4fff-ba6b-ae171655f167.png?v=1777528642",
       "alt": "Irish Water Spaniel"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is an Irish Water Spaniel?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Irish Water Spaniel is among the oldest and largest of the spaniel breeds, developed in Ireland in the early 19th century as a versatile gun dog excelling at waterfowl retrieval. The breed is instantly recognizable: a dense, tight-curled liver-colored coat covering the entire body except for the distinctive smooth, tapered \"rat tail\" and smooth face, along with a topknot of loose curls on the head.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">At 45–68 lbs and 21–24 inches tall, the Irish Water Spaniel is substantially larger than most spaniels. They were bred to work in cold Irish lakes and rivers, and that heritage is evident in their enthusiastic relationship with water, their dense waterproof coat, and their remarkable stamina.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Personality-wise, the breed is famously described as clownish — energetic, playful, and entertaining at home, with a sense of humor that owners find either delightful or exhausting depending on their own energy levels. They're loyal and affectionate with family, reserved but not aggressive with strangers, and typically fine with other dogs with proper socialization.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Irish Water Spaniels Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The coat is the defining feature — dense, tight, crisp curls covering the body and legs in a rich liver (dark reddish-brown) color. There is no other acceptable color for this breed. The face is smooth with a falling topknot of loose curls, and the tail is unique in the spaniel world: smooth-coated, tapered, and rat-like rather than feathered.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The curly coat is low-shedding, making Irish Water Spaniels one of the better options among sporting breeds for people with allergies. However, the curls mat if not maintained — regular brushing and professional trimming every 8–10 weeks is required. The coat does not shed onto furniture in the way a double-coated breed does, but maintenance demands are real.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Irish Water Spaniel is the entertainer of the sporting group. They are playful, energetic, and genuinely funny — owners frequently describe them as clownish. This isn't a dog that takes itself too seriously, and their antics at home are a significant part of the breed's appeal.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family they are devoted and affectionate. With strangers they tend to be reserved rather than immediately social, which varies by individual and socialization. They are not aggressive, but they're not the kind of dog that greets every visitor with equal enthusiasm.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The energy level is significant. Irish Water Spaniels need real work — not just a walk around the block. Swimming, retrieving, hiking, field work, or dog sports give them the physical and mental outlet they require. An under-exercised Irish Water Spaniel will find its own entertainment, which typically involves your belongings.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About an Irish Water Spaniel",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Irish Water Spaniels are fantastic dogs for the right household. If you're active, have access to water, and want a sporting companion with a huge personality and low-shedding coat, they deliver on all fronts. Few breeds are more enthusiastic about retrieving from water.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The drug sensitivity issue is the one thing every Irish Water Spaniel owner must know before any veterinary procedure. The breed has a documented sensitivity to certain medications — including some antiparasitic drugs and other compounds. Alert your vet to this before any anesthesia, sedation, or prescription medication is given. It is not the same as the MDR1/ABCB1 mutation found in herding breeds, but the practical implication is the same: always verify drug safety specifically for this breed before administration.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The grooming commitment is real but manageable with a good relationship with a professional groomer experienced in curly-coated dogs. Budget for professional trims every 8–10 weeks in addition to regular home brushing.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">High energy — 90+ minutes of vigorous exercise daily. Swimming is ideal and most Irish Water Spaniels take to water with enthusiasm. They excel at dock diving, hunt tests, and field work. Without adequate exercise, they're boisterous and potentially destructive indoors.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The curly coat requires brushing 2–3 times per week to prevent mats, especially behind the ears and in leg feathering. Professional trimming every 8–10 weeks is necessary for coat health. See the <a href=\"/blogs/dog-breeds/irish-water-spaniel-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Irish Water Spaniel grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Moderately easy to train — Irish Water Spaniels are intelligent and willing, though their clownish nature means they can be easily distracted. They respond well to positive, engaging training sessions. Long, repetitive sessions bore them. Keep training fun and varied.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Irish Water Spaniels have a 10–12 year lifespan. The primary health concerns include hip dysplasia, hypothyroidism, a breed-specific nail/claw disease, eye conditions, and importantly — a documented drug sensitivity that every owner must discuss with their veterinarian.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Drug Sensitivity</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\"><strong>Critical:</strong> Irish Water Spaniels have documented sensitivity to certain medications including ivermectin and some other drugs. This is different from the MDR1 mutation in herding breeds but has similar practical implications. Alert every veterinarian to this sensitivity before any medication, sedation, or anesthesia. Keep a card in the dog's records noting breed-specific drug sensitivity.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Malformed hip joint causing pain and arthritis. OFA or PennHIP screening available. Ask breeders for clearances on both parents.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Underactive thyroid — manageable with daily medication. Common in the breed.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Distal Symmetrical Onychopathy (DSO)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">A breed-specific nail and claw disease causing pain, nail loss, and potential secondary infection. The cause is not fully understood. Affected dogs require ongoing nail care management. Consult a veterinary dermatologist if nail abnormalities develop.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Eye Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Hereditary eye conditions occur in the breed. CAER eye exam clearance from breeders is important.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA thyroid, CAER eye exam clearances. Discuss drug sensitivity protocol with your veterinarian at the first visit.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium-large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming (6x/year)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$360–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$360–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,400–$5,850</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,560–$2,700</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/irish-water-spaniel-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Irish Water Spaniel first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is an Irish Water Spaniel Right for You?",
@@ -91,25 +120,50 @@
         "First-time dog owners unfamiliar with high-energy sporting breeds"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Irish Water Spaniel",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$2,500 from reputable breeders. Required health clearances: OFA hip, OFA thyroid, CAER eye. The Irish Water Spaniel Club of America maintains a breeder referral directory. This is a relatively rare breed — waiting lists are common.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Rescue availability is limited given the breed's rarity. Contact the Irish Water Spaniel Club of America for rescue referrals.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Irish Water Spaniel comes home, review the <a href=\"/blogs/dog-breeds/irish-water-spaniel-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Irish Water Spaniel puppy checklist</a> — alerting your vet to drug sensitivity and setting up your grooming routine are the critical first steps.</p>"
     }
   },
-
   "faq": [
-    { "q": "Are Irish Water Spaniels hypoallergenic?", "a": "No dog breed is truly hypoallergenic, but Irish Water Spaniels are low-shedding, which reduces the amount of hair and dander in the environment. Many people with dog allergies tolerate the breed better than heavy-shedding breeds. The curly coat does not shed onto furniture the way a double-coated dog does." },
-    { "q": "What is the drug sensitivity issue in Irish Water Spaniels?", "a": "Irish Water Spaniels have a documented sensitivity to certain medications, including ivermectin and some other antiparasitic and anesthetic drugs. This is breed-specific and distinct from the MDR1/ABCB1 mutation found in herding breeds. The practical requirement: inform every veterinarian of this sensitivity before any medication, sedation, or anesthesia is administered. Your vet should verify drug safety for this breed specifically." },
-    { "q": "How much exercise does an Irish Water Spaniel need?", "a": "Significant — 90 minutes or more of vigorous exercise daily. These are high-energy working dogs bred for full days in the field. Swimming, retrieving, hiking, and dog sports are ideal. An under-exercised Irish Water Spaniel will be boisterous, vocal, and destructive indoors." },
-    { "q": "How often does an Irish Water Spaniel need professional grooming?", "a": "Every 8–10 weeks. The dense curly coat requires professional trimming to prevent matting and maintain the breed's characteristic appearance. In between appointments, brushing 2–3 times per week keeps mats from developing, especially behind the ears and in the leg furnishings." }
+    {
+      "q": "Are Irish Water Spaniels hypoallergenic?",
+      "a": "No dog breed is truly hypoallergenic, but Irish Water Spaniels are low-shedding, which reduces the amount of hair and dander in the environment. Many people with dog allergies tolerate the breed better than heavy-shedding breeds. The curly coat does not shed onto furniture the way a double-coated dog does."
+    },
+    {
+      "q": "What is the drug sensitivity issue in Irish Water Spaniels?",
+      "a": "Irish Water Spaniels have a documented sensitivity to certain medications, including ivermectin and some other antiparasitic and anesthetic drugs. This is breed-specific and distinct from the MDR1/ABCB1 mutation found in herding breeds. The practical requirement: inform every veterinarian of this sensitivity before any medication, sedation, or anesthesia is administered. Your vet should verify drug safety for this breed specifically."
+    },
+    {
+      "q": "How much exercise does an Irish Water Spaniel need?",
+      "a": "Significant — 90 minutes or more of vigorous exercise daily. These are high-energy working dogs bred for full days in the field. Swimming, retrieving, hiking, and dog sports are ideal. An under-exercised Irish Water Spaniel will be boisterous, vocal, and destructive indoors."
+    },
+    {
+      "q": "How often does an Irish Water Spaniel need professional grooming?",
+      "a": "Every 8–10 weeks. The dense curly coat requires professional trimming to prevent matting and maintain the breed's characteristic appearance. In between appointments, brushing 2–3 times per week keeps mats from developing, especially behind the ears and in the leg furnishings."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Portuguese Water Dog", "slug": "portuguese-water-dog", "note": "Smaller curly-coated water dog, similarly low-shedding, more manageable size"},
-    {"name": "Labrador Retriever", "slug": "labrador-retriever", "note": "More popular retriever, easier coat, higher energy but more beginner-friendly"},
-    {"name": "Curly-Coated Retriever", "slug": "curly-coated-retriever", "note": "Another curly-coated retriever, slightly larger, also excellent water dog"},
-    {"name": "English Springer Spaniel", "slug": "english-springer-spaniel", "note": "High-energy spaniel, more common, feathered coat requires different grooming"}
+    {
+      "name": "Portuguese Water Dog",
+      "slug": "portuguese-water-dog",
+      "note": "Smaller curly-coated water dog, similarly low-shedding, more manageable size"
+    },
+    {
+      "name": "Labrador Retriever",
+      "slug": "labrador-retriever",
+      "note": "More popular retriever, easier coat, higher energy but more beginner-friendly"
+    },
+    {
+      "name": "Curly-Coated Retriever",
+      "slug": "curly-coated-retriever",
+      "note": "Another curly-coated retriever, slightly larger, also excellent water dog"
+    },
+    {
+      "name": "English Springer Spaniel",
+      "slug": "english-springer-spaniel",
+      "note": "High-energy spaniel, more common, feathered coat requires different grooming"
+    }
   ]
 }

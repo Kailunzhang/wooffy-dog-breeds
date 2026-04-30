@@ -5,20 +5,24 @@
     "shopify_handle": "chesapeake-bay-retriever-first-year-costs",
     "group": "Chesapeake Bay Retriever",
     "size_category": "Guide",
-    "tags": ["chesapeake-bay-retriever", "cost", "budget", "first-year", "large-breed"],
+    "tags": [
+      "chesapeake-bay-retriever",
+      "cost",
+      "budget",
+      "first-year",
+      "large-breed"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "Chesapeake Bay Retriever ownership costs $3,000–$6,000 in the first year. PRA and EIC DNA tests from the breeder eliminate two serious genetic risks. Pet insurance before the first vet visit covers the orthopedic costs that are the primary financial risk.",
     "meta_description": "Chesapeake Bay Retriever first year costs: puppy price, food, vet care, insurance, and the DNA-testable health conditions that make breeder selection financially important."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/CH_Chesapeake.jpg/250px-CH_Chesapeake.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_fba68748-5a84-449a-810d-569153cd3cb0.png?v=1777526907",
       "alt": "Chesapeake Bay Retriever first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With a 10–13 year lifespan, Chessies represent a significant but reasonable commitment.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog from tested parents</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$20,000–$35,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate health issues</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$28,000–$45,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant orthopedic or other major health events</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$38,000–$60,000</td></tr></tbody></table>"
     }
   },
-
   "faq": [
     {
       "q": "What health tests should a Chesapeake Bay Retriever breeder provide?",

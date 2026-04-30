@@ -5,20 +5,24 @@
     "shopify_handle": "belgian-malinois-puppy-checklist",
     "group": "Belgian Malinois",
     "size_category": "Guide",
-    "tags": ["belgian-malinois", "puppy", "checklist", "professional-training", "high-drive"],
+    "tags": [
+      "belgian-malinois",
+      "puppy",
+      "checklist",
+      "professional-training",
+      "high-drive"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Everything you need before your Belgian Malinois puppy comes home — starting with contacting a professional trainer before the puppy arrives. That step is not optional.",
     "meta_description": "Belgian Malinois puppy checklist: professional trainer contact before puppy arrives, containment requirements, socialization plan, drive management, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Malinois_Shepherd3.JPG/250px-Malinois_Shepherd3.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_2d416c12-19b7-4c39-bf14-1e001dcb4371.png?v=1777525948",
       "alt": "Belgian Malinois puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Understanding Drive in a Malinois Puppy</h3><p>Belgian Malinois are bred for sustained intense drive — the mental and physical intensity that makes them excellent police and military dogs also makes them challenging pets. Drive shows up in puppies as intense focus, persistent behavior, and difficulty settling. It is not a problem to solve; it is a characteristic to channel. Training is how you channel it.</p><ul><li>Use tug as a training tool from puppyhood — build drive for the toy so it can be used as a reward in training</li><li>Short, intense training sessions are more productive than long ones — end on success</li><li>The puppy needs to learn to settle: crate training builds this directly</li><li>Avoid games that escalate uncontrolled arousal — keep play structured and controllable</li></ul><h3>Exercise and Mental Load for Puppies</h3><p>Despite their energy, Malinois puppies have growth plates that must be protected. Follow the 5-minutes-per-month-of-age guideline for structured exercise. Mental stimulation — training sessions, puzzle feeders, controlled play — provides cognitive engagement without joint stress. Growth plates close around 18 months for larger working breeds.</p><h3>If Behavior Escalates Beyond Your Ability</h3><p>If at any point you feel genuinely out of your depth — the puppy is biting hard, guarding resources, or becoming difficult to safely manage — contact your trainer immediately. This is not failure; it is appropriate use of the professional relationship you established before the puppy arrived. Early intervention is dramatically more effective than attempting to fix established problem behaviors at 12 months.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Is a Belgian Malinois right for me?",

@@ -6,74 +6,103 @@
     "group": "Working Group",
     "size_category": "Large Breed",
     "tagline": "The Alaskan Malamute is a powerful Arctic sled dog built for endurance over long distances. Pack-oriented, friendly, and stubbornly independent — with an escape artist streak and a prey drive that makes off-leash life genuinely unsafe.",
-    "tags": ["working-group", "large-breed", "arctic-breed", "sled-dog", "high-shedding", "dog-breeds"],
+    "tags": [
+      "working-group",
+      "large-breed",
+      "arctic-breed",
+      "sled-dog",
+      "high-shedding",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-18T16:00:00Z",
     "excerpt": "Alaskan Malamutes are endurance-built working dogs with a friendly disposition, a stubborn streak, and exercise requirements that most owners underestimate. They shed heavily, can be dog-aggressive, and cannot be trusted off-leash in unfenced areas. Know what you're signing up for.",
     "meta_description": "Alaskan Malamute breed guide: temperament, heavy shedding, off-leash safety, dog-aggression tendencies, hereditary health tests, and what this working breed actually requires daily."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "75–100+ lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–14 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "90–120 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Generally good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "75–100+ lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90–120 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Generally good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alaskan_Malamute.jpg/330px-Alaskan_Malamute.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_f0b6359e-0d39-4bb6-8e7f-b22da92fd304.png?v=1777525396",
       "alt": "Alaskan Malamute"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is an Alaskan Malamute?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Alaskan Malamute is one of the oldest Arctic sled dog breeds — bred by the Mahlemut Inupiaq people of northwestern Alaska to haul heavy freight over long distances in extreme cold. This is not a sprint dog (that's the Siberian Husky); the Malamute was built for sustained power and endurance. That history defines everything about the dog you bring home today.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Malamutes are friendly, people-oriented dogs that generally like everyone — they make poor guard dogs specifically because of this. But they're also deeply independent, bred to make decisions without human direction, which makes training a negotiation rather than a command structure. They are pack-oriented and often do well with other dogs when socialized early — but same-sex dog aggression is a real concern that owners must manage.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The non-negotiables: a Malamute cannot be reliably off-leash in unfenced areas. Their prey drive is high and their recall, even in well-trained dogs, is unreliable when something interesting is running. They are also escape artists — they climb, they dig, and they are motivated by the other side of the fence in ways most breeds are not.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Alaskan Malamutes Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A large, powerful dog with a broad head, erect ears, and a plumed tail carried over the back. Females typically weigh 75 lbs; males 85–100+ lbs. Height is 23–25 inches at the withers. The build is heavily muscled and compact — less leggy than a Husky, more powerfully built.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The double coat is dense and thick — a soft, wooly undercoat beneath a coarse, standoff outer coat. Colors include various shades of gray, black, sable, and red, typically with white markings on the face, legs, and underbody. The coat sheds heavily year-round and explosively twice a year during coat blows. This is not a low-maintenance coat. And under no circumstances should the double coat be shaved — it is a thermoregulation system that works in both heat and cold, and shaving disrupts it permanently.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With people: friendly, affectionate, and sociable. Malamutes tend to love people broadly — they are not guard dogs by temperament. They enjoy company, are playful, and can be boisterous. With their core family, they form strong bonds; they are pack animals and do not do well isolated.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With other dogs: variable. Well-socialized Malamutes can coexist with other dogs, but same-sex dog aggression — particularly male-to-male — is common in the breed. Two intact males in the same household is a reliable recipe for serious conflict. Opposite-sex pairs are more compatible. Small animals (cats, rabbits, small dogs) are at real risk from a Malamute's prey drive — they should not be trusted unsupervised together.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The independence trait needs real acknowledgment: Malamutes are not eager-to-please dogs. They were bred to think independently. They will often weigh instructions against their own assessment of the situation and act accordingly. This requires patient, positive training and owners who understand that stubbornness is a feature, not a defect.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About an Alaskan Malamute",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The appeal is obvious — the Malamute is a strikingly beautiful, wolf-like dog with a genuinely friendly personality. They look wild and feel accessible at the same time, which draws a lot of people. That appeal is legitimate. They are wonderful dogs in the right context.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The reality check comes in three areas. First: the hair. The amount of hair a Malamute produces during a coat blow is genuinely shocking the first time you experience it. It is not manageable with a quick once-a-week brush; it requires real, dedicated grooming effort twice a year and consistent maintenance the rest of the time. If you're particular about a clean house, think carefully. Second: the fencing. A 6-foot fence with a dig guard is the minimum. Without it, your Malamute will eventually get out — and because their recall is unreliable and their prey drive is active, the consequences can be serious. Third: the exercise. An under-exercised Malamute gets destructive in ways that are expensive and exhausting. These are working dogs. They need work.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">If you have the space, the fence, the commitment to grooming, and realistic expectations about independence — a Malamute is a magnificent, loyal dog with a personality that rewards the investment.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">90–120 minutes of vigorous daily exercise. Structured leash walks, hiking, skijoring, weight pulling, or canicross. Mental engagement matters as much as physical output — puzzle feeders, training sessions, and scent work help. Never off-leash in unfenced areas. Malamutes are not suited to apartment living unless extraordinary exercise commitments are made.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Significant ongoing commitment. Weekly undercoat raking during normal periods; daily brushing during coat blows. Never shave the double coat. See the <a href=\"/blogs/dog-breeds/alaskan-malamute-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Alaskan Malamute grooming guide</a> for the full routine and coat blow management strategy.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Positive reinforcement with consistency and patience. Do not expect quick compliance — expect negotiation. Short, engaging training sessions work better than long repetitive drills. Build the relationship first; the Malamute will follow an owner they respect, not one they don't.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Generally a hardy breed with a lifespan of 10–14 years. The primary health concerns include a hereditary neurological condition that breeders should be screening for.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Common in large working breeds. OFA or PennHIP screening required from breeders. Managed medically in moderate cases; surgical intervention in severe cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hereditary Polyneuropathy (HPNN)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">A progressive neurological disease identified in Alaskan Malamutes with an available DNA test. Responsible breeders test breeding stock to avoid producing affected puppies. Ask for documentation.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Chondrodysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">An inherited skeletal condition affecting limb development. DNA test is available; breeders should test for it. Affected dogs have shorter, bowed front limbs and associated mobility issues.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Underactive thyroid — manageable with daily medication once diagnosed. OFA thyroid clearances available from breeders.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Day Blindness (CSNB)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Congenital stationary night blindness — a rare inherited eye condition causing impaired vision in bright light. CAER eye examination and relevant DNA testing available.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA thyroid, CAER eye exam, HPNN DNA test, Chondrodysplasia DNA test.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,000–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Secure fencing with dig guard</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$600–$3,000+</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Professional grooming (coat blows)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,500–$7,000</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,000–$3,500</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/alaskan-malamute-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Alaskan Malamute first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is an Alaskan Malamute Right for You?",
@@ -92,25 +121,50 @@
         "Anyone who wants a low-shedding, low-maintenance coat"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Alaskan Malamute",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,000–$2,500 from reputable breeders. Required health clearances: OFA hip, OFA thyroid, CAER eye exam, HPNN DNA test, and Chondrodysplasia DNA test. The Alaskan Malamute Club of America maintains a breeder referral list. Verify DNA test documentation for both parents.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Malamute rescue organizations are active — many dogs are surrendered by owners who didn't anticipate the exercise requirements or grooming demands. Experienced handlers preferred for rescue Malamutes.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Malamute arrives, complete the <a href=\"/blogs/dog-breeds/alaskan-malamute-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Alaskan Malamute puppy checklist</a> — fence audit, dig guard, and grooming tool acquisition are the critical pre-arrival tasks.</p>"
     }
   },
-
   "faq": [
-    { "q": "Can Alaskan Malamutes be off-leash?", "a": "Not safely in unfenced areas. Malamutes have a strong prey drive and an independent decision-making tendency that makes reliable recall difficult even in well-trained dogs. A motivated Malamute will take off after prey or interesting stimulus regardless of training. All off-leash activity should be in securely fenced areas with 6-foot fencing and dig guards." },
-    { "q": "Do Alaskan Malamutes shed a lot?", "a": "Yes — heavily year-round, with two major coat blows per year where the undercoat releases in large volumes over 2–4 weeks. Daily brushing is required during coat blows; weekly brushing during normal periods. The coat should never be shaved — it's a thermoregulation system that works in both heat and cold, and shaving disrupts it. Professional grooming during coat blows is a worthwhile investment." },
-    { "q": "Are Alaskan Malamutes good with other dogs?", "a": "Often yes with proper early socialization, but same-sex dog aggression — particularly male-to-male — is common in the breed. Two intact males or two intact females can be a high-conflict combination. Small dogs and small animals are at risk from prey drive. Malamutes introduced to other animals early and managed carefully can often coexist peacefully; the risk is not eliminated, only reduced." },
-    { "q": "Is an Alaskan Malamute the same as a Siberian Husky?", "a": "No. Both are Arctic sled breeds, but they were developed for different purposes and differ substantially. Malamutes were bred for hauling heavy freight over long distances — they are larger, more powerfully built, and have more endurance. Siberian Huskies were bred for speed over long distances — they are lighter, faster, and somewhat easier to manage. Temperamentally both are independent, but the Malamute is generally larger and more stubborn." }
+    {
+      "q": "Can Alaskan Malamutes be off-leash?",
+      "a": "Not safely in unfenced areas. Malamutes have a strong prey drive and an independent decision-making tendency that makes reliable recall difficult even in well-trained dogs. A motivated Malamute will take off after prey or interesting stimulus regardless of training. All off-leash activity should be in securely fenced areas with 6-foot fencing and dig guards."
+    },
+    {
+      "q": "Do Alaskan Malamutes shed a lot?",
+      "a": "Yes — heavily year-round, with two major coat blows per year where the undercoat releases in large volumes over 2–4 weeks. Daily brushing is required during coat blows; weekly brushing during normal periods. The coat should never be shaved — it's a thermoregulation system that works in both heat and cold, and shaving disrupts it. Professional grooming during coat blows is a worthwhile investment."
+    },
+    {
+      "q": "Are Alaskan Malamutes good with other dogs?",
+      "a": "Often yes with proper early socialization, but same-sex dog aggression — particularly male-to-male — is common in the breed. Two intact males or two intact females can be a high-conflict combination. Small dogs and small animals are at risk from prey drive. Malamutes introduced to other animals early and managed carefully can often coexist peacefully; the risk is not eliminated, only reduced."
+    },
+    {
+      "q": "Is an Alaskan Malamute the same as a Siberian Husky?",
+      "a": "No. Both are Arctic sled breeds, but they were developed for different purposes and differ substantially. Malamutes were bred for hauling heavy freight over long distances — they are larger, more powerfully built, and have more endurance. Siberian Huskies were bred for speed over long distances — they are lighter, faster, and somewhat easier to manage. Temperamentally both are independent, but the Malamute is generally larger and more stubborn."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Siberian Husky", "slug": "siberian-husky", "note": "Lighter, faster, similar independence — easier to manage for most owners"},
-    {"name": "Akita", "slug": "akita", "note": "Similar size and independence, more reserved and guarding personality"},
-    {"name": "Samoyed", "slug": "samoyed", "note": "Friendlier, more trainable, similar coat maintenance, white coat"},
-    {"name": "Bernese Mountain Dog", "slug": "bernese-mountain-dog", "note": "Large working breed, much more trainable and family-friendly, shorter lifespan"}
+    {
+      "name": "Siberian Husky",
+      "slug": "siberian-husky",
+      "note": "Lighter, faster, similar independence — easier to manage for most owners"
+    },
+    {
+      "name": "Akita",
+      "slug": "akita",
+      "note": "Similar size and independence, more reserved and guarding personality"
+    },
+    {
+      "name": "Samoyed",
+      "slug": "samoyed",
+      "note": "Friendlier, more trainable, similar coat maintenance, white coat"
+    },
+    {
+      "name": "Bernese Mountain Dog",
+      "slug": "bernese-mountain-dog",
+      "note": "Large working breed, much more trainable and family-friendly, shorter lifespan"
+    }
   ]
 }

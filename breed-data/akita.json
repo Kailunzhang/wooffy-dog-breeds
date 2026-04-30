@@ -6,74 +6,103 @@
     "group": "Working Group",
     "size_category": "Large Breed",
     "tagline": "The Akita is a powerful, intensely loyal Japanese breed that bonds deeply with family and remains aloof with everyone else. They demand respect, consistency, and an owner who understands a dog that thinks for itself.",
-    "tags": ["working-group", "large-breed", "loyal", "independent", "japanese-breed", "dog-breeds"],
+    "tags": [
+      "working-group",
+      "large-breed",
+      "loyal",
+      "independent",
+      "japanese-breed",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Akitas are one of the most loyal breeds in existence — devoted to their family with a quiet, dignified intensity. They're also independent, can be dog-aggressive, and are emphatically not beginner dogs. Understand what you're committing to before you bring one home.",
     "meta_description": "Akita breed guide: loyalty, temperament with strangers and other dogs, exercise needs, health conditions, and whether an Akita fits your household."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "70–130 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–14 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Family only" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "70–130 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Family only"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Akita_Collage.png/330px-Akita_Collage.png",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_00170be3-f1e9-467f-b5c3-3e9b48afea0f.png?v=1777525342",
       "alt": "Akita"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is an Akita?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Akita is an ancient Japanese breed, originally used for hunting large game — bear, boar, deer — in the mountainous terrain of northern Japan. The American Akita and Japanese Akita Inu are now considered separate breeds in most kennel clubs; both share the same temperament fundamentals but differ somewhat in appearance. The story of Hachiko — the Akita who waited for his deceased owner at a Tokyo train station for nearly ten years — has defined the breed's reputation for devotion worldwide.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">That devotion is real. Akitas bond intensely to their family and are naturally reserved — sometimes deeply suspicious — of strangers. They are not social dogs that make friends at the dog park. They are family dogs that take the protection and loyalty of that family seriously.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The challenge is that Akitas are also independent thinkers with strong predatory instincts and a tendency toward dog-aggression, particularly with same-sex dogs. They need an owner who earns their respect through consistency, not force, and who understands the difference between an independent dog and a disobedient one.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Akitas Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Large, powerful, and bear-like in build — males weigh 100–130 lbs, females 70–100 lbs. The broad, flat head, deep-set triangular eyes, and thick double coat give the Akita an unmistakable presence. American Akitas are heavier and more bear-like; Japanese Akita Inus are more refined and fox-like in facial appearance.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The double coat is thick and dense, with a soft undercoat and a harsher outer coat. Akitas shed moderately year-round and dramatically twice per year. Colors include brindle, white, and pinto (American); red, brindle, and white (Japanese). The curled tail carried over the back is a breed signature.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family: intensely loyal, affectionate, and present. Akitas often follow their person from room to room and maintain a quiet watchfulness that feels different from more openly social breeds. They are not indifferent — they are selective.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With strangers: naturally aloof and often suspicious. A well-socialized Akita can be neutral and controlled around unknown people; an under-socialized one can be reactive. The socialization window is real and critical — puppies exposed consistently to strangers, environments, and stimuli in the first 16 weeks develop very differently from those who aren't.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With other dogs: this is the most significant temperament challenge. Akitas are frequently dog-aggressive, particularly with same-sex dogs. Two intact males or two intact females will almost certainly fight eventually. Many Akitas are happiest as the only dog in the household, or carefully managed alongside a well-matched dog of the opposite sex.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About an Akita",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Akitas are extraordinary dogs in the right context. The loyalty is unlike anything you'll experience with a more socially promiscuous breed. When an Akita decides you're their person, you feel it. They're intelligent, dignified, and capable — dogs with a presence that commands attention.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest conversation is about management. Akitas require lifelong management around other dogs — never off-leash around unknown dogs, never assumed safe at dog parks, careful introduction protocols even with familiar dogs. Their size and strength means a mistake has real consequences. If you have multiple dogs or expect to socialize freely, an Akita is probably not the right choice.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They're also genuinely not beginner dogs. Not because they're dangerous with proper management, but because they test handlers who aren't confident, and they require an owner who has read what training an independent breed actually requires. The payoff for an experienced, committed owner is a dog that is genuinely unlike any other.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of exercise daily. On-leash walks, hiking, or play in a securely fenced yard. Akitas should not be off-leash in unfenced areas — their prey drive is real and their recall can be unreliable. A 6-foot privacy fence minimum; check-chain and dig-proof if the dog is motivated.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate during normal periods; intense during twice-yearly coat blows. Weekly brushing with an undercoat rake most of the year; daily brushing during shedding season. See the <a href=\"/blogs/dog-breeds/akita-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Akita grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Akitas are intelligent but independent. They learn quickly and then decide whether the instruction is worth following. Positive reinforcement works; harsh corrections typically produce stubbornness or shutdown. Consistency from puppyhood is essential — an Akita that hasn't learned their household rules as a puppy is much harder to manage as a 130-lb adult.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Akitas are generally hardy with a lifespan of 10–14 years, which is good for a large breed. The primary health concerns are autoimmune-related and musculoskeletal.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint causing pain and arthritis. OFA or PennHIP screening available; ask breeders for clearances. Managed with medication and, in severe cases, surgery.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Underactive thyroid — manageable with daily medication. Common in the breed. OFA thyroid clearance available from breeders.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited degeneration of the retina leading to blindness. DNA test available; reputable breeders screen for it. No treatment currently.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Sebaceous Adenitis</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inflammatory skin condition affecting the sebaceous glands. Causes dry, flaky skin and hair loss. Manageable with medicated shampoos and treatments; not life-threatening.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Deep-chested breeds are at risk for gastric dilatation-volvulus. A life-threatening emergency. Know the signs: distended abdomen, unproductive retching, restlessness after eating. Preventive gastropexy can be performed during spay/neuter.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA thyroid, CAER eye exam, and PRA DNA test clearances.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,000–$2,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (large crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,050–$5,600</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,800–$3,200</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/akita-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Akita first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is an Akita Right for You?",
@@ -92,25 +121,50 @@
         "Anyone who wants an off-leash dog outside of a securely fenced area"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Akita",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,000–$2,000 from reputable breeders. Required health clearances: OFA hip, OFA thyroid, CAER eye exam, PRA DNA test. The Akita Club of America maintains a breeder referral directory. Avoid breeders who cannot produce OFA documentation.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Akita rescue organizations exist across the US. Many dogs are surrendered by owners who underestimated the temperament and management requirements. Experienced handlers only for rescue Akitas — the dogs often arrive with unknown histories and require patient, consistent re-establishment of trust and routine.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Akita comes home, complete the <a href=\"/blogs/dog-breeds/akita-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Akita puppy checklist</a> — fence security, enrollment in insurance, and training class reservations are the critical pre-arrival items.</p>"
     }
   },
-
   "faq": [
-    { "q": "Are Akitas good with children?", "a": "With their own family's children — generally yes, with supervision. Akitas are protective of their family, including children in the household. With unfamiliar children, their wariness of strangers applies. Young children and Akitas require supervised interactions due to the dog's size and independent temperament. Not recommended for homes with toddlers unless the owner is highly experienced." },
-    { "q": "Are Akitas dog-aggressive?", "a": "Many are. Same-sex dog aggression is common in the breed, and many Akitas are selective or outright aggressive with other dogs. This is a breed-typical trait, not a behavioral problem per se. It requires management: no dog parks, careful introductions, and often single-dog household status. Some Akitas coexist peacefully with carefully chosen, opposite-sex dogs." },
-    { "q": "How much do Akitas shed?", "a": "Significantly — especially twice per year during coat blows. The thick double coat produces dramatic seasonal shedding that requires daily brushing to manage. During normal periods, weekly brushing suffices. Akitas are not suitable for households with severe allergies or strong preferences for a hair-free home." },
-    { "q": "Are American Akitas and Japanese Akita Inus the same breed?", "a": "They share the same origin but are now recognized as separate breeds by most kennel clubs outside the US. American Akitas are larger, heavier, and come in all colors including black mask patterns. Japanese Akita Inus are more refined, come in red, brindle, and white only, and tend toward a more fox-like facial structure. Both share the same fundamental temperament." }
+    {
+      "q": "Are Akitas good with children?",
+      "a": "With their own family's children — generally yes, with supervision. Akitas are protective of their family, including children in the household. With unfamiliar children, their wariness of strangers applies. Young children and Akitas require supervised interactions due to the dog's size and independent temperament. Not recommended for homes with toddlers unless the owner is highly experienced."
+    },
+    {
+      "q": "Are Akitas dog-aggressive?",
+      "a": "Many are. Same-sex dog aggression is common in the breed, and many Akitas are selective or outright aggressive with other dogs. This is a breed-typical trait, not a behavioral problem per se. It requires management: no dog parks, careful introductions, and often single-dog household status. Some Akitas coexist peacefully with carefully chosen, opposite-sex dogs."
+    },
+    {
+      "q": "How much do Akitas shed?",
+      "a": "Significantly — especially twice per year during coat blows. The thick double coat produces dramatic seasonal shedding that requires daily brushing to manage. During normal periods, weekly brushing suffices. Akitas are not suitable for households with severe allergies or strong preferences for a hair-free home."
+    },
+    {
+      "q": "Are American Akitas and Japanese Akita Inus the same breed?",
+      "a": "They share the same origin but are now recognized as separate breeds by most kennel clubs outside the US. American Akitas are larger, heavier, and come in all colors including black mask patterns. Japanese Akita Inus are more refined, come in red, brindle, and white only, and tend toward a more fox-like facial structure. Both share the same fundamental temperament."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Shiba Inu", "slug": "shiba-inu", "note": "Smaller Japanese spitz-type, similar independent temperament, more manageable size"},
-    {"name": "Rottweiler", "slug": "rottweiler", "note": "Similar loyal/protective profile, different build, shorter lifespan"},
-    {"name": "Mastiff", "slug": "mastiff", "note": "Larger, even calmer temperament, lower exercise needs, giant breed"},
-    {"name": "German Shepherd Dog", "slug": "german-shepherd-dog", "note": "More trainable and social, similar protective loyalty, herding not hunting background"}
+    {
+      "name": "Shiba Inu",
+      "slug": "shiba-inu",
+      "note": "Smaller Japanese spitz-type, similar independent temperament, more manageable size"
+    },
+    {
+      "name": "Rottweiler",
+      "slug": "rottweiler",
+      "note": "Similar loyal/protective profile, different build, shorter lifespan"
+    },
+    {
+      "name": "Mastiff",
+      "slug": "mastiff",
+      "note": "Larger, even calmer temperament, lower exercise needs, giant breed"
+    },
+    {
+      "name": "German Shepherd Dog",
+      "slug": "german-shepherd-dog",
+      "note": "More trainable and social, similar protective loyalty, herding not hunting background"
+    }
   ]
 }

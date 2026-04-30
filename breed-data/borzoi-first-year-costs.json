@@ -5,7 +5,11 @@
     "shopify_handle": "borzoi-first-year-costs",
     "group": "Borzoi",
     "size_category": "Guide",
-    "tags": ["borzoi", "costs", "first-year"],
+    "tags": [
+      "borzoi",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Borzoi first-year costs run $4,000–$9,550 including purchase price. Fencing investment can be significant for this sighthound. Gastropexy at spay/neuter is strongly recommended given the bloat risk.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Chart_rosyjski_borzoj_rybnik-kamien_pl.jpg/250px-Chart_rosyjski_borzoj_rybnik-kamien_pl.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_eb7a44fc-0142-4df3-810d-383559c9245a.png?v=1777526327",
       "alt": "Borzoi first year costs"
     }
   },

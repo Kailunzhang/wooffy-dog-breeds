@@ -5,20 +5,24 @@
     "shopify_handle": "norwegian-elkhound-first-year-costs",
     "group": "Norwegian Elkhound",
     "size_category": "Guide",
-    "tags": ["norwegian-elkhound", "cost", "budget", "first-year", "medium-breed"],
+    "tags": [
+      "norwegian-elkhound",
+      "cost",
+      "budget",
+      "first-year",
+      "medium-breed"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Norwegian Elkhounds are moderately priced to own — good lifespan, manageable food costs, and no dominant expensive health conditions. The first-year investment in grooming tools pays for itself over a 12–15 year ownership period.",
     "meta_description": "Norwegian Elkhound first year costs: puppy price, food budget, PHPT genetic testing, grooming tools for heavy double coat, pet insurance, and honest lifetime cost estimates."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Elkhound2020_%28cropped%29.jpg/250px-Elkhound2020_%28cropped%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_9b4d5922-4eef-45bb-a4a5-3873c73a7598.png?v=1777530011",
       "alt": "Norwegian Elkhound first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost (12–15 yr)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy, no significant health events</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$20,000–$38,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Hypothyroidism managed (lifetime medication)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$25,000–$45,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Hip dysplasia treatment + PHPT management</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$30,000–$55,000</td></tr></tbody></table>"
     }
   },
-
   "faq": [
     {
       "q": "What does it cost to groom a Norwegian Elkhound?",

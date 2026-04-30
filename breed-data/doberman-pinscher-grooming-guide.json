@@ -5,20 +5,23 @@
     "shopify_handle": "doberman-pinscher-grooming-guide",
     "group": "Doberman Pinscher",
     "size_category": "Guide",
-    "tags": ["doberman-pinscher", "grooming", "working-group", "low-maintenance-grooming"],
+    "tags": [
+      "doberman-pinscher",
+      "grooming",
+      "working-group",
+      "low-maintenance-grooming"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Doberman grooming is minimal — weekly wipe-down, monthly bath, regular nails and teeth. The short coat keeps professional grooming off the table entirely.",
     "meta_description": "Doberman Pinscher grooming guide: simple weekly routine for the short coat, nail care, dental hygiene, and skin health tips."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dobermann_handling.jpg/330px-Dobermann_handling.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_d885fbb7-c59f-48c3-9db3-22928b345d9a.png?v=1777527461",
       "alt": "Doberman Pinscher grooming"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
@@ -36,7 +39,6 @@
       "html": "<p>Blue and fawn (Isabella) Dobermans carry a dilute coat color gene that can cause <strong>color dilution alopecia (CDA)</strong> — patchy hair loss, dry scaly skin, and recurrent bacterial skin infections. It's a cosmetic and comfort issue with no cure, but it can be managed.</p><h3>CDA Management</h3><ul><li>Medicated shampoos (as directed by a vet dermatologist) help with bacterial folliculitis</li><li>Omega-3 fatty acid supplements support skin barrier function</li><li>Avoid harsh shampoos or over-bathing — both worsen dryness</li><li>Regular vet checks allow early treatment of bacterial flare-ups</li></ul><p>Black and rust Dobermans can still develop skin allergies — environmental and food allergies present as itching, hot spots, and paw chewing. If your Doberman is scratching persistently, a vet evaluation is the right first step.</p><h3>Ear Care for Cropped vs. Natural Ears</h3><p>Dobermans with cropped ears have open, upright ear canals that are well-ventilated and rarely develop infections. Dogs with natural (uncropped) floppy ears need weekly ear checks — clean with a vet-approved ear cleaner if you see wax buildup or odor.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Do Dobermans need professional grooming?",

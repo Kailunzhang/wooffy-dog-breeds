@@ -5,20 +5,24 @@
     "shopify_handle": "german-wirehaired-pointer-grooming-guide",
     "group": "German Wirehaired Pointer",
     "size_category": "Guide",
-    "tags": ["german-wirehaired-pointer", "grooming", "wiry-coat", "hand-stripping", "ear-cleaning"],
+    "tags": [
+      "german-wirehaired-pointer",
+      "grooming",
+      "wiry-coat",
+      "hand-stripping",
+      "ear-cleaning"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "The GWP's wiry coat is one of its most practical features — low-shedding, dirt-resistant, and weather-proof. Weekly brushing and consistent ear cleaning are the two non-negotiable maintenance tasks. Stripping vs. clipping is a choice with real consequences for working dogs.",
     "meta_description": "German Wirehaired Pointer grooming guide: wiry coat maintenance, hand-stripping vs. clipping, beard care, ear cleaning for a floppy-eared sporting breed, and the full weekly routine."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dan_vom_hardenberg_%28cropped%29.jpg/250px-Dan_vom_hardenberg_%28cropped%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_36225727-bf1b-4d32-ba08-8ca6f3b2370f.png?v=1777528092",
       "alt": "German Wirehaired Pointer grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The GWP Coat",
@@ -36,7 +40,6 @@
       "html": "<p>The GWP's floppy, feathered ears trap moisture and debris far more effectively than upright ears. Combine that with a dog that regularly swims or works in heavy cover, and ear infections become predictable without preventive maintenance. Weekly ear cleaning is the single most important grooming habit for this breed.</p><h3>How to Clean GWP Ears</h3><ol><li>Squeeze a veterinarian-recommended ear cleaner into the ear canal — enough to fill it</li><li>Gently massage the base of the ear for 20–30 seconds to loosen debris</li><li>Let the dog shake its head</li><li>Wipe out the accessible ear canal and outer ear with a cotton ball — never insert cotton swabs into the canal</li><li>Repeat on the other ear</li></ol><h3>Signs of Ear Infection</h3><p>Head shaking, scratching at ears, odor from the ear, redness or swelling, or discharge are all signs that require a veterinary visit — not additional home cleaning. Ear infections need treatment; cleaning a infected ear without diagnosis and appropriate medication doesn't resolve the problem and can cause discomfort.</p><h3>After Swimming or Field Work</h3><p>If your GWP swims or works in wet conditions, clean and dry the ears after each session. Moisture trapped in the ear canal after water exposure is a primary driver of chronic ear infections in this breed. A quick post-swim ear wipe takes two minutes and prevents a vet bill.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does a GWP need professional grooming?",

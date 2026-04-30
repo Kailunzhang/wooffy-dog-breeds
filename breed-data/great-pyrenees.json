@@ -6,74 +6,103 @@
     "group": "Working Group",
     "size_category": "Large Breed",
     "tagline": "The Great Pyrenees is an independent, ancient livestock guardian with a calm daytime presence and a nocturnal alertness that surprises new owners. They need a fence, not an argument.",
-    "tags": ["working-group", "large-breed", "livestock-guardian", "independent", "double-coat", "dog-breeds"],
+    "tags": [
+      "working-group",
+      "large-breed",
+      "livestock-guardian",
+      "independent",
+      "double-coat",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "The Great Pyrenees is a majestic, intelligent livestock guardian that has been making its own decisions for centuries. That independence is real, the barking at night is real, and the fence requirement is non-negotiable. Understand the breed before you fall for the white coat.",
     "meta_description": "Great Pyrenees breed guide: temperament, independence, nocturnal barking, fencing requirements, health conditions including Addison's disease, and honest ownership expectations."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Giant" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "85–160 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–12 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "45–60 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Giant"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "85–160 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–12 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "45–60 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Great_Pyrenees_Mountain_Dog_2.png/330px-Great_Pyrenees_Mountain_Dog_2.png",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_fc60fab5-341d-4502-b606-b0f3110699a2.png?v=1777528307",
       "alt": "Great Pyrenees"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Great Pyrenees?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Great Pyrenees is one of the oldest and most distinctive livestock guardian breeds in the world, developed over centuries in the Pyrenean mountains between France and Spain to protect sheep from wolves and bears. This is a working dog that spent thousands of years making independent decisions — patrol the flock, assess the threat, respond accordingly — with minimal human direction. That history is not optional context. It is the breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">During the day, the Great Pyrenees presents as a calm, gentle, patient giant — good-natured with family, patient with children, serene in the house. At night, the guard switch flips. These dogs are naturally nocturnal workers, programmed to patrol and bark at anything potentially threatening the flock. In a residential setting, that means nighttime barking at sounds, movement, and things that aren't there. This is not a training problem. It is the breed functioning exactly as designed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They are also escape artists. Pyrs roam instinctively — their guardian job required covering large territories — and a fence-line that looks adequate to a labrador owner is a puzzle to be solved by a motivated Great Pyrenees. Six-foot minimum, checked for dig vulnerabilities, and confirmed before the dog arrives.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Great Pyrenees Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Large to giant in size — females typically 85–115 lbs, males 100–160 lbs, though large males can exceed this. The breed's signature is the thick, weather-resistant double coat: a coarse outer coat and a dense, wooly undercoat, almost always white or white with markings of gray, tan, or badger on the ears and body. The coat repels rain and insulates in cold; it also mats if not maintained.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The face is broad and bear-like, the expression gentle. Double dewclaws on the rear legs are a breed characteristic. The build is powerful but not heavy-boned in the way of Mastiffs — these are athletic working dogs that cover ground efficiently. Height ranges from 25–32 inches at the shoulder. The white coat, while beautiful, shows dirt and requires grooming attention.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Great Pyrenees is calm, patient, and gentle with its family — including children. They are not an anxious or reactive breed at baseline; their confidence comes from their guardian heritage. With strangers, they are typically reserved but not aggressive — they'll assess and watch before deciding someone is acceptable.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The independence is the central challenge of the breed. Pyrenees were bred to work without direction — a guardian dog that required constant handler instruction couldn't do its job. That self-sufficiency means they don't take cues from their owner the way a retriever does. They think for themselves, and their decision-making doesn't always align with suburban expectations. Recall is unreliable. Off-leash is not an option outside a fence.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The barking is significant and predictable. Pyres bark at night. They bark at sounds, shapes, animals, and perceived movement. This is breed-typical guardian behavior. Neighbors who are close, or owners who need silence at 2am, will find this genuinely difficult to manage.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Great Pyrenees",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Great Pyrenees is a magnificent dog — calm and serene during the day, staggeringly beautiful, gentle with children, and deeply bonded to their family and territory. I understand completely why people want one. The white coat, the dignified presence, the patient temperament — it's an appealing package.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The conversation I always feel obligated to have is about what the nighttime looks like, what the fence situation requires, and what independent actually means. These are not dogs that perform reliably on command. They are dogs that decide. If you need a dog that comes when called, sits on cue, and behaves predictably in off-leash situations — the Pyr is not that dog. If you want a calm, confident guardian presence that is absolutely devoted to its family and territory, that's exactly what they deliver.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They're also not beginner dogs. Not because they're dangerous, but because the independence and the nocturnal barking require owners who understand they can't train it out of the breed — only manage it intelligently. Someone who tries to force obedience out of a Pyr using compulsion methods will fail and create a stressed dog. Someone who works with the breed's nature, provides appropriate containment and routine, and accepts what the dog fundamentally is will have a remarkable companion.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate — 45–60 minutes of daily exercise is sufficient for most Great Pyrenees. Despite their size, they are not high-energy dogs and do not need hours of running. Leash walks and time in a securely fenced yard cover their needs. They prefer cooler temperatures; exercise should be scheduled for early morning or evening in warm weather.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The double coat requires weekly brushing during normal periods and daily attention during the twice-yearly coat blows. Never shave a Great Pyrenees — the double coat is a thermoregulation system that works in both directions. Shaving disrupts insulation, exposes skin to UV damage, and can cause permanent coat damage. See the <a href=\"/blogs/dog-breeds/great-pyrenees-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Great Pyrenees grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Training a Great Pyrenees requires patience and positive reinforcement. They are intelligent dogs that understand requests quickly — they simply evaluate whether compliance is worth it. Harsh corrections produce shutdown or stubbornness. Early socialization is critical. Basic commands — sit, down, stay, come (in a fenced area) — are achievable with consistency. Off-leash obedience in unfenced areas is not realistic for this breed.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Great Pyrenees are generally healthy with a lifespan of 10–12 years, which is good for a large/giant breed. Several conditions appear with meaningful frequency in the breed and require specific screening or awareness.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint causing pain and arthritis. OFA or PennHIP certification required from breeders. A meaningful portion of large breeds develop this — verify breeder clearances before buying.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Developmental abnormality of the elbow joint, resulting in lameness and arthritis. OFA elbow certification available. Surgical correction possible; managed with medication and weight management.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Addison's Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Hypoadrenocorticism — the adrenal glands fail to produce sufficient cortisol and aldosterone. Great Pyrenees have a notable incidence. Symptoms are vague (lethargy, GI upset, weakness) and can mimic many other conditions — it has been called the \"great pretender.\" Diagnosed via ACTH stimulation test. Manageable with lifelong hormone supplementation, but diagnosis requires a vet who considers it.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Osteosarcoma</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Bone cancer affecting large and giant breeds at higher rates. Typically affects the limbs in middle age. Prognosis is poor; early detection and aggressive treatment (amputation + chemotherapy) extends survival but is not curative. Know the warning signs: persistent limb lameness, swelling on a bone.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Gastric dilatation-volvulus is a life-threatening emergency in deep-chested large breeds. The stomach fills with gas and twists. Signs: distended abdomen, unproductive retching, restlessness after eating. Preventive gastropexy can be performed at spay/neuter and is worth discussing with your vet.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA elbow certifications. Discuss Addison's disease risk awareness with your vet at the first visit.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,000–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large/giant breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Secure fencing (6-ft, if needed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$2,000+</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (giant crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,500–$7,000</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,000–$3,500</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/great-pyrenees-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Great Pyrenees first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Great Pyrenees Right for You?",
@@ -92,25 +121,50 @@
         "Households that need a quiet, low-maintenance dog"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Great Pyrenees",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,000–$2,500 from reputable breeders. Required health clearances: OFA hip, OFA elbow. The Great Pyrenees Club of America maintains a breeder referral directory. Be wary of breeders selling \"giant\" Pyrenees as a selling point — oversize dogs carry more orthopedic risk. Ask the breeder directly about their protocol for Addison's disease awareness in their lines.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Great Pyrenees rescue organizations are active across North America — the breed appears frequently in rescue because of owners who were unprepared for the independence and barking. Rescue Pyrs can be wonderful dogs; they do best with adopters who understand the breed's nature and aren't expecting a moldable, eager-to-please companion.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Pyr comes home, work through the <a href=\"/blogs/dog-breeds/great-pyrenees-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Great Pyrenees puppy checklist</a> — fence verification is the first and most critical item.</p>"
     }
   },
-
   "faq": [
-    { "q": "Do Great Pyrenees bark a lot?", "a": "Yes — particularly at night. The Great Pyrenees was bred as a nocturnal guardian, and that programming is intact in pet dogs. They bark at perceived threats, movement, sounds, and animals. This is breed-typical behavior, not a training failure. Management strategies (indoor sleeping, white noise, keeping them away from fence lines at night) can reduce the impact, but the tendency is inherent to the breed." },
-    { "q": "Can a Great Pyrenees live in a hot climate?", "a": "With management, yes. The double coat actually provides some insulation against heat as well as cold — never shave it. Exercise should be scheduled in the cooler hours of the day, shade and water must be consistently available, and outdoor time should be limited during peak heat. That said, they are happiest and most comfortable in cool or cold climates." },
-    { "q": "Are Great Pyrenees good with other animals?", "a": "Generally yes, particularly livestock and smaller animals they are raised with. The guardian instinct extends to whatever they consider 'their flock,' which in a home setting means family pets. They typically do well with cats and other dogs raised alongside them. Adult dogs without prior socialization to other animals require careful introductions." },
-    { "q": "How much do Great Pyrenees shed?", "a": "Significantly. The double coat sheds moderately year-round and heavily twice yearly during coat blows. The white hair shows on dark clothing and furniture. Weekly brushing most of the year, daily during coat blows, keeps it manageable. Never shave — it disrupts the coat's thermoregulation function and can cause permanent damage." }
+    {
+      "q": "Do Great Pyrenees bark a lot?",
+      "a": "Yes — particularly at night. The Great Pyrenees was bred as a nocturnal guardian, and that programming is intact in pet dogs. They bark at perceived threats, movement, sounds, and animals. This is breed-typical behavior, not a training failure. Management strategies (indoor sleeping, white noise, keeping them away from fence lines at night) can reduce the impact, but the tendency is inherent to the breed."
+    },
+    {
+      "q": "Can a Great Pyrenees live in a hot climate?",
+      "a": "With management, yes. The double coat actually provides some insulation against heat as well as cold — never shave it. Exercise should be scheduled in the cooler hours of the day, shade and water must be consistently available, and outdoor time should be limited during peak heat. That said, they are happiest and most comfortable in cool or cold climates."
+    },
+    {
+      "q": "Are Great Pyrenees good with other animals?",
+      "a": "Generally yes, particularly livestock and smaller animals they are raised with. The guardian instinct extends to whatever they consider 'their flock,' which in a home setting means family pets. They typically do well with cats and other dogs raised alongside them. Adult dogs without prior socialization to other animals require careful introductions."
+    },
+    {
+      "q": "How much do Great Pyrenees shed?",
+      "a": "Significantly. The double coat sheds moderately year-round and heavily twice yearly during coat blows. The white hair shows on dark clothing and furniture. Weekly brushing most of the year, daily during coat blows, keeps it manageable. Never shave — it disrupts the coat's thermoregulation function and can cause permanent damage."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Bernese Mountain Dog", "slug": "bernese-mountain-dog", "note": "Similar gentle giant temperament, more trainable, shorter lifespan"},
-    {"name": "Mastiff", "slug": "mastiff", "note": "Giant breed, calmer and less active, minimal barking"},
-    {"name": "Newfoundland", "slug": "newfoundland", "note": "Similar gentle giant profile, water-oriented, slightly more trainable"},
-    {"name": "Saint Bernard", "slug": "saint-bernard", "note": "Similar size and temperament, more people-focused, less independent"}
+    {
+      "name": "Bernese Mountain Dog",
+      "slug": "bernese-mountain-dog",
+      "note": "Similar gentle giant temperament, more trainable, shorter lifespan"
+    },
+    {
+      "name": "Mastiff",
+      "slug": "mastiff",
+      "note": "Giant breed, calmer and less active, minimal barking"
+    },
+    {
+      "name": "Newfoundland",
+      "slug": "newfoundland",
+      "note": "Similar gentle giant profile, water-oriented, slightly more trainable"
+    },
+    {
+      "name": "Saint Bernard",
+      "slug": "saint-bernard",
+      "note": "Similar size and temperament, more people-focused, less independent"
+    }
   ]
 }

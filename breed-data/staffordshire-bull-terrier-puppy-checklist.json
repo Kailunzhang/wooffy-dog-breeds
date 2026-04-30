@@ -5,20 +5,25 @@
     "shopify_handle": "staffordshire-bull-terrier-puppy-checklist",
     "group": "Staffordshire Bull Terrier",
     "size_category": "Guide",
-    "tags": ["staffordshire-bull-terrier", "puppy", "checklist", "hc-l2hga", "socialization", "bsl"],
+    "tags": [
+      "staffordshire-bull-terrier",
+      "puppy",
+      "checklist",
+      "hc-l2hga",
+      "socialization",
+      "bsl"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Everything you need before your Stafford puppy comes home — including verifying HC and L2HGA DNA test documentation and confirming there are no BSL restrictions in your area.",
     "meta_description": "Staffordshire Bull Terrier puppy checklist: HC/L2HGA DNA test documentation review, BSL jurisdiction check, socialization priorities, and first-week setup for a people-oriented terrier."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%D7%A1%D7%90%D7%98%D7%A3_%D7%90%D7%A0%D7%92%D7%9C%D7%99.jpg/330px-%D7%A1%D7%90%D7%98%D7%A3_%D7%90%D7%A0%D7%92%D7%9C%D7%99.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_09599064-766e-4d76-aede-c62e796d6b84.png?v=1777531879",
       "alt": "Staffordshire Bull Terrier puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Priority Commands</h3><p>Staffords are responsive to positive reinforcement and more people-focused than many terriers — training is more accessible than with aloof or more independent breeds. Take advantage of this from day one:</p><ul><li><strong>Sit and Stay:</strong> Foundation commands — establish these first, use in every daily interaction</li><li><strong>Off:</strong> Essential — Stafford enthusiasm can translate to jumping that bowls over small visitors</li><li><strong>Leave it:</strong> Important for impulse control around food, small animals, and interesting objects</li><li><strong>Loose-leash walking:</strong> Staffords are muscular — pulling on the leash is something to address immediately rather than allowing to become habitual</li><li>Enroll in puppy class at 8–10 weeks for structured socialization and training foundations</li></ul><h3>Dog-Dog Introductions</h3><p>Stafford puppies are typically fine with other dogs. Adult Staffords can become dog-selective — particularly intact males. Manage accordingly:</p><ul><li>Introduce all new dogs on neutral territory, both on-leash initially</li><li>Monitor all multi-dog interactions until you have a clear picture of the adult dynamic</li><li>Never leave an adolescent or adult Stafford unsupervised with unfamiliar dogs in enclosed spaces</li></ul><h3>Exercise for Puppies</h3><p>Use the 5-minute rule: 5 minutes per month of age, twice daily. Staffords are athletic but growth plates are still developing in puppies — avoid forced running, jumping, and rough play until 12 months. Leash walks and free play in a safe area are appropriate.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What happens if I buy a Stafford from a breeder without HC or L2HGA tests?",

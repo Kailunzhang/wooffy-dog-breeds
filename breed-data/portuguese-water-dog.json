@@ -6,74 +6,103 @@
     "group": "Working Group",
     "size_category": "Medium Breed",
     "tagline": "The Portuguese Water Dog is an athletic, curly-coated working breed that bonds strongly with family, thrives on real exercise, and sheds minimally. They need more activity than most people expect from a 'hypoallergenic' dog.",
-    "tags": ["working-group", "medium-breed", "low-shedding", "water-dog", "athletic", "dog-breeds"],
+    "tags": [
+      "working-group",
+      "medium-breed",
+      "low-shedding",
+      "water-dog",
+      "athletic",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-18T16:00:00Z",
     "excerpt": "Portuguese Water Dogs are energetic, intelligent working dogs that fit well into active households. Their low-shedding coat reduces allergen exposure but requires professional grooming every 6–8 weeks. Critical health screening — especially GM-1 DNA testing — is non-negotiable from any responsible breeder.",
     "meta_description": "Portuguese Water Dog breed guide: exercise needs, coat maintenance, GM-1 and JDCM health testing requirements, and what active ownership of this working breed actually involves."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "35–60 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "11–13 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Easy–Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Very good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes, with exercise commitment" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "35–60 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "11–13 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy–Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Very good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes, with exercise commitment"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/C%C3%A3o_de_agua_Portugu%C3%AAs_2.jpg/330px-C%C3%A3o_de_agua_Portugu%C3%AAs_2.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_ce5fc7dc-da08-4027-ac33-edf860f299b9.png?v=1777530496",
       "alt": "Portuguese Water Dog"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Portuguese Water Dog?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Portuguese Water Dog was developed on the Portuguese coast to work alongside fishermen — retrieving gear from the water, herding fish into nets, and acting as a courier between boats and shore. The breed nearly went extinct in the 20th century and was revived through the efforts of Portuguese shipping magnate Vasco Bensaúde and later American breeders. Today it's best known internationally for White House residence during the Obama administration — a visibility boost that significantly increased demand.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">What the breed actually offers: an athletic, medium-sized dog that bonds closely with family, is intelligent and trainable, loves water and physical activity, and sheds minimally. The low-shedding coat is real. The allergen reduction is real (though not complete — see the hypoallergenic caveat). The exercise requirement is also very real.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">A critical point before purchasing: ask every breeder for GM-1 Gangliosidosis and JDCM DNA test documentation for both parents. These are fatal or severe inherited diseases with available DNA tests. Any reputable breeder will have this documentation. Any breeder who cannot provide it should be avoided.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Portuguese Water Dogs Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A medium-sized, robustly built dog. Females weigh 35–50 lbs; males 42–60 lbs. Height 17–23 inches. The body is muscular and athletic — this was a working dog designed to swim in cold Atlantic waters all day.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The coat comes in two types: curly (tight, cylindrical curls with a matte appearance) or wavy (gentle waves with a slight sheen). Both are single-layer coats that shed minimally. Colors are black, white, brown, and combinations. Traditional show trims include the lion clip (hindquarters shaved, muzzle shaved) and the retriever clip (coat evenly trimmed short). For pet owners, most prefer a working retriever-style trim maintained by a groomer every 6–8 weeks.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Energetic, affectionate, and people-oriented. Portuguese Water Dogs bond strongly with their family and want to be involved in household activity — they are not content to be background dogs. They're playful, intelligent, and generally good with children and other dogs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The intelligence cuts both ways. These are dogs that learn quickly — including things you didn't intend to teach. Consistency in training matters. An under-exercised or under-stimulated Portie will find their own entertainment, which typically means destruction, counter-surfing, or persistence about whatever they want.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They are not particularly aloof with strangers — generally friendly and sociable. Alert without being reactive. They are natural swimmers and will take every opportunity to get wet, so keep that in mind around pools and bodies of water.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Portuguese Water Dog",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Portuguese Water Dogs are excellent dogs for active families who need a manageable size, don't want heavy shedding, and have the time to actually exercise the dog. They're smart, trainable, good with kids, and rewarding to live with.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Two things I'd make sure you understand before committing: First, the grooming cost is ongoing and unavoidable. The non-shedding coat grows continuously and requires professional trimming every 6–8 weeks for its entire life. That's $600–$1,200 per year in grooming fees on top of everything else. Budget it in from day one. Second, 'hypoallergenic' is a marketing term, not a medical one. Portuguese Water Dogs produce dander just like every other dog — they simply shed less of it. People with dog allergies vary enormously; some react to Porties and some don't. Spend time with the breed before committing if allergies are the primary motivation.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">And regardless of any other decision: get the GM-1 and JDCM DNA test documentation from the breeder before you put down a deposit.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of vigorous daily activity. Porties were built to work all day — leash walks alone won't cut it for most individuals. Swimming, fetch, agility, and off-leash play in a fenced area are ideal. A tired Portie is a calm Portie. An under-exercised one is a problem.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Professional grooming every 6–8 weeks is non-negotiable for a consistently maintained coat. Brushing between appointments (2–3 times per week) prevents matting, especially in curly-coat individuals. The coat does not shed onto furniture, but it does mat if ignored. See the <a href=\"/blogs/dog-breeds/portuguese-water-dog-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Portuguese Water Dog grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Generally eager to please and responsive to positive reinforcement. Porties are capable of impressive performance in obedience, agility, and water work. Early training takes advantage of their intelligence; skipping it means the dog trains itself to habits you won't like.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Generally a healthy breed with an 11–13 year lifespan. However, two specific inherited diseases — GM-1 and JDCM — are serious enough that breeder DNA testing is non-negotiable for responsible purchasing.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">GM-1 Gangliosidosis</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">A fatal inherited storage disease that causes progressive neurological deterioration. Autosomal recessive — a puppy needs two copies of the defective gene to be affected. DNA test available; responsible breeders test both parents and can demonstrate clear or carrier status. Do not purchase a puppy without this documentation. There is no treatment.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">JDCM (Juvenile Dilated Cardiomyopathy)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">A severe, typically fatal cardiac disease affecting young puppies. DNA test available. Responsible breeders test both parents. Ask for documentation.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">PRCD-PRA (Progressive Rod-Cone Degeneration)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited progressive retinal degeneration leading to blindness. DNA test available; reputable breeders screen for it. No treatment currently exists.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Less prevalent than in larger breeds but still relevant. OFA hip evaluation from breeders. Medical management in mild-to-moderate cases.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> GM-1 DNA test (both parents — non-negotiable), JDCM DNA test (both parents — non-negotiable), PRCD-PRA DNA test, OFA hip clearance.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$2,000–$3,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Professional grooming (every 6–8 wks)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,000–$6,000</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,800–$3,300</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">Professional grooming is the largest ongoing cost category. Budget it as a fixed expense from the beginning. See the <a href=\"/blogs/dog-breeds/portuguese-water-dog-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Portuguese Water Dog Right for You?",
@@ -91,25 +120,50 @@
         "Anyone unwilling to ask for and verify GM-1 and JDCM DNA test documentation"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Portuguese Water Dog",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$2,000–$3,500 from reputable breeders. Required documentation: GM-1 DNA test for both parents, JDCM DNA test for both parents, PRCD-PRA DNA test, OFA hip clearance. The Portuguese Water Dog Club of America maintains a breeder referral directory. Never skip the GM-1 and JDCM verification.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">PWDCA Rescue and regional Portuguese Water Dog rescue organizations exist. Availability is limited given the breed's relative rarity.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Portie comes home, complete the <a href=\"/blogs/dog-breeds/portuguese-water-dog-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Portuguese Water Dog puppy checklist</a> — groomer selection and first appointment scheduling belong on the pre-arrival task list.</p>"
     }
   },
-
   "faq": [
-    { "q": "Are Portuguese Water Dogs truly hypoallergenic?", "a": "No dog is truly hypoallergenic — all dogs produce dander, which is the primary allergen for most allergy sufferers. Portuguese Water Dogs shed minimally, which reduces the amount of dander distributed through your home. Many people with dog allergies tolerate them better than heavy-shedding breeds. But tolerance varies significantly by individual — spend time with the breed before committing if allergies are the reason you're considering them." },
-    { "q": "What is GM-1 and why should I ask the breeder about it?", "a": "GM-1 Gangliosidosis is an inherited fatal storage disease identified in Portuguese Water Dogs. It is autosomal recessive, meaning a puppy must inherit the defective gene from both parents to be affected. A DNA test exists that identifies whether each dog is clear, a carrier, or affected. Responsible breeders test both parents and can produce documentation. Never purchase a puppy from a breeder who cannot provide GM-1 DNA test results for both parents." },
-    { "q": "How much grooming do Portuguese Water Dogs actually need?", "a": "More than most people expect. The coat doesn't shed onto furniture, but it grows continuously and mats if not brushed regularly and trimmed professionally. Plan for professional grooming appointments every 6–8 weeks for the dog's entire life, plus brushing 2–3 times per week at home between appointments. Grooming is a fixed, ongoing cost — budget $600–$1,200 per year." },
-    { "q": "How much exercise does a Portuguese Water Dog need?", "a": "60–90 minutes of vigorous activity daily. This is a working dog breed built for physical labor — regular leash walks don't meet the need for most individuals. Swimming, fetch, agility, and off-leash play in fenced areas are ideal. An under-exercised Portie will find destructive outlets." }
+    {
+      "q": "Are Portuguese Water Dogs truly hypoallergenic?",
+      "a": "No dog is truly hypoallergenic — all dogs produce dander, which is the primary allergen for most allergy sufferers. Portuguese Water Dogs shed minimally, which reduces the amount of dander distributed through your home. Many people with dog allergies tolerate them better than heavy-shedding breeds. But tolerance varies significantly by individual — spend time with the breed before committing if allergies are the reason you're considering them."
+    },
+    {
+      "q": "What is GM-1 and why should I ask the breeder about it?",
+      "a": "GM-1 Gangliosidosis is an inherited fatal storage disease identified in Portuguese Water Dogs. It is autosomal recessive, meaning a puppy must inherit the defective gene from both parents to be affected. A DNA test exists that identifies whether each dog is clear, a carrier, or affected. Responsible breeders test both parents and can produce documentation. Never purchase a puppy from a breeder who cannot provide GM-1 DNA test results for both parents."
+    },
+    {
+      "q": "How much grooming do Portuguese Water Dogs actually need?",
+      "a": "More than most people expect. The coat doesn't shed onto furniture, but it grows continuously and mats if not brushed regularly and trimmed professionally. Plan for professional grooming appointments every 6–8 weeks for the dog's entire life, plus brushing 2–3 times per week at home between appointments. Grooming is a fixed, ongoing cost — budget $600–$1,200 per year."
+    },
+    {
+      "q": "How much exercise does a Portuguese Water Dog need?",
+      "a": "60–90 minutes of vigorous activity daily. This is a working dog breed built for physical labor — regular leash walks don't meet the need for most individuals. Swimming, fetch, agility, and off-leash play in fenced areas are ideal. An under-exercised Portie will find destructive outlets."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Standard Poodle", "slug": "standard-poodle", "note": "Similar low-shedding coat, highly trainable, larger size"},
-    {"name": "Labrador Retriever", "slug": "labrador-retriever", "note": "Similar water and retriever heritage, friendly, heavy shedder"},
-    {"name": "Soft Coated Wheaten Terrier", "slug": "soft-coated-wheaten-terrier", "note": "Low-shedding terrier, similar size, more independent temperament"},
-    {"name": "Lagotto Romagnolo", "slug": "lagotto-romagnolo", "note": "Curly-coated Italian working dog, lower energy, truffle-hunting heritage"}
+    {
+      "name": "Standard Poodle",
+      "slug": "standard-poodle",
+      "note": "Similar low-shedding coat, highly trainable, larger size"
+    },
+    {
+      "name": "Labrador Retriever",
+      "slug": "labrador-retriever",
+      "note": "Similar water and retriever heritage, friendly, heavy shedder"
+    },
+    {
+      "name": "Soft Coated Wheaten Terrier",
+      "slug": "soft-coated-wheaten-terrier",
+      "note": "Low-shedding terrier, similar size, more independent temperament"
+    },
+    {
+      "name": "Lagotto Romagnolo",
+      "slug": "lagotto-romagnolo",
+      "note": "Curly-coated Italian working dog, lower energy, truffle-hunting heritage"
+    }
   ]
 }

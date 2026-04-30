@@ -6,74 +6,103 @@
     "group": "Terrier Group",
     "size_category": "Small Breed",
     "tagline": "The Westie is a confident, charming, robust small terrier with a bright personality and a long history as a working earth dog. They're hardy and spirited — but carry atopic dermatitis and a devastating pulmonary disease that every owner must know about.",
-    "tags": ["terrier-group", "small-breed", "white-coat", "sturdy", "scottish-breed", "dog-breeds"],
+    "tags": [
+      "terrier-group",
+      "small-breed",
+      "white-coat",
+      "sturdy",
+      "scottish-breed",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Westies are one of the most popular small breeds for good reason — bold, affectionate, and relatively sturdy. The honest ownership picture includes near-certainty of skin management ('Westie itch') and awareness of Westie Pulmonary Fibrosis, a progressive fatal lung disease that can appear in middle age.",
     "meta_description": "West Highland White Terrier breed guide: temperament, atopic dermatitis management, Westie Pulmonary Fibrosis warning signs, CMO, grooming requirements, and honest small-breed ownership expectations."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Small" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "15–22 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–16 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "30–45 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate–High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes, with research" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "15–22 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–16 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "30–45 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate–High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes, with research"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/West_Highland_White_Terrier_Krakow.jpg/330px-West_Highland_White_Terrier_Krakow.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_143b478b-9a62-4883-a821-a867f90fda52.png?v=1777532983",
       "alt": "West Highland White Terrier"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a West Highland White Terrier?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The West Highland White Terrier — the Westie — is a small Scottish earth terrier developed in the highlands to hunt foxes, badgers, and vermin from underground dens. The white coat was deliberately selected by the Malcolms of Poltalloch to distinguish dogs from the quarry during hunts. The result is a breed that looks pristine but was built to work hard and withstand harsh terrain.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Westies pack a full-sized terrier personality into a small frame: confident, curious, spirited, and occasionally stubborn. They're good family dogs — genuinely affectionate with their people, more adaptable than many terriers, and sturdy enough to handle active children without fragility concerns.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The honest health picture requires upfront knowledge: atopic dermatitis (the \"Westie itch\") affects the majority of the breed and is a lifelong management challenge, not a one-time fix. And Westie Pulmonary Fibrosis (WPF) — a progressive, fatal lung disease — can appear in middle-aged to older Westies without warning. It has no cure. Owners need to know the signs.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Westies Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A compact, well-balanced small terrier. Males weigh 15–22 lbs and stand 11 inches; females slightly lighter at 10 inches. The coat is always white — a hard, dense outer coat over a soft undercoat, giving the breed a characteristic full-face appearance with the mane of white around the head.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The carrot-shaped tail carried upright, erect ears, and round, dark eyes give the Westie a bright, alert expression. The breed is solidly built for its size — the body should feel firm and muscular, not toy-like. This is a working dog in a small package.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Westies are confident to the point of fearlessness — a characteristic of all working terriers. They investigate everything, are not intimidated by larger dogs, and will stand their ground if challenged. This confidence is an asset when paired with training and socialization; it becomes a liability in dogs that haven't been taught appropriate limits.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family: affectionate and engaged. Westies are not lap dogs in the passive sense, but they want to be near their people and are loyal in the terrier way — present, interested, involved. They enjoy play and can be genuinely cuddly when it's their idea.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The terrier stubbornness is real: when a Westie decides something is not worth doing, the resistance can be impressive. Short, positive training sessions with clear rewards work far better than prolonged drilling or corrections. They're not difficult dogs, but they're not golden retrievers either.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Westie",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Westies are one of the better small dog choices for people who want genuine terrier personality without the full management requirements of a larger breed. They're sturdy, adaptable, and have a bright energy that makes them genuinely fun to live with. For the right household — active, consistent, willing to handle grooming — they're excellent.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The health conversation is important and specific. Atopic dermatitis — the Westie itch — is not a small concern. It affects a large proportion of the breed, typically presenting as paw licking, ear infections, and belly redness, and it requires ongoing management: dietary trials, medicated shampoos, possibly apoquel or cytopoint injections, and consistent vet supervision. It's a chronic condition, not a one-time fix. Budget for it and expect it.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Westie Pulmonary Fibrosis is the more serious and less widely known concern. WPF is a progressive lung disease with no cure that tends to appear in middle-aged to senior Westies — exercise intolerance, coughing, and labored breathing that worsens over months. It's not something you can prevent, but knowing the signs means earlier diagnosis and better supportive management. Get pet insurance before the first vet visit.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">30–45 minutes daily. Despite their small size, Westies have real energy and need genuine exercise — not just a brief bathroom trip. Daily walks plus active play time are the baseline. They enjoy games, fetch, and exploratory walks where they can sniff and investigate. Avoid off-leash in unfenced areas — the prey drive is genuine and they will chase.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Professional grooming every 6–8 weeks. The white double coat can be maintained in a trim cut (clipped) or hand-stripped to maintain proper texture — hand-stripping preserves the hard outer coat that trim schedules with clippers soften over time. See the <a href=\"/blogs/dog-breeds/west-highland-white-terrier-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Westie grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Positive reinforcement with high-value treats works well. Keep sessions short and varied to maintain engagement. Westies are smart enough to learn quickly and stubborn enough to check whether you're paying attention. Start from day one and establish household rules before the terrier independence decides the rules are optional.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Westies can live 12–16 years. The breed has well-documented health challenges — primarily skin-related and respiratory. Being aware of these before ownership allows for better preparation and faster action when issues arise.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Atopic Dermatitis (Westie Itch)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Environmental or food allergy manifesting as chronic skin inflammation. Very common in the breed — paw licking, ear infections, belly redness, and facial rubbing are the typical signs. Manageable with diet trials, medicated shampoos, Apoquel/Cytopoint, or immunotherapy. Requires ongoing vet involvement and a long-term management plan, not a single fix.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Westie Pulmonary Fibrosis (WPF)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">A progressive, fatal lung disease specific to the breed. Scar tissue replaces normal lung tissue, causing worsening breathlessness and exercise intolerance. Typically presents in middle-aged to older Westies. No cure — management is supportive. Know the signs: exercise intolerance, coughing after exertion, labored breathing at rest. Early diagnosis enables better quality of life management.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Craniomandibular Osteopathy (CMO)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Abnormal bone growth in the jaw of puppies — causes pain, difficulty eating, and drooling in puppies 3–8 months old. Typically resolves by 12–18 months as the excess bone is reabsorbed. Manageable with pain medication during the active phase. DNA test available.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Legg-Calvé-Perthes Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Degeneration of the femoral head in young small-breed dogs. Causes lameness in one hind leg in dogs under 2 years. Surgical treatment (femoral head removal) is typically curative and outcome is generally good with prompt treatment.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Key actions:</strong> Enroll in pet insurance before the first vet visit. Establish atopic dermatitis monitoring from puppyhood. Know WPF warning signs. Ask breeder about CMO DNA test status.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$2,800–$5,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (small breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming (6–8 wks)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$650</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$650</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$150–$300</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$4,250–$8,350</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,200–$2,250</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/west-highland-white-terrier-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Westie first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a West Highland White Terrier Right for You?",
@@ -91,25 +120,50 @@
         "Households with small pets like cats or rabbits (prey drive is real)"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Westie",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$2,800–$5,500 from reputable breeders. The West Highland White Terrier Club of America maintains a breeder referral directory. Ask breeders about their lines' skin health history and CMO DNA test status. Reputable breeders are forthcoming about the breed's health challenges and track outcomes in their breeding lines.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Westie rescue organizations operate regionally. Many surrendered Westies come from households that couldn't manage the skin or grooming requirements. An adult rescue Westie with a known skin history can actually be easier to manage than starting fresh with a puppy.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Westie comes home, complete the <a href=\"/blogs/dog-breeds/west-highland-white-terrier-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Westie puppy checklist</a> — pet insurance enrollment, vet relationship established, and WPF warning signs committed to memory are the priority items.</p>"
     }
   },
-
   "faq": [
-    { "q": "Do all Westies get skin problems?", "a": "A majority of Westies develop some degree of atopic dermatitis — it's one of the most common health issues in the breed. Not every dog is severely affected, but owners should expect some level of skin management as a likely ongoing cost rather than a surprise. Early dietary trials and a vet who knows the breed can make management significantly more effective." },
-    { "q": "What is Westie Pulmonary Fibrosis?", "a": "WPF is a progressive lung disease specific to the breed in which scar tissue progressively replaces healthy lung tissue. It typically appears in middle-aged to older Westies — usually 6 years and older — and presents as increasing exercise intolerance, coughing, and labored breathing. There is no cure, but supportive management can maintain quality of life when caught early. Owners should know these warning signs and discuss them with their vet proactively." },
-    { "q": "Can Westies live in apartments?", "a": "Yes — their size makes apartment living workable, provided the daily exercise requirement is met through regular walks and outdoor play. The main apartment consideration is barking: Westies are alert and vocal, and will bark at sounds in the hallway. Training a quiet command from puppyhood is important in shared-wall living situations." },
-    { "q": "How often do Westies need professional grooming?", "a": "Every 6–8 weeks for coat maintenance in a trim. Between appointments, brushing 2–3 times per week prevents matting and keeps the coat clean. The white coat shows dirt but is less prone to staining than it looks — Westie coats have a natural dirt-repelling quality when properly maintained." }
+    {
+      "q": "Do all Westies get skin problems?",
+      "a": "A majority of Westies develop some degree of atopic dermatitis — it's one of the most common health issues in the breed. Not every dog is severely affected, but owners should expect some level of skin management as a likely ongoing cost rather than a surprise. Early dietary trials and a vet who knows the breed can make management significantly more effective."
+    },
+    {
+      "q": "What is Westie Pulmonary Fibrosis?",
+      "a": "WPF is a progressive lung disease specific to the breed in which scar tissue progressively replaces healthy lung tissue. It typically appears in middle-aged to older Westies — usually 6 years and older — and presents as increasing exercise intolerance, coughing, and labored breathing. There is no cure, but supportive management can maintain quality of life when caught early. Owners should know these warning signs and discuss them with their vet proactively."
+    },
+    {
+      "q": "Can Westies live in apartments?",
+      "a": "Yes — their size makes apartment living workable, provided the daily exercise requirement is met through regular walks and outdoor play. The main apartment consideration is barking: Westies are alert and vocal, and will bark at sounds in the hallway. Training a quiet command from puppyhood is important in shared-wall living situations."
+    },
+    {
+      "q": "How often do Westies need professional grooming?",
+      "a": "Every 6–8 weeks for coat maintenance in a trim. Between appointments, brushing 2–3 times per week prevents matting and keeps the coat clean. The white coat shows dirt but is less prone to staining than it looks — Westie coats have a natural dirt-repelling quality when properly maintained."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Cairn Terrier", "slug": "cairn-terrier", "note": "Closest relative — the Westie was developed from Cairn Terrier stock, same working origins, less skin-prone on average"},
-    {"name": "Scottish Terrier", "slug": "scottish-terrier", "note": "Scottish terrier cousin, darker coat, more serious temperament, similar stubbornness"},
-    {"name": "Miniature Schnauzer", "slug": "miniature-schnauzer", "note": "Similar small size, terrier personality, low-shedding coat"},
-    {"name": "Norfolk Terrier", "slug": "norfolk-terrier", "note": "Smaller, wiry-coated terrier, similar bold personality in an even more compact frame"}
+    {
+      "name": "Cairn Terrier",
+      "slug": "cairn-terrier",
+      "note": "Closest relative — the Westie was developed from Cairn Terrier stock, same working origins, less skin-prone on average"
+    },
+    {
+      "name": "Scottish Terrier",
+      "slug": "scottish-terrier",
+      "note": "Scottish terrier cousin, darker coat, more serious temperament, similar stubbornness"
+    },
+    {
+      "name": "Miniature Schnauzer",
+      "slug": "miniature-schnauzer",
+      "note": "Similar small size, terrier personality, low-shedding coat"
+    },
+    {
+      "name": "Norfolk Terrier",
+      "slug": "norfolk-terrier",
+      "note": "Smaller, wiry-coated terrier, similar bold personality in an even more compact frame"
+    }
   ]
 }

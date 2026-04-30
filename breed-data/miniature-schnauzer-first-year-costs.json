@@ -5,20 +5,24 @@
     "shopify_handle": "miniature-schnauzer-first-year-costs",
     "group": "Miniature Schnauzer",
     "size_category": "Guide",
-    "tags": ["miniature-schnauzer", "cost", "first-year", "small-breed", "grooming-cost"],
+    "tags": [
+      "miniature-schnauzer",
+      "cost",
+      "first-year",
+      "small-breed",
+      "grooming-cost"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Miniature Schnauzers cost $2,800–$5,500 in year one. Grooming runs $500–$700/year ongoing — a permanent budget item for this low-shedding breed.",
     "meta_description": "Miniature Schnauzer first year cost breakdown: puppy price, professional grooming schedule costs, vet care, food, and realistic annual ownership expenses."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Miniature_Schnauzer_salt_%26_pepper_%28cropped%29.jpg/330px-Miniature_Schnauzer_salt_%26_pepper_%28cropped%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_de3c71bd-8076-4915-a85c-1633f9e18aa5.png?v=1777529852",
       "alt": "Miniature Schnauzer cost guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
@@ -36,7 +40,6 @@
       "html": "<p>Miniature Schnauzers are genetically prone to hyperlipidemia (high blood triglycerides and cholesterol). High-fat foods — bacon, sausage, fatty meat scraps, many commercial dog treats — can trigger pancreatitis. A single pancreatitis episode requiring hospitalization costs more than several years of insurance premiums.</p><h3>Practical Prevention</h3><ul><li>Feed a quality dry kibble with moderate fat content (10–15% fat on dry matter basis)</li><li>Read treat labels — avoid treats with fat as the first or second ingredient</li><li>No table scraps, especially from fatty meals</li><li>No rawhide or high-fat chews (bully sticks are high in fat)</li><li>Appropriate treats: lean protein, low-fat commercial treats, plain cooked chicken or turkey</li></ul><p>This is free prevention. The alternative — multiple pancreatitis episodes over a lifetime — can easily cost $5,000–$10,000 cumulative in emergency vet bills.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How much does a Miniature Schnauzer puppy cost?",

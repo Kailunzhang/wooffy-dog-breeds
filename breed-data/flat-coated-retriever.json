@@ -6,74 +6,103 @@
     "group": "Sporting Group",
     "size_category": "Large Breed",
     "tagline": "The Flat-Coated Retriever is the most exuberant, joyful retriever in existence — a dog that genuinely maintains puppy energy well into adulthood. That happiness is real and wonderful. So is the cancer rate, which every prospective owner must understand before bringing one home.",
-    "tags": ["sporting-group", "large-breed", "retriever", "high-energy", "friendly", "dog-breeds"],
+    "tags": [
+      "sporting-group",
+      "large-breed",
+      "retriever",
+      "high-energy",
+      "friendly",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "Flat-Coated Retrievers are joyful, affectionate, and endlessly enthusiastic dogs — the breed is sometimes called the 'Peter Pan of retrievers' for good reason. The honest conversation that must accompany any interest in this breed is the cancer rate: malignant histiocytosis devastates this breed at a rate and age that no prospective owner should be surprised by.",
     "meta_description": "Flat-Coated Retriever breed guide: the 'forever puppy' personality, exercise needs, cancer risk and malignant histiocytosis in this breed, grooming, and the honest trade-offs of ownership."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "55–70 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "8–10 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise",  "value": "90+ min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Easy" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Manageable" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "55–70 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "8–10 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Excellent"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Manageable"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flat_Coated_Retriever_-_black.jpg/250px-Flat_Coated_Retriever_-_black.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_e6b0ece5-1f33-4c87-b62f-1200d5279cfe.png?v=1777527794",
       "alt": "Flat-Coated Retriever"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Flat-Coated Retriever?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Flat-Coated Retriever is a British gundog developed in the mid-19th century as a dual-purpose retriever capable of working both land and water. They were once the most popular retriever in England before the Labrador's rise to dominance. Today they're far less common — and known primarily to those who have loved one, or who have done careful breed research.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The personality is genuinely special. Flat-Coats are often described as the \"Peter Pan\" of retrievers because they maintain puppy-like enthusiasm and playfulness well into adulthood — sometimes for their entire lives. They are happy, friendly, and genuinely enjoy being around people. For active families who want an enthusiastic companion, they are a wonderful breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">There is one thing every prospective Flat-Coat owner must understand before making this decision: malignant histiocytosis, an aggressive cancer, affects this breed at a rate that is genuinely sobering. This is not a minor health footnote — it is a defining characteristic of Flat-Coat ownership that must be accepted and planned for before bringing one home.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Flat-Coated Retrievers Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Males 23–24.5 inches, females slightly smaller. Weight 55–70 lbs. The coat is flat, dense, and glossy — either solid black or solid liver (reddish-brown). Feathering appears on the ears, chest, legs, and tail. The breed has a distinctive \"one-piece\" head with a long, flat skull that flows smoothly into the muzzle without a pronounced stop.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The overall impression is an athletic, elegant dog with a happy expression. Flat-Coats look like what they are: a working retriever that moves with purpose and carries itself with enthusiasm rather than gravity.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Flat-Coated Retrievers are genuinely joyful dogs. The enthusiasm is not a marketing description — it's a consistent characteristic of the breed. They greet life with energy and positivity that is infectious. This makes them wonderful family dogs, excellent therapy dogs, and easy training subjects — they want to please and they enjoy working with people.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The \"forever puppy\" description comes with a caveat: maturity is slow. Flat-Coats can remain exuberant and puppy-like well past their second birthday, sometimes past their third. This is not a behavior problem — it's breed-typical. It means the early training investment pays off in a dog that remains trainable and responsive throughout life, but it also means owners need patience with a large, bouncy dog that may not settle as quickly as a Lab of the same age.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With strangers, Flat-Coats are generally friendly and welcoming — this is not a protective or aloof breed. With other dogs, they are typically sociable. With children, they are enthusiastic and patient, though their exuberance means small children should be supervised around a bouncy young Flat-Coat.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "The Honest Conversation About Flat-Coated Retrievers",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Malignant histiocytosis (MH) is an aggressive, fast-moving cancer that affects Flat-Coated Retrievers at a rate that is genuinely disproportionate to other breeds. Studies suggest that cancer — largely but not exclusively MH — accounts for the majority of Flat-Coat deaths. Many dogs are diagnosed between the ages of 4 and 8. The lifespan average of 8–10 years reflects this reality, not general fragility.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">This is not a reason to dismiss the breed — many Flat-Coat owners are fully aware of this and love the breed deeply. It is a reason to go in with your eyes open and your decisions made thoughtfully. Get pet insurance on day one, before any vet visit. Find an oncology-aware veterinarian. Understand that the lifespan may be shorter than you'd expect from a dog of this size and energy level.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The personality genuinely is as advertised. Flat-Coat owners consistently describe their dogs as among the happiest, most joyful dogs they've ever known. The grief when cancer arrives is proportional to the joy that preceded it. That is the honest picture of this breed.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">90+ minutes of vigorous exercise daily. Flat-Coats are high-energy dogs that need real activity — running, swimming, fetch, field work, agility. They mature slowly and remain energetic well into adulthood. An under-exercised Flat-Coat will channel that energy into the household environment in ways you won't appreciate.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Weekly brushing maintains the flat, glossy coat and removes loose hair. The feathering on the legs, chest, and tail needs occasional trimming to prevent matting and debris accumulation after outdoor activity. Bathing every 6–8 weeks or as needed. See the <a href=\"/blogs/dog-breeds/flat-coated-retriever-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Flat-Coat grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Enthusiastic and eager to please — training is genuinely enjoyable with this breed. Positive reinforcement works extremely well. The main training challenge is not resistance but distractibility and puppy-brain that persists longer than expected. Keep sessions fun and upbeat; harsh corrections are unnecessary and counterproductive with a breed this willing.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Flat-Coated Retriever's primary health challenge is cancer — specifically malignant histiocytosis. This is the most significant health conversation for this breed and should be the first topic addressed with any breeder.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Malignant Histiocytosis</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">An aggressive, fast-spreading cancer that disproportionately affects Flat-Coated Retrievers. Affects a significant proportion of the breed, often in dogs aged 4–8 years. Symptoms include lethargy, weight loss, respiratory changes, and lumps. Early detection through regular veterinary exams matters. No genetic test currently exists — this is a breed-wide susceptibility. Pet insurance from day one is essential.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Malformed hip joint. OFA screening available and required from responsible breeders. Manageable medically; surgical options for severe cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited retinal degeneration. DNA test available for some forms. Ask breeders for eye clearances (CAER exam) and PRA test status.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Glaucoma</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Increased pressure within the eye, causing pain and eventual vision loss if untreated. Annual CAER eye exams can identify early changes. Treatment is available for managing intraocular pressure.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip certification, CAER eye exam, PRA DNA test. Ask about cancer history in the breeding lines — a transparent breeder will discuss it honestly.</p><p style=\"font-size:0.82em;color:#6b7177;margin:8px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Pet insurance is essential</strong> from day one for this breed. Do not wait until after the first vet visit.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,000–$2,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance (essential for this breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,900–$5,400</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,650–$2,800</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">Cancer treatment costs can be substantial — chemotherapy and oncology consults range from $3,000–$10,000+ depending on the treatment chosen. Insurance from day one is the most important financial preparation for owning a Flat-Coat. See the <a href=\"/blogs/dog-breeds/flat-coated-retriever-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Flat-Coated Retriever Right for You?",
@@ -92,24 +121,45 @@
         "Anyone who will not get comprehensive pet insurance from day one"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Flat-Coated Retriever",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,000–$2,000 from health-testing breeders. The Flat-Coated Retriever Society of America maintains a breeder directory. Required health clearances: OFA hip, CAER eye exam. When speaking with breeders, ask directly about cancer history in their lines — any breeder unwilling to discuss it honestly is one to avoid.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Flat-Coated Retriever rescue organizations exist but have limited availability given the breed's relative rarity. The FCRSA can connect prospective owners with rescue contacts.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Flat-Coat comes home, complete the <a href=\"/blogs/dog-breeds/flat-coated-retriever-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Flat-Coat puppy checklist</a> — insurance enrollment before the first vet visit is the most critical first step for this breed specifically.</p>"
     }
   },
-
   "faq": [
-    { "q": "What is malignant histiocytosis in Flat-Coated Retrievers?", "a": "It's an aggressive cancer of histiocytic cells (immune system cells) that affects Flat-Coated Retrievers at a disproportionately high rate compared to most breeds. It spreads rapidly and typically affects dogs in the 4–8 year age range, though it can occur earlier or later. There is no genetic screening test currently available. Treatment options include chemotherapy and surgery, but the prognosis for many cases is guarded. Pet insurance from day one is essential." },
-    { "q": "How long do Flat-Coated Retrievers live?", "a": "The breed average is 8–10 years, which is shorter than most retriever breeds of similar size. This is largely attributable to the elevated cancer rate. Some Flat-Coats live to 12–14 years; others are lost to cancer at 5 or 6. Being prepared emotionally and financially for a shorter potential lifespan is part of the honest picture of this breed." },
-    { "q": "Are Flat-Coated Retrievers good with children?", "a": "Excellent — they are genuinely enthusiastic with children and patient about it. The main consideration is their exuberance as young adults. A bouncy Flat-Coat that hasn't learned manners can knock over small children simply from enthusiasm, not aggression. Basic training to sit for greetings addresses this entirely." },
-    { "q": "How is a Flat-Coated Retriever different from a Golden or Labrador?", "a": "Flat-Coats are generally described as more puppy-like for longer than either breed, and arguably more joyful in temperament. They're less common and harder to find from breeders. The critical practical difference is the cancer risk — Goldens have an elevated cancer rate too, but the Flat-Coat's malignant histiocytosis rate is particularly notable. In terms of ease of training and family friendliness, all three breeds are in the same tier." }
+    {
+      "q": "What is malignant histiocytosis in Flat-Coated Retrievers?",
+      "a": "It's an aggressive cancer of histiocytic cells (immune system cells) that affects Flat-Coated Retrievers at a disproportionately high rate compared to most breeds. It spreads rapidly and typically affects dogs in the 4–8 year age range, though it can occur earlier or later. There is no genetic screening test currently available. Treatment options include chemotherapy and surgery, but the prognosis for many cases is guarded. Pet insurance from day one is essential."
+    },
+    {
+      "q": "How long do Flat-Coated Retrievers live?",
+      "a": "The breed average is 8–10 years, which is shorter than most retriever breeds of similar size. This is largely attributable to the elevated cancer rate. Some Flat-Coats live to 12–14 years; others are lost to cancer at 5 or 6. Being prepared emotionally and financially for a shorter potential lifespan is part of the honest picture of this breed."
+    },
+    {
+      "q": "Are Flat-Coated Retrievers good with children?",
+      "a": "Excellent — they are genuinely enthusiastic with children and patient about it. The main consideration is their exuberance as young adults. A bouncy Flat-Coat that hasn't learned manners can knock over small children simply from enthusiasm, not aggression. Basic training to sit for greetings addresses this entirely."
+    },
+    {
+      "q": "How is a Flat-Coated Retriever different from a Golden or Labrador?",
+      "a": "Flat-Coats are generally described as more puppy-like for longer than either breed, and arguably more joyful in temperament. They're less common and harder to find from breeders. The critical practical difference is the cancer risk — Goldens have an elevated cancer rate too, but the Flat-Coat's malignant histiocytosis rate is particularly notable. In terms of ease of training and family friendliness, all three breeds are in the same tier."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Golden Retriever", "slug": "golden-retriever", "note": "Closely related in temperament, more widely available, also has elevated cancer risk"},
-    {"name": "Labrador Retriever", "slug": "labrador-retriever", "note": "More common retriever, slightly more settled temperament, longer typical lifespan"},
-    {"name": "Nova Scotia Duck Tolling Retriever", "slug": "nova-scotia-duck-tolling-retriever", "note": "Smaller, rarer retriever, high energy, similar sporting background"}
+    {
+      "name": "Golden Retriever",
+      "slug": "golden-retriever",
+      "note": "Closely related in temperament, more widely available, also has elevated cancer risk"
+    },
+    {
+      "name": "Labrador Retriever",
+      "slug": "labrador-retriever",
+      "note": "More common retriever, slightly more settled temperament, longer typical lifespan"
+    },
+    {
+      "name": "Nova Scotia Duck Tolling Retriever",
+      "slug": "nova-scotia-duck-tolling-retriever",
+      "note": "Smaller, rarer retriever, high energy, similar sporting background"
+    }
   ]
 }

@@ -5,20 +5,25 @@
     "shopify_handle": "saint-bernard-grooming-guide",
     "group": "Saint Bernard",
     "size_category": "Guide",
-    "tags": ["saint-bernard", "grooming", "double-coat", "shedding", "wrinkle-care", "drool-management"],
+    "tags": [
+      "saint-bernard",
+      "grooming",
+      "double-coat",
+      "shedding",
+      "wrinkle-care",
+      "drool-management"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Saint Bernard grooming covers two coat varieties, significant shedding, and the critical skin fold and wrinkle care that prevents yeast and bacterial infections. The drool management is a separate daily discipline.",
     "meta_description": "Saint Bernard grooming guide: rough vs smooth coat differences, brushing routine, skin fold cleaning, ear care, and drool management strategies for a giant breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hummel_Vedor_vd_Robandahoeve.jpg/330px-Hummel_Vedor_vd_Robandahoeve.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_adea74c1-18d0-4df1-919c-94407688b586.png?v=1777531101",
       "alt": "Saint Bernard grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Coat Varieties",
@@ -36,7 +41,6 @@
       "html": "<h3>Skin Fold Care (Critical)</h3><p>Saint Bernards have facial skin folds, wrinkles around the muzzle, and jowl folds that accumulate moisture, drool, food debris, and dead skin. These warm, moist environments are ideal for yeast and bacterial growth. Without regular cleaning, skin fold dermatitis develops — redness, odor, and infection.</p><p>Cleaning routine:</p><ul><li>Wipe all facial folds with a damp cloth or unscented baby wipe at least 2–3 times weekly — more frequently if the dog drools heavily or has deep folds</li><li>Dry the folds completely after cleaning — moisture left in the fold defeats the purpose</li><li>During bathing, clean folds thoroughly and dry completely before the dog dries naturally</li><li>Signs of fold infection: redness, swelling, odor, discharge, or the dog rubbing its face. See your vet — fold infections need treatment, not just more cleaning</li></ul><h3>Ear Care</h3><p>The pendant ears limit air circulation and trap moisture. Check ears weekly for odor, redness, or debris. Wipe the outer canal with a cotton ball dampened with veterinary ear cleaner. Do not insert cotton swabs into the ear canal. If you notice head-shaking, pawing at ears, or strong odor, see your vet — ear infections are common and need veterinary treatment.</p><h3>Drool Management</h3><p>Drool is not a grooming issue per se but requires daily management:</p><ul><li>Microfiber cloths in every room, kept accessible for quick wipe-downs</li><li>Wipe the face and jowls after every drink and meal</li><li>Check the jowl area and lip folds for accumulated drool and dry them — drool sitting in skin folds contributes to fold dermatitis</li><li>Drool bibs are available and reduce floor and furniture drool when the dog is resting</li></ul>"
     }
   },
-
   "faq": [
     {
       "q": "How do I prevent skin fold infections in a Saint Bernard?",

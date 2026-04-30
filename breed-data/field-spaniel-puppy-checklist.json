@@ -5,20 +5,25 @@
     "shopify_handle": "field-spaniel-puppy-checklist",
     "group": "Field Spaniel",
     "size_category": "Guide",
-    "tags": ["field-spaniel", "puppy", "checklist", "PRA", "eye-health", "ear-cleaning"],
+    "tags": [
+      "field-spaniel",
+      "puppy",
+      "checklist",
+      "PRA",
+      "eye-health",
+      "ear-cleaning"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "Before your Field Spaniel comes home: PRA DNA test and ophthalmology exam documentation from both parents, insurance active before the first vet visit, and a groomer experienced with spaniel coats identified before the first trim.",
     "meta_description": "Field Spaniel puppy checklist: PRA DNA test and eye health documentation, insurance timing, ear cleaning from day one, socialization priorities, and first vet visit items for this rare spaniel."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Field_spaniel_581.jpg/250px-Field_spaniel_581.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5e2fb721-e817-49e7-a929-02c31001507b.png?v=1777527734",
       "alt": "Field Spaniel puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Socialization Window: 8–16 Weeks</h3><p>Field Spaniels are gentle, sensitive dogs — positive early socialization shapes a confident, well-adjusted adult. This is a breed that can become shy or anxious without adequate early exposure. Prioritize:</p><ul><li>Varied people: different ages, appearances, children, visitors to the home</li><li>Novel environments: different surfaces, sounds, settings</li><li>Controlled dog interactions: puppy classes are valuable for both socialization and obedience foundation</li><li>Handling: ears, paws, eyes — especially important given the breed's grooming and health monitoring requirements</li></ul><p>Carry the puppy in high disease-risk areas before vaccinations are complete. The socialization window is too brief to sacrifice.</p><h3>Training Approach</h3><p>Field Spaniels are sensitive dogs that respond strongly to the tone and manner of training. Harsh corrections produce anxiety and shutdown; positive reinforcement produces engaged, willing learners. This is not a breed for forceful training methods. Start basic obedience from the first week with food rewards and praise. A puppy class by 10–12 weeks provides structure and socialization simultaneously.</p><h3>Eye Monitoring — Ongoing</h3><p>Make a habit of observing the dog's vision in varying light conditions. Note any reluctance to navigate stairs in dim light, any squinting, cloudiness, or eye discharge. These observations at any life stage warrant veterinary evaluation. Early detection of progressive conditions allows for better management planning.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Why is eye health testing so important for Field Spaniels?",

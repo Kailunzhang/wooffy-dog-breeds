@@ -6,74 +6,103 @@
     "group": "Herding Group",
     "size_category": "Small-Medium Breed",
     "tagline": "The Miniature American Shepherd is essentially a compact Australian Shepherd — same intelligence, same herding drive, same energy packed into a 20–40 lb body. A great match for active owners who want a herding dog that travels and lives a bit more easily.",
-    "tags": ["herding-group", "small-medium-breed", "intelligent", "active", "herding-dog", "dog-breeds"],
+    "tags": [
+      "herding-group",
+      "small-medium-breed",
+      "intelligent",
+      "active",
+      "herding-dog",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "The Mini American Shepherd delivers everything the Australian Shepherd offers — intelligence, drive, trainability, loyalty — in a more compact package. The energy and mental stimulation needs are not reduced. Plan for a very active companion with CEA and MDR1 health tests required from any breeder.",
     "meta_description": "Miniature American Shepherd breed guide: energy and exercise needs, herding drive in a smaller body, CEA and MDR1 health testing, and what compact herding dog ownership requires."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Small-Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "20–40 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–13 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise",  "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming",  "value": "Moderate" },
-    "training": { "emoji": "🎓", "label": "Training",  "value": "Easy-Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With commitment" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small-Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "20–40 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–13 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy-Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "With commitment"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blue_Merle_Miniature_American_Shepherd_in_Grass.jpg/330px-Blue_Merle_Miniature_American_Shepherd_in_Grass.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2a583a84-7571-4abd-8356-b8f2e9130455.png?v=1777529745",
       "alt": "Miniature American Shepherd"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Miniature American Shepherd?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Miniature American Shepherd was developed in the late 1960s by breeding smaller Australian Shepherds — the goal was to preserve all the working intelligence and herding ability of the Aussie in a smaller, more portable package. Originally popular with rodeo circuit riders who needed a compact, capable herding dog, the breed has grown into a versatile companion for active families and individuals.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">At 20–40 lbs and 13–18 inches tall, the Mini American Shepherd is genuinely more practical to house, transport, and afford than a full-size Aussie — but the energy, intelligence, and herding instinct are identical. This is not a lazy lapdog in a small body. It is a working dog brain that happens to come in a medium-small frame.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Recognized by the AKC in 2015, the breed is known for its versatility: excellent in agility, obedience, herding, search-and-rescue, and as a focused, engaged family companion. The critical health checks — CEA and MDR1 — are the same as for the breeds from which it descends.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Mini American Shepherds Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A smaller, slightly more refined version of the Australian Shepherd in every visual regard. Medium-length double coat with feathering on the back of the legs and under the chest. Colors include blue merle, red merle, black, and red — with white markings and tan points common across all colors. Eyes can be brown, blue, amber, or any combination — merle-patterned dogs frequently have blue or heterochromatic eyes.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The tail may be naturally bobbed (a breed trait carried over from the Australian Shepherd) or of normal length. The overall impression is of an athletic, balanced, alert dog — nothing exaggerated.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Loyal, intelligent, and driven. Mini American Shepherds bond closely with their people and are happiest when involved in whatever their family is doing. They are not dogs that do well left alone for long periods — they need engagement, activity, and mental stimulation. An under-stimulated MAS will find its own solutions, and those solutions are usually destructive.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The herding instinct is active and present. They may attempt to herd children, other pets, or moving objects. This is manageable with training but won't disappear. Energy and intelligence at this level means the dog needs a job or outlet — agility, obedience, nosework, fetch — something with focus.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With proper socialization, they are good with children and other dogs. Some can be reserved with strangers. They tend to be alert and watchful — they notice everything — which makes them natural watch dogs, but can tip into reactivity or anxiety without good socialization foundations.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Mini American Shepherd",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">If you wanted an Australian Shepherd but your living situation pushed back on the full-size — apartment, smaller yard, travel schedule — the MAS is a legitimate solution. The size reduction is real and practically useful. Everything else about the experience is largely the same.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The mistake people make is assuming \"mini\" means less demanding. This dog will go 90 miles an hour on a hike and then come home and expect a training session. If you're an active person who wants a dog that's genuinely engaged and versatile — this is excellent. If you want something calmer, look at a different breed entirely.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Health-wise: require CEA and MDR1 DNA test documentation from your breeder. Both are significant concerns in this breed and the tests are straightforward — no reputable breeder should be unable to provide them. These aren't optional extras; they're the baseline for responsible breeding in this breed.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of vigorous exercise daily, plus mental stimulation on top of that. Physical exercise alone is insufficient for this breed — they need their brain used. Training sessions, puzzle toys, or dog sports fulfill the mental requirement. An under-exercised or under-stimulated MAS becomes anxious, vocal, and destructive.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The double coat requires brushing 2–3 times per week to prevent tangles, especially in the feathering on the ears and backs of legs. Moderate seasonal shedding with two coat blows per year. Not as demanding as the Rough Collie, but not a brush-it-and-forget-it coat. See the <a href=\"/blogs/dog-breeds/miniature-american-shepherd-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Miniature American Shepherd grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Highly trainable — one of the easier herding breeds because they genuinely want to engage. Positive reinforcement works well. Start early, be consistent, and give them something to learn; they pick things up fast. Puppy class followed by a sport or structured activity (agility is a natural fit) channels the drive productively.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The MAS carries the same inherited health concerns as the Australian Shepherd and related herding breeds. Two DNA tests are critical before purchase: CEA and MDR1.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">CEA (Collie Eye Anomaly)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Hereditary eye developmental condition affecting the choroid. Ranges from mild (no functional impact) to severe (retinal detachment). DNA test available — both parents should be tested. Critical test for this breed.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">MDR1 / ABCB1 Drug Sensitivity</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Genetic mutation causing toxicity to certain common drugs including ivermectin. DNA test, inform all vets, carry result card. Significant concern in this breed lineage.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint causing pain and mobility issues. OFA screening available from reputable breeders.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Epilepsy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Seizure disorders occur at a notable rate in this breed. Ask breeders about family history of seizures. Manageable with medication in most cases but a significant quality-of-life consideration.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited retinal degeneration causing progressive vision loss. DNA test available; ask breeders for clearances.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> CEA DNA test (both parents), MDR1 DNA test, OFA hip, PRA DNA test, and seizure history in the bloodline.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$1,800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$250–$450</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$250–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,050–$4,000</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,100–$2,000</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/miniature-american-shepherd-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Miniature American Shepherd first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Miniature American Shepherd Right for You?",
@@ -91,25 +120,50 @@
         "Anyone who won't verify CEA and MDR1 DNA tests from the breeder"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Miniature American Shepherd",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,800 from reputable breeders. The Miniature American Shepherd Club of the USA maintains a breeder directory. Required health clearances: CEA DNA test and MDR1 DNA test for both parents, OFA hip clearance, PRA DNA test. Both CEA and MDR1 are particularly important in this breed — a breeder who hasn't tested for both should raise concerns.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Rescue organizations exist for the breed; Australian Shepherd rescues occasionally place Mini Americans as well. Rescued dogs may lack full health documentation — have them MDR1 tested early.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your puppy arrives, review the <a href=\"/blogs/dog-breeds/miniature-american-shepherd-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Miniature American Shepherd puppy checklist</a> — health test documentation, sport enrollment planning, and exercise routine setup.</p>"
     }
   },
-
   "faq": [
-    { "q": "Is a Miniature American Shepherd just a small Australian Shepherd?", "a": "Essentially, yes — at least in terms of origin and working character. The MAS was developed by selectively breeding smaller Aussies for the rodeo circuit. The intelligence, herding drive, energy level, and coat type are all closely similar. The practical difference is size (20–40 lbs vs. 40–65 lbs) and slightly more compact build. Both CEA and MDR1 — the critical health concerns in Aussies — apply equally to MAS." },
-    { "q": "Do Miniature American Shepherds do well in apartments?", "a": "It depends entirely on the owner's activity level. The size is manageable for apartment living, but the energy and mental stimulation needs are not reduced. A Mini American Shepherd in an apartment with an active owner who provides 60–90 minutes of vigorous exercise and mental engagement daily can thrive. The same dog with a sedentary owner will be a disaster. The smaller body doesn't change the working dog inside it." },
-    { "q": "What dog sports are Mini American Shepherds good at?", "a": "Agility is the most popular fit — they're athletic, fast, and love the problem-solving. Obedience competitions, rally, herding trials (even in a small body), nosework/scent work, and flyball are all well-suited to the breed. Any structured activity that engages their brain and body simultaneously is a good choice." },
-    { "q": "How often do Mini American Shepherds need grooming?", "a": "Brushing 2–3 times per week to prevent tangles, with daily attention during seasonal shedding. The feathering on the ears, backs of the legs, and underbelly needs particular attention as it tangles first. Two coat blows per year produce heavier shedding. The coat is not as demanding as the Rough Collie's but is a real maintenance commitment." }
+    {
+      "q": "Is a Miniature American Shepherd just a small Australian Shepherd?",
+      "a": "Essentially, yes — at least in terms of origin and working character. The MAS was developed by selectively breeding smaller Aussies for the rodeo circuit. The intelligence, herding drive, energy level, and coat type are all closely similar. The practical difference is size (20–40 lbs vs. 40–65 lbs) and slightly more compact build. Both CEA and MDR1 — the critical health concerns in Aussies — apply equally to MAS."
+    },
+    {
+      "q": "Do Miniature American Shepherds do well in apartments?",
+      "a": "It depends entirely on the owner's activity level. The size is manageable for apartment living, but the energy and mental stimulation needs are not reduced. A Mini American Shepherd in an apartment with an active owner who provides 60–90 minutes of vigorous exercise and mental engagement daily can thrive. The same dog with a sedentary owner will be a disaster. The smaller body doesn't change the working dog inside it."
+    },
+    {
+      "q": "What dog sports are Mini American Shepherds good at?",
+      "a": "Agility is the most popular fit — they're athletic, fast, and love the problem-solving. Obedience competitions, rally, herding trials (even in a small body), nosework/scent work, and flyball are all well-suited to the breed. Any structured activity that engages their brain and body simultaneously is a good choice."
+    },
+    {
+      "q": "How often do Mini American Shepherds need grooming?",
+      "a": "Brushing 2–3 times per week to prevent tangles, with daily attention during seasonal shedding. The feathering on the ears, backs of the legs, and underbelly needs particular attention as it tangles first. Two coat blows per year produce heavier shedding. The coat is not as demanding as the Rough Collie's but is a real maintenance commitment."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Australian Shepherd", "slug": "australian-shepherd", "note": "The full-size version — same temperament, larger body, greater strength"},
-    {"name": "Border Collie", "slug": "border-collie", "note": "Even more intense herding drive, similar intelligence, typically easier to find than MAS"},
-    {"name": "Shetland Sheepdog", "slug": "shetland-sheepdog", "note": "Similar herding background, heavier coat, known for excessive barking, smaller size range"},
-    {"name": "Pembroke Welsh Corgi", "slug": "pembroke-welsh-corgi", "note": "Similar size range, herding group, lower exercise needs, much less coat maintenance"}
+    {
+      "name": "Australian Shepherd",
+      "slug": "australian-shepherd",
+      "note": "The full-size version — same temperament, larger body, greater strength"
+    },
+    {
+      "name": "Border Collie",
+      "slug": "border-collie",
+      "note": "Even more intense herding drive, similar intelligence, typically easier to find than MAS"
+    },
+    {
+      "name": "Shetland Sheepdog",
+      "slug": "shetland-sheepdog",
+      "note": "Similar herding background, heavier coat, known for excessive barking, smaller size range"
+    },
+    {
+      "name": "Pembroke Welsh Corgi",
+      "slug": "pembroke-welsh-corgi",
+      "note": "Similar size range, herding group, lower exercise needs, much less coat maintenance"
+    }
   ]
 }

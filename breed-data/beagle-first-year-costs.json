@@ -5,14 +5,20 @@
     "shopify_handle": "beagle-first-year-costs",
     "group": "Beagle",
     "size_category": "Guide",
-    "tags": ["beagle", "cost", "budget", "first-year", "dog-breeds"],
+    "tags": [
+      "beagle",
+      "cost",
+      "budget",
+      "first-year",
+      "dog-breeds"
+    ],
     "published": true,
     "excerpt": "Beagles are one of the more affordable breeds to own. Here's the realistic year-one cost breakdown.",
     "meta_description": "Beagle first-year cost breakdown: purchase price, food, vet care, pet insurance, and what fencing and containment might actually cost."
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Beagle_600.jpg/330px-Beagle_600.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_f8549465-d51e-4f40-9831-f45f895f4366.png?v=1777525891",
       "alt": "Beagle"
     }
   },
@@ -39,9 +45,21 @@
     }
   },
   "faq": [
-    { "q": "How much does a Beagle cost to own per year?", "a": "After the first-year setup costs, annual costs typically run $1,300–$2,200. Food ($400–$600), routine vet care ($300–$600), and pet insurance ($480–$840) are the main recurring expenses. Ear infection treatment adds $100–$400/year if the weekly cleaning routine isn't maintained." },
-    { "q": "Should I get pet insurance for a Beagle?", "a": "Yes. Beagles are generally healthy, but IVDD and hypothyroidism are meaningful risks. Insurance at $40–$70/month provides a meaningful safety net. Apply before the first vet visit." },
-    { "q": "Are Beagles from rescues cheaper to own?", "a": "Lower acquisition cost ($200–$400 adoption fee), same ongoing costs. Many rescue Beagles are adults with known history, which can actually be an advantage for predicting health and temperament." },
-    { "q": "What's the most expensive part of owning a Beagle?", "a": "For most owners, it's either pet insurance over the long lifespan (12–15 years) or a fencing upgrade if the yard wasn't already Beagle-proof. The good news: per-year running costs are low compared to larger breeds." }
+    {
+      "q": "How much does a Beagle cost to own per year?",
+      "a": "After the first-year setup costs, annual costs typically run $1,300–$2,200. Food ($400–$600), routine vet care ($300–$600), and pet insurance ($480–$840) are the main recurring expenses. Ear infection treatment adds $100–$400/year if the weekly cleaning routine isn't maintained."
+    },
+    {
+      "q": "Should I get pet insurance for a Beagle?",
+      "a": "Yes. Beagles are generally healthy, but IVDD and hypothyroidism are meaningful risks. Insurance at $40–$70/month provides a meaningful safety net. Apply before the first vet visit."
+    },
+    {
+      "q": "Are Beagles from rescues cheaper to own?",
+      "a": "Lower acquisition cost ($200–$400 adoption fee), same ongoing costs. Many rescue Beagles are adults with known history, which can actually be an advantage for predicting health and temperament."
+    },
+    {
+      "q": "What's the most expensive part of owning a Beagle?",
+      "a": "For most owners, it's either pet insurance over the long lifespan (12–15 years) or a fencing upgrade if the yard wasn't already Beagle-proof. The good news: per-year running costs are low compared to larger breeds."
+    }
   ]
 }

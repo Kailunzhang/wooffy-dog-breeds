@@ -6,74 +6,103 @@
     "group": "Sporting Group",
     "size_category": "Medium Breed",
     "tagline": "The Vizsla is a sensitive, athletic Hungarian pointing dog that bonds extremely closely to its owner — sometimes to a fault. They need real exercise, consistent companionship, and an owner who understands that this dog will follow you everywhere.",
-    "tags": ["sporting-group", "medium-breed", "pointer", "velcro-dog", "low-shedding", "dog-breeds"],
+    "tags": [
+      "sporting-group",
+      "medium-breed",
+      "pointer",
+      "velcro-dog",
+      "low-shedding",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-18T16:00:00Z",
     "excerpt": "Vizslas are high-energy, deeply affectionate sporting dogs that excel in active households. Their 'velcro' bonding tendency makes separation anxiety a real risk if under-exercised or left alone excessively. Epilepsy and Sebaceous Adenitis are notable breed health concerns.",
     "meta_description": "Vizsla breed guide: exercise requirements, separation anxiety prevention, velcro dog bonding traits, health conditions including epilepsy and Sebaceous Adenitis, and what this sensitive sporting dog needs."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "44–65 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–14 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "90–120 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Very Low" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Easy–Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Very good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes, but high exercise demand" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "44–65 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90–120 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Very Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy–Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Very good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes, but high exercise demand"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hungarian_Vizsla.jpg/330px-Hungarian_Vizsla.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_0bfaf41d-376f-4726-959e-b41d48f14a7f.png?v=1777532077",
       "alt": "Vizsla"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Vizsla?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Vizsla is an ancient Hungarian breed used for centuries as a pointing and retrieving dog by Hungarian nobility and later by working hunters. The breed nearly went extinct following the World Wars and was preserved through dedicated breeding efforts — today the Vizsla is one of the few breeds that can point and retrieve in both fields and water. Their distinctive rust-gold coat and lean, athletic build make them immediately recognizable.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The 'velcro dog' label is earned, not exaggerated. Vizslas bond extremely closely to their primary person and want to be physically present — in the same room, often touching. This is endearing and occasionally overwhelming. It also means that Vizslas left alone for long periods, particularly when they haven't had sufficient exercise, develop separation anxiety that can manifest as destructive behavior, vocalization, or self-harm.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The exercise requirement is genuinely high — 90–120 minutes of vigorous activity daily. This is not a dog that thrives on short walks. They were built to work all day in the field.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Vizslas Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Lean, muscular, and elegant. Females weigh 44–55 lbs; males 55–65 lbs. Height 21–24 inches. The build is athletic and light-boned for the size — Vizslas look and move like athletes.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The coat is the breed's most distinctive feature: short, dense, and a uniform rust or golden-rust color with no markings. The eyes, nose, and nails match the coat color in the ideal specimen — the whole dog is the same golden tone. Minimal shedding and virtually no dog odor. A rubber mitt weekly is all the coat maintenance required. The Wirehaired Vizsla is a separate but related breed with a harsher, wire-textured coat.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Affectionate, sensitive, and energetic. Vizslas are not detached or independent — they are deeply social dogs that actively seek contact with their person. This makes them wonderful companions for active, present households. It also means they don't do well being left alone for extended periods or in environments where they don't have significant human interaction.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">They are sensitive to tone and handling — Vizslas respond poorly to harsh corrections and tend to shut down or become anxious. Positive reinforcement isn't just a preference with this breed; it's a practical necessity. They are eager to please when the training relationship is positive.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With children, other dogs, and generally friendly strangers: typically excellent. They are social, gentle, and playful. Their energy level can be a lot for very young children — an excited Vizsla is exuberant.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Vizsla",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">If you want a dog that is physically with you as much as possible, that needs real athletic exercise, that has almost no coat maintenance, and that is genuinely affectionate and trainable — a Vizsla fits that description well. For active people who run, hike, bike, or hunt, they're outstanding companions.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest conversation is about whether your lifestyle actually accommodates them. The exercise requirement isn't flexible — 90–120 minutes of vigorous activity is what this dog needs to be content. And the velcro quality, while charming, means a Vizsla left alone too long or exercised too little becomes a genuinely anxious dog. Separation anxiety in an under-exercised Vizsla can mean howling, destructive chewing, and self-directed stress behaviors.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">From puppyhood, build in graduated alone time — don't make the dog dependent on constant presence from day one, because you will eventually need to be elsewhere. That's a specific thing to work on intentionally, not something that resolves itself.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">90–120 minutes of vigorous daily activity. Running, cycling, swimming, field work, or agility are ideal. Mental exercise — training, scent work, puzzle feeders — supplements physical exercise and reduces anxiety in high-drive dogs. Slow walks don't meet this breed's needs.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Minimal. Rubber mitt or soft bristle brush weekly. Nails trimmed regularly — the short coat makes it easy to see when nails are too long. Ear checks weekly. Bath when dirty. This is one of the lowest-maintenance coats of any medium-to-large sporting dog. See the <a href=\"/blogs/dog-breeds/vizsla-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Vizsla grooming guide</a>.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Positive reinforcement with gentle, consistent handling. Vizslas are sensitive and respond quickly to both praise and tone of voice. Early obedience training and socialization are important. Separation anxiety prevention (graduated alone time from puppyhood) is a specific training priority for this breed.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Generally a healthy breed with a 12–14 year lifespan. Epilepsy has a meaningful incidence in the breed and warrants awareness. Sebaceous Adenitis is a specific skin condition that affects some Vizslas and is worth understanding.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Epilepsy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Seizure disorders have a meaningful incidence in Vizslas. Idiopathic epilepsy (no identifiable structural cause) is managed with medication. Quality of life for well-managed epileptic dogs is generally good, but medication is lifelong once started. Know this risk before purchasing and enroll in pet insurance before the first vet visit.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Sebaceous Adenitis (SA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">An inflammatory condition affecting the sebaceous glands of the skin. Causes scaling, hair loss, and secondary skin infections. Managed with medicated shampoos, oils, and sometimes cyclosporine. Not life-threatening but a chronic management condition.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Present in the breed. OFA hip evaluation from breeders. Less prevalent than in some large breeds but relevant.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Lymphoma</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Cancer rates in Vizslas are worth noting. Lymphoma in particular has some elevated incidence in the breed. Pet insurance before the first vet visit covers cancer treatment, which is the most significant financial risk.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Cardiac Issues / ARVC</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Some Vizslas are at risk for arrhythmia conditions. Cardiac screening recommended; discuss with your vet.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip clearance, CAER eye exam, cardiac clearance. Epilepsy and SA have no pre-purchase DNA tests — select from lines with clean health histories where possible.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,200–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Training</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,800–$5,500</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,400–$2,500</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">Epilepsy medication adds $50–$150/month if the dog develops seizures. Pet insurance is particularly important given epilepsy and cancer risk. See the <a href=\"/blogs/dog-breeds/vizsla-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Vizsla Right for You?",
@@ -91,25 +120,50 @@
         "Owners not prepared to manage potential epilepsy costs without insurance"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Vizsla",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,200–$2,500 from reputable breeders. Health clearances: OFA hip, CAER eye exam, cardiac evaluation. The Vizsla Club of America maintains a breeder referral directory. Select from breeders with health-tested lines and ask about epilepsy and SA incidence in their lines.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Vizsla rescue organizations exist. Dogs are sometimes surrendered by owners who underestimated exercise requirements. Active households interested in adoption should contact the VCA Rescue Foundation.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before arrival, complete the <a href=\"/blogs/dog-breeds/vizsla-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Vizsla puppy checklist</a> — establishing a separation anxiety prevention routine from day one is the most important early management investment for this breed.</p>"
     }
   },
-
   "faq": [
-    { "q": "Why are Vizslas called 'velcro dogs'?", "a": "Because they attach themselves to their person and stay there. Vizslas are not independent or aloof — they want to be physically present with their owner at essentially all times. This is an endearing quality in an active household. It becomes a problem when the dog is regularly left alone for long periods or doesn't get sufficient exercise, which can develop into separation anxiety." },
-    { "q": "How much exercise does a Vizsla need?", "a": "90–120 minutes of vigorous activity daily — not leisurely walking. Running, cycling, swimming, fetch, field work, or agility are appropriate. This is a working pointing breed built to quarter fields for hours. Mental exercise (training, scent work) supplements but doesn't replace physical output. An under-exercised Vizsla becomes anxious and destructive." },
-    { "q": "Do Vizslas have separation anxiety?", "a": "They are predisposed to it, particularly when under-exercised or when not accustomed to alone time. Prevention requires building in graduated alone time from puppyhood — teaching the dog that being alone is normal and temporary. A well-exercised Vizsla that has been taught to be alone from puppyhood manages it well. A clingy, under-exercised Vizsla develops significant anxiety problems." },
-    { "q": "Do Vizslas shed much?", "a": "Very little. The short, single-layer rust coat is one of the most low-maintenance coats of any medium-large dog. Minimal shedding, very little dog odor, and basic weekly brushing with a rubber mitt is all that's needed." }
+    {
+      "q": "Why are Vizslas called 'velcro dogs'?",
+      "a": "Because they attach themselves to their person and stay there. Vizslas are not independent or aloof — they want to be physically present with their owner at essentially all times. This is an endearing quality in an active household. It becomes a problem when the dog is regularly left alone for long periods or doesn't get sufficient exercise, which can develop into separation anxiety."
+    },
+    {
+      "q": "How much exercise does a Vizsla need?",
+      "a": "90–120 minutes of vigorous activity daily — not leisurely walking. Running, cycling, swimming, fetch, field work, or agility are appropriate. This is a working pointing breed built to quarter fields for hours. Mental exercise (training, scent work) supplements but doesn't replace physical output. An under-exercised Vizsla becomes anxious and destructive."
+    },
+    {
+      "q": "Do Vizslas have separation anxiety?",
+      "a": "They are predisposed to it, particularly when under-exercised or when not accustomed to alone time. Prevention requires building in graduated alone time from puppyhood — teaching the dog that being alone is normal and temporary. A well-exercised Vizsla that has been taught to be alone from puppyhood manages it well. A clingy, under-exercised Vizsla develops significant anxiety problems."
+    },
+    {
+      "q": "Do Vizslas shed much?",
+      "a": "Very little. The short, single-layer rust coat is one of the most low-maintenance coats of any medium-large dog. Minimal shedding, very little dog odor, and basic weekly brushing with a rubber mitt is all that's needed."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Weimaraner", "slug": "weimaraner", "note": "Similar athletic pointer, larger and more independent, gray coat"},
-    {"name": "German Shorthaired Pointer", "slug": "german-shorthaired-pointer", "note": "Versatile pointing/retrieving breed, comparable energy, slightly more independent"},
-    {"name": "English Springer Spaniel", "slug": "english-springer-spaniel", "note": "Flushing vs pointing background, feathered coat, similar family-friendly temperament"},
-    {"name": "Rhodesian Ridgeback", "slug": "rhodesian-ridgeback", "note": "Similar short coat, more independent, larger, hound background"}
+    {
+      "name": "Weimaraner",
+      "slug": "weimaraner",
+      "note": "Similar athletic pointer, larger and more independent, gray coat"
+    },
+    {
+      "name": "German Shorthaired Pointer",
+      "slug": "german-shorthaired-pointer",
+      "note": "Versatile pointing/retrieving breed, comparable energy, slightly more independent"
+    },
+    {
+      "name": "English Springer Spaniel",
+      "slug": "english-springer-spaniel",
+      "note": "Flushing vs pointing background, feathered coat, similar family-friendly temperament"
+    },
+    {
+      "name": "Rhodesian Ridgeback",
+      "slug": "rhodesian-ridgeback",
+      "note": "Similar short coat, more independent, larger, hound background"
+    }
   ]
 }

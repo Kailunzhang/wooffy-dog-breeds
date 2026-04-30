@@ -5,20 +5,24 @@
     "shopify_handle": "chow-chow-first-year-costs",
     "group": "Chow Chow",
     "size_category": "Guide",
-    "tags": ["chow-chow", "cost", "budget", "first-year", "large-breed"],
+    "tags": [
+      "chow-chow",
+      "cost",
+      "budget",
+      "first-year",
+      "large-breed"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Chow Chow ownership costs $3,500–$7,000 in the first year. Professional grooming and health screening for entropion and hip dysplasia are the key budget items beyond standard large-breed expenses.",
     "meta_description": "Chow Chow first year costs: puppy price, food, vet bills, grooming budget, pet insurance, and lifetime cost estimates for a large double-coated breed with specific health risks."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Chow-chow_in_Tallinn.JPG/250px-Chow-chow_in_Tallinn.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_474f3127-c41c-400d-a9af-95b789cab9fa.png?v=1777527023",
       "alt": "Chow Chow first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With a 9–15 year lifespan, Chow Chows represent a substantial long-term financial commitment.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, no surgical interventions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$25,000–$40,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Entropion surgery + moderate health management</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$32,000–$50,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Hip surgery + multiple health conditions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$45,000–$65,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">The grooming component alone adds $4,000–$8,000+ over a lifetime compared to short-coated breeds. Factor this into the full cost picture — professional grooming is not optional for a rough Chow Chow without dedicated home maintenance.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does a Chow Chow puppy cost from a reputable breeder?",

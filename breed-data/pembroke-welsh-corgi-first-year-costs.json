@@ -5,14 +5,20 @@
     "shopify_handle": "pembroke-welsh-corgi-first-year-costs",
     "group": "Pembroke Welsh Corgi",
     "size_category": "Guide",
-    "tags": ["pembroke-welsh-corgi", "cost", "budget", "first-year", "dog-breeds"],
+    "tags": [
+      "pembroke-welsh-corgi",
+      "cost",
+      "budget",
+      "first-year",
+      "dog-breeds"
+    ],
     "published": true,
     "excerpt": "Corgis have become expensive to buy, with IVDD being the key health cost to plan for. Here's the honest year-one breakdown.",
     "meta_description": "Pembroke Welsh Corgi first-year cost breakdown: purchase price, vet care, IVDD risk planning, pet insurance, and ongoing annual costs."
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Welsh_Pembroke_Corgi.jpg/330px-Welsh_Pembroke_Corgi.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0f47d187-6e0e-4267-b784-a6949db2ca47.png?v=1777530282",
       "alt": "Pembroke Welsh Corgi"
     }
   },
@@ -39,9 +45,21 @@
     }
   },
   "faq": [
-    { "q": "How much does a Corgi cost per year?", "a": "After first-year setup: $1,500–$2,500 annually. Food is small-to-medium breed portioned; insurance is the main recurring cost. Years with an IVDD episode will be significantly higher — which is exactly why insurance matters for this breed." },
-    { "q": "Should I get pet insurance for a Pembroke Welsh Corgi?", "a": "Yes. IVDD is a meaningful risk for Corgis, and surgery runs $3,000–$8,000. Insurance at $50–$80/month is the right trade for that certainty. Apply before the first vet visit." },
-    { "q": "Are Corgis from rescue cheaper?", "a": "Lower acquisition cost ($200–$400 adoption fee). Some rescue Corgis have known IVDD history — get a health disclosure and factor this into insurance decisions. Adult Corgis from rescue can be excellent family dogs." },
-    { "q": "What furniture modifications should I make for a Corgi?", "a": "Ramps for the couch and bed if you allow them up — repeated jumping on and off furniture is a meaningful IVDD contributor for Corgis. Ramps are inexpensive ($30–$80) and reduce the cumulative spinal load over years. This is especially important once the dog is past middle age." }
+    {
+      "q": "How much does a Corgi cost per year?",
+      "a": "After first-year setup: $1,500–$2,500 annually. Food is small-to-medium breed portioned; insurance is the main recurring cost. Years with an IVDD episode will be significantly higher — which is exactly why insurance matters for this breed."
+    },
+    {
+      "q": "Should I get pet insurance for a Pembroke Welsh Corgi?",
+      "a": "Yes. IVDD is a meaningful risk for Corgis, and surgery runs $3,000–$8,000. Insurance at $50–$80/month is the right trade for that certainty. Apply before the first vet visit."
+    },
+    {
+      "q": "Are Corgis from rescue cheaper?",
+      "a": "Lower acquisition cost ($200–$400 adoption fee). Some rescue Corgis have known IVDD history — get a health disclosure and factor this into insurance decisions. Adult Corgis from rescue can be excellent family dogs."
+    },
+    {
+      "q": "What furniture modifications should I make for a Corgi?",
+      "a": "Ramps for the couch and bed if you allow them up — repeated jumping on and off furniture is a meaningful IVDD contributor for Corgis. Ramps are inexpensive ($30–$80) and reduce the cumulative spinal load over years. This is especially important once the dog is past middle age."
+    }
   ]
 }

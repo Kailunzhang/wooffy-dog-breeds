@@ -5,20 +5,24 @@
     "shopify_handle": "flat-coated-retriever-grooming-guide",
     "group": "Flat-Coated Retriever",
     "size_category": "Guide",
-    "tags": ["flat-coated-retriever", "grooming", "flat-coat", "feathering", "shedding"],
+    "tags": [
+      "flat-coated-retriever",
+      "grooming",
+      "flat-coat",
+      "feathering",
+      "shedding"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "The Flat-Coat's glossy coat is straightforward to maintain — weekly brushing, attention to feathering on the legs and tail, and baths every 6–8 weeks. The feathered furnishings need occasional trimming to stay neat and mat-free.",
     "meta_description": "Flat-Coated Retriever grooming guide: maintaining the flat glossy coat, managing feathering on legs and tail, trimming schedule, bathing, and what regular brushing accomplishes for this breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flat_Coated_Retriever_-_black.jpg/250px-Flat_Coated_Retriever_-_black.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_c3afd20a-77e4-4942-938b-cca8443d3901.png?v=1777527782",
       "alt": "Flat-Coated Retriever grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Flat-Coat's Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Given the Flat-Coated Retriever's elevated cancer rate — particularly malignant histiocytosis — regular handling during grooming sessions provides an important opportunity to notice changes early. While grooming, make it a habit to:</p><ul><li>Palpate along the neck, shoulders, chest, and abdomen for any unusual lumps or swellings</li><li>Check lymph nodes (under the jaw, in front of the shoulders, behind the knees) — enlargement can be an early sign of lymphoma or histiocytic disease</li><li>Note any changes in coat quality — dullness, patchy growth, or hair loss can reflect systemic health changes</li><li>Check overall body condition — weight loss that shows up as visible ribs or spine may not be apparent in the glossy coat</li></ul><p>These checks take two minutes and cost nothing. They are not a substitute for regular veterinary exams, but they can prompt earlier veterinary consultation that matters for cancer outcomes. A lump found early is far better than one found late.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does a Flat-Coated Retriever need professional grooming?",

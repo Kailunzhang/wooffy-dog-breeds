@@ -5,20 +5,24 @@
     "shopify_handle": "irish-wolfhound-grooming-guide",
     "group": "Irish Wolfhound",
     "size_category": "Guide",
-    "tags": ["irish-wolfhound", "grooming", "wire-coat", "rough-coat", "giant-breed"],
+    "tags": [
+      "irish-wolfhound",
+      "grooming",
+      "wire-coat",
+      "rough-coat",
+      "giant-breed"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "The Irish Wolfhound's rough, wiry coat is lower-maintenance than it looks — weekly brushing, attention to the beard, and occasional tidying keep it healthy and presentable on a giant dog.",
     "meta_description": "Irish Wolfhound grooming guide: maintaining the rough wire coat, beard care, hand-stripping versus trimming, bathing a giant sighthound, and ear and nail care."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/%282%29_Irish_Wolfhound_4.jpg/250px-%282%29_Irish_Wolfhound_4.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_7a759a87-36cc-4392-93a8-af1660046925.png?v=1777528689",
       "alt": "Irish Wolfhound grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Wire Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Grooming an Irish Wolfhound is primarily a logistics challenge — the dog is large, and working efficiently around a dog this size takes practice. A grooming table rated for heavy dogs is extremely useful; bending over a standing Wolfhound for a full brushing session is hard on your back. A non-slip rubber mat on any grooming surface reduces anxiety and movement.</p><h3>Beard Management</h3><p>The beard is the highest-maintenance part of the Wolfhound coat. It gets wet at every meal and drink, and chronically wet skin folds can develop contact dermatitis or yeast. Dry the beard after meals with a towel, check weekly for redness or smell, and keep it trimmed short enough that it drains and dries reasonably quickly. Some owners use a small bowl stand to reduce the beard dragging through water bowls.</p><h3>Ear Care</h3><p>The pendant drop ears reduce airflow and can trap moisture. Check weekly — more frequently if the dog swims. A clean ear should have no odor and look pale pink. Any redness, brown discharge, or head-shaking warrants a vet visit. Clean monthly with a vet-approved ear cleaner on a cotton ball. Do not insert anything into the ear canal.</p><h3>Nail Care</h3><p>Giant-breed nails are thick and hard. A heavy-duty nail grinder or large-breed clipper is necessary. Nails that are too long affect gait, which is a particular concern in a giant breed with musculoskeletal health concerns. If your dog is uncomfortable with nail handling, build tolerance through daily paw handling from puppyhood and use high-value treats throughout the process.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does an Irish Wolfhound need grooming?",

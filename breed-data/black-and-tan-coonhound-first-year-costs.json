@@ -5,20 +5,24 @@
     "shopify_handle": "black-and-tan-coonhound-first-year-costs",
     "group": "Black and Tan Coonhound",
     "size_category": "Guide",
-    "tags": ["black-and-tan-coonhound", "cost", "budget", "first-year", "large-breed"],
+    "tags": [
+      "black-and-tan-coonhound",
+      "cost",
+      "budget",
+      "first-year",
+      "large-breed"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Black and Tan Coonhounds are among the more affordable large breeds to purchase and own. The ongoing health cost to plan for is ear infection management — a regular but manageable expense with good preventive care.",
     "meta_description": "Black and Tan Coonhound first year costs: puppy price, food, vet care, ear infection treatment expenses, pet insurance, and honest lifetime cost estimates."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Black_and_Tan_Coonhound.jpg/250px-Black_and_Tan_Coonhound.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_1b08492a-22f9-4b64-9139-4755524f5cd8.png?v=1777526097",
       "alt": "Black and Tan Coonhound first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost (10–12 yr)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, good ear maintenance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$20,000–$32,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Recurring ear infections, managed hip dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$26,000–$42,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Hip surgery required</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$32,000–$55,000</td></tr></tbody></table>"
     }
   },
-
   "faq": [
     {
       "q": "Is pet insurance worth it for a Black and Tan Coonhound?",

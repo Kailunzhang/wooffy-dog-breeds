@@ -5,7 +5,11 @@
     "shopify_handle": "basenji-first-year-costs",
     "group": "Basenji",
     "size_category": "Guide",
-    "tags": ["basenji", "costs", "first-year"],
+    "tags": [
+      "basenji",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Basenji first-year costs run $4,050–$8,050 including purchase price. Grooming is one of the lowest ongoing costs of any breed, but the Fanconi Syndrome DNA testing requirement makes breeder selection critical — budget for a health-tested puppy.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Basenji_Profile_%28loosercrop%29.jpg/330px-Basenji_Profile_%28loosercrop%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_092d7c6d-b1e9-49a6-8b9b-95d81ace075c.png?v=1777525789",
       "alt": "Basenji first year costs"
     }
   },

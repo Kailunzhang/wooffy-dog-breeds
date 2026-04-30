@@ -5,20 +5,24 @@
     "shopify_handle": "pharaoh-hound-first-year-costs",
     "group": "Pharaoh Hound",
     "size_category": "Guide",
-    "tags": ["pharaoh-hound", "cost", "budget", "first-year", "sighthound"],
+    "tags": [
+      "pharaoh-hound",
+      "cost",
+      "budget",
+      "first-year",
+      "sighthound"
+    ],
     "published": true,
     "published_at": "2026-04-26T16:00:00Z",
     "excerpt": "Pharaoh Hound ownership costs approximately $2,950–$5,300 in the first year. The ongoing costs are moderate — the breed's excellent health profile and minimal grooming needs keep the numbers down. Secure fencing is the biggest one-time infrastructure investment.",
     "meta_description": "Pharaoh Hound first year costs: puppy price range, food and vet expenses, why anesthesia sensitivity needs to be in your vet records, and the fencing cost that is non-negotiable for sighthounds."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pies_faraona_e34.jpg/250px-Pies_faraona_e34.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_69e0ba73-53d4-42d5-90cd-3cab38a6f975.png?v=1777530342",
       "alt": "Pharaoh Hound first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With an 11–14 year lifespan and a generally healthy constitution, the Pharaoh Hound has a favorable lifetime cost profile compared to breeds with significant health burdens.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, minimal health interventions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$18,000–$28,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate issues (minor orthopedic, routine health events)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$24,000–$36,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant health issues</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$32,000–$48,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">The Pharaoh Hound's healthy baseline and moderate food consumption make the typical lifetime cost lower than many comparably-sized breeds. The long lifespan (to 14 years) extends the commitment but at manageable annual costs.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Are Pharaoh Hounds expensive to own?",

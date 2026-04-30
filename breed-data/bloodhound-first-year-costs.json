@@ -5,7 +5,11 @@
     "shopify_handle": "bloodhound-first-year-costs",
     "group": "Bloodhound",
     "size_category": "Guide",
-    "tags": ["bloodhound", "costs", "first-year"],
+    "tags": [
+      "bloodhound",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Bloodhound first-year costs run $5,550–$10,600 including purchase price. Pet insurance is strongly recommended given the bloat risk and ear/skin infection treatment costs. Grooming is relatively affordable — the anatomy care supplies cost little.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bloodhound_Erland22.jpg/330px-Bloodhound_Erland22.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0cb8f8a0-206c-4165-9c20-bbf3e69f6203.png?v=1777526165",
       "alt": "Bloodhound first year costs"
     }
   },

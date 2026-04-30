@@ -5,20 +5,24 @@
     "shopify_handle": "australian-shepherd-first-year-costs",
     "group": "Australian Shepherd",
     "size_category": "Guide",
-    "tags": ["australian-shepherd", "cost", "first-year", "medium-breed", "herding-breed-cost"],
+    "tags": [
+      "australian-shepherd",
+      "cost",
+      "first-year",
+      "medium-breed",
+      "herding-breed-cost"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Australian Shepherds cost $3,500–$6,500 in year one. Training and MDR1 DNA testing are the breed-specific costs that matter most. Here's the full breakdown.",
     "meta_description": "Australian Shepherd first year cost breakdown: puppy price, MDR1 DNA testing, training investment, grooming, food, and realistic annual ongoing expenses."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Australian_Shepherd_red_bi.JPG/330px-Australian_Shepherd_red_bi.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7753dd6a-9241-4142-a0bf-9055aea33377.png?v=1777525727",
       "alt": "Australian Shepherd cost guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
@@ -36,7 +40,6 @@
       "html": "<p>The MDR1/ABCB1 gene test is the most important breed-specific expense for Aussie owners. Approximately 50% of Australian Shepherds carry one or two copies of the MDR1 mutation that makes common drugs — including ivermectin (found in many heartworm preventives), acepromazine (a common sedative), and loperamide (Imodium) — dangerously toxic at standard doses.</p><h3>What the Test Costs and Where to Get It</h3><ul><li><strong>Cost:</strong> $80–$150 for a mail-in DNA swab test</li><li><strong>Providers:</strong> Washington State University Veterinary Clinical Pharmacology Lab (WSU) and several commercial DNA testing services offer MDR1-specific panels</li><li><strong>Timing:</strong> Test as early as possible — ideally before the first vet visit or medications are prescribed</li></ul><h3>What to Do With the Results</h3><ul><li>Keep a copy in your dog's medical records and with your vet</li><li>If MDR1 affected: your vet will need to select alternative medications for anesthesia, parasite prevention, and any other affected drugs</li><li>If MDR1 clear: standard drug protocols apply</li></ul><p>A reputable breeder will have already tested their breeding dogs and should be able to provide the sire and dam's results. Test your puppy independently regardless — this is a one-time $80–$150 investment with potentially life-saving information.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How much does an Australian Shepherd puppy cost?",

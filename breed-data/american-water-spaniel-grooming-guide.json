@@ -5,20 +5,25 @@
     "shopify_handle": "american-water-spaniel-grooming-guide",
     "group": "American Water Spaniel",
     "size_category": "Guide",
-    "tags": ["american-water-spaniel", "grooming", "curly-coat", "wavy-coat", "ear-cleaning", "water-dog"],
+    "tags": [
+      "american-water-spaniel",
+      "grooming",
+      "curly-coat",
+      "wavy-coat",
+      "ear-cleaning",
+      "water-dog"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "The American Water Spaniel's curly or wavy double coat is functional and water-resistant. Weekly brushing, occasional trims, and consistent ear cleaning are the core maintenance tasks. Ear care is critical for any water-loving spaniel with floppy ears.",
     "meta_description": "American Water Spaniel grooming guide: maintaining the curly or wavy water-resistant coat, essential ear cleaning for a water dog, bathing schedule, and the complete maintenance routine."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Chien_d%27eau_americain_champion_1.JPG/250px-Chien_d%27eau_americain_champion_1.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_726c7dee-58e1-4acb-9c8c-0459aef2f5b5.png?v=1777525576",
       "alt": "American Water Spaniel grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The AWS Coat",
@@ -36,7 +41,6 @@
       "html": "<p>American Water Spaniels swim and wade regularly — and their floppy ears trap moisture against the ear canal. This is the primary source of chronic ear infections in the breed. Weekly ear cleaning is the minimum maintenance standard; cleaning after every swimming session is better practice.</p><h3>Post-Water Ear Care</h3><p>After swimming or water work, tip the dog's head to one side and gently massage the base of the ear to help drain any pooled water, then dry and clean with ear cleaning solution. This two-minute routine done consistently prevents the cycle of recurring infections that many spaniel owners deal with when they skip it.</p><h3>Recognizing Ear Problems</h3><p>Head shaking, scratching at ears, odor, redness, swelling, or dark discharge indicate an active infection requiring veterinary treatment. Don't attempt to clean through an infection — it doesn't treat the underlying cause and may delay appropriate care. A veterinary exam, swab, and microscopy identifies whether bacteria or yeast are present and guides the correct treatment. Chronic ear infections that don't resolve may need a culture and sensitivity test to identify the specific organism and the correct treatment.</p><h3>Monitoring During Grooming</h3><p>The American Water Spaniel has documented cardiac concerns — Progressive Cardiac Disease has been identified in some lines. During regular grooming and handling sessions, note any exercise intolerance, unusual fatigue, coughing, or changes in respiratory pattern. These may warrant veterinary evaluation. Catching cardiac changes early allows for more effective management.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does an American Water Spaniel need professional grooming?",

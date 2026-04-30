@@ -5,20 +5,25 @@
     "shopify_handle": "chesapeake-bay-retriever-puppy-checklist",
     "group": "Chesapeake Bay Retriever",
     "size_category": "Guide",
-    "tags": ["chesapeake-bay-retriever", "puppy", "checklist", "PRA", "EIC", "swimming"],
+    "tags": [
+      "chesapeake-bay-retriever",
+      "puppy",
+      "checklist",
+      "PRA",
+      "EIC",
+      "swimming"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "Before your Chessie comes home: PRA and EIC DNA test documentation from the breeder is non-negotiable, insurance needs to be in place before the first vet visit, and a socialization plan — especially around swimming — sets this breed up for life.",
     "meta_description": "Chesapeake Bay Retriever puppy checklist: PRA and EIC DNA test verification, insurance timing, swimming socialization, gear list, and first vet visit priorities for this independent sporting breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/CH_Chesapeake.jpg/250px-CH_Chesapeake.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_cded4db8-ceaf-4932-b4cb-72b549d699b4.png?v=1777526903",
       "alt": "Chesapeake Bay Retriever puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Socialization Window: 8–16 Weeks</h3><p>Chesapeake Bay Retrievers tend toward reservation with strangers — active socialization during the critical window shapes the adult temperament significantly. Prioritize:</p><ul><li>Varied people: different ages, appearances, uniforms, children, elderly</li><li>Urban and suburban environments: traffic sounds, crowds, buildings, different surfaces</li><li>Controlled dog interactions: puppy classes provide safe, positive dog-dog exposure</li><li>Novel environments: different terrain, vehicles, objects</li></ul><p>Carry the puppy where ground contact is a disease risk before vaccinations are complete — don't forfeit the socialization window for disease precaution alone.</p><h3>Swimming Socialization — Start Early</h3><p>Chessies are genetically wired for water, but positive early introduction makes a meaningful difference in how readily they embrace swimming. Introduce shallow water first — a child's paddling pool, a shallow creek, or a lake edge. Let the puppy choose the depth. Never force or throw a puppy into water. By 4–5 months with proper introduction, most Chessies are enthusiastic swimmers. Swimming is the ideal exercise outlet for this breed throughout their life.</p><h3>Independent Breed Management</h3><p>Start obedience training from the first week. Chessies are intelligent but independently-minded — commands established in puppyhood are maintained far more easily than habits corrected in adulthood. Basic sit, down, stay, come, and loose-leash walking should all be in progress by 12 weeks. A trainer experienced with independent sporting breeds is a worthwhile investment.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Why are PRA and EIC DNA tests so important for a Chessie puppy?",

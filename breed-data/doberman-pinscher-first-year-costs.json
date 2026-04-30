@@ -5,20 +5,24 @@
     "shopify_handle": "doberman-pinscher-first-year-costs",
     "group": "Doberman Pinscher",
     "size_category": "Guide",
-    "tags": ["doberman-pinscher", "cost", "first-year", "large-breed", "dcm-cost"],
+    "tags": [
+      "doberman-pinscher",
+      "cost",
+      "first-year",
+      "large-breed",
+      "dcm-cost"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Dobermans cost $4,000–$7,500 in year one including purchase, vet care, training, and food. The ongoing cost that defines Doberman ownership is cardiac screening — budget $200–$500/year for DCM monitoring.",
     "meta_description": "Doberman Pinscher first year cost breakdown: puppy price, DCM cardiac screening costs, training, food, and realistic annual expenses for this large breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dobermann_handling.jpg/330px-Dobermann_handling.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_c6aaff3a-169f-4c83-9ad0-87c46837fda0.png?v=1777527458",
       "alt": "Doberman Pinscher cost guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
@@ -36,7 +40,6 @@
       "html": "<h3>Pet Insurance for Dobermans</h3><p>Dobermans are one of the breeds where pet insurance pays off most clearly. DCM, Wobbler's Syndrome, and von Willebrand's disease can all generate major expenses. Get comprehensive coverage from a reputable provider before any conditions are documented. Note: some insurers exclude DCM from coverage in known high-risk breeds — read the policy terms carefully. Seek a plan with broad coverage including cardiac conditions.</p><h3>Training Investment</h3><p>Dobermans are powerful, intelligent, and highly trainable — but an untrained Doberman becomes difficult to manage and potentially dangerous. Professional obedience training with a trainer who has Doberman experience is strongly recommended beyond just puppy classes. Budget for ongoing training through adolescence.</p><p>A well-trained Doberman is one of the best family dogs available. An undertrained one is a problem. The $600–$1,200 first-year training investment is one of the highest-return expenditures for this breed.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How much does a Doberman Pinscher puppy cost?",

@@ -5,20 +5,24 @@
     "shopify_handle": "cocker-spaniel-first-year-costs",
     "group": "Cocker Spaniel",
     "size_category": "Guide",
-    "tags": ["cocker-spaniel", "cost", "first-year", "medium-breed", "grooming-cost"],
+    "tags": [
+      "cocker-spaniel",
+      "cost",
+      "first-year",
+      "medium-breed",
+      "grooming-cost"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Cocker Spaniels cost $3,500–$6,500 in year one. Grooming is the distinguishing expense — budget $500–$900 per year for professional appointments alone.",
     "meta_description": "Cocker Spaniel first year cost breakdown: puppy price, grooming costs, vet care, food, training, and realistic ongoing annual expenses."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gessa_d%27Aran_Copo_de_Nieve-_arancio_roano-_prop.Kalesa.jpg/330px-Gessa_d%27Aran_Copo_de_Nieve-_arancio_roano-_prop.Kalesa.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_b8c4de2f-b295-4763-b8d0-ae253c2f8cf7.png?v=1777527127",
       "alt": "Cocker Spaniel cost guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
@@ -36,7 +40,6 @@
       "html": "<h3>Puppy Cut vs. Show Cut</h3><p>The traditional Cocker show cut with long, flowing feathering is beautiful — and expensive to maintain because it requires more groomer time and more diligent home brushing to prevent matting. A shorter <strong>puppy cut</strong> (shorter all over) costs the same per appointment but is much easier to maintain between visits, and you may be able to stretch appointments slightly longer.</p><h3>Home Brushing Reduces Groomer Time</h3><p>Groomers charge more for matted dogs — sometimes significantly more, or they may require a surcharge for dematting or a shave-down. Keeping up with daily brushing means your dog arrives at the groomer in good condition, which keeps appointments at the standard rate.</p><h3>Do-It-Yourself Bathing Between Appointments</h3><p>You don't have to pay for a bath at every grooming appointment. Bathing your Cocker at home between professional trims keeps the coat clean and saves the bath fee. Ask your groomer about a trim-only option.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How much does a Cocker Spaniel puppy cost?",

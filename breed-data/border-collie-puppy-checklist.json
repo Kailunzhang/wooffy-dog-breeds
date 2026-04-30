@@ -5,20 +5,25 @@
     "shopify_handle": "border-collie-puppy-checklist",
     "group": "Border Collie",
     "size_category": "Guide",
-    "tags": ["border-collie", "puppy", "checklist", "MDR1", "CEA", "mental-stimulation"],
+    "tags": [
+      "border-collie",
+      "puppy",
+      "checklist",
+      "MDR1",
+      "CEA",
+      "mental-stimulation"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Everything you need before your Border Collie puppy comes home — including the DNA test documentation to request from the breeder and the mental stimulation plan this breed needs from day one.",
     "meta_description": "Border Collie puppy checklist: CEA and MDR1 DNA test verification, mental stimulation plan, exercise limits for puppies, herding instinct management, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Border_Collie_600.jpg/250px-Border_Collie_600.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9a410929-830b-4320-8899-de38f2e135ba.png?v=1777526279",
       "alt": "Border Collie puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Training for the World's Most Trainable Breed</h3><p>Border Collies are generally considered the most trainable breed in the world — they learn quickly, retain reliably, and can master extremely complex tasks. This capacity is an asset if channeled; a problem if not. An undertrained Border Collie applies its intelligence to things you don't want it to: compulsive behaviors, managing the household, herding children and other pets.</p><ul><li>Puppy class at 8–10 weeks — start formal training as early as possible</li><li>Progress quickly through training levels — most Border Collies outpace standard puppy class curriculum fast</li><li>Consider agility, herding, treibball, or disc dog — structured sports use the cognitive drive productively</li><li>Teach impulse control exercises: wait, leave it, stay — these manage the intensity that comes with high drive</li></ul><h3>Managing Herding Instincts</h3><p>Border Collies will attempt to herd children, other pets, and sometimes moving vehicles. This is instinctual and must be redirected consistently from puppyhood:</p><ul><li>Never chase or encourage the herding stare at children or pets — redirect to a toy immediately</li><li>Consistent redirection to appropriate outlets (herding balls, structured fetch) builds the habit</li><li>Puppies that practice herding behaviors on children develop them as adult habits</li></ul><h3>Exercise Rules for Puppies</h3><p>Despite their energy, Border Collie puppies have developing joints. Follow the 5-minutes-per-month-of-age guideline for structured leash walks. Cognitive engagement — training, puzzle toys, controlled play — meets the mental need without joint stress. Growth plates close around 12–14 months. Adult exercise levels (which are high) are appropriate after growth is complete.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What DNA tests should my Border Collie breeder provide?",

@@ -5,20 +5,25 @@
     "shopify_handle": "samoyed-puppy-checklist",
     "group": "Samoyed",
     "size_category": "Guide",
-    "tags": ["samoyed", "puppy", "checklist", "shg-test", "socialization", "white-coat"],
+    "tags": [
+      "samoyed",
+      "puppy",
+      "checklist",
+      "shg-test",
+      "socialization",
+      "white-coat"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Everything you need before your Samoyed puppy comes home — including verifying SHG DNA test documentation from both parents, which is the non-negotiable first step.",
     "meta_description": "Samoyed puppy checklist: SHG DNA test verification, pre-arrival gear, first week vet visit, socialization window planning, and grooming desensitization for the white double coat."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Samojed00.jpg/330px-Samojed00.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_f6f29976-d539-4239-8ad9-55cf30ed8c9a.png?v=1777531196",
       "alt": "Samoyed puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Training From Day One</h3><ul><li>Sit, down, stay, come, leave it — establish core commands immediately</li><li>Loose-leash walking practice from the first walk — Samoyeds are strong and pulling habits form quickly</li><li>Recall training: this is critical — a Samoyed off-leash will run, and reliable recall is your safety net</li><li>No jumping — easy to allow with a fluffy white puppy, very difficult to stop in a 50-lb adult</li><li>Enroll in puppy class at 8–10 weeks for structured socialization and early training</li></ul><h3>Heat Management Planning</h3><p>Samoyeds are cold-weather dogs by breeding. Summer heat is a genuine risk, and this planning should happen before the puppy arrives:</p><ul><li>Identify the coolest outdoor times (before 8 AM, after 7 PM in summer) for exercise</li><li>Ensure indoor air conditioning or cool environment access</li><li>Never shave the coat — even in summer, the double coat protects against heat</li><li>Keep cool water available at all times outdoors</li><li>Know the signs of heat stroke: heavy panting, drooling, weakness, vomiting — this is a veterinary emergency</li></ul><h3>Exercise Rules for Puppies</h3><p>Follow the 5-minute rule: 5 minutes per month of age, twice daily. Growth plates in a medium breed close at approximately 14–18 months. Avoid forced running, excessive jumping, or stair climbing until growth plates are confirmed closed. Free play is appropriate; jogging is not until 14–18 months.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What is the most important thing to verify before buying a Samoyed puppy?",

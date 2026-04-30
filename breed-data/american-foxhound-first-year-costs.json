@@ -5,20 +5,24 @@
     "shopify_handle": "american-foxhound-first-year-costs",
     "group": "American Foxhound",
     "size_category": "Guide",
-    "tags": ["american-foxhound", "cost", "budget", "first-year", "hound"],
+    "tags": [
+      "american-foxhound",
+      "cost",
+      "budget",
+      "first-year",
+      "hound"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "American Foxhound ownership costs $2,800–$7,200 in the first year. The breed itself is modestly priced; the infrastructure cost is fencing. Ongoing expenses are moderate for a large breed.",
     "meta_description": "American Foxhound first year costs: puppy price, food budget, fencing requirements, vet costs, and lifetime cost estimates for this large hound breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/AmericanFoxhound2.jpg/250px-AmericanFoxhound2.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_e2649a1b-f7fc-4475-b6d0-563bfa97faae.png?v=1777525456",
       "alt": "American Foxhound first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With an 11–13 year lifespan, American Foxhound total ownership costs are moderate for a large breed.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, minimal health interventions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$18,000–$28,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate health issues (recurring ear infections, mild dysplasia)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$24,000–$36,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant health issue (hip surgery)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$30,000–$48,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">Pet insurance from puppyhood is most valuable in the significant health scenario. For the typical healthy Foxhound with good ear maintenance, lifetime costs are reasonable for a large breed.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Are American Foxhounds expensive to buy?",

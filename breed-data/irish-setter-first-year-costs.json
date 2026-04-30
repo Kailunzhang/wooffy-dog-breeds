@@ -5,7 +5,14 @@
     "shopify_handle": "irish-setter-first-year-costs",
     "group": "Irish Setter",
     "size_category": "Guide",
-    "tags": ["irish-setter", "cost", "budget", "first-year", "clad", "large-breed"],
+    "tags": [
+      "irish-setter",
+      "cost",
+      "budget",
+      "first-year",
+      "clad",
+      "large-breed"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "Irish Setter ownership costs $4,800–$9,250 in the first year. Large-breed food costs and pet insurance are the major ongoing expenses after purchase.",
@@ -13,7 +20,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Can_Setter_dog_GFDL.jpg/330px-Can_Setter_dog_GFDL.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_99a4b29d-eb59-40be-9fcd-ff3c068086cb.png?v=1777528582",
       "alt": "Irish Setter first year costs"
     }
   },
@@ -35,7 +42,13 @@
     }
   },
   "faq": [
-    {"q": "Why is the CLAD DNA test so important for Irish Setters?", "a": "CLAD (Canine Leukocyte Adhesion Deficiency) is a fatal immune disorder — affected puppies cannot fight infection and die young. It's autosomal recessive and completely preventable: a puppy from two DNA-tested clear parents cannot be affected. This test costs the breeder very little relative to the puppy price, and any breeder not doing it is not operating responsibly."},
-    {"q": "Is a gastropexy worth doing for an Irish Setter?", "a": "Yes. The deep-chested anatomy creates meaningful GDV risk. Prophylactic gastropexy during spay/neuter costs $200–$500 and eliminates the gastric volvulus risk entirely. Emergency GDV surgery costs $3,000–$8,000 and outcomes are significantly worse than prevention. This is a clear cost-benefit analysis."}
+    {
+      "q": "Why is the CLAD DNA test so important for Irish Setters?",
+      "a": "CLAD (Canine Leukocyte Adhesion Deficiency) is a fatal immune disorder — affected puppies cannot fight infection and die young. It's autosomal recessive and completely preventable: a puppy from two DNA-tested clear parents cannot be affected. This test costs the breeder very little relative to the puppy price, and any breeder not doing it is not operating responsibly."
+    },
+    {
+      "q": "Is a gastropexy worth doing for an Irish Setter?",
+      "a": "Yes. The deep-chested anatomy creates meaningful GDV risk. Prophylactic gastropexy during spay/neuter costs $200–$500 and eliminates the gastric volvulus risk entirely. Emergency GDV surgery costs $3,000–$8,000 and outcomes are significantly worse than prevention. This is a clear cost-benefit analysis."
+    }
   ]
 }

@@ -5,14 +5,19 @@
     "shopify_handle": "beagle-grooming-guide",
     "group": "Beagle",
     "size_category": "Guide",
-    "tags": ["beagle", "grooming", "ear-care", "dog-breeds"],
+    "tags": [
+      "beagle",
+      "grooming",
+      "ear-care",
+      "dog-breeds"
+    ],
     "published": true,
     "excerpt": "Beagle coats are minimal maintenance — the ear cleaning routine is where the real work is. Here's everything you need to know.",
     "meta_description": "Beagle grooming guide: weekly coat care, ear infection prevention, bathing tips, and the simple routine that keeps a Beagle healthy."
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Beagle_600.jpg/330px-Beagle_600.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_1f8743a3-f660-48cf-baa3-16d520b4b946.png?v=1777525883",
       "alt": "Beagle"
     }
   },
@@ -34,9 +39,21 @@
     }
   },
   "faq": [
-    { "q": "How often should I clean a Beagle's ears?", "a": "Weekly as a baseline, and after any water exposure — swimming, bath, or even heavy rain. Apply vet-recommended ear cleaner, massage, let the dog shake, then wipe the outer canal with a cotton ball. This simple routine prevents the vast majority of Beagle ear infections." },
-    { "q": "Do Beagles need professional grooming?", "a": "Not regularly. The short coat doesn't require clipping, trimming, or professional styling. A basic bath and nail trim at a groomer is a nice convenience but not necessary. Home grooming with a weekly brush and regular ear cleaning handles a Beagle's coat entirely." },
-    { "q": "How much do Beagles shed?", "a": "Moderate year-round shedding, with mild seasonal increases in spring and fall. The short hairs embed in fabric more than long-coated breeds. Weekly brushing removes most loose hair before it reaches furniture. A rubber grooming mitt works well for short coats during shedding periods." },
-    { "q": "My Beagle's ears smell. What do I do?", "a": "See a vet. Ear odor is a sign of infection, and Beagle ear infections need treatment — they don't resolve with home cleaning alone. A vet will identify whether it's bacterial or yeast (they require different treatments) and prescribe appropriate medication. Going forward, the weekly ear cleaning routine prevents recurrence." }
+    {
+      "q": "How often should I clean a Beagle's ears?",
+      "a": "Weekly as a baseline, and after any water exposure — swimming, bath, or even heavy rain. Apply vet-recommended ear cleaner, massage, let the dog shake, then wipe the outer canal with a cotton ball. This simple routine prevents the vast majority of Beagle ear infections."
+    },
+    {
+      "q": "Do Beagles need professional grooming?",
+      "a": "Not regularly. The short coat doesn't require clipping, trimming, or professional styling. A basic bath and nail trim at a groomer is a nice convenience but not necessary. Home grooming with a weekly brush and regular ear cleaning handles a Beagle's coat entirely."
+    },
+    {
+      "q": "How much do Beagles shed?",
+      "a": "Moderate year-round shedding, with mild seasonal increases in spring and fall. The short hairs embed in fabric more than long-coated breeds. Weekly brushing removes most loose hair before it reaches furniture. A rubber grooming mitt works well for short coats during shedding periods."
+    },
+    {
+      "q": "My Beagle's ears smell. What do I do?",
+      "a": "See a vet. Ear odor is a sign of infection, and Beagle ear infections need treatment — they don't resolve with home cleaning alone. A vet will identify whether it's bacterial or yeast (they require different treatments) and prescribe appropriate medication. Going forward, the weekly ear cleaning routine prevents recurrence."
+    }
   ]
 }

@@ -5,20 +5,24 @@
     "shopify_handle": "cardigan-welsh-corgi-grooming-guide",
     "group": "Cardigan Welsh Corgi",
     "size_category": "Guide",
-    "tags": ["cardigan-welsh-corgi", "grooming", "double-coat", "shedding", "coat-blow"],
+    "tags": [
+      "cardigan-welsh-corgi",
+      "grooming",
+      "double-coat",
+      "shedding",
+      "coat-blow"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "The Cardigan Welsh Corgi has a dense double coat that sheds year-round and blows twice a year. A 2–3 times per week brushing routine keeps the coat healthy and your home manageable.",
     "meta_description": "Cardigan Welsh Corgi grooming guide: double coat maintenance, seasonal coat blow management, tools and brushing technique, and preventing mat formation in a low-to-ground breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cardigan_Welsh_Corgi%2C_Profile.png/250px-Cardigan_Welsh_Corgi%2C_Profile.png",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_58994fe0-29ef-4a40-a92a-d91d994e25c7.png?v=1777526788",
       "alt": "Cardigan Welsh Corgi grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Cardigan Coat",
@@ -36,7 +40,6 @@
       "html": "<p>The Cardigan's long body and short legs mean the coat regularly contacts the ground, picks up debris during walks, and experiences friction in areas that taller dogs don't. A few practical grooming considerations follow from this body structure.</p><h3>Underbelly and Leg Junction Areas</h3><p>The area where the front and rear legs meet the body is prone to friction matting — particularly in more active dogs that frequently move through tall grass or rough terrain. Check and brush through this area at every grooming session. A mat in this location, if allowed to develop, can affect the dog's comfortable movement.</p><h3>Paw and Leg Hair</h3><p>Cardigans have moderate hair on their legs and between their paw pads. Check between the pads at every session for packed debris, grass seeds, or ice accumulation (in winter). Trim excess hair between the pads if it accumulates dirt, ices up, or causes the dog to slip on smooth floors.</p><h3>Ear Care</h3><p>The Cardigan's large, erect ears provide good airflow and are generally lower-risk for infections than pendant-eared breeds. Clean with ear solution when debris or odor is present. Grass seeds and outdoor debris can enter erect ears — check after outdoor activities in long grass or brush.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often do Cardigan Welsh Corgis shed?",

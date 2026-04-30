@@ -5,20 +5,25 @@
     "shopify_handle": "norwegian-elkhound-grooming-guide",
     "group": "Norwegian Elkhound",
     "size_category": "Guide",
-    "tags": ["norwegian-elkhound", "grooming", "double-coat", "shedding", "coat-blow", "never-shave"],
+    "tags": [
+      "norwegian-elkhound",
+      "grooming",
+      "double-coat",
+      "shedding",
+      "coat-blow",
+      "never-shave"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "The Norwegian Elkhound's dense double coat sheds heavily year-round and dramatically twice per year. The right tools and routine manage it. Never shave the coat — it is a thermoregulation system, not a fur blanket.",
     "meta_description": "Norwegian Elkhound grooming guide: undercoat rake technique for the dense double coat, coat blow management, NEVER shave the coat and why, bathing, ear and nail care."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Elkhound2020_%28cropped%29.jpg/250px-Elkhound2020_%28cropped%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_0ec80e5c-5d4e-4e98-b277-1aeb3d1bed22.png?v=1777530006",
       "alt": "Norwegian Elkhound grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Double Coat",
@@ -36,7 +41,6 @@
       "html": "<p>Norwegian Elkhound shedding requires an honest household strategy. Hair will be on furniture, clothing, and floors. There is no workaround to this — management, not elimination, is the goal.</p><h3>Vacuum Requirements</h3><p>A vacuum with a motorized brush roll and a HEPA filter handles double-coat shedding better than standard vacuums. Robot vacuums on a daily schedule significantly reduce visible accumulation between manual vacuum sessions. Pet hair rollers and lint brushes for clothing are standard tools in Elkhound households.</p><h3>Furniture and Bedding</h3><p>Machine-washable slipcovers or throws on furniture where the dog is allowed simplify cleanup. Dedicated dog beds (replaced or washed regularly) reduce hair accumulation in other areas of the house.</p><h3>Grooming Outdoors</h3><p>During coat blows, groom outdoors when possible. The amount of undercoat released in a single session is substantial — dealing with it outside rather than inside a bathroom significantly reduces the cleanup involved.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often do Norwegian Elkhounds blow their coat?",

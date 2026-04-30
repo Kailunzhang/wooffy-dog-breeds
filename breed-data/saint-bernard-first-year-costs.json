@@ -5,20 +5,25 @@
     "shopify_handle": "saint-bernard-first-year-costs",
     "group": "Saint Bernard",
     "size_category": "Guide",
-    "tags": ["saint-bernard", "cost", "budget", "first-year", "giant-breed", "gastropexy"],
+    "tags": [
+      "saint-bernard",
+      "cost",
+      "budget",
+      "first-year",
+      "giant-breed",
+      "gastropexy"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Saint Bernard ownership costs $5,000–$9,500 in the first year. The food budget alone is one of the highest in the dog world, and the gastropexy is a non-optional first-year cost for responsible owners.",
     "meta_description": "Saint Bernard first year costs: puppy price, giant-breed food budget (8–12 cups daily), gastropexy cost, insurance for Bloat and osteosarcoma risk, and realistic lifetime cost estimates."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hummel_Vedor_vd_Robandahoeve.jpg/330px-Hummel_Vedor_vd_Robandahoeve.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7e6c526b-7998-40b1-a068-19694588442c.png?v=1777531105",
       "alt": "Saint Bernard first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +41,6 @@
       "html": "<p>With an 8–10 year lifespan, Saint Bernard lifetime costs are substantial even for a healthy dog — the annual cost per year is among the highest in domestic breeds due to food alone.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, minimal health issues</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$28,000–$45,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate issues (hip dysplasia, Wobbler management)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$38,000–$65,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant issues (orthopedic surgery, osteosarcoma treatment)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$55,000–$100,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">The short lifespan means the grief arrives sooner than expected. That is a genuine emotional cost that no financial spreadsheet captures but every Saint Bernard owner eventually faces.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How much does a Saint Bernard eat per day?",

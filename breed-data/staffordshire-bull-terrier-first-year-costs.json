@@ -5,20 +5,24 @@
     "shopify_handle": "staffordshire-bull-terrier-first-year-costs",
     "group": "Staffordshire Bull Terrier",
     "size_category": "Guide",
-    "tags": ["staffordshire-bull-terrier", "cost", "budget", "first-year", "hc-l2hga"],
+    "tags": [
+      "staffordshire-bull-terrier",
+      "cost",
+      "budget",
+      "first-year",
+      "hc-l2hga"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Staffordshire Bull Terrier ownership costs $3,900–$7,550 in the first year — moderate for a medium-sized breed with minimal grooming costs. The main cost driver is purchase price from a health-testing breeder.",
     "meta_description": "Staffordshire Bull Terrier first year costs: puppy price, minimal grooming budget, HC/L2HGA testing context, pet insurance necessity, and lifetime cost estimates for a healthy medium terrier."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%D7%A1%D7%90%D7%98%D7%A3_%D7%90%D7%A0%D7%92%D7%9C%D7%99.jpg/330px-%D7%A1%D7%90%D7%98%D7%A3_%D7%90%D7%A0%D7%92%D7%9C%D7%99.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_5f4fe538-6a67-488d-a1da-884575b5842c.png?v=1777531882",
       "alt": "Staffordshire Bull Terrier first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With a 12–14 year lifespan, Staffordshire Bull Terriers are one of the more affordable medium breeds to own long-term — particularly given the absence of grooming costs.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog from tested parents</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$18,000–$32,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Atopic dermatitis management (ongoing)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$24,000–$40,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant issues (skin + hip surgery)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$30,000–$50,000</td></tr></tbody></table><p style=\"margin-top:16px;\">Compared to larger breeds and breeds with intensive grooming needs, the Stafford is a relatively cost-efficient companion — provided the DNA testing requirement has been met at purchase.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Why do Stafford puppies from health-tested breeders cost $2,500–$5,000?",

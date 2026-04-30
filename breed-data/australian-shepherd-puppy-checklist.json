@@ -5,20 +5,24 @@
     "shopify_handle": "australian-shepherd-puppy-checklist",
     "group": "Australian Shepherd",
     "size_category": "Guide",
-    "tags": ["australian-shepherd", "puppy", "checklist", "herding-breed", "mdr1-testing"],
+    "tags": [
+      "australian-shepherd",
+      "puppy",
+      "checklist",
+      "herding-breed",
+      "mdr1-testing"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Everything you need before your Aussie puppy comes home — including the MDR1 DNA test that every Australian Shepherd owner needs to do before their first vet visit.",
     "meta_description": "Australian Shepherd puppy checklist: MDR1 DNA test, gear for a high-energy herding breed, training priorities for an intelligent working dog, and merle coat safety notes."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Australian_Shepherd_red_bi.JPG/330px-Australian_Shepherd_red_bi.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9e4e5374-0dad-4492-b957-70a04972f149.png?v=1777525731",
       "alt": "Australian Shepherd puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<p>Australian Shepherds are working dogs. They were bred to make decisions, solve problems, and work intensively alongside humans. As pets, this intelligence is an asset — they train faster than almost any other breed. It's also a challenge: a bored, under-stimulated Aussie will find its own work to do, and that work usually involves herding children, rearranging furniture, or escaping the yard.</p><h3>Year One Training Priorities</h3><ol><li><strong>Puppy class immediately (8–12 weeks):</strong> Aussies have a socialization window too — expose them to different people, dogs, environments, and sounds during 8–16 weeks.</li><li><strong>Herding instinct management:</strong> Aussies may nip at moving children or try to herd family members. Interrupt and redirect immediately with a 'leave it' cue. This behavior responds well to training but needs to be addressed early and consistently.</li><li><strong>Recall:</strong> A solid 'come' command on a long line before any off-leash time. Aussies can have high prey drive and high working drive — they'll chase things. Reliable recall is a safety skill.</li><li><strong>Mental stimulation daily:</strong> Training sessions, puzzle feeders, scent games. A 20-minute training session may exhaust an Aussie more effectively than an hour's walk.</li><li><strong>Canine sport:</strong> Seriously consider agility, herding trials, obedience sport, or frisbee. Aussies that have a job are dramatically calmer and happier dogs.</li></ol><h3>Merle Coat Notes</h3><p>If your puppy is merle-coated: do not breed it to another merle. Double merle puppies (merle × merle) have a high risk of being blind, deaf, or both. This is strictly a breeding consideration, not a health issue for your individual dog.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How important is the MDR1 test for Australian Shepherd puppies?",

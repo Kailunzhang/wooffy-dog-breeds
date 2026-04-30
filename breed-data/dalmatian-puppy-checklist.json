@@ -5,20 +5,24 @@
     "shopify_handle": "dalmatian-puppy-checklist",
     "group": "Dalmatian",
     "size_category": "Guide",
-    "tags": ["dalmatian", "puppy", "checklist", "low-purine-diet", "BAER-test"],
+    "tags": [
+      "dalmatian",
+      "puppy",
+      "checklist",
+      "low-purine-diet",
+      "BAER-test"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Everything you need before your Dalmatian puppy comes home — including the diet setup and hearing verification that are unique to this breed.",
     "meta_description": "Dalmatian puppy checklist: BAER hearing test verification, low-purine diet setup, exercise management for a high-energy breed, socialization priorities, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Dog_Dalmatian.jpg/250px-Sun_Dog_Dalmatian.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9cc74a57-5f35-4e5a-bb1e-e2fcfe480fb6.png?v=1777527398",
       "alt": "Dalmatian puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Training: Start Early, Stay Consistent</h3><p>Dalmatians are intelligent, trainable dogs that can also be stubborn and energetic when undertrained. They respond well to positive reinforcement with clear expectations and consistency. Establish core commands early: sit, down, stay, come, leave it. Loose-leash walking practice should begin immediately — a large, pulling Dalmatian is genuinely difficult to manage.</p><ul><li>Puppy class at 8–10 weeks (after first vaccine set)</li><li>Short, positive training sessions daily — 5–10 minutes multiple times per day</li><li>No harsh corrections — they produce either shutdown or defiance in this breed</li></ul><h3>Exercise Limits for Puppies</h3><p>Dalmatians are built for endurance and need significant exercise as adults — but growing puppies have developing joints that must be protected. Follow the 5-minutes-per-month-of-age guideline for leash walks (twice daily maximum). Growth plates close around 12–14 months in Dalmatians — no forced running or jumping before then. Free play in a yard is appropriate; jogging is not until growth is complete.</p><h3>Hearing-Specific Management (If Applicable)</h3><p>For unilaterally deaf Dalmatians:</p><ul><li>Approach from the hearing side when possible — startling a deaf ear can cause fright responses</li><li>Teach hand signals alongside verbal commands from puppyhood</li><li>Never let off-leash in unfenced areas — a deaf dog cannot hear traffic or recall commands at distance</li></ul>"
     }
   },
-
   "faq": [
     {
       "q": "What is the BAER test and why does it matter for Dalmatians?",

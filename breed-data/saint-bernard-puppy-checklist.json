@@ -5,20 +5,25 @@
     "shopify_handle": "saint-bernard-puppy-checklist",
     "group": "Saint Bernard",
     "size_category": "Guide",
-    "tags": ["saint-bernard", "puppy", "checklist", "gastropexy", "giant-breed", "drool"],
+    "tags": [
+      "saint-bernard",
+      "puppy",
+      "checklist",
+      "gastropexy",
+      "giant-breed",
+      "drool"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Everything you need before your Saint Bernard puppy comes home — including the gastropexy conversation that should happen at the first vet visit and the drool infrastructure you need in place before day one.",
     "meta_description": "Saint Bernard puppy checklist: gastropexy planning, giant-breed food selection, drool management setup, exercise limits until 18–24 months, and first vet visit priorities."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hummel_Vedor_vd_Robandahoeve.jpg/330px-Hummel_Vedor_vd_Robandahoeve.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_c00ee275-511d-4772-93b0-8d789d09e3bc.png?v=1777531097",
       "alt": "Saint Bernard puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Train Before Size Becomes the Problem</h3><p>A Saint Bernard that hasn't learned basic obedience as a puppy is a 150-lb management challenge as an adult. Train while the dog is at manageable size. Every command established at 12 weeks doesn't need to be fought for at 12 months and 120 lbs. Key priorities:</p><ul><li>Loose-leash walking — start from the first walk with consistent positive reinforcement; a pulling giant breed is unsafe</li><li>Sit, down, stay — achievable and essential</li><li>No jumping — establish the rule from day one; a 160-lb Saint launching at a person causes real injuries</li><li>Come — build a strong recall in safe, fenced areas</li><li>Door manners — sit and wait before going through doors</li></ul><p>Use positive reinforcement consistently. Saint Bernards are receptive to positive training and are more willing than many giant breeds. Harsh corrections are unnecessary and counterproductive.</p><h3>Exercise Limits: Critical for Giant Breed Puppies</h3><p>Saint Bernard puppies have growth plates that close at 18–24 months — later than smaller breeds. Before growth plates close:</p><ul><li>No forced running — short, gentle walks only</li><li>No repetitive jumping — jumping on/off furniture, stairs, out of vehicles</li><li>No long hikes or runs</li><li>Follow the 5-minutes-per-month-of-age rule for structured exercise (e.g., 3-month-old gets 15 minutes)</li><li>Free play in a yard is appropriate — let the puppy self-regulate</li><li>Overexercising a giant breed puppy directly increases the risk of hip and elbow dysplasia</li></ul><h3>Socialization</h3><p>The 8–16 week window matters for Saint Bernards just as for any breed. Expose to diverse people, environments, sounds, and friendly dogs during this period. Puppy classes using positive reinforcement provide both socialization and early obedience work. Saint Bernards are generally social and tolerant by nature, but proper early socialization ensures that natural tolerance is well-rounded and reliable.</p>"
     }
   },
-
   "faq": [
     {
       "q": "When should I discuss gastropexy with my vet?",

@@ -5,20 +5,24 @@
     "shopify_handle": "field-spaniel-grooming-guide",
     "group": "Field Spaniel",
     "size_category": "Guide",
-    "tags": ["field-spaniel", "grooming", "silky-coat", "feathering", "ear-cleaning"],
+    "tags": [
+      "field-spaniel",
+      "grooming",
+      "silky-coat",
+      "feathering",
+      "ear-cleaning"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "The Field Spaniel's silky, glossy coat is relatively straightforward to maintain — weekly brushing, attention to the feathering on the ears and legs, and consistent ear cleaning. Professional trimming every 8–10 weeks keeps the coat tidy.",
     "meta_description": "Field Spaniel grooming guide: maintaining the silky coat and feathering, essential ear cleaning, professional trimming schedule, and the complete home care routine for this gentle spaniel."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Field_spaniel_581.jpg/250px-Field_spaniel_581.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_7c80703f-8263-4232-85a8-d7a649e3daab.png?v=1777527726",
       "alt": "Field Spaniel grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Field Spaniel Coat",
@@ -36,7 +40,6 @@
       "html": "<p>The Field Spaniel's long, heavily feathered ears trap moisture and debris. Weekly ear cleaning is essential — clean ears in the same session as weekly brushing to establish it as a routine. Apply veterinary ear cleaning solution, massage the ear base, allow the dog to shake, then wipe visible debris with cotton balls. Check for odor, redness, or discharge at each cleaning session.</p><h3>Eye Health Monitoring</h3><p>Field Spaniels can be prone to eye conditions including ectropion (drooping lower eyelid) and entropion (inward-rolling eyelid). During regular grooming sessions, check the eyes: the conjunctiva should be pink rather than red, there should be no visible rolling of the eyelid, and the dog should not be squinting or pawing at the eyes. Any of these signs warrant a veterinary check. Establish an eye baseline at the first vet visit and ask your vet whether ophthalmology screening is appropriate given the line of dogs.</p><h3>Progressive Retinal Atrophy</h3><p>PRA (Progressive Retinal Atrophy) is documented in Field Spaniels. DNA testing of breeding parents reduces risk. When grooming, note any changes in how the dog navigates in low light conditions — difficulty in dimly lit rooms or reluctance on stairs at night may indicate early visual changes and warrant veterinary evaluation.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does a Field Spaniel need professional grooming?",

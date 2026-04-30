@@ -5,20 +5,24 @@
     "shopify_handle": "german-wirehaired-pointer-first-year-costs",
     "group": "German Wirehaired Pointer",
     "size_category": "Guide",
-    "tags": ["german-wirehaired-pointer", "cost", "budget", "first-year", "large-breed"],
+    "tags": [
+      "german-wirehaired-pointer",
+      "cost",
+      "budget",
+      "first-year",
+      "large-breed"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "German Wirehaired Pointer ownership costs $2,800–$5,500 in the first year. The breed's excellent 14–16 year lifespan spreads ongoing costs well, but Von Willebrand's disease risk and cardiac health make pet insurance a smart investment from day one.",
     "meta_description": "German Wirehaired Pointer first year costs: puppy price, food, vet care, insurance for a high-drive sporting breed, and the health conditions that make financial planning important."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dan_vom_hardenberg_%28cropped%29.jpg/250px-Dan_vom_hardenberg_%28cropped%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_ec6a0313-2d1a-4a62-b8e5-8284db180e86.png?v=1777528088",
       "alt": "German Wirehaired Pointer first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With the GWP's excellent 14–16 year lifespan, lifetime costs are notable but well-distributed.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, no major interventions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$22,000–$38,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate health issues (hip management, hypothyroidism)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$30,000–$48,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant health issues (hip surgery, cardiac management)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$40,000–$65,000</td></tr></tbody></table><p style=\"margin-top:16px;\">The 14–16 year lifespan means the per-year cost is genuinely favorable compared to shorter-lived large breeds. A GWP that lives 15 years healthy represents excellent value relative to a breed that lives 8–10 years with significant health interventions.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does a GWP puppy cost from a reputable breeder?",

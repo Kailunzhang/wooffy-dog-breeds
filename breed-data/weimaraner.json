@@ -6,74 +6,103 @@
     "group": "Sporting Group",
     "size_category": "Large Breed",
     "tagline": "The Weimaraner is a powerful, high-energy German hunting dog with a stubborn streak, an escape artist's ingenuity, and a striking silver-gray coat. They demand more exercise and mental engagement than most owners anticipate.",
-    "tags": ["sporting-group", "large-breed", "pointer", "gray-ghost", "high-energy", "dog-breeds"],
+    "tags": [
+      "sporting-group",
+      "large-breed",
+      "pointer",
+      "gray-ghost",
+      "high-energy",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-18T16:00:00Z",
     "excerpt": "Weimaraners are athletic, intelligent hunting dogs that become destructive and anxious when under-exercised. The 'Gray Ghost' nickname reflects both their appearance and their ability to disappear over a fence when motivated. Bloat risk is significant; gastropexy is recommended.",
     "meta_description": "Weimaraner breed guide: exercise requirements, escape artist management, bloat risk and gastropexy, health conditions, and what this high-drive German pointer actually requires daily."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "55–90 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–13 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "90–120 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Very Low" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate–Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good with older kids" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "55–90 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–13 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90–120 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Very Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate–Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good with older kids"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weimaraner_Freika-2.jpg/330px-Weimaraner_Freika-2.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_6f02c639-5a4a-463a-8309-bb76540fa5fd.png?v=1777532139",
       "alt": "Weimaraner"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Weimaraner?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Weimaraner was developed in early 19th-century Germany, originally bred by the Weimar court as a large-game hunting dog for boar, bear, and deer. As large game declined, the breed transitioned to bird hunting, and it remains a capable versatile hunting dog today. The silver-gray coat and pale amber or blue-gray eyes give the breed its distinctive, striking appearance — the 'Gray Ghost' nickname is apt.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Weimaraners are intelligent and athletic with strong opinions about their environment. An adequately exercised, mentally engaged Weimaraner is a confident, focused, and rewarding companion. An under-exercised or bored Weimaraner is a different proposition entirely — destructive, anxious, and capable of dismantling a house or clearing a fence with equal motivation.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The escape artist warning is real. Weimaraners are tall, athletic, and problem-solvers. A 5-foot fence is not adequate. A 6-foot fence with secure gates is the minimum. They have been known to figure out gate latches. If there's something interesting on the other side of the fence, a motivated Weimaraner will find a way over, under, or through it.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Weimaraners Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Large and athletic, with a lean but muscular build. Females weigh 55–75 lbs; males 70–90 lbs. Height 23–27 inches — the Weimaraner is a distinctly tall dog. The build is elegant and powerful, built for sustained work over varied terrain.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The short, smooth, sleek coat is gray in all shades from charcoal to silver-gray to mouse-gray — no other color is acceptable in the standard. The eyes are pale amber, gray, or blue-gray, lending an unusual, almost otherworldly expression. The coat sheds minimally and requires essentially no grooming beyond a weekly rubber mitt wipe-down. There is also a longhaired Weimaraner variety with a silky, 1–2 inch coat; less common in the US but recognized in some registries.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Energetic, intelligent, and assertive. Weimaraners are not passive dogs — they have opinions, they act on them, and they will test an uncertain owner. This is not a docile breed that simply follows along; it's a thinking dog that requires consistent, confident handling.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With their family, they are affectionate and loyal, and often follow their person closely (similar velcro tendency to the Vizsla, though less extreme). With strangers, generally reserved initially but not aggressive with proper socialization. With other dogs, variable — males especially can be pushy with other dogs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The prey drive is significant. Cats and small animals are at risk. This needs management, not just hope. The independent and assertive quality means that training requires patience and positive methods — Weimaraners that are trained harshly tend to become either shut down or more resistant, not more compliant.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Weimaraner",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Weimaraner is a beautiful, capable, and rewarding dog for the right owner. Active hunters, runners, cyclists — people who will genuinely provide 90+ minutes of vigorous exercise daily — will have an excellent companion. The Gray Ghost develops a real partnership with a consistent, active owner.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest challenges: the exercise requirement is not negotiable, the escape-proofing investment is real, and the stubbornness requires experienced handling. This is not a first-dog breed. If you're drawn to the look but don't have an active lifestyle, a calmer, less demanding breed will serve you and the dog better.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Two specific things to do before you bring one home: get the fence right (6 feet, secure latches, check for digging vulnerabilities), and talk to your vet about gastropexy. Deep-chested, large-framed dogs are bloat candidates, and the Weimaraner's body type puts them in that risk category — especially males.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">90–120 minutes of vigorous daily exercise is the baseline. Running, cycling, swimming, field work, and agility are ideal. Mental stimulation — training sessions, scent work, puzzle feeders — is equally important for a dog this intelligent. An under-exercised Weimaraner will find its own entertainment. That entertainment will be expensive.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Minimal. Rubber mitt weekly, nails trimmed regularly, ears checked and cleaned weekly. Virtually no shedding onto furniture. One of the easiest coats in the sporting group. See the <a href=\"/blogs/dog-breeds/weimaraner-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Weimaraner grooming guide</a>.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Positive reinforcement with firm consistency. Weimaraners test boundaries. They need clear rules established early and maintained consistently. Training is not optional — an 80-lb dog that doesn't have reliable commands is a management challenge. Crate training is strongly recommended, particularly for the first two years.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Generally a healthy breed. The primary acute risk is bloat/GDV in deep-chested males. Several other conditions are worth breeder screening and owner awareness.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The deep-chested, large-framed body type puts Weimaraners at meaningful bloat risk — particularly males. GDV is life-threatening and can kill within hours without emergency surgery. Discuss prophylactic gastropexy at your first vet visit. Know the signs: distended abdomen, unproductive retching, restlessness after eating.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Present in the breed. OFA or PennHIP hip evaluation from breeders. Managed medically in moderate cases; surgical intervention in severe cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Underactive thyroid — manageable with daily medication once diagnosed. OFA thyroid clearances available.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">HOD (Hypertrophic Osteodystrophy)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">A painful bone growth condition affecting large-breed puppies, sometimes seen in Weimaraners. Typically resolves as the dog matures, but can be severely debilitating during growth. Requires veterinary pain management.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">von Willebrand's Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">A blood clotting disorder. DNA test available. Important to know before surgery — affects bleeding time. Manageable with precautions.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Spinal Dysraphism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">A rare inherited spinal cord malformation. Responsible breeders are aware of it and select against affected lines.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA thyroid, CAER eye exam, von Willebrand's DNA test. Discuss gastropexy with your vet before or at the time of spay/neuter.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,000–$2,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Gastropexy (recommended)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Secure fencing (if needed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$2,500+</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup + training</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,200–$6,500</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,700–$3,000</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/weimaraner-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Weimaraner first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Weimaraner Right for You?",
@@ -92,25 +121,50 @@
         "Anyone not prepared to budget for and discuss gastropexy"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Weimaraner",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,000–$2,000 from reputable breeders. Required health clearances: OFA hip, OFA thyroid, CAER eye exam, von Willebrand's DNA test. The Weimaraner Club of America maintains a breeder referral directory.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Weimaraner rescue organizations exist across the US. Many dogs are surrendered by owners who underestimated exercise requirements. Active, experienced households only.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before arrival, complete the <a href=\"/blogs/dog-breeds/weimaraner-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Weimaraner puppy checklist</a> — fence audit and gastropexy discussion are the critical first-week tasks.</p>"
     }
   },
-
   "faq": [
-    { "q": "Why are Weimaraners called the 'Gray Ghost'?", "a": "The nickname refers to both the breed's distinctive silver-gray coat and their somewhat ghostly ability to move silently and disappear into the landscape. It also references their tendency to vanish over fences when motivated — a practical concern for owners. Secure, tall fencing is non-optional for this breed." },
-    { "q": "Are Weimaraners good family dogs?", "a": "For active families with older children — yes. Weimaraners are affectionate and loyal with their household. Their high energy and large size make them challenging for households with toddlers or very young children (accidental knockdowns are likely with an excited Weimaraner). They do best in active families where exercise needs are genuinely met." },
-    { "q": "How much exercise does a Weimaraner need?", "a": "90–120 minutes of vigorous activity daily. This is not a slow-walk breed. Running, cycling, swimming, hunting, or agility are appropriate activities. Mental stimulation — training, scent work — is also important. An under-exercised Weimaraner becomes destructive, anxious, and difficult. This requirement doesn't diminish significantly until the dog is older." },
-    { "q": "Should I get a gastropexy for my Weimaraner?", "a": "Discuss it with your vet — particularly if your dog is male. Weimaraners are deep-chested, which places them in the higher-risk category for bloat/GDV. Prophylactic gastropexy, performed during spay or neuter, prevents gastric torsion by tacking the stomach to the abdominal wall. It is a reasonable preventive measure for a breed with their body type. The procedure adds $400–$800 to the spay/neuter cost." }
+    {
+      "q": "Why are Weimaraners called the 'Gray Ghost'?",
+      "a": "The nickname refers to both the breed's distinctive silver-gray coat and their somewhat ghostly ability to move silently and disappear into the landscape. It also references their tendency to vanish over fences when motivated — a practical concern for owners. Secure, tall fencing is non-optional for this breed."
+    },
+    {
+      "q": "Are Weimaraners good family dogs?",
+      "a": "For active families with older children — yes. Weimaraners are affectionate and loyal with their household. Their high energy and large size make them challenging for households with toddlers or very young children (accidental knockdowns are likely with an excited Weimaraner). They do best in active families where exercise needs are genuinely met."
+    },
+    {
+      "q": "How much exercise does a Weimaraner need?",
+      "a": "90–120 minutes of vigorous activity daily. This is not a slow-walk breed. Running, cycling, swimming, hunting, or agility are appropriate activities. Mental stimulation — training, scent work — is also important. An under-exercised Weimaraner becomes destructive, anxious, and difficult. This requirement doesn't diminish significantly until the dog is older."
+    },
+    {
+      "q": "Should I get a gastropexy for my Weimaraner?",
+      "a": "Discuss it with your vet — particularly if your dog is male. Weimaraners are deep-chested, which places them in the higher-risk category for bloat/GDV. Prophylactic gastropexy, performed during spay or neuter, prevents gastric torsion by tacking the stomach to the abdominal wall. It is a reasonable preventive measure for a breed with their body type. The procedure adds $400–$800 to the spay/neuter cost."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Vizsla", "slug": "vizsla", "note": "Similar short coat and sporting heritage, smaller, more sensitive, velcro temperament"},
-    {"name": "German Shorthaired Pointer", "slug": "german-shorthaired-pointer", "note": "Versatile hunting dog, similar energy level, slightly more amenable temperament"},
-    {"name": "Doberman Pinscher", "slug": "doberman-pinscher", "note": "Similar sleek build and intelligence, guardian role rather than sporting"},
-    {"name": "Labrador Retriever", "slug": "labrador-retriever", "note": "More trainable and social, retriever vs pointing heritage, heavier shedding"}
+    {
+      "name": "Vizsla",
+      "slug": "vizsla",
+      "note": "Similar short coat and sporting heritage, smaller, more sensitive, velcro temperament"
+    },
+    {
+      "name": "German Shorthaired Pointer",
+      "slug": "german-shorthaired-pointer",
+      "note": "Versatile hunting dog, similar energy level, slightly more amenable temperament"
+    },
+    {
+      "name": "Doberman Pinscher",
+      "slug": "doberman-pinscher",
+      "note": "Similar sleek build and intelligence, guardian role rather than sporting"
+    },
+    {
+      "name": "Labrador Retriever",
+      "slug": "labrador-retriever",
+      "note": "More trainable and social, retriever vs pointing heritage, heavier shedding"
+    }
   ]
 }

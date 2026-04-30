@@ -5,20 +5,24 @@
     "shopify_handle": "akita-puppy-checklist",
     "group": "Akita",
     "size_category": "Guide",
-    "tags": ["akita", "puppy", "checklist", "fence-security", "socialization"],
+    "tags": [
+      "akita",
+      "puppy",
+      "checklist",
+      "fence-security",
+      "socialization"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Everything you need before your Akita puppy comes home — including the fence security check and socialization plan that matter more for this breed than for most.",
     "meta_description": "Akita puppy checklist: fence security, socialization window priorities, handling desensitization for an independent breed, and essential gear for a large working dog."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Akita_Collage.png/330px-Akita_Collage.png",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_a5814d1c-391b-4c4a-9fcd-c0d7cfe7f2de.png?v=1777525346",
       "alt": "Akita puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Start Training Immediately</h3><p>Akita puppies are manageable. Akita adults that haven't learned household rules are not. The investment in training during puppyhood returns enormous dividends — every command you establish at 10 weeks doesn't need to be fought for at 120 lbs.</p><ul><li>Sit, down, stay, come, leave it — establish all core commands from the start</li><li>Loose-leash walking practice from the first walk — never allow pulling to become habitual</li><li>Door manners: sit before going outside, sit before greeting people</li><li>No jumping — cute at 20 lbs, dangerous at 100+ lbs</li></ul><h3>Dog-Dog Introductions</h3><p>If you have or expect to have other dogs in the household, careful early management matters:</p><ul><li>Introduce on neutral territory, on leash, with both dogs calm</li><li>Monitor all interactions — even friendly early interactions can change</li><li>Same-sex pairs are significantly higher risk; opposite-sex dogs are more compatible</li><li>Never leave an Akita unsupervised with other dogs in the early months</li></ul><h3>Exercise Rules for Puppies</h3><p>Follow the puppy exercise rule: 5 minutes per month of age, twice daily maximum (so a 3-month-old gets 15-minute sessions). Growth plates in a large breed close at 18 months — no forced running, jumping, or stair climbing until then. Leash walks and free play are appropriate; jogging with the dog is not until 18 months.</p>"
     }
   },
-
   "faq": [
     {
       "q": "When should I start socializing my Akita puppy?",

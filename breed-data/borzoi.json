@@ -6,74 +6,104 @@
     "group": "Hound Group",
     "size_category": "Large Breed",
     "tagline": "The Borzoi is a Russian sighthound of extraordinary elegance — cat-like, independent, and capable of reaching 40 mph. They are gentle and quiet at home, but they must never be trusted off-leash outside a securely fenced area. Their sensitivity to anesthesia requires every vet to be briefed before any procedure.",
-    "tags": ["hound-group", "large-breed", "sighthound", "independent", "elegant", "russian-breed", "dog-breeds"],
+    "tags": [
+      "hound-group",
+      "large-breed",
+      "sighthound",
+      "independent",
+      "elegant",
+      "russian-breed",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Borzoi are beautiful, independent sighthounds with a 40 mph sprint capability and a cat-like home presence. They're gentle and quiet indoors, but the off-leash rule is absolute — they will chase and they will not come back. Anesthesia sensitivity requires every vet to know they're treating a sighthound before any procedure.",
     "meta_description": "Borzoi breed guide: sighthound temperament, the absolute off-leash rule, anesthesia sensitivity, bloat risk and gastropexy recommendation, silky coat grooming, and what elegant independence looks like in daily life."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "60–105 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "9–14 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "Sprint + rest" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Calm households" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "60–105 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "9–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "Sprint + rest"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Calm households"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Chart_rosyjski_borzoj_rybnik-kamien_pl.jpg/250px-Chart_rosyjski_borzoj_rybnik-kamien_pl.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_90df2c92-5ea6-4e12-a81b-69b5e32b9b17.png?v=1777526339",
       "alt": "Borzoi"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Borzoi?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Borzoi — formerly called the Russian Wolfhound — is a large sighthound developed by Russian aristocracy for coursing wolves across open steppes. They were bred to run down and hold prey using eyesight rather than nose, at sustained speeds reaching 40 miles per hour. The breed's history is one of extreme elegance and extreme purpose: these were the hunting dogs of tsars.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">At home, Borzoi are famously cat-like — quiet, independent, and capable of remarkable stillness. They're not demanding dogs in the typical sense. They don't bark excessively, don't climb on furniture seeking attention, and don't require constant interaction. They're present in a dignified, self-contained way.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The critical rule for any sighthound — and for Borzoi especially — is that they are never off-leash outside a securely fenced enclosure. Their prey drive is instantaneous and their speed is such that once they spot something worth chasing, the outcome is gone from your control within seconds. This is not a training failure; it is the breed's fundamental nature.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Borzoi Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Large, lean, and extraordinarily graceful. Males typically 75–105 lbs, females 60–85 lbs, and both stand over 26 inches at the shoulder. The body is long and curved — an arched loin, deep chest, and tucked abdomen give the breed its distinctive silhouette. The head is long and narrow, the eyes dark and keen, the expression combining gentleness with alertness.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The coat is long, silky, and flowing — flat or wavy on the body, with profuse feathering on the ears, chest, tail, and hindquarters. Colors include virtually any combination: white, gold, brindle, tan, cream, and mixed. The coat sheds moderately and requires regular brushing to manage the volume, though it mats less dramatically than something like an Old English Sheepdog. The long, curved tail is a signature feature and particularly susceptible to damage from wagging in tight spaces.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Independent, elegant, and reserved. Borzoi are affectionate with their family in a quiet, dignified way — not the effusive, bounce-off-the-walls enthusiasm of retrievers, but a calm, attentive presence. Many owners describe them as cat-like: they seek affection on their own terms, can be aloof when uninterested, and move through the house with a self-contained grace.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With strangers, Borzoi tend to be reserved rather than outgoing. They're not aggressive — aggression is atypical for the breed — but they don't warm up quickly. Proper socialization reduces the degree of wariness with unfamiliar people.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The independence creates a genuine training challenge. Borzoi understand commands. They simply evaluate whether the command is worth executing at any given moment. This is typical sighthound cognition — they were bred to make independent decisions at speed, not to take orders. Training with positive reinforcement works; frustration and repetition do not. Reliable recall outside a fence is essentially impossible to achieve.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Borzoi",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Borzoi attract people with their appearance — they're among the most visually striking dogs in existence. The reality of living with one is genuinely wonderful for the right household, but there are two non-negotiables that anyone considering the breed must accept before acquiring one.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">First: the off-leash rule is absolute and permanent. A Borzoi outside a fence is a Borzoi that may die. It's not negotiable, it doesn't change with training, and there are no exceptions. If your lifestyle requires a dog you can walk off-leash in open areas, this is not your breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Second: anesthesia sensitivity in sighthounds is real and can be fatal if not managed. Sighthounds have unusually low body fat, metabolize certain drugs differently, and require lower anesthetic doses than other breeds of similar weight. Every veterinarian — every one — must be told before any procedure that they are treating a sighthound. Keep this noted in the dog's records.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Borzoi have a sighthound exercise pattern: sprint bursts followed by extended rest. They don't need continuous exercise — they need periodic opportunities to run at speed in a safely enclosed area, plus daily on-leash walks. A securely fenced yard where they can run is the ideal setup. Lure coursing and fast-CAT events are excellent outlets that give the breed appropriate speed work in a safe context.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The long, silky coat requires brushing 2–3 times per week to manage shedding and prevent tangles in feathered areas. Borzoi are not as mat-prone as some long-coated breeds, but the volume of coat requires attention. See the <a href=\"/blogs/dog-breeds/borzoi-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Borzoi grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Challenging due to sighthound independence. Basic obedience can be taught with positive reinforcement, but reliable recall outside a fence is not achievable for most dogs of this breed. Training is a relationship investment, not a compliance exercise. Manage the environment; don't rely on commands to override instinct.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Borzoi have a lifespan of 9–14 years. The primary health concerns are bloat/GDV, anesthesia sensitivity, osteosarcoma, and heart and eye conditions.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Anesthesia Sensitivity</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\"><strong>Critical:</strong> Sighthounds metabolize anesthetic agents differently from other breeds due to low body fat and liver enzyme differences. Standard doses used in other breeds can be fatal. Every veterinarian who treats a Borzoi must be informed that they are treating a sighthound before any sedation, anesthesia, or certain medications. This applies at emergency clinics and specialist practices as well as regular vets. Note it prominently in the dog's records.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Deep-chested, large breeds are at elevated risk for gastric dilatation-volvulus. A life-threatening emergency requiring immediate veterinary treatment. Signs: distended abdomen, unproductive retching, restlessness after eating. Prophylactic gastropexy is strongly recommended — discuss with your vet at the first visit or at the time of spay/neuter.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Osteosarcoma</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Bone cancer occurs at elevated rates in large and giant breeds including Borzoi. Signs include persistent lameness, swelling around a limb, or pain. Requires veterinary evaluation; prognosis varies with stage at diagnosis.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Heart Issues</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Cardiac conditions including dilated cardiomyopathy occur in the breed. Cardiac screening by breeders is recommended.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited retinal degeneration leading to blindness. CAER eye exam clearance from breeders is recommended.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, CAER eye exam, cardiac evaluation clearances. Alert every vet to sighthound anesthesia sensitivity before any procedure.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$3,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Secure fencing (if needed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$3,000+</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (large crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$550</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$4,000–$9,550</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,550–$2,700</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/borzoi-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Borzoi first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Borzoi Right for You?",
@@ -91,25 +121,50 @@
         "Owners who have not arranged secure fencing before the dog arrives"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Borzoi",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$3,000 from reputable breeders. The Borzoi Club of America maintains a breeder referral directory. Ask about OFA hip, CAER eye, and cardiac clearances. Health-testing breeders can be identified through the club's health registry.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Borzoi rescue exists — the Borzoi Club of America coordinates with regional rescue organizations. Many rescue Borzoi are adults surrendered by owners who underestimated the sighthound temperament and the off-leash management requirements.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Borzoi comes home, review the <a href=\"/blogs/dog-breeds/borzoi-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Borzoi puppy checklist</a> — fence security audit and anesthesia sensitivity documentation for your vet records are the two non-negotiable first steps.</p>"
     }
   },
-
   "faq": [
-    { "q": "Can Borzoi ever be trusted off-leash?", "a": "Only in a securely fenced area. Outside a fence — no. The Borzoi's prey drive activates at the sight of movement, and once in pursuit they can reach 40 mph and are genuinely beyond any recall command. This is not a training failure; it is sighthound breed biology. The answer is fencing, not training." },
-    { "q": "What is the anesthesia sensitivity issue with Borzoi?", "a": "Sighthounds, including Borzoi, have significantly lower body fat than other breeds of similar weight and metabolize certain anesthetic drugs differently. Standard doses used in other breeds can be dangerous or fatal. Every veterinarian treating a Borzoi must know in advance that they are treating a sighthound. This applies to regular vet visits, emergency clinics, and specialist practices. Put it in the records, mention it at every appointment." },
-    { "q": "How much exercise does a Borzoi need?", "a": "Less continuous exercise than you might expect from a large breed, but with specific requirements. Borzoi sprint and rest — they're built for speed bursts, not endurance. They need daily on-leash walks and periodic opportunities to run at full speed in a safely fenced enclosure. Lure coursing events and fast-CAT competitions are ideal outlets. They're not suited to jogging on a leash." },
-    { "q": "Are Borzoi good with other dogs?", "a": "Generally yes with other large dogs when properly socialized. Small dogs and small animals can trigger prey drive — Borzoi have strong instincts about small, fast-moving creatures. Introductions with small dogs should be carefully managed, and Borzoi should not be trusted off-leash around cats or small animals in unfenced areas." }
+    {
+      "q": "Can Borzoi ever be trusted off-leash?",
+      "a": "Only in a securely fenced area. Outside a fence — no. The Borzoi's prey drive activates at the sight of movement, and once in pursuit they can reach 40 mph and are genuinely beyond any recall command. This is not a training failure; it is sighthound breed biology. The answer is fencing, not training."
+    },
+    {
+      "q": "What is the anesthesia sensitivity issue with Borzoi?",
+      "a": "Sighthounds, including Borzoi, have significantly lower body fat than other breeds of similar weight and metabolize certain anesthetic drugs differently. Standard doses used in other breeds can be dangerous or fatal. Every veterinarian treating a Borzoi must know in advance that they are treating a sighthound. This applies to regular vet visits, emergency clinics, and specialist practices. Put it in the records, mention it at every appointment."
+    },
+    {
+      "q": "How much exercise does a Borzoi need?",
+      "a": "Less continuous exercise than you might expect from a large breed, but with specific requirements. Borzoi sprint and rest — they're built for speed bursts, not endurance. They need daily on-leash walks and periodic opportunities to run at full speed in a safely fenced enclosure. Lure coursing events and fast-CAT competitions are ideal outlets. They're not suited to jogging on a leash."
+    },
+    {
+      "q": "Are Borzoi good with other dogs?",
+      "a": "Generally yes with other large dogs when properly socialized. Small dogs and small animals can trigger prey drive — Borzoi have strong instincts about small, fast-moving creatures. Introductions with small dogs should be carefully managed, and Borzoi should not be trusted off-leash around cats or small animals in unfenced areas."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Greyhound", "slug": "greyhound", "note": "Very similar temperament, shorter coat, extremely popular in adoption programs"},
-    {"name": "Saluki", "slug": "saluki", "note": "Another ancient sighthound, similar independence, slightly smaller"},
-    {"name": "Afghan Hound", "slug": "afghan-hound", "note": "Similar long silky coat and independent nature, higher grooming demand"},
-    {"name": "Scottish Deerhound", "slug": "scottish-deerhound", "note": "Wiry-coated sighthound, larger size, similar quiet calm temperament"}
+    {
+      "name": "Greyhound",
+      "slug": "greyhound",
+      "note": "Very similar temperament, shorter coat, extremely popular in adoption programs"
+    },
+    {
+      "name": "Saluki",
+      "slug": "saluki",
+      "note": "Another ancient sighthound, similar independence, slightly smaller"
+    },
+    {
+      "name": "Afghan Hound",
+      "slug": "afghan-hound",
+      "note": "Similar long silky coat and independent nature, higher grooming demand"
+    },
+    {
+      "name": "Scottish Deerhound",
+      "slug": "scottish-deerhound",
+      "note": "Wiry-coated sighthound, larger size, similar quiet calm temperament"
+    }
   ]
 }

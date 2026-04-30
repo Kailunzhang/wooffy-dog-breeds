@@ -5,20 +5,24 @@
     "shopify_handle": "cane-corso-grooming-guide",
     "group": "Cane Corso",
     "size_category": "Guide",
-    "tags": ["cane-corso", "grooming", "short-coat", "wrinkle-care", "large-breed"],
+    "tags": [
+      "cane-corso",
+      "grooming",
+      "short-coat",
+      "wrinkle-care",
+      "large-breed"
+    ],
     "published": true,
     "published_at": "2026-04-18T16:00:00Z",
     "excerpt": "Cane Corso grooming is low-effort for the coat but requires consistent attention to facial folds, ears, and nails. A 100+ lb dog that isn't accustomed to handling becomes difficult to groom — start from day one.",
     "meta_description": "Cane Corso grooming guide: short coat maintenance, facial wrinkle and fold cleaning, ear care, nail trimming for a large breed, and habituating a powerful dog to handling from puppyhood."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cane_corso_temi_1_1024x768x24_(cropped).png/330px-Cane_corso_temi_1_1024x768x24_(cropped).png",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_e919f595-5043-4a55-b147-1e0eb457d7d4.png?v=1777526740",
       "alt": "Cane Corso grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Cane Corso Coat",
@@ -36,7 +40,6 @@
       "html": "<h3>Facial Fold Management</h3><p>Not all Cane Corsos have significant facial folds, but those with deeper wrinkles around the muzzle and between the eyes need regular cleaning. Moisture, food debris, and bacteria accumulate in folds and cause pyoderma (bacterial skin infection) if not addressed. The routine: clean with a damp soft cloth, then dry thoroughly. The drying step is as important as the cleaning step — wet folds are the problem.</p><p>Signs of fold infection: redness, odor, discharge, or the dog rubbing its face persistently. Fold infections require veterinary antibiotic treatment; cleaning alone doesn't resolve an established infection.</p><h3>Ear Care for Drop-Eared Dogs</h3><p>The Cane Corso's natural drop ears limit airflow to the ear canal. Weekly cleaning reduces the risk of infection. Use a vet-approved cleaner — squirt into the ear canal, massage the base of the ear gently, let the dog shake, then wipe the outer canal with a cotton ball. Never insert cotton swabs into the ear canal.</p><h3>Building Tolerance in a Powerful Dog</h3><p>Start grooming sessions early and keep them brief. Use high-value treats throughout. The goal is to associate grooming tools and handling with positive outcomes before the dog has any negative associations to override. A Cane Corso that tolerates full-body handling, ear examination, and nail trimming calmly is the result of consistent work starting from puppyhood — not something that just happens.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often should I bathe my Cane Corso?",

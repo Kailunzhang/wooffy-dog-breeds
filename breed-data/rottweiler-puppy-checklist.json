@@ -5,14 +5,21 @@
     "shopify_handle": "rottweiler-puppy-checklist",
     "group": "Rottweiler",
     "size_category": "Guide",
-    "tags": ["rottweiler", "puppy", "checklist", "new-owner", "preparation", "dog-breeds"],
+    "tags": [
+      "rottweiler",
+      "puppy",
+      "checklist",
+      "new-owner",
+      "preparation",
+      "dog-breeds"
+    ],
     "published": true,
     "excerpt": "Rottweiler puppy prep has three non-negotiables: insurance before the first vet visit, puppy class enrolled before pickup, and homeowner's insurance verified. Everything else follows.",
     "meta_description": "Rottweiler puppy checklist: supplies, socialization plan, first-week priorities, insurance timing, and what the first vet visit should address."
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rottweiler_standing_facing_left.jpg/330px-Rottweiler_standing_facing_left.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_23850270-4578-46a1-82fc-6a1b4a8b278d.png?v=1777534947",
       "alt": "Rottweiler"
     }
   },
@@ -34,9 +41,21 @@
     }
   },
   "faq": [
-    { "q": "When should I start training a Rottweiler puppy?", "a": "From day one for basic handling, name recognition, and sit. Formal puppy class starting by weeks 8–10. For this breed specifically, early training isn't optional — it's the investment that shapes whether you have a manageable adult dog. Enroll before pickup so there's no delay." },
-    { "q": "How do I socialize a Rottweiler puppy safely?", "a": "With a plan and controlled exposures. Before full vaccination, use puppy classes with vaccine requirements, playdates with known healthy vaccinated dogs, and carrying the puppy to public environments (so they see and hear without ground contact in high-risk areas). After vaccination is complete, expand exposure systematically. The goal is 100+ positive interactions with people, dogs, and environments before 16 weeks." },
-    { "q": "My Rottweiler puppy is aggressive. Should I be worried?", "a": "Normal puppy behavior includes play biting, growling during play, and resource guarding around food or toys. Sustained growling paired with stiffness, hard staring, or snapping in non-play contexts at a young age is worth discussing with your vet or a qualified trainer — early. Temperament issues in large protective breeds are much easier to address at 8–12 weeks than at 18 months." },
-    { "q": "What size crate does a Rottweiler need?", "a": "An adult Rottweiler needs a 48-inch XL crate. Buy this size from the start and use a divider to make it puppy-appropriate for housetraining. Rottweilers grow fast — buying a smaller crate and replacing it three months later is an unnecessary expense." }
+    {
+      "q": "When should I start training a Rottweiler puppy?",
+      "a": "From day one for basic handling, name recognition, and sit. Formal puppy class starting by weeks 8–10. For this breed specifically, early training isn't optional — it's the investment that shapes whether you have a manageable adult dog. Enroll before pickup so there's no delay."
+    },
+    {
+      "q": "How do I socialize a Rottweiler puppy safely?",
+      "a": "With a plan and controlled exposures. Before full vaccination, use puppy classes with vaccine requirements, playdates with known healthy vaccinated dogs, and carrying the puppy to public environments (so they see and hear without ground contact in high-risk areas). After vaccination is complete, expand exposure systematically. The goal is 100+ positive interactions with people, dogs, and environments before 16 weeks."
+    },
+    {
+      "q": "My Rottweiler puppy is aggressive. Should I be worried?",
+      "a": "Normal puppy behavior includes play biting, growling during play, and resource guarding around food or toys. Sustained growling paired with stiffness, hard staring, or snapping in non-play contexts at a young age is worth discussing with your vet or a qualified trainer — early. Temperament issues in large protective breeds are much easier to address at 8–12 weeks than at 18 months."
+    },
+    {
+      "q": "What size crate does a Rottweiler need?",
+      "a": "An adult Rottweiler needs a 48-inch XL crate. Buy this size from the start and use a divider to make it puppy-appropriate for housetraining. Rottweilers grow fast — buying a smaller crate and replacing it three months later is an unnecessary expense."
+    }
   ]
 }

@@ -5,20 +5,24 @@
     "shopify_handle": "australian-cattle-dog-grooming-guide",
     "group": "Australian Cattle Dog",
     "size_category": "Guide",
-    "tags": ["australian-cattle-dog", "grooming", "double-coat", "shedding", "low-maintenance"],
+    "tags": [
+      "australian-cattle-dog",
+      "grooming",
+      "double-coat",
+      "shedding",
+      "low-maintenance"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "The Australian Cattle Dog's short double coat is one of the easiest to maintain of any working breed — but it sheds steadily and blows twice a year. Here's the simple routine that works.",
     "meta_description": "Australian Cattle Dog grooming guide: short double coat maintenance, seasonal coat blow management, minimal bathing needs, and ear and nail care for an active working breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ACD-blue-spud.jpg/250px-ACD-blue-spud.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ea997743-c0df-4bea-a49d-59c778b017b4.png?v=1777525667",
       "alt": "Australian Cattle Dog grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The ACD Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Australian Cattle Dogs are built to work outdoors in rough conditions. This affects grooming in practical ways: grass seeds, thorns, burrs, and mud are routine encounters. The coat handles these well, but post-exercise checks matter.</p><h3>Post-Exercise Coat Checks</h3><ul><li>After walks or outdoor sessions in long grass or brush, run your hands through the coat to check for embedded grass seeds — these can work through the skin if left in place</li><li>Check between toes, around the ears, and under the collar — common grass seed locations</li><li>Check paw pads for cuts, cracked skin, or irritation — active ACDs work their feet hard</li></ul><h3>Ear Care for an Active Breed</h3><p>Check ears weekly. Active outdoor dogs can accumulate debris in their ears. ACD ears are erect, which provides better airflow than pendant ears, but debris and moisture from swimming or rain still require monitoring. Clean with ear solution when visibly dirty or when odor is present. Signs of infection: head shaking, scratching, odor, or discharge. Treat with veterinary guidance, not home remedies.</p><h3>Bathing After Dog Sport Activity</h3><p>Many ACD owners participate in herding, agility, flyball, or other dog sports. After intense physical activity or events, a thorough rinse or bath removes sweat residue, field debris, and anything the dog rolled in. A gentle shampoo that doesn't strip coat oils is appropriate — this breed doesn't need medicated or heavy shampoos under normal conditions.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Do Australian Cattle Dogs shed a lot?",

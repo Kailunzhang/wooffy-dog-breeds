@@ -5,20 +5,24 @@
     "shopify_handle": "old-english-sheepdog-grooming-guide",
     "group": "Old English Sheepdog",
     "size_category": "Guide",
-    "tags": ["old-english-sheepdog", "grooming", "double-coat", "daily-brushing", "professional-grooming"],
+    "tags": [
+      "old-english-sheepdog",
+      "grooming",
+      "double-coat",
+      "daily-brushing",
+      "professional-grooming"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "The Old English Sheepdog has the most demanding coat of any herding breed. Daily brushing or professional clipping every 6–8 weeks is not optional — it's the price of admission for this breed.",
     "meta_description": "Old English Sheepdog grooming guide: daily brushing routine for the OES double coat, professional clip schedule ($150–$300+), mat-prone areas, face and eye cleaning, and grooming budget planning."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Old_English_Sheepdog_%28side%29.jpg/330px-Old_English_Sheepdog_%28side%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_e4967370-1161-427b-bbfc-182ae1409609.png?v=1777530226",
       "alt": "Old English Sheepdog grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The OES Coat",
@@ -36,7 +40,6 @@
       "html": "<p>The OES face coat is unique among dog breeds — the profuse shaggy hair falls directly over the eyes and mouth. This requires daily management to prevent eye irritation, skin fold infections around the muzzle, and mat formation.</p><h3>Face and Eye Care</h3><ul><li>The hair over the eyes should be brushed clear or tied back — long hair touching the cornea causes chronic irritation and can lead to eye infections</li><li>Wipe around the eyes daily with a soft damp cloth to remove discharge and debris accumulation</li><li>The muzzle area where food and water contact the coat requires daily cleaning — dampness here causes skin fold dermatitis if not managed</li><li>Many OES owners choose to clip the face short for practical management, even if keeping the body coat long</li></ul><h3>Underbelly and Armpit Mat Prevention</h3><p>The underbelly and the skin folds at the armpits where the front legs attach to the chest are the most aggressive mat-formation areas in the OES. These areas mat fastest because they experience the most friction, moisture, and contact. They are also the easiest to overlook during brushing because they require the dog to be positioned on its side or back. Check and brush these areas at every single session without exception.</p><h3>When Mats Are Already Formed</h3><p>Mats that have reached the skin should be professionally handled — home dematting of severe mats is painful for the dog and often impossible to complete properly. Prevention is far less expensive and more comfortable than remediation. A dog brought to a groomer severely matted may require a full body shave — which is also the humane choice when home dematting is not feasible.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does an Old English Sheepdog need professional grooming?",

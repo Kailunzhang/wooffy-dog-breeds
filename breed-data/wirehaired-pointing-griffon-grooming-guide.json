@@ -5,20 +5,25 @@
     "shopify_handle": "wirehaired-pointing-griffon-grooming-guide",
     "group": "Wirehaired Pointing Griffon",
     "size_category": "Guide",
-    "tags": ["wirehaired-pointing-griffon", "griffon", "grooming", "wiry-coat", "hand-stripping", "ear-cleaning"],
+    "tags": [
+      "wirehaired-pointing-griffon",
+      "griffon",
+      "grooming",
+      "wiry-coat",
+      "hand-stripping",
+      "ear-cleaning"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "The Wirehaired Pointing Griffon's harsh, wiry double coat is designed to protect the dog in dense cover and cold water. It requires regular brushing, ear cleaning, and professional trimming or hand-stripping twice yearly. The wiry texture protects the skin — avoid clipping if you want to preserve the coat's natural properties.",
     "meta_description": "Wirehaired Pointing Griffon grooming guide: maintaining the harsh wiry coat, hand-stripping vs clipping considerations, ear cleaning, and the complete maintenance routine for this versatile sporting dog."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/GCH_Int_Ch_UCH_Zerubbabel_von_Herrenhausen_CGC_MHA.jpg/250px-GCH_Int_Ch_UCH_Zerubbabel_von_Herrenhausen_CGC_MHA.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_87613c63-3b04-45ea-bda1-205baf43aa91.png?v=1777532569",
       "alt": "Wirehaired Pointing Griffon grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Griffon Coat",
@@ -36,7 +41,6 @@
       "html": "<p>The Wirehaired Pointing Griffon's pendant ears combined with regular water work make ear infections predictable without preventive cleaning. Clean the ears weekly and after every water or swimming session. Apply veterinary ear cleaning solution, massage the base, allow the dog to shake, then wipe visible debris with cotton balls. After field work, check the ears for plant material and debris that has entered the ear canal.</p><h3>Post-Field Coat Check</h3><p>After any field work or heavy brush work, check the entire coat for embedded burrs, thorns, and plant seeds. The wiry outer coat is designed to protect the skin, but debris that penetrates to the skin causes irritation and potential infection. Work through the coat systematically after field sessions — a metal comb through the undercoat finds debris that isn't visible on the surface. Pay particular attention to the beard, the leg feathering, and the armpits.</p><h3>Monitoring the Undercoat</h3><p>The Griffon's undercoat can become matted under the wiry outer coat if the dog is bathed and not fully dried or if shedding undercoat is not removed. During brushing sessions, part the outer coat periodically to check the undercoat for any mat formation. An undercoat rake during heavy shedding periods removes loose undercoat efficiently.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What is hand-stripping and do I need to do it for my Griffon?",

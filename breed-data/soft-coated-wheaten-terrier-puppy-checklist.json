@@ -5,20 +5,25 @@
     "shopify_handle": "soft-coated-wheaten-terrier-puppy-checklist",
     "group": "Soft Coated Wheaten Terrier",
     "size_category": "Guide",
-    "tags": ["wheaten-terrier", "puppy", "checklist", "pln-monitoring", "wheaten-greeting", "grooming"],
+    "tags": [
+      "wheaten-terrier",
+      "puppy",
+      "checklist",
+      "pln-monitoring",
+      "wheaten-greeting",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Everything you need before your Wheaten puppy comes home — including establishing the PLN/PLE monitoring protocol with your vet at the first appointment.",
     "meta_description": "Soft Coated Wheaten Terrier puppy checklist: PLN/PLE monitoring protocol establishment, grooming tools, Wheaten greeting training strategy, and first week setup priorities."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Soft-Coated_Wheaten_Terrier.jpg/330px-Soft-Coated_Wheaten_Terrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3dbed4e2-e2b6-44bd-8f62-b7b712cac3b1.png?v=1777531681",
       "alt": "Soft Coated Wheaten Terrier puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Socialization Window (8–16 Weeks)</h3><p>Wheatens are naturally social and friendly — socialization for this breed is about expanding that natural friendliness to a wide range of people, environments, and stimuli, so the adult dog is confident in any context.</p><ul><li>Introduce to diverse people (different ages, appearances, uniforms) in positive settings</li><li>Expose to urban environments, traffic, other animals, indoor and outdoor settings</li><li>Enroll in puppy class at 8–10 weeks — critical for socialization and for beginning to address the greeting behavior in a structured setting</li></ul><h3>Priority Training Commands for Wheatens</h3><ul><li><strong>Sit:</strong> The foundation for the greeting behavior management — establish this first</li><li><strong>Off:</strong> Direct command for when jumping occurs — consistent, firm, not angry</li><li><strong>Leave it:</strong> Important for a terrier with prey drive</li><li><strong>Come:</strong> Recall training should begin immediately — practice in controlled low-distraction environments and build gradually</li><li>Loose-leash walking — Wheatens are strong enough that pulling habits matter</li></ul><h3>Prey Drive Management</h3><p>Wheatens are terriers with real prey drive. Introduce small pets (cats, rabbits) carefully and supervise all interactions indefinitely. A Wheaten raised with cats from puppyhood generally tolerates them; an adult Wheaten introduced to a cat is unpredictable. Plan your introduction protocol before the puppy arrives if you have other small animals.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What is the most important health action for a new Wheaten Terrier owner?",

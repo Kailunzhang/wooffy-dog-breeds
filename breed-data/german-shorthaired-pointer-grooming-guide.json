@@ -5,20 +5,23 @@
     "shopify_handle": "german-shorthaired-pointer-grooming-guide",
     "group": "German Shorthaired Pointer",
     "size_category": "Guide",
-    "tags": ["german-shorthaired-pointer", "grooming", "sporting-group", "dog-grooming"],
+    "tags": [
+      "german-shorthaired-pointer",
+      "grooming",
+      "sporting-group",
+      "dog-grooming"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "The GSP's short, dense coat is one of the lowest-maintenance in the sporting group — but ears and nails need consistent attention, especially for active dogs that swim.",
     "meta_description": "German Shorthaired Pointer grooming guide: coat care, ear cleaning after water exposure, nail maintenance, and a simple weekly routine."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Duitse_staande_korthaar_10-10-2.jpg/330px-Duitse_staande_korthaar_10-10-2.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_56aa98e8-77ad-4b4a-98fe-00e7770f4bde.png?v=1777528028",
       "alt": "German Shorthaired Pointer grooming"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
@@ -36,7 +39,6 @@
       "html": "<p>Floppy ears create a warm, moist environment where yeast and bacteria thrive. GSPs that swim regularly are especially prone to ear infections — otitis externa is one of the most common vet visits for this breed.</p><h3>Signs of Infection</h3><ul><li>Head shaking or ear scratching</li><li>Red, inflamed, or smelly ear canal</li><li>Dark brown or black discharge</li><li>Dog wincing when ear is touched</li></ul><h3>Prevention Protocol</h3><ul><li>After every swim: flush with ear cleaner, tilt the dog's head to drain, let them shake</li><li>After baths: dry the ear flap thoroughly with a soft cloth</li><li>Weekly: look inside the ear — a healthy canal is pale pink with minimal wax</li></ul><p>If you catch an infection early (mild redness, slight odor), your vet may prescribe drops that clear it in 7–10 days. Chronic infections that go untreated can require more aggressive treatment. Prevention is far cheaper and easier than treatment.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Do German Shorthaired Pointers shed a lot?",

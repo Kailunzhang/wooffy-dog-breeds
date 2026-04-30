@@ -5,7 +5,11 @@
     "shopify_handle": "afghan-hound-first-year-costs",
     "group": "Afghan Hound",
     "size_category": "Guide",
-    "tags": ["afghan-hound", "costs", "first-year"],
+    "tags": [
+      "afghan-hound",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Afghan Hounds cost $5,700–$11,250 in the first year including purchase price, with grooming being the largest ongoing expense after food. The silky coat requires either professional grooming at $600–$1,200/year or significant home equipment investment.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Afghan_dog_-_cropped.jpg/330px-Afghan_dog_-_cropped.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_f9650e44-375a-4035-ab8e-d496d5fab2a2.png?v=1777525286",
       "alt": "Afghan Hound first year costs"
     }
   },

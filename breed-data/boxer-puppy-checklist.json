@@ -5,20 +5,24 @@
     "shopify_handle": "boxer-puppy-checklist",
     "group": "Boxer",
     "size_category": "Guide",
-    "tags": ["boxer", "puppy", "checklist", "brachycephalic", "heat-safety"],
+    "tags": [
+      "boxer",
+      "puppy",
+      "checklist",
+      "brachycephalic",
+      "heat-safety"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Everything you need before your Boxer puppy comes home — including the heat safety setup and ARVC cardiac information your vet needs at the first appointment.",
     "meta_description": "Boxer puppy checklist: heat management setup for a brachycephalic breed, ARVC DNA test information, puppy exercise limits, socialization priorities, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Male_fawn_Boxer_undocked.jpg/330px-Male_fawn_Boxer_undocked.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5e1c80c5-35c3-4093-b173-fa31b7afd15e.png?v=1777526442",
       "alt": "Boxer puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Start Early — They Don't Slow Down</h3><p>Boxers remain puppyish well into adulthood. The enthusiasm that makes them charming as puppies becomes challenging if basic commands aren't established early. A 70-lb Boxer that jumps on everyone, pulls on leash, and ignores commands isn't \"just being friendly\" — it's undertrained.</p><h3>Year One Priorities</h3><ol><li><strong>Puppy class (8–12 weeks):</strong> Socialization and basic commands. Boxers that are well-socialized as puppies are more manageable adults. Puppy class provides controlled socialization with other dogs and people in a safe environment.</li><li><strong>Off command:</strong> No jumping. Establish this from day one — with a puppy it's easy; with a 70-lb adult it's work. Never allow jumping \"just this once.\"</li><li><strong>Leash manners:</strong> Start immediately. Boxers are strong and pull enthusiastically without training. Short, positive sessions from the first walk establish the expectation.</li><li><strong>Alone time practice:</strong> Boxers are people-oriented and can develop separation anxiety. Practice leaving the puppy alone in the crate for increasing periods from early on — before a pattern of distress develops.</li></ol><h3>Exercise Rules for Puppies</h3><p>5 minutes of structured exercise per month of age, twice daily until 18 months. No forced running, jumping, or extended stair climbing. Free play in a yard is appropriate; running beside a bicycle or jogging is not until growth plates close at 18 months.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What is the ARVC DNA test and does my Boxer need it?",

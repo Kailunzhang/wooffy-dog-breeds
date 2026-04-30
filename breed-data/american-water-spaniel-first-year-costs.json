@@ -5,20 +5,25 @@
     "shopify_handle": "american-water-spaniel-first-year-costs",
     "group": "American Water Spaniel",
     "size_category": "Guide",
-    "tags": ["american-water-spaniel", "cost", "budget", "first-year", "cardiac", "ear-infections"],
+    "tags": [
+      "american-water-spaniel",
+      "cost",
+      "budget",
+      "first-year",
+      "cardiac",
+      "ear-infections"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "American Water Spaniel ownership costs $2,500–$5,000 in the first year. Cardiac monitoring with your vet is the breed-specific health planning item. Pet insurance before the first vet visit covers cardiac and orthopedic costs that represent the primary financial risks.",
     "meta_description": "American Water Spaniel first year costs: puppy price, food, vet care, insurance, and the cardiac monitoring plan that distinguishes health-conscious AWS ownership."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Chien_d%27eau_americain_champion_1.JPG/250px-Chien_d%27eau_americain_champion_1.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_f96f44e3-940e-4b16-a890-10c0f49e4626.png?v=1777525573",
       "alt": "American Water Spaniel first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +41,6 @@
       "html": "<p>With a 10–14 year lifespan, American Water Spaniels represent a moderate long-term financial commitment.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, good preventive care</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$17,000–$30,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Managed cardiac or orthopedic condition</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$25,000–$42,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant health events or surgery</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$30,000–$55,000</td></tr></tbody></table>"
     }
   },
-
   "faq": [
     {
       "q": "What health tests should an American Water Spaniel breeder provide?",

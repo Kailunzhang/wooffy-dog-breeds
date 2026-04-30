@@ -5,20 +5,25 @@
     "shopify_handle": "collie-puppy-checklist",
     "group": "Collie",
     "size_category": "Guide",
-    "tags": ["collie", "puppy", "checklist", "MDR1", "CEA", "grooming-start"],
+    "tags": [
+      "collie",
+      "puppy",
+      "checklist",
+      "MDR1",
+      "CEA",
+      "grooming-start"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "Everything you need before your Collie puppy comes home — including the health documentation to collect from the breeder and the grooming routine that must start in puppyhood.",
     "meta_description": "Collie puppy checklist: MDR1 and CEA documentation, grooming introduction from day one, socialization priorities, MDR1 medication card, and essential gear for a Rough or Smooth Collie."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1Dog-rough-collie-portrait.jpg/330px-1Dog-rough-collie-portrait.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_73b173b0-fc1d-4010-b281-2c871c38e70f.png?v=1777527185",
       "alt": "Collie puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Collies Are Highly Trainable — and Sensitive</h3><p>Rough Collies are intelligent, people-oriented dogs that train readily with positive reinforcement. They are also more sensitive than many herding breeds — they respond poorly to harsh corrections, loud voices, or repetitive drilling. Keep training sessions positive, varied, and rewarding. Collies that are trained with patience become exceptionally well-mannered adult dogs.</p><ul><li>Puppy class at 8–10 weeks — early socialization and training foundation</li><li>Short, positive training sessions multiple times per day</li><li>Collies are eager to please and learn commands quickly — progress at the dog's pace, not a fixed curriculum</li><li>Focus on recall especially — Collies can roam and must have reliable recall in fenced areas</li></ul><h3>Herding Instinct Management</h3><p>Collies have herding instincts that may appear as circling, barking, and attempting to direct movement of children or other pets. Redirect to appropriate outlets (fetch, structured play) rather than allowing herding behavior to develop as a household habit.</p><h3>Exercise Rules for Puppies</h3><p>Follow the 5-minutes-per-month-of-age guideline for structured leash walks. Growth plates close around 12–14 months in large breeds — avoid forced running or stair jumping before then. Collies are moderately active as adults; they need daily exercise but not the intensity of working herding breeds.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Why is the MDR1 test so important for Collies?",

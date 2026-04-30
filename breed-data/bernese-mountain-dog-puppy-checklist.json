@@ -5,20 +5,24 @@
     "shopify_handle": "bernese-mountain-dog-puppy-checklist",
     "group": "Bernese Mountain Dog",
     "size_category": "Guide",
-    "tags": ["bernese-mountain-dog", "puppy", "checklist", "giant-breed-nutrition", "exercise-limits"],
+    "tags": [
+      "bernese-mountain-dog",
+      "puppy",
+      "checklist",
+      "giant-breed-nutrition",
+      "exercise-limits"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Everything you need before your Bernese Mountain Dog puppy comes home — including the giant-breed nutrition plan and the strict exercise limits that protect their developing joints.",
     "meta_description": "Bernese Mountain Dog puppy checklist: giant-breed nutrition selection, joint-protective exercise rules, insurance enrollment before first vet visit, and grooming routine from day one."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/3-BerneseMountainDogInGrass.jpg/330px-3-BerneseMountainDogInGrass.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_01f661b3-c2b3-42f0-9aeb-1911f8fab3ee.png?v=1777525996",
       "alt": "Bernese Mountain Dog puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Joint Health Monitoring</h3><p>Berners have elevated rates of hip and elbow dysplasia. Signs that warrant a vet conversation:</p><ul><li>Reluctance to get up from lying position, especially in the morning</li><li>Bunny-hopping gait on both rear legs simultaneously (hip dysplasia indicator)</li><li>Favoring one leg, especially after exercise</li><li>Any stiffness after rest in a puppy under 12 months</li></ul><p>Early OFA screening at 12 months (preliminary) helps identify developing dysplasia before it becomes severe. Talk to your vet about timing.</p><h3>Cancer Awareness</h3><p>Cancer doesn't typically present in puppies, but building the habit of regular hands-on inspection matters. Monthly: run your hands over the entire body, feeling for lumps, swelling, or areas the dog reacts to with discomfort when touched. Get comfortable knowing your dog's normal so you notice when something changes. At annual and semi-annual vet visits, ask the vet to palpate lymph nodes routinely.</p><h3>Heat Sensitivity</h3><p>Berners are cold-weather dogs. In summer heat above 65–70°F, exercise in the cooler parts of the day (early morning, evening). Watch for panting that seems excessive relative to activity level, seeking shade constantly, or stumbling. Never leave a Berner in a hot car. Air conditioning in summer is not optional for this breed in warm climates.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What food should I feed my Bernese Mountain Dog puppy?",

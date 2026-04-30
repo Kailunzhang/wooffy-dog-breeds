@@ -5,20 +5,25 @@
     "shopify_handle": "saluki-puppy-checklist",
     "group": "Saluki",
     "size_category": "Guide",
-    "tags": ["saluki", "puppy", "checklist", "sighthound", "socialization", "fence"],
+    "tags": [
+      "saluki",
+      "puppy",
+      "checklist",
+      "sighthound",
+      "socialization",
+      "fence"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Everything you need before your Saluki puppy comes home — fence verification first, then socialization planning for an inherently aloof breed, and the critical note to give your vet about anesthesia.",
     "meta_description": "Saluki puppy checklist: fence security verification, sighthound anesthesia warning for your vet, socialization for an aloof breed, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Red_Smooth_Saluki.jpg/250px-Red_Smooth_Saluki.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_71f16b8c-af62-461b-8792-b90a2716db01.png?v=1777531148",
       "alt": "Saluki puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Training Approach</h3><p>Salukis respond to gentle, positive reinforcement. Harsh corrections produce shutdown and avoidance rather than compliance. Keep sessions short — 5–10 minutes maximum — and end on success. Salukis learn quickly but have an independent streak; they perform reliably when they understand what's asked and find it worthwhile.</p><ul><li>Sit, down, stay, come, leave it — establish all core commands from puppyhood</li><li>Loose-leash walking is critical — a Saluki that pulls can generate real force when spotting prey</li><li>Martingale collar for all leash work — standard collars can be slipped</li><li>Recall indoors and in fenced areas can be very reliable; never expect it to override prey drive in an open field</li></ul><h3>The Chase Reflex: Understanding, Not Fighting It</h3><p>Salukis were bred for thousands of years to independently pursue prey at full speed. The sight of a small animal running at distance triggers a pursuit reflex that is not trainable away. Understand this as a breed characteristic rather than a disobedience problem. Manage it through containment — never through trust of recall in open spaces.</p><h3>Exercise Rules for Puppies</h3><p>No forced running until 18 months — growth plates in medium-large breeds close late. The 5-minutes-per-month-of-age rule applies: a 3-month puppy gets 15-minute sessions. Free play in the yard is fine; jogging alongside a bike is not until the dog is fully grown. A Saluki pushed into hard running too young risks joint damage that compromises the athletic career ahead of them.</p><h3>Cold Weather Prep</h3><p>Order a dog coat before the first cold weather arrives. Salukis are genuinely intolerant of cold — their lean body and thin coat offer minimal insulation. Having a properly fitting coat ready before winter means you're not scrambling when the temperature drops.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Why do Salukis need a martingale collar?",

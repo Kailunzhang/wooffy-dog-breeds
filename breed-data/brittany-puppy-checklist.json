@@ -5,7 +5,11 @@
     "shopify_handle": "brittany-puppy-checklist",
     "group": "Brittany",
     "size_category": "Guide",
-    "tags": ["brittany", "puppy", "checklist"],
+    "tags": [
+      "brittany",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "Everything you need before your Brittany puppy comes home — exercise planning for a high-energy sporting dog, ear cleaning supplies, hip and elbow health screening discussion, and training commitment planning.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/American_Brittany_standing.jpg/330px-American_Brittany_standing.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_6d25c435-99b8-469f-bfc4-1a85a4cfc5a2.png?v=1777526493",
       "alt": "Brittany puppy checklist"
     }
   },

@@ -5,20 +5,24 @@
     "shopify_handle": "australian-cattle-dog-puppy-checklist",
     "group": "Australian Cattle Dog",
     "size_category": "Guide",
-    "tags": ["australian-cattle-dog", "puppy", "checklist", "exercise-plan", "mental-stimulation"],
+    "tags": [
+      "australian-cattle-dog",
+      "puppy",
+      "checklist",
+      "exercise-plan",
+      "mental-stimulation"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Everything you need before your Australian Cattle Dog puppy comes home — including the exercise and mental stimulation plan this breed requires from the start.",
     "meta_description": "Australian Cattle Dog puppy checklist: exercise plan, mental stimulation setup, socialization priorities, nipping management, and essential gear for a working breed puppy."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ACD-blue-spud.jpg/250px-ACD-blue-spud.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_4f3b9277-3895-4187-86e7-0d9efead4f9c.png?v=1777525671",
       "alt": "Australian Cattle Dog puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Training for a High-Drive Breed</h3><p>Australian Cattle Dogs are exceptionally trainable — they learn quickly, retain commands well, and can master complex tasks. They also need this training engagement: a well-trained ACD is channeled; an untrained one finds its own ways to use its drive (usually destructively). Invest heavily in training from puppyhood.</p><ul><li>Puppy class at 8–10 weeks: socialization AND foundation commands</li><li>Progress to intermediate obedience — ACDs are capable of advanced work</li><li>Consider Canine Good Citizen certification as a structured training goal</li><li>Dog sports: agility, herding, flyball, rally — investigate what's available in your area</li></ul><h3>Exercise Rules for Growing Dogs</h3><p>Despite their energy levels, ACD puppies have developing joints that must be protected. Follow the 5-minutes-per-month-of-age guideline for structured leash walks (twice daily maximum). Growth plates close around 12–14 months — avoid forced repetitive jumping or running until then. Free play in a yard is appropriate; jogging alongside you is not until growth is complete.</p><h3>Mental Stimulation as a Daily Practice</h3><p>Physical exercise alone doesn't fully satisfy an ACD — they need cognitive engagement as much as physical activity. Integrate this into the daily routine:</p><ul><li>Feed meals from puzzle feeders rather than bowls during puppyhood</li><li>Daily training sessions of 5–10 minutes (multiple times per day)</li><li>Sniff games: scatter kibble in grass for the puppy to find</li><li>New environments, surfaces, and experiences keep the working brain engaged</li></ul>"
     }
   },
-
   "faq": [
     {
       "q": "How much exercise does an Australian Cattle Dog puppy need?",

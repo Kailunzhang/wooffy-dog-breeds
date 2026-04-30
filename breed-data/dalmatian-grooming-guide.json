@@ -5,20 +5,24 @@
     "shopify_handle": "dalmatian-grooming-guide",
     "group": "Dalmatian",
     "size_category": "Guide",
-    "tags": ["dalmatian", "grooming", "short-coat", "shedding", "rubber-mitt"],
+    "tags": [
+      "dalmatian",
+      "grooming",
+      "short-coat",
+      "shedding",
+      "rubber-mitt"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "The Dalmatian's short coat is easy to maintain but sheds constantly — and those stiff white hairs embed in fabric like velcro. The right tools and routine keep it manageable.",
     "meta_description": "Dalmatian grooming guide: rubber mitt technique for short-coat shedding, dealing with embedded Dalmatian hairs in fabric, bathing routine, and ear and nail maintenance."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Dog_Dalmatian.jpg/250px-Sun_Dog_Dalmatian.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_697c79f5-1fb0-455a-9a4b-41a51d3735d5.png?v=1777527394",
       "alt": "Dalmatian grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Dalmatian Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Dalmatians can be prone to skin allergies and sensitivities — more so than many other short-coated breeds. The diet and bathing products you use matter. Look for gentle, hypoallergenic shampoos and avoid fragranced grooming products when possible.</p><h3>Signs of Skin Issues to Watch For</h3><ul><li>Excessive scratching without fleas or parasites as cause</li><li>Hot spots (moist, irritated patches of skin)</li><li>Hair loss in patches</li><li>Redness or inflammation along the belly or armpits</li></ul><p>If you notice recurring skin issues, consult your vet — environmental allergies, food sensitivities, and contact allergies (certain surfaces, detergents) are all possibilities in this breed.</p><h3>The BAER Test and Ear Awareness</h3><p>Dalmatians have the highest rate of hereditary deafness of any breed — up to 30% have hearing impairment in one or both ears. Reputable breeders BAER-test puppies before 5–6 weeks. This doesn't affect grooming specifically, but it means your awareness of your dog's ear health is particularly important. Signs of ear infection in a dog that may not react to sounds normally include head tilting, balance issues, and scratching at the ear.</p><h3>Nail and Paw Care</h3><p>Dalmatians are built for endurance running and have tight, cat-like feet. Long nails affect the natural arch of the foot and can lead to splayed toes over time in an athletic breed. Trim nails consistently so that they don't touch the floor when the dog is standing.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Do Dalmatians shed a lot?",

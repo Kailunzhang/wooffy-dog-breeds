@@ -6,74 +6,104 @@
     "group": "Working Group",
     "size_category": "Medium Breed",
     "tagline": "The Samoyed is a strikingly beautiful, social spitz breed with a permanent smile and a talkative personality. They're also high-shedding, high-energy, and carry a serious hereditary kidney disease that every prospective buyer must screen for.",
-    "tags": ["working-group", "medium-breed", "spitz", "white-coat", "cold-weather", "double-coat", "dog-breeds"],
+    "tags": [
+      "working-group",
+      "medium-breed",
+      "spitz",
+      "white-coat",
+      "cold-weather",
+      "double-coat",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Samoyeds are one of the most visually striking dogs in existence — the white double coat, the 'Sammy smile,' the expressive eyes. They're also vocal, socially demanding, heavy shedders, and carry a fatal hereditary kidney disease. Know both sides before you fall for the look.",
     "meta_description": "Samoyed breed guide: the Sammy smile, white double coat management, SHG hereditary kidney disease DNA test requirements, exercise needs, and honest ownership expectations."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "35–65 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–14 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate–Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With research" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "35–65 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate–Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Excellent"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "With research"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Samojed00.jpg/330px-Samojed00.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_aa1c9c61-79c9-46a6-90f8-bfae44809d46.png?v=1777531208",
       "alt": "Samoyed"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Samoyed?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Samoyed is an ancient spitz breed originating with the Samoyedic peoples of Siberia, bred to herd reindeer, pull sleds, and sleep with their human families to share warmth in temperatures reaching -60°F. That heritage explains everything about the Samoyed as a modern pet: the sociability (they slept in tents with people), the cold tolerance (built for Arctic conditions), the energy and endurance (working sled dogs), and the vocal nature (they communicate constantly).</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The \"Sammy smile\" — the upturned corners of the mouth that prevent drool from freezing and give the dog its characteristic expression — is one of the most recognizable features in the dog world. It also reflects the breed's genuine temperament: friendly, social, and almost relentlessly cheerful.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">What the smile doesn't tell you: Samoyeds shed with extraordinary volume, require significant daily interaction, have a tendency toward nocturnal howling when bored or lonely, and carry a hereditary kidney disease — Samoyed Hereditary Glomerulopathy (SHG) — that is fatal in affected males. DNA testing of both parents is not optional.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Samoyeds Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A medium-to-large spitz with a cloud-like white double coat, erect triangular ears, dark almond eyes, and a plumed tail carried over the back. Males weigh 45–65 lbs and stand 21–23.5 inches; females 35–50 lbs and 19–21 inches. The coat is pure white, biscuit, or cream — never trimmed, always maintained.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The double coat has a harsh, straight outer coat and a thick, woolly undercoat that serves as genuine insulation. This coat blows twice per year in dramatic seasonal shedding events. Never shave a Samoyed — the double coat regulates temperature in both directions and shaving causes permanent damage to the coat structure.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Samoyeds are among the friendliest dogs in existence. They were bred to live alongside humans in close quarters, and that social dependency is built in. They want to be involved in everything, greet everyone, and are genuinely unhappy when isolated or left alone for long periods. Separation anxiety is a real risk for Samoyeds left alone all day.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">They are talkative — barking, yodeling, and howling are normal Samoyed communication. A bored or lonely Samoyed will exercise these vocal abilities at 2 AM. This is not a dog for households where noise is a major concern or where neighbors are within earshot without sound dampening.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With training: moderately responsive with the right motivation. Samoyeds are intelligent and can learn quickly, but they have a spitz independence that means they evaluate whether a command is worth following. Food motivation helps. Harsh corrections produce nothing useful. Consistent, positive training from puppyhood is the path forward.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Samoyed",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The white coat is extraordinary and the personality is genuinely endearing. If you want a dog that will be social with virtually everyone, enjoy children, and provide a radiantly friendly presence in your home — and you live somewhere cold — a Samoyed delivers all of that.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest conversation has two parts. First: the coat. Samoyed shedding is not like normal dog shedding. It's an all-environment event twice per year and a moderate ongoing reality the rest of the time. Your furniture, clothes, and car will be white. If that's a genuine problem for you, this is not the breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Second: the SHG DNA test. Samoyed Hereditary Glomerulopathy is a kidney disease carried by the breed. Affected males develop renal failure before age two and die. Carrier females have a milder form. A reputable breeder will have clear DNA test results from both parents. If a breeder cannot provide these, walk away regardless of how healthy the puppies look. This is non-negotiable.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes daily. Samoyeds were bred as working sled dogs and need real exercise — not just a stroll around the block. Hiking, running (in adults), pulling sports, and play in a securely fenced yard are all appropriate. They thrive in cold weather and wilt in heat — exercise in summer should happen in the early morning or evening only.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The white double coat requires regular brushing with a pin brush and slicker brush, and intensive management during twice-yearly coat blows. Never shave. The coat self-cleans to a surprising degree but still needs bathing every 6–8 weeks. See the <a href=\"/blogs/dog-breeds/samoyed-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Samoyed grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Positive reinforcement with food rewards works best. Samoyeds respond to motivation and relationship, not to pressure or corrections. Puppy class enrollment from 8–10 weeks is important both for socialization and for establishing early training habits. The spitz independence means consistency from the start matters enormously — a Samoyed that learns it can ignore commands will maintain that belief.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Samoyeds generally live 12–14 years. The dominant concern is a breed-specific hereditary disease that must be screened for before purchasing. Hip dysplasia and eye conditions are the secondary health concerns.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Samoyed Hereditary Glomerulopathy (SHG)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">An X-linked hereditary kidney disease specific to the breed. Affected males develop progressive renal failure, typically fatal before age two. Carrier females have a milder form. DNA test available — both parents must test clear. This is the most critical health test for the breed; no exceptions.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Malformed hip joint causing pain and arthritis. OFA or PennHIP clearances available. Managed medically or surgically depending on severity.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited retinal degeneration leading to blindness. DNA test available; reputable breeders screen both parents. No treatment currently exists.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Diabetes Mellitus</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Samoyeds have above-average rates of diabetes compared to most breeds. Manageable with insulin and dietary control, but requires ongoing monitoring. Pet insurance before the first vet visit covers management costs.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> SHG DNA test (both parents clear — non-negotiable), OFA hip clearance, PRA DNA test, CAER eye exam.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$3,200–$6,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$5,250–$10,400</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,650–$3,100</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/samoyed-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Samoyed first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Samoyed Right for You?",
@@ -93,25 +123,50 @@
         "Anyone buying from a breeder who cannot provide SHG DNA clearances"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Samoyed",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$3,200–$6,500 from reputable breeders. Required health clearances: SHG DNA test for both parents (must be clear — not carrier), OFA hip clearance, PRA DNA test. The Samoyed Club of America maintains a breeder referral directory. If a breeder cannot produce SHG test documentation, this is a disqualifying gap regardless of price or appearance.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Samoyed Rescue organizations operate in most regions. Rescue Samoyeds are often surrendered by owners who underestimated the grooming, energy, and vocalization. Most rescues are adults whose health history is partially known, which can actually reduce the SHG uncertainty for rescue dogs past the typical early-onset age.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Samoyed comes home, complete the <a href=\"/blogs/dog-breeds/samoyed-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Samoyed puppy checklist</a> — grooming tools, insurance enrollment, and first vet appointment are the critical pre-arrival priorities.</p>"
     }
   },
-
   "faq": [
-    { "q": "What is the 'Sammy smile'?", "a": "The upturned corners of the Samoyed's mouth give the dog a permanent smile expression. This trait evolved functionally — the upturned lips prevent drool from freezing in Arctic temperatures. In practice it gives the breed one of the most distinctive and immediately friendly expressions in the dog world." },
-    { "q": "Can you shave a Samoyed in summer?", "a": "No — and this is critical. Shaving a double-coated breed removes the insulating structure that regulates temperature in both directions. The double coat keeps Samoyeds warm in winter but also protects them from heat and UV in summer. Shaving can cause post-clipping alopecia — permanent patchy regrowth — and actively harms thermoregulation. Keep the coat intact; manage heat through shade, cool water, and avoiding midday exercise." },
-    { "q": "What is SHG and why is the DNA test so important?", "a": "Samoyed Hereditary Glomerulopathy is an X-linked inherited kidney disease specific to the breed. Affected males develop progressive, fatal renal failure before age two. Carrier females have a milder form. A DNA test identifies clear, carrier, and affected dogs. Both parents must test clear to ensure puppies cannot be affected. Any breeder who cannot provide this documentation for both parents is a breeder to avoid." },
-    { "q": "Are Samoyeds good with other pets?", "a": "Generally yes with other dogs, especially if socialized early. They have a moderate prey drive from their reindeer-herding heritage — small pets like cats and rabbits should be introduced carefully and supervision maintained, particularly with younger Samoyeds. Most well-socialized Samoyeds coexist fine with household cats they were raised alongside." }
+    {
+      "q": "What is the 'Sammy smile'?",
+      "a": "The upturned corners of the Samoyed's mouth give the dog a permanent smile expression. This trait evolved functionally — the upturned lips prevent drool from freezing in Arctic temperatures. In practice it gives the breed one of the most distinctive and immediately friendly expressions in the dog world."
+    },
+    {
+      "q": "Can you shave a Samoyed in summer?",
+      "a": "No — and this is critical. Shaving a double-coated breed removes the insulating structure that regulates temperature in both directions. The double coat keeps Samoyeds warm in winter but also protects them from heat and UV in summer. Shaving can cause post-clipping alopecia — permanent patchy regrowth — and actively harms thermoregulation. Keep the coat intact; manage heat through shade, cool water, and avoiding midday exercise."
+    },
+    {
+      "q": "What is SHG and why is the DNA test so important?",
+      "a": "Samoyed Hereditary Glomerulopathy is an X-linked inherited kidney disease specific to the breed. Affected males develop progressive, fatal renal failure before age two. Carrier females have a milder form. A DNA test identifies clear, carrier, and affected dogs. Both parents must test clear to ensure puppies cannot be affected. Any breeder who cannot provide this documentation for both parents is a breeder to avoid."
+    },
+    {
+      "q": "Are Samoyeds good with other pets?",
+      "a": "Generally yes with other dogs, especially if socialized early. They have a moderate prey drive from their reindeer-herding heritage — small pets like cats and rabbits should be introduced carefully and supervision maintained, particularly with younger Samoyeds. Most well-socialized Samoyeds coexist fine with household cats they were raised alongside."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Siberian Husky", "slug": "siberian-husky", "note": "Similar spitz heritage, higher energy and more escape-prone, less grooming-intensive"},
-    {"name": "Alaskan Malamute", "slug": "alaskan-malamute", "note": "Larger and more powerful, similar Arctic origins, greater dog-aggression tendency"},
-    {"name": "Great Pyrenees", "slug": "great-pyrenees", "note": "White double coat, similar cold-weather build, independent livestock guardian rather than social companion"},
-    {"name": "American Eskimo Dog", "slug": "american-eskimo-dog", "note": "Smaller spitz relative, similar white coat and social personality, lower exercise needs"}
+    {
+      "name": "Siberian Husky",
+      "slug": "siberian-husky",
+      "note": "Similar spitz heritage, higher energy and more escape-prone, less grooming-intensive"
+    },
+    {
+      "name": "Alaskan Malamute",
+      "slug": "alaskan-malamute",
+      "note": "Larger and more powerful, similar Arctic origins, greater dog-aggression tendency"
+    },
+    {
+      "name": "Great Pyrenees",
+      "slug": "great-pyrenees",
+      "note": "White double coat, similar cold-weather build, independent livestock guardian rather than social companion"
+    },
+    {
+      "name": "American Eskimo Dog",
+      "slug": "american-eskimo-dog",
+      "note": "Smaller spitz relative, similar white coat and social personality, lower exercise needs"
+    }
   ]
 }

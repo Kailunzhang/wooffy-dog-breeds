@@ -5,20 +5,24 @@
     "shopify_handle": "english-cocker-spaniel-grooming-guide",
     "group": "English Cocker Spaniel",
     "size_category": "Guide",
-    "tags": ["english-cocker-spaniel", "grooming", "silky-coat", "ear-cleaning", "feathering"],
+    "tags": [
+      "english-cocker-spaniel",
+      "grooming",
+      "silky-coat",
+      "ear-cleaning",
+      "feathering"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "The English Cocker Spaniel's silky coat requires weekly brushing and professional grooming every 6–8 weeks to stay tidy. Ear cleaning is the most critical maintenance task — the long, floppy ears trap moisture and debris, making weekly cleaning non-optional.",
     "meta_description": "English Cocker Spaniel grooming guide: maintaining the silky coat, essential weekly ear cleaning, managing feathering, professional grooming schedule, and the full care routine for this breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%22Bill%22_-_Cocker_spaniel_anglais_2.JPG/250px-%22Bill%22_-_Cocker_spaniel_anglais_2.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4c9d50c7-030a-4462-b979-dc58f00b4bd1.png?v=1777527567",
       "alt": "English Cocker Spaniel grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Cocker Coat",
@@ -36,7 +40,6 @@
       "html": "<p>English Cocker Spaniel ear infections are one of the most common health issues in the breed. The long, floppy ears press against the head, trapping moisture and limiting airflow. Hair in the ear canal provides additional surface area for bacteria and yeast to colonize. Weekly cleaning is the standard maintenance schedule — not every few weeks, not when you remember.</p><h3>How to Clean the Ears</h3><p>Apply veterinary ear cleaning solution generously into the ear canal. Massage the base of the ear for 30 seconds to loosen debris. Let the dog shake its head, then use cotton balls to wipe the visible ear canal and the inner ear leather. Do not insert cotton swabs into the ear canal. The process takes 2–3 minutes per ear done correctly.</p><h3>After Water Exposure</h3><p>After swimming, bathing, or any significant water exposure, dry the ears and clean them immediately. Moisture sitting in a Cocker's ear canal is the fastest path to a recurring infection. Make post-water ear drying and cleaning a habit from puppyhood.</p><h3>Recognizing Infection</h3><p>Head shaking, pawing at the ears, odor, redness, dark discharge, or swelling indicate an ear infection requiring veterinary treatment. Ear infections left untreated become chronic — each infection weakens the ear's defenses, making the next infection more likely and harder to clear. A culture and sensitivity test identifies the specific organism and the correct antibiotic or antifungal, rather than cycling through empirical treatments.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does an English Cocker Spaniel need professional grooming?",

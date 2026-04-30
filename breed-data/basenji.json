@@ -6,74 +6,104 @@
     "group": "Hound Group",
     "size_category": "Small Breed",
     "tagline": "The Basenji is the 'barkless' African dog — but they're not silent. They yodel. They're also cat-like, fastidious, an escape artist, and carry a DNA-testable kidney disease. A fascinating breed for the right owner.",
-    "tags": ["hound-group", "small-breed", "barkless", "low-shedding", "african-breed", "ancient-breed", "dog-breeds"],
+    "tags": [
+      "hound-group",
+      "small-breed",
+      "barkless",
+      "low-shedding",
+      "african-breed",
+      "ancient-breed",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "The Basenji is one of the most unique breeds in existence — barkless (they produce a distinctive yodel/barroo instead), cat-like in self-grooming, and intensely independent. They're also escape artists with serious prey drive and carry Fanconi Syndrome, a DNA-testable kidney disease. Not for beginners.",
     "meta_description": "Basenji breed guide: barkless yodel behavior, cat-like temperament, Fanconi Syndrome DNA test requirements, escape artist tendencies, prey drive, low shedding, and realistic ownership expectations."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Small–Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "22–24 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "13–14 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "45–60 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Very Low" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Older children" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small–Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "22–24 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "13–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "45–60 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Very Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Older children"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Basenji_Profile_%28loosercrop%29.jpg/330px-Basenji_Profile_%28loosercrop%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_5fc378e4-b125-48d9-9f5f-18db12d0337c.png?v=1777525785",
       "alt": "Basenji"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Basenji?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Basenji is one of the oldest dog breeds — a hunting dog from central Africa depicted in ancient Egyptian art, used by tribes in the Congo basin to flush game into nets and hunt small prey. The breed was largely unknown in the Western world until the 1930s. Its ancient lineage shows in its fundamental character: the Basenji is a primitive dog that domesticated on its own terms.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The \"barkless\" designation is accurate but misleading: Basenjis don't bark, but they're not silent. They produce a distinctive yodel or barroo sound — a melodic combination of a howl and a crow — when excited or communicative. They also whine, growl, and produce a range of other vocalizations. The absence of a bark makes them interesting to neighbors, not silent.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Fanconi Syndrome — a kidney disease — is the breed's critical health concern. DNA tests for both parents are non-negotiable before purchasing. A reputable Basenji breeder will have clear documentation. Any breeder without it is not operating responsibly.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Basenjis Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A small, elegant, squarely built dog with a flat skull, almond-shaped eyes, erect ears, and a distinctive tightly curled tail carried over the back. Males stand 17 inches and weigh 24 lbs; females 16 inches and 22 lbs. The short, fine coat lies close to the body with minimal shedding.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Colors include red and white, black and white, brindle and white, and tricolor. The characteristic wrinkled forehead — which deepens when the dog is alert or curious — gives the Basenji a perpetually thoughtful expression. The breed self-grooms like a cat: licking paws, washing the face with paws, and maintaining a fastidious cleanliness without any owner effort.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Independent, curious, and cat-like in the truest sense. Basenjis are not people-pleasers. They are intelligent, engaged dogs that evaluate everything on their own terms. They can be deeply affectionate with their own family — selective, but genuine in that affection — while remaining suspicious or indifferent to strangers.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The escape artist label is earned. Basenjis are athletic, determined, and creative about finding exit routes. They can climb, dig, and problem-solve fencing. 6-foot fence minimum; dig-proof barrier at the base; check for any gap they can squeeze through. They will find the gap.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Prey drive is extreme. Cats, small dogs, squirrels, rabbits — anything that moves quickly is a target. Basenjis that have been raised from puppyhood with cats may tolerate them; adults introduced to cats are a serious risk. Off-leash in unfenced areas is not an option for this breed.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Basenji",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Basenjis are genuinely fascinating dogs for the right person — and genuinely wrong for most people. If you want an independent, intelligent, low-shedding small dog that's more like a cat than a conventional dog, and you find that prospect intriguing rather than frustrating, the Basenji can be a deeply rewarding companion.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The practical realities: the fence requirement is absolute and must be engineered against a determined escape artist. The prey drive means small pets and Basenjis are a permanent risk management situation. And the Fanconi DNA test is non-negotiable — Fanconi Syndrome is a progressive kidney disease, and a puppy from two untested parents is a puppy whose health you cannot adequately predict.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">People who go into Basenji ownership with clear eyes about the independence and the management requirements consistently love the breed. People who expected a trainable, compliant small dog are consistently surprised and often overwhelmed. Know which person you are before you commit.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">45–60 minutes daily. Basenjis are athletic and need real exercise, but they're small enough that this is manageable. Play sessions in a securely fenced area, on-leash walks, and mental enrichment all count. Never off-leash outside a secured fence — prey drive overrides everything.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Virtually none required — the Basenji's cat-like self-grooming keeps the coat clean. A rubber grooming mitt occasionally removes loose hair. No professional grooming needed. The coat is the breed's most owner-friendly characteristic. See the <a href=\"/blogs/dog-breeds/basenji-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Basenji grooming guide</a>.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Positive reinforcement with high-value food rewards. Basenjis respond to motivation, not authority. Short, highly engaging sessions work; drilling produces nothing. The goal is functional household manners, not competition obedience. A Basenji with solid crate training, manageable recall in low-distraction environments, and good leash manners is a success.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Basenjis are generally healthy with a good lifespan of 13–14 years. The breed-specific disease concern is Fanconi Syndrome, which has a DNA test. Testing both parents is the critical pre-purchase requirement.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Fanconi Syndrome</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">A kidney tubular disorder that prevents proper reabsorption of glucose, amino acids, and electrolytes. Causes wasting, excessive drinking and urination, and progressive kidney failure if unmanaged. DNA test available — both parents must test clear. Ask for the Fanconi DNA test certificate from both the sire and dam. This is the non-negotiable health ask for this breed.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inherited retinal degeneration leading to blindness. DNA test available; ask for CAER eye exam and PRA DNA test from breeders.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">IPSID (Immunoproliferative Small Intestinal Disease)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">A digestive disease specific to Basenjis — causes chronic diarrhea, weight loss, and protein loss. Managed with dietary intervention and, in some cases, medication. Discuss with your vet if chronic GI symptoms appear.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> Fanconi DNA test (both parents clear — non-negotiable), PRA DNA test, CAER eye exam.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$2,800–$5,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (small breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$450</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, supplies, fencing)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$4,050–$8,050</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$850–$1,550</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/basenji-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Basenji first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Basenji Right for You?",
@@ -91,25 +121,50 @@
         "People who want off-leash freedom in open areas"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Basenji",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$2,800–$5,500 from reputable breeders. The Basenji Club of America maintains a breeder directory. Required: Fanconi DNA test clear for both parents — the certificate should name each parent individually. Also ask for PRA DNA test and CAER eye exam. Basenjis are seasonal breeders (females typically cycle once yearly, in fall), so availability may be limited.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Basenji rescue organizations exist nationally. Surrendered dogs are often from households that underestimated the independence, escape ability, or prey drive. Experienced Basenji owners who can provide appropriate containment and management are the ideal rescue homes.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Basenji comes home, complete the <a href=\"/blogs/dog-breeds/basenji-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Basenji puppy checklist</a> — fencing escape-proof assessment, Fanconi documentation review, and insurance enrollment are the priority items.</p>"
     }
   },
-
   "faq": [
-    { "q": "Do Basenjis really not bark?", "a": "Correct — they lack the physical structure to produce a standard bark. Instead they make a variety of sounds: the distinctive yodel or 'barroo' when excited, whines, growls, and various other vocalizations. They're not silent dogs — they're differently vocal dogs. Neighbors in close quarters will hear them; they just won't hear a traditional bark." },
-    { "q": "What is Fanconi Syndrome and why does the DNA test matter?", "a": "Fanconi Syndrome is a kidney tubular disorder in Basenjis that prevents normal reabsorption of nutrients and electrolytes. Left unmanaged, it causes progressive kidney failure. A DNA test identifies clear, carrier, and affected dogs. Both parents must test clear for a puppy to be safe. Ask for the actual test certificate naming the sire and dam specifically — a general assurance from the breeder is not sufficient documentation." },
-    { "q": "Are Basenjis good apartment dogs?", "a": "Conditionally. They're small, low-shedding, and don't bark — three apartment advantages. The problems: they need access to a secure area for exercise and play, and they can be destructive when under-stimulated. An apartment Basenji owner needs reliable access to a fenced area (a fenced dog park works if it's fully secure) and a commitment to daily exercise to prevent the boredom destruction that follows an under-exercised Basenji." },
-    { "q": "Why do Basenjis only have one heat cycle per year?", "a": "This is a retained ancestral trait from their African origins — most domestic dog breeds have two heat cycles annually, but Basenjis cycle once, typically in fall or early winter. This means breeding seasons are limited and litter availability is seasonal, which affects wait times when purchasing from a breeder." }
+    {
+      "q": "Do Basenjis really not bark?",
+      "a": "Correct — they lack the physical structure to produce a standard bark. Instead they make a variety of sounds: the distinctive yodel or 'barroo' when excited, whines, growls, and various other vocalizations. They're not silent dogs — they're differently vocal dogs. Neighbors in close quarters will hear them; they just won't hear a traditional bark."
+    },
+    {
+      "q": "What is Fanconi Syndrome and why does the DNA test matter?",
+      "a": "Fanconi Syndrome is a kidney tubular disorder in Basenjis that prevents normal reabsorption of nutrients and electrolytes. Left unmanaged, it causes progressive kidney failure. A DNA test identifies clear, carrier, and affected dogs. Both parents must test clear for a puppy to be safe. Ask for the actual test certificate naming the sire and dam specifically — a general assurance from the breeder is not sufficient documentation."
+    },
+    {
+      "q": "Are Basenjis good apartment dogs?",
+      "a": "Conditionally. They're small, low-shedding, and don't bark — three apartment advantages. The problems: they need access to a secure area for exercise and play, and they can be destructive when under-stimulated. An apartment Basenji owner needs reliable access to a fenced area (a fenced dog park works if it's fully secure) and a commitment to daily exercise to prevent the boredom destruction that follows an under-exercised Basenji."
+    },
+    {
+      "q": "Why do Basenjis only have one heat cycle per year?",
+      "a": "This is a retained ancestral trait from their African origins — most domestic dog breeds have two heat cycles annually, but Basenjis cycle once, typically in fall or early winter. This means breeding seasons are limited and litter availability is seasonal, which affects wait times when purchasing from a breeder."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Shiba Inu", "slug": "shiba-inu", "note": "Japanese primitive breed, similar cat-like independence and strong prey drive, spitz build"},
-    {"name": "Pharaoh Hound", "slug": "pharaoh-hound", "note": "Ancient Mediterranean sighthound, similar primitive heritage, barkless tendency"},
-    {"name": "Canaan Dog", "slug": "canaan-dog", "note": "Another ancient Pariah dog, primitive temperament, similarly independent"},
-    {"name": "Ibizan Hound", "slug": "ibizan-hound", "note": "Larger sighthound with similar ancient lineage and independent temperament"}
+    {
+      "name": "Shiba Inu",
+      "slug": "shiba-inu",
+      "note": "Japanese primitive breed, similar cat-like independence and strong prey drive, spitz build"
+    },
+    {
+      "name": "Pharaoh Hound",
+      "slug": "pharaoh-hound",
+      "note": "Ancient Mediterranean sighthound, similar primitive heritage, barkless tendency"
+    },
+    {
+      "name": "Canaan Dog",
+      "slug": "canaan-dog",
+      "note": "Another ancient Pariah dog, primitive temperament, similarly independent"
+    },
+    {
+      "name": "Ibizan Hound",
+      "slug": "ibizan-hound",
+      "note": "Larger sighthound with similar ancient lineage and independent temperament"
+    }
   ]
 }

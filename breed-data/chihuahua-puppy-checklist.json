@@ -5,20 +5,24 @@
     "shopify_handle": "chihuahua-puppy-checklist",
     "group": "Chihuahua",
     "size_category": "Guide",
-    "tags": ["chihuahua", "puppy", "checklist", "toy-breed", "small-dog-safety"],
+    "tags": [
+      "chihuahua",
+      "puppy",
+      "checklist",
+      "toy-breed",
+      "small-dog-safety"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Everything you need before your Chihuahua puppy comes home — including the safety measures that protect a 2–6 lb dog from everyday household hazards.",
     "meta_description": "Chihuahua puppy checklist: toy breed safety setup, hypoglycemia prevention for puppies, training from day one, and dental care habits that matter for a long-lived small dog."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chihuahua1_bvdb.jpg/330px-Chihuahua1_bvdb.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_e928c93e-cec5-418d-8f55-7082c41b43f1.png?v=1777526958",
       "alt": "Chihuahua puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<p>The single most common Chihuahua owner mistake is allowing behaviors because 'they're so small it doesn't matter.' A Chihuahua that barks aggressively, guards food, bites when uncomfortable, and refuses handling is a dog in a difficult situation — it will be passed around, given up, or live a stressed life. Small size is not a substitute for training.</p><h3>Train Your Chihuahua Like It Weighs 70 Lbs</h3><ul><li>No jumping on people (even if it's cute when they're tiny — it won't be when your senior Chi is still doing it at 15)</li><li>No food guarding — establish hand-feeding and bowl manipulation from puppyhood</li><li>No biting or snapping — redirect immediately with a calm 'no' and ignore the dog briefly</li><li>Sit before meals, before going outside, before receiving any treat</li></ul><h3>Year One Training Priorities</h3><ol><li><strong>Puppy class:</strong> Especially important for socialization. Chihuahuas not socialized early become fearful and reactive to other dogs and strangers.</li><li><strong>Dental care routine:</strong> Brush teeth 3–4 times per week from the start. Make it positive. Chihuahuas that accept toothbrushing as puppies maintain better dental health throughout their 14–17 year life.</li><li><strong>Handling desensitization:</strong> Touch ears, paws, mouth, and examine the dog daily. The molera (soft spot) on some puppies should be handled gently — never apply pressure there.</li><li><strong>Leash training:</strong> Always use a harness. Introduce the harness and leash positively — many Chihuahuas initially freeze or resist. Short, positive sessions with high-value treats.</li></ol>"
     }
   },
-
   "faq": [
     {
       "q": "What age can Chihuahua puppies come home?",

@@ -5,20 +5,24 @@
     "shopify_handle": "american-staffordshire-terrier-puppy-checklist",
     "group": "American Staffordshire Terrier",
     "size_category": "Guide",
-    "tags": ["american-staffordshire-terrier", "puppy", "checklist", "bsl-check", "socialization"],
+    "tags": [
+      "american-staffordshire-terrier",
+      "puppy",
+      "checklist",
+      "bsl-check",
+      "socialization"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Everything you need before your AmStaff puppy comes home — including the BSL verification and socialization plan that matter most for this breed from day one.",
     "meta_description": "American Staffordshire Terrier puppy checklist: BSL verification before purchase, socialization window priorities, insurance enrollment, training approach, and essential gear for an athletic terrier."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/AMERICAN_STAFFORDSHIRE_TERRIER%2C_Zican%E2%80%99s_Bz_Ez_Dragon_%2824208348891%29.2.jpg/330px-AMERICAN_STAFFORDSHIRE_TERRIER%2C_Zican%E2%80%99s_Bz_Ez_Dragon_%2824208348891%29.2.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_ed231c43-3909-4f9d-92c0-f42efeba6f06.png?v=1777525503",
       "alt": "American Staffordshire Terrier puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<p>The goal with an AmStaff from puppyhood is to build a dog that is a good ambassador for the breed — well-trained, well-socialized, calm in public, and reliably manageable. This is achievable. It requires consistent effort from puppyhood and ongoing management throughout the dog's life.</p><h3>Year One Training Priorities</h3><ol><li><strong>Puppy class (8–12 weeks):</strong> Foundational socialization and basic commands in a positive environment. Look for a trainer experienced with high-drive breeds who uses positive reinforcement methods.</li><li><strong>Loose-leash walking:</strong> AmStaffs are strong and pull enthusiastically. Establish good leash manners before the puppy reaches adult weight. Use a no-pull harness if needed during training.</li><li><strong>Recall on long line:</strong> \"Come\" must be solid before any off-leash time. Use a 20–30 ft long line in safe areas to practice recall while maintaining control. Never off-leash in unfenced areas without a recall that works under distraction.</li><li><strong>Look at that / controlled exposure:</strong> Teach the dog to look at other dogs and look back at you for reinforcement. This prevents reactive habits from developing and maintains focus in environments with other dogs.</li></ol><h3>Ongoing Management</h3><p>Dog-selectivity is a breed tendency that can emerge or intensify as the dog matures, typically around 12–24 months. Management practices — no dog parks, careful introductions, leash management around unknown dogs — should be maintained throughout the dog's life as a responsible standard, not discontinued after a period of success.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What is BSL and do I need to check it before getting an AmStaff?",

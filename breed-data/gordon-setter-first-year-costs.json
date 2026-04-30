@@ -5,20 +5,24 @@
     "shopify_handle": "gordon-setter-first-year-costs",
     "group": "Gordon Setter",
     "size_category": "Guide",
-    "tags": ["gordon-setter", "cost", "budget", "first-year", "sporting-dog"],
+    "tags": [
+      "gordon-setter",
+      "cost",
+      "budget",
+      "first-year",
+      "sporting-dog"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "Gordon Setter ownership costs $2,700–$5,100 in the first year. Bloat/GDV emergency surgery is the biggest financial risk — pet insurance and knowing the signs are both essential.",
     "meta_description": "Gordon Setter first year costs: puppy price, food, vet costs including gastropexy discussion, grooming expenses, pet insurance, and bloat/GDV financial risk."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Orrvilas_enska_w800px.jpg/250px-Orrvilas_enska_w800px.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_cbe447b8-08a9-4649-9643-d7f0d661bb61.png?v=1777528199",
       "alt": "Gordon Setter first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With a 12–13 year lifespan, a Gordon Setter represents a meaningful long-term financial commitment.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, no major interventions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$20,000–$33,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate health issues (hypothyroidism, managed hip dysplasia)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$28,000–$43,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant health issues (GDV surgery, hip replacement)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$38,000–$60,000</td></tr></tbody></table><p style=\"margin-top:16px;\">The GDV scenario is the most significant financial variable. A dog that experiences GDV without insurance coverage faces a $3,000–$7,000 emergency bill that owners must pay on the spot to save the dog's life. Insurance enrolled before symptoms appear is the only financial protection against this specific risk.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does a Gordon Setter puppy cost?",

@@ -5,20 +5,24 @@
     "shopify_handle": "bernese-mountain-dog-grooming-guide",
     "group": "Bernese Mountain Dog",
     "size_category": "Guide",
-    "tags": ["bernese-mountain-dog", "grooming", "double-coat", "shedding", "mat-prevention"],
+    "tags": [
+      "bernese-mountain-dog",
+      "grooming",
+      "double-coat",
+      "shedding",
+      "mat-prevention"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Bernese Mountain Dogs have a beautiful tricolor coat that requires consistent effort to maintain — 3–4 brushing sessions per week and twice-yearly professional deshedding. The alternative is matting and a home covered in hair.",
     "meta_description": "Bernese Mountain Dog grooming guide: brushing routine for the thick double coat, mat prevention, shedding season management, and bathing a large breed at home."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/3-BerneseMountainDogInGrass.jpg/330px-3-BerneseMountainDogInGrass.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_1d6750d2-a423-4af9-922f-3e7e1a5d18bd.png?v=1777526000",
       "alt": "Bernese Mountain Dog grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Berner Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Matting is the primary grooming challenge for Berners. The combination of the long outer coat and dense undercoat creates matting conditions whenever the coat is neglected for more than a week, especially in friction zones.</p><h3>Prevention</h3><ul><li>Never skip the mat-prone areas during regular brushing</li><li>Use a detangling spray before brushing if the coat is dry</li><li>Check under collar and harness regularly — these create constant friction</li><li>After swimming or getting wet, brush the coat before it fully dries to prevent matting as the coat dries in clumps</li></ul><h3>Removing Existing Mats</h3><ul><li>Apply detangling spray and let it work for a few minutes</li><li>Hold the base of the mat against the skin with one hand to prevent pulling skin while working</li><li>Use fingers to separate large mats, then use a mat splitter or dematting comb</li><li>Work from the outer edge inward toward the skin — never pull through a mat from the skin outward</li><li>For tight, dense mats close to the skin: consider clipping them out. A professional groomer may need to remove severe matting before regular brushing can resume</li></ul><h3>Grooming Costs</h3><p>Professional grooming for Berners runs $80–$150 per session due to the size and coat. Most Berner owners groom at home between professional sessions and book professionals for full deshedding baths 2–3 times per year. Annual professional grooming costs: $200–$450.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often should I brush my Bernese Mountain Dog?",

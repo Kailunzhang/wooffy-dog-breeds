@@ -5,20 +5,25 @@
     "shopify_handle": "mastiff-puppy-checklist",
     "group": "Mastiff",
     "size_category": "Guide",
-    "tags": ["mastiff", "puppy", "checklist", "giant-breed", "gastropexy", "drool-management"],
+    "tags": [
+      "mastiff",
+      "puppy",
+      "checklist",
+      "giant-breed",
+      "gastropexy",
+      "drool-management"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Everything you need before your Mastiff puppy comes home — including how to prepare for a dog that will weigh more than most people, and the gastropexy discussion that can save their life.",
     "meta_description": "Mastiff puppy checklist: giant-breed food selection, gastropexy scheduling, drool management supplies, XL setup requirements, and exercise limits for one of the world's heaviest breeds."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/137._English_Mastiff.JPG/330px-137._English_Mastiff.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_2f7f58f8-d29d-4f26-81c2-4482ba0a0b54.png?v=1777529683",
       "alt": "Mastiff puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Train Now — They Won't Stay Small</h3><p>A Mastiff puppy at 20 lbs is manageable and easy to redirect physically. A Mastiff adult at 200 lbs that hasn't been trained to loose-leash walk is a genuine danger to themselves and others. Start training from day one, maintain it throughout puppyhood, and never assume it's \"just a puppy phase\" that will self-correct.</p><ul><li>Sit, down, stay, come, leave it — foundational commands, start immediately</li><li>Loose-leash walking — the single most important behavior to establish before the dog reaches adult size</li><li>Door manners — no charging through doorways; sit and wait for release</li><li>No jumping — even as a puppy, teach \"off\" consistently. The puppy that jumps affectionately becomes the adult that knocks people down</li></ul><h3>Exercise Rules for Puppies</h3><ul><li>5 minutes of structured exercise per month of age, twice daily maximum</li><li>No forced running, jumping, or extended stair use until 18–24 months</li><li>Free play in a soft-surfaced yard is fine</li><li>Walking on hard surfaces (pavement) is fine for short durations; long hard-surface walks stress developing joint cartilage</li></ul><h3>Handling Desensitization</h3><p>Start from day one: handle paws, ears, wrinkles, mouth, and tail. Practice wrinkle cleaning. Practice teeth brushing. Practice nail handling. Establishing acceptance of full body handling while the dog is a manageable puppy size creates an adult that can be safely examined and cared for. An unhandled 200-lb adult dog at the vet is a genuine safety concern.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What food should I feed my Mastiff puppy?",

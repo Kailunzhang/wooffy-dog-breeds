@@ -5,7 +5,10 @@
     "shopify_handle": "basenji-grooming-guide",
     "group": "Basenji",
     "size_category": "Guide",
-    "tags": ["basenji", "grooming"],
+    "tags": [
+      "basenji",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "The Basenji is one of the lowest-maintenance breeds in existence — they self-groom like cats, have virtually no odor, and rarely need baths. A rubber grooming mitt once a week is essentially the complete grooming routine.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Basenji_Profile_%28loosercrop%29.jpg/330px-Basenji_Profile_%28loosercrop%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_cdadf8fb-655e-433d-95f8-56677ecee158.png?v=1777525780",
       "alt": "Basenji grooming guide"
     }
   },

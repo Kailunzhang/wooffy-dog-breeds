@@ -6,74 +6,103 @@
     "group": "Terrier Group",
     "size_category": "Medium Breed",
     "tagline": "Bull Terriers are one-of-a-kind: comical, loyal, tenacious, and relentlessly entertaining. They're also stubborn, strong, and carry a kidney disease risk that requires DNA testing before purchase.",
-    "tags": ["terrier-group", "medium-breed", "loyal", "stubborn", "hereditary-nephritis", "dog-breeds"],
+    "tags": [
+      "terrier-group",
+      "medium-breed",
+      "loyal",
+      "stubborn",
+      "hereditary-nephritis",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Bull Terriers have a completely unique appearance, an even more unique personality, and a DNA test that every buyer needs to see before purchasing. They're endearing, determined, and not for owners who want easy compliance.",
     "meta_description": "Bull Terrier breed guide: unique egg-shaped head, stubborn but loyal personality, hereditary nephritis DNA test, deafness risk in white dogs, and real ownership expectations."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "50–70 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "11–14 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Very Low" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good with family" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Not recommended" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "50–70 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "11–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Very Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good with family"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Not recommended"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bullterrier-3453301920.jpg/330px-Bullterrier-3453301920.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_99652124-ae2f-4aa1-91b9-8f1e9593eac3.png?v=1777526572",
       "alt": "Bull Terrier"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Bull Terrier?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Bull Terrier is immediately recognizable: the egg-shaped, down-faced head is completely unique in the dog world and impossible to confuse with any other breed. Developed in 19th-century England from Bulldog-Terrier crosses originally bred for dogfighting and ratting, the breed was refined into a gentleman's companion. The fighting background has been bred out; what remains is a tenacious, loyal, entertainingly stubborn terrier that lives life at full volume.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bull Terriers are comic performers. They play with physical exuberance — running in circles (a breed-typical behavior called \"hucklebutting\"), bouncing off furniture, and using their solid bodies as affection delivery systems. They're devoted to their family with an intensity that makes them poor candidates for households where they'd be alone frequently.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The health priority before purchasing any Bull Terrier: ask for the hereditary nephritis (HN) DNA test results for both parents. HN is a kidney disease that kills affected dogs, often before age 3. The test identifies carriers and affected dogs; reputable breeders test all breeding stock. Do not buy from a breeder who cannot produce these results.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Bull Terriers Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Medium-sized and powerfully built — 50–70 lbs in a compact, muscular frame. The defining feature is the long, egg-shaped head with a Roman nose profile and small, triangular, deep-set eyes. The body is round in substance, with a level back, deep chest, and short, strong neck.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Colors include white (the classic), colored (fawn, brindle, black, red, or tricolor), and white with colored patches. White Bull Terriers have a higher incidence of congenital deafness — BAER testing is recommended for white puppies. The Miniature Bull Terrier is a separate AKC breed, same conformation in a smaller package (20–35 lbs).</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Loyal, comical, and completely committed to their people — Bull Terriers are intensely family-oriented. They're not gentle or deferential; they participate in everything with their whole body and considerable enthusiasm. They can be clownish and sweet one moment and absolutely determined the next. Once a Bull Terrier decides it wants to do something, redirecting that determination requires patience and creativity rather than force.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family children: good — patient with children they're raised with, and naturally playful at children's energy levels. Supervision with very young children is practical given the breed's enthusiasm and solid build.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Many Bull Terriers show dog-selective behavior or dog-aggression, particularly same-sex. This varies by individual but should be assumed possible and managed accordingly — not assumed absent. The terrier background contributes to prey drive as well; small animals in the household require careful introductions and ongoing management.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Bull Terrier",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bull Terriers are genuinely one-of-a-kind. No other breed has quite the combination of appearance, personality, and sheer comedic presence. People who love Bull Terriers are often completely devoted to the breed — not despite the stubbornness and intensity, but in part because of it. There's something admirable about a dog that commits 100% to whatever it's doing, whether that's chasing a ball, cuddling on the couch, or staging a 20-minute standoff over a command they've decided to ignore.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The training reality: Bull Terriers are not compliant workers. They learn quickly — and then decide whether to comply. Positive reinforcement and short, engaging sessions work; long, repetitive drills produce a dog staring at the ceiling. If you want a precise, reliable obedience dog, there are better choices. If you want a hilarious, deeply devoted partner who will make you earn every trained behavior and make you laugh while doing it, there may not be a better choice.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The HN test is non-negotiable. Hereditary nephritis kills dogs young and painfully. Reputable breeders test. If a breeder can't produce clear HN test results for both parents, walk away.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of vigorous exercise daily. Bull Terriers are energetic and need substantial outlets — running, fetch, training sessions, or play. They should be on-leash in unfenced areas; prey drive and stubbornness make reliable recall unreliable without exceptional training effort. A securely fenced yard is essential.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Minimal — weekly brushing with a rubber curry or bristle brush, bath every 6–8 weeks. The short coat sheds moderately. Very easy to maintain. See the <a href=\"/blogs/dog-breeds/bull-terrier-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Bull Terrier grooming guide</a>.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Start early, keep it fun, and have realistic expectations. Puppy classes are important for socialization. Core commands require consistent reinforcement across the dog's lifetime — Bull Terriers need reminders that compliance is still expected. Many Bull Terriers develop compulsive spinning behaviors when under-stimulated; adequate mental and physical exercise prevents this.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bull Terriers have several breed-specific conditions that require DNA testing and proactive monitoring.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hereditary Nephritis (HN)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited kidney disease that causes progressive renal failure. Affected dogs typically die before age 3. DNA test available — all breeding stock should be tested. Ask for the DNA test certificates for both parents before purchasing a puppy. This is the most critical health test in the breed.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Deafness</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Congenital deafness occurs at elevated rates in white Bull Terriers. BAER (brainstem auditory evoked response) testing is available and recommended for white puppies. Deaf Bull Terriers can live full, happy lives with appropriate training adjustments.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Heart Defects (Aortic Stenosis)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Congenital narrowing of the aorta increases workload on the heart. OFA cardiac screening available; ranges from mild to severe. Ask breeders for cardiac clearances.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Compulsive Behaviors</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Spinning, tail chasing, and shadow chasing can develop in under-stimulated Bull Terriers. Adequate exercise and mental engagement prevent most cases. Once established, compulsive behaviors can be difficult to extinguish.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Non-negotiable:</strong> Ask for HN DNA test clearances for both parents. Ask for OFA cardiac clearance. BAER testing for white puppies.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$3,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,150–$6,050</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,400–$2,700</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/bull-terrier-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Bull Terrier first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Bull Terrier Right for You?",
@@ -92,25 +121,50 @@
         "Buyers from breeders unable to produce HN DNA test clearances"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Bull Terrier",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$3,000 from health-testing breeders. Required clearances: HN DNA test (both parents), OFA cardiac (echo), CAER eye, BAER hearing test for white puppies. The Bull Terrier Club of America maintains a breeder referral list. Require HN DNA documentation before visiting a litter.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bull Terrier-specific rescue organizations exist. Common surrender reasons include underestimated exercise needs and the difficulty managing them in multi-dog households. Experienced Bull Terrier owners make the best rescue adopters. Request full health disclosure including any documented kidney issues.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Bull Terrier comes home, complete the <a href=\"/blogs/dog-breeds/bull-terrier-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Bull Terrier puppy checklist</a>.</p>"
     }
   },
-
   "faq": [
-    { "q": "What is hereditary nephritis and why does it matter for Bull Terriers?", "a": "Hereditary nephritis (HN) is an inherited kidney disease that causes progressive renal failure, typically killing affected dogs before age 3. A DNA test identifies clear, carrier, and affected dogs. All breeding stock should be tested, and buyers should require HN DNA test certificates for both parents. This is the most critical health test in the breed — do not purchase a Bull Terrier puppy from a breeder who cannot provide these results." },
-    { "q": "Are white Bull Terriers deaf?", "a": "Some are. Congenital deafness occurs at elevated rates in white Bull Terriers due to the gene responsible for the white coat. BAER (brainstem auditory evoked response) testing identifies deaf, unilaterally deaf, and hearing dogs. Reputable breeders test all white puppies before placing them. Deaf Bull Terriers can live full, happy lives with visual cues and appropriate management." },
-    { "q": "Are Bull Terriers aggressive?", "a": "Not toward humans by temperament. They can show dog-selective behavior or dog-aggression, particularly with same-sex dogs — this is terrier background. Early socialization helps but doesn't guarantee smooth dog-dog interactions throughout life. They're not typically aggressive with people and should never be expected to be, but their terrier tenacity means they won't back down from a conflict once started." },
-    { "q": "What is 'hucklebutting'?", "a": "The breed-characteristic play behavior where Bull Terriers run in fast circles or figure-eights with their rear end tucked low — usually a burst of joy, excess energy, or pure clowning. It's harmless, normal, and extremely entertaining. Most Bull Terrier owners come to see it as one of the breed's signature charms." }
+    {
+      "q": "What is hereditary nephritis and why does it matter for Bull Terriers?",
+      "a": "Hereditary nephritis (HN) is an inherited kidney disease that causes progressive renal failure, typically killing affected dogs before age 3. A DNA test identifies clear, carrier, and affected dogs. All breeding stock should be tested, and buyers should require HN DNA test certificates for both parents. This is the most critical health test in the breed — do not purchase a Bull Terrier puppy from a breeder who cannot provide these results."
+    },
+    {
+      "q": "Are white Bull Terriers deaf?",
+      "a": "Some are. Congenital deafness occurs at elevated rates in white Bull Terriers due to the gene responsible for the white coat. BAER (brainstem auditory evoked response) testing identifies deaf, unilaterally deaf, and hearing dogs. Reputable breeders test all white puppies before placing them. Deaf Bull Terriers can live full, happy lives with visual cues and appropriate management."
+    },
+    {
+      "q": "Are Bull Terriers aggressive?",
+      "a": "Not toward humans by temperament. They can show dog-selective behavior or dog-aggression, particularly with same-sex dogs — this is terrier background. Early socialization helps but doesn't guarantee smooth dog-dog interactions throughout life. They're not typically aggressive with people and should never be expected to be, but their terrier tenacity means they won't back down from a conflict once started."
+    },
+    {
+      "q": "What is 'hucklebutting'?",
+      "a": "The breed-characteristic play behavior where Bull Terriers run in fast circles or figure-eights with their rear end tucked low — usually a burst of joy, excess energy, or pure clowning. It's harmless, normal, and extremely entertaining. Most Bull Terrier owners come to see it as one of the breed's signature charms."
+    }
   ],
-
   "related_breeds": [
-    {"name": "American Staffordshire Terrier", "slug": "american-staffordshire-terrier", "note": "Smoother temperament, easier to train, similar athletic build, different head shape"},
-    {"name": "Staffordshire Bull Terrier", "slug": "staffordshire-bull-terrier", "note": "Smaller, more social with dogs, same broad family"},
-    {"name": "Miniature Bull Terrier", "slug": "miniature-bull-terrier", "note": "Identical breed in a smaller package (20–35 lbs), same personality and health needs"},
-    {"name": "Boxer", "slug": "boxer", "note": "Comparable energy and loyalty, working not terrier group, easier compliance"}
+    {
+      "name": "American Staffordshire Terrier",
+      "slug": "american-staffordshire-terrier",
+      "note": "Smoother temperament, easier to train, similar athletic build, different head shape"
+    },
+    {
+      "name": "Staffordshire Bull Terrier",
+      "slug": "staffordshire-bull-terrier",
+      "note": "Smaller, more social with dogs, same broad family"
+    },
+    {
+      "name": "Miniature Bull Terrier",
+      "slug": "miniature-bull-terrier",
+      "note": "Identical breed in a smaller package (20–35 lbs), same personality and health needs"
+    },
+    {
+      "name": "Boxer",
+      "slug": "boxer",
+      "note": "Comparable energy and loyalty, working not terrier group, easier compliance"
+    }
   ]
 }

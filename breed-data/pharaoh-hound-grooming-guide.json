@@ -5,20 +5,24 @@
     "shopify_handle": "pharaoh-hound-grooming-guide",
     "group": "Pharaoh Hound",
     "size_category": "Guide",
-    "tags": ["pharaoh-hound", "grooming", "short-coat", "sighthound", "low-maintenance"],
+    "tags": [
+      "pharaoh-hound",
+      "grooming",
+      "short-coat",
+      "sighthound",
+      "low-maintenance"
+    ],
     "published": true,
     "published_at": "2026-04-26T16:00:00Z",
     "excerpt": "The Pharaoh Hound has one of the easiest coats in the dog world — short, fine, and requiring almost no specialized care. A weekly wipe-down and routine nail and ear maintenance covers it.",
     "meta_description": "Pharaoh Hound grooming guide: the short fine coat requires minimal work, but ears, nails, and skin care after outdoor activity are the regular maintenance priorities for this sighthound."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pies_faraona_e34.jpg/250px-Pies_faraona_e34.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_d61b17f2-745f-4cef-a64a-e58b77f95e78.png?v=1777530333",
       "alt": "Pharaoh Hound grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Pharaoh Hound Coat",
@@ -36,7 +40,6 @@
       "html": "<p>The short fine coat provides minimal insulation. Below approximately 50°F, outdoor activity requires a well-fitted dog coat. The dog coat needs to cover the core — chest, belly, back — to be effective. The Pharaoh Hound is not a breed that should spend extended time outside in cold conditions, and sleeping arrangements should be indoors.</p><h3>Practical Cold Weather Tips</h3><ul><li>Invest in a well-fitted, waterproof dog coat before cold weather arrives</li><li>Keep outdoor exercise during cold months efficient — shorter, more purposeful outings</li><li>Check paws after walks in icy conditions; de-icing chemicals are irritating to the thin-skinned paws of sighthounds</li><li>Wipe paws after returning from salted surfaces</li><li>Indoor warmth is not optional — provide a dog bed away from drafts</li></ul>"
     }
   },
-
   "faq": [
     {
       "q": "How often does a Pharaoh Hound need to be bathed?",

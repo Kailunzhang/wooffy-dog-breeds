@@ -5,20 +5,24 @@
     "shopify_handle": "old-english-sheepdog-first-year-costs",
     "group": "Old English Sheepdog",
     "size_category": "Guide",
-    "tags": ["old-english-sheepdog", "cost", "budget", "first-year", "grooming-cost"],
+    "tags": [
+      "old-english-sheepdog",
+      "cost",
+      "budget",
+      "first-year",
+      "grooming-cost"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "Old English Sheepdog ownership costs $4,000–$9,000 in the first year. Professional grooming every 6–8 weeks is the single largest ongoing cost — budget $150–$300+ per appointment.",
     "meta_description": "Old English Sheepdog first year costs: puppy price, professional grooming budget, food, vet bills, hip dysplasia risk, pet insurance, and lifetime cost estimates for this large herding breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Old_English_Sheepdog_%28side%29.jpg/330px-Old_English_Sheepdog_%28side%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_b58a7ea0-5431-46eb-b8ce-7239a544777e.png?v=1777530234",
       "alt": "Old English Sheepdog first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With a 10–12 year lifespan and high ongoing grooming costs, the OES is among the higher lifetime-cost breeds.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, regular professional grooming</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$30,000–$50,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Hip dysplasia requiring medical management</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$40,000–$60,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Hip surgery + hypothyroidism + grooming lifetime</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$55,000–$80,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">Grooming alone contributes $10,000–$20,000+ to the lifetime total. This is not an exaggeration — it is the cost reality of owning a breed with this coat type. Owners who make this decision with full awareness of the financial commitment are the right owners for this breed.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does an Old English Sheepdog puppy cost from a reputable breeder?",

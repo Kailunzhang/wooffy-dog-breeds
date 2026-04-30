@@ -5,20 +5,24 @@
     "shopify_handle": "bull-terrier-first-year-costs",
     "group": "Bull Terrier",
     "size_category": "Guide",
-    "tags": ["bull-terrier", "cost", "budget", "first-year", "hereditary-nephritis"],
+    "tags": [
+      "bull-terrier",
+      "cost",
+      "budget",
+      "first-year",
+      "hereditary-nephritis"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Bull Terriers cost $3,150–$6,000 in the first year. The HN (hereditary nephritis) DNA test from the breeder is a critical verification step — not a cost — that saves you from a heartbreaking early loss.",
     "meta_description": "Bull Terrier first year costs: puppy price range, moderate ongoing costs for a medium breed, the hereditary nephritis DNA test requirement, and what kidney disease treatment costs if HN isn't screened."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bullterrier-3453301920.jpg/330px-Bullterrier-3453301920.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_44361309-4d3b-4dc4-8b1c-e13564d7af43.png?v=1777526564",
       "alt": "Bull Terrier first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>Bull Terriers have a good lifespan of 11–14 years. Healthy dogs from health-tested breeders have moderate lifetime costs.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog from HN-clear parents</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$20,000–$35,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate issues (cardiac monitoring, skin conditions)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$26,000–$42,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">HN-affected dog (if HN testing wasn't verified)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">High cost, short lifespan — avoid this scenario entirely</td></tr></tbody></table>"
     }
   },
-
   "faq": [
     {
       "q": "What does a Bull Terrier from a reputable breeder cost?",

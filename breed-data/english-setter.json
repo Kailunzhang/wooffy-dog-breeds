@@ -6,74 +6,103 @@
     "group": "Sporting Group",
     "size_category": "Large Breed",
     "tagline": "The English Setter is a graceful, gentle bird dog with a silky feathered coat and an enthusiastic nose. They're good-natured family dogs — but field and show lines differ dramatically, and their energy demands are real.",
-    "tags": ["sporting-group", "large-breed", "gentle", "bird-dog", "feathered-coat", "dog-breeds"],
+    "tags": [
+      "sporting-group",
+      "large-breed",
+      "gentle",
+      "bird-dog",
+      "feathered-coat",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "English Setters are gentle, friendly sporting dogs with striking feathered coats and genuine bird dog instincts. Field lines and show lines are practically different dogs — know which you're getting. Either way, their exercise needs are serious and deafness testing is non-negotiable in white-heavy dogs.",
     "meta_description": "English Setter breed guide: field vs show line differences, energy requirements, deafness risk in white dogs, grooming the feathered coat, and health conditions to screen for."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "45–80 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise",  "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming",  "value": "Moderate" },
-    "training": { "emoji": "🎓", "label": "Training",  "value": "Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Very Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes (show lines)" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "45–80 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Very Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes (show lines)"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EnglishSetter9_fx_wb.jpg/250px-EnglishSetter9_fx_wb.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_ca6c019f-afe7-4181-b2b7-55c0cb2d2ab7.png?v=1777527619",
       "alt": "English Setter"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is an English Setter?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The English Setter is one of the oldest of the British bird dog breeds, developed to work in the field — locating game birds, setting (crouching) to indicate their position, then flushing on command. Their elegant silky coat, distinctive belton coloring (flecked patterns in orange, blue, lemon, or liver), and gentle expression make them one of the most visually striking sporting breeds.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">What most people don't know before buying one: English Setters exist in two distinct lines — field and show — that behave almost like separate breeds. Field-bred English Setters are leaner, higher-drive, more intense dogs bred specifically for hunting performance. Show-bred (or \"bench\") Setters are calmer, heavier-coated, more family-oriented. Knowing which line you're buying from matters enormously for day-to-day life.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Both lines share the breed's fundamental gentleness and friendliness. Neither is aggressive. Both need real exercise. The difference is in degree of drive, intensity, and whether a 45-minute walk satisfies them or leaves them looking for more.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What English Setters Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Males weigh 65–80 lbs, females 45–55 lbs. They are longer than tall, with an elegant, athletic build. The head is long and lean, with a square muzzle. The silky coat lies flat with feathering on the chest, belly, legs, and tail — show dogs carry considerably more coat than field dogs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The distinctive coloring is called belton — a white base with flecking or ticking in orange (orange belton), black (blue belton), lemon, or liver. Tri-colors with tan markings also exist. The piebald (heavily white) dogs are the ones with higher deafness risk — more on that in the health section.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">English Setters are consistently described as gentle, friendly, and good-natured — and they genuinely are. They don't have the aloof guardianship tendencies of working breeds or the stubbornness of northern breeds. They like people, they like children, and they don't carry the dog-aggression tendencies that complicate some sporting breeds.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">What they do have is a strong nose and sporting instincts. Off-leash in an unfenced area, a Setter's nose can override everything else and they'll cover ground quickly. Recall in environments with interesting smells requires real training investment, not just casual practice.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Show-line Setters can be reasonably calm indoors once their exercise needs are met. Field-line Setters are higher-energy dogs that may pace, vocalize, or become destructive if under-exercised. The difference matters — ask specifically about the breeding line before committing.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About an English Setter",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">English Setters are genuinely lovely dogs — personable, gentle, athletic without being overwhelming (in show lines), and visually beautiful. For the right owner they're close to ideal: active families who want a real dog that also gets along with everyone.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest part: ask specifically about field versus show lines. A field-line Setter puppy from working parents sold to a suburban family that walks 30 minutes a day is going to be a difficult situation for everyone. Show-line Setters are more forgiving of moderate activity, but even they need real exercise — not just a stroll around the block.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The deafness issue in white dogs is not rare enough to ignore. If you're getting a predominantly white dog, BAER testing is non-negotiable — ask the breeder for documentation. And budget for the coat: the feathering is beautiful but requires consistent maintenance to avoid matting.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of real exercise daily. This is a sporting breed built for all-day field work — a short walk does not suffice. Running, hiking, fetch, or off-leash play in a securely fenced yard. Field-line Setters need more; show-line Setters are more moderate but still require daily vigorous activity.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Weekly brushing through the silky flat coat and feathering. The feathered areas on legs, chest, and ears mat if neglected — tangles caught early are easy to address; established mats are not. Professional grooming every 6–8 weeks keeps the feathering in shape and simplifies home maintenance. See the <a href=\"/blogs/dog-breeds/english-setter-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">English Setter grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Moderate trainability — English Setters are intelligent and willing, but they have a sporting dog's nose that can distract from training in stimulating environments. Positive reinforcement works well. They're not stubborn in the way primitive breeds are, but scent distractions require proofing. Start training early and keep sessions short and positive.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">English Setters have a 12-year average lifespan. The most critical health issue specific to this breed is congenital deafness in dogs with heavy white (piebald) coloring — this is not a minor concern and requires specific testing before purchase.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Congenital Deafness</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Linked to piebald (heavily white) coloring. Unilaterally or bilaterally deaf dogs can live full lives with management, but bilateral deafness significantly affects trainability. BAER (Brainstem Auditory Evoked Response) testing is the only reliable way to detect it. Reputable breeders test all puppies and provide documentation. Do not purchase a predominantly white puppy without BAER test results.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Malformed hip joint causing pain and arthritis. OFA or PennHIP screening available — ask breeders for clearances on both parents.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Underactive thyroid — common in setters. Manageable with daily medication once diagnosed. OFA thyroid clearances available.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inherited retinal degeneration leading to blindness. DNA test available — reputable breeders screen for it. No treatment currently.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip clearances, OFA thyroid, CAER eye exam, PRA DNA test, and BAER hearing test results (especially for white or predominantly white puppies).</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,700–$5,100</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,500–$2,800</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/english-setter-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full English Setter first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is an English Setter Right for You?",
@@ -92,25 +121,50 @@
         "Anyone expecting reliable off-leash recall without serious training investment"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your English Setter",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,500 from reputable breeders. Required health clearances: OFA hip, OFA thyroid, CAER eye exam, PRA DNA test, and BAER hearing test for white-heavy dogs. The English Setter Association of America maintains a breeder referral list. Ask specifically whether the litter is from field or show lines — this matters for your daily reality.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">English Setter rescue organizations exist and place dogs regularly — often from owners who underestimated the exercise requirements or purchased field-line dogs without understanding the drive level. Rescues often have young adult dogs that would thrive in active homes.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your English Setter comes home, complete the <a href=\"/blogs/dog-breeds/english-setter-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">English Setter puppy checklist</a>.</p>"
     }
   },
-
   "faq": [
-    { "q": "What is the difference between field and show English Setters?", "a": "Field-bred English Setters are leaner, higher-drive dogs bred for hunting performance — they need serious exercise and have intense bird dog instincts. Show-bred (bench) Setters are heavier-coated, calmer, and more family-oriented. Both are gentle and friendly, but the exercise requirements and drive level differ significantly. Always ask a breeder which lines their dogs come from." },
-    { "q": "Are English Setters prone to deafness?", "a": "Dogs with heavy white (piebald) coloring have a meaningful risk of congenital deafness, linked to the same pigmentation genetics seen in other white-heavy breeds. BAER (Brainstem Auditory Evoked Response) testing is the only reliable method to check hearing. Reputable breeders test all puppies. Do not purchase a predominantly white English Setter without documented BAER test results." },
-    { "q": "How much grooming do English Setters need?", "a": "Weekly brushing at minimum, with attention to the feathered areas on the legs, chest, and ears where mats form. Professional grooming every 6–8 weeks is practical for most owners to keep the feathering shaped and tangle-free. The coat is silky and lies flat, which makes brushing easier than curly or wire coats — but consistent maintenance is required." },
-    { "q": "Are English Setters good family dogs?", "a": "Yes — their gentle, friendly temperament makes them genuinely good with children and non-aggressive with strangers. They are not guard dogs. Show-line Setters are well-suited to family life as long as daily exercise needs are met. Field-line Setters are better suited to very active families or those with access to running/hunting activities." }
+    {
+      "q": "What is the difference between field and show English Setters?",
+      "a": "Field-bred English Setters are leaner, higher-drive dogs bred for hunting performance — they need serious exercise and have intense bird dog instincts. Show-bred (bench) Setters are heavier-coated, calmer, and more family-oriented. Both are gentle and friendly, but the exercise requirements and drive level differ significantly. Always ask a breeder which lines their dogs come from."
+    },
+    {
+      "q": "Are English Setters prone to deafness?",
+      "a": "Dogs with heavy white (piebald) coloring have a meaningful risk of congenital deafness, linked to the same pigmentation genetics seen in other white-heavy breeds. BAER (Brainstem Auditory Evoked Response) testing is the only reliable method to check hearing. Reputable breeders test all puppies. Do not purchase a predominantly white English Setter without documented BAER test results."
+    },
+    {
+      "q": "How much grooming do English Setters need?",
+      "a": "Weekly brushing at minimum, with attention to the feathered areas on the legs, chest, and ears where mats form. Professional grooming every 6–8 weeks is practical for most owners to keep the feathering shaped and tangle-free. The coat is silky and lies flat, which makes brushing easier than curly or wire coats — but consistent maintenance is required."
+    },
+    {
+      "q": "Are English Setters good family dogs?",
+      "a": "Yes — their gentle, friendly temperament makes them genuinely good with children and non-aggressive with strangers. They are not guard dogs. Show-line Setters are well-suited to family life as long as daily exercise needs are met. Field-line Setters are better suited to very active families or those with access to running/hunting activities."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Irish Setter", "slug": "irish-setter", "note": "Higher energy, more overtly social, similarly silky coat, striking red coloring"},
-    {"name": "Gordon Setter", "slug": "gordon-setter", "note": "More reserved personality, black-and-tan coat, similar size and sporting purpose"},
-    {"name": "Brittany", "slug": "brittany", "note": "Smaller bird dog, higher energy pound-for-pound, easier coat maintenance"},
-    {"name": "Vizsla", "slug": "vizsla", "note": "Similar athletic sporting profile, short coat, velcro personality, Hungarian origin"}
+    {
+      "name": "Irish Setter",
+      "slug": "irish-setter",
+      "note": "Higher energy, more overtly social, similarly silky coat, striking red coloring"
+    },
+    {
+      "name": "Gordon Setter",
+      "slug": "gordon-setter",
+      "note": "More reserved personality, black-and-tan coat, similar size and sporting purpose"
+    },
+    {
+      "name": "Brittany",
+      "slug": "brittany",
+      "note": "Smaller bird dog, higher energy pound-for-pound, easier coat maintenance"
+    },
+    {
+      "name": "Vizsla",
+      "slug": "vizsla",
+      "note": "Similar athletic sporting profile, short coat, velcro personality, Hungarian origin"
+    }
   ]
 }

@@ -6,74 +6,104 @@
     "group": "Sporting Group",
     "size_category": "Large Breed",
     "tagline": "The Spinone Italiano is a large, gentle Italian gun dog with a patient, docile personality and a wiry coat that belies a devoted, easygoing nature. They hunt at a slow, methodical pace — and they live their home life the same way.",
-    "tags": ["sporting-group", "large-breed", "gentle", "gun-dog", "wiry-coat", "italian-breed", "dog-breeds"],
+    "tags": [
+      "sporting-group",
+      "large-breed",
+      "gentle",
+      "gun-dog",
+      "wiry-coat",
+      "italian-breed",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "The Spinone Italiano is Italy's ancient all-purpose gun dog — large, gentle, patient, and surprisingly low-key for a sporting breed. They drool from their pendulous lips, hunt at a methodical trot rather than a sprint, and make wonderfully docile companions. One DNA test — cerebellar ataxia — is essential from reputable breeders.",
     "meta_description": "Spinone Italiano breed guide: gentle gun dog temperament, wiry coat care, critical cerebellar ataxia DNA test, bloat risk, ear infections, and the honest drool situation."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "62–85 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–14 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "62–85 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Excellent"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Vitus2002.jpg/250px-Vitus2002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_75013dc5-7c46-4017-b609-0852e8bb8d91.png?v=1777531831",
       "alt": "Spinone Italiano"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Spinone Italiano?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Spinone Italiano is one of the oldest gun dog breeds in existence, developed in Italy over centuries as a versatile hunting companion capable of working in the dense Italian terrain — marshes, mountains, and dense brush. The name likely derives from the Italian \"spino\" (thorny bush) — a reference to the habitat the breed was developed to work through.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">At 62–85 lbs, the Spinone is a large, sturdy sporting dog with a distinctive dense wiry coat, pendulous lips, and expressive, kind eyes. They hunt at a slower, methodical trot rather than the high-speed gallop of pointers — making them one of the more sustainable field dogs for hunters who cover terrain on foot.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Temperamentally, they're exceptional. The Spinone is among the most docile, patient, and gentle of all sporting breeds. They're good with children, good with other dogs, and have an easygoing quality indoors that makes them unusually manageable for their size. The drool from their pendulous lips is real and not trivial — it's worth acknowledging before you commit.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Spinone Italianos Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Large, muscular, and substantial — 62–85 lbs, 22.5–27.5 inches at the shoulder. The body is broad and deep-chested, built for endurance rather than speed. The head is large and sculptured with a long muzzle, pendulous lips, and large, soft eyes framed by bushy eyebrows that give the Spinone its characteristically thoughtful, wise expression.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The coat is dense, wiry, and rough to the touch, 1.5–2.5 inches long on the body. Longer, softer hair forms the beard, mustache, and eyebrows. Colors include white, white-and-orange, white-and-chestnut brown, or white with orange or chestnut roan markings. The thick, unkempt-looking coat is low-shedding and provides excellent protection in the field.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Spinone Italiano is one of the most reliably gentle large sporting breeds. They are patient, docile, and affectionate — genuinely excellent with children due to their calm, tolerant nature. They get along well with other dogs and household pets with proper socialization. Strangers are typically greeted warmly rather than with wariness.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Their independence is worth noting. Spinoni are not velcro dogs — they're affectionate but not clingy. They have an easygoing, take-it-as-it-comes quality that makes them pleasant company without being demanding. This same independence means training requires patience and positive engagement rather than force or pressure.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">For a large sporting dog, the Spinone's indoor energy level is moderate. They need real exercise, but they're not the non-stop athletes that German Shorthaired Pointers or Vizslas can be. Many owners find them surprisingly manageable for their size.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Spinone Italiano",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Spinoni are wonderful dogs that suit a wider range of households than most large sporting breeds. Their patience and gentle temperament make them one of the better choices for families with children, and their moderate indoor energy level means they don't require the same exhaustion-level exercise as high-drive sporting breeds.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The cerebellar ataxia DNA test is the single most important thing to discuss with any breeder. Cerebellar ataxia in the Spinone is a progressive, fatal neurological disease that typically becomes apparent at 4–8 months of age. A DNA test identifies carriers and affected puppies. Both parents must be DNA tested — either clear or carriers (carrier x carrier matings should be avoided). Do not purchase from a breeder who cannot provide this documentation.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The drool is real and daily. Pendulous lips mean the Spinone drips. Towels become household accessories. If drool is a dealbreaker, this breed is not the right choice regardless of how appealing the temperament is.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate to high energy — 60–90 minutes of daily exercise. Spinoni enjoy hiking, walking, field work, and swimming. They don't need to sprint, but they need real daily movement. Their methodical trot makes them good hiking companions for owners who cover miles on foot rather than running.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The dense wiry coat requires brushing 1–2 times per week to prevent mats. Hand-stripping or trimming 1–2 times per year keeps the coat in shape. The beard and mustache trap food and water — they need regular cleaning and drying to prevent skin irritation and odor. See the <a href=\"/blogs/dog-breeds/spinone-italiano-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Spinone Italiano grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Moderately easy but requires patience. Spinoni are intelligent but independently-minded — they respond to positive, engaging training rather than repetitive drills or harsh methods. Their gentle nature means they shut down with pressure. Consistent, calm training from puppyhood works well.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Spinone Italianos are generally healthy with a 12–14 year lifespan. The critical health concern is cerebellar ataxia — a DNA-testable disease that requires confirmation from breeders. Additional concerns include bloat/GDV, ear infections, and hip dysplasia.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Cerebellar Ataxia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\"><strong>Critical — DNA test required:</strong> A progressive, fatal neurological disease causing loss of coordination, typically apparent at 4–8 months. A DNA test is available that identifies clear, carrier, and affected dogs. Reputable breeders DNA test both parents and will not breed two carriers together. Request DNA test documentation before purchasing any puppy.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Deep-chested large breeds are at elevated risk for gastric dilatation-volvulus — a life-threatening emergency. Know the signs: distended abdomen, unproductive retching, restlessness after eating. Prophylactic gastropexy can be performed during spay/neuter surgery and is worth discussing with your veterinarian.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Otitis (Ear Infections)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The large, pendulous, feathered ears trap moisture and debris. Weekly ear cleaning and maintaining trimmed ear canal hair significantly reduces infection risk. Signs: head shaking, scratching at ears, odor, redness.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Malformed hip joint causing pain and arthritis. OFA or PennHIP screening available. Ask breeders for clearances.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> Cerebellar ataxia DNA test from both parents (non-negotiable), OFA hip clearance, CAER eye exam.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Grooming (professional trims)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$250–$450</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (large crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,650–$6,150</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,700–$2,950</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/spinone-italiano-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Spinone Italiano first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Spinone Italiano Right for You?",
@@ -90,25 +120,50 @@
         "Anyone who would purchase from a breeder without cerebellar ataxia DNA documentation"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Spinone Italiano",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$2,500 from reputable breeders. Non-negotiable health documentation: cerebellar ataxia DNA test from both parents. Also ask for OFA hip and CAER eye exam clearances. The Spinone Club of America maintains a breeder referral directory. The breed is uncommon enough that waiting lists are typical.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Spinone rescue dogs occasionally become available through the Spinone Club of America. Given the breed's relative rarity, rescue availability is limited.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your puppy arrives, review the <a href=\"/blogs/dog-breeds/spinone-italiano-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Spinone Italiano puppy checklist</a> — verifying cerebellar ataxia DNA documentation and discussing prophylactic gastropexy with your vet are the first-year priorities.</p>"
     }
   },
-
   "faq": [
-    { "q": "What is cerebellar ataxia in Spinone Italianos?", "a": "Cerebellar ataxia is a progressive, fatal neurological disease that causes loss of coordination, typically becoming apparent between 4–8 months of age. A DNA test is available that identifies clear, carrier, and affected dogs. Reputable breeders DNA test both parents. If both parents are tested clear, the puppy cannot be affected. If one parent is a carrier, the puppies can be carriers but not affected. Do not purchase a Spinone puppy without seeing this DNA documentation." },
-    { "q": "Do Spinone Italianos drool a lot?", "a": "Yes — moderately to significantly. The pendulous lips characteristic of the breed mean drool is part of daily life, particularly after drinking, eating, or exercise. Many Spinone owners keep towels near water bowls and by the door. It's not as extreme as a Mastiff or Saint Bernard, but it's more than most people expect. Be honest with yourself about whether this is manageable before committing." },
-    { "q": "Are Spinone Italianos good with children?", "a": "Exceptionally so. The Spinone is among the most patient and gentle large sporting breeds. Their docile, tolerant temperament and moderate energy level make them one of the better large breed choices for families with children. Standard supervision practices apply with any large dog and young children." },
-    { "q": "How does the Spinone Italiano hunt differently from pointers?", "a": "The Spinone works at a slow, methodical trot rather than the high-speed gallop of pointers and setters. They quarter the ground systematically and are excellent at working dense cover. This measured pace makes them one of the more sustainable gun dogs for foot hunters covering varied terrain across a full day afield." }
+    {
+      "q": "What is cerebellar ataxia in Spinone Italianos?",
+      "a": "Cerebellar ataxia is a progressive, fatal neurological disease that causes loss of coordination, typically becoming apparent between 4–8 months of age. A DNA test is available that identifies clear, carrier, and affected dogs. Reputable breeders DNA test both parents. If both parents are tested clear, the puppy cannot be affected. If one parent is a carrier, the puppies can be carriers but not affected. Do not purchase a Spinone puppy without seeing this DNA documentation."
+    },
+    {
+      "q": "Do Spinone Italianos drool a lot?",
+      "a": "Yes — moderately to significantly. The pendulous lips characteristic of the breed mean drool is part of daily life, particularly after drinking, eating, or exercise. Many Spinone owners keep towels near water bowls and by the door. It's not as extreme as a Mastiff or Saint Bernard, but it's more than most people expect. Be honest with yourself about whether this is manageable before committing."
+    },
+    {
+      "q": "Are Spinone Italianos good with children?",
+      "a": "Exceptionally so. The Spinone is among the most patient and gentle large sporting breeds. Their docile, tolerant temperament and moderate energy level make them one of the better large breed choices for families with children. Standard supervision practices apply with any large dog and young children."
+    },
+    {
+      "q": "How does the Spinone Italiano hunt differently from pointers?",
+      "a": "The Spinone works at a slow, methodical trot rather than the high-speed gallop of pointers and setters. They quarter the ground systematically and are excellent at working dense cover. This measured pace makes them one of the more sustainable gun dogs for foot hunters covering varied terrain across a full day afield."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Wirehaired Pointing Griffon", "slug": "wirehaired-pointing-griffon", "note": "Similar wiry coat, higher energy, more intense working drive"},
-    {"name": "Lagotto Romagnolo", "slug": "lagotto-romagnolo", "note": "Smaller Italian breed, curly coat, truffle hunting heritage"},
-    {"name": "Bracco Italiano", "slug": "bracco-italiano", "note": "Another Italian gun dog, larger, distinctive pendulous appearance"},
-    {"name": "German Wirehaired Pointer", "slug": "german-wirehaired-pointer", "note": "Similar wiry coat, higher energy, more intense temperament"}
+    {
+      "name": "Wirehaired Pointing Griffon",
+      "slug": "wirehaired-pointing-griffon",
+      "note": "Similar wiry coat, higher energy, more intense working drive"
+    },
+    {
+      "name": "Lagotto Romagnolo",
+      "slug": "lagotto-romagnolo",
+      "note": "Smaller Italian breed, curly coat, truffle hunting heritage"
+    },
+    {
+      "name": "Bracco Italiano",
+      "slug": "bracco-italiano",
+      "note": "Another Italian gun dog, larger, distinctive pendulous appearance"
+    },
+    {
+      "name": "German Wirehaired Pointer",
+      "slug": "german-wirehaired-pointer",
+      "note": "Similar wiry coat, higher energy, more intense temperament"
+    }
   ]
 }

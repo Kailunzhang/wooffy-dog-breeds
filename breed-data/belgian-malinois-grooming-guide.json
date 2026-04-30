@@ -5,20 +5,24 @@
     "shopify_handle": "belgian-malinois-grooming-guide",
     "group": "Belgian Malinois",
     "size_category": "Guide",
-    "tags": ["belgian-malinois", "grooming", "short-coat", "shedding", "low-maintenance"],
+    "tags": [
+      "belgian-malinois",
+      "grooming",
+      "short-coat",
+      "shedding",
+      "low-maintenance"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "The Belgian Malinois has a short, practical coat that needs minimal grooming — weekly brushing and occasional bathing is all it takes. The real investment with a Malinois is training, not coat care.",
     "meta_description": "Belgian Malinois grooming guide: short double coat maintenance, minimal grooming routine, seasonal shedding management, and ear and nail care for a high-drive working breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Malinois_Shepherd3.JPG/250px-Malinois_Shepherd3.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_3237c65a-bd1b-47e6-8179-821e24d8f5f7.png?v=1777525940",
       "alt": "Belgian Malinois grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Malinois Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Belgian Malinois are high-drive, high-energy working dogs. Grooming sessions require the dog to be calm and compliant — this is a training exercise as much as a coat maintenance task. A Malinois that has been properly trained to accept handling and grooming from puppyhood is straightforward to groom. One that hasn't been trained can be difficult to manage even for short grooming sessions.</p><h3>Habituation Matters</h3><ul><li>Start handling and grooming from day one — every session is also a calm-behavior training exercise</li><li>A Malinois that must be still for nail trimming or ear cleaning is practicing impulse control, not just hygiene</li><li>Use the grooming routine as an opportunity to do a full body check — skin condition, lumps, paw pad integrity, body weight assessment</li></ul><h3>Post-Work Checks</h3><p>Malinois used in protection, tracking, or field work need post-activity inspections:</p><ul><li>Check paw pads for cuts, abrasions, or embedded debris after field work</li><li>Check between toes for grass seeds in tall grass environments</li><li>Rinse the coat after saltwater swimming to prevent salt residue buildup</li><li>Check ears after water activities</li></ul>"
     }
   },
-
   "faq": [
     {
       "q": "Do Belgian Malinois shed a lot?",

@@ -5,20 +5,24 @@
     "shopify_handle": "staffordshire-bull-terrier-grooming-guide",
     "group": "Staffordshire Bull Terrier",
     "size_category": "Guide",
-    "tags": ["staffordshire-bull-terrier", "grooming", "short-coat", "low-maintenance", "rubber-mitt"],
+    "tags": [
+      "staffordshire-bull-terrier",
+      "grooming",
+      "short-coat",
+      "low-maintenance",
+      "rubber-mitt"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "The Staffordshire Bull Terrier's short, smooth coat is one of the lowest-maintenance coats in the dog world. A rubber mitt weekly, nail trims monthly, and ear checks regularly covers everything.",
     "meta_description": "Staffordshire Bull Terrier grooming guide: minimal short coat maintenance, rubber mitt technique, ear cleaning, dental care, and keeping a smooth coat healthy without professional grooming."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%D7%A1%D7%90%D7%98%D7%A3_%D7%90%D7%A0%D7%92%D7%9C%D7%99.jpg/330px-%D7%A1%D7%90%D7%98%D7%A3_%D7%90%D7%A0%D7%92%D7%9C%D7%99.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_af961644-cb4b-46b0-bade-b707fd7178df.png?v=1777531870",
       "alt": "Staffordshire Bull Terrier grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Stafford Coat",
@@ -36,7 +40,6 @@
       "html": "<p>While the Stafford coat requires minimal grooming work, the short length means skin conditions are visible early. Use weekly mitt sessions as a health scan as much as a grooming session.</p><h3>What to Check During Grooming</h3><ul><li>Lumps or bumps — check for anything new or changing monthly</li><li>Skin redness, rashes, or areas of hair loss — Staffords can develop skin allergies that manifest as hot spots or recurring redness in the belly, armpits, and between the toes</li><li>Ear odor or discharge — check weekly</li><li>Eye discharge — wipe clean; persistent or colored discharge warrants a vet visit</li></ul><h3>Handling Desensitization</h3><p>The Stafford's physical build — muscular, strong, confident — means a dog that resists handling can be difficult to manage. Establish handling tolerance from puppyhood:</p><ul><li>Touch paws, ears, mouth, and belly daily from the first day</li><li>Associate nail trims with high-value treats from the start — this makes monthly nail maintenance manageable for the lifetime of the dog</li><li>Make the rubber mitt session a positive experience with praise and rewards initially</li></ul>"
     }
   },
-
   "faq": [
     {
       "q": "Do Staffordshire Bull Terriers need professional grooming?",

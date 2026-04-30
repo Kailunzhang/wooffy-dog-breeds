@@ -5,20 +5,23 @@
     "shopify_handle": "cocker-spaniel-grooming-guide",
     "group": "Cocker Spaniel",
     "size_category": "Guide",
-    "tags": ["cocker-spaniel", "grooming", "sporting-group", "high-maintenance-grooming"],
+    "tags": [
+      "cocker-spaniel",
+      "grooming",
+      "sporting-group",
+      "high-maintenance-grooming"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Cocker Spaniel grooming is a genuine commitment — daily brushing plus professional grooming every 6–8 weeks. Here's what the routine actually looks like and what it will cost.",
     "meta_description": "Cocker Spaniel grooming guide: daily brushing routine, professional grooming schedule, ear infection prevention, and realistic cost breakdown."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gessa_d%27Aran_Copo_de_Nieve-_arancio_roano-_prop.Kalesa.jpg/330px-Gessa_d%27Aran_Copo_de_Nieve-_arancio_roano-_prop.Kalesa.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_8d2b0961-310b-46c9-8007-d7eaf0a829ee.png?v=1777527118",
       "alt": "Cocker Spaniel grooming"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
@@ -36,7 +39,6 @@
       "html": "<p>Mats form fastest in friction zones: armpits, behind the ears, collar area, and between the toes. A mat that starts small becomes a dense, skin-pulling knot within days if not addressed.</p><h3>Mat Prevention</h3><ul><li>Brush daily without exception — skipping even 2–3 days creates tangles</li><li>Detangling spray makes brushing faster and less uncomfortable for the dog</li><li>Check friction zones (armpits, collar area) every time you brush</li></ul><h3>Removing Small Mats</h3><ol><li>Never pull. Apply detangling spray and let it sit for 2 minutes.</li><li>Hold the mat at the base (closest to skin) to avoid pulling the skin</li><li>Work through the outer edges with your fingers, then a wide-tooth comb</li><li>Use a mat splitter for dense mats — never scissors near the skin</li></ol><h3>When to Go to the Groomer</h3><p>If the mat won't release after patient work, take the dog to a professional. A matted coat often requires shaving under sedation at the vet — painful for the dog and expensive. Staying on schedule prevents this entirely.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does a Cocker Spaniel need professional grooming?",

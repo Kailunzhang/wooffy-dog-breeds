@@ -6,74 +6,102 @@
     "group": "Terrier Group",
     "size_category": "Small Breed",
     "tagline": "The Miniature Schnauzer is one of the best small dog choices for active families — smart, sturdy, and genuinely versatile. Just know the grooming schedule and the dietary fat restriction before you commit.",
-    "tags": ["terrier-group", "small-breed", "family-dog", "low-shedding", "dog-breeds"],
+    "tags": [
+      "terrier-group",
+      "small-breed",
+      "family-dog",
+      "low-shedding",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Mini Schnauzers are feisty, loyal, and low-shedding. The important ownership facts: they need professional grooming every 6–8 weeks, they're prone to hyperlipidemia (avoid high-fat treats), and they will bark at everything.",
     "meta_description": "Miniature Schnauzer breed guide: grooming needs, hyperlipidemia and pancreatitis risk, temperament, cost breakdown, and honest fit assessment."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Small" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "11–20 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–15 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "30–45 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Easy" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "11–20 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "30–45 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Miniature_Schnauzer_salt_%26_pepper_%28cropped%29.jpg/330px-Miniature_Schnauzer_salt_%26_pepper_%28cropped%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_86bc6cf3-66a4-4de5-ab75-40193c9d5e61.png?v=1777529857",
       "alt": "Miniature Schnauzer"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Miniature Schnauzer?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Miniature Schnauzer is consistently one of the most popular small breeds in the US, and for good reason. They combine the sturdy, no-nonsense personality of a working terrier with genuine family-friendliness, low shedding, and adaptability to different living situations. Unlike many terriers, Mini Schnauzers were developed specifically as ratters on German farms — they're working dogs scaled down, not toy dogs, and that shows in their confidence and energy.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">What makes them popular also makes them specific: the wiry double coat requires professional grooming every 6–8 weeks, they're alert and vocal in ways that can be challenging in close-quarters housing, and they're prone to a metabolic tendency toward high blood triglycerides that requires a low-fat diet. None of these are dealbreakers — they're simply the terms of ownership that should be understood before deciding.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">For the right household, Mini Schnauzers are exceptional. They're loyal, trainable, durable enough for households with children, and adaptable enough for apartments if given adequate exercise and stimulation.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Miniature Schnauzers Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Compact and square-proportioned — 11–20 lbs, 12–14 inches at the shoulder. The hallmarks are the bushy eyebrows, prominent beard and mustache, and wiry double coat. Traditional colors: salt and pepper (the most common), black and silver, and solid black. White Miniature Schnauzers exist but are not AKC conformation-recognized, though they're healthy dogs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The wiry outer coat lies flat against the body and is weather-resistant. Underneath is a softer undercoat. The coat grows continuously and doesn't shed significantly — hair catches in the coat rather than falling to the floor, which is good for housekeeping and for mild allergy households. The trade-off is that it must be regularly groomed or it mats and overgrows.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Alert, spirited, and people-oriented — Mini Schnauzers are engaged, curious dogs that want to know what you're doing and ideally be involved in it. They bond strongly with their family and are generally friendly with strangers, though they'll announce visitors reliably. The watchdog instinct is genuine: they take security seriously.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With children: generally good, especially with children who engage them. Mini Schnauzers are sturdy enough to handle active kids and patient enough for gentler households. They're playful and enjoy games and activity.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The vocal nature is one of the most consistent breed characteristics — Mini Schnauzers bark, and they bark at lots of things. Training \"quiet\" from an early age helps, but it's a management project rather than an elimination. Apartment neighbors and anyone who strongly dislikes barking should factor this in seriously.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Mini Schnauzer",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Mini Schnauzers are one of the breeds I genuinely recommend when someone wants a small dog with real personality — not a decorative breed, but a dog that acts like a dog. They're trainable, durable, and actually good company. The low-shedding coat is a real advantage for housekeeping and for households with mild allergies.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The grooming schedule is the primary cost to understand. Professional grooming every 6–8 weeks runs $60–$100 per appointment — budget $500–$800 annually, indefinitely. Some owners learn to clip at home, which reduces cost but requires practice. Hand-stripping (the technique that maintains the correct wire coat texture for show dogs) requires professional expertise most pet owners don't use.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">One thing I'd tell a friend specifically: no bacon, sausage, high-fat table scraps, or fatty treat brands. Mini Schnauzers are prone to hyperlipidemia — elevated blood fats — which is a trigger for pancreatitis. Pancreatitis is painful, potentially life-threatening, and expensive to treat ($1,000–$3,000). A low-fat diet and avoiding fatty human food is not just a preference — it's genuinely important for this breed's health.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">30–45 minutes of daily activity — brisk walks, off-leash play, or interactive games. Mini Schnauzers are energetic for their size and benefit from both physical and mental exercise. Puzzle feeders, training sessions, and games of fetch or tug satisfy the terrier intelligence. They adapt well to both active and moderate-paced households within reason.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Professional grooming every 6–8 weeks is non-negotiable. Between appointments: weekly brushing of the beard, eyebrows, and leg furnishings to prevent matting. The wiry body coat requires less at-home attention but should be brushed 1–2x weekly. See the <a href=\"/blogs/dog-breeds/miniature-schnauzer-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Miniature Schnauzer grooming guide</a> for tool recommendations and the home routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Diet</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Low-fat diet is important. Avoid high-fat foods and treats. Choose commercial foods with moderate fat content. No fatty table scraps — this is one of the rare breeds where the diet advice has meaningful health consequences, not just a general recommendation.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Mini Schnauzers are generally healthy with a long lifespan, but hyperlipidemia and its complications are the primary breed-specific concern.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hyperlipidemia &amp; Pancreatitis</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Mini Schnauzers are predisposed to elevated blood triglycerides (hyperlipidemia), which increases the risk of pancreatitis — inflammation of the pancreas. Pancreatitis ranges from mild to life-threatening and costs $1,000–$3,000 to treat. Prevention: strict low-fat diet, no fatty human food.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Bladder &amp; Kidney Stones</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Mini Schnauzers have a breed predisposition to urinary stones (particularly calcium oxalate and struvite). Adequate hydration, appropriate diet, and regular urinalysis at annual exams help with detection. Surgical removal if stones develop: $1,500–$3,500.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited eye disease causing progressive vision loss. DNA test available. Ask breeders for PRA DNA test results.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Myotonia Congenita</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Hereditary muscle disorder causing stiffness. DNA test available; reputable breeders screen for it. Affected dogs have a characteristic stiff gait, especially after rest.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> PRA DNA test, Myotonia Congenita DNA test, CAER eye exam</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Small breed food costs, but professional grooming is the primary ongoing expense.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (small breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$360–$720</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$360–$720</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,500–$5,000+</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,600–$2,800</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/miniature-schnauzer-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Miniature Schnauzer first-year cost breakdown</a> for detailed numbers.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Miniature Schnauzer Right for You?",
@@ -92,25 +120,50 @@
         "Want a large dog — 11–20 lbs is the realistic adult size range"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Miniature Schnauzer",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,500 from reputable breeders. Required health tests: PRA DNA test, Myotonia Congenita DNA test, CAER eye exam. The American Miniature Schnauzer Club maintains a breeder referral list. Ask about bloodlines specifically for Myotonia Congenita if considering a puppy.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Miniature Schnauzer rescue exists nationally. Adult rescues often come already groomed and assessed for temperament. Adoption fees $200–$400.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Review the <a href=\"/blogs/dog-breeds/miniature-schnauzer-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Miniature Schnauzer puppy checklist</a> before pickup — establishing a groomer relationship before the dog arrives is the highest-priority item.</p>"
     }
   },
-
   "faq": [
-    { "q": "Are Miniature Schnauzers hypoallergenic?", "a": "They're often listed that way, and they are a better choice than shedding breeds for many allergy sufferers — low shedding reduces airborne dander. But no dog is fully hypoallergenic; all dogs produce dander to some degree. Mini Schnauzers are among the better small breed options for households with mild dog allergies." },
-    { "q": "Why can't Mini Schnauzers eat fatty food?", "a": "Mini Schnauzers have a breed predisposition to hyperlipidemia — elevated blood fats. High-fat food triggers pancreatitis (painful, expensive inflammation of the pancreas) more readily in this breed than in most others. Bacon, sausage, fatty table scraps, and high-fat treat brands should be avoided. This is one of the more medically significant breed-specific dietary restrictions." },
-    { "q": "How often do Mini Schnauzers need grooming?", "a": "Professional grooming every 6–8 weeks, plus weekly home brushing of the beard, eyebrows, and leg furnishings. The wiry coat grows continuously and doesn't self-maintain. Many owners learn basic clipping to reduce professional grooming frequency, but can't fully replace it." },
-    { "q": "Are Miniature Schnauzers good apartment dogs?", "a": "Conditionally yes — they're the right size and adapt well to smaller spaces. The caveat is barking: Mini Schnauzers are alert dogs that vocalize freely, which can be a neighbor problem in thin-walled apartments. Training 'quiet' early and providing adequate mental stimulation reduces but doesn't eliminate this." }
+    {
+      "q": "Are Miniature Schnauzers hypoallergenic?",
+      "a": "They're often listed that way, and they are a better choice than shedding breeds for many allergy sufferers — low shedding reduces airborne dander. But no dog is fully hypoallergenic; all dogs produce dander to some degree. Mini Schnauzers are among the better small breed options for households with mild dog allergies."
+    },
+    {
+      "q": "Why can't Mini Schnauzers eat fatty food?",
+      "a": "Mini Schnauzers have a breed predisposition to hyperlipidemia — elevated blood fats. High-fat food triggers pancreatitis (painful, expensive inflammation of the pancreas) more readily in this breed than in most others. Bacon, sausage, fatty table scraps, and high-fat treat brands should be avoided. This is one of the more medically significant breed-specific dietary restrictions."
+    },
+    {
+      "q": "How often do Mini Schnauzers need grooming?",
+      "a": "Professional grooming every 6–8 weeks, plus weekly home brushing of the beard, eyebrows, and leg furnishings. The wiry coat grows continuously and doesn't self-maintain. Many owners learn basic clipping to reduce professional grooming frequency, but can't fully replace it."
+    },
+    {
+      "q": "Are Miniature Schnauzers good apartment dogs?",
+      "a": "Conditionally yes — they're the right size and adapt well to smaller spaces. The caveat is barking: Mini Schnauzers are alert dogs that vocalize freely, which can be a neighbor problem in thin-walled apartments. Training 'quiet' early and providing adequate mental stimulation reduces but doesn't eliminate this."
+    }
   ],
-
   "related_breeds": [
-    {"name": "West Highland White Terrier", "slug": "west-highland-white-terrier", "note": "Similar size and terrier personality, different coat and health profile"},
-    {"name": "Standard Schnauzer", "slug": "standard-schnauzer", "note": "Larger version, more working drive, same wiry coat"},
-    {"name": "Yorkshire Terrier", "slug": "yorkshire-terrier", "note": "Smaller, longer coat, more delicate"},
-    {"name": "Cairn Terrier", "slug": "cairn-terrier", "note": "Similar terrier energy, rougher coat, slightly more stubborn"}
+    {
+      "name": "West Highland White Terrier",
+      "slug": "west-highland-white-terrier",
+      "note": "Similar size and terrier personality, different coat and health profile"
+    },
+    {
+      "name": "Standard Schnauzer",
+      "slug": "standard-schnauzer",
+      "note": "Larger version, more working drive, same wiry coat"
+    },
+    {
+      "name": "Yorkshire Terrier",
+      "slug": "yorkshire-terrier",
+      "note": "Smaller, longer coat, more delicate"
+    },
+    {
+      "name": "Cairn Terrier",
+      "slug": "cairn-terrier",
+      "note": "Similar terrier energy, rougher coat, slightly more stubborn"
+    }
   ]
 }

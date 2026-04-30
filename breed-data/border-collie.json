@@ -6,74 +6,104 @@
     "group": "Herding Group",
     "size_category": "Medium Breed",
     "tagline": "The Border Collie is the most intelligent dog breed in existence. That is not an advantage in typical pet ownership — it's a challenge. A bored Border Collie invents its own work, and what it invents is never what you wanted.",
-    "tags": ["herding-group", "medium-breed", "intelligent", "high-energy", "herding", "dog-sports", "dog-breeds"],
+    "tags": [
+      "herding-group",
+      "medium-breed",
+      "intelligent",
+      "high-energy",
+      "herding",
+      "dog-sports",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Border Collies are the world's most intelligent dog breed — which means they need more mental stimulation than almost any other breed, are prone to obsessive behaviors without it, and are fundamentally not typical pets.",
     "meta_description": "Border Collie breed guide: extreme intelligence, obsessive behaviors, CEA eye anomaly, MDR1 drug sensitivity, exercise and mental stimulation requirements, and whether a Border Collie fits your household."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "30–55 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–15 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "90–120+ min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Easy (but demanding)" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good with outlet" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "30–55 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "90–120+ min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy (but demanding)"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good with outlet"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Border_Collie_600.jpg/250px-Border_Collie_600.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_9c1274b3-2b43-4534-b440-e6f58dab74f5.png?v=1777526272",
       "alt": "Border Collie"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Border Collie?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Border Collie was developed along the border of England and Scotland for sheepherding — specifically for a style of herding that required a dog to work independently over long distances, responding to whistle and hand commands to control sheep with minimal handler input. The selective pressure was intense: only dogs with extraordinary intelligence, focus, and physical endurance were useful for this work. The result is the most cognitively capable domestic dog breed, with herding instincts so strong that Border Collies raised as pets will attempt to herd cars, children, other pets, and anything else that moves.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Two coat varieties: rough (medium-length, flowing) and smooth (shorter, close-fitting). Both are double-coated. Colors include the classic black and white, but also blue merle, red, tri-color, and many others.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">One health note with real clinical implications: Border Collies (and many herding breeds) frequently carry the MDR1/ABCB1 gene mutation that makes certain common medications toxic at normal doses. Your vet needs to know your dog's MDR1 status before prescribing ivermectin, certain chemotherapy drugs, and other medications. This is a significant medical consideration, not a minor footnote.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Border Collies Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Athletic, lean, and built for endurance rather than power. 30–55 lbs, 18–22 inches. The characteristic \"herding eye\" — the intense, focused gaze a Border Collie uses to control livestock — is one of the most distinctive features of the breed. When a Border Collie locks onto something, the focus is complete and the posture drops into a characteristic crouch.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The rough coat needs regular brushing; the smooth coat needs less but still sheds. Moderate shedding year-round, heavier during seasonal coat blows. The coat should never be shaved — it functions as a thermoregulation system.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Border Collies are supremely responsive, sensitive dogs with extraordinary problem-solving ability. They learn commands in repetitions that most dogs require many sessions to acquire, generalize learning to new contexts, and are capable of understanding hundreds of individual object names and concepts. This cognitive capability is genuine and documented — it also means that a bored Border Collie has more cognitive resources to apply to finding trouble than almost any other breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The obsessive tendency is the temperament challenge that most commonly creates problems. Without adequate mental stimulation, Border Collies develop compulsive behaviors: obsessive ball-fetching (to the point of refusing to eat or rest), shadow and light chasing, spinning, staring at walls, pacing. These are not training failures — they are what happens when a brain built for continuous complex work is given nothing to do.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With family: affectionate, loyal, attuned. Border Collies bond closely and are sensitive to their owners' emotional states. They can be excellent family dogs with appropriate exercise and mental engagement — particularly with active families who participate in dog sports or outdoor activities.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Border Collie",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">\"Most intelligent dog breed\" sounds like an unambiguous positive. It isn't. Intelligence in a dog means processing more information, faster, and applying it — which is exactly what you want in a herding dog managing hundreds of sheep. In a house with a family that goes to work and comes home tired, that intelligence becomes a problem generator. The dog invents things to do, and what dogs invent is rarely what their owners would choose.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The people who should own Border Collies are people who will genuinely provide the outlet. Agility at a competitive level. Real herding work. Frisbee sport. Flyball. Nose work. Daily structured training sessions. If you can honestly say you'll do those things consistently, a Border Collie will be one of the most rewarding dogs you've ever had — the learning ability and partnership are extraordinary.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Make sure you get a MDR1 DNA test done or confirm from the breeder. This affects veterinary care for the dog's entire life — it needs to be in your vet file from day one. Several common antiparasitic drugs and some antibiotics are toxic to MDR1-affected dogs at doses that are safe for other breeds.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">90–120+ minutes of vigorous daily exercise. Running, hiking, agility, herding, fetch — real activity, not casual walking. Physical exercise alone isn't sufficient; it addresses the physical outlet but not the cognitive need.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Mental Stimulation</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Non-negotiable. Daily training sessions (trick training, obedience, sport-specific training), puzzle toys, nose work, and ideally a structured dog sport. The cognitive engagement is as important as the physical exercise for this breed specifically. A tired Border Collie body with a bored Border Collie brain still develops problem behaviors.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Regular brushing for the rough coat; weekly for the smooth coat. More frequent during seasonal shedding. Never shave. See the <a href=\"/blogs/dog-breeds/border-collie-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Border Collie grooming guide</a> for the full routine.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Border Collies have several genetic health concerns that responsible breeders screen for, including one — MDR1 — that has direct implications for veterinary care throughout the dog's life.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">MDR1 / ABCB1 Drug Sensitivity</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">A mutation in the MDR1 gene causes certain drugs to accumulate to toxic levels in the brain. Affected drugs include ivermectin (common antiparasitic), loperamide (Imodium), several chemotherapy agents, and others. DNA test available. Every Border Collie should be tested, and the result should be in their veterinary file. This is not optional — it affects medication decisions throughout the dog's life.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Collie Eye Anomaly (CEA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">An inherited developmental defect affecting the eye, ranging from mild (no vision impact) to severe (retinal detachment and blindness). DNA test available — responsible breeders test both parents. Affected dogs should not be bred; mildly affected dogs can live normal lives with monitoring.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Present in the breed. OFA clearances from both parents required from responsible breeders.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Epilepsy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Elevated in the breed. Idiopathic epilepsy (genetic, no underlying cause) is managed with anti-seizure medication. Requires lifelong treatment once diagnosed.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Degenerative Myelopathy (DM)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Progressive neurological disease affecting the spinal cord, leading to hind limb weakness and eventually paralysis. DNA test available. DM typically presents in older dogs; DNA testing identifies carriers and affected dogs.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">TNS (Trapped Neutrophil Syndrome)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">An immune system disorder where neutrophils (immune cells) cannot leave the bone marrow. Affected puppies have severely compromised immunity and typically don't survive. DNA test available — eliminates the condition when both parents are tested clear.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> MDR1 DNA test, CEA DNA test, TNS DNA test, DM DNA test, OFA hip clearances for both parents.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$1,800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed, high activity)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Training and dog sport</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,700–$5,300</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,500–$2,900</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/border-collie-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Border Collie first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Border Collie Right for You?",
@@ -92,24 +122,45 @@
         "Anyone who won't get the MDR1 test done and inform their vet"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Border Collie",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,800 from reputable breeders. Required clearances: CEA DNA test, MDR1 DNA test, TNS DNA test, DM DNA test, OFA hip for both parents. The Border Collie Society of America maintains a breeder referral. Specifically ask whether the parents are MDR1 tested — this is critical medical information.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Border Collie rescue organizations are active and frequently have dogs needing homes — most surrendered due to exercise and mental stimulation demands that owners underestimated. Know what you're committing to before adopting a rescue Border Collie; their intelligence means established problem behaviors require patient, consistent work to address.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Border Collie comes home, complete the <a href=\"/blogs/dog-breeds/border-collie-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Border Collie puppy checklist</a> — MDR1 test documentation, dog sport club enrollment, and mental enrichment plan are critical pre-arrival items.</p>"
     }
   },
-
   "faq": [
-    { "q": "Why is the MDR1 gene mutation important for Border Collies?", "a": "The MDR1/ABCB1 mutation causes certain drugs to accumulate to toxic levels in the brain because the normal pump that clears these drugs doesn't function correctly. Affected dogs can have severe neurological reactions to ivermectin (a common antiparasitic in many heartworm preventives), loperamide (Imodium), certain chemotherapy agents, and other drugs. A DNA test identifies whether a dog is clear, a carrier, or affected. This result should be on file with your vet from day one — it directly affects which medications are safe to prescribe." },
-    { "q": "Are Border Collies really the smartest dog breed?", "a": "By most measures of working intelligence — ability to learn commands quickly, generalize learning, and solve problems — yes. Stanley Coren's research ranking breeds by working and obedience intelligence consistently places Border Collies first. Individual Border Collies have been documented understanding hundreds of object names. The important context: this intelligence requires engagement and outlet. A Border Collie with nothing to do applies that intelligence to creating problems." },
-    { "q": "What are the compulsive behaviors Border Collies develop?", "a": "Obsessive ball-fixation (refusing to eat, rest, or engage with anything else), shadow and light chasing, spinning, staring at specific spots, and intense herding of anything that moves. These behaviors develop when the breed's cognitive and working needs aren't met. They can be difficult to eliminate once established — prevention through adequate mental stimulation and structured work from puppyhood is far more effective than attempting to address established compulsive behaviors." },
-    { "q": "Do Border Collies herd children?", "a": "They can and do attempt to herd children, particularly running children. The herding eye (intense focused stare) and nipping at heels or circling are herding instinct, not aggression. With appropriate training and a child who understands how to interact with the dog, it's manageable. It requires consistent work from puppyhood, and the instinct is never fully eliminated — it's redirected." }
+    {
+      "q": "Why is the MDR1 gene mutation important for Border Collies?",
+      "a": "The MDR1/ABCB1 mutation causes certain drugs to accumulate to toxic levels in the brain because the normal pump that clears these drugs doesn't function correctly. Affected dogs can have severe neurological reactions to ivermectin (a common antiparasitic in many heartworm preventives), loperamide (Imodium), certain chemotherapy agents, and other drugs. A DNA test identifies whether a dog is clear, a carrier, or affected. This result should be on file with your vet from day one — it directly affects which medications are safe to prescribe."
+    },
+    {
+      "q": "Are Border Collies really the smartest dog breed?",
+      "a": "By most measures of working intelligence — ability to learn commands quickly, generalize learning, and solve problems — yes. Stanley Coren's research ranking breeds by working and obedience intelligence consistently places Border Collies first. Individual Border Collies have been documented understanding hundreds of object names. The important context: this intelligence requires engagement and outlet. A Border Collie with nothing to do applies that intelligence to creating problems."
+    },
+    {
+      "q": "What are the compulsive behaviors Border Collies develop?",
+      "a": "Obsessive ball-fixation (refusing to eat, rest, or engage with anything else), shadow and light chasing, spinning, staring at specific spots, and intense herding of anything that moves. These behaviors develop when the breed's cognitive and working needs aren't met. They can be difficult to eliminate once established — prevention through adequate mental stimulation and structured work from puppyhood is far more effective than attempting to address established compulsive behaviors."
+    },
+    {
+      "q": "Do Border Collies herd children?",
+      "a": "They can and do attempt to herd children, particularly running children. The herding eye (intense focused stare) and nipping at heels or circling are herding instinct, not aggression. With appropriate training and a child who understands how to interact with the dog, it's manageable. It requires consistent work from puppyhood, and the instinct is never fully eliminated — it's redirected."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Australian Cattle Dog", "slug": "australian-cattle-dog", "note": "Similarly extreme drive and intelligence, herding work background, different herding style"},
-    {"name": "Belgian Malinois", "slug": "belgian-malinois", "note": "Higher drive, protection/police work, requires working handler"},
-    {"name": "Cardigan Welsh Corgi", "slug": "cardigan-welsh-corgi", "note": "Herding group, more manageable as a pet, same herding instincts at smaller scale"}
+    {
+      "name": "Australian Cattle Dog",
+      "slug": "australian-cattle-dog",
+      "note": "Similarly extreme drive and intelligence, herding work background, different herding style"
+    },
+    {
+      "name": "Belgian Malinois",
+      "slug": "belgian-malinois",
+      "note": "Higher drive, protection/police work, requires working handler"
+    },
+    {
+      "name": "Cardigan Welsh Corgi",
+      "slug": "cardigan-welsh-corgi",
+      "note": "Herding group, more manageable as a pet, same herding instincts at smaller scale"
+    }
   ]
 }

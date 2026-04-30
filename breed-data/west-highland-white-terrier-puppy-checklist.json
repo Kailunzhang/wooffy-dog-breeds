@@ -5,20 +5,25 @@
     "shopify_handle": "west-highland-white-terrier-puppy-checklist",
     "group": "West Highland White Terrier",
     "size_category": "Guide",
-    "tags": ["westie", "puppy", "checklist", "wpf-awareness", "atopic-dermatitis", "grooming"],
+    "tags": [
+      "westie",
+      "puppy",
+      "checklist",
+      "wpf-awareness",
+      "atopic-dermatitis",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Everything you need before your Westie comes home — including pet insurance enrolled before the first vet visit, WPF warning signs committed to memory, and atopic dermatitis monitoring established with your vet.",
     "meta_description": "West Highland White Terrier puppy checklist: insurance enrollment priority, WPF warning signs to know, atopic dermatitis monitoring setup, grooming schedule planning, and first week priorities."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/West_Highland_White_Terrier_Krakow.jpg/330px-West_Highland_White_Terrier_Krakow.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_6e148bc4-03a3-4c0d-8238-7ca1a4c504a2.png?v=1777532993",
       "alt": "West Highland White Terrier puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Socialization Window (8–16 Weeks)</h3><p>Westies are confident and curious by nature — the socialization window is about ensuring that confidence is applied positively across a wide range of experiences:</p><ul><li>Introduce to diverse people types in positive, treat-paired contexts</li><li>Expose to urban environments, vehicles, different surfaces and sounds</li><li>Introduce to friendly, vaccinated dogs in safe settings — puppy class is ideal</li><li>Introduce to other animals carefully if you have cats or small pets — the terrier prey drive is real and needs early management</li></ul><h3>Priority Training Commands</h3><ul><li><strong>Sit and Stay:</strong> Foundation commands — establish immediately</li><li><strong>Leave it:</strong> Critical for a terrier with prey drive — practice regularly</li><li><strong>Come:</strong> Recall training should be consistent from puppyhood — Westies will chase, and reliable recall in low-distraction environments is achievable; off-leash in open areas near wildlife is not</li><li><strong>Loose-leash walking:</strong> Westies are surprisingly strong for their size — address pulling from the first walk</li></ul><h3>Small Dog Ground Rules</h3><p>Westies are sturdy small dogs, but certain habits matter more at their size:</p><ul><li>No jumping on furniture without invitation — establish this from the start if it's a preference</li><li>No resource guarding allowed — address any food or toy guarding behavior immediately with professional guidance; this is easier to correct in a puppy than an adult</li><li>Terrier stubbornness is real — keep training sessions short (5–8 minutes), engaging, and positive. Drilling produces the terrier stonewall.</li></ul>"
     }
   },
-
   "faq": [
     {
       "q": "What is the single most important thing to do before bringing home a Westie puppy?",

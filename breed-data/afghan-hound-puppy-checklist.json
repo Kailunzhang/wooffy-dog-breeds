@@ -5,7 +5,11 @@
     "shopify_handle": "afghan-hound-puppy-checklist",
     "group": "Afghan Hound",
     "size_category": "Guide",
-    "tags": ["afghan-hound", "puppy", "checklist"],
+    "tags": [
+      "afghan-hound",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Everything you need before your Afghan Hound puppy comes home — with special emphasis on fencing requirements, anesthesia sensitivity documentation, grooming tool investment, and insurance enrollment.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Afghan_dog_-_cropped.jpg/330px-Afghan_dog_-_cropped.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_8c7c0795-3e3e-4587-8ab5-57b432ae6433.png?v=1777525294",
       "alt": "Afghan Hound puppy checklist"
     }
   },

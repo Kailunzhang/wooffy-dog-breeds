@@ -6,74 +6,103 @@
     "group": "Hound Group",
     "size_category": "Large Breed",
     "tagline": "A laid-back, deeply friendly hound at home — and a dog whose nose takes over completely outside. The baying voice is not an occasional quirk; it's a defining characteristic.",
-    "tags": ["hound-group", "large-breed", "scent-hound", "coonhound", "hunting-dog", "dog-breeds"],
+    "tags": [
+      "hound-group",
+      "large-breed",
+      "scent-hound",
+      "coonhound",
+      "hunting-dog",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Black and Tan Coonhounds are easy-going, affectionate dogs at home with low grooming needs. In the field — or following an interesting scent on a walk — the nose takes over entirely. The baying voice carries long distances and is not negotiable. Ear cleaning is the single most important routine care task.",
     "meta_description": "Black and Tan Coonhound breed guide: nose-driven temperament, the baying voice reality, ear infection prevention, training challenges, and what a scent hound actually needs at home."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "65–110 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–12 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low (ears critical)" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With patience" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "65–110 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–12 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low (ears critical)"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "With patience"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Black_and_Tan_Coonhound.jpg/250px-Black_and_Tan_Coonhound.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2106b5ed-92bd-4537-980d-db1585fbe023.png?v=1777526105",
       "alt": "Black and Tan Coonhound"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Black and Tan Coonhound?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Black and Tan Coonhound is an American breed developed from Bloodhound and Foxhound crosses, purpose-built for trailing game — primarily raccoon — through the night woods of the American South. The breed is recognized by the deep, melodic baying voice that carries across distances, the long hanging ears that help funnel scent, and a nose that operates with remarkable focus and independence once locked on a trail.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">At home, Black and Tan Coonhounds are among the more relaxed hound breeds. They are affectionate, friendly with strangers and children, and genuinely laid-back when their exercise needs are met. They are not anxious or demanding dogs indoors. The challenge is the gap between indoor personality and outdoor behavior — the same dog that lounges calmly on the couch will ignore every recall command the moment a scent engages the nose.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The voice is not incidental — it is bred-in and pronounced. A Black and Tan Coonhound will bay when excited, when following scent, when bored, and when alerting to activity outside. Neighbors will hear it. This is a defining characteristic of the breed, not a training problem to be solved.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Black and Tan Coonhounds Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Large, well-muscled, and athletic — males typically weigh 65–110 lbs and stand 23–27 inches tall. The coat is short, dense, and glossy black with rich tan markings above the eyes, on the muzzle, chest, legs, and under the tail — the classic black-and-tan pattern that gives the breed its name.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The most distinctive physical features are the long, pendulous ears that reach well past the nose when pulled forward — a functional trait that helps funnel scent toward the nose. The eyes are hazel to dark brown, with a soulful, slightly drooping expression. The deep chest and strong hindquarters reflect athletic capability. The short coat sheds moderately and is very easy to maintain.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">At home: calm, affectionate, and sociable. Black and Tans are pack-oriented dogs — they were bred to work with other hounds and they generally do well with other dogs. They are friendly with strangers, patient with children, and not prone to aggression or dominance issues. With enough daily exercise, they settle well indoors and are not destructive.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Outside and on a scent: an entirely different dog. The nose is the dominant sense, and when engaged, everything else falls away. Recall in an off-leash, uncontrolled environment is unreliable at best. This is not a training failure — it is the fundamental design of a scent hound. Off-leash exercise requires a fully enclosed space. The leash is non-negotiable outside of a secure area.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The baying: a deep, resonant bark-howl that is distinctive, carries long distances, and is difficult to train out completely. Black and Tans communicate through their voice. They bay on scent, bay when bored, bay when they hear something interesting. If you live in a noise-sensitive environment — apartment, urban row house, close neighbors — this needs to be a real part of your decision-making.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Black and Tan Coonhound",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Black and Tans are genuinely lovable dogs — friendly, warm, easy-going at home, and not particularly demanding in terms of training expectations once you accept what they are. The trap is expecting them to be like a retriever with a better nose. They're not. They are purpose-built scenthounds, and that purpose shapes every outdoor interaction they have.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The voice is the thing most owners underestimate. You can work on it — more exercise reduces boredom baying, mental stimulation helps — but you will not eliminate it. If you want a quiet dog, look elsewhere.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The ear cleaning routine is not optional and not occasional. Chronic ear infections are the primary ongoing health management task with this breed. Weekly ear checks, cleaning when warranted, and fast action when infection starts will save your dog significant discomfort and save you money over the dog's life.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of daily exercise. On-leash walks for the regular daily routine; a securely fenced yard for free running. Nose work and tracking games provide mental enrichment that tires this breed more effectively than physical exercise alone — a 20-minute sniff-and-search session has the equivalent effect of a much longer plain walk. Never off-leash in open, unfenced areas.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The short coat needs almost nothing — a weekly once-over with a rubber grooming mitt or hound glove removes loose hair and keeps the coat gleaming. The critical grooming task is ear care. See the <a href=\"/blogs/dog-breeds/black-and-tan-coonhound-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Black and Tan Coonhound grooming guide</a> for the complete ear cleaning protocol.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Intelligent but scent-motivated. Training sessions compete with the environment — every interesting smell is more rewarding than most treats. Keep sessions short, use very high-value rewards (real meat, not kibble), train in low-distraction environments, and accept that reliable off-leash recall in open areas is not achievable with this breed. Focus on what is achievable: sit, down, stay, leash manners, and a solid recall within a fenced area.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Black and Tan Coonhounds are generally healthy, with a 10–12 year lifespan typical for a large breed. The dominant health concern is ear infections — a function of the long pendulous ears that are the breed's most distinctive feature.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Ear Infections</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Chronic ear infections are the most common health issue in the breed. The long pendant ears reduce airflow, creating warm, moist conditions where bacteria and yeast thrive. Weekly ear checks and cleaning when warranted prevent most infections; untreated infections become painful, entrenched, and expensive. Dogs that swim are especially prone.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip &amp; Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Joint malformation causing pain and arthritis. OFA screening available. Managed with medication, weight control, and in severe cases surgery. Ask breeders for OFA clearances.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Ectropion</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Outward rolling of the lower eyelid — common in hound breeds with loose facial skin. Causes eye irritation and discharge. Mild cases managed with eye drops; severe cases may require surgery.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip and elbow clearances. CAER eye exam is recommended.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,400–$4,300</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,600–$2,800</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/black-and-tan-coonhound-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Black and Tan Coonhound first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Black and Tan Coonhound Right for You?",
@@ -92,25 +121,50 @@
         "Households where the dog would be left alone for long periods — boredom baying becomes a problem"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Black and Tan Coonhound",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$600–$1,200 from reputable breeders. This is not an expensive breed to purchase. The American Black and Tan Coonhound Club maintains a breeder referral list. Look for OFA hip and elbow clearances and CAER eye exam documentation.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Coonhound rescues exist across the US — these breeds are sometimes surrendered when owners underestimate the baying or the scent drive. Rescue adults are an excellent option for experienced dog owners who want a known temperament.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your dog comes home, complete the <a href=\"/blogs/dog-breeds/black-and-tan-coonhound-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Black and Tan Coonhound puppy checklist</a> — fencing, ear-cleaning supplies, and an understanding of the exercise requirements are the key pre-arrival priorities.</p>"
     }
   },
-
   "faq": [
-    { "q": "Do Black and Tan Coonhounds bark a lot?", "a": "They bay — a deep, resonant howl-bark that is distinct from a typical dog bark and significantly louder. They bay on scent, when bored, when alerting to sounds outside, and when excited. This is a bred-in characteristic, not a behavior problem. Management (adequate exercise, mental enrichment, not leaving the dog unattended outdoors for long) reduces boredom-baying, but you will not eliminate the voice." },
-    { "q": "Can a Black and Tan Coonhound be off-leash?", "a": "Only in a fully enclosed, secure area. Outside of a fence, the scent drive overrides training. A Black and Tan that has picked up an interesting trail will follow it, deaf to recall commands. This is not a training failure — it is how the breed is built. The leash is non-negotiable in open areas." },
-    { "q": "How do I prevent ear infections in a Black and Tan Coonhound?", "a": "Weekly ear checks and cleaning when warranted. Inspect the ear canal for redness, odor, or brown discharge. Use a vet-approved ear cleaner on a cotton ball — do not insert anything into the ear canal. Dry ears thoroughly after swimming or bathing. Don't wait for visible infection signs before cleaning; the prevention routine stops most infections before they start." },
-    { "q": "Are Black and Tan Coonhounds good family dogs?", "a": "Yes — they are genuinely friendly, patient with children, and social with people and other dogs. They are not aggressive or dominant. The management requirements are the nose (containment) and the voice (neighbor considerations), not temperament." }
+    {
+      "q": "Do Black and Tan Coonhounds bark a lot?",
+      "a": "They bay — a deep, resonant howl-bark that is distinct from a typical dog bark and significantly louder. They bay on scent, when bored, when alerting to sounds outside, and when excited. This is a bred-in characteristic, not a behavior problem. Management (adequate exercise, mental enrichment, not leaving the dog unattended outdoors for long) reduces boredom-baying, but you will not eliminate the voice."
+    },
+    {
+      "q": "Can a Black and Tan Coonhound be off-leash?",
+      "a": "Only in a fully enclosed, secure area. Outside of a fence, the scent drive overrides training. A Black and Tan that has picked up an interesting trail will follow it, deaf to recall commands. This is not a training failure — it is how the breed is built. The leash is non-negotiable in open areas."
+    },
+    {
+      "q": "How do I prevent ear infections in a Black and Tan Coonhound?",
+      "a": "Weekly ear checks and cleaning when warranted. Inspect the ear canal for redness, odor, or brown discharge. Use a vet-approved ear cleaner on a cotton ball — do not insert anything into the ear canal. Dry ears thoroughly after swimming or bathing. Don't wait for visible infection signs before cleaning; the prevention routine stops most infections before they start."
+    },
+    {
+      "q": "Are Black and Tan Coonhounds good family dogs?",
+      "a": "Yes — they are genuinely friendly, patient with children, and social with people and other dogs. They are not aggressive or dominant. The management requirements are the nose (containment) and the voice (neighbor considerations), not temperament."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Bluetick Coonhound", "slug": "bluetick-coonhound", "note": "Similar coonhound type, slightly different coat pattern, comparable temperament"},
-    {"name": "Redbone Coonhound", "slug": "redbone-coonhound", "note": "Solid red coat, similar scent hound character and baying voice"},
-    {"name": "Bloodhound", "slug": "bloodhound", "note": "Ancestral relative — larger, more extreme in scenting ability and loose skin"},
-    {"name": "Beagle", "slug": "beagle", "note": "Smaller scent hound, similar nose-driven nature, more manageable size for casual owners"}
+    {
+      "name": "Bluetick Coonhound",
+      "slug": "bluetick-coonhound",
+      "note": "Similar coonhound type, slightly different coat pattern, comparable temperament"
+    },
+    {
+      "name": "Redbone Coonhound",
+      "slug": "redbone-coonhound",
+      "note": "Solid red coat, similar scent hound character and baying voice"
+    },
+    {
+      "name": "Bloodhound",
+      "slug": "bloodhound",
+      "note": "Ancestral relative — larger, more extreme in scenting ability and loose skin"
+    },
+    {
+      "name": "Beagle",
+      "slug": "beagle",
+      "note": "Smaller scent hound, similar nose-driven nature, more manageable size for casual owners"
+    }
   ]
 }

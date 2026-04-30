@@ -5,20 +5,25 @@
     "shopify_handle": "english-cocker-spaniel-first-year-costs",
     "group": "English Cocker Spaniel",
     "size_category": "Guide",
-    "tags": ["english-cocker-spaniel", "cost", "budget", "first-year", "familial-nephropathy", "ear-infections"],
+    "tags": [
+      "english-cocker-spaniel",
+      "cost",
+      "budget",
+      "first-year",
+      "familial-nephropathy",
+      "ear-infections"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "English Cocker Spaniel ownership costs $2,800–$5,500 in the first year. Familial Nephropathy DNA testing from the breeder eliminates a serious kidney disease risk. Regular professional grooming and proactive ear care are the ongoing cost factors that distinguish this breed.",
     "meta_description": "English Cocker Spaniel first year costs: puppy price, food, grooming, vet care, insurance, and the Familial Nephropathy DNA test that makes breeder selection financially important."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%22Bill%22_-_Cocker_spaniel_anglais_2.JPG/250px-%22Bill%22_-_Cocker_spaniel_anglais_2.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_a416cf15-853c-44f7-99a3-9fa16f5dbd67.png?v=1777527579",
       "alt": "English Cocker Spaniel first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +41,6 @@
       "html": "<p>With a 12–15 year lifespan, English Cocker Spaniels represent a manageable long-term financial commitment with good preventive care.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog from FN-tested parents, good ear maintenance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$22,000–$38,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Recurring ear infections or other managed conditions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$28,000–$48,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant health events (orthopedic surgery, specialist care)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$35,000–$58,000</td></tr></tbody></table>"
     }
   },
-
   "faq": [
     {
       "q": "What health tests should an English Cocker Spaniel breeder provide?",

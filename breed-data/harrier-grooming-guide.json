@@ -5,20 +5,24 @@
     "shopify_handle": "harrier-grooming-guide",
     "group": "Harrier",
     "size_category": "Guide",
-    "tags": ["harrier", "grooming", "short-coat", "hound", "ear-care"],
+    "tags": [
+      "harrier",
+      "grooming",
+      "short-coat",
+      "hound",
+      "ear-care"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Harrier grooming is minimal — the short, hard coat needs little attention. Ear care and nail maintenance are the primary regular tasks.",
     "meta_description": "Harrier grooming guide: short hound coat care, ear cleaning protocol, nail maintenance, and what weekly grooming for this low-maintenance breed actually looks like."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Harrier_Hound_-Pedigree_Harrier.jpg/250px-Harrier_Hound_-Pedigree_Harrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_f6a901df-09b6-441f-9352-85aec909c7e0.png?v=1777528415",
       "alt": "Harrier grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Harrier Coat",
@@ -36,7 +40,6 @@
       "html": "<p><strong>Nails:</strong> Trim monthly. Active dogs that run on hard surfaces wear nails down naturally; less active dogs need more frequent trimming. Clicking on hard floors is the signal to trim. Use standard dog nail clippers or a grinder — Harrier nails are not especially thick and are straightforward to maintain.</p><p><strong>Dental:</strong> Brush teeth 2–3 times weekly minimum. Start a dental routine early so the dog accepts it calmly as an adult. Regular home brushing is the most effective and affordable prevention for dental disease, reducing the frequency of professional cleanings needed.</p><p><strong>Eyes:</strong> Wipe the eye corners weekly with a damp cloth to remove any discharge. The slight hound eye droop common in the breed can accumulate discharge in the inner corner.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does a Harrier need grooming?",

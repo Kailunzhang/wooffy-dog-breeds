@@ -5,20 +5,25 @@
     "shopify_handle": "american-foxhound-puppy-checklist",
     "group": "American Foxhound",
     "size_category": "Guide",
-    "tags": ["american-foxhound", "puppy", "checklist", "hound", "fence", "exercise"],
+    "tags": [
+      "american-foxhound",
+      "puppy",
+      "checklist",
+      "hound",
+      "fence",
+      "exercise"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Everything you need before your American Foxhound comes home — including the fence check, exercise plan, and neighbor conversation you need to have before the baying starts.",
     "meta_description": "American Foxhound puppy checklist: fencing requirements, exercise planning, socialization for a pack-bred hound, and essential gear for a large active scent hound."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/AmericanFoxhound2.jpg/250px-AmericanFoxhound2.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_cff042db-8d3e-4c21-8ec5-121761411a34.png?v=1777525452",
       "alt": "American Foxhound puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Training: Work With the Nose, Not Against It</h3><p>American Foxhounds are intelligent and food-motivated — training basic commands is achievable. What isn't achievable is a dog that reliably ignores a scent trail when outdoors. Train for reliable behavior indoors and in controlled settings; manage the outdoors through containment.</p><ul><li>Sit, down, stay, come — all trainable with consistent positive reinforcement</li><li>Loose-leash walking takes patient work — start early and don't allow pulling to become habitual</li><li>Never rely on recall in unfenced outdoor areas — containment is the only reliable solution</li><li>Consider scent work, tracking, or nose work activities as constructive outlets for the scent drive</li></ul><h3>The Baying Voice: Management, Not Training</h3><p>Baying is a breed characteristic, not a behavior problem. It can be somewhat reduced through ensuring the dog gets adequate exercise (bored or under-exercised Foxhounds bay much more) and not reinforcing baying with attention. It cannot be eliminated through training. If you have neighbors who will hear the dog:</p><ul><li>Have an honest conversation with neighbors before the dog arrives</li><li>Ensure exercise happens at times when baying is least disruptive</li><li>Avoid leaving the dog outdoors unsupervised in situations where baying will be prolonged</li></ul><h3>Exercise: Start a Realistic Routine From Day One</h3><p>Puppy exercise rules apply — 5 minutes per month of age for structured exercise — but free yard play and exploration are appropriate and important. Build toward the 90+ minute daily requirement gradually as the dog grows. By 12 months, a Foxhound that doesn't get significant daily exercise is a frustrated, noisy, potentially destructive dog. Getting the exercise habit established from the beginning is much easier than correcting the consequences of under-exercise.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How do I get an American Foxhound to stop baying?",

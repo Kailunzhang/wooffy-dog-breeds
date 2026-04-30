@@ -5,20 +5,25 @@
     "shopify_handle": "samoyed-grooming-guide",
     "group": "Samoyed",
     "size_category": "Guide",
-    "tags": ["samoyed", "grooming", "double-coat", "white-coat", "shedding", "coat-blow"],
+    "tags": [
+      "samoyed",
+      "grooming",
+      "double-coat",
+      "white-coat",
+      "shedding",
+      "coat-blow"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "The Samoyed's white double coat is breathtaking and demanding. The right tools, a consistent routine, and an absolute rule against shaving keep it healthy and your home manageable.",
     "meta_description": "Samoyed grooming guide: tools for a white double coat, coat blow management, bathing and drying a thick double coat, and why you should never shave a Samoyed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Samojed00.jpg/330px-Samojed00.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_9bb69e00-12ed-4b24-9917-a0c7ff9d4428.png?v=1777531204",
       "alt": "Samoyed grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Samoyed Coat",
@@ -36,7 +41,6 @@
       "html": "<p>The Samoyed's white coat has a natural dirt-repelling quality when maintained properly — dried mud brushes out easily, and the coat tends to return to white without significant staining in most conditions. That said, some management is needed.</p><h3>Tear Staining</h3><p>Rust-colored tear staining around the inner eye corners is common in white dogs. Keep the area around the eyes dry by gently wiping with a damp cloth daily. Specific tear stain products are available but address the symptom, not the cause — if staining is heavy, have a vet check for eye irritation, blocked tear ducts, or dietary factors.</p><h3>Beard and Muzzle Staining</h3><p>Food and water staining around the muzzle area can be managed by wiping after meals and using a stainless steel or ceramic bowl rather than plastic, which tends to harbor bacteria that contribute to staining.</p><h3>Handling and Desensitization</h3><p>Start handling from the first day your puppy comes home. Samoyeds that are brushed, bathed, and handled consistently from puppyhood are manageable adults. A 50-lb Samoyed that has never been groomed is a significant physical challenge to handle. Work in short sessions with treats, building the association between grooming and positive outcomes. Every session is also a handling exercise.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often do Samoyeds blow their coat?",

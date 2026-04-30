@@ -5,20 +5,24 @@
     "shopify_handle": "australian-shepherd-grooming-guide",
     "group": "Australian Shepherd",
     "size_category": "Guide",
-    "tags": ["australian-shepherd", "grooming", "herding-group", "double-coat", "shedding"],
+    "tags": [
+      "australian-shepherd",
+      "grooming",
+      "herding-group",
+      "double-coat",
+      "shedding"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Australian Shepherd grooming means brushing 2–3 times per week year-round and daily during coat blows. The double coat requires consistency — or it becomes a matted, shed-everywhere problem.",
     "meta_description": "Australian Shepherd grooming guide: brushing routine for the double coat, seasonal shedding management, professional deshedding, and keeping the coat healthy without trimming."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Australian_Shepherd_red_bi.JPG/330px-Australian_Shepherd_red_bi.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_69ce4fac-1bcf-40b3-b533-83b3e964f661.png?v=1777525718",
       "alt": "Australian Shepherd grooming"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
@@ -36,7 +40,6 @@
       "html": "<p>One of the most damaging mistakes Aussie owners make is shaving the coat in summer to keep the dog cool. This is a myth that causes real harm.</p><h3>Why Shaving Is Harmful</h3><ul><li>The double coat insulates in both directions — it keeps cold out in winter and reflects heat while allowing air circulation in summer. Shaving removes this natural thermoregulation.</li><li>After shaving, the coat may grow back with an altered texture — softer, cottony undercoat that mats more easily. This is called post-clipping alopecia and can be permanent in some dogs.</li><li>Shaved coats offer no UV protection — Aussies can actually sunburn on exposed skin.</li></ul><h3>The Right Way to Keep an Aussie Cool</h3><ul><li>Regular brushing removes the dead undercoat, which is what actually traps heat</li><li>Professional deshedding treatments before hot months</li><li>Fresh water, shade, and exercise during cooler morning/evening hours</li><li>Cooling mats for dogs that overheat</li></ul><p>If you're spending time managing excessive shedding, that's a sign brushing frequency needs to increase — not that the coat should be cut.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often should I brush my Australian Shepherd?",

@@ -6,74 +6,104 @@
     "group": "Hound Group",
     "size_category": "Large Breed",
     "tagline": "The Afghan Hound is one of the oldest and most striking breeds — cat-like in independence, aloof with strangers, and capable of 40 mph. They are emphatically not a breed for off-leash areas, and their coat is a serious grooming commitment.",
-    "tags": ["hound-group", "large-breed", "sighthound", "aloof", "long-coat", "ancient-breed", "dog-breeds"],
+    "tags": [
+      "hound-group",
+      "large-breed",
+      "sighthound",
+      "aloof",
+      "long-coat",
+      "ancient-breed",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "The Afghan Hound is breathtaking and genuinely challenging. Cat-like independence, extreme prey drive that makes off-leash life unsafe at any speed, anesthesia sensitivity, and a coat requiring hours of maintenance each week — this is a breed for dedicated owners only.",
     "meta_description": "Afghan Hound breed guide: sighthound independence, 40mph speed and off-leash danger, anesthesia sensitivity warning, coat maintenance requirements, hip dysplasia and cataract risks, and realistic ownership expectations."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "50–60 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–18 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "45–60 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Very High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Older children" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "50–60 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–18 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "45–60 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Very High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Older children"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Afghan_dog_-_cropped.jpg/330px-Afghan_dog_-_cropped.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_479a1968-d14b-4b6b-8c7e-22bb6abae860.png?v=1777525282",
       "alt": "Afghan Hound"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is an Afghan Hound?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Afghan Hound is one of the oldest dog breeds in existence — a sighthound developed on the plains and mountains of Afghanistan to hunt large game by sight and speed. The long, flowing, silky coat developed as protection against the harsh mountain climate. Today the breed is kept as a companion and show dog, but the instincts remain entirely intact.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Afghans are often described as cat-like: independent, aloof with strangers, fastidious, and capable of ignoring commands that don't align with their current interests. The comparison is apt. They are not Labrador Retrievers. They do not perform for approval. They engage on their terms.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Two things define Afghan Hound ownership in practical terms: the coat, and the fence. The long silky coat requires significant regular maintenance — bathing and full brushing sessions take hours, not minutes. And Afghans cannot go off-leash in unfenced areas. At 40 mph with a prey drive that has been refined over millennia, a loose Afghan on a scent is a dog you will not catch.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Afghan Hounds Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Tall, elegant, and distinctly aristocratic in bearing. Males stand 27 inches and weigh around 60 lbs; females slightly smaller at 25 inches and 50 lbs. The long, flowing coat comes in virtually all colors — cream, black, red, blue, brindle, and combinations thereof. The saddle area (back) typically has shorter, closer-lying hair.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The long, silky topknot on the head, the fall of coat over the face, and the distinctive hip bones (which are set high and wide, a breed characteristic) give the Afghan an unmistakable silhouette. The tail ends in a ring curl. The entire structure is built for speed and agility over varied terrain — beneath the coat is a lean, powerful, deeply-keel-chested athlete.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Aloof, independent, and selectively affectionate. Afghan Hounds bond to their household but don't broadcast that affection to strangers. They are not unfriendly — they are reserved. The distinction matters: a well-socialized Afghan ignores strangers rather than reacting to them.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With their own family: many Afghans are genuinely devoted and physically affectionate with the people they trust. This is a relationship earned over time, not handed out freely. The cat-like quality means they'll come to you when they want contact rather than being constantly soliciting attention.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Training: genuinely challenging. Afghans are intelligent but not interested in performing for their owners' satisfaction. They will do things for their own reasons. Positive training with high-value rewards can achieve results, but reliable obedience in the presence of distractions — particularly prey animals — is not realistic for this breed. Management is the word, not training.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About an Afghan Hound",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">There is no breed quite like an Afghan. The combination of ancient lineage, extraordinary appearance, and that particular brand of independent intelligence is genuinely unique. For owners who understand and appreciate sighthound independence — who find the cat-like quality interesting rather than frustrating — Afghans are remarkable companions.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The coat is the first realistic conversation. A show coat on an Afghan takes hours of work per week — bathing, conditioning, careful drying, and brushing. Some owners choose to keep the coat clipped short or corded, which is significantly more manageable. If you're not prepared for the coat in either form, this is not the breed for you.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The fence and the anesthesia sensitivity are the safety conversations. Afghans off-leash in unfenced areas will run. They're not coming back when called if something is happening. This is not a training failure — it's the breed. And before any surgery, your vet must know this is a sighthound: they metabolize anesthesia differently from most dogs and standard dosing protocols need adjustment.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">45–60 minutes daily in a securely fenced area. Afghans are sprinters, not endurance dogs — they need bursts of full-speed running. A large fenced yard or access to a safely fenced area for running is the ideal setup. Leashed walks alone don't meet this need. Never off-leash in unfenced areas — 40 mph prey drive means the dog is out of sight in seconds.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Extremely high maintenance in full coat — weekly or twice-weekly bathing with conditioner, careful blow-drying, and thorough brushing is required. Mats form quickly in the long coat if maintenance lapses. Many pet owners choose a shorter sporting clip that dramatically reduces grooming time. See the <a href=\"/blogs/dog-breeds/afghan-hound-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Afghan Hound grooming guide</a>.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Positive reinforcement with patience. Accept that reliable recall in open areas is not achievable with this breed — management through fencing and leashing is the strategy. Focus training on household manners and building the relationship rather than attempting competition-level obedience.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Afghan Hounds can live an impressive 12–18 years. The critical safety note is anesthesia sensitivity — this must be communicated to every vet before any procedure.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Anesthesia Sensitivity</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Sighthounds have low body fat and a different liver enzyme metabolism that makes standard anesthetic doses potentially fatal. Any vet treating an Afghan must know this is a sighthound and adjust protocols accordingly. Put this on every vet intake form, every time.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Necrotic Myelopathy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">A breed-specific degenerative spinal cord disease. Progressive weakness beginning in the rear end. No cure; management is supportive. Not common, but specific to this breed.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint. OFA clearances available; ask breeders. Less functionally limiting in lower-exercise dogs, but still significant.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Cataracts</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Hereditary cataracts occur in the breed. CAER eye exams from breeders; regular annual eye checks for owned dogs.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Critical:</strong> Always inform any vet that this is a sighthound — anesthesia dosing must be adjusted. Ask breeders for OFA hip clearance and CAER eye exam.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$3,500–$7,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming (or home setup)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$600–$1,200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (large crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$550</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$5,700–$11,250</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,750–$3,400</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/afghan-hound-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Afghan Hound first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is an Afghan Hound Right for You?",
@@ -91,25 +121,50 @@
         "Owners who are not prepared for major grooming time investment"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Afghan Hound",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$3,500–$7,000 from reputable breeders. The Afghan Hound Club of America maintains a breeder directory. Ask for OFA hip clearance and CAER eye exam documentation. Afghan breeders are generally serious about the breed and want informed buyers — the coat commitment question is one they will ask you as thoroughly as you ask them.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Afghan Hound rescue operates nationally. Surrendered dogs are often from owners who underestimated the grooming or the independence. The temperament rewards patience enormously — a rescue Afghan that learns to trust is a deeply rewarding relationship.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Afghan Hound comes home, complete the <a href=\"/blogs/dog-breeds/afghan-hound-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Afghan Hound puppy checklist</a> — fencing verification, grooming tool investment, anesthesia note for your vet's records, and insurance enrollment are the critical pre-arrival items.</p>"
     }
   },
-
   "faq": [
-    { "q": "Can Afghan Hounds ever be off-leash?", "a": "Only in securely fenced areas. An Afghan Hound off-leash in an open area with any prey stimulus — a rabbit, a squirrel, a running child, a blowing leaf — will run at up to 40 mph and will not respond to recall. This is not a training failure; it is the breed's fundamental nature. Every Afghan owner needs secure fencing as a non-negotiable infrastructure item." },
-    { "q": "Why are Afghan Hounds sensitive to anesthesia?", "a": "Sighthounds have very low body fat compared to most breeds, and their liver metabolizes certain drugs — particularly barbiturate anesthetics — much more slowly. Standard anesthetic doses based on weight can be dangerous or fatal. Vets experienced with sighthounds know to adjust protocols; vets unfamiliar with the breed may not. Always flag this proactively, on every single vet intake form, every appointment." },
-    { "q": "Are Afghan Hounds good with other pets?", "a": "With dogs, generally fine when socialized. With cats, rabbits, and small animals — caution is essential. The prey drive in a sighthound that has not been raised alongside small animals is strong enough to override any training. Introductions should be careful and gradual, and supervision is required long-term. Some Afghans coexist peacefully with cats they've been raised with; others cannot be trusted regardless of introduction approach." },
-    { "q": "How much time does Afghan Hound grooming actually take?", "a": "A full coat requires 2–4 hours per week — bathing (including conditioning treatment), blow-drying the long coat completely, and thorough brushing. Without regular maintenance, the coat mats badly and severely. Many pet owners opt for a shorter sporting clip maintained professionally every 6–8 weeks, which reduces home maintenance to 30–45 minutes of brushing per week." }
+    {
+      "q": "Can Afghan Hounds ever be off-leash?",
+      "a": "Only in securely fenced areas. An Afghan Hound off-leash in an open area with any prey stimulus — a rabbit, a squirrel, a running child, a blowing leaf — will run at up to 40 mph and will not respond to recall. This is not a training failure; it is the breed's fundamental nature. Every Afghan owner needs secure fencing as a non-negotiable infrastructure item."
+    },
+    {
+      "q": "Why are Afghan Hounds sensitive to anesthesia?",
+      "a": "Sighthounds have very low body fat compared to most breeds, and their liver metabolizes certain drugs — particularly barbiturate anesthetics — much more slowly. Standard anesthetic doses based on weight can be dangerous or fatal. Vets experienced with sighthounds know to adjust protocols; vets unfamiliar with the breed may not. Always flag this proactively, on every single vet intake form, every appointment."
+    },
+    {
+      "q": "Are Afghan Hounds good with other pets?",
+      "a": "With dogs, generally fine when socialized. With cats, rabbits, and small animals — caution is essential. The prey drive in a sighthound that has not been raised alongside small animals is strong enough to override any training. Introductions should be careful and gradual, and supervision is required long-term. Some Afghans coexist peacefully with cats they've been raised with; others cannot be trusted regardless of introduction approach."
+    },
+    {
+      "q": "How much time does Afghan Hound grooming actually take?",
+      "a": "A full coat requires 2–4 hours per week — bathing (including conditioning treatment), blow-drying the long coat completely, and thorough brushing. Without regular maintenance, the coat mats badly and severely. Many pet owners opt for a shorter sporting clip maintained professionally every 6–8 weeks, which reduces home maintenance to 30–45 minutes of brushing per week."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Saluki", "slug": "saluki", "note": "Close sighthound relative, feathered variety has similar silky coat, similar independent temperament"},
-    {"name": "Greyhound", "slug": "greyhound", "note": "Sighthound cousin, short coat, similar prey drive and off-leash risks, typically more docile indoors"},
-    {"name": "Borzoi", "slug": "borzoi", "note": "Russian sighthound, long silky coat, very similar independent temperament and grooming demands"},
-    {"name": "Whippet", "slug": "whippet", "note": "Smaller sighthound, short coat, similar gentle temperament with less grooming intensity"}
+    {
+      "name": "Saluki",
+      "slug": "saluki",
+      "note": "Close sighthound relative, feathered variety has similar silky coat, similar independent temperament"
+    },
+    {
+      "name": "Greyhound",
+      "slug": "greyhound",
+      "note": "Sighthound cousin, short coat, similar prey drive and off-leash risks, typically more docile indoors"
+    },
+    {
+      "name": "Borzoi",
+      "slug": "borzoi",
+      "note": "Russian sighthound, long silky coat, very similar independent temperament and grooming demands"
+    },
+    {
+      "name": "Whippet",
+      "slug": "whippet",
+      "note": "Smaller sighthound, short coat, similar gentle temperament with less grooming intensity"
+    }
   ]
 }

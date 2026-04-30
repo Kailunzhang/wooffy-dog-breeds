@@ -5,20 +5,24 @@
     "shopify_handle": "german-shorthaired-pointer-puppy-checklist",
     "group": "German Shorthaired Pointer",
     "size_category": "Guide",
-    "tags": ["german-shorthaired-pointer", "puppy", "checklist", "new-dog-owner", "sporting-group"],
+    "tags": [
+      "german-shorthaired-pointer",
+      "puppy",
+      "checklist",
+      "new-dog-owner",
+      "sporting-group"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Everything you need before your GSP puppy comes home — gear, vet setup, training plan, and the exercise protocol for a high-energy sporting dog.",
     "meta_description": "German Shorthaired Pointer puppy checklist: essential gear, first vet visit, puppy-proofing for a large active breed, and training priorities for year one."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Duitse_staande_korthaar_10-10-2.jpg/330px-Duitse_staande_korthaar_10-10-2.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3219856b-489b-4482-b1bc-8f2d55ca47e1.png?v=1777528021",
       "alt": "German Shorthaired Pointer puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>The Non-Negotiables</h3><ol><li><strong>Recall (come):</strong> The most important command for a high-energy hunting breed. A solid recall is a safety skill. Practice on a long line before ever trying off-leash.</li><li><strong>Leash manners:</strong> A 70 lb dog that pulls is exhausting. Start loose-leash walking training from day one.</li><li><strong>Crate training:</strong> GSPs that are comfortable in their crate have a safe space when unsupervised. This prevents destructive behavior and keeps the puppy safe.</li><li><strong>Socialization:</strong> Expose the puppy to different people, dogs, sounds, and environments during the socialization window (8–16 weeks). GSPs are generally social, but early exposure matters.</li><li><strong>Basic obedience:</strong> Sit, down, stay, leave it — start immediately with positive reinforcement. GSPs are quick learners and get bored with boring training.</li></ol><h3>Enroll in Puppy Class</h3><p>A structured puppy class from a certified positive reinforcement trainer serves double duty: formal training and controlled socialization. Start as soon as the puppy is appropriately vaccinated (most classes accept puppies after their second round of vaccines).</p><h3>Mental Stimulation Matters</h3><p>GSPs are working dogs. Mental exercise — puzzle feeders, scent games, training sessions — helps burn the same energy as physical activity. A bored GSP without mental enrichment will find destructive outlets.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What age should I get a GSP puppy?",

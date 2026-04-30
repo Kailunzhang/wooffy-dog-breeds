@@ -5,20 +5,25 @@
     "shopify_handle": "nova-scotia-duck-tolling-retriever-first-year-costs",
     "group": "Nova Scotia Duck Tolling Retriever",
     "size_category": "Guide",
-    "tags": ["nova-scotia-duck-tolling-retriever", "toller", "cost", "budget", "first-year", "PRA"],
+    "tags": [
+      "nova-scotia-duck-tolling-retriever",
+      "toller",
+      "cost",
+      "budget",
+      "first-year",
+      "PRA"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "Nova Scotia Duck Tolling Retriever ownership costs $3,000–$6,500 in the first year. PRA DNA testing from the breeder eliminates a serious genetic risk. Pet insurance before the first vet visit covers the eye and orthopedic conditions that are the breed's primary financial risks.",
     "meta_description": "Nova Scotia Duck Tolling Retriever first year costs: puppy price, food, vet care, insurance, and the DNA-testable health conditions that make breeder selection financially significant for Tollers."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Duck_Toller.jpg/250px-Duck_Toller.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_fbb7f4d4-15a1-4969-a4ec-c47e50526a53.png?v=1777530182",
       "alt": "Nova Scotia Duck Tolling Retriever first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +41,6 @@
       "html": "<p>With a 12–14 year lifespan, Tollers represent a long but cost-reasonable commitment by sporting breed standards.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog from DNA-tested parents</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$18,000–$32,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Autoimmune or orthopedic condition managed with medication</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$25,000–$42,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Major health events (surgery, specialist care)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$32,000–$55,000</td></tr></tbody></table>"
     }
   },
-
   "faq": [
     {
       "q": "What health tests should a Toller breeder provide?",

@@ -5,7 +5,11 @@
     "shopify_handle": "basenji-puppy-checklist",
     "group": "Basenji",
     "size_category": "Guide",
-    "tags": ["basenji", "puppy", "checklist"],
+    "tags": [
+      "basenji",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Everything you need before your Basenji puppy comes home — with emphasis on escape-proof fencing, Fanconi DNA documentation review, and setting realistic training expectations for this independent primitive breed.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Basenji_Profile_%28loosercrop%29.jpg/330px-Basenji_Profile_%28loosercrop%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_dc5c7381-4912-4ca0-a39e-7e9a98283b47.png?v=1777525776",
       "alt": "Basenji puppy checklist"
     }
   },

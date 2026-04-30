@@ -5,20 +5,24 @@
     "shopify_handle": "american-staffordshire-terrier-grooming-guide",
     "group": "American Staffordshire Terrier",
     "size_category": "Guide",
-    "tags": ["american-staffordshire-terrier", "grooming", "short-coat", "low-maintenance", "skin-allergy"],
+    "tags": [
+      "american-staffordshire-terrier",
+      "grooming",
+      "short-coat",
+      "low-maintenance",
+      "skin-allergy"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "AmStaff grooming is minimal — one of the easiest coats in medium breeds. The main watchpoint is atopic dermatitis, which the breed is prone to, and which shows up as recurring skin irritation requiring management.",
     "meta_description": "American Staffordshire Terrier grooming guide: short coat maintenance, allergy-related skin care, ear care, and the complete low-effort routine for this athletic breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/AMERICAN_STAFFORDSHIRE_TERRIER%2C_Zican%E2%80%99s_Bz_Ez_Dragon_%2824208348891%29.2.jpg/330px-AMERICAN_STAFFORDSHIRE_TERRIER%2C_Zican%E2%80%99s_Bz_Ez_Dragon_%2824208348891%29.2.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ec9dfda1-e6fb-4fcf-af3c-bc08ed6e8132.png?v=1777525507",
       "alt": "American Staffordshire Terrier grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The AmStaff Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Atopic dermatitis (environmental allergies) is the most significant grooming-related health issue in AmStaffs. It doesn't develop overnight and often begins appearing at 1–3 years of age. Understanding what to look for during grooming allows early intervention.</p><h3>Signs to Watch For</h3><ul><li>Recurring paw licking or chewing — often the first visible sign</li><li>Redness in the groin, armpits, between toes, or on the belly</li><li>Recurring ear infections (yeast or bacteria) — in allergic dogs, ear infections that come back after treatment suggest an underlying allergy</li><li>Hair thinning or loss in affected areas from chronic scratching or licking</li><li>Rubbing the face on carpet or furniture</li></ul><h3>What to Do</h3><p>If you notice recurring signs, consult your vet. Allergy management options range from antihistamines (mild cases) to Apoquel or Cytopoint (veterinary prescription medications) to allergy testing and immunotherapy for dogs with severe or widespread allergies. Regular medicated baths reduce environmental allergen load on the skin surface and can reduce symptom frequency in many dogs.</p><h3>Shampoo Selection</h3><p>For allergic AmStaffs, fragrance-free or hypoallergenic shampoos are preferred. Some owners find that switching to a gentle, fragrance-free formula reduces skin reactivity compared to standard scented dog shampoos. Consult your vet if you're unsure which shampoo formula is appropriate for your dog's specific situation.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often should I groom my AmStaff?",

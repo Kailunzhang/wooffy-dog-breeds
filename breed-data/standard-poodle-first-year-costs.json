@@ -5,7 +5,11 @@
     "shopify_handle": "standard-poodle-first-year-costs",
     "group": "Standard Poodle",
     "size_category": "Guide",
-    "tags": ["standard-poodle", "costs", "first-year"],
+    "tags": [
+      "standard-poodle",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-04-19T16:00:00Z",
     "excerpt": "Standard Poodle first-year costs run $4,500–$9,500 including purchase price. Professional grooming every 6–8 weeks is the breed's primary recurring cost. The Standard Poodle's health profile requires insurance coverage for Addison's disease, bloat, and hip dysplasia.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Full_attention_%288067543690%29.jpg/330px-Full_attention_%288067543690%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_56800c94-3ed2-4f8f-9134-b9de2cc9ac35.png?v=1777531956",
       "alt": "Standard Poodle first year costs"
     }
   },

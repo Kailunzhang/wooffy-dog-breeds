@@ -6,74 +6,103 @@
     "group": "Sporting Group",
     "size_category": "Medium Breed",
     "tagline": "Italy's truffle-hunting dog is compact, curly-coated, and remarkably long-lived. The Lagotto's nose-drive and digging instinct are genuine — they need an outlet. Get the Lagotto Storage Disease DNA test, budget for regular coat maintenance, and you have one of the most versatile, hardy medium breeds available.",
-    "tags": ["sporting-group", "medium-breed", "low-shedding", "truffle-dog", "intelligent", "dog-breeds"],
+    "tags": [
+      "sporting-group",
+      "medium-breed",
+      "low-shedding",
+      "truffle-dog",
+      "intelligent",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "The Lagotto Romagnolo is Italy's truffle hunter — a curly-coated, water-retrieving spaniel turned nose-work specialist with an excellent 15–17 year lifespan. They're friendly, intelligent, and relatively low-shedding. The digging instinct is real. The curly coat needs professional maintenance. And the LSD (Lagotto Storage Disease) DNA test is non-negotiable before buying.",
     "meta_description": "Lagotto Romagnolo breed guide: truffle-hunting history, personality, curly coat maintenance, Lagotto Storage Disease DNA testing, juvenile epilepsy, and whether a Lagotto fits your household."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "24–35 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "15–17 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise",  "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Easy-Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Manageable" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "24–35 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "15–17 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy-Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Manageable"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bellalagotto4.jpg/250px-Bellalagotto4.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_1d4804f6-7267-4903-8cf4-5ab8417603af.png?v=1777528794",
       "alt": "Lagotto Romagnolo"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Lagotto Romagnolo?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Lagotto Romagnolo is one of the oldest water-retrieving dogs in the world, originating in the Romagna region of northeastern Italy. Originally used to retrieve waterfowl from the marshlands of the Po Delta, the breed's role shifted as the wetlands were drained — and their exceptional nose was redirected toward truffle hunting. Today, the Lagotto is the only breed in the world officially recognized as a truffle-hunting dog.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The distinctive tight curly coat is water-resistant and remarkably low-shedding — making the breed appealing to households sensitive to dog hair. The curls require professional maintenance to prevent matting, but the trade-off versus constant shedding from smooth or flat-coated breeds is real.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Lagottos are increasingly popular outside Italy as family and companion dogs. They are friendly, versatile, and genuinely long-lived — 15–17 years is an exceptional lifespan for a dog of this size. The health conditions to be aware of are genetic and testable, which means informed buyers can meaningfully reduce their risk.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Lagottos Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Compact and sturdy — 16–19 inches at the shoulder, 24–35 lbs. The defining feature is the dense, tight curls covering the entire body. The coat can be trimmed to any practical length, but left ungroomed, the curls form mats. Colors include off-white, white and orange, orange roan, brown roan, brown, and orange, sometimes with or without a brown mask.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The head is rounded with a well-defined stop, and prominent eyebrows and a beard give the Lagotto a somewhat terrier-like face that belies their spaniel heritage. The overall build is powerful for their size — well-muscled dogs capable of a full day of nose work.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Lagottos are affectionate with their family and generally good with children and other animals. They are intelligent and eager to work — the nose drive is genuine and persistent. A Lagotto without a nose-work outlet will find things to sniff and dig up on their own schedule, which may or may not align with your garden plans.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With strangers, Lagottos can be somewhat reserved — not unfriendly, but not immediately gregarious. Early socialization produces confident, comfortable adults. Unsocialized Lagottos can be shy or noise-sensitive.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The digging instinct is perhaps the most practically significant personality trait for owners. Lagottos dig. This is fundamental to their working purpose. If you have a garden you care about, a designated digging area and solid fence line are essential infrastructure before a Lagotto arrives. Redirecting the digging to appropriate locations is manageable; trying to eliminate it entirely is fighting the breed.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Lagotto Romagnolo",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The lifespan is genuinely one of the Lagotto's best features. A 15–17 year dog is a meaningful long-term commitment, and for people who bond deeply with their dogs, the extra years relative to a larger breed are significant. They are also genuinely fun dogs to train — the nose drive that made them excellent truffle hunters makes them outstanding candidates for AKC nose work, tracking, and scent sports.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The grooming is real and ongoing. The curly coat does not shed the way a flat or smooth coat does, but it needs professional trimming every 6–8 weeks or it mats significantly. This is a real annual cost — budget $600–$1,000/year for grooming, more in high-cost-of-living areas.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The Lagotto Storage Disease DNA test is the most important pre-purchase checklist item. LSD is a progressive neurological storage disorder that is fatal — and entirely preventable through buying from tested parents. There's no reason to take the risk when the test exists.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of activity daily, including meaningful mental stimulation. Lagottos were bred to work all day using their nose — a structured walk is less satisfying to them than a nose work session or off-leash sniff exploration. Enrichment activities (puzzle feeders, sniff sessions, nose work classes) are as important as physical exercise for this breed.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Professional grooming every 6–8 weeks to trim the curly coat and prevent matting. Between appointments: check for mats forming in the armpits, groin, and behind the ears. The beard accumulates food and debris and should be checked and wiped regularly. Ear cleaning is important — the curly coat can partially obstruct airflow to the ear canal. See the <a href=\"/blogs/dog-breeds/lagotto-romagnolo-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Lagotto grooming guide</a> for the full coat management routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Managing the Digging Instinct</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Designate a specific digging area in your yard — a sandbox or dedicated garden bed where digging is allowed and encouraged. Redirect the dog consistently to that area. Bury toys or treats to reinforce using the designated spot. This is far more effective than attempting to stop digging entirely.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Lagottos are a long-lived, generally healthy breed. The conditions to screen for are genetic — and for the most serious one, a DNA test is available that eliminates the risk when used responsibly.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Lagotto Storage Disease (LSD)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">A fatal progressive neurological storage disorder specific to the breed. Causes progressive cerebellar ataxia, behavioral changes, and eventually death. DNA test available — puppies from two clear parents cannot be affected. This is the non-negotiable test to require from any Lagotto breeder before purchase.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Juvenile Epilepsy (Benign Familial)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">A form of epilepsy specific to Lagotto puppies that typically presents between 5–9 weeks of age. The good news: most affected puppies spontaneously resolve by 8–13 weeks of age without permanent damage or long-term medication. DNA test available. Not the same as adult-onset epilepsy and considerably less serious.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">OFA or PennHIP screening available. Less common than in larger breeds but relevant given the Lagotto's longevity — hip pain at 12 years matters.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Adult-Onset Epilepsy</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Separate from the juvenile form — adult-onset epilepsy can occur in some Lagotto lines. Ask breeders about epilepsy history in their breeding dogs' lineage.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> LSD DNA test (non-negotiable), Juvenile Epilepsy DNA test, OFA hip certification, CAER eye exam.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$3,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$550</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$550</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Professional grooming (6–8 week cycle)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,800–$5,550</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,850–$3,050</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">The long 15–17 year lifespan means ongoing costs are spread over more years than most breeds, which improves lifetime value for committed owners. See the <a href=\"/blogs/dog-breeds/lagotto-romagnolo-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Lagotto Romagnolo Right for You?",
@@ -92,24 +121,45 @@
         "Households wanting a dog that requires minimal grooming maintenance"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Lagotto Romagnolo",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$3,000 from health-testing breeders. Lagottos are still relatively uncommon in the US — wait times from reputable breeders are common. The Lagotto Romagnolo Club of America maintains a breeder directory. Required health clearances: LSD DNA test (absolutely non-negotiable), Juvenile Epilepsy DNA test, OFA hip certification. Do not purchase from any breeder unable to produce LSD clear status for both parents.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Lagotto rescue in the US is very limited given the breed's relative rarity. The LRCA can sometimes connect people with rehoming situations.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Lagotto comes home, review the <a href=\"/blogs/dog-breeds/lagotto-romagnolo-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Lagotto puppy checklist</a> — setting up a designated digging area before arrival is one of the most practical things you can do for this breed.</p>"
     }
   },
-
   "faq": [
-    { "q": "Do Lagotto Romagnolos really not shed?", "a": "Very low shedding — not truly non-shedding, but dramatically less than most breeds. The tight curls trap loose hair rather than releasing it into your environment. This makes them a practical choice for people with mild allergies to dog dander or strong preferences for a hair-free home. The trade-off is that the trapped hair becomes mats if not professionally groomed regularly." },
-    { "q": "Can I actually use a Lagotto to hunt truffles?", "a": "Yes — this is not a historical novelty. Lagottos are still actively used for truffle hunting in Italy and increasingly elsewhere. Their nose drive and natural affinity for scent work are genuine. For owners interested in this, organized training programs exist in areas where truffle hunting is practiced. More practically, most Lagotto owners channel the nose drive into AKC nose work, tracking, or scent sport classes." },
-    { "q": "What is Lagotto Storage Disease?", "a": "LSD is a progressive, fatal neurological condition specific to the breed caused by abnormal storage of cellular material in the nervous system. It causes cerebellar ataxia (loss of coordination), behavioral changes, and death. There is no treatment. A DNA test is available and completely eliminates the risk when both parents test clear. This is the most important health test to require from Lagotto breeders." },
-    { "q": "How long do Lagotto Romagnolos live?", "a": "15–17 years is the generally cited lifespan range — exceptional for a dog of this size and one of the breed's most appealing characteristics. A healthy Lagotto from tested parents can realistically be with you for 15 or more years." }
+    {
+      "q": "Do Lagotto Romagnolos really not shed?",
+      "a": "Very low shedding — not truly non-shedding, but dramatically less than most breeds. The tight curls trap loose hair rather than releasing it into your environment. This makes them a practical choice for people with mild allergies to dog dander or strong preferences for a hair-free home. The trade-off is that the trapped hair becomes mats if not professionally groomed regularly."
+    },
+    {
+      "q": "Can I actually use a Lagotto to hunt truffles?",
+      "a": "Yes — this is not a historical novelty. Lagottos are still actively used for truffle hunting in Italy and increasingly elsewhere. Their nose drive and natural affinity for scent work are genuine. For owners interested in this, organized training programs exist in areas where truffle hunting is practiced. More practically, most Lagotto owners channel the nose drive into AKC nose work, tracking, or scent sport classes."
+    },
+    {
+      "q": "What is Lagotto Storage Disease?",
+      "a": "LSD is a progressive, fatal neurological condition specific to the breed caused by abnormal storage of cellular material in the nervous system. It causes cerebellar ataxia (loss of coordination), behavioral changes, and death. There is no treatment. A DNA test is available and completely eliminates the risk when both parents test clear. This is the most important health test to require from Lagotto breeders."
+    },
+    {
+      "q": "How long do Lagotto Romagnolos live?",
+      "a": "15–17 years is the generally cited lifespan range — exceptional for a dog of this size and one of the breed's most appealing characteristics. A healthy Lagotto from tested parents can realistically be with you for 15 or more years."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Portuguese Water Dog", "slug": "portuguese-water-dog", "note": "Similar curly/wavy coat, water-working heritage, friendly and active"},
-    {"name": "Standard Poodle", "slug": "standard-poodle", "note": "Larger curly-coated working breed, also low-shedding, athletic and intelligent"},
-    {"name": "Barbet", "slug": "barbet", "note": "French water dog with similar curly coat and sporting heritage, rare in the US"}
+    {
+      "name": "Portuguese Water Dog",
+      "slug": "portuguese-water-dog",
+      "note": "Similar curly/wavy coat, water-working heritage, friendly and active"
+    },
+    {
+      "name": "Standard Poodle",
+      "slug": "standard-poodle",
+      "note": "Larger curly-coated working breed, also low-shedding, athletic and intelligent"
+    },
+    {
+      "name": "Barbet",
+      "slug": "barbet",
+      "note": "French water dog with similar curly coat and sporting heritage, rare in the US"
+    }
   ]
 }

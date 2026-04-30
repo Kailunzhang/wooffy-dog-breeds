@@ -6,74 +6,103 @@
     "group": "Sporting Group",
     "size_category": "Medium Breed",
     "tagline": "The Field Spaniel is a gentle, good-natured sporting dog — closely related to the Cocker Spaniel but rarer, slightly larger, and with a more serious, dignified personality. A quiet, devoted companion for active households.",
-    "tags": ["sporting-group", "medium-breed", "gentle", "rare-breed", "spaniel", "dog-breeds"],
+    "tags": [
+      "sporting-group",
+      "medium-breed",
+      "gentle",
+      "rare-breed",
+      "spaniel",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Field Spaniels are one of the lesser-known spaniel breeds — gentle, devoted, and genuinely good-natured. They share the Cocker Spaniel's sweet temperament but carry themselves with a bit more seriousness. They're also rare enough that finding a quality breeder requires effort.",
     "meta_description": "Field Spaniel breed guide: temperament, grooming the silky feathered coat, health conditions including PRA and hip dysplasia, and what makes this rare spaniel different from the Cocker."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "35–50 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "11–13 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "35–50 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "11–13 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Field_spaniel_581.jpg/250px-Field_spaniel_581.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_a2f261d5-37c8-465f-8f85-0397316229cc.png?v=1777527722",
       "alt": "Field Spaniel"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Field Spaniel?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Field Spaniel is a medium-sized sporting spaniel developed in England during the mid-19th century, originally bred as a hunting dog for working in dense cover. It shares ancestry with the Cocker Spaniel and English Springer Spaniel but was developed into a distinct breed — larger than the Cocker, with a more serious and dignified personality, and a notably beautiful silky coat with feathering on the ears, chest, and legs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The breed nearly went extinct in the early 20th century due to exaggerated show breeding that produced dogs with impractical conformations. A revival program in the 1960s restored the breed to working functionality, but Field Spaniels remain genuinely rare — AKC registrations are consistently among the lowest of any recognized breed. This rarity means waiting lists for quality puppies are common, and health testing from breeders is non-negotiable.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">In temperament, Field Spaniels are gentle, affectionate, and devoted — similar to Cockers in their family-oriented nature, but with a slightly more reserved quality around strangers and a somewhat more independent streak in the field. They're sensitive dogs that respond poorly to harsh handling.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Field Spaniels Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Medium-sized and well-balanced — males and females typically 35–50 lbs, 17–18 inches at the shoulder. The body is moderately long, with a level topline and a deep chest suited to the field. The head is distinctive: a long, lean skull with an almond-shaped eye giving an expression of gravity and gentleness.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The coat is the breed's most visible feature — dense, flat or slightly wavy, silky in texture, with abundant feathering on the ears, chest, belly, and legs. Coat colors include solid black, liver (rich chocolate-brown), golden liver, roan, or any of these with tan points. The floppy, well-feathered ears are a signature feature — and a grooming and health responsibility, as they trap moisture and debris.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Field Spaniels are gentle, sensitive, and devoted to their families. They're good with children and generally get along well with other dogs and household pets — the spaniel temperament at its best. They're affectionate without being clingy, and they tend to be calm indoors when properly exercised.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Where Field Spaniels differ from Cockers is in their slightly more reserved quality around strangers. They're not unfriendly, but they may take a little longer to warm up to new people than the exuberantly social Cocker Spaniel. Early socialization addresses this well in most dogs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">They are sensitive dogs — sensitive in the good sense of being attuned to their owners, and sensitive in the practical sense that harsh corrections or rough handling produce shutdown and anxiety. Positive, consistent training works. Harsh methods do not. This is a breed that responds to relationship, not force.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Field Spaniel",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Field Spaniels are genuinely lovely dogs that are under-appreciated because they're rare and don't have the name recognition of Cockers or Springers. If you want a spaniel-type companion with a slightly more dignified, less exuberant personality, the Field Spaniel is worth serious consideration.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The practical reality of choosing a rare breed: you will wait for a puppy. Quality Field Spaniel breeders are few, and responsible breeders health-test and place puppies carefully. Budget 6–18 months from initial contact to bringing a puppy home. This is not a reason to avoid the breed — it's a reason to start your search early and be patient.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The ear care commitment is real. Floppy, heavily feathered ears are the Field Spaniel's most significant management responsibility — weekly cleaning and regular grooming attention to keep infections at bay. If you're not prepared for that ongoing maintenance, this isn't the right breed.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate to high energy — 60–90 minutes of daily exercise. Field Spaniels enjoy hiking, fetch, swimming, and active walks. They have real sporting instincts and appreciate having a job to do. An under-exercised Field Spaniel becomes bored and may develop destructive habits, though they're generally less manic about this than higher-drive sporting breeds.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The silky feathered coat requires brushing 2–3 times per week to prevent mats, especially in the feathered areas on ears, legs, and belly. Regular trimming of the feet, ear canal hair, and overall coat tidying is needed every 6–8 weeks. See the <a href=\"/blogs/dog-breeds/field-spaniel-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Field Spaniel grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Moderately easy to train — Field Spaniels are intelligent and willing, but require gentle, positive methods. They shut down under pressure and respond poorly to harsh handling. Consistent, reward-based training from puppyhood produces a well-mannered adult. Spaniel-specific trainer experience is helpful but not required.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Field Spaniels are generally healthy with an 11–13 year lifespan, but as a rare breed the gene pool is limited, making health testing by breeders especially important. The primary concerns are eye disease, hip dysplasia, ear infections, and thyroid disease.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint causing pain and arthritis. OFA or PennHIP screening available. Ask breeders for clearances on both parents.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inherited retinal degeneration leading to blindness. DNA test available. Reputable breeders screen breeding stock; do not purchase from breeders who cannot provide PRA clearance.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Cataracts</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Lens opacity that can impair vision. Hereditary cataracts occur in the breed; CAER eye exam clearance from breeders is important.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Underactive thyroid — manageable with daily medication. OFA thyroid clearance available from breeders.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Ear Infections</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The long, floppy, heavily feathered ears trap moisture and debris, creating conditions favorable for bacterial and yeast infections. Weekly ear cleaning and keeping ear canal hair trimmed significantly reduces risk. Signs: head shaking, pawing at ears, odor, redness.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, OFA thyroid, CAER eye exam, and PRA DNA test clearances.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Grooming (professional trims)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, bed, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,200–$5,500</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,400–$2,400</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/field-spaniel-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Field Spaniel first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Field Spaniel Right for You?",
@@ -91,25 +120,50 @@
         "Owners who use harsh or correction-heavy training methods"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Field Spaniel",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$2,500 from reputable breeders. Required health clearances: OFA hip, OFA thyroid, CAER eye exam, PRA DNA test. The Field Spaniel Society of America maintains a breeder referral directory. Expect a waiting list — this is a rare breed and responsible breeders have limited litters.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Field Spaniel rescue dogs occasionally become available through the Field Spaniel Society of America or through general spaniel rescue organizations. Given the breed's rarity, rescue availability is limited but worth checking.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Field Spaniel comes home, review the <a href=\"/blogs/dog-breeds/field-spaniel-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Field Spaniel puppy checklist</a> — grooming tool setup and ear care supplies are the critical pre-arrival items for this breed.</p>"
     }
   },
-
   "faq": [
-    { "q": "How is a Field Spaniel different from a Cocker Spaniel?", "a": "Field Spaniels are slightly larger (35–50 lbs vs. 20–30 lbs for the American Cocker), with a longer body, less exaggerated coat, and a somewhat more serious, less effusive personality. Both are gentle and devoted family dogs. Field Spaniels are considerably rarer — finding a puppy requires more effort and a longer wait." },
-    { "q": "Are Field Spaniels good family dogs?", "a": "Yes — they're gentle, patient, and good with children when properly socialized. They tend to be somewhat reserved with strangers initially but warm up well. Their sensitivity means they do best in calm, positive households rather than chaotic, high-stress environments." },
-    { "q": "How much grooming does a Field Spaniel need?", "a": "Moderate to significant. The silky feathered coat requires brushing 2–3 times per week to prevent mats in the feathering on ears, legs, and belly. Professional trimming every 6–8 weeks keeps the coat manageable. Weekly ear cleaning is essential due to the floppy, feathered ears that trap moisture." },
-    { "q": "Why are Field Spaniels so rare?", "a": "The breed nearly went extinct in the early 20th century due to exaggerated show breeding. A revival program in the 1960s restored working-type dogs, but the breed never regained wide popularity. Today AKC registrations are among the lowest of any recognized breed. This rarity makes health-tested breeders especially important — the gene pool is small." }
+    {
+      "q": "How is a Field Spaniel different from a Cocker Spaniel?",
+      "a": "Field Spaniels are slightly larger (35–50 lbs vs. 20–30 lbs for the American Cocker), with a longer body, less exaggerated coat, and a somewhat more serious, less effusive personality. Both are gentle and devoted family dogs. Field Spaniels are considerably rarer — finding a puppy requires more effort and a longer wait."
+    },
+    {
+      "q": "Are Field Spaniels good family dogs?",
+      "a": "Yes — they're gentle, patient, and good with children when properly socialized. They tend to be somewhat reserved with strangers initially but warm up well. Their sensitivity means they do best in calm, positive households rather than chaotic, high-stress environments."
+    },
+    {
+      "q": "How much grooming does a Field Spaniel need?",
+      "a": "Moderate to significant. The silky feathered coat requires brushing 2–3 times per week to prevent mats in the feathering on ears, legs, and belly. Professional trimming every 6–8 weeks keeps the coat manageable. Weekly ear cleaning is essential due to the floppy, feathered ears that trap moisture."
+    },
+    {
+      "q": "Why are Field Spaniels so rare?",
+      "a": "The breed nearly went extinct in the early 20th century due to exaggerated show breeding. A revival program in the 1960s restored working-type dogs, but the breed never regained wide popularity. Today AKC registrations are among the lowest of any recognized breed. This rarity makes health-tested breeders especially important — the gene pool is small."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Cocker Spaniel", "slug": "cocker-spaniel", "note": "Smaller cousin, more popular, more exuberant personality"},
-    {"name": "English Springer Spaniel", "slug": "english-springer-spaniel", "note": "Larger spaniel, more common, higher energy"},
-    {"name": "Sussex Spaniel", "slug": "sussex-spaniel", "note": "Another rare spaniel breed, lower energy, golden-brown coat"},
-    {"name": "Clumber Spaniel", "slug": "clumber-spaniel", "note": "Larger and heavier spaniel, calmer temperament, also relatively rare"}
+    {
+      "name": "Cocker Spaniel",
+      "slug": "cocker-spaniel",
+      "note": "Smaller cousin, more popular, more exuberant personality"
+    },
+    {
+      "name": "English Springer Spaniel",
+      "slug": "english-springer-spaniel",
+      "note": "Larger spaniel, more common, higher energy"
+    },
+    {
+      "name": "Sussex Spaniel",
+      "slug": "sussex-spaniel",
+      "note": "Another rare spaniel breed, lower energy, golden-brown coat"
+    },
+    {
+      "name": "Clumber Spaniel",
+      "slug": "clumber-spaniel",
+      "note": "Larger and heavier spaniel, calmer temperament, also relatively rare"
+    }
   ]
 }

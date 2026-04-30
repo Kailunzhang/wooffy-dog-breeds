@@ -5,20 +5,24 @@
     "shopify_handle": "dachshund-first-year-costs",
     "group": "Dachshund",
     "size_category": "Guide",
-    "tags": ["dachshund", "cost", "first-year", "small-breed", "ivdd-cost"],
+    "tags": [
+      "dachshund",
+      "cost",
+      "first-year",
+      "small-breed",
+      "ivdd-cost"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Dachshunds cost $2,500–$5,000 in year one. The biggest financial risk is IVDD — spinal surgery can cost $5,000–$10,000. Pet insurance is not optional for this breed.",
     "meta_description": "Dachshund first year cost breakdown: puppy price, IVDD financial risk, vet care, ramp setup costs, food, and realistic ongoing annual expenses."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg/330px-%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8%28%EB%8B%A8%EB%AA%A8%EC%A2%85%29_%28Dachshund_%28Short%29%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_b8a58f3c-5e59-4285-91ac-1b0f1094384c.png?v=1777527347",
       "alt": "Dachshund cost guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
@@ -36,7 +40,6 @@
       "html": "<p>Ramps are part of Dachshund ownership — not a luxury. The spine can sustain cumulative microdamage from repeated jumping off sofas and beds long before a disc ruptures. Setting up ramps from day one is preventive care that costs far less than IVDD treatment.</p><h3>Recommended Ramp Budget</h3><ul><li><strong>Sofa ramp:</strong> $40–$80 for a quality option that holds the dog's weight securely</li><li><strong>Bed ramp or stairs:</strong> $50–$120 for a stable ramp or pet stairs with non-slip treads</li><li><strong>Car ramp or step:</strong> $50–$150 if the dog rides in vehicles regularly</li></ul><p>Total ramp setup: $140–$350. That's a one-time investment that may prevent thousands in vet bills. Use ramps consistently — a Dachshund that occasionally still jumps on unprotected areas defeats the purpose.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How much does a Dachshund puppy cost?",

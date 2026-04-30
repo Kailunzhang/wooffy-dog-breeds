@@ -5,20 +5,24 @@
     "shopify_handle": "irish-wolfhound-puppy-checklist",
     "group": "Irish Wolfhound",
     "size_category": "Guide",
-    "tags": ["irish-wolfhound", "puppy", "checklist", "gastropexy", "giant-breed"],
+    "tags": [
+      "irish-wolfhound",
+      "puppy",
+      "checklist",
+      "gastropexy",
+      "giant-breed"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Before your Irish Wolfhound puppy comes home, three things matter above all else: secure fencing, pet insurance enrollment, and pre-booking the gastropexy conversation with your vet.",
     "meta_description": "Irish Wolfhound puppy checklist: giant-breed puppy-proofing, gastropexy scheduling, limited exercise rules for growing giant breeds, insurance timing, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/%282%29_Irish_Wolfhound_4.jpg/250px-%282%29_Irish_Wolfhound_4.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3076f48e-d5ba-4da3-9a2f-17ed49790aaf.png?v=1777528685",
       "alt": "Irish Wolfhound puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Feeding for Giant-Breed Growth</h3><p>Giant-breed puppies need controlled, slower growth — not maximum growth. Do not free-feed. Use a giant-breed puppy formula (not regular large-breed puppy food) specifically formulated for breeds expected to exceed 100 lbs. Overfeeding and too-rapid growth in puppyhood increases risk of developmental orthopedic conditions. Follow the feeding guide on the food packaging, weigh your puppy monthly, and ask your vet to assess body condition at each visit.</p><h3>Stairs and Furniture</h3><p>Block stair access for the first several months. Repeated stair climbing puts repetitive stress on developing giant-breed joints. Similarly, dogs should not be jumping off couches or beds — the landing impact on a 60-lb puppy's growth plates is not trivial. Ramps rather than stairs are preferable where needed.</p><h3>Raised Bowls: A Nuanced Issue</h3><p>Raised bowls have historically been recommended for large and giant breeds, and they do reduce neck strain during eating. However, the research on raised bowls and bloat risk is inconclusive — some studies show correlation, others do not. Discuss with your vet. Many Wolfhound owners use a moderate-height raised bowl for comfort. The clearest bloat-prevention steps remain: do not exercise immediately after eating, avoid one very large meal (split into two), and schedule the prophylactic gastropexy.</p><h3>Training From Puppyhood</h3><p>A Wolfhound puppy that has not learned loose-leash manners, sit, down, and door protocols before they weigh 150 lbs is a management problem with real physical consequences. Train from day one — not once the dog is large. Basic obedience and manners established in the first months are far easier than trying to introduce them in a fully grown giant.</p>"
     }
   },
-
   "faq": [
     {
       "q": "When should gastropexy be scheduled for an Irish Wolfhound?",

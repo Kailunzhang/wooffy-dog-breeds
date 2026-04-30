@@ -5,20 +5,24 @@
     "shopify_handle": "shiba-inu-first-year-costs",
     "group": "Shiba Inu",
     "size_category": "Guide",
-    "tags": ["shiba-inu", "cost", "budget", "first-year", "medium-breed"],
+    "tags": [
+      "shiba-inu",
+      "cost",
+      "budget",
+      "first-year",
+      "medium-breed"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Shiba Inu ownership costs $2,500–$5,500 in the first year. Secure fencing and containment infrastructure are required costs — this breed cannot be trusted without it.",
     "meta_description": "Shiba Inu first year costs: puppy price, food budget, vet bills, fencing requirements, pet insurance, and lifetime cost estimates for a medium-sized double-coated breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Taka_Shiba.jpg/250px-Taka_Shiba.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_adc48d5c-ef21-4226-8749-8046405bf9b1.png?v=1777531518",
       "alt": "Shiba Inu first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With a 12–15 year lifespan, Shibas are a long commitment with moderate annual ongoing costs.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, no orthopedic surgery needed</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$15,000–$25,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Patellar luxation surgery on one or both knees</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$20,000–$35,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Multiple orthopedic issues or chronic conditions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$30,000–$45,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">Shibas are generally healthy dogs with a long lifespan. Annual ongoing costs are lower than large breeds due to smaller food volumes. The primary variable is orthopedic health — pet insurance is the most effective financial protection for the potential surgery costs.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does a Shiba Inu puppy cost from a reputable breeder?",

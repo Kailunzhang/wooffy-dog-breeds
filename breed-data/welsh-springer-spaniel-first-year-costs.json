@@ -5,20 +5,25 @@
     "shopify_handle": "welsh-springer-spaniel-first-year-costs",
     "group": "Welsh Springer Spaniel",
     "size_category": "Guide",
-    "tags": ["welsh-springer-spaniel", "cost", "budget", "first-year", "glaucoma", "PRA"],
+    "tags": [
+      "welsh-springer-spaniel",
+      "cost",
+      "budget",
+      "first-year",
+      "glaucoma",
+      "PRA"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "Welsh Springer Spaniel ownership costs $2,500–$5,000 in the first year. Glaucoma and PRA are the breed-specific eye risks. Pet insurance before the first vet visit covers the ophthalmologic and orthopedic costs that are the primary financial risks for this breed.",
     "meta_description": "Welsh Springer Spaniel first year costs: puppy price, food, vet care, insurance, and the glaucoma and PRA risks that make breeder eye health documentation important."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Welsh_Springer_Spaniel_1.jpg/250px-Welsh_Springer_Spaniel_1.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_22702470-5e47-4698-9bf2-5655c02a37e4.png?v=1777532190",
       "alt": "Welsh Springer Spaniel first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +41,6 @@
       "html": "<p>With a 12–15 year lifespan, Welsh Springer Spaniels represent a long, moderate-cost commitment with good preventive care.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog from tested parents</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$17,000–$30,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Managed eye or orthopedic condition</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$24,000–$44,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant health events (glaucoma surgery, hip replacement)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$30,000–$55,000</td></tr></tbody></table>"
     }
   },
-
   "faq": [
     {
       "q": "What health tests should a Welsh Springer Spaniel breeder provide?",

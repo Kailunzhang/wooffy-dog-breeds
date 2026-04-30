@@ -5,20 +5,24 @@
     "shopify_handle": "great-dane-grooming-guide",
     "group": "Great Dane",
     "size_category": "Guide",
-    "tags": ["great-dane", "grooming", "short-coat", "giant-breed", "nail-care"],
+    "tags": [
+      "great-dane",
+      "grooming",
+      "short-coat",
+      "giant-breed",
+      "nail-care"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Great Danes have a short, easy coat — but grooming a dog that weighs 150+ lbs adds practical challenges. Nail care, ear hygiene, and getting a giant comfortable with handling are the real priorities.",
     "meta_description": "Great Dane grooming guide: minimal coat maintenance, giant-breed nail care, ear hygiene, and establishing handling routines for a dog that weighs as much as a person."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dog_niemiecki_%C5%BC%C3%B3%C5%82ty_LM980.jpg/330px-Dog_niemiecki_%C5%BC%C3%B3%C5%82ty_LM980.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_c4103480-4b64-47f9-a2b4-17afae164b4c.png?v=1777528255",
       "alt": "Great Dane grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Dane Coat",
@@ -36,7 +40,6 @@
       "html": "<h3>Nail Care: Most Important Task</h3><p>Nail care is the grooming task with the most impact on a Great Dane's health and comfort. Overgrown nails in a dog this size change the angle of the foot, affect gait mechanics, and contribute to joint problems. Regular, consistent nail maintenance — every 2–3 weeks — prevents the nails from getting to a length that requires a vet visit or sedation to manage.</p><ul><li>Start nail desensitization from puppyhood: touch paws, squeeze individual toes, hold the paw in grooming position daily</li><li>Use high-value treats during every nail session</li><li>Nail grinders are often better for giant breeds — they remove less at a time and reduce the risk of cutting the quick in thick, hard nails</li><li>If you cut the quick: styptic powder stops bleeding quickly. Keep it on hand</li></ul><h3>Bath Logistics</h3><ul><li>A walk-in shower is the most practical home bathing solution for a Great Dane. If unavailable, outdoor bathing with a warm-water hose (check water temperature — cold water on a large body is stressful) works well in warm weather</li><li>Use a non-slip mat wherever the dog stands during grooming to reduce anxiety</li><li>Two people make the process significantly easier and safer, especially for rinsing and drying</li></ul><h3>Professional Grooming</h3><p>Professional groomers charge more for giant breeds — expect $80–$130 per bath and brush session. Some groomers charge by weight. For owners who cannot manage home bathing, quarterly professional grooming appointments supplemented by weekly home brushing and regular nail trims is a practical approach.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often do Great Danes need baths?",

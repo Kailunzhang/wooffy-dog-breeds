@@ -5,20 +5,24 @@
     "shopify_handle": "bluetick-coonhound-puppy-checklist",
     "group": "Bluetick Coonhound",
     "size_category": "Guide",
-    "tags": ["bluetick-coonhound", "puppy", "checklist", "ear-care", "coonhound"],
+    "tags": [
+      "bluetick-coonhound",
+      "puppy",
+      "checklist",
+      "ear-care",
+      "coonhound"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Before your Bluetick Coonhound comes home: secure fencing is essential, ear handling starts day one, and ask your breeder for the Krabbe's disease DNA test results.",
     "meta_description": "Bluetick Coonhound puppy checklist: Krabbe's disease test confirmation, secure fencing, ear handling from day one, nose work enrichment planning, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BluetickCoonhound.jpg/250px-BluetickCoonhound.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_d7ad1d9c-ed36-4e4a-8814-84e50758a535.png?v=1777526217",
       "alt": "Bluetick Coonhound puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<p>Blueticks are energetic, nose-driven dogs. Start nose work games early — simple hide-the-treat puzzles, scent articles, sniff walks where the dog leads and explores. This channel for the nose drive reduces the energy and boredom that causes excessive baying.</p><h3>Training Priorities</h3><ul><li>Loose-leash walking from the first walk — habituate pulling prevention before it becomes a pattern</li><li>Sit and stay — food-motivated Blueticks learn this quickly indoors</li><li>Crate training: positive associations with crate entry and voluntary settling</li><li>Name recognition and come — practice in the backyard on a long line</li></ul><p>Accept from the beginning that outdoor recall off a scent trail is not a realistic goal. Build reliable recall within a fenced area, use the leash in open areas, and don't set up the dog to fail in situations where the nose wins.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What is the Krabbe's disease test and why does it matter?",

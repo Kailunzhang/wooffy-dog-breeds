@@ -5,20 +5,24 @@
     "shopify_handle": "pharaoh-hound-puppy-checklist",
     "group": "Pharaoh Hound",
     "size_category": "Guide",
-    "tags": ["pharaoh-hound", "puppy", "checklist", "sighthound", "anesthesia-sensitivity"],
+    "tags": [
+      "pharaoh-hound",
+      "puppy",
+      "checklist",
+      "sighthound",
+      "anesthesia-sensitivity"
+    ],
     "published": true,
     "published_at": "2026-04-26T16:00:00Z",
     "excerpt": "What you need before your Pharaoh Hound puppy arrives — starting with fence verification and the vet briefing on sighthound anesthesia sensitivity that should happen before the first visit.",
     "meta_description": "Pharaoh Hound puppy checklist: fence security, briefing your vet on sighthound anesthesia sensitivity, cold weather prep, and socialization priorities for an ancient athletic breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pies_faraona_e34.jpg/250px-Pies_faraona_e34.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5aab0886-8c6b-4fed-8ab0-dca13fa98082.png?v=1777530329",
       "alt": "Pharaoh Hound puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Positive Reinforcement Only</h3><p>Pharaoh Hounds are sensitive and respond poorly to harsh corrections or raised voices. Positive reinforcement with food rewards is the effective approach. They learn quickly in training sessions and apply commands reliably in low-distraction contexts. Competing with environmental stimuli — especially moving animals or prey — is a different challenge that training alone does not fully resolve.</p><ul><li>Sit, down, stay, come — build these commands from the start</li><li>Loose-leash walking from the first walk</li><li>Name recognition and recall — reliable in controlled settings</li><li>Door manners — sit before going outside</li></ul><h3>Realistic Expectations</h3><p>Off-leash reliability in open environments is not an achievable goal for a Pharaoh Hound. This is not a training failure — it is a sighthound trait. A Pharaoh Hound that hears 'come' and ignores it when chasing a squirrel is not being disobedient; the prey instinct is simply stronger than the trained behavior at that moment. Accept this and manage for it rather than fighting it.</p><h3>Exercise: Manage Growth Plate Load</h3><p>Puppies under 18 months should not be doing forced running, high-impact jumping, or extended high-intensity activity. Growth plates close at roughly 18 months in a medium breed. Leash walks and free play on grass are appropriate; jogging and lure coursing are not until physical maturity.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Why does sighthound anesthesia sensitivity need to go in the vet record?",

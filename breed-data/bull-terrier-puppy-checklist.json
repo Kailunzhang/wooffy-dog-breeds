@@ -5,20 +5,24 @@
     "shopify_handle": "bull-terrier-puppy-checklist",
     "group": "Bull Terrier",
     "size_category": "Guide",
-    "tags": ["bull-terrier", "puppy", "checklist", "hereditary-nephritis", "stubborn-breed"],
+    "tags": [
+      "bull-terrier",
+      "puppy",
+      "checklist",
+      "hereditary-nephritis",
+      "stubborn-breed"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Everything you need before your Bull Terrier puppy comes home — including the HN DNA test verification that must happen before purchase, and training strategies for an entertainingly stubborn breed.",
     "meta_description": "Bull Terrier puppy checklist: HN DNA test verification before purchase, gear for an energetic medium breed, training strategies for an independent terrier, and first-week vet priorities."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bullterrier-3453301920.jpg/330px-Bullterrier-3453301920.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9949d5b0-463a-40ba-863c-fb234445afe5.png?v=1777526557",
       "alt": "Bull Terrier puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<p>Bull Terriers are intelligent dogs with a legendary stubbornness. They learn quickly — and then decide whether to comply. Understanding this from the start shapes your training approach toward what actually works.</p><h3>What Works</h3><ul><li><strong>Short sessions (5–10 minutes):</strong> Bull Terriers bore with repetition quickly. Short, varied, high-energy sessions produce better results than long drills</li><li><strong>High-value treats:</strong> If the reward isn't interesting enough, a Bull Terrier will look at you blankly. Find what your specific dog finds compelling and use it</li><li><strong>Making it feel like a game:</strong> Bull Terriers engage more with training that feels playful. Incorporate play rewards alongside food</li><li><strong>Consistency across all household members:</strong> If one person allows jumping and another tries to train against it, the dog learns that rules apply to some people and not others</li></ul><h3>What Doesn't Work</h3><ul><li>Repetitive, regimented drills — produce shutdown or clowning</li><li>Harsh corrections — produce either shutdown, increased stubbornness, or both</li><li>Assuming that because they know a command, they'll always perform it — Bull Terriers need ongoing reinforcement throughout their lifetime</li></ul><h3>Puppy Class</h3><p>Enroll as soon as possible (8–12 weeks). Socialization during the critical window is important for a breed that can be dog-selective as an adult. Puppy classes provide controlled exposure to other dogs and strangers in a positive environment.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What is the HN DNA test and what results should I see?",

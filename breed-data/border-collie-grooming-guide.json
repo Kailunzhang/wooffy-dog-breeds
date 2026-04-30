@@ -5,20 +5,24 @@
     "shopify_handle": "border-collie-grooming-guide",
     "group": "Border Collie",
     "size_category": "Guide",
-    "tags": ["border-collie", "grooming", "double-coat", "rough-coat", "smooth-coat"],
+    "tags": [
+      "border-collie",
+      "grooming",
+      "double-coat",
+      "rough-coat",
+      "smooth-coat"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Border Collies come in rough and smooth coat varieties — both double-coated and both requiring the same fundamental approach. Here's the routine that keeps either coat healthy and manageable.",
     "meta_description": "Border Collie grooming guide: rough and smooth coat maintenance, seasonal coat blow management, tools and brushing technique, and ear and nail care for an active herding breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Border_Collie_600.jpg/250px-Border_Collie_600.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_780d4102-99e6-4519-8057-b803e653fa3c.png?v=1777526283",
       "alt": "Border Collie grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Border Collie Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Border Collies are active outdoor dogs. Field work, herding, agility, and everyday exercise in varied terrain means the coat picks up grass seeds, burrs, and debris regularly. Post-exercise coat checks are a practical part of grooming for this breed.</p><h3>Post-Exercise Checks</h3><ul><li>Run your hands through the rough coat after outdoor sessions in long grass — grass seeds travel toward the skin and can cause abscesses if left embedded</li><li>Check between toes, around the ears, and under the collar — grass seed entry points</li><li>Paw pad checks after rough terrain work — cuts and abrasions are common in working dogs</li></ul><h3>Feathering Maintenance (Rough Coat)</h3><p>The feathering on the legs and chest is the highest-maintenance part of the rough coat. These long, silky hairs tangle faster than the body coat, especially if the dog is active in rough terrain. Brush the feathering separately at each grooming session, working in sections. A light application of conditioner or detangling spray to the dry feathering before brushing prevents snapping and reduces tangle formation.</p><h3>Ear Care</h3><p>Border Collies have semi-erect or fully erect ears that generally provide good airflow. However, active outdoor dogs accumulate debris in the ear canal more readily than house dogs. Check weekly and clean with ear solution when visible debris is present or odor occurs.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often do Border Collies need grooming?",

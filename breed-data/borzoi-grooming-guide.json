@@ -5,7 +5,10 @@
     "shopify_handle": "borzoi-grooming-guide",
     "group": "Borzoi",
     "size_category": "Guide",
-    "tags": ["borzoi", "grooming"],
+    "tags": [
+      "borzoi",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "The Borzoi's long, silky coat is less demanding than its appearance suggests — moderately mat-resistant and requiring brushing 2–3 times per week. The feathered areas need extra attention, and the long tail is vulnerable to damage in tight spaces.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Chart_rosyjski_borzoj_rybnik-kamien_pl.jpg/250px-Chart_rosyjski_borzoj_rybnik-kamien_pl.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4aa8ac13-c87a-44a5-bdaa-1da8ecf32280.png?v=1777526331",
       "alt": "Borzoi grooming guide"
     }
   },

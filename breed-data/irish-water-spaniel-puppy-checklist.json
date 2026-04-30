@@ -5,20 +5,25 @@
     "shopify_handle": "irish-water-spaniel-puppy-checklist",
     "group": "Irish Water Spaniel",
     "size_category": "Guide",
-    "tags": ["irish-water-spaniel", "puppy", "checklist", "drug-sensitivity", "ear-cleaning", "grooming"],
+    "tags": [
+      "irish-water-spaniel",
+      "puppy",
+      "checklist",
+      "drug-sensitivity",
+      "ear-cleaning",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "Before your Irish Water Spaniel comes home: confirm health documentation, enroll in insurance before the first vet visit, document the breed's drug sensitivity with your vet from day one, and identify a curly-coat-experienced groomer before the first trim.",
     "meta_description": "Irish Water Spaniel puppy checklist: health documentation, drug sensitivity communication with your vet, insurance timing, groomer selection, ear cleaning from day one, and socialization priorities."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ierse_Water_Spaniel.jpg/250px-Ierse_Water_Spaniel.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_44fb6306-1333-406c-8d9f-2d864be6c096.png?v=1777528638",
       "alt": "Irish Water Spaniel puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Water Introduction — Early and Positive</h3><p>Irish Water Spaniels are purpose-built water dogs. Most IWS puppies take readily to water with positive early introduction. Start in shallow, calm water from 8–10 weeks — a paddling pool, shallow creek, or gentle lake edge. Let the puppy choose the depth and pace. Never force entry into water. Use retrieve toys to encourage positive water association. By 4–5 months with proper introduction, most IWS puppies are enthusiastic swimmers.</p><p>After every water session, clean and dry the ears immediately. This post-water ear routine, established from puppyhood, is the most effective prevention for the chronic ear infections that affect many IWS dogs.</p><h3>Socialization Window: 8–16 Weeks</h3><p>Prioritize socialization during the critical window. IWS can be reserved with strangers without adequate early exposure. Expose the puppy to:</p><ul><li>Varied people — different ages, appearances, children, visitors</li><li>Novel environments — different settings, surfaces, sounds</li><li>Controlled dog interactions in puppy classes</li><li>Water environments progressively from early age</li><li>Handling: ears, paws, coat — critical for this breed's maintenance requirements</li></ul><h3>Training — Clownish but Capable</h3><p>IWS dogs are known for their playful, sometimes clownish personality combined with genuine working intelligence. They respond well to positive reinforcement and training that engages them — they can get bored with endless repetition. Keep sessions short, varied, and rewarding. Start basic obedience from the first week. A puppy class by 10–12 weeks provides structured training and socialization. For owners planning field or hunt test work, introduce water retrieves and bird exposure early.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What is the drug sensitivity issue in Irish Water Spaniels?",

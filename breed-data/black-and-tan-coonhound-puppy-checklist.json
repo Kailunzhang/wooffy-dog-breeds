@@ -5,20 +5,24 @@
     "shopify_handle": "black-and-tan-coonhound-puppy-checklist",
     "group": "Black and Tan Coonhound",
     "size_category": "Guide",
-    "tags": ["black-and-tan-coonhound", "puppy", "checklist", "ear-care", "scent-hound"],
+    "tags": [
+      "black-and-tan-coonhound",
+      "puppy",
+      "checklist",
+      "ear-care",
+      "scent-hound"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Before your Black and Tan Coonhound comes home: secure fencing is the first priority, followed by establishing the ear cleaning habit from day one.",
     "meta_description": "Black and Tan Coonhound puppy checklist: secure fencing, ear care setup, nose work enrichment, training approach for a scent hound, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Black_and_Tan_Coonhound.jpg/250px-Black_and_Tan_Coonhound.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_20df211f-645f-48d8-a1ac-10a91b743de7.png?v=1777526109",
       "alt": "Black and Tan Coonhound puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<p>Black and Tan Coonhounds are intelligent but scent-motivated. Training indoors with minimal distractions is much more productive than training outdoors where every smell competes with you. Start all training inside, then gradually increase environmental difficulty.</p><h3>What to Focus On</h3><ul><li>Leash manners: start loose-leash walking immediately. A dog that pulls at 20 lbs becomes a serious management problem at 90 lbs</li><li>Sit, stay, come (in low-distraction environments) — build the habit before you need it</li><li>Door manners: sit before going outside, sit before greeting visitors</li><li>Crate training: voluntary crate entry and settling — essential for a hound that will be left alone</li></ul><h3>Channel the Nose</h3><p>Rather than fighting the scent drive, channel it: nose work games, treat-find puzzles, and sniff walks (where the dog leads and sniffs at will) are enriching activities that tire the dog more effectively than distance-based exercise. A 20-minute nose work session has an equivalent settling effect to a much longer plain walk. Lean into what the dog is built for.</p><h3>Baying Management</h3><p>The baying voice cannot be trained away entirely, but nuisance baying (from boredom or under-stimulation) can be greatly reduced through adequate exercise and mental enrichment. An under-exercised Coonhound left alone will bay. An adequately exercised dog with enrichment toys settles quietly. The exercise and enrichment are the management tool — not training the bark away.</p>"
     }
   },
-
   "faq": [
     {
       "q": "At what age should I start ear cleaning?",

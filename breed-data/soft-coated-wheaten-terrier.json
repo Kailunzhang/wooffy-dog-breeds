@@ -6,74 +6,103 @@
     "group": "Terrier Group",
     "size_category": "Medium Breed",
     "tagline": "The Wheaten Terrier is an exuberant, silky-coated Irish terrier with a signature greeting style and a genuinely warm personality. They also carry serious protein-losing diseases that require annual monitoring for life.",
-    "tags": ["terrier-group", "medium-breed", "low-shedding", "silky-coat", "irish-breed", "dog-breeds"],
+    "tags": [
+      "terrier-group",
+      "medium-breed",
+      "low-shedding",
+      "silky-coat",
+      "irish-breed",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Soft Coated Wheaten Terriers are charming, playful, and better with families than many terriers. The 'Wheaten greeting' — jumping at everyone with unbounded enthusiasm — is real and requires training. More urgently: PLN and PLE are protein-losing diseases requiring annual monitoring throughout the dog's life.",
     "meta_description": "Soft Coated Wheaten Terrier breed guide: Wheaten greeting behavior, silky coat maintenance, PLN/PLE protein-losing disease monitoring requirements, Addison's disease risk, and honest ownership expectations."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "30–45 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–15 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "45–60 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate–Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "With research" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "30–45 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "45–60 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate–Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "With research"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Soft-Coated_Wheaten_Terrier.jpg/330px-Soft-Coated_Wheaten_Terrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_83c94c6b-9110-441d-8c77-5680524b82d0.png?v=1777531685",
       "alt": "Soft Coated Wheaten Terrier"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Soft Coated Wheaten Terrier?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Soft Coated Wheaten Terrier is an Irish working terrier whose name describes its defining characteristic — a silky, wavy coat the color of ripening wheat. Developed as an all-purpose farm dog in Ireland, Wheatens hunted vermin, herded livestock, and guarded property. Unlike many terriers, their multi-purpose background made them somewhat more adaptable and less singularly driven than pure hunting terriers.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The breed is known for a signature greeting behavior: the \"Wheaten greeting\" — an enthusiastic launch at anyone who enters the home, front paws aimed squarely at the person's chest. This is not aggression; it's pure social exuberance. It requires training to manage, especially around children and elderly visitors who can be knocked over.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The silky single coat is the other defining feature. Unlike many terriers, Wheatens do not have a rough outer coat — the flowing, wavy texture is distinctive and genuinely beautiful. The trade-off is mat formation behind the ears and in the armpits, and a professional grooming schedule every 6–8 weeks.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Wheatens Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A medium-sized, squarely built terrier with a flowing wheat-colored single coat. Males weigh 35–45 lbs and stand 18–19 inches; females 30–40 lbs and 17–18 inches. The coat ranges from pale honey to warm gold, with a silky, wavy texture quite unlike a standard terrier's wiry coat.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">There are two coat styles: the Irish trim (longer, more natural, flowing) and the American/English trim (shorter, neater, more sculpted). Both require professional grooming. The coat falls over the eyes in a characteristic fall; the beard and leg furnishings are part of the breed's look. Wheatens are low-shedding compared to double-coated breeds, but they are not truly non-shedding — hair collects on furniture and clothing, just differently.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Wheatens are genuinely warm, playful, and good-humored. More family-oriented than many terriers, they typically get along well with children and integrate into household life without the same intensity of prey drive that makes some terrier breeds challenging around small animals. They like people and they like being included.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The terrier independence is still present — Wheatens are not eager-to-please in the Golden Retriever mold. They learn commands but evaluate whether to follow them, and they can be stubborn when something more interesting presents itself. Consistent positive training works; nagging or harsh corrections produce the terrier stonewall.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The Wheaten greeting is a behavior pattern, not a personality flaw, but it needs management. Training a solid \"four paws on the floor\" behavior as a greeting alternative is essential from puppyhood. A Wheaten that has been allowed to jump will continue to jump at 45 lbs — with real impact on smaller visitors.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Wheaten",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">If you want a terrier that's more family-integrated than most, genuinely playful, and low-shedding with a coat that doesn't require weekly pin-brushing — the Wheaten is a good candidate. They're warmer and more social than many terrier breeds and fit well into active family households.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The practical requirements are the grooming schedule (6–8 weeks professional grooming, mat checks in between) and the health monitoring. That second part is the serious conversation: Protein-Losing Nephropathy (PLN) and Protein-Losing Enteropathy (PLE) are the breed's primary health risks, and both require annual monitoring through a specific vet test (urine protein:creatinine ratio for PLN, fecal protein for PLE) starting from puppyhood. Not every Wheaten develops these conditions, but you don't know which dogs will — so all Wheatens need the monitoring protocol established with a vet from year one.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Addison's disease (adrenal insufficiency) is also above-average in the breed and can present with vague, intermittent symptoms that are easily missed until a crisis. Make sure your vet knows this breed's predispositions.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">45–60 minutes daily. Wheatens have genuine terrier energy — they need real exercise, not just a bathroom trip around the block. Daily walks plus active play or fetch sessions are the baseline. They enjoy games and interactive exercise; a bored Wheaten becomes a destructive one.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Professional grooming every 6–8 weeks in the Irish or American trim. Between appointments: comb through the coat 2–3 times per week, paying particular attention to behind the ears and in the armpits where mats form first. A wide-tooth comb and a slicker brush are the primary tools. See the <a href=\"/blogs/dog-breeds/soft-coated-wheaten-terrier-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Wheaten grooming guide</a> for the full routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Start from day one and be consistent. The Wheaten greeting needs to be addressed immediately — teach \"sit\" as the default greeting behavior before jumping becomes habitual. Positive reinforcement with food works well. The terrier independence means sessions should be short (5–10 minutes) and varied to maintain engagement.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Wheatens can live 12–15 years, but the breed carries specific protein-losing diseases that require proactive annual monitoring regardless of whether the dog appears healthy. Early detection significantly affects outcome.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Protein-Losing Nephropathy (PLN)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Kidney disease causing protein loss through the urine. Detected via annual urine protein:creatinine ratio test. Caught early, management can significantly extend quality and length of life. Establish this monitoring protocol with your vet from year one — before symptoms appear.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Protein-Losing Enteropathy (PLE)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Intestinal disease causing protein loss through the gut. Detected via fecal protein monitoring and clinical signs (chronic GI symptoms, weight loss, fluid accumulation). Annual monitoring alongside PLN testing is standard protocol for Wheatens.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Addison's Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Adrenal gland insufficiency — higher than average incidence in Wheatens. Can present as vague intermittent weakness, vomiting, and lethargy (the \"Great Pretender\"). A crisis (addisonian crisis) is life-threatening. Manageable with medication once diagnosed.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Renal Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Abnormal kidney development — appears in puppies and young dogs. Reputable breeders screen for this; ask about the parent dogs' kidney health history.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Key actions:</strong> Establish annual PLN monitoring (UPC ratio) and PLE monitoring with your vet from puppyhood. Enroll in pet insurance before the first vet visit.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$3,000–$6,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">PLN/PLE annual monitoring</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$100–$200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$100–$200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Professional grooming (6–8 wks)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$200–$400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$4,950–$10,200</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,600–$3,000</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/soft-coated-wheaten-terrier-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Wheaten first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Soft Coated Wheaten Terrier Right for You?",
@@ -91,25 +120,50 @@
         "Households with small pets like cats or rabbits the dog wasn't raised with (terrier prey drive)"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Wheaten",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$3,000–$6,500 from reputable breeders. The SCWTCA (Soft Coated Wheaten Terrier Club of America) maintains a breeder referral directory. Ask breeders what kidney and gut health monitoring protocols they follow in their breeding program. Responsible breeders are aware of PLN and PLE and track outcomes in their lines.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Wheaten rescues operate regionally. Adult rescue Wheatens are often surrendered due to grooming neglect (matted coats) or the Wheaten greeting overwhelming unprepared owners. A rescue adult with a known health history and temperament can be a solid match for an experienced household.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Wheaten comes home, complete the <a href=\"/blogs/dog-breeds/soft-coated-wheaten-terrier-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Wheaten puppy checklist</a> — grooming appointment scheduled, PLN/PLE monitoring protocol discussed with your vet, and pet insurance enrolled before the first visit.</p>"
     }
   },
-
   "faq": [
-    { "q": "What is the Wheaten greeting?", "a": "An enthusiastic jump at anyone who enters the home, directed at face or chest level. It's a breed characteristic, not aggression — Wheatens greet with unrestrained joy. It requires consistent training from puppyhood to manage: a solid 'sit' as the greeting behavior alternative is the standard approach. Without training, a 40-lb dog launching at guests becomes a real problem." },
-    { "q": "Do Soft Coated Wheaten Terriers shed?", "a": "Less than most double-coated breeds, but they're not truly non-shedding. The single silky coat doesn't shed in seasonal blows the way double coats do — instead, loose hair tends to mat into the coat rather than falling freely. Regular combing removes it. They're a reasonable option for households with mild allergies, though no dog is completely hypoallergenic." },
-    { "q": "What is PLN and why does every Wheaten need annual monitoring?", "a": "Protein-Losing Nephropathy is a kidney disease that causes protein loss through the urine. It affects Wheatens at above-average rates and can be present without obvious symptoms until it's significantly advanced. Annual urine protein:creatinine ratio testing from puppyhood catches it early, when management is most effective. This is a breed-specific protocol, not optional." },
-    { "q": "Are Wheatens good with children?", "a": "Generally yes — they're playful, tolerant, and genuinely engaged with family life. The main concern is the jumping greeting behavior around very small children. A trained Wheaten with 'four paws on the floor' established as the default greeting is an excellent family dog. An untrained Wheaten launching at a toddler is a hazard, even without any aggressive intent." }
+    {
+      "q": "What is the Wheaten greeting?",
+      "a": "An enthusiastic jump at anyone who enters the home, directed at face or chest level. It's a breed characteristic, not aggression — Wheatens greet with unrestrained joy. It requires consistent training from puppyhood to manage: a solid 'sit' as the greeting behavior alternative is the standard approach. Without training, a 40-lb dog launching at guests becomes a real problem."
+    },
+    {
+      "q": "Do Soft Coated Wheaten Terriers shed?",
+      "a": "Less than most double-coated breeds, but they're not truly non-shedding. The single silky coat doesn't shed in seasonal blows the way double coats do — instead, loose hair tends to mat into the coat rather than falling freely. Regular combing removes it. They're a reasonable option for households with mild allergies, though no dog is completely hypoallergenic."
+    },
+    {
+      "q": "What is PLN and why does every Wheaten need annual monitoring?",
+      "a": "Protein-Losing Nephropathy is a kidney disease that causes protein loss through the urine. It affects Wheatens at above-average rates and can be present without obvious symptoms until it's significantly advanced. Annual urine protein:creatinine ratio testing from puppyhood catches it early, when management is most effective. This is a breed-specific protocol, not optional."
+    },
+    {
+      "q": "Are Wheatens good with children?",
+      "a": "Generally yes — they're playful, tolerant, and genuinely engaged with family life. The main concern is the jumping greeting behavior around very small children. A trained Wheaten with 'four paws on the floor' established as the default greeting is an excellent family dog. An untrained Wheaten launching at a toddler is a hazard, even without any aggressive intent."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Airedale Terrier", "slug": "airedale-terrier", "note": "Larger terrier, wiry coat rather than silky, similar independence and working heritage"},
-    {"name": "Kerry Blue Terrier", "slug": "kerry-blue-terrier", "note": "Another Irish terrier, wavy single coat, similar temperament profile"},
-    {"name": "Standard Schnauzer", "slug": "standard-schnauzer", "note": "Similar size and energy, wiry coat, versatile working terrier type"},
-    {"name": "Miniature Schnauzer", "slug": "miniature-schnauzer", "note": "Smaller, more manageable, similar low-shedding profile and terrier personality"}
+    {
+      "name": "Airedale Terrier",
+      "slug": "airedale-terrier",
+      "note": "Larger terrier, wiry coat rather than silky, similar independence and working heritage"
+    },
+    {
+      "name": "Kerry Blue Terrier",
+      "slug": "kerry-blue-terrier",
+      "note": "Another Irish terrier, wavy single coat, similar temperament profile"
+    },
+    {
+      "name": "Standard Schnauzer",
+      "slug": "standard-schnauzer",
+      "note": "Similar size and energy, wiry coat, versatile working terrier type"
+    },
+    {
+      "name": "Miniature Schnauzer",
+      "slug": "miniature-schnauzer",
+      "note": "Smaller, more manageable, similar low-shedding profile and terrier personality"
+    }
   ]
 }

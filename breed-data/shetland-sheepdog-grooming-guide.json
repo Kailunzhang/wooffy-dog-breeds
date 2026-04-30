@@ -5,20 +5,24 @@
     "shopify_handle": "shetland-sheepdog-grooming-guide",
     "group": "Shetland Sheepdog",
     "size_category": "Guide",
-    "tags": ["shetland-sheepdog", "grooming", "double-coat", "ruff-matting", "deshedding"],
+    "tags": [
+      "shetland-sheepdog",
+      "grooming",
+      "double-coat",
+      "ruff-matting",
+      "deshedding"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "The Shetland Sheepdog's heavy double coat with its distinctive ruff needs 2–3 brushings per week and professional deshedding twice a year. The ruff is where mats form fastest — here's how to prevent them.",
     "meta_description": "Shetland Sheepdog grooming guide: double coat maintenance, ruff mat prevention, seasonal deshedding appointments, tools for a Sheltie coat, and ear and nail care."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Shetland_Sheepdog_sable.jpg/330px-Shetland_Sheepdog_sable.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_f24d2a67-1ffd-4fb5-90ef-e8720f770823.png?v=1777531454",
       "alt": "Shetland Sheepdog grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Sheltie Coat",
@@ -36,7 +40,6 @@
       "html": "<p>The ruff — the thick mane of hair around the Sheltie's neck and chest — is the most mat-prone area of the coat and requires specific attention at every grooming session. Left unbrushed, the ruff forms dense mats at the skin that are very difficult to remove without dematting tools or scissors. The collar sitting against the ruff accelerates mat formation through friction and moisture.</p><h3>Collar Management</h3><ul><li>Check under the collar after every walk — the pressure and moisture from a wet or tight collar creates mat-forming conditions directly in the ruff</li><li>Consider a quick-release collar worn only during walks and removed when indoors — this significantly reduces friction matting</li><li>A rolled leather collar causes less coat friction than a flat nylon collar</li><li>Detangling spray applied lightly to the ruff before and after collar removal reduces friction damage</li></ul><h3>Ruff Brushing Technique</h3><p>The ruff requires longer brushing time than any other body area. Work through it in sections with the pin brush, using a lift-and-brush motion rather than dragging through from the surface. A steel comb at the end of each session confirms the ruff is clear to the skin. Finding a small mat early is a 2-minute fix; allowing it to develop to a skin-level mat is a much more difficult problem.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often do Shetland Sheepdogs need grooming?",

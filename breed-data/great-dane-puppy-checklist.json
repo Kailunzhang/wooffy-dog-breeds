@@ -5,20 +5,25 @@
     "shopify_handle": "great-dane-puppy-checklist",
     "group": "Great Dane",
     "size_category": "Guide",
-    "tags": ["great-dane", "puppy", "checklist", "giant-breed", "gastropexy", "exercise-limits"],
+    "tags": [
+      "great-dane",
+      "puppy",
+      "checklist",
+      "giant-breed",
+      "gastropexy",
+      "exercise-limits"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Everything you need before your Great Dane puppy comes home — including the gastropexy discussion to have at the first vet visit and the exercise rules that protect growing giant-breed joints.",
     "meta_description": "Great Dane puppy checklist: strict exercise limits for growing giant breeds, gastropexy scheduling, XL gear requirements, food selection, and first-week vet priorities."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dog_niemiecki_%C5%BC%C3%B3%C5%82ty_LM980.jpg/330px-Dog_niemiecki_%C5%BC%C3%B3%C5%82ty_LM980.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_6fb2bf9a-3794-4ab1-b413-a8f801886afb.png?v=1777528251",
       "alt": "Great Dane puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>The Most Restrictive Puppy Exercise Rules in Dog Ownership</h3><p>Great Dane growth plates close at 18–24 months — later than almost any other breed. The rules during this period are strict:</p><ul><li><strong>No forced running:</strong> 5 minutes of structured exercise per month of age, twice daily maximum</li><li><strong>No jumping:</strong> no jumping on/off furniture, out of vehicles, or off any raised surface</li><li><strong>No stair climbing:</strong> carry the puppy up and down stairs, or use a ramp. Extended stair use should be avoided until 18 months</li><li><strong>No jogging or running alongside bicycles</strong></li><li><strong>Free play in the yard is fine</strong> — the puppy self-regulates when running on their own terms</li></ul><p>These rules are more restrictive than for most breeds because the growth rate of giant breeds is extreme. Premature stress on growth plates causes permanent damage. A 4-month-old Great Dane growing at 3–4 lbs per week is not a dog to jog with.</p><h3>Feeding for Healthy Growth</h3><ul><li>Feed giant-breed puppy formula — measure portions precisely, don't free-feed</li><li>Divide daily food into 2–3 meals — never one large meal, and always rest the dog 30–60 minutes before and after eating (bloat prevention habits)</li><li>Do not supplement with calcium, extra protein, or growth supplements</li><li>At each vet visit, have the vet assess body condition score — a Great Dane puppy should not look pudgy</li></ul>"
     }
   },
-
   "faq": [
     {
       "q": "What size crate does a Great Dane puppy need?",

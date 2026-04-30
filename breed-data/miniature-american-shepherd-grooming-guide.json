@@ -5,20 +5,24 @@
     "shopify_handle": "miniature-american-shepherd-grooming-guide",
     "group": "Miniature American Shepherd",
     "size_category": "Guide",
-    "tags": ["miniature-american-shepherd", "grooming", "double-coat", "feathering", "shedding"],
+    "tags": [
+      "miniature-american-shepherd",
+      "grooming",
+      "double-coat",
+      "feathering",
+      "shedding"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "The Miniature American Shepherd's medium double coat with feathering requires consistent 2–3 times per week brushing. The legs and ears need the most attention — here's how to manage them.",
     "meta_description": "Miniature American Shepherd grooming guide: double coat maintenance, feathering care on legs and ears, coat blow season, and tools for maintaining a manageable but active herding dog coat."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blue_Merle_Miniature_American_Shepherd_in_Grass.jpg/330px-Blue_Merle_Miniature_American_Shepherd_in_Grass.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_a0f02e63-41ba-4141-9367-a65a0eee3549.png?v=1777529737",
       "alt": "Miniature American Shepherd grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The MAS Coat",
@@ -36,7 +40,6 @@
       "html": "<p>The Miniature American Shepherd is a highly active, agility-capable breed that spends significant time outdoors. Their coat picks up debris readily, and post-exercise coat checks are a practical maintenance habit.</p><h3>Post-Exercise Coat Checks</h3><ul><li>Run hands through the coat after outdoor sessions in long grass or brush — grass seeds target the feathering and skin folds</li><li>Check between toes and in the ear feathering specifically — grass seeds penetrate these areas and cause abscesses if missed</li><li>Check paw pads for cuts or embedded debris after rough terrain exercise</li></ul><h3>Ear Feathering Mat Prevention</h3><p>The ear feathering is a chronic problem area for MAS. This hair is fine, grows in multiple directions, and mats rapidly without regular attention. A light application of detangling spray to the dry ear feathering before brushing significantly reduces breakage and makes comb-through easier. Check this area at every grooming session — a mat forming behind the ear is very easy to miss until it's well established.</p><h3>Managing Coat Across Life Stages</h3><p>MAS coat texture can change slightly with age and hormonal status. Intact females often have richer, longer feathering; spayed females may see some coat texture change. Coat texture naturally develops fully around 18–24 months — the puppy coat is softer and less feathered than the adult coat.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often should I groom my Miniature American Shepherd?",

@@ -5,20 +5,25 @@
     "shopify_handle": "cardigan-welsh-corgi-first-year-costs",
     "group": "Cardigan Welsh Corgi",
     "size_category": "Guide",
-    "tags": ["cardigan-welsh-corgi", "cost", "budget", "first-year", "IVDD", "PRA"],
+    "tags": [
+      "cardigan-welsh-corgi",
+      "cost",
+      "budget",
+      "first-year",
+      "IVDD",
+      "PRA"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Cardigan Welsh Corgi ownership costs $2,500–$5,500 in the first year. IVDD (back disease) prevention and PRA DNA testing are breed-specific health priorities that affect setup and purchase decisions.",
     "meta_description": "Cardigan Welsh Corgi first year costs: puppy price, IVDD prevention measures, PRA DNA testing, vet bills, pet insurance, and lifetime cost estimates for this herding breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cardigan_Welsh_Corgi%2C_Profile.png/250px-Cardigan_Welsh_Corgi%2C_Profile.png",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_8249ad7e-70ce-44a2-9772-2f867f78be14.png?v=1777526796",
       "alt": "Cardigan Welsh Corgi first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +41,6 @@
       "html": "<p>With a 12–15 year lifespan, Cardigans have moderate annual ongoing costs. The primary financial risk variable is IVDD — whether a disc event occurs and at what severity.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, no IVDD events</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$15,000–$25,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">One IVDD event requiring medical management</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$18,000–$32,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">IVDD surgery + ongoing spinal management</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$25,000–$45,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">The low annual food and grooming costs make Cardigans affordable to keep in good years. The IVDD surgical cost when it occurs is the primary budget risk — pet insurance enrolled before any conditions are documented is the appropriate financial protection.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does a Cardigan Welsh Corgi puppy cost from a reputable breeder?",

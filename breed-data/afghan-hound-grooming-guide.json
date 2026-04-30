@@ -5,7 +5,10 @@
     "shopify_handle": "afghan-hound-grooming-guide",
     "group": "Afghan Hound",
     "size_category": "Guide",
-    "tags": ["afghan-hound", "grooming"],
+    "tags": [
+      "afghan-hound",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "The Afghan Hound's long, silky coat is one of the most demanding in the dog world — requiring weekly bathing, conditioning, and thorough brushing sessions that can take 2–4 hours. Many pet owners opt for a shorter sporting clip.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Afghan_dog_-_cropped.jpg/330px-Afghan_dog_-_cropped.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_84b10545-e15c-4868-835f-8cb41bcad2ee.png?v=1777525291",
       "alt": "Afghan Hound grooming guide"
     }
   },

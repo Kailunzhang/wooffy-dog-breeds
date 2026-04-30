@@ -5,39 +5,39 @@
     "shopify_handle": "french-bulldog-grooming-guide",
     "group": "French Bulldog",
     "size_category": "Guide",
-    "tags": ["french-bulldog", "grooming", "wrinkle-care", "dog-breeds"],
+    "tags": [
+      "french-bulldog",
+      "grooming",
+      "wrinkle-care",
+      "dog-breeds"
+    ],
     "published": true,
     "excerpt": "French Bulldog grooming is mostly simple — but the wrinkle and skin fold cleaning is non-negotiable and more involved than people expect. Here's the full routine.",
     "meta_description": "French Bulldog grooming guide: wrinkle cleaning routine, coat care, ear cleaning, and how to prevent skin fold infections."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2008-07-28_Dog_at_Frolick_Field.jpg/330px-2008-07-28_Dog_at_Frolick_Field.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_161a47a1-305d-4416-97ab-d3764478c6ee.png?v=1777527850",
       "alt": "French Bulldog"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "Low Coat Maintenance, High Skin Maintenance",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">French Bulldogs have one of the simplest coats of any breed — short, smooth, and low-shedding compared to double-coated dogs. You will not spend hours brushing a Frenchie. You will not deal with seasonal blowouts. A quick weekly brush and a bath every 6–8 weeks handles the coat entirely.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">What makes French Bulldog grooming unique is the skin fold maintenance. The characteristic wrinkles that give the breed its look — the facial folds, the nose rope, the tail pocket — trap moisture, dead skin cells, and bacteria. Left uncleaned, these folds develop infections that cause real discomfort and require veterinary treatment. The cleaning routine is simple once established, but it needs to happen consistently. For most Frenchie owners, this is the daily or every-other-day task that other breeds don't have.</p>"
     },
-
     "care": {
       "label": "Tools & Routine",
       "heading": "Grooming Tools and Weekly Schedule",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">What You Actually Need</h3><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Rubber grooming mitt or soft bristle brush</strong> — for the coat; nothing elaborate required</li><li><strong style=\"color:#1a1a1a;\">Unscented baby wipes or dog-specific fold wipes</strong> — for daily wrinkle cleaning; pet-safe, gentle on skin</li><li><strong style=\"color:#1a1a1a;\">Canine eye wipes</strong> — for the eye area, which can get discharge in the inner corner</li><li><strong style=\"color:#1a1a1a;\">Gentle dog shampoo</strong> — for baths; avoid human shampoo which strips skin oils</li><li><strong style=\"color:#1a1a1a;\">Cotton balls and ear cleaner</strong> — for weekly ear cleaning</li><li><strong style=\"color:#1a1a1a;\">Styptic powder</strong> — for nail trim accidents; useful to have</li></ul><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Routine Schedule</h3><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;width:30%;\">Task</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;width:25%;\">Frequency</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Notes</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;\">Wrinkle &amp; skin fold cleaning</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Daily to every other day</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The most important task for a Frenchie. Wipe folds thoroughly, then dry. Moisture causes infection.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;\">Coat brush</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Weekly</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Removes loose hair and skin debris; distributes coat oils.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;\">Ear cleaning</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Weekly</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Upright ears collect less moisture than floppy ears, but still need regular checking.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;\">Eye area cleaning</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Every few days</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Frenchies often develop discharge in the inner corners; wipe gently with a canine eye wipe.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;\">Bath</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Every 6–8 weeks</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Dry folds thoroughly after every bath; damp skin folds are infection-prone.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;\">Nail trim</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Every 3–4 weeks</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Frenchies are low-activity so nails don't self-trim from pavement wear.</td></tr></tbody></table>"
     },
-
     "special": {
       "label": "Skin Fold Care",
       "heading": "The Wrinkle Cleaning Routine",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">What to Clean and How</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">French Bulldogs have four main skin fold areas that need regular attention:</p><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Facial folds</strong> — the wrinkles above the nose and around the muzzle. Wipe with a damp cloth or dog wipe, getting into the fold itself. Follow immediately with a dry cloth or cotton ball to remove moisture.</li><li><strong style=\"color:#1a1a1a;\">Nose rope</strong> — the roll of skin above the nose on dogs with a prominent one. Particularly prone to yeast and bacterial growth. Check for redness or odor; these are early infection signs.</li><li><strong style=\"color:#1a1a1a;\">Under-eye area</strong> — dark tear staining in the inner corner can build up and cause irritation. Clean gently with a canine eye wipe.</li><li><strong style=\"color:#1a1a1a;\">Tail pocket</strong> — Frenchies with a screw tail have a fold of skin around the tail base that traps debris. This is the fold most owners miss. Lift the tail and wipe this area daily; it can become badly infected quickly if neglected.</li></ul><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Signs of Skin Fold Infection</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Redness, odor, brown or dark discharge, and a dog that scratches or rubs their face on the floor — these all indicate a skin fold infection that needs veterinary attention. Topical treatment with an antifungal or antibacterial cream (prescribed by your vet) usually resolves early infections. Chronic or severe infections may require ongoing management.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The cleaning routine is not glamorous, but it takes about 2 minutes once you have a system. Frenchies that are used to it from puppyhood tolerate it well. The owners who have chronic fold infection problems are almost always the ones who skip the routine during busy weeks. Consistency prevents the problem entirely.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often do I need to clean my French Bulldog's wrinkles?",

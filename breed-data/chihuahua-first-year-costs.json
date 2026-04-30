@@ -5,20 +5,24 @@
     "shopify_handle": "chihuahua-first-year-costs",
     "group": "Chihuahua",
     "size_category": "Guide",
-    "tags": ["chihuahua", "cost", "first-year", "toy-breed", "small-dog-cost"],
+    "tags": [
+      "chihuahua",
+      "cost",
+      "first-year",
+      "toy-breed",
+      "small-dog-cost"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Chihuahuas are among the cheapest breeds to own day-to-day — tiny food bills, minimal grooming. But the 14–17 year lifespan means total lifetime cost adds up, and dental care is an unavoidable expense.",
     "meta_description": "Chihuahua first year cost breakdown: purchase price, dental care costs, vet care, food, and lifetime cost perspective for this long-lived toy breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chihuahua1_bvdb.jpg/330px-Chihuahua1_bvdb.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_77ee0376-e485-438a-82b4-3eb9b9088b95.png?v=1777526962",
       "alt": "Chihuahua cost guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
@@ -36,7 +40,6 @@
       "html": "<h3>Genuinely Cheap</h3><ul><li><strong>Food:</strong> A Chihuahua eats less per month than a large dog eats per week. A quality small-breed kibble runs $100–$200/year.</li><li><strong>Grooming:</strong> Smooth-coat Chihuahuas need almost nothing. Long-coats need basic brushing supplies and occasional professional baths — still modest costs.</li><li><strong>Exercise gear:</strong> No specialized equipment needed. A harness and a leash are sufficient.</li></ul><h3>Not as Cheap as You'd Think</h3><ul><li><strong>Vet care:</strong> The base cost of vaccinations, parasite prevention, and annual exams doesn't scale with dog size — it's roughly the same as for any dog.</li><li><strong>Dental care:</strong> Small mouth = crowded teeth = more tartar. Professional cleanings become necessary and expensive over a long lifespan.</li><li><strong>Emergency fragility:</strong> Chihuahuas are physically fragile. A fall, a rough encounter with another dog, or a household accident can cause injuries requiring significant vet care. Pet insurance is recommended.</li><li><strong>Cardiac monitoring:</strong> Mitral valve disease develops in many older Chihuahuas. Cardiology consults run $250–$500 and may become annual expenses from age 8–10 onward.</li></ul>"
     }
   },
-
   "faq": [
     {
       "q": "How much does a Chihuahua puppy cost?",

@@ -5,7 +5,10 @@
     "shopify_handle": "clumber-spaniel-grooming-guide",
     "group": "Clumber Spaniel",
     "size_category": "Guide",
-    "tags": ["clumber-spaniel", "grooming"],
+    "tags": [
+      "clumber-spaniel",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "The Clumber Spaniel's dense, silky white coat requires weekly brushing and regular trimming around the ears, feet, and belly to stay manageable. The facial folds and ear canals need weekly attention to prevent chronic infections.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Clumber_spaniel_rybnik_kamien_pppl.jpg/330px-Clumber_spaniel_rybnik_kamien_pppl.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_b1217ba3-385d-4535-a293-52af132693e0.png?v=1777527078",
       "alt": "Clumber Spaniel grooming guide"
     }
   },

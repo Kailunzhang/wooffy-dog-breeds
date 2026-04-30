@@ -5,20 +5,24 @@
     "shopify_handle": "shiba-inu-grooming-guide",
     "group": "Shiba Inu",
     "size_category": "Guide",
-    "tags": ["shiba-inu", "grooming", "double-coat", "coat-blow", "shedding"],
+    "tags": [
+      "shiba-inu",
+      "grooming",
+      "double-coat",
+      "coat-blow",
+      "shedding"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "The Shiba Inu's double coat is naturally clean and easy to manage most of the year — and dramatic during twice-yearly coat blows. Never shave it. Here's what to do instead.",
     "meta_description": "Shiba Inu grooming guide: double coat maintenance, undercoat rake technique for coat blows, why shaving a Shiba destroys coat function, and managing a clean but stubborn breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Taka_Shiba.jpg/250px-Taka_Shiba.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_430bdfcb-1cb7-43e1-a389-d6288770f72b.png?v=1777531510",
       "alt": "Shiba Inu grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Shiba Inu Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Shibas are intelligent, independent, and often stubborn about handling they haven't been habituated to. A Shiba puppy that is handled daily — paws touched, ears examined, body brushed — develops tolerance for grooming. An adult Shiba that has never been handled can be very vocal and resistant during grooming sessions (the famous \"Shiba scream\" is a real phenomenon during unwanted restraint).</p><h3>Building Grooming Tolerance</h3><ul><li>Start handling daily from day one — every grooming session is also a handling exercise</li><li>Use very high-value treats to associate grooming tools with positive outcomes</li><li>Keep early sessions short and positive — end before the dog becomes frustrated</li><li>A non-slip mat on the grooming surface reduces anxiety significantly in most dogs</li><li>Never chase a fleeing Shiba around to groom it — this teaches avoidance. Instead, make grooming a predictable, treat-rewarded routine</li></ul><h3>Professional Grooming</h3><p>Many Shiba owners use professional groomers for deshedding baths during coat blow season. Ensure the groomer is experienced with double-coated spitz breeds and give explicit instructions that the coat should not be clipped or trimmed — only brushed, bathed, and blown out. A groomer who doesn't know the breed may attempt to cut the coat, which is not appropriate for this breed.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often do Shiba Inus blow their coat?",

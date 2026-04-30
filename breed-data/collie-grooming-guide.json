@@ -5,20 +5,24 @@
     "shopify_handle": "collie-grooming-guide",
     "group": "Collie",
     "size_category": "Guide",
-    "tags": ["collie", "grooming", "rough-collie", "double-coat", "mane-maintenance"],
+    "tags": [
+      "collie",
+      "grooming",
+      "rough-collie",
+      "double-coat",
+      "mane-maintenance"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "The Rough Collie's spectacular mane and flowing coat require daily brushing or regular professional grooming. Here's how to maintain it — and why the mane is where the work actually happens.",
     "meta_description": "Collie grooming guide: rough coat daily brushing routine, mane mat prevention, professional clip schedule, CEA and MDR1 awareness, and ear and nail care for this herding breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1Dog-rough-collie-portrait.jpg/330px-1Dog-rough-collie-portrait.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_cfaeb703-e301-4c31-810b-d3e7c267396e.png?v=1777527180",
       "alt": "Collie grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Collie Coat",
@@ -36,7 +40,6 @@
       "html": "<p>The Rough Collie's most distinctive feature — the profuse mane and frill — is also the highest-maintenance part of the coat. Without daily attention, the mane mats from the inside out. Mats that reach the skin require professional dematting (expensive and uncomfortable for the dog) or shaving (which destroys the signature appearance). Daily mane brushing is the foundation of Collie coat care.</p><h3>Mane Technique</h3><ul><li>Brush the mane daily — even a 2-minute daily session is more effective than a 20-minute weekly session</li><li>Work the mane in sections from the outside in, lifting and brushing rather than pulling through from the surface</li><li>Apply a light detangling spray to the dry mane before brushing — it significantly reduces hair breakage and eases comb-through</li><li>A steel comb used through the fully brushed mane confirms you've reached the skin and there are no hidden developing mats</li></ul><h3>MDR1 Drug Sensitivity</h3><p>Rough Collies are affected by the MDR1/ABCB1 mutation at a high rate — up to 70% of Rough Collies may carry at least one mutant copy. This mutation makes the blood-brain barrier permeable to certain medications including some dewormers (ivermectin, milbemycin) and certain anesthetics. Responsible breeders DNA-test both parents; ask for documentation. Have your vet test your dog if breeder documentation is unavailable. The results must be in your dog's medical record and should be carried as a medication alert card.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does a Rough Collie need grooming?",

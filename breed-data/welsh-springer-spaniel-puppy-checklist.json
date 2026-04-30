@@ -5,20 +5,25 @@
     "shopify_handle": "welsh-springer-spaniel-puppy-checklist",
     "group": "Welsh Springer Spaniel",
     "size_category": "Guide",
-    "tags": ["welsh-springer-spaniel", "puppy", "checklist", "glaucoma", "PRA", "ear-cleaning"],
+    "tags": [
+      "welsh-springer-spaniel",
+      "puppy",
+      "checklist",
+      "glaucoma",
+      "PRA",
+      "ear-cleaning"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "Before your Welsh Springer comes home: PRA DNA test and CAER ophthalmology documentation from both parents, insurance active before the first vet visit, and an eye exam baseline at the first veterinary appointment.",
     "meta_description": "Welsh Springer Spaniel puppy checklist: PRA and eye health documentation, glaucoma awareness, insurance timing, ear cleaning from day one, socialization priorities, and first vet visit items."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Welsh_Springer_Spaniel_1.jpg/250px-Welsh_Springer_Spaniel_1.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_cb7b4166-a705-4063-9493-44edaa169f78.png?v=1777532182",
       "alt": "Welsh Springer Spaniel puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Socialization Window: 8–16 Weeks</h3><p>Welsh Springer Spaniels are typically friendly dogs with a strong attachment to their family. Active socialization during the critical window builds a confident, adaptable adult. Some lines trend toward wariness without adequate early exposure. Prioritize:</p><ul><li>Varied people — different ages, appearances, children, visitors</li><li>Novel environments — different settings, surfaces, urban and rural sounds</li><li>Controlled dog interactions through puppy classes</li><li>Handling: ears, eyes, paws — especially important for this breed's health monitoring needs</li></ul><p>Carry the puppy in high disease-risk areas before vaccinations are complete. Don't sacrifice the socialization window.</p><h3>Glaucoma Awareness — Learn the Signs Now</h3><p>Acute glaucoma is a medical emergency. Learn the signs before you need to recognize them: sudden eye redness, cloudiness, squinting, or the dog pawing at one eye. These require immediate veterinary attention — not a wait-and-see approach. Knowing the signs means acting quickly enough to potentially preserve the dog's vision.</p><h3>Training</h3><p>Welsh Springers are intelligent, willing dogs that respond well to positive training methods. They are less independently-minded than some sporting breeds — they want to work with their owners. Start basic obedience from the first week. A puppy class by 10–12 weeks provides structure and socialization. For owners interested in field work, the Welsh Springer has genuine field ability and responds well to hunting and hunt test training.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Is glaucoma hereditary in Welsh Springer Spaniels?",

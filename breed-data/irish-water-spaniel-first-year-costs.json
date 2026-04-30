@@ -5,20 +5,25 @@
     "shopify_handle": "irish-water-spaniel-first-year-costs",
     "group": "Irish Water Spaniel",
     "size_category": "Guide",
-    "tags": ["irish-water-spaniel", "cost", "budget", "first-year", "drug-sensitivity", "grooming"],
+    "tags": [
+      "irish-water-spaniel",
+      "cost",
+      "budget",
+      "first-year",
+      "drug-sensitivity",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "Irish Water Spaniel ownership costs $2,800–$5,500 in the first year. Drug sensitivity is the breed-specific health flag that every owner and veterinarian must know. Ongoing professional grooming every 8–10 weeks is a permanent expense to budget from day one.",
     "meta_description": "Irish Water Spaniel first year costs: puppy price, food, professional grooming, vet care, insurance, and the drug sensitivity documentation that every IWS owner needs."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ierse_Water_Spaniel.jpg/250px-Ierse_Water_Spaniel.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_dfd0cda5-a8d3-4390-a68f-caf3fd1bec4f.png?v=1777528633",
       "alt": "Irish Water Spaniel first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +41,6 @@
       "html": "<p>With a 12–13 year lifespan, Irish Water Spaniels represent a moderate-to-significant long-term commitment when professional grooming costs are included.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog with good preventive care</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$22,000–$40,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Managed orthopedic condition</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$30,000–$52,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Major health events (surgery, specialist care)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$38,000–$65,000</td></tr></tbody></table>"
     }
   },
-
   "faq": [
     {
       "q": "What health tests should an Irish Water Spaniel breeder provide?",

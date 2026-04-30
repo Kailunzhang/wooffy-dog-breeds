@@ -5,20 +5,24 @@
     "shopify_handle": "chesapeake-bay-retriever-grooming-guide",
     "group": "Chesapeake Bay Retriever",
     "size_category": "Guide",
-    "tags": ["chesapeake-bay-retriever", "grooming", "oily-coat", "ear-cleaning", "water-resistant"],
+    "tags": [
+      "chesapeake-bay-retriever",
+      "grooming",
+      "oily-coat",
+      "ear-cleaning",
+      "water-resistant"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "The Chessie's oily, wavy coat is a functional feature — not a grooming problem. Regular brushing distributes those oils and removes loose hair. Minimal bathing is the rule; over-washing strips the waterproofing this breed was built around. Ears need weekly attention.",
     "meta_description": "Chesapeake Bay Retriever grooming guide: managing the oily water-resistant coat, why minimal bathing is essential, ear cleaning for a water dog, and the full maintenance routine."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/CH_Chesapeake.jpg/250px-CH_Chesapeake.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_7e8c2017-f87c-4d5d-8229-97b89188fe58.png?v=1777526895",
       "alt": "Chesapeake Bay Retriever grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Chessie Coat",
@@ -36,7 +40,6 @@
       "html": "<p>The Chesapeake Bay Retriever's ear conformation — floppy, close to the head — combined with frequent water exposure makes ear infections a predictable problem without preventive cleaning. Moisture trapped in the ear canal after swimming creates ideal conditions for bacterial and yeast growth. Weekly ear cleaning is non-optional for this breed.</p><h3>Post-Swim Ear Care</h3><p>After any swimming or significant water exposure, clean and dry the ears before moisture has time to create problems. This takes two minutes and prevents a cycle of chronic ear infections that many Chessie owners deal with when they skip this step. Make it part of the post-swim routine alongside drying the dog.</p><h3>Signs of Ear Problems</h3><p>Head shaking, scratching at ears, odor, redness, swelling, or discharge indicate an infection requiring veterinary treatment. Home ear cleaning treats prevention; it does not treat an active infection. If you're seeing these signs, see the vet — a culture may be needed to identify the specific pathogen before prescribing treatment.</p>"
     }
   },
-
   "faq": [
     {
       "q": "My Chessie smells like a wet dog even when dry. Is this normal?",

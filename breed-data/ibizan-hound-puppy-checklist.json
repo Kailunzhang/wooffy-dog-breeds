@@ -5,20 +5,24 @@
     "shopify_handle": "ibizan-hound-puppy-checklist",
     "group": "Ibizan Hound",
     "size_category": "Guide",
-    "tags": ["ibizan-hound", "puppy", "checklist", "sighthound", "anesthesia-sensitivity"],
+    "tags": [
+      "ibizan-hound",
+      "puppy",
+      "checklist",
+      "sighthound",
+      "anesthesia-sensitivity"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Three priorities before your Ibizan Hound puppy comes home: 6-foot fencing confirmed, vet briefed on sighthound anesthesia protocols, and pet insurance enrolled.",
     "meta_description": "Ibizan Hound puppy checklist: 6-foot fence requirement, sighthound anesthesia protocol vet communication, cold-weather gear, handling desensitization, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Podenco_z_ibizy_645.jpg/250px-Podenco_z_ibizy_645.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5b57dde3-8c70-4e04-bdc9-805df3f40e49.png?v=1777528531",
       "alt": "Ibizan Hound puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<p>Ibizan Hounds are more trainable than many sighthound breeds — less aloof, more food-motivated, and more engaged with their owners. Positive reinforcement with high-value treats and short, positive sessions works well. They are sensitive to tone of voice — harsh handling or frustrated training sessions produce anxiety and shutdown, not compliance.</p><h3>Priorities</h3><ul><li>Leash manners from the first walk — a dog this athletic must not pull</li><li>Sit, down, stay — achievable and useful</li><li>Recall practice in the fenced yard — use a long line and high-value treats</li><li>Crate training — voluntary entry and calm settling</li><li>Handling desensitization: paws, ears, mouth, full body — daily from day one</li></ul><h3>The Jumping: Management Over Training</h3><p>The Ibizan Hound's jumping ability is extraordinary and cannot be trained away. A 6-foot fence is the management solution — not training a recall over the fence. Make the fence the boundary, ensure there are no jumping aids near it, and accept that this dog's athletic ability requires physical containment rather than verbal command compliance.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Why does my vet need to know my Ibizan Hound is a sighthound?",

@@ -5,7 +5,10 @@
     "shopify_handle": "pointer-grooming-guide",
     "group": "Pointer",
     "size_category": "Guide",
-    "tags": ["pointer", "grooming"],
+    "tags": [
+      "pointer",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "The Pointer's short, dense coat is among the lowest-maintenance sporting dog coats — weekly brushing with a rubber mitt or soft brush, occasional baths, and ear cleaning are the complete routine.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/English_Pointer_orange-white.jpg/330px-English_Pointer_orange-white.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_6a0bc1d5-35e1-438a-a21b-4bbf11fb5fb5.png?v=1777530384",
       "alt": "Pointer grooming guide"
     }
   },

@@ -5,20 +5,25 @@
     "shopify_handle": "lagotto-romagnolo-first-year-costs",
     "group": "Lagotto Romagnolo",
     "size_category": "Guide",
-    "tags": ["lagotto-romagnolo", "cost", "budget", "first-year", "lagotto-storage-disease", "professional-grooming"],
+    "tags": [
+      "lagotto-romagnolo",
+      "cost",
+      "budget",
+      "first-year",
+      "lagotto-storage-disease",
+      "professional-grooming"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "Lagotto Romagnolo ownership costs $2,800–$5,500 in the first year. Lagotto Storage Disease DNA testing from both parents is non-negotiable. Ongoing professional grooming every 8–10 weeks is a real recurring expense to budget from day one.",
     "meta_description": "Lagotto Romagnolo first year costs: puppy price, food, professional grooming, vet care, insurance, and the Lagotto Storage Disease DNA test that makes breeder selection critical."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bellalagotto4.jpg/250px-Bellalagotto4.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_53fdb441-5f66-40da-9493-6d68987f8afa.png?v=1777528797",
       "alt": "Lagotto Romagnolo first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +41,6 @@
       "html": "<p>With a 15–17 year lifespan — one of the longer lifespans in medium breeds — Lagottos represent a significant long-term commitment that must be factored into total cost planning.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog from DNA-tested parents</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$28,000–$48,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Managed orthopedic or other ongoing condition</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$35,000–$58,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant health events (surgery, specialist care)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$42,000–$70,000</td></tr></tbody></table>"
     }
   },
-
   "faq": [
     {
       "q": "What health tests should a Lagotto Romagnolo breeder provide?",

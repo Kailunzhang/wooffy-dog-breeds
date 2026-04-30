@@ -5,14 +5,21 @@
     "shopify_handle": "pembroke-welsh-corgi-puppy-checklist",
     "group": "Pembroke Welsh Corgi",
     "size_category": "Guide",
-    "tags": ["pembroke-welsh-corgi", "puppy", "checklist", "new-owner", "preparation", "dog-breeds"],
+    "tags": [
+      "pembroke-welsh-corgi",
+      "puppy",
+      "checklist",
+      "new-owner",
+      "preparation",
+      "dog-breeds"
+    ],
     "published": true,
     "excerpt": "Corgi puppy prep has some unique spinal-health items most checklists miss — including ramp setup and exercise limits that matter especially for this breed.",
     "meta_description": "Pembroke Welsh Corgi puppy checklist: supplies, first-week plan, spine management from day one, and what the first vet visit should include."
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Welsh_Pembroke_Corgi.jpg/330px-Welsh_Pembroke_Corgi.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_c0cb3e8f-0cf9-4e56-a2a7-56183733153f.png?v=1777530294",
       "alt": "Pembroke Welsh Corgi"
     }
   },
@@ -34,9 +41,21 @@
     }
   },
   "faq": [
-    { "q": "When should I start training my Corgi puppy?", "a": "From day one for basic handling, name recognition, and the herding nipping redirection. Formal class by weeks 8–10. Corgis are intelligent and learn quickly with positive reinforcement. Early training establishes the herding behavior management that makes daily life much more pleasant, especially with children in the household." },
-    { "q": "My Corgi puppy nips at heels and ankles. How do I stop it?", "a": "Redirect immediately, every time, without exception. Say 'leave it' or 'off,' redirect to an appropriate toy, and reward engagement with the toy. Yelping and stopping movement when nipped also works for some dogs. The key is consistency — every person in the household needs to respond the same way. This behavior reduces significantly with age and training; it rarely disappears completely in a Corgi, but becomes manageable." },
-    { "q": "Do I really need a ramp for my Corgi?", "a": "Ideally yes, if they'll have furniture access. Each individual jump-down from couch height doesn't cause injury, but cumulative impact over years on an elongated spine adds up. Dogs with IVDD history especially benefit from eliminating furniture jumping. Ramps are inexpensive relative to IVDD treatment and building the habit young is much easier than introducing it later." },
-    { "q": "Are Corgis good with other dogs?", "a": "Generally yes — they're social dogs that usually get along well with other dogs. The herding instinct may show up as attempting to 'herd' other dogs, which not all dogs appreciate. Early socialization with various dog personalities helps Corgis learn appropriate dog-to-dog interactions. Supervision initially with dogs that don't tolerate herding behavior is sensible." }
+    {
+      "q": "When should I start training my Corgi puppy?",
+      "a": "From day one for basic handling, name recognition, and the herding nipping redirection. Formal class by weeks 8–10. Corgis are intelligent and learn quickly with positive reinforcement. Early training establishes the herding behavior management that makes daily life much more pleasant, especially with children in the household."
+    },
+    {
+      "q": "My Corgi puppy nips at heels and ankles. How do I stop it?",
+      "a": "Redirect immediately, every time, without exception. Say 'leave it' or 'off,' redirect to an appropriate toy, and reward engagement with the toy. Yelping and stopping movement when nipped also works for some dogs. The key is consistency — every person in the household needs to respond the same way. This behavior reduces significantly with age and training; it rarely disappears completely in a Corgi, but becomes manageable."
+    },
+    {
+      "q": "Do I really need a ramp for my Corgi?",
+      "a": "Ideally yes, if they'll have furniture access. Each individual jump-down from couch height doesn't cause injury, but cumulative impact over years on an elongated spine adds up. Dogs with IVDD history especially benefit from eliminating furniture jumping. Ramps are inexpensive relative to IVDD treatment and building the habit young is much easier than introducing it later."
+    },
+    {
+      "q": "Are Corgis good with other dogs?",
+      "a": "Generally yes — they're social dogs that usually get along well with other dogs. The herding instinct may show up as attempting to 'herd' other dogs, which not all dogs appreciate. Early socialization with various dog personalities helps Corgis learn appropriate dog-to-dog interactions. Supervision initially with dogs that don't tolerate herding behavior is sensible."
+    }
   ]
 }

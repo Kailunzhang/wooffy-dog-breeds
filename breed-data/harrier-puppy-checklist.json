@@ -5,20 +5,24 @@
     "shopify_handle": "harrier-puppy-checklist",
     "group": "Harrier",
     "size_category": "Guide",
-    "tags": ["harrier", "puppy", "checklist", "hound", "scent-hound"],
+    "tags": [
+      "harrier",
+      "puppy",
+      "checklist",
+      "hound",
+      "scent-hound"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Everything you need before your Harrier puppy comes home — fence security, insurance enrollment, and a plan for channeling the nose drive.",
     "meta_description": "Harrier puppy checklist: secure fencing requirements, ear care setup, nose work enrichment, training a pack hound, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Harrier_Hound_-Pedigree_Harrier.jpg/250px-Harrier_Hound_-Pedigree_Harrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_10e5a447-451c-412e-8aaa-f201d9056372.png?v=1777528419",
       "alt": "Harrier puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<p>Harriers are more trainable than some scent hounds because the pack orientation makes them responsive to social reward as well as food. They want to work with their group. Use positive reinforcement, keep sessions short, and build a foundation of reliable indoor obedience before taking training outdoors.</p><h3>Core Commands to Establish Early</h3><ul><li>Sit, down, stay — food reward, short sessions, multiple times daily</li><li>Name response — puppy should look at you reliably when called</li><li>Come — practice in the fenced yard on a long line; never rely on it in open areas</li><li>Loose-leash walking — start from the first walk, prevent pulling from becoming habitual</li><li>Crate entry — voluntary, positive association from day one</li></ul><p>The hound independence is present but less pronounced than in breeds like the Bloodhound or Coonhound. Harriers are reasonably biddable when properly motivated — the training challenge is distraction management, not unwillingness to cooperate.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How do I find a Harrier breeder?",

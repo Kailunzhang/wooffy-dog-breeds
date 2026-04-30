@@ -5,20 +5,25 @@
     "shopify_handle": "shetland-sheepdog-puppy-checklist",
     "group": "Shetland Sheepdog",
     "size_category": "Guide",
-    "tags": ["shetland-sheepdog", "puppy", "checklist", "CEA", "MDR1", "barking-management"],
+    "tags": [
+      "shetland-sheepdog",
+      "puppy",
+      "checklist",
+      "CEA",
+      "MDR1",
+      "barking-management"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "Everything you need before your Shetland Sheepdog puppy comes home — including the CEA/MDR1 documentation to collect and the barking management plan that must start from day one.",
     "meta_description": "Shetland Sheepdog puppy checklist: CEA and MDR1 documentation, barking management from day one, grooming routine setup, socialization priorities, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Shetland_Sheepdog_sable.jpg/330px-Shetland_Sheepdog_sable.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_46e60639-83f4-4656-b317-2f0d19841495.png?v=1777531458",
       "alt": "Shetland Sheepdog puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Sheltie Training Character</h3><p>Shetland Sheepdogs are among the most trainable small breeds and typically excel at obedience and dog sports. They are also sensitive dogs that respond poorly to harsh corrections or raised voices. Positive reinforcement works extremely well — Shelties are eager to please and genuinely enjoy the engagement of training sessions.</p><ul><li>Puppy class at 8–10 weeks</li><li>Core commands early and consistently: sit, down, stay, come, leave it</li><li>Consider agility, herding, or rally obedience — Shelties thrive in structured sport environments</li><li>Gentle, patient training produces confident adults; harsh training produces anxious, avoidant dogs</li></ul><h3>Socialization Priorities</h3><p>The 8–16 week window is critical. Shelties that aren't well-socialized can develop fearful reactions to strangers and novel environments:</p><ul><li>Introduce to many types of people, especially strangers at the door (a common Sheltie trigger)</li><li>Varied environments: urban sounds, crowds, vehicles, different surfaces</li><li>Puppy class: controlled dog-to-dog interaction in a safe environment</li><li>Positive-only experiences — forcing a fearful puppy into overwhelming situations worsens anxiety</li></ul><h3>Exercise Rules for Puppies</h3><p>Follow the 5-minutes-per-month-of-age guideline. Shelties are active adults but not high-intensity working dogs — daily moderate exercise plus mental stimulation through training and play is appropriate.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Do Shetland Sheepdogs bark a lot?",

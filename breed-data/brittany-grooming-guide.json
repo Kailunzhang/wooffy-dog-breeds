@@ -5,7 +5,10 @@
     "shopify_handle": "brittany-grooming-guide",
     "group": "Brittany",
     "size_category": "Guide",
-    "tags": ["brittany", "grooming"],
+    "tags": [
+      "brittany",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "The Brittany's flat, dense coat is one of the lower-maintenance sporting dog coats — weekly brushing, occasional trimming of feathering and ear fringe, and bathing after field work keep it in good condition.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/American_Brittany_standing.jpg/330px-American_Brittany_standing.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_bab7baa5-718b-482d-a3fa-38509feb2f72.png?v=1777526489",
       "alt": "Brittany grooming guide"
     }
   },

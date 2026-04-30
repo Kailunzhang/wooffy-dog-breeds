@@ -5,20 +5,24 @@
     "shopify_handle": "akita-first-year-costs",
     "group": "Akita",
     "size_category": "Guide",
-    "tags": ["akita", "cost", "budget", "first-year", "large-breed"],
+    "tags": [
+      "akita",
+      "cost",
+      "budget",
+      "first-year",
+      "large-breed"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Akita ownership costs $3,000–$5,600 in the first year. The ongoing expenses are moderate for a large breed, but pet insurance and secure fencing are non-optional given the breed's temperament and health risks.",
     "meta_description": "Akita first year costs: puppy price range, food budget for a large independent breed, vet costs, insurance, and lifetime cost estimates with health risk factors."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Akita_Collage.png/330px-Akita_Collage.png",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_6e8ef3dc-4a7e-4fa9-8b00-db46a462df39.png?v=1777525338",
       "alt": "Akita first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With a 10–14 year lifespan, Akitas represent a significant financial commitment beyond the first year.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, minimal health interventions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$22,000–$35,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate health issues (hypothyroidism, mild dysplasia)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$30,000–$45,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant health issues (hip surgery, chronic skin condition)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$40,000–$60,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">Pet insurance significantly reduces the out-of-pocket costs in the moderate-to-high scenarios. For a breed with real orthopedic risk, insurance is a practical financial decision rather than a precaution.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does an Akita puppy cost from a reputable breeder?",

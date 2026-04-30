@@ -5,20 +5,24 @@
     "shopify_handle": "bluetick-coonhound-grooming-guide",
     "group": "Bluetick Coonhound",
     "size_category": "Guide",
-    "tags": ["bluetick-coonhound", "grooming", "ear-care", "hound", "short-coat"],
+    "tags": [
+      "bluetick-coonhound",
+      "grooming",
+      "ear-care",
+      "hound",
+      "short-coat"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Bluetick Coonhound coat maintenance is minimal. Ear care is not — the long pendant ears require weekly attention to prevent the chronic infections that are the breed's primary health management task.",
     "meta_description": "Bluetick Coonhound grooming guide: short ticked coat care, critical ear cleaning protocol, post-swimming ear care, nail and dental maintenance."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BluetickCoonhound.jpg/250px-BluetickCoonhound.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_c77aacbd-add2-43b7-a2f7-6e90c2b6d770.png?v=1777526213",
       "alt": "Bluetick Coonhound grooming"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Bluetick Coat",
@@ -36,7 +40,6 @@
       "html": "<p><strong>Coat:</strong> Weekly rubber mitt wipe removes loose hair and keeps the blue ticking gleaming. Bathe every 6–8 weeks or when the hound smell becomes noticeable. Use a deodorizing dog shampoo if the natural hound coat scent is a concern — it's a normal feature of the breed but manageable.</p><p><strong>Nails:</strong> Trim monthly or when clicking on floors. Use heavy-duty clippers for larger nails. Build paw handling tolerance from puppyhood so nail trimming stays manageable.</p><p><strong>Dental:</strong> Brush teeth 2–3 times weekly with dog toothpaste. The easiest teeth to brush are the front ones; work toward the back molars over time. Consistent home brushing is the best prevention for dental disease and reduces the frequency of professional cleanings needed.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often do Bluetick Coonhounds get ear infections?",

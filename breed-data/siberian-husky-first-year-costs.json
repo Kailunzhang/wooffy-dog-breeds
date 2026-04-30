@@ -5,14 +5,20 @@
     "shopify_handle": "siberian-husky-first-year-costs",
     "group": "Siberian Husky",
     "size_category": "Guide",
-    "tags": ["siberian-husky", "cost", "budget", "first-year", "dog-breeds"],
+    "tags": [
+      "siberian-husky",
+      "cost",
+      "budget",
+      "first-year",
+      "dog-breeds"
+    ],
     "published": true,
     "excerpt": "Huskies are moderately expensive to own, with fencing as a potentially significant first-year variable that most cost guides ignore.",
     "meta_description": "Siberian Husky first-year cost breakdown: purchase price, food, vet care, insurance, fencing costs, and what major health expenses to plan for."
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Husky_L.jpg/330px-Husky_L.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0d845525-51fe-4aa2-9c8e-e0a7a7377464.png?v=1777531630",
       "alt": "Siberian Husky"
     }
   },
@@ -39,9 +45,21 @@
     }
   },
   "faq": [
-    { "q": "How much does a Siberian Husky cost per year?", "a": "After first-year setup: $1,500–$2,600 annually. Ongoing costs are modest compared to larger breeds — food is medium-breed portioned, health issues less common than some breeds. The variable cost is dog walking or daycare if you can't provide 90 minutes of vigorous exercise daily yourself." },
-    { "q": "Should I get pet insurance for a Siberian Husky?", "a": "Yes. Eye conditions and hip dysplasia are meaningful risks, and the costs are significant without insurance. Apply before the first vet visit — any condition noted at that exam becomes a pre-existing exclusion." },
-    { "q": "Why is fencing such a big cost variable for Huskies?", "a": "Huskies are escape artists. They jump, dig, and problem-solve their way out of inadequate fencing. A standard 4-foot fence that works for most dogs doesn't contain a motivated Husky. Upgrading to 6-foot fencing with anti-dig barriers before the dog arrives is cheaper than repeated escapes and the liability risk they create." },
-    { "q": "Are Huskies expensive to own compared to other breeds?", "a": "Moderate. Less than French Bulldogs (very high health costs) or Rottweilers (large breed food + liability concerns), more than small low-shedding breeds. The main costs are food, insurance, and fencing. If you can provide the exercise yourself and already have appropriate fencing, annual ongoing costs are reasonable." }
+    {
+      "q": "How much does a Siberian Husky cost per year?",
+      "a": "After first-year setup: $1,500–$2,600 annually. Ongoing costs are modest compared to larger breeds — food is medium-breed portioned, health issues less common than some breeds. The variable cost is dog walking or daycare if you can't provide 90 minutes of vigorous exercise daily yourself."
+    },
+    {
+      "q": "Should I get pet insurance for a Siberian Husky?",
+      "a": "Yes. Eye conditions and hip dysplasia are meaningful risks, and the costs are significant without insurance. Apply before the first vet visit — any condition noted at that exam becomes a pre-existing exclusion."
+    },
+    {
+      "q": "Why is fencing such a big cost variable for Huskies?",
+      "a": "Huskies are escape artists. They jump, dig, and problem-solve their way out of inadequate fencing. A standard 4-foot fence that works for most dogs doesn't contain a motivated Husky. Upgrading to 6-foot fencing with anti-dig barriers before the dog arrives is cheaper than repeated escapes and the liability risk they create."
+    },
+    {
+      "q": "Are Huskies expensive to own compared to other breeds?",
+      "a": "Moderate. Less than French Bulldogs (very high health costs) or Rottweilers (large breed food + liability concerns), more than small low-shedding breeds. The main costs are food, insurance, and fencing. If you can provide the exercise yourself and already have appropriate fencing, annual ongoing costs are reasonable."
+    }
   ]
 }

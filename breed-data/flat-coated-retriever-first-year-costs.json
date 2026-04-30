@@ -5,20 +5,25 @@
     "shopify_handle": "flat-coated-retriever-first-year-costs",
     "group": "Flat-Coated Retriever",
     "size_category": "Guide",
-    "tags": ["flat-coated-retriever", "cost", "budget", "first-year", "cancer-risk", "insurance"],
+    "tags": [
+      "flat-coated-retriever",
+      "cost",
+      "budget",
+      "first-year",
+      "cancer-risk",
+      "insurance"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "Flat-Coated Retriever ownership costs $3,000–$7,000+ in the first year. The elevated cancer risk — especially malignant histiocytosis — makes pet insurance before the first vet visit not optional. Cancer treatment costs alone can reach $10,000+.",
     "meta_description": "Flat-Coated Retriever first year costs: puppy price, food, vet care, and why pet insurance from day one is essential for a breed with serious cancer risk including malignant histiocytosis."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flat_Coated_Retriever_-_black.jpg/250px-Flat_Coated_Retriever_-_black.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_23b97603-8d4a-4abb-8e99-a99297ce4915.png?v=1777527786",
       "alt": "Flat-Coated Retriever first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +41,6 @@
       "html": "<p>With the Flat-Coat's 8–10 year average lifespan, lifetime costs are concentrated in fewer years — which actually increases the annual cost relative to longer-lived breeds.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, no cancer treatment required</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$18,000–$28,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Cancer diagnosis with treatment (insured)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$25,000–$40,000 (out-of-pocket managed by insurance)</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Cancer diagnosis without insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$30,000–$55,000+ (full costs unmanaged)</td></tr></tbody></table>"
     }
   },
-
   "faq": [
     {
       "q": "Is pet insurance mandatory for a Flat-Coated Retriever?",

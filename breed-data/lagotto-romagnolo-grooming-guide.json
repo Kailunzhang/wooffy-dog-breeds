@@ -5,20 +5,24 @@
     "shopify_handle": "lagotto-romagnolo-grooming-guide",
     "group": "Lagotto Romagnolo",
     "size_category": "Guide",
-    "tags": ["lagotto-romagnolo", "grooming", "curly-coat", "low-shedding", "professional-trim"],
+    "tags": [
+      "lagotto-romagnolo",
+      "grooming",
+      "curly-coat",
+      "low-shedding",
+      "professional-trim"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "The Lagotto's dense, curly coat is low-shedding but requires professional trimming every 8–10 weeks. Without regular maintenance, the curls mat against the skin. Weekly brushing between trims and ear cleaning are the core home maintenance tasks.",
     "meta_description": "Lagotto Romagnolo grooming guide: managing the dense curly coat, professional trim schedule, preventing matting, ear cleaning for floppy ears, and the complete home maintenance routine."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bellalagotto4.jpg/250px-Bellalagotto4.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_5f7afa65-6101-4ec9-bed2-8fabd0415160.png?v=1777528789",
       "alt": "Lagotto Romagnolo grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Lagotto Coat",
@@ -36,7 +40,6 @@
       "html": "<p>The Lagotto's floppy ears combined with the curly coat around the ear opening create a moisture retention problem. Weekly ear cleaning is essential. Apply veterinary ear cleaning solution, massage the ear base, let the dog shake, then wipe visible debris with cotton balls. At every professional grooming session, ensure the groomer trims any hair at the ear canal opening to maintain airflow.</p><h3>Face and Eye Area</h3><p>Curly coats around the face can accumulate discharge in the corners of the eyes. Wipe the eye area with a damp cloth during weekly maintenance. Staining (brown or reddish discoloration) around the eyes is normal and primarily cosmetic — it reflects tear chemistry, not a health problem in most cases. If the staining is accompanied by discharge, cloudiness, or the dog pawing at its eyes, consult a veterinarian.</p><h3>Post-Truffle-Hunting Coat Check</h3><p>Lagottos used for truffle hunting work in field, forest, and undergrowth conditions. After any outdoor working session, check the coat thoroughly for burrs, plant material, and debris embedded in the curls. Remove these before they work deeper into the coat and contact the skin. A metal comb run through the entire coat after field work takes 5 minutes and prevents the matting and skin irritation that debris causes when left in place.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does a Lagotto Romagnolo need professional grooming?",

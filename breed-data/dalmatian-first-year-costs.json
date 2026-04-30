@@ -5,20 +5,24 @@
     "shopify_handle": "dalmatian-first-year-costs",
     "group": "Dalmatian",
     "size_category": "Guide",
-    "tags": ["dalmatian", "cost", "budget", "first-year", "large-breed"],
+    "tags": [
+      "dalmatian",
+      "cost",
+      "budget",
+      "first-year",
+      "large-breed"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Dalmatian ownership costs $2,800–$5,500 in the first year. Diet management for urinary health and BAER hearing testing are breed-specific costs beyond standard large-breed expenses.",
     "meta_description": "Dalmatian first year costs: puppy price, food and diet management, vet costs, BAER test, pet insurance, and lifetime cost estimates for a high-energy large breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Dog_Dalmatian.jpg/250px-Sun_Dog_Dalmatian.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_00d204b4-775f-4856-bfcd-f41d4dca5955.png?v=1777527390",
       "alt": "Dalmatian first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With a 10–13 year lifespan, Dalmatians have a moderate lifetime cost profile — their grooming costs are low, but the dietary management requirement is a consistent lifelong expense.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, good dietary management, no stones</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$18,000–$28,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">One or two stone events requiring treatment</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$24,000–$38,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Recurring urinary issues + other health conditions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$35,000–$50,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">The low-purine diet requirement is lifelong, but appropriate Dalmatian food is widely available and not dramatically more expensive than quality standard kibble. The primary cost risk is reactive veterinary care for urinary problems that proper diet significantly reduces.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does a Dalmatian puppy cost from a reputable breeder?",

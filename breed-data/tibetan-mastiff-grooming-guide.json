@@ -5,7 +5,10 @@
     "shopify_handle": "tibetan-mastiff-grooming-guide",
     "group": "Tibetan Mastiff",
     "size_category": "Guide",
-    "tags": ["tibetan-mastiff", "grooming"],
+    "tags": [
+      "tibetan-mastiff",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The Tibetan Mastiff's massive double coat requires serious grooming commitment, especially during the annual shed. Learn how to manage this giant breed's coat at home and when to call a professional.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tibetan_mastiff.jpg/330px-Tibetan_mastiff.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4be4765d-93e5-40f9-8257-e2a165be7294.png?v=1777532012",
       "alt": "Tibetan Mastiff"
     }
   },

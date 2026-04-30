@@ -5,20 +5,24 @@
     "shopify_handle": "boxer-grooming-guide",
     "group": "Boxer",
     "size_category": "Guide",
-    "tags": ["boxer", "grooming", "short-coat", "wrinkle-care", "low-maintenance"],
+    "tags": [
+      "boxer",
+      "grooming",
+      "short-coat",
+      "wrinkle-care",
+      "low-maintenance"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Boxers are one of the lowest-maintenance coats in any breed. A weekly brush, occasional bath, and routine wrinkle cleaning is essentially the full routine. The time investment is minimal.",
     "meta_description": "Boxer grooming guide: short coat maintenance, facial wrinkle cleaning to prevent infections, nail care, and the full minimal grooming routine for this low-shedding breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Male_fawn_Boxer_undocked.jpg/330px-Male_fawn_Boxer_undocked.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_59c4ff77-5586-4355-8f07-9e9becc3ac41.png?v=1777526446",
       "alt": "Boxer grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Boxer Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Skin fold dermatitis (intertrigo) develops when moisture and debris accumulate in skin folds, allowing bacteria and yeast to overgrow. In Boxers, this occurs most commonly in the muzzle and forehead wrinkles.</p><h3>Prevention</h3><ul><li>Clean wrinkles weekly minimum — more frequently in warm, humid weather or after outdoor activity</li><li>After cleaning, always dry the inside of the folds with a dry cloth or cotton ball — damp folds after cleaning are counterproductive</li><li>Some owners use a small amount of cornstarch after cleaning and drying to absorb residual moisture. Do not use talc-based powder</li></ul><h3>Signs of Skin Fold Dermatitis</h3><ul><li>Redness or raw skin inside the fold</li><li>Odor (distinctive sour or musty smell)</li><li>Discharge or visible buildup</li><li>Dog rubbing the face on surfaces</li></ul><p>If you notice these signs, a vet visit is appropriate. Mild cases respond to cleaning and topical antifungal or antibacterial products; more established infections may need oral treatment.</p><h3>Ear Care for Boxers</h3><p>Whether ears are natural or cropped, check weekly. Natural (uncropped) Boxer ears have reduced airflow, making them more prone to moisture accumulation. Clean monthly or when you notice any odor or head shaking. Cropped ears have better airflow but still require periodic checks during and after healing.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often should I bathe my Boxer?",

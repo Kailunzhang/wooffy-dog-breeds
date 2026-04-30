@@ -5,20 +5,24 @@
     "shopify_handle": "german-wirehaired-pointer-puppy-checklist",
     "group": "German Wirehaired Pointer",
     "size_category": "Guide",
-    "tags": ["german-wirehaired-pointer", "puppy", "checklist", "health-testing", "sporting-dog"],
+    "tags": [
+      "german-wirehaired-pointer",
+      "puppy",
+      "checklist",
+      "health-testing",
+      "sporting-dog"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "Before your GWP puppy comes home: verify Von Willebrand's DNA test documentation from the breeder, plan the cardiac check at the first vet visit, and have a genuine exercise plan in place. These dogs need a job from day one.",
     "meta_description": "German Wirehaired Pointer puppy checklist: Von Willebrand's DNA test, cardiac evaluation at first vet visit, gear list, socialization priorities, and field exposure planning for a versatile hunting breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dan_vom_hardenberg_%28cropped%29.jpg/250px-Dan_vom_hardenberg_%28cropped%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_a88de939-5a7d-470a-b578-01c724d00e13.png?v=1777528080",
       "alt": "German Wirehaired Pointer puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Obedience Training From Day One</h3><p>GWPs are intelligent but independently-minded. Obedience established in puppyhood is far easier to maintain than habits corrected in adulthood. Start with:</p><ul><li>Sit, down, stay, come — all core commands from week one</li><li>Loose-leash walking — never allow pulling to become habit</li><li>Name recognition and recall — the foundation of field reliability</li><li>Crate training — creates a safe space and manages the puppy environment</li></ul><h3>Field Exposure (Age-Appropriate)</h3><p>If you hunt or plan to, early positive exposure to hunting contexts matters. At 8–16 weeks, this means exposure to birds (even a wing on a fishing line), outdoor terrain, and gunshot sounds introduced carefully at distance. Formal field training can begin at 6–12 months depending on the individual dog's development.</p><h3>Exercise Rules for GWP Puppies</h3><p>GWP puppies have real energy but are still developing. Follow the rule of 5 minutes per month of age, twice daily. A 3-month-old puppy gets 15-minute sessions; a 6-month-old gets 30-minute sessions. Growth plates in a large breed close at approximately 18 months — no forced running, jumping, or stair climbing before then. Leash walks, free play, and field exposure are appropriate; jogging is not until 18 months.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What is Von Willebrand's Disease and why does it matter for a GWP?",

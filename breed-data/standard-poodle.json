@@ -6,74 +6,103 @@
     "group": "Non-Sporting Group",
     "size_category": "Large Breed",
     "tagline": "The Standard Poodle is consistently ranked among the most intelligent dog breeds in the world — and is routinely underestimated as a show dog. They are athletic, trainable, virtually non-shedding, and come with real health considerations including Addison's disease and bloat that owners need to understand.",
-    "tags": ["non-sporting-group", "large-breed", "intelligent", "low-shedding", "athletic", "dog-breeds"],
+    "tags": [
+      "non-sporting-group",
+      "large-breed",
+      "intelligent",
+      "low-shedding",
+      "athletic",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-19T16:00:00Z",
     "excerpt": "Standard Poodles are among the smartest, most versatile breeds available — non-shedding, athletic, deeply loyal, and excellent with families. Addison's disease, bloat, and mandatory professional grooming are the real considerations going in.",
     "meta_description": "Standard Poodle breed guide: intelligence and training, Addison's disease awareness, bloat and gastropexy, Sebaceous Adenitis, professional grooming requirements, and first-year costs."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "40–70 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–18 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High (professional required)" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Easy" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "40–70 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–18 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High (professional required)"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Excellent"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Full_attention_%288067543690%29.jpg/330px-Full_attention_%288067543690%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_e07879b9-c778-416b-b2d0-675e3d174f57.png?v=1777531939",
       "alt": "Standard Poodle"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Standard Poodle?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Poodle's origins as a hunting and retrieving dog in Germany — the name derives from the German \"Pudel\" (to splash in water) — are frequently forgotten in the shadow of the breed's image as a groomed show dog. The elaborate show cuts were originally functional: the hunters left fur over the joints and vital organs for warmth while retrieving from cold water, and shaved the rest to reduce drag. The dog underneath the clip is an athletic, intelligent water retriever, not a pampered ornament.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Standard Poodles are consistently ranked #1 or #2 in working intelligence surveys alongside Border Collies. This is not the kind of intelligence that means a dog is easy to own — a very intelligent dog that is bored is a very creative and destructive dog. Standard Poodles need mental engagement, not just physical exercise. Puzzle toys, training sessions, dog sports, and novel activities are part of their care requirement.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The practical advantages are considerable: virtually non-shedding (the curly single coat captures loose hair rather than releasing it), highly trainable, excellent with families and other animals, athletic without being frenetic, and among the longer-lived large breeds at 10–18 years. The trade-offs are mandatory professional grooming and several serious health conditions to monitor.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Standard Poodles Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Elegant and athletic, weighing 40–70 lbs and standing over 15 inches (the AKC standard simply requires over 15 inches; most Standards are 22–27 inches at the shoulder). The build is square, well-muscled, and built for movement — they move with a light, springy gait that reflects their athletic heritage. The single curly coat is the defining feature: dense, thick, and virtually non-shedding. Colors include white, black, apricot, cream, silver, brown, blue, and cafe au lait among others.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The non-shedding coat comes with a trade-off: it grows continuously and will mat severely if not maintained. A Standard Poodle that is not professionally groomed every 6–8 weeks will develop mats that can become so tight they require shaving down to the skin. There is no version of Standard Poodle ownership that does not include professional grooming. This is not optional.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Highly intelligent, eager to please, and deeply engaged with their family. Standard Poodles form strong bonds and are genuinely interested in what their owners are doing. Unlike some intelligent breeds that use their intelligence to be selectively compliant, Poodles tend to apply their intelligence to figuring out what you want and doing it. This makes training a genuinely pleasurable experience for most owners.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">They are sensitive dogs — they pick up on household moods and can be affected by conflict or stress in the environment. Positive reinforcement training is not just preferred; it is more effective. Standard Poodles that are trained with harsh methods often become anxious or shutdown, while those trained with consistent positive reinforcement are among the most responsive dogs in existence.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With children: excellent — patient, playful, and gentle. With other animals: generally excellent with proper socialization. With strangers: typically friendly or appropriately neutral. Standard Poodles are not natural guard dogs in the aggressive sense, though they will alert to visitors.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Standard Poodle",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Standard Poodles are one of the best all-around breeds for family households. The combination of intelligence, trainability, non-shedding coat, excellent temperament, and long lifespan is genuinely hard to beat. If someone tells me they want a large, friendly, smart dog that their kids can grow up with and that won't cover their house in fur, my first response is \"Have you considered a Standard Poodle?\"</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The grooming cost is the most common surprise. Professional grooming every 6–8 weeks at $80–$150 per session adds up to $600–$1,200 per year for the life of the dog. This is unavoidable — you can learn to groom at home, which reduces cost but requires real skill and good equipment. Factor this into your budget before committing.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Addison's disease is the health condition I emphasize most. Standard Poodles are significantly overrepresented in Addison's diagnoses. The symptoms — lethargy, vomiting, weakness, poor appetite — are easily confused with more mundane problems. Know them, and tell your vet you have a Standard Poodle when something seems off. Once diagnosed, Addison's is manageable but requires lifelong medication and monitoring.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">High — 60–90 minutes of genuine exercise daily. Standard Poodles are athletic dogs that need real physical activity, not just a stroll around the block. Running, swimming, hiking, fetch, and dog sports (agility, obedience, dock diving) are all appropriate. An under-exercised Standard Poodle will find its own entertainment, which will involve things you own.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Mental Stimulation</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">At least as important as physical exercise for this breed. Daily training sessions, puzzle feeders, nose work, and novel activities address the mental needs of a very intelligent dog. Without mental engagement, Standard Poodles can develop anxiety-related behaviors regardless of physical exercise level.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Professional grooming every 6–8 weeks without exception. Brushing 2–3 times per week at home to prevent matting between appointments. The specific clip style is a personal choice — Continental, English Saddle, and Sporting are AKC-recognized; most pet owners prefer the Sporting or a simple puppy cut for practicality. See the <a href=\"/blogs/dog-breeds/standard-poodle-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Standard Poodle grooming guide</a>.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Standard Poodles are generally healthy with one of the longer lifespans for a large breed. Several conditions occur at higher rates in the breed and require specific attention.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Addison's Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Adrenal insufficiency — the adrenal glands do not produce adequate cortisol and/or aldosterone. Standard Poodles are significantly overrepresented in Addison's diagnoses. Symptoms: lethargy, intermittent vomiting, weakness, poor appetite, shaking. Can present as an Addisonian crisis (collapse). Manageable with lifelong hormone supplementation ($100–$300/month). Know the signs — the diagnosis is often delayed because symptoms mimic more common conditions.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Bloat / GDV (Gastric Dilatation-Volvulus)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Life-threatening emergency in deep-chested breeds — the stomach fills with gas and may twist. Signs: distended abdomen, unproductive retching, restlessness, rapid decline. Standard Poodles (especially males) are at risk. Prophylactic gastropexy — surgically tacking the stomach to prevent rotation — is strongly recommended at the time of spay/neuter. Discuss with your vet at the first appointment.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Sebaceous Adenitis</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inflammatory skin condition affecting the sebaceous glands — causes dry, flaky skin, hair loss, and a musty odor. Relatively specific to Standard Poodles (and Akitas). Managed with medicated shampoos, oils, and sometimes immunosuppressants. Ask breeders for SA biopsy test status of breeding dogs.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Malformed hip joint causing pain and arthritis. OFA or PennHIP screening available. Ask breeders for clearances on both parents.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited retinal degeneration leading to blindness. DNA test available — responsible breeders screen for it. CAER eye exam recommended.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">von Willebrand's Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inherited bleeding disorder affecting clotting ability. DNA test available. Important to know before any surgical procedure including spay/neuter.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip, CAER eye exam, PRA DNA test, vWD DNA test, SA biopsy status, and cardiac clearance. Discuss gastropexy at the first vet visit.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$3,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Professional grooming (7–8x/yr)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$600–$1,200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Gastropexy surgery (recommended)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (large crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$4,300–$8,400</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,050–$3,800</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">Addison's disease management, if the dog develops it, adds $100–$300/month to ongoing costs. Insurance before the first vet visit covers both surgical costs (gastropexy, GDV emergency) and Addison's management. See the <a href=\"/blogs/dog-breeds/standard-poodle-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Standard Poodle first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Standard Poodle Right for You?",
@@ -90,25 +119,50 @@
         "Owners not prepared for the grooming cost as a permanent annual budget item"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Standard Poodle",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$3,000 from reputable breeders. The Poodle Club of America maintains a breeder referral. Required health clearances: OFA hip, CAER eye exam, PRA DNA test, vWD DNA test. SA biopsy testing (Sebaceous Adenitis) is a distinguishing mark of above-average health commitment in Standard Poodle breeders. Ask specifically about Addison's disease incidence in the breeder's lines.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Standard Poodle rescues are active. Dogs are often surrendered when owners underestimate the exercise and grooming requirements. Adult rescues are past the most unpredictable health unknowns and can be a wonderful choice for a prepared household.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Standard Poodle comes home, complete the <a href=\"/blogs/dog-breeds/standard-poodle-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Standard Poodle puppy checklist</a> — insurance enrollment, gastropexy discussion scheduling, and identifying a professional groomer before the puppy arrives are the three critical pre-arrival steps.</p>"
     }
   },
-
   "faq": [
-    { "q": "Are Standard Poodles really non-shedding?", "a": "Virtually, yes. The curly single coat captures loose hair within the coat rather than releasing it, which dramatically reduces what ends up on furniture and clothing. The trade-off is that this captured hair becomes the source of mats if not brushed regularly and professionally groomed. People with dog allergies often react better to Poodles than to shedding breeds, though no dog is completely hypoallergenic." },
-    { "q": "What is Addison's disease in Standard Poodles?", "a": "Addison's disease is adrenal insufficiency — the adrenal glands fail to produce adequate cortisol and/or aldosterone. Standard Poodles have a significantly elevated incidence compared to the general dog population. Symptoms are non-specific (lethargy, vomiting, weakness, poor appetite) and can wax and wane, making diagnosis difficult. A severe episode — Addisonian crisis — can present as collapse. If your Standard Poodle seems persistently off, always mention the breed to your vet as Addison's is frequently missed without explicit consideration." },
-    { "q": "What is gastropexy and should Standard Poodles have it?", "a": "Gastropexy is a surgical procedure that attaches the stomach to the abdominal wall, preventing it from rotating in a GDV event. Deep-chested large breeds like Standard Poodles (especially males) are at elevated risk for GDV — a life-threatening emergency. Prophylactic gastropexy done at the time of spay/neuter is a low-risk procedure that eliminates the risk of the catastrophic twist element of GDV. Most veterinary specialists recommend it for at-risk breeds." },
-    { "q": "Are Standard Poodles good for active families?", "a": "Excellent — they may be the best large-breed choice for active families. They are athletic enough to handle hiking, running, and dog sports; social enough to participate in family activities; smart enough to engage with training; and non-shedding enough that a house full of kids and a Standard Poodle doesn't mean dog fur on everything. The requirement is that the activity actually happens — an under-exercised Standard Poodle is a challenging household companion." }
+    {
+      "q": "Are Standard Poodles really non-shedding?",
+      "a": "Virtually, yes. The curly single coat captures loose hair within the coat rather than releasing it, which dramatically reduces what ends up on furniture and clothing. The trade-off is that this captured hair becomes the source of mats if not brushed regularly and professionally groomed. People with dog allergies often react better to Poodles than to shedding breeds, though no dog is completely hypoallergenic."
+    },
+    {
+      "q": "What is Addison's disease in Standard Poodles?",
+      "a": "Addison's disease is adrenal insufficiency — the adrenal glands fail to produce adequate cortisol and/or aldosterone. Standard Poodles have a significantly elevated incidence compared to the general dog population. Symptoms are non-specific (lethargy, vomiting, weakness, poor appetite) and can wax and wane, making diagnosis difficult. A severe episode — Addisonian crisis — can present as collapse. If your Standard Poodle seems persistently off, always mention the breed to your vet as Addison's is frequently missed without explicit consideration."
+    },
+    {
+      "q": "What is gastropexy and should Standard Poodles have it?",
+      "a": "Gastropexy is a surgical procedure that attaches the stomach to the abdominal wall, preventing it from rotating in a GDV event. Deep-chested large breeds like Standard Poodles (especially males) are at elevated risk for GDV — a life-threatening emergency. Prophylactic gastropexy done at the time of spay/neuter is a low-risk procedure that eliminates the risk of the catastrophic twist element of GDV. Most veterinary specialists recommend it for at-risk breeds."
+    },
+    {
+      "q": "Are Standard Poodles good for active families?",
+      "a": "Excellent — they may be the best large-breed choice for active families. They are athletic enough to handle hiking, running, and dog sports; social enough to participate in family activities; smart enough to engage with training; and non-shedding enough that a house full of kids and a Standard Poodle doesn't mean dog fur on everything. The requirement is that the activity actually happens — an under-exercised Standard Poodle is a challenging household companion."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Miniature Poodle", "slug": "miniature-poodle", "note": "Same breed in smaller form — 10–15 lbs, same intelligence and coat, same health profile"},
-    {"name": "Portuguese Water Dog", "slug": "portuguese-water-dog", "note": "Similar working water retriever, similar coat, similar intelligence, smaller size"},
-    {"name": "Labradoodle", "slug": "labradoodle", "note": "Poodle cross with Labrador, variable coat shedding, not a standardized breed"},
-    {"name": "Border Collie", "slug": "border-collie", "note": "Comparable intelligence, much higher energy and herding instinct, heavy shedding"}
+    {
+      "name": "Miniature Poodle",
+      "slug": "miniature-poodle",
+      "note": "Same breed in smaller form — 10–15 lbs, same intelligence and coat, same health profile"
+    },
+    {
+      "name": "Portuguese Water Dog",
+      "slug": "portuguese-water-dog",
+      "note": "Similar working water retriever, similar coat, similar intelligence, smaller size"
+    },
+    {
+      "name": "Labradoodle",
+      "slug": "labradoodle",
+      "note": "Poodle cross with Labrador, variable coat shedding, not a standardized breed"
+    },
+    {
+      "name": "Border Collie",
+      "slug": "border-collie",
+      "note": "Comparable intelligence, much higher energy and herding instinct, heavy shedding"
+    }
   ]
 }

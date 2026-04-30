@@ -5,20 +5,25 @@
     "shopify_handle": "soft-coated-wheaten-terrier-first-year-costs",
     "group": "Soft Coated Wheaten Terrier",
     "size_category": "Guide",
-    "tags": ["wheaten-terrier", "cost", "budget", "first-year", "pln", "ple"],
+    "tags": [
+      "wheaten-terrier",
+      "cost",
+      "budget",
+      "first-year",
+      "pln",
+      "ple"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Wheaten Terrier ownership costs $5,000–$10,000 in the first year. The ongoing annual cost includes professional grooming every 6–8 weeks and PLN/PLE annual monitoring — both are non-optional.",
     "meta_description": "Soft Coated Wheaten Terrier first year costs: puppy price, professional grooming budget, PLN/PLE annual monitoring cost, pet insurance necessity for protein-losing diseases, and lifetime cost estimates."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Soft-Coated_Wheaten_Terrier.jpg/330px-Soft-Coated_Wheaten_Terrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_5d56416e-fd90-4173-91e3-712deb238785.png?v=1777531677",
       "alt": "Soft Coated Wheaten Terrier first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +41,6 @@
       "html": "<p>With a 12–15 year lifespan, Wheaten Terriers represent a significant ongoing financial commitment.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog with standard monitoring costs</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$30,000–$50,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Addison's disease (lifelong management)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$38,000–$60,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">PLN diagnosis with progressive management</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$45,000–$75,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">Pet insurance enrolled before the first vet visit is the primary financial protection against the high-cost scenarios in this breed.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What is the PLN/PLE monitoring cost, and is it really necessary every year?",

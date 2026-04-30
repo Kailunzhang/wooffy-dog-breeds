@@ -6,74 +6,102 @@
     "group": "Toy Group",
     "size_category": "Small Breed",
     "tagline": "The world's smallest breed with one of the biggest personalities. Chihuahuas are fiercely loyal and remarkably long-lived — and they require just as much training and socialization as any larger dog.",
-    "tags": ["toy-group", "small-breed", "apartment-dog", "long-lived", "dog-breeds"],
+    "tags": [
+      "toy-group",
+      "small-breed",
+      "apartment-dog",
+      "long-lived",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Chihuahuas are bold, long-lived, and deeply devoted to their person. The most important ownership realities: they need real training (not excused because they're small), they're fragile around young children, and that 14–17 year lifespan is a genuine commitment.",
     "meta_description": "Chihuahua breed guide: temperament, small dog syndrome, health conditions, 14–17 year lifespan commitment, cost breakdown, and honest fit assessment."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Toy" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "2–6 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "14–17 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "20–30 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Low–Mod" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Caution" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes*" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Toy"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "2–6 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "14–17 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "20–30 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low–Mod"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Caution"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes*"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chihuahua1_bvdb.jpg/330px-Chihuahua1_bvdb.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_d2243a89-c43d-4a2d-979d-1b6ccab8420b.png?v=1777526954",
       "alt": "Chihuahua"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Chihuahua?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Chihuahua is the smallest recognized dog breed in the world and one of the oldest breeds in the Americas, with roots in pre-Columbian Mexico. Despite their tiny frame — 2 to 6 pounds — Chihuahuas are assertive, confident, and intensely loyal. They tend to bond deeply with one person and can be reserved or wary with others, which owners either love or find challenging depending on their lifestyle.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The most important number to know: 14–17 years. Chihuahuas are consistently among the longest-lived breeds, and many reach 16 or 17 with good care. That's a genuine commitment — longer than many life situations stay stable. Getting a Chihuahua puppy at 30 means a dog still alive at 45 in the best case.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The behavioral reputation of Chihuahuas — snappy, aggressive, reactive — is real but almost entirely a product of inconsistent training. Owners who allow problematic behavior because \"it's just a tiny dog\" create the aggressive Chihuahua stereotype. The same behavior that gets a Lab enrolled in obedience class gets a Chihuahua excused. The breed pays the price for that inconsistency.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Chihuahuas Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Two coat varieties: smooth (short, close, glossy) and long (soft, flat or slightly wavy with ear fringing and a feathered tail). Both come in any color and pattern imaginable — solid, bi-color, tri-color, merle. Two head shapes exist informally: the apple dome (round, prominent forehead, characteristic of the breed standard) and the deer head (longer, flatter skull). Only apple domes are AKC conformation-eligible, but both are Chihuahuas.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Note on molera: many Chihuahua puppies have an open fontanelle (soft spot on the skull, like a human newborn). Most close as the puppy matures, but some never fully close. This is common in the breed and not inherently a health problem, but requires care — a significant blow to the head where the skull isn't fully fused is dangerous. Discuss molera status with your vet at the first visit.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Chihuahuas are fiercely devoted to their person. That devotion is one of their most appealing qualities — a well-socialized Chihuahua is attentive, warm, and entertaining in a way that makes them excellent companions for individuals and smaller households. They're alert, curious, and genuinely engaged with the world around them.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With strangers: variable. Some Chihuahuas are bold and friendly with everyone; others are reserved and wary. Early and broad socialization strongly influences this. A Chihuahua that meets many different people, children, and situations during the 8–16 week window develops significantly more confidence and flexibility than one kept in a narrow environment.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With children: caution with young children is warranted. Chihuahuas are easily injured by being dropped or stepped on, and they may bite if frightened or handled roughly. Households with toddlers and a Chihuahua require constant supervision. Older children who understand appropriate handling — gentle, calm, from a sitting position — do fine.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Chihuahua",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Chihuahuas are excellent dogs for the right person — typically adults or older households who want a devoted, low-exercise companion. They're portable, apartment-friendly, and form deep bonds. The longevity is a genuine feature for people who are prepared for it.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The training point is the thing I always raise with people considering a Chihuahua: these dogs need to be trained exactly as you'd train a Lab. \"No\" means no. Resource guarding, snapping, growling at visitors — these are behavioral problems that require correction, not allowances. The Chihuahua that bites the veterinarian is not cute; it's a training failure that the owner is responsible for. Train the dog like it's 70 pounds and you'll have a dog you're proud of.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The 14–17 year lifespan is worth sitting with seriously. If your living situation, travel habits, or life plans might change significantly in the next 15 years — factor that in before committing to a Chihuahua puppy.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Low — 20–30 minutes of daily activity. Short walks, indoor play, and interactive games meet their needs. Don't underexercise because of their size — Chihuahuas enjoy activity and need it to stay mentally healthy. Cold weather requires a coat; they're not built for exposure and lose heat rapidly.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Smooth coats: weekly wipe-down, occasional bath, nail trim every 3–4 weeks. Long coats: brushing 2–3x per week to prevent tangles around the ears and legs, occasional professional trim. See the <a href=\"/blogs/dog-breeds/chihuahua-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Chihuahua grooming guide</a> for coat-specific routines.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Dental Care</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Toy breeds accumulate dental tartar quickly and lose teeth early without consistent care. Daily or every-other-day tooth brushing with dog-safe toothpaste is strongly recommended. Dental disease is the most common health issue in small breeds and significantly affects quality of life.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Generally healthy and long-lived. Patellar luxation and heart disease are the most common conditions to watch for.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Patellar Luxation</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Kneecap slipping from groove — very common in toy breeds. Ranges from Grade 1 (no symptoms) to Grade 4 (requires surgery). Ask breeders for OFA patella evaluation. Surgery $1,500–$4,000 for severe cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Heart Disease (Mitral Valve Disease)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Valve degeneration is common in small breeds as they age. Annual cardiac auscultation at vet exams catches murmurs early. Medication can manage progression. More common after age 7–8.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Tracheal Collapse</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Weakening of the tracheal rings causing coughing and breathing difficulty. More common in toy breeds. Harness instead of collar reduces pressure on the trachea. Medical management for mild cases; surgical options for severe.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hypoglycemia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Tiny puppies particularly at risk for low blood sugar. Feed small amounts frequently (3–4x daily) as puppies, watch for lethargy or trembling. Risk decreases as the puppy matures.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA patella and cardiac evaluations; CAER eye exam</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">One of the most affordable breeds to own day-to-day — tiny portions, no professional grooming requirement for smooth coats. The long lifespan does mean more total vet visits over the dog's life.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (toy breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$150–$300</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$150–$300</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$480</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$480</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$150–$300</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,800–$3,500+</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$900–$1,500</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/chihuahua-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Chihuahua first-year cost breakdown</a> for detailed numbers.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Chihuahua Right for You?",
@@ -92,25 +120,50 @@
         "Cold climate with outdoor time expectations — Chihuahuas aren't built for cold"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Chihuahua",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$500–$1,500 from reputable breeders. Be wary of \"teacup\" Chihuahuas — this is a marketing term, not a recognized variety. Dogs bred to be dramatically below the 2–6 lb breed standard are at elevated health risk. Required health tests: OFA patella and cardiac evaluations, CAER eye exam. The Chihuahua Club of America maintains a breeder referral list.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Chihuahuas are among the most over-represented breeds in shelters. Many are young and healthy, surrendered by owners who underestimated their training needs or personality. Adult Chihuahuas from rescue are often excellent — their personality is fully developed and assessable. Adoption fees $150–$350.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before pickup, go through the <a href=\"/blogs/dog-breeds/chihuahua-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Chihuahua puppy checklist</a> — harness vs. collar decision and socialization plan are the most important pre-arrival considerations.</p>"
     }
   },
-
   "faq": [
-    { "q": "Why do Chihuahuas shake?", "a": "Two reasons: they lose heat rapidly due to their tiny size and low body fat, so shivering in cooler environments is common and normal. They also shake when anxious or excited — this is a physiological stress response. Persistent shaking without temperature cause can indicate hypoglycemia (in puppies) or pain." },
-    { "q": "Are Chihuahuas aggressive?", "a": "The reputation is real, but it's almost entirely a training problem. Chihuahuas that bite, snap, or lunge at people have been allowed to do so without consequence because owners find it non-threatening. Train the dog like it weighs 70 pounds — consistent boundaries, no exceptions — and most Chihuahuas are friendly and manageable." },
-    { "q": "Can Chihuahuas be left alone?", "a": "Better than many companion breeds, though they prefer company. Adult Chihuahuas can tolerate 6–8 hours alone with appropriate exercise and enrichment. They're not as prone to separation anxiety as Cavaliers or Bichons, though individuals vary." },
-    { "q": "What's the difference between smooth and long-coat Chihuahuas?", "a": "Coat length only — both are the same breed with the same temperament and health profile. Smooth coats require minimal grooming; long coats need regular brushing to prevent tangles behind the ears and on the legs. Both come in all colors and patterns." }
+    {
+      "q": "Why do Chihuahuas shake?",
+      "a": "Two reasons: they lose heat rapidly due to their tiny size and low body fat, so shivering in cooler environments is common and normal. They also shake when anxious or excited — this is a physiological stress response. Persistent shaking without temperature cause can indicate hypoglycemia (in puppies) or pain."
+    },
+    {
+      "q": "Are Chihuahuas aggressive?",
+      "a": "The reputation is real, but it's almost entirely a training problem. Chihuahuas that bite, snap, or lunge at people have been allowed to do so without consequence because owners find it non-threatening. Train the dog like it weighs 70 pounds — consistent boundaries, no exceptions — and most Chihuahuas are friendly and manageable."
+    },
+    {
+      "q": "Can Chihuahuas be left alone?",
+      "a": "Better than many companion breeds, though they prefer company. Adult Chihuahuas can tolerate 6–8 hours alone with appropriate exercise and enrichment. They're not as prone to separation anxiety as Cavaliers or Bichons, though individuals vary."
+    },
+    {
+      "q": "What's the difference between smooth and long-coat Chihuahuas?",
+      "a": "Coat length only — both are the same breed with the same temperament and health profile. Smooth coats require minimal grooming; long coats need regular brushing to prevent tangles behind the ears and on the legs. Both come in all colors and patterns."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Italian Greyhound", "slug": "italian-greyhound", "note": "Similar size and devotion, more sensitive, sleeker build"},
-    {"name": "Miniature Pinscher", "slug": "miniature-pinscher", "note": "Similar boldness and energy, slightly larger, different health profile"},
-    {"name": "Pomeranian", "slug": "pomeranian", "note": "Similar size and big personality, much more coat to manage"},
-    {"name": "Shih Tzu", "slug": "shih-tzu", "note": "Similar size, friendlier with strangers, much more grooming"}
+    {
+      "name": "Italian Greyhound",
+      "slug": "italian-greyhound",
+      "note": "Similar size and devotion, more sensitive, sleeker build"
+    },
+    {
+      "name": "Miniature Pinscher",
+      "slug": "miniature-pinscher",
+      "note": "Similar boldness and energy, slightly larger, different health profile"
+    },
+    {
+      "name": "Pomeranian",
+      "slug": "pomeranian",
+      "note": "Similar size and big personality, much more coat to manage"
+    },
+    {
+      "name": "Shih Tzu",
+      "slug": "shih-tzu",
+      "note": "Similar size, friendlier with strangers, much more grooming"
+    }
   ]
 }

@@ -5,14 +5,20 @@
     "shopify_handle": "rottweiler-first-year-costs",
     "group": "Rottweiler",
     "size_category": "Guide",
-    "tags": ["rottweiler", "cost", "budget", "first-year", "dog-breeds"],
+    "tags": [
+      "rottweiler",
+      "cost",
+      "budget",
+      "first-year",
+      "dog-breeds"
+    ],
     "published": true,
     "excerpt": "Rottweilers are expensive to own — large breed food, above-average health costs, and mandatory training. Here's the honest year-one breakdown.",
     "meta_description": "Rottweiler first-year cost breakdown: purchase price, large breed food, training, insurance, health costs, and the insurance issue most guides don't cover."
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rottweiler_standing_facing_left.jpg/330px-Rottweiler_standing_facing_left.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_39b46d17-378e-4c30-8fb5-73b3c6f470c2.png?v=1777534951",
       "alt": "Rottweiler"
     }
   },
@@ -39,9 +45,21 @@
     }
   },
   "faq": [
-    { "q": "How much does a Rottweiler cost per year to own?", "a": "After first-year setup: $2,200–$4,200 annually. Large breed food and above-average insurance premiums are the main drivers. Years with a major health event (hip surgery, cancer treatment, GDV) can be substantially higher." },
-    { "q": "Is pet insurance worth it for a Rottweiler?", "a": "Very much so. Elevated cancer rates and the GDV risk make large unexpected costs genuinely probable over a 9–10 year lifespan. Insurance at $80–$150/month is the right trade for that uncertainty. Apply before the first vet visit." },
-    { "q": "Will a Rottweiler affect my homeowner's insurance?", "a": "Potentially significantly. Rottweilers are on restricted or excluded breed lists for many major carriers. Check your policy specifically and call your carrier before getting the dog. Options include switching carriers, seeking specialty pet-owner liability coverage, or adding a rider — but discovering the issue after an incident is far more expensive." },
-    { "q": "What's the most expensive part of owning a Rottweiler?", "a": "Over the lifetime of the dog: likely either cancer treatment or the insurance premiums over 9–10 years. Year one, the combination of food, insurance, training, and setup makes the total significant. Training is non-optional for a large protective breed — budget $300–$600 for this specifically." }
+    {
+      "q": "How much does a Rottweiler cost per year to own?",
+      "a": "After first-year setup: $2,200–$4,200 annually. Large breed food and above-average insurance premiums are the main drivers. Years with a major health event (hip surgery, cancer treatment, GDV) can be substantially higher."
+    },
+    {
+      "q": "Is pet insurance worth it for a Rottweiler?",
+      "a": "Very much so. Elevated cancer rates and the GDV risk make large unexpected costs genuinely probable over a 9–10 year lifespan. Insurance at $80–$150/month is the right trade for that uncertainty. Apply before the first vet visit."
+    },
+    {
+      "q": "Will a Rottweiler affect my homeowner's insurance?",
+      "a": "Potentially significantly. Rottweilers are on restricted or excluded breed lists for many major carriers. Check your policy specifically and call your carrier before getting the dog. Options include switching carriers, seeking specialty pet-owner liability coverage, or adding a rider — but discovering the issue after an incident is far more expensive."
+    },
+    {
+      "q": "What's the most expensive part of owning a Rottweiler?",
+      "a": "Over the lifetime of the dog: likely either cancer treatment or the insurance premiums over 9–10 years. Year one, the combination of food, insurance, training, and setup makes the total significant. Training is non-optional for a large protective breed — budget $300–$600 for this specifically."
+    }
   ]
 }

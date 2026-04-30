@@ -5,20 +5,24 @@
     "shopify_handle": "shiba-inu-puppy-checklist",
     "group": "Shiba Inu",
     "size_category": "Guide",
-    "tags": ["shiba-inu", "puppy", "checklist", "escape-proof-fence", "never-off-leash"],
+    "tags": [
+      "shiba-inu",
+      "puppy",
+      "checklist",
+      "escape-proof-fence",
+      "never-off-leash"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Everything you need before your Shiba Inu puppy comes home — including the fence inspection and the never-off-leash rule that apply from day one.",
     "meta_description": "Shiba Inu puppy checklist: escape-proof fence requirements, never-off-leash rule, socialization priorities for an independent breed, and essential gear list."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Taka_Shiba.jpg/250px-Taka_Shiba.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_88cdd2e4-50b4-46c1-ac5f-db0e9dece34e.png?v=1777531514",
       "alt": "Shiba Inu puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Shiba Inu Training Reality</h3><p>Shibas are intelligent dogs that don't operate on the eager-to-please model of retrievers or shepherds. They understand commands readily — they just choose whether to comply based on their own assessment of the situation. Positive reinforcement with very high-value rewards works; harsh corrections produce shutdown or defiance. Keep training sessions short (5–10 minutes), frequent, and rewarding. Shibas train best when they think training was their idea.</p><ul><li>Sit, down, stay, come, leave it — establish all core commands early</li><li>Recall is the most important command to build — do it with the highest-value treats possible</li><li>Loose-leash walking: never let pulling become a habit from puppyhood</li><li>Door manners: the puppy never exits a door without a sit-stay first — this is safety-critical for a bolt-risk breed</li></ul><h3>Harness Fitting</h3><p>Shibas are notorious for \"helicopter spinning\" to back out of collars and improperly fitted harnesses. Use a correctly fitted Y-harness or H-harness where the chest piece sits across the breastbone. Check fit regularly as the puppy grows. Some owners use both a collar (for ID tags) and a harness (for leash attachment) as double security.</p><h3>Enrichment Matters</h3><p>Shibas are active-minded dogs that need mental stimulation as well as physical exercise. Puzzle feeders, sniff games, and training sessions provide cognitive engagement that a bored Shiba won't find through other appropriate means. A bored Shiba will redecorate your home.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Can a Shiba Inu ever be trusted off-leash?",

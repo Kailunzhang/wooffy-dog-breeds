@@ -5,20 +5,24 @@
     "shopify_handle": "ibizan-hound-grooming-guide",
     "group": "Ibizan Hound",
     "size_category": "Guide",
-    "tags": ["ibizan-hound", "grooming", "smooth-coat", "wire-coat", "sighthound"],
+    "tags": [
+      "ibizan-hound",
+      "grooming",
+      "smooth-coat",
+      "wire-coat",
+      "sighthound"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Ibizan Hound grooming is minimal for the smooth coat variety and modest for the wire coat. Both are low-shedding. Ear care and cold-weather skin considerations are the primary ongoing maintenance points.",
     "meta_description": "Ibizan Hound grooming guide: smooth coat vs wire coat care, ear cleaning protocol, cold-weather skin considerations, and what low-maintenance grooming looks like for a sighthound."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Podenco_z_ibizy_645.jpg/250px-Podenco_z_ibizy_645.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_89e9a958-d5b8-4907-8957-3c83e2d034e2.png?v=1777528522",
       "alt": "Ibizan Hound grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Two Coat Varieties",
@@ -36,7 +40,6 @@
       "html": "<p>Ibizan Hounds have very thin skin and minimal body fat — a characteristic of the sighthound type. In cold weather, this means the dog genuinely needs a coat for outdoor exercise. A dog coat that covers the torso down to mid-body provides meaningful warmth for cold-weather walks. This is not optional comfort equipment — it's temperature regulation for a breed that lacks natural cold insulation.</p><p>The thin skin also means cuts and abrasions from rough terrain are more visible on an Ibizan than on heavier-coated breeds. Check the dog after any exercise in rough or thorny terrain. Minor abrasions typically heal well; deeper cuts in this thin-skinned breed can be slower to heal.</p><p><strong>Nails:</strong> Trim monthly. Sighthound nails can grow quickly and affect gait. Use standard dog clippers — the nails are not especially thick.</p><p><strong>Dental:</strong> Brush 2–3 times weekly. The sighthound jaw tends toward thinner bone structure, making dental health particularly important to maintain.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How much do Ibizan Hounds shed?",

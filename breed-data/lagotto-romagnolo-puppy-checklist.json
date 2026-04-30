@@ -5,20 +5,25 @@
     "shopify_handle": "lagotto-romagnolo-puppy-checklist",
     "group": "Lagotto Romagnolo",
     "size_category": "Guide",
-    "tags": ["lagotto-romagnolo", "puppy", "checklist", "lagotto-storage-disease", "grooming", "nose-work"],
+    "tags": [
+      "lagotto-romagnolo",
+      "puppy",
+      "checklist",
+      "lagotto-storage-disease",
+      "grooming",
+      "nose-work"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "Before your Lagotto comes home: Lagotto Storage Disease DNA test documentation from both parents is non-negotiable, insurance must be active before the first vet visit, and the grooming routine starts immediately. The breed's extraordinary nose can be channeled from puppyhood.",
     "meta_description": "Lagotto Romagnolo puppy checklist: Lagotto Storage Disease DNA test verification, insurance timing, grooming routine from week one, nose work introduction, and first vet visit priorities."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bellalagotto4.jpg/250px-Bellalagotto4.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3cc8d877-13cd-4819-9607-d73bffaea749.png?v=1777528801",
       "alt": "Lagotto Romagnolo puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>The Scent Drive — Use It from Day One</h3><p>The Lagotto Romagnolo was developed as a truffle-hunting dog — its nose and scent drive are exceptional. This drive needs an outlet from puppyhood. Channeling it constructively produces a mentally satisfied, manageable dog. Ignoring it produces a dog that invents its own scent projects in your garden or home.</p><p>Simple scent games for puppies: hide treats in a snuffle mat, hide kibble under cups, scatter feed in the grass. As the puppy develops, formal nose work classes (available through dog sport organizations) provide structured scent training that exercises the mind thoroughly in short sessions. A Lagotto that gets 15–20 minutes of nose work is significantly more settled than one that had the same time of physical exercise.</p><h3>Socialization Window: 8–16 Weeks</h3><p>Lagottos are generally friendly but benefit from broad socialization during the critical window. Prioritize:</p><ul><li>Varied people and environments — different ages, appearances, sounds, surfaces</li><li>Controlled dog interactions in puppy classes</li><li>Grooming handling: ears, paws, face — especially critical for this breed's maintenance requirements</li><li>Novel environments: the breed's working background makes them adaptable, but varied early exposure reinforces this</li></ul><h3>Training Approach</h3><p>Lagottos are intelligent and food-motivated, which makes training straightforward with the right approach. They are also independent thinkers with working dog instincts — they respond to training that engages their brain, not just rote repetition. Use positive reinforcement, keep sessions short and varied, and incorporate nose work and problem-solving activities alongside basic obedience. A bored Lagotto finds its own entertainment; a mentally engaged one is a pleasure to live with.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Why is Lagotto Storage Disease testing so critical?",

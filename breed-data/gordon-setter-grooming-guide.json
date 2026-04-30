@@ -5,20 +5,24 @@
     "shopify_handle": "gordon-setter-grooming-guide",
     "group": "Gordon Setter",
     "size_category": "Guide",
-    "tags": ["gordon-setter", "grooming", "silky-coat", "feathering", "black-and-tan"],
+    "tags": [
+      "gordon-setter",
+      "grooming",
+      "silky-coat",
+      "feathering",
+      "black-and-tan"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "The Gordon Setter's black-and-tan silky coat is beautiful and requires consistent weekly maintenance. Here's the full routine — including ear care, feathering management, and bathing.",
     "meta_description": "Gordon Setter grooming guide: brushing the silky black-and-tan coat, managing feathering, ear cleaning for drop-eared sporting dogs, and professional grooming intervals."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Orrvilas_enska_w800px.jpg/250px-Orrvilas_enska_w800px.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_0ecdabae-1ec4-4afb-a7ce-ac6a4a0bf622.png?v=1777528191",
       "alt": "Gordon Setter grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Gordon Setter Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Two grooming areas deserve specific attention for Gordon Setters: chronic ear health management (the drop ear creates real infection risk) and post-field-work coat care for dogs that hunt or work in cover.</p><h3>Ear Infections: Prevention Is Much Easier Than Treatment</h3><p>Gordon Setters' drop ears restrict airflow to the ear canal, creating conditions where yeast and bacteria thrive. Weekly ear maintenance is genuine preventive care. After any water exposure — bathing, swimming, rain — dry the outer ear canal with a cotton ball. Chronic ear infections become increasingly difficult to treat as the ear canal tissues change; catching infections early when they're still acute and responsive to medication is far preferable to managing chronic otitis.</p><ul><li>Weekly routine: dampen a cotton ball with ear cleaner, gently wipe the outer canal, let dry</li><li>Post-water: dry the outer canal after every swimming or bathing session</li><li>Watch for: head shaking, ear scratching, discharge, or odor — any of these is a vet visit, not a cleaning</li></ul><h3>Field and Hunting Dog Coat Care</h3><p>Gordon Setters that work in cover (brush, heavy grass, woodland) accumulate burrs, seeds, and plant material in the feathering. Check the entire coat after every field outing — burrs left in the coat mat quickly and become difficult to remove without cutting. Many hunting owners keep their Gordons in a field trim (shorter feathering) during hunting season to simplify post-outing maintenance. This is a practical choice; the shorter trim grows back.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How do I keep my Gordon Setter's black coat looking good?",

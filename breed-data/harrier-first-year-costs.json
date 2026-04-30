@@ -5,20 +5,24 @@
     "shopify_handle": "harrier-first-year-costs",
     "group": "Harrier",
     "size_category": "Guide",
-    "tags": ["harrier", "cost", "budget", "first-year", "medium-breed"],
+    "tags": [
+      "harrier",
+      "cost",
+      "budget",
+      "first-year",
+      "medium-breed"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Harriers are moderately priced to purchase and economical to own — healthy, low-grooming, and no dominant expensive health conditions. The main cost variables are standard medium-large breed expenses.",
     "meta_description": "Harrier first year costs: puppy price, food budget, vet care, pet insurance, and lifetime cost estimates for this healthy and low-maintenance hound breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Harrier_Hound_-Pedigree_Harrier.jpg/250px-Harrier_Hound_-Pedigree_Harrier.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_d18de9ac-fb41-4939-878f-67f6075ef702.png?v=1777528423",
       "alt": "Harrier first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost (12–15 yr)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy, no major health events</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$18,000–$35,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Hip dysplasia requiring management</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$25,000–$45,000</td></tr></tbody></table><p style=\"margin-top:16px;\">Among medium-large breeds, the Harrier's combination of modest purchase price, low grooming costs, general health, and excellent lifespan makes it one of the more economical long-term ownership profiles available.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Is a Harrier expensive to own?",

@@ -5,7 +5,11 @@
     "shopify_handle": "rhodesian-ridgeback-first-year-costs",
     "group": "Rhodesian Ridgeback",
     "size_category": "Guide",
-    "tags": ["rhodesian-ridgeback", "costs", "first-year"],
+    "tags": [
+      "rhodesian-ridgeback",
+      "costs",
+      "first-year"
+    ],
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "Rhodesian Ridgeback first-year costs run $4,000–$8,500 including purchase price. Dermoid sinus screening and hip/elbow health testing are the primary vet priorities. Grooming is minimal; the exercise and training commitment is real.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rhodesian_ridgeback.jpg/330px-Rhodesian_ridgeback.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_f32efbaf-10f7-4e48-ae2c-0353967b5e8e.png?v=1777530801",
       "alt": "Rhodesian Ridgeback first year costs"
     }
   },

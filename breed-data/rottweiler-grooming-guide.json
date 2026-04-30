@@ -5,14 +5,19 @@
     "shopify_handle": "rottweiler-grooming-guide",
     "group": "Rottweiler",
     "size_category": "Guide",
-    "tags": ["rottweiler", "grooming", "shedding", "dog-breeds"],
+    "tags": [
+      "rottweiler",
+      "grooming",
+      "shedding",
+      "dog-breeds"
+    ],
     "published": true,
     "excerpt": "Rottweilers are low-maintenance in grooming terms — weekly brush, regular bath, consistent nail care. Here's the complete routine.",
     "meta_description": "Rottweiler grooming guide: weekly coat care, shedding management, bathing, ear and nail care for a low-maintenance large breed."
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rottweiler_standing_facing_left.jpg/330px-Rottweiler_standing_facing_left.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_1e8574f4-02d0-4019-89cc-0628f2d01c9d.png?v=1777534939",
       "alt": "Rottweiler"
     }
   },
@@ -34,9 +39,21 @@
     }
   },
   "faq": [
-    { "q": "Do Rottweilers need professional grooming?", "a": "Not regularly. The short coat doesn't require professional styling or clipping. A professional bath and nail trim every 6–8 weeks is a nice convenience but not necessary. The grooming routine is simple enough to maintain entirely at home once the dog is accustomed to the handling." },
-    { "q": "How much do Rottweilers shed?", "a": "Moderate year-round with two seasonal increases in spring and fall. Less than double-coated breeds like Labs or German Shepherds, but present and consistent. Weekly brushing captures most loose hair before it reaches furniture. During seasonal shedding, increasing to 2–3x per week makes a visible difference." },
-    { "q": "My Rottweiler resists nail trims. What do I do?", "a": "Build tolerance gradually with positive reinforcement. Touch the paw with a treat, then the clipper, then a single nail — reward heavily after each step. Over multiple sessions, build up to a full trim. A nail grinder is often better tolerated than clippers for resistant dogs. If the resistance is severe, a vet or professional groomer can help, and it's worth the visit to establish the handling baseline." },
-    { "q": "How often should I bathe my Rottweiler?", "a": "Every 6–8 weeks under normal circumstances. Short coats don't need frequent bathing and overbathing strips natural coat oils. After muddy outdoor activity, a rinse with plain water is usually sufficient without shampoo. Rottweilers are generally not particularly odorous compared to some other breeds." }
+    {
+      "q": "Do Rottweilers need professional grooming?",
+      "a": "Not regularly. The short coat doesn't require professional styling or clipping. A professional bath and nail trim every 6–8 weeks is a nice convenience but not necessary. The grooming routine is simple enough to maintain entirely at home once the dog is accustomed to the handling."
+    },
+    {
+      "q": "How much do Rottweilers shed?",
+      "a": "Moderate year-round with two seasonal increases in spring and fall. Less than double-coated breeds like Labs or German Shepherds, but present and consistent. Weekly brushing captures most loose hair before it reaches furniture. During seasonal shedding, increasing to 2–3x per week makes a visible difference."
+    },
+    {
+      "q": "My Rottweiler resists nail trims. What do I do?",
+      "a": "Build tolerance gradually with positive reinforcement. Touch the paw with a treat, then the clipper, then a single nail — reward heavily after each step. Over multiple sessions, build up to a full trim. A nail grinder is often better tolerated than clippers for resistant dogs. If the resistance is severe, a vet or professional groomer can help, and it's worth the visit to establish the handling baseline."
+    },
+    {
+      "q": "How often should I bathe my Rottweiler?",
+      "a": "Every 6–8 weeks under normal circumstances. Short coats don't need frequent bathing and overbathing strips natural coat oils. After muddy outdoor activity, a rinse with plain water is usually sufficient without shampoo. Rottweilers are generally not particularly odorous compared to some other breeds."
+    }
   ]
 }

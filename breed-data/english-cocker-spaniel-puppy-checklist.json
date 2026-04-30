@@ -5,20 +5,25 @@
     "shopify_handle": "english-cocker-spaniel-puppy-checklist",
     "group": "English Cocker Spaniel",
     "size_category": "Guide",
-    "tags": ["english-cocker-spaniel", "puppy", "checklist", "familial-nephropathy", "ear-cleaning", "insurance"],
+    "tags": [
+      "english-cocker-spaniel",
+      "puppy",
+      "checklist",
+      "familial-nephropathy",
+      "ear-cleaning",
+      "insurance"
+    ],
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "Before your English Cocker Spaniel comes home: Familial Nephropathy DNA test documentation from both parents is non-negotiable, insurance must be active before the first vet visit, and the weekly ear cleaning routine starts on day one.",
     "meta_description": "English Cocker Spaniel puppy checklist: Familial Nephropathy DNA test verification, insurance timing, ear cleaning habits from week one, gear list, and first vet visit priorities."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%22Bill%22_-_Cocker_spaniel_anglais_2.JPG/250px-%22Bill%22_-_Cocker_spaniel_anglais_2.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_2461b230-ee4e-403d-aa76-9bf741fc0c47.png?v=1777527572",
       "alt": "English Cocker Spaniel puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Socialization Window: 8–16 Weeks</h3><p>English Cocker Spaniels are typically friendly, eager-to-please dogs — the breed's sporting heritage includes working closely with humans. Active socialization during the critical window builds a confident, adaptable adult. Prioritize:</p><ul><li>Varied people: different ages, appearances, children, visitors</li><li>Novel environments: different surfaces, sounds, and settings</li><li>Controlled dog interactions: puppy classes provide positive dog-dog exposure and early obedience foundation</li><li>Handling: ears, paws, mouth — habituate the puppy to thorough handling during grooming sessions</li></ul><p>Carry the puppy in high disease-risk areas before vaccinations are complete. Don't forfeit the socialization window for disease precaution alone.</p><h3>Finding a Spaniel-Experienced Groomer</h3><p>English Cocker Spaniels need a groomer experienced with spaniel coats — specifically someone who understands how to trim the ear canal hair, manage the feathering, and not over-clip the natural coat. Ask for references or look for groomers who list spaniels as a specialty. Introducing the puppy to the groomer at 10–12 weeks (for a brief familiarization visit before the first real appointment) reduces stress at the first full grooming session.</p><h3>Training — Enthusiastic Learners</h3><p>English Cockers are intelligent, people-oriented dogs that train readily. Start basic obedience from the first week — sit, down, stay, come, and loose-leash walking. Positive reinforcement works well for this breed; harsh corrections undermine the trusting relationship they offer. Enroll in a puppy class by 10–12 weeks for structured training and controlled socialization. A well-trained Cocker is a delight; their eagerness to please makes training genuinely enjoyable.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What makes Familial Nephropathy such a serious concern for English Cocker Spaniels?",

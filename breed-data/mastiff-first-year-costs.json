@@ -5,20 +5,24 @@
     "shopify_handle": "mastiff-first-year-costs",
     "group": "Mastiff",
     "size_category": "Guide",
-    "tags": ["mastiff", "cost", "budget", "first-year", "giant-breed"],
+    "tags": [
+      "mastiff",
+      "cost",
+      "budget",
+      "first-year",
+      "giant-breed"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Mastiff ownership costs $5,100–$9,100 in the first year. At 200+ lbs, everything scales up: food, medications, boarding, and veterinary care. The gastropexy and insurance are non-optional for a breed with real bloat and cancer risk.",
     "meta_description": "Mastiff first year costs: giant-breed food budget, gastropexy cost, bone cancer risk expenses, and why every cost is higher when your dog weighs more than most people."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/137._English_Mastiff.JPG/330px-137._English_Mastiff.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_551b9b2f-40d6-4718-9bc7-6a1d1b47271d.png?v=1777529679",
       "alt": "Mastiff first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>Mastiffs live 6–10 years. The shorter lifespan means fewer total years of routine costs but concentrates health costs into a tighter window — and the last years often include the highest treatment costs.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost (6–10 yrs)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, no major health interventions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$26,000–$45,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate orthopedic issues (medical management)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$35,000–$55,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Major surgery (hip replacement, osteosarcoma)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$50,000–$80,000+</td></tr></tbody></table>"
     }
   },
-
   "faq": [
     {
       "q": "How much does it cost to feed a Mastiff per year?",

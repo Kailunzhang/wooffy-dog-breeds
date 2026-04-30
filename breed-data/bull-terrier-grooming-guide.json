@@ -5,20 +5,24 @@
     "shopify_handle": "bull-terrier-grooming-guide",
     "group": "Bull Terrier",
     "size_category": "Guide",
-    "tags": ["bull-terrier", "grooming", "short-coat", "low-maintenance", "white-coat-care"],
+    "tags": [
+      "bull-terrier",
+      "grooming",
+      "short-coat",
+      "low-maintenance",
+      "white-coat-care"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Bull Terrier grooming is minimal — one of the lowest-maintenance coats in any breed. White Bull Terriers need attention to coat staining and sun sensitivity; colored Terriers are even simpler.",
     "meta_description": "Bull Terrier grooming guide: short coat maintenance, white coat stain management, sun sensitivity in white dogs, and the complete low-effort grooming routine."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bullterrier-3453301920.jpg/330px-Bullterrier-3453301920.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_97e20d92-69d3-4b9a-b35d-a24d80de0cc7.png?v=1777526568",
       "alt": "Bull Terrier grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Bull Terrier Coat",
@@ -36,7 +40,6 @@
       "html": "<p>White Bull Terriers require a few additional considerations compared to colored dogs:</p><h3>Sun Sensitivity</h3><p>White dogs with light or pink skin (depigmented areas) are more susceptible to sunburn, particularly on the nose, ear tips, and belly. In high-UV environments, extended sun exposure should be limited. Dog-safe sunscreen on the nose and ear tips is appropriate for dogs spending significant time outdoors in summer. Squamous cell carcinoma is more common in heavily sun-exposed white dogs — monitor the nose and ear tips for changes in pigmentation, texture, or surface integrity.</p><h3>Coat Staining</h3><p>Saliva staining around the mouth and paws (from licking) and grass or dirt staining on the legs and belly are more visible on white coats. Regular bathing with a whitening shampoo manages this cosmetically. It's an aesthetic issue, not a health one — but many owners notice and address it.</p><h3>Allergies and Skin Irritation</h3><p>White Bull Terriers with pink or lightly pigmented skin may show skin reactions more visibly and may be somewhat more prone to contact allergies. If you notice persistent redness, itching, or hot spots, discuss with your vet whether an allergy evaluation is warranted.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Do Bull Terriers shed a lot?",

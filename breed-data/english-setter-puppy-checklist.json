@@ -5,20 +5,24 @@
     "shopify_handle": "english-setter-puppy-checklist",
     "group": "English Setter",
     "size_category": "Guide",
-    "tags": ["english-setter", "puppy", "checklist", "sporting-dog", "socialization"],
+    "tags": [
+      "english-setter",
+      "puppy",
+      "checklist",
+      "sporting-dog",
+      "socialization"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "Everything you need before your English Setter puppy comes home — including BAER documentation requirements for white puppies, fencing priorities, and early grooming habituation.",
     "meta_description": "English Setter puppy checklist: BAER hearing test documentation, fencing for a sporting dog, socialization priorities, early grooming habituation, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EnglishSetter9_fx_wb.jpg/250px-EnglishSetter9_fx_wb.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_411a2fbf-2ee4-4165-8dbf-822c209f8013.png?v=1777527631",
       "alt": "English Setter puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Start Training Early — Nose Work Is a Distraction Issue</h3><p>English Setters are willing learners but have a powerful nose that functions as the primary distraction in outdoor training. Core commands (sit, down, stay, come, leave it) should be established first indoors, then proofed progressively in more distracting environments. Don't expect reliable recall in a field environment without serious, consistent training — the nose can override everything when something interesting is happening.</p><ul><li>Sit, down, stay, come — establish indoors first, then proof outdoors with increasing distractions</li><li>Loose-leash walking — start from the first walk. Never let pulling become habitual.</li><li>Leave it — essential for a nose-driven dog that will encounter interesting things on every walk</li><li>Door manners: sit before going outside, wait at thresholds</li></ul><h3>Fencing for a Sporting Dog</h3><p>English Setters are athletic and fast. In an unfenced area off-leash, a Setter on an interesting scent will cover distance quickly and recall may not compete. A 4–5 foot fence is generally adequate for most Setters (they're not typically fence jumpers), but check fence integrity at all gates and base sections. Field-line dogs with higher drive may be more motivated to escape than show-line dogs.</p><h3>Exercise Rules for Puppies</h3><p>The 5-minutes-per-month-of-age rule applies: a 3-month-old gets 15-minute exercise sessions, twice daily maximum. Growth plates in a large breed close around 18 months — no forced running, jumping, or stair climbing until then. Free play in a yard and on-leash walks are appropriate; jogging with the dog waits until 18 months.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What documents should I get from an English Setter breeder?",

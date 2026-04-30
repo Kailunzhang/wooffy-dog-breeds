@@ -5,20 +5,24 @@
     "shopify_handle": "chow-chow-puppy-checklist",
     "group": "Chow Chow",
     "size_category": "Guide",
-    "tags": ["chow-chow", "puppy", "checklist", "socialization", "grooming"],
+    "tags": [
+      "chow-chow",
+      "puppy",
+      "checklist",
+      "socialization",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Everything you need before your Chow Chow puppy comes home — including the socialization plan and grooming routine setup that matter most for this breed.",
     "meta_description": "Chow Chow puppy checklist: socialization priorities during the 8–16 week window, grooming introduction, essential gear, vet visit schedule, and first-week setup."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Chow-chow_in_Tallinn.JPG/250px-Chow-chow_in_Tallinn.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_d78e47bf-4f7f-4f57-8b8c-a5c43d51f4b1.png?v=1777527015",
       "alt": "Chow Chow puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Training Philosophy for Chow Chows</h3><p>Chow Chows are intelligent but independent — they respond poorly to harsh or repetitive training and respond well to positive reinforcement with clear, consistent expectations. Short training sessions with high-value rewards produce better results than long drilling sessions. Establish every core command early: sit, down, stay, come, leave it. A Chow that doesn't have a reliable recall recall needs secure fencing — this is not a breed for off-leash areas.</p><h3>Managing Dog-Dog Interactions</h3><p>Chow Chows can be selective with other dogs, particularly same-sex pairs. If you have other dogs:</p><ul><li>Introduce on neutral territory with both dogs calm and leashed</li><li>Monitor all interactions in the early months</li><li>Same-sex pairs carry higher conflict risk — proceed more cautiously</li><li>Early positive dog-to-dog experiences during the socialization window help establish better adult patterns</li></ul><h3>Skin Fold Monitoring</h3><p>Some Chow Chows have facial skin folds that require weekly cleaning. Establish a weekly routine of wiping and drying the folds from puppyhood — it should become a normal part of the handling routine, not a battle.</p><h3>Exercise for Puppies</h3><p>Follow the 5-minutes-per-month-of-age guideline for leash walks (twice daily maximum). Growth plates in a large breed close around 18 months — avoid forced running or stair climbing before then. Chow Chows are moderate-energy adults; puppies should not be over-exercised.</p>"
     }
   },
-
   "faq": [
     {
       "q": "When should I start socializing my Chow Chow puppy?",

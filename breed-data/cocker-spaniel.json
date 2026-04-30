@@ -6,74 +6,102 @@
     "group": "Sporting Group",
     "size_category": "Medium Breed",
     "tagline": "The Cocker Spaniel is one of the gentlest, most family-friendly dogs available — and one of the most grooming-intensive. The coat that looks effortless in photos requires real daily work to maintain.",
-    "tags": ["sporting-group", "medium-breed", "family-dog", "spaniels", "dog-breeds"],
+    "tags": [
+      "sporting-group",
+      "medium-breed",
+      "family-dog",
+      "spaniels",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Cockers are gentle, trainable, and excellent with children. The honest trade-off: the coat requires professional grooming every 6–8 weeks plus daily brushing at home. Budget and commit to that before you decide.",
     "meta_description": "Cocker Spaniel breed guide: temperament, grooming commitment, health conditions including ear infections and PRA, cost breakdown, and fit assessment."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "20–30 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–14 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "30–45 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Easy" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes*" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "20–30 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "30–45 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Excellent"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes*"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gessa_d%27Aran_Copo_de_Nieve-_arancio_roano-_prop.Kalesa.jpg/330px-Gessa_d%27Aran_Copo_de_Nieve-_arancio_roano-_prop.Kalesa.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_88e49288-8f02-472f-9c83-b043a5fef045.png?v=1777527122",
       "alt": "Cocker Spaniel"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Cocker Spaniel?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The American Cocker Spaniel held the title of America's most popular breed for sixteen consecutive years during the 1940s and 1950s — a record that reflects something lasting about the breed. Cockers are gentle, cheerful, and deeply affectionate. They're excellent with children, get along with other pets, and adapt well to different living situations. They were bred as bird dogs but have spent generations becoming companion animals, and the companion temperament is deeply established.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest caveat — the one the photos don't communicate — is the coat. That flowing, silky, show-ring look is the result of significant regular grooming work. Daily brushing at home and professional grooming every 6–8 weeks are the minimum maintenance requirements. Cockers that go ungroomed develop painful, tight mats that require shaving. The coat is not optional management; it's the primary ongoing commitment of the breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">If you're prepared for that, Cockers are genuinely wonderful dogs. If you want a low-grooming companion, choose a different breed.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Cocker Spaniels Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Compact and elegant — 20–30 lbs, 13–16 inches at the shoulder. The most distinctive features are the long, pendulous ears, the round, expressive eyes, and the flowing coat that feathers on the ears, chest, belly, and legs. Coat colors range widely: black, ASCOB (any solid color other than black), and parti-color (white with patches of color).</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The American Cocker Spaniel is distinct from the English Cocker Spaniel — the American is smaller, with a more domed head, shorter muzzle, and longer coat. English Cockers are larger and more moderate in feature. This guide covers the American Cocker Spaniel, which is what \"Cocker Spaniel\" means in the US without a qualifier.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Gentle, happy, and eager to please — Cockers are consistently sweet-natured. They love their families deeply and want to be included in household activity. They're not independent or aloof; they're companion dogs in the fullest sense and don't do well with excessive isolation.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With children, Cockers are genuinely patient and tolerant — among the more reliable small-to-medium breeds in this regard. They also tend to get along well with other dogs and even cats when properly introduced.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">One temperament note worth knowing: \"Cocker rage syndrome\" — a rare but documented condition involving sudden, unexplained aggression in some Cockers — has been associated with certain bloodlines. It is uncommon in well-bred lines from health-focused breeders, but worth asking about. Solid-colored Cockers (particularly golden/buff) appeared in older literature at higher rates, though this may reflect breeding concentration rather than color linkage.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Cocker",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Cockers are genuinely lovely dogs and most people who own them are glad they did. The temperament is real — they're sweet, gentle, and family-oriented in a way that makes daily life with them pleasant. For households with children, they're one of the better choices in the small-to-medium range.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">What I want to be honest about is the grooming budget. Professional grooming every 6–8 weeks runs $60–$100 per appointment — that's $400–$800 per year, every year, forever. Plus daily brushing at home to prevent matting between appointments. This isn't optional or cuttable. A neglected Cocker coat becomes a welfare issue, not just an aesthetic one — painful mats that restrict movement and cause skin problems.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The ears are also ongoing work: those beautiful long ears trap moisture and debris, making Cockers significantly more prone to ear infections than upright-eared breeds. Weekly ear checks and cleaning after water exposure are non-optional parts of the ownership commitment.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate — 30–45 minutes of daily activity is generally sufficient. Two walks plus some off-leash play time or fetch. Cockers are versatile enough to adapt to both active and more relaxed households within reason. They retain their sporting dog heritage and will enjoy hiking and swimming if offered, but aren't demanding in the way of GSPs or Labs.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The primary commitment of Cocker ownership. The full routine:</p><ul style=\"font-size:0.95em;line-height:1.9;color:#6b7177;padding-left:20px;margin:0 0 20px 0;\"><li><strong style=\"color:#1a1a1a;\">Daily brushing</strong> with a slicker brush — every day without exception to prevent matting</li><li><strong style=\"color:#1a1a1a;\">Professional grooming</strong> every 6–8 weeks — bath, trim, ear cleaning, nail trim</li><li><strong style=\"color:#1a1a1a;\">Ear cleaning</strong> weekly; more frequently after swimming or bathing</li><li><strong style=\"color:#1a1a1a;\">Eye area</strong> — keep dry and clean to prevent staining and irritation</li></ul><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">See the <a href=\"/blogs/dog-breeds/cocker-spaniel-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Cocker Spaniel grooming guide</a> for the full routine and tool list.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Cockers are sensitive and respond exceptionally well to positive reinforcement. Harsh training methods are counterproductive and unnecessary. They learn quickly and retain commands reliably. Puppy class plus consistent home practice covers the basics well. Their sensitivity means they can be shut down by even mildly negative training approaches.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Cockers have several breed-specific health concerns. Eye conditions, ear infections, and hip issues are the most common categories to plan for.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Ear Infections (Otitis)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Cockers' long, floppy ears create a warm, moist environment that's ideal for bacterial and yeast growth. Ear infections are extremely common. Weekly cleaning and keeping ears dry significantly reduces frequency. Chronic infections require veterinary management.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inherited eye condition leading to progressive vision loss and blindness. DNA test available. Ask breeders for CAER eye clearances and PRA DNA test results on both parents.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hereditary Cataracts</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">More common in Cockers than many breeds. CAER annual eye exams help with early detection. Surgical correction possible in appropriate cases.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Less common than in large breeds but present in Cockers. OFA hip clearances on both parents is standard in health-focused breeding programs.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Phosphofructokinase (PFK) Deficiency</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited enzyme deficiency affecting red blood cells and muscles. DNA test available. Ask breeders for PFK clearance.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> CAER annual eye exam, PRA DNA test, PFK DNA test, OFA hip clearance</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Medium food costs, but professional grooming is the dominant ongoing expense — budget for it explicitly before deciding on a Cocker.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$800–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Professional grooming</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$480–$840</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$480–$840</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,000–$5,500+</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,800–$3,100</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/cocker-spaniel-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Cocker Spaniel first-year cost breakdown</a> for detailed numbers including grooming and ear care.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Cocker Spaniel Right for You?",
@@ -92,25 +120,50 @@
         "Households where consistent ear cleaning and monitoring won't happen"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Cocker Spaniel",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$800–$1,500 from a reputable breeder. Required health tests: CAER annual eye exam and PRA DNA test on both parents, PFK DNA test, OFA hip clearance. Ask specifically about the bloodline's temperament history; rageful behavior has been associated with certain lines. The American Spaniel Club maintains a breeder referral list.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Cocker Spaniel rescues exist nationally and regionally. Many dogs are surrendered due to grooming needs the owner wasn't prepared for — the dog itself is often blameless. Adoption fee $200–$500.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before pickup, go through the <a href=\"/blogs/dog-breeds/cocker-spaniel-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Cocker Spaniel puppy checklist</a> — grooming tools and an established groomer relationship are the two items to have in place before the dog arrives.</p>"
     }
   },
-
   "faq": [
-    { "q": "Are Cocker Spaniels high maintenance?", "a": "In grooming terms, yes. The coat requires daily brushing and professional grooming every 6–8 weeks — this is the primary commitment of the breed and non-negotiable. In personality terms, they're actually relatively easy: moderate exercise needs, gentle temperament, highly trainable." },
-    { "q": "Are Cocker Spaniels aggressive?", "a": "Generally no — they're among the gentler breeds. The rare documented condition known as 'Cocker rage syndrome' exists but is uncommon in well-bred lines from health-focused breeders. Ask breeders specifically about temperament history in their lines. Most Cockers are sweet-natured throughout their lives." },
-    { "q": "How often do Cocker Spaniels need grooming?", "a": "Professional grooming every 6–8 weeks plus daily brushing at home. Without daily brushing, the coat develops painful mats between professional appointments. If the daily brushing commitment isn't realistic, look at breeds with lower-maintenance coats." },
-    { "q": "Are American and English Cocker Spaniels the same dog?", "a": "Related but distinct breeds. American Cockers are smaller with a more domed head, shorter muzzle, and longer coat. English Cockers are larger, more moderate in feature, and slightly more active. In the US, 'Cocker Spaniel' without a qualifier refers to the American type." }
+    {
+      "q": "Are Cocker Spaniels high maintenance?",
+      "a": "In grooming terms, yes. The coat requires daily brushing and professional grooming every 6–8 weeks — this is the primary commitment of the breed and non-negotiable. In personality terms, they're actually relatively easy: moderate exercise needs, gentle temperament, highly trainable."
+    },
+    {
+      "q": "Are Cocker Spaniels aggressive?",
+      "a": "Generally no — they're among the gentler breeds. The rare documented condition known as 'Cocker rage syndrome' exists but is uncommon in well-bred lines from health-focused breeders. Ask breeders specifically about temperament history in their lines. Most Cockers are sweet-natured throughout their lives."
+    },
+    {
+      "q": "How often do Cocker Spaniels need grooming?",
+      "a": "Professional grooming every 6–8 weeks plus daily brushing at home. Without daily brushing, the coat develops painful mats between professional appointments. If the daily brushing commitment isn't realistic, look at breeds with lower-maintenance coats."
+    },
+    {
+      "q": "Are American and English Cocker Spaniels the same dog?",
+      "a": "Related but distinct breeds. American Cockers are smaller with a more domed head, shorter muzzle, and longer coat. English Cockers are larger, more moderate in feature, and slightly more active. In the US, 'Cocker Spaniel' without a qualifier refers to the American type."
+    }
   ],
-
   "related_breeds": [
-    {"name": "English Cocker Spaniel", "slug": "english-cocker-spaniel", "note": "Larger, more moderate features, slightly higher activity level"},
-    {"name": "Cavalier King Charles Spaniel", "slug": "cavalier-king-charles-spaniel", "note": "Even gentler, lower exercise, different coat texture"},
-    {"name": "Bichon Frise", "slug": "bichon-frise", "note": "Similar size, similar grooming commitment, lower energy"},
-    {"name": "Golden Retriever", "slug": "golden-retriever", "note": "Larger, same gentle family temperament, higher exercise needs"}
+    {
+      "name": "English Cocker Spaniel",
+      "slug": "english-cocker-spaniel",
+      "note": "Larger, more moderate features, slightly higher activity level"
+    },
+    {
+      "name": "Cavalier King Charles Spaniel",
+      "slug": "cavalier-king-charles-spaniel",
+      "note": "Even gentler, lower exercise, different coat texture"
+    },
+    {
+      "name": "Bichon Frise",
+      "slug": "bichon-frise",
+      "note": "Similar size, similar grooming commitment, lower energy"
+    },
+    {
+      "name": "Golden Retriever",
+      "slug": "golden-retriever",
+      "note": "Larger, same gentle family temperament, higher exercise needs"
+    }
   ]
 }

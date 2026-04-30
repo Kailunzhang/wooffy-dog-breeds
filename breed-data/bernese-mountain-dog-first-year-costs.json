@@ -5,20 +5,24 @@
     "shopify_handle": "bernese-mountain-dog-first-year-costs",
     "group": "Bernese Mountain Dog",
     "size_category": "Guide",
-    "tags": ["bernese-mountain-dog", "cost", "budget", "first-year", "cancer-risk"],
+    "tags": [
+      "bernese-mountain-dog",
+      "cost",
+      "budget",
+      "first-year",
+      "cancer-risk"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Bernese Mountain Dog ownership costs $3,900–$7,200 in the first year. The high insurance cost reflects the real risk: cancer affects approximately half of all Berners, and treatment costs are substantial.",
     "meta_description": "Bernese Mountain Dog first year costs: puppy price, food for a large breed, the real reason insurance costs more, cancer treatment expenses, and lifetime cost given a 7–8 year lifespan."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/3-BerneseMountainDogInGrass.jpg/330px-3-BerneseMountainDogInGrass.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0426dc0f-4b40-45d0-9c1a-4d1341fab1a1.png?v=1777525992",
       "alt": "Bernese Mountain Dog first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>The Berner's short lifespan changes the lifetime cost calculation compared to longer-lived breeds. You spend less total years of food, insurance, and routine care — but the health costs may be concentrated.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost (7–8 yrs)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, no major health interventions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$20,000–$32,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate issues (dysplasia, managed with medication)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$28,000–$42,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Cancer diagnosis with treatment pursuit</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$35,000–$60,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">Insurance with high annual limits ($10,000+) is essential for the cancer scenario. Policies with cancer-specific exclusions are not appropriate for this breed.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Why does Bernese Mountain Dog insurance cost more?",

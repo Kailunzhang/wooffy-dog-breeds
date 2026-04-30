@@ -5,20 +5,23 @@
     "shopify_handle": "miniature-schnauzer-grooming-guide",
     "group": "Miniature Schnauzer",
     "size_category": "Guide",
-    "tags": ["miniature-schnauzer", "grooming", "terrier-group", "wiry-coat"],
+    "tags": [
+      "miniature-schnauzer",
+      "grooming",
+      "terrier-group",
+      "wiry-coat"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Mini Schnauzer grooming means professional clipping every 6–8 weeks plus weekly home maintenance on the beard and eyebrows. Here's the full routine and what it costs.",
     "meta_description": "Miniature Schnauzer grooming guide: professional clipping schedule, beard and brow maintenance, hand-stripping vs. clipping, and home care routine."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Miniature_Schnauzer_salt_%26_pepper_%28cropped%29.jpg/330px-Miniature_Schnauzer_salt_%26_pepper_%28cropped%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_39a4d11c-b75e-4448-bd6d-23efc931b728.png?v=1777529844",
       "alt": "Miniature Schnauzer grooming"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
@@ -36,7 +39,6 @@
       "html": "<p>The beard is the most high-maintenance part of a Miniature Schnauzer. It collects food, water, and debris constantly, and the base of the beard is a prime matting zone. Here's how to stay on top of it:</p><h3>Daily After Meals</h3><ul><li>Blot (don't rub) the beard dry after drinking</li><li>Some owners use a dry dog food that doesn't cling to facial hair; wet food is the worst offender</li><li>A quick wipe with a damp cloth after meals prevents staining and buildup</li></ul><h3>Weekly Beard Maintenance</h3><ol><li>Comb through from tip to root with a fine-tooth comb</li><li>Look for tangles at the base, near the skin — work these out gently with fingers and detangling spray</li><li>Trim any stray hairs that are getting too long or uneven</li></ol><h3>Staining</h3><p>Some Miniature Schnauzers, especially light-colored ones, develop reddish-brown staining on the beard from saliva and food. This is cosmetic and not harmful. Specialized whitening or stain-removing dog shampoos can help lighten the staining during baths.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does a Miniature Schnauzer need professional grooming?",

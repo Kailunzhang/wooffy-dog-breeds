@@ -5,20 +5,25 @@
     "shopify_handle": "miniature-american-shepherd-first-year-costs",
     "group": "Miniature American Shepherd",
     "size_category": "Guide",
-    "tags": ["miniature-american-shepherd", "cost", "budget", "first-year", "CEA", "MDR1"],
+    "tags": [
+      "miniature-american-shepherd",
+      "cost",
+      "budget",
+      "first-year",
+      "CEA",
+      "MDR1"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "Miniature American Shepherd ownership costs $2,500–$5,500 in the first year. CEA and MDR1 DNA test documentation are breed-specific requirements from the breeder before purchase.",
     "meta_description": "Miniature American Shepherd first year costs: puppy price, CEA and MDR1 testing requirements, food, vet bills, dog sport costs, pet insurance, and lifetime cost estimates."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blue_Merle_Miniature_American_Shepherd_in_Grass.jpg/330px-Blue_Merle_Miniature_American_Shepherd_in_Grass.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_4e15625d-71a4-46c2-bf5b-ac2f5500d8e2.png?v=1777529749",
       "alt": "Miniature American Shepherd first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +41,6 @@
       "html": "<p>With a 12–13 year lifespan, Miniature American Shepherds have moderate annual costs. Their smaller size makes food costs lower than standard-sized herding breeds while their health risk profile is comparable.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, active sport life</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$18,000–$30,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Patellar or orthopedic surgery required</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$24,000–$38,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Multiple health interventions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$32,000–$48,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">MAS are a good value proposition for active owners — their smaller size reduces food costs compared to full-sized herding breeds while their sport and training capabilities are comparable. The health screening at purchase is the most important cost-control measure.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does a Miniature American Shepherd puppy cost from a reputable breeder?",

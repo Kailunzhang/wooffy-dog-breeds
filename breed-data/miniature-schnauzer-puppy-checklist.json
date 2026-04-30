@@ -5,20 +5,24 @@
     "shopify_handle": "miniature-schnauzer-puppy-checklist",
     "group": "Miniature Schnauzer",
     "size_category": "Guide",
-    "tags": ["miniature-schnauzer", "puppy", "checklist", "small-breed", "diet-management"],
+    "tags": [
+      "miniature-schnauzer",
+      "puppy",
+      "checklist",
+      "small-breed",
+      "diet-management"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Everything you need before your Mini Schnauzer puppy comes home — including the low-fat diet rule that will govern their food choices for life.",
     "meta_description": "Miniature Schnauzer puppy checklist: essential gear, low-fat diet setup from day one, grooming desensitization, and training tips for this intelligent terrier."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Miniature_Schnauzer_salt_%26_pepper_%28cropped%29.jpg/330px-Miniature_Schnauzer_salt_%26_pepper_%28cropped%29.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3c82db30-71ae-424d-9e6a-3dae2b235c41.png?v=1777529848",
       "alt": "Miniature Schnauzer puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<p>Miniature Schnauzers are highly intelligent, which means they train fast — and also means they get bored with repetitive training and will test limits creatively. Keep sessions short, varied, and challenging. They respond best to positive reinforcement and get resentful of harsh corrections.</p><h3>Year One Training Priorities</h3><ol><li><strong>Puppy class:</strong> Socialization during the 8–16 week window and basic manners.</li><li><strong>Basic obedience:</strong> Sit, down, stay, come, leave it. Schnauzers learn these quickly — advance to proofing in different environments and with distractions.</li><li><strong>Leash manners:</strong> Schnauzers can be reactive and bark at other dogs on leash. Train loose-leash walking and focus cues early.</li><li><strong>Bark management:</strong> Schnauzers bark. A lot. Train a 'quiet' cue from puppyhood. Never reward barking with attention. Consistent training reduces excessive barking significantly.</li><li><strong>Crate training:</strong> Schnauzers that are crate-trained have better separation tolerance. Start from day one.</li></ol><h3>Mental Stimulation Is Non-Negotiable</h3><p>A bored Miniature Schnauzer is a barking, into-everything Miniature Schnauzer. Puzzle feeders, training sessions, and scent games are as important as walks for this intelligent terrier breed.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What should I feed my Miniature Schnauzer puppy?",

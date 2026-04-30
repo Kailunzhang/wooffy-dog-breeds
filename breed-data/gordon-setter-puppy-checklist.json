@@ -5,20 +5,24 @@
     "shopify_handle": "gordon-setter-puppy-checklist",
     "group": "Gordon Setter",
     "size_category": "Guide",
-    "tags": ["gordon-setter", "puppy", "checklist", "bloat", "sporting-dog"],
+    "tags": [
+      "gordon-setter",
+      "puppy",
+      "checklist",
+      "bloat",
+      "sporting-dog"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "Everything you need before your Gordon Setter puppy comes home — including the bloat/GDV conversation with your vet that needs to happen before spay/neuter, not during a crisis.",
     "meta_description": "Gordon Setter puppy checklist: bloat/GDV risk preparation, health documentation from breeders, socialization priorities, grooming habituation, and essential gear."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Orrvilas_enska_w800px.jpg/250px-Orrvilas_enska_w800px.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3563d2c1-070d-4ac8-9966-2372badd3b05.png?v=1777528203",
       "alt": "Gordon Setter puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +40,6 @@
       "html": "<h3>Patience Through Slow Maturation</h3><p>Gordon Setters mature slowly — mentally, many dogs remain in an adolescent phase until age 2–3. Establish consistent training from the start and maintain it through the adolescent period, even when it feels like the dog has forgotten everything they learned at 12 weeks. Consistency during the adolescence pays off in the settled, devoted adult.</p><ul><li>Sit, down, stay, come, leave it — establish and proof consistently from puppyhood</li><li>Loose-leash walking — start from the first walk, never allow pulling to become habitual</li><li>Door manners and threshold behavior — sit before going outside, wait at thresholds</li><li>Recall training — invest in this specifically. A sporting dog in an interesting environment has competing priorities; reliable recall requires real training investment.</li></ul><h3>Socialization</h3><p>Gordon Setters are more reserved with strangers than Irish Setters — early socialization is important for a well-adjusted adult. During the critical window (8–16 weeks):</p><ul><li>Varied people: different ages, appearances, uniforms, hats</li><li>Varied environments: traffic, crowds, different surfaces and sounds</li><li>Positive interactions with strangers that the puppy initiates at their own pace — don't force greeting</li><li>Puppy class for structured socialization with vaccinated puppies</li></ul><h3>Exercise Rules for Puppies</h3><p>5 minutes per month of age, twice daily maximum. Growth plates in a large breed close around 18 months — no forced running, jumping, or stair climbing until then. On-leash walks and free play in a yard are appropriate; jogging with the dog waits until 18 months minimum.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What health clearances should a Gordon Setter breeder provide?",

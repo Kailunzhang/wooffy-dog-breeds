@@ -5,20 +5,25 @@
     "shopify_handle": "west-highland-white-terrier-first-year-costs",
     "group": "West Highland White Terrier",
     "size_category": "Guide",
-    "tags": ["westie", "cost", "budget", "first-year", "atopic-dermatitis", "wpf"],
+    "tags": [
+      "westie",
+      "cost",
+      "budget",
+      "first-year",
+      "atopic-dermatitis",
+      "wpf"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Westie ownership costs $4,250–$8,350 in the first year. Ongoing costs are dominated by professional grooming and potential atopic dermatitis management — a condition that affects most Westies at some point.",
     "meta_description": "West Highland White Terrier first year costs: puppy price, professional grooming budget, atopic dermatitis management costs, WPF insurance rationale, and lifetime cost estimates for a small but health-complex terrier."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/West_Highland_White_Terrier_Krakow.jpg/330px-West_Highland_White_Terrier_Krakow.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_300ecf05-0f54-4b23-8ae9-72bbdf5233ab.png?v=1777532989",
       "alt": "West Highland White Terrier first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +41,6 @@
       "html": "<p>With a 12–16 year lifespan, Westies can be expensive overall when health conditions are factored in.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, minimal skin issues</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$22,000–$40,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate atopic dermatitis (ongoing management)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$30,000–$50,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">WPF development in older dog (supportive care)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$35,000–$60,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">Despite the small size, the health profile means per-year costs can rival larger breeds when chronic conditions are present. Insurance before the first vet visit is the primary cost management tool.</p>"
     }
   },
-
   "faq": [
     {
       "q": "Is pet insurance worth it for a West Highland White Terrier?",

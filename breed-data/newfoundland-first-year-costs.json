@@ -5,20 +5,25 @@
     "shopify_handle": "newfoundland-first-year-costs",
     "group": "Newfoundland",
     "size_category": "Guide",
-    "tags": ["newfoundland", "cost", "budget", "first-year", "giant-breed", "cardiac"],
+    "tags": [
+      "newfoundland",
+      "cost",
+      "budget",
+      "first-year",
+      "giant-breed",
+      "cardiac"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Newfoundland ownership costs $4,000–$8,000 in the first year at giant-breed scale. The cardiac monitoring requirement adds to vet costs, and pet insurance is non-negotiable given SAS prevalence.",
     "meta_description": "Newfoundland first year costs: puppy price range, giant-breed food budget, cardiac monitoring expenses, cystinuria testing, drool management supplies, and insurance considerations."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Newfoundland_dog_Smoky.jpg/330px-Newfoundland_dog_Smoky.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_1863a979-79f2-4de4-8b30-764a6069f72b.png?v=1777529949",
       "alt": "Newfoundland first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +41,6 @@
       "html": "<p>The 9–10 year lifespan is shorter than most owners expect when they fall for a Newf puppy. Annual costs compound over a shorter period than smaller breeds, but the giant-breed cost per year is higher than average.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, minimal health issues</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$28,000–$45,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate issues (cardiac monitoring, mild dysplasia)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$38,000–$60,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant issues (SAS treatment, hip surgery, cystinuria management)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$55,000–$90,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">Pet insurance enrolled before any documented conditions changes the out-of-pocket calculation significantly for the moderate and high scenarios.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does a Newfoundland puppy cost?",

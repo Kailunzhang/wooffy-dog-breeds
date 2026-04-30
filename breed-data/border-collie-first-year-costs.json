@@ -5,20 +5,25 @@
     "shopify_handle": "border-collie-first-year-costs",
     "group": "Border Collie",
     "size_category": "Guide",
-    "tags": ["border-collie", "cost", "budget", "first-year", "MDR1", "dog-sports"],
+    "tags": [
+      "border-collie",
+      "cost",
+      "budget",
+      "first-year",
+      "MDR1",
+      "dog-sports"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Border Collie ownership costs $2,800–$6,000 in the first year. The MDR1 drug sensitivity DNA test and CEA eye test from the breeder are breed-specific health priorities before any money is spent.",
     "meta_description": "Border Collie first year costs: puppy price, MDR1 and CEA DNA test requirements, food, vet bills, dog sports, pet insurance, and lifetime cost estimates for this herding breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Border_Collie_600.jpg/250px-Border_Collie_600.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7c081500-5dfe-4184-9df2-86e658ca4f95.png?v=1777526265",
       "alt": "Border Collie first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +41,6 @@
       "html": "<p>With a 12–15 year lifespan, Border Collies are a long commitment with moderate ongoing costs.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, active sport life, no major issues</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$20,000–$35,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate health management required</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$28,000–$45,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Hip surgery + ongoing health conditions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$38,000–$55,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">The dog sport and training budget is a genuine ongoing cost for this breed — Border Collies that aren't mentally engaged develop behavioral problems that cost more to manage than the prevention. Active sport participation is part of the cost of ownership for this breed done well.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does a Border Collie puppy cost from a reputable breeder?",

@@ -6,74 +6,103 @@
     "group": "Hound Group",
     "size_category": "Large Breed",
     "tagline": "The Rhodesian Ridgeback is a powerful, athletic, independent hound bred to track lions through African bush. Low-maintenance coat, striking ridge down the back, and a dog that makes its own decisions. Not a breed for owners who need automatic obedience.",
-    "tags": ["hound-group", "large-breed", "athletic", "independent", "prey-drive", "dog-breeds"],
+    "tags": [
+      "hound-group",
+      "large-breed",
+      "athletic",
+      "independent",
+      "prey-drive",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "The Ridgeback is a loyal, athletic, and striking breed with minimal grooming needs — but the independent hound temperament and strong prey drive require an experienced owner. The dermoid sinus check is essential at the first vet visit. Bloat risk makes gastropexy a real conversation to have early.",
     "meta_description": "Rhodesian Ridgeback breed guide: independent temperament, dermoid sinus health check, bloat risk and gastropexy, prey drive management, and what experienced ownership looks like."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Large" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "65–85 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "10–12 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise",  "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming",  "value": "Low" },
-    "training": { "emoji": "🎓", "label": "Training",  "value": "Moderate-Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good with family" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "No" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "65–85 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "10–12 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate-Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good with family"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "No"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rhodesian_ridgeback.jpg/330px-Rhodesian_ridgeback.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_0d89dcc6-f8b5-4ad4-9feb-20b3cfebdc88.png?v=1777530797",
       "alt": "Rhodesian Ridgeback"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Rhodesian Ridgeback?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Rhodesian Ridgeback was developed in southern Africa by crossing European breeds (including Greyhounds, Mastiffs, and Terriers) with the semi-wild Khoikhoi ridged dog of the region. The resulting breed was used to track and bay lions — not to kill them, but to keep the lion occupied until hunters arrived on horseback. A breed built for that task is, by definition, courageous, independent, and physically exceptional.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The defining physical feature is the ridge of backward-growing hair along the spine — two symmetrical whorls (crowns) at the base of the ridge are the breed standard. The coat is otherwise short, dense, and sleek, requiring minimal grooming. Males stand 25–27 inches and weigh 75–85 lbs; females 24–26 inches at 65–70 lbs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The temperament is that of a hound: loyal to its people, affectionate with family, and naturally reserved with strangers. The training challenge is the independent streak — Ridgebacks are not wired to be obedient. They're smart enough to understand commands perfectly and still decide the instruction isn't worth following. This requires an experienced handler who can work with the breed's nature rather than fight it.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Rhodesian Ridgebacks Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A large, muscular, athletic dog in a light wheaten to red wheaten short coat. The ridge of reverse-growing hair along the dorsal line is the definitive feature — typically 2 inches wide, running from just behind the shoulders to the hip area, with two identical crowns (whorls) at the top. Dogs without a ridge exist but are not breed standard.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Build is balanced and athletic — not as heavy as a Mastiff, not as lean as a Greyhound, but distinctly powerful. The short coat requires essentially no grooming beyond a weekly rubber mitt. Eyes are round and bright, expression keen and intelligent.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Within the family: loyal, affectionate, and devoted. Ridgebacks bond closely to their people and are protective without being aggressive. They are not dogs that welcome every stranger warmly — reserve with unknown people is natural and normal. A well-socialized Ridgeback is controlled and watchful, not reactive or anxious.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The prey drive is real and strong. Cats, rabbits, squirrels, bicycles, joggers — anything that moves quickly can trigger the chase response. Off-leash in unfenced areas is not appropriate for this breed. A secure fence is not optional.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Training requires patience and positive motivation. Ridgebacks understand commands but make their own choices about compliance. Harsh corrections produce stubbornness and a deteriorating relationship. High-value motivation (food rewards, genuine engagement) and consistent expectations over time produce the best results.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Ridgeback",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Ridgebacks are magnificent dogs for the right owner. If you want a low-maintenance coat on a powerful, athletic, handsome hound that is devoted to your family without being clingy or needy — this is a legitimate top-tier option. They're not as exhausting to own as some high-drive working breeds, and they don't require the constant herding-dog stimulation. But they are absolutely not beginner dogs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The two things I'd prioritize immediately: have a vet physically inspect the ridge and check for dermoid sinus at the first appointment. DS is a congenital defect where a narrow tract connects the skin to the spine — it can cause severe infections or spinal cord involvement if not caught. Reputable breeders check litters, but verify this yourself. And discuss prophylactic gastropexy at that first visit. Deep-chested breeds and bloat are a real risk equation, and if you're spaying or neutering anyway, this is the time to address it.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Experienced dog owners with an active lifestyle and a securely fenced yard will find the Ridgeback exceptionally rewarding. First-time large-breed owners frequently find themselves outmatched.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of vigorous exercise daily. Ridgebacks are built for endurance — not just a stroll around the block. They thrive with running, hiking, or active play in a securely fenced yard. Off-leash time requires a secure enclosed space; the prey drive makes open areas too risky. Once their exercise needs are genuinely met, they are surprisingly calm indoors.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Minimal. Weekly going-over with a rubber grooming mitt removes loose hair and keeps the coat gleaming. Bathe as needed — a few times per year for most dogs unless they've found something to roll in. Nails, teeth, and ears are the standard maintenance. See the <a href=\"/blogs/dog-breeds/rhodesian-ridgeback-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Rhodesian Ridgeback grooming guide</a>.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">This is where the commitment is. Ridgebacks require consistent, patient training built on motivation and clear expectations — not force. An experienced trainer familiar with hound breeds is preferable to a general obedience class. Obedience is achievable; expecting the responsiveness of a Border Collie is not realistic.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Ridgebacks are a relatively hardy breed with a 10–12 year lifespan. Two conditions require specific attention: dermoid sinus (congenital) and bloat/GDV (emergency risk).</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Dermoid Sinus (DS)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">A congenital defect unique to the Ridgeback — a narrow tube connecting the skin along the ridge to underlying tissue, sometimes extending to the spinal cord. Requires surgical removal. Reputable breeders physically examine puppies in the litter and should not sell affected pups. Have your vet physically examine the ridge at the first visit. DS detected early is surgically correctable; undetected DS risks infection and spinal involvement.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Life-threatening emergency in deep-chested breeds. Stomach fills with gas and may rotate. Signs: distended abdomen, unproductive retching, restlessness after eating. Discuss prophylactic gastropexy at the first vet visit — this surgical procedure prevents the stomach from rotating and is ideally performed at spay/neuter.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed hip joint causing pain and arthritis. OFA or PennHIP screening from reputable breeders.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Developmental elbow joint condition causing pain and lameness. OFA elbow screening available from responsible breeders.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hypothyroidism</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Underactive thyroid — manageable with daily medication. OFA thyroid clearance available.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> OFA hip and elbow, OFA thyroid, CAER eye exam. Ask specifically if DS inspection was performed on the litter.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (large breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Gastropexy (at spay/neuter)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$200–$500 add-on</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (large crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,500–$6,100</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,600–$3,000</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">See the <a href=\"/blogs/dog-breeds/rhodesian-ridgeback-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Rhodesian Ridgeback first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Rhodesian Ridgeback Right for You?",
@@ -92,25 +121,50 @@
         "People who cannot commit to a secure fence and on-leash management"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Rhodesian Ridgeback",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,500–$2,500 from reputable breeders. The Rhodesian Ridgeback Club of the United States maintains a breeder directory. Ask specifically whether the litter was examined for dermoid sinus. Required health clearances: OFA hip and elbow, OFA thyroid, CAER eye exam.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Ridgeback rescue organizations exist across the US. Many surrendered dogs are from homes that underestimated the exercise and independent temperament requirements. Experienced handlers only.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Ridgeback comes home, complete the <a href=\"/blogs/dog-breeds/rhodesian-ridgeback-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Rhodesian Ridgeback puppy checklist</a> — DS vet check agenda, gastropexy discussion, fence security, and insurance enrollment.</p>"
     }
   },
-
   "faq": [
-    { "q": "What is a dermoid sinus and how serious is it?", "a": "Dermoid sinus (DS) is a congenital defect specific to Rhodesian Ridgebacks — a narrow tube or tract that forms along the ridge during fetal development and connects the skin to underlying structures, sometimes reaching the spinal cord. Affected dogs require surgical removal; the procedure is straightforward when the sinus is shallow, more complex and risky when it reaches the spine. Responsible breeders check every puppy in the litter by palpation. Have your vet physically inspect the ridge at the first appointment regardless. An undetected DS can cause severe infections." },
-    { "q": "Are Rhodesian Ridgebacks good family dogs?", "a": "Yes — with experienced owners. They're loyal, affectionate with their family, and generally good with children they grew up with. Their size and energy require supervision with very young children, and strangers may be met with reserve. As a family dog for an experienced, active household, the Ridgeback is excellent. As a beginner's family dog, the independent temperament and prey drive create real management challenges." },
-    { "q": "How much exercise does a Rhodesian Ridgeback need?", "a": "60–90 minutes of real, vigorous exercise daily. Not a casual walk — the Ridgeback was built for endurance over miles of African bush terrain. Running, hiking, or active yard play meets their needs. Once genuinely exercised, they tend to be calm indoors. An under-exercised Ridgeback channels that energy into destructiveness and frustration." },
-    { "q": "Can Rhodesian Ridgebacks be off-leash?", "a": "Only in a securely fenced area. The prey drive and independent nature make reliable off-leash recall very difficult in an open environment. A Ridgeback that sees a squirrel, rabbit, or cyclist may decide that recall command is optional. This is not a training failure in the traditional sense — it's the hound brain operating as designed. Fenced yards and leashed walks are the standard management approach." }
+    {
+      "q": "What is a dermoid sinus and how serious is it?",
+      "a": "Dermoid sinus (DS) is a congenital defect specific to Rhodesian Ridgebacks — a narrow tube or tract that forms along the ridge during fetal development and connects the skin to underlying structures, sometimes reaching the spinal cord. Affected dogs require surgical removal; the procedure is straightforward when the sinus is shallow, more complex and risky when it reaches the spine. Responsible breeders check every puppy in the litter by palpation. Have your vet physically inspect the ridge at the first appointment regardless. An undetected DS can cause severe infections."
+    },
+    {
+      "q": "Are Rhodesian Ridgebacks good family dogs?",
+      "a": "Yes — with experienced owners. They're loyal, affectionate with their family, and generally good with children they grew up with. Their size and energy require supervision with very young children, and strangers may be met with reserve. As a family dog for an experienced, active household, the Ridgeback is excellent. As a beginner's family dog, the independent temperament and prey drive create real management challenges."
+    },
+    {
+      "q": "How much exercise does a Rhodesian Ridgeback need?",
+      "a": "60–90 minutes of real, vigorous exercise daily. Not a casual walk — the Ridgeback was built for endurance over miles of African bush terrain. Running, hiking, or active yard play meets their needs. Once genuinely exercised, they tend to be calm indoors. An under-exercised Ridgeback channels that energy into destructiveness and frustration."
+    },
+    {
+      "q": "Can Rhodesian Ridgebacks be off-leash?",
+      "a": "Only in a securely fenced area. The prey drive and independent nature make reliable off-leash recall very difficult in an open environment. A Ridgeback that sees a squirrel, rabbit, or cyclist may decide that recall command is optional. This is not a training failure in the traditional sense — it's the hound brain operating as designed. Fenced yards and leashed walks are the standard management approach."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Vizsla", "slug": "vizsla", "note": "Similar athletic hound/pointer profile, more affectionate and biddable, lower prey drive"},
-    {"name": "Weimaraner", "slug": "weimaraner", "note": "Similar size and energy, more clingy temperament, stronger drive to be with people"},
-    {"name": "Doberman Pinscher", "slug": "doberman-pinscher", "note": "Similar size and loyalty, significantly more trainable and responsive"},
-    {"name": "Greyhound", "slug": "greyhound", "note": "Shares sprint ancestry, much calmer indoors, similar prey drive, lower exercise needs than expected"}
+    {
+      "name": "Vizsla",
+      "slug": "vizsla",
+      "note": "Similar athletic hound/pointer profile, more affectionate and biddable, lower prey drive"
+    },
+    {
+      "name": "Weimaraner",
+      "slug": "weimaraner",
+      "note": "Similar size and energy, more clingy temperament, stronger drive to be with people"
+    },
+    {
+      "name": "Doberman Pinscher",
+      "slug": "doberman-pinscher",
+      "note": "Similar size and loyalty, significantly more trainable and responsive"
+    },
+    {
+      "name": "Greyhound",
+      "slug": "greyhound",
+      "note": "Shares sprint ancestry, much calmer indoors, similar prey drive, lower exercise needs than expected"
+    }
   ]
 }

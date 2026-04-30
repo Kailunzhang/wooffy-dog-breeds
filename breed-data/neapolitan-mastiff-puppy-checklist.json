@@ -5,7 +5,11 @@
     "shopify_handle": "neapolitan-mastiff-puppy-checklist",
     "group": "Neapolitan Mastiff",
     "size_category": "Guide",
-    "tags": ["neapolitan-mastiff", "puppy", "checklist"],
+    "tags": [
+      "neapolitan-mastiff",
+      "puppy",
+      "checklist"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "Everything you need before your Neapolitan Mastiff puppy comes home — daily fold cleaning setup, drool preparation, non-slip flooring for this massive breed, gastropexy planning, cardiac and hip screening discussion, and insurance before the first vet visit.",
@@ -13,7 +17,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Mastino_sylwetka.jpg/250px-Mastino_sylwetka.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_efa98422-a6bc-4c13-b00a-d5abf8c7109c.png?v=1777529897",
       "alt": "Neapolitan Mastiff puppy checklist"
     }
   },

@@ -5,20 +5,24 @@
     "shopify_handle": "irish-wolfhound-first-year-costs",
     "group": "Irish Wolfhound",
     "size_category": "Guide",
-    "tags": ["irish-wolfhound", "cost", "budget", "first-year", "giant-breed"],
+    "tags": [
+      "irish-wolfhound",
+      "cost",
+      "budget",
+      "first-year",
+      "giant-breed"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Irish Wolfhound ownership costs $6,000–$12,000 in the first year when gastropexy and insurance are included. These are non-optional expenses for a breed with this health profile.",
     "meta_description": "Irish Wolfhound first year costs: puppy price, giant-breed food budget, gastropexy cost, cardiac screening, pet insurance, and the honest lifetime financial reality of a 6–8 year giant breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/%282%29_Irish_Wolfhound_4.jpg/250px-%282%29_Irish_Wolfhound_4.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_2bc05047-9e89-42d7-b138-d38208277f2d.png?v=1777528697",
       "alt": "Irish Wolfhound first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With a 6–8 year lifespan, the per-year cost is high relative to longer-lived breeds — but the total lifetime spend is actually lower than a 12-year medium breed in many scenarios. The financial shock tends to come from unexpected major health events in the middle years.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, routine care only</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$22,000–$40,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">DCM diagnosed, managed with medication (3+ years)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$28,000–$50,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Osteosarcoma diagnosis requiring treatment</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$35,000–$65,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">Pet insurance significantly changes the out-of-pocket math for the middle and high scenarios. For a breed with real osteosarcoma and cardiac risk, insurance is a practical financial decision — not an optional one.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does an Irish Wolfhound puppy cost?",

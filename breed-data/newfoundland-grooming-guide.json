@@ -5,20 +5,24 @@
     "shopify_handle": "newfoundland-grooming-guide",
     "group": "Newfoundland",
     "size_category": "Guide",
-    "tags": ["newfoundland", "grooming", "double-coat", "shedding", "drool-management"],
+    "tags": [
+      "newfoundland",
+      "grooming",
+      "double-coat",
+      "shedding",
+      "drool-management"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "The Newfoundland's heavy double coat requires consistent brushing, professional deshedding twice yearly, and careful attention to drying after water activities. The drool situation requires its own management strategy.",
     "meta_description": "Newfoundland grooming guide: double coat brushing routine, deshedding sessions, drying after swimming, drool management strategies, and ear care for a giant water breed."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Newfoundland_dog_Smoky.jpg/330px-Newfoundland_dog_Smoky.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_cb6629de-9387-4ae6-bae2-f66f521863d6.png?v=1777529953",
       "alt": "Newfoundland grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Newf Coat",
@@ -36,7 +40,6 @@
       "html": "<h3>After Swimming</h3><p>The Newfoundland's water-resistant coat holds moisture close to the skin even as the outer coat sheds water. After swimming, towel dry thoroughly and blow-dry the undercoat to prevent hot spots and skin irritation. Pay particular attention to the neck, armpits, and belly area where moisture concentrates. A dog that swims regularly and is never properly dried will develop chronic skin issues.</p><h3>Ear Care After Water</h3><p>Water in the ear canal creates a warm, moist environment ideal for bacterial and yeast growth. After any water activity, gently dry the outer ear with a cotton ball and use an ear-drying solution (available from vets) to help remove moisture from the canal. Regular ear checks are important for any dog that swims — weekly examination and monthly professional cleaning if the dog is a frequent swimmer.</p><h3>Drool Management</h3><p>Drool is not a grooming issue per se, but it is a management reality for Newfoundland owners. Practical approach:</p><ul><li>Keep microfiber cloths in every room — folded and accessible on counters, nightstands, and near furniture</li><li>Wipe the face after every drink and meal — this is when drool output peaks</li><li>Drool bibs (available for large breeds) reduce furniture and floor drool during around-the-house time</li><li>Wipe facial skin folds and jowl areas during grooming to prevent yeast or bacterial growth in the moist folds</li><li>Accept that some amount of drool on clothing and furniture is simply part of Newfoundland ownership</li></ul>"
     }
   },
-
   "faq": [
     {
       "q": "How often should I bathe a Newfoundland?",

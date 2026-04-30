@@ -61,18 +61,18 @@
   },
   "images": {
     "hero": {
-      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait.png?v=1777501449",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_b80e20ff-34da-4255-b6b4-44b083c560b6.png?v=1777528148",
       "alt": "Golden Retriever — classic breed profile"
     },
     "secondary": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/GoldenRetrieverRunning.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_4a8502ef-6822-495f-8191-78478e59cd4d.png?v=1777528140",
         "alt": "Golden Retriever running",
         "caption": "Photo: Wikimedia Commons",
         "placement": "before_temperament"
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Golden_Retriever_Puppy.JPG",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_7c16da00-47ff-402a-86a4-b868b17db4fa.png?v=1777528144",
         "alt": "Golden Retriever puppy",
         "caption": "Photo: Wikimedia Commons / CC BY-SA 4.0",
         "placement": "before_finding"

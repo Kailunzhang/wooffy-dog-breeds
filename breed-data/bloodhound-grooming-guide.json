@@ -5,7 +5,10 @@
     "shopify_handle": "bloodhound-grooming-guide",
     "group": "Bloodhound",
     "size_category": "Guide",
-    "tags": ["bloodhound", "grooming"],
+    "tags": [
+      "bloodhound",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Bloodhound grooming is defined by two non-optional tasks: weekly ear cleaning to prevent chronic infections, and regular cleaning of facial wrinkles and dewlaps. The short coat is easy — the anatomy-specific care is what requires consistent attention.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bloodhound_Erland22.jpg/330px-Bloodhound_Erland22.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_1ce707f9-0626-409c-a102-538077c3c368.png?v=1777526153",
       "alt": "Bloodhound grooming guide"
     }
   },

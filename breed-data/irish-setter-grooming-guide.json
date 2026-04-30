@@ -5,7 +5,13 @@
     "shopify_handle": "irish-setter-grooming-guide",
     "group": "Irish Setter",
     "size_category": "Guide",
-    "tags": ["irish-setter", "grooming", "feathered-coat", "silky-coat", "ear-cleaning"],
+    "tags": [
+      "irish-setter",
+      "grooming",
+      "feathered-coat",
+      "silky-coat",
+      "ear-cleaning"
+    ],
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "The Irish Setter's mahogany feathered coat is lower maintenance than it looks — weekly brushing of the feathering areas and regular ear cleaning covers most of it. No professional grooming required.",
@@ -13,7 +19,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Can_Setter_dog_GFDL.jpg/330px-Can_Setter_dog_GFDL.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ea6c9cb9-aa89-42ee-8bd9-dd1d808eeb2e.png?v=1777528586",
       "alt": "Irish Setter grooming guide"
     }
   },
@@ -35,7 +41,13 @@
     }
   },
   "faq": [
-    {"q": "Do Irish Setters need professional grooming?", "a": "Not for regular maintenance. The silky feathered coat is manageable at home with weekly brushing. Some owners use a groomer occasionally for a feathering trim or a thorough bath and blow-dry, but there's no required professional appointment schedule like double-coated or curly-coated breeds."},
-    {"q": "How often should I clean my Irish Setter's ears?", "a": "Every 1–2 weeks minimum. The long drop ears create conditions for chronic infection — limited airflow and moisture accumulation. Regular cleaning is the prevention. If your dog develops ear infections despite regular cleaning, discuss with your vet whether the ear canal anatomy needs evaluation."}
+    {
+      "q": "Do Irish Setters need professional grooming?",
+      "a": "Not for regular maintenance. The silky feathered coat is manageable at home with weekly brushing. Some owners use a groomer occasionally for a feathering trim or a thorough bath and blow-dry, but there's no required professional appointment schedule like double-coated or curly-coated breeds."
+    },
+    {
+      "q": "How often should I clean my Irish Setter's ears?",
+      "a": "Every 1–2 weeks minimum. The long drop ears create conditions for chronic infection — limited airflow and moisture accumulation. Regular cleaning is the prevention. If your dog develops ear infections despite regular cleaning, discuss with your vet whether the ear canal anatomy needs evaluation."
+    }
   ]
 }

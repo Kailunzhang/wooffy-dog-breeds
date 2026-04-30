@@ -5,20 +5,25 @@
     "shopify_handle": "spinone-italiano-grooming-guide",
     "group": "Spinone Italiano",
     "size_category": "Guide",
-    "tags": ["spinone-italiano", "grooming", "wiry-coat", "beard-cleaning", "ear-cleaning", "pendulous-ears"],
+    "tags": [
+      "spinone-italiano",
+      "grooming",
+      "wiry-coat",
+      "beard-cleaning",
+      "ear-cleaning",
+      "pendulous-ears"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "The Spinone's dense, wiry coat is relatively low-maintenance compared to heavily feathered breeds. The beard and mustache require specific attention — they collect food and water at every meal. Ear cleaning is critical for pendulous-eared breeds. Weekly brushing and beard wiping are the core home tasks.",
     "meta_description": "Spinone Italiano grooming guide: maintaining the wiry coat, essential beard and mustache cleaning, ear cleaning for pendulous ears, hand-stripping schedule, and the complete home maintenance routine."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Vitus2002.jpg/250px-Vitus2002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_374ed0bf-3cfc-4dda-b6bc-f7d47231b753.png?v=1777531823",
       "alt": "Spinone Italiano grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Spinone Coat",
@@ -36,7 +41,6 @@
       "html": "<p>The Spinone Italiano's long, pendulous ears hang close to the head, severely limiting airflow to the ear canal. This is one of the most significant moisture-retention ear conformations in the sporting group. Weekly ear cleaning is absolutely necessary — not optional maintenance. If the Spinone swims or works in wet conditions, clean and dry the ears after every session in addition to the weekly cleaning.</p><h3>Ear Cleaning Technique</h3><p>Apply veterinary ear cleaning solution generously into the ear canal. Massage the base of the ear for 30–60 seconds. Allow the dog to shake its head. Wipe the visible ear canal and inner ear leather with cotton balls. Never insert cotton swabs into the canal. At every professional grooming or twice-yearly coat maintenance session, ensure any hair at the ear canal opening is trimmed to improve airflow.</p><h3>Recognizing Ear Problems</h3><p>Head shaking, pawing at ears, odor, redness, swelling, or dark discharge are infection signs requiring veterinary treatment. Chronic ear infections in Spinone dogs that swim regularly often require cultures to identify the specific pathogen — empirical treatment cycles without culture waste time and money while the infection persists. If a second ear infection occurs within six months of the first, request a culture and sensitivity test.</p><h3>Lip Fold Monitoring</h3><p>Spinoni with prominent lip folds can develop lip fold dermatitis — irritation and infection in the fold skin. Regular wiping of the beard and mustache prevents moisture accumulation in these folds. Check the lip fold skin weekly during grooming. Redness, odor, or discharge from the fold requires veterinary attention.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does a Spinone Italiano need professional grooming?",

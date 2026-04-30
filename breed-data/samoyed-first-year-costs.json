@@ -5,20 +5,24 @@
     "shopify_handle": "samoyed-first-year-costs",
     "group": "Samoyed",
     "size_category": "Guide",
-    "tags": ["samoyed", "cost", "budget", "first-year", "medium-breed"],
+    "tags": [
+      "samoyed",
+      "cost",
+      "budget",
+      "first-year",
+      "medium-breed"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Samoyed ownership costs $5,000–$10,000 in the first year, with purchase price being the largest single component. Professional grooming and pet insurance are the significant ongoing recurring costs.",
     "meta_description": "Samoyed first year costs: puppy price from $3,200–$6,500, professional grooming schedule, SHG health risk context, pet insurance necessity, and realistic lifetime cost estimates."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Samojed00.jpg/330px-Samojed00.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_a7a7133c-00ef-41d4-bdde-f6125f4ee4c7.png?v=1777531200",
       "alt": "Samoyed first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<p>With a 12–14 year lifespan, Samoyeds represent a significant financial commitment beyond the first year.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy dog, minimal health interventions</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$28,000–$45,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Moderate health issues (diabetes management)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$35,000–$55,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Significant issues (diabetes + hip surgery)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$45,000–$70,000+</td></tr></tbody></table><p style=\"margin-top:16px;\">Insurance enrolled before the first vet visit shifts the major cost scenarios significantly. A Samoyed with diabetes is not a financial catastrophe with insurance — it's a managed monthly cost.</p>"
     }
   },
-
   "faq": [
     {
       "q": "What does a Samoyed puppy cost from a reputable breeder?",

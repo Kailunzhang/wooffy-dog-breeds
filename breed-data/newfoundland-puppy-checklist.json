@@ -5,20 +5,25 @@
     "shopify_handle": "newfoundland-puppy-checklist",
     "group": "Newfoundland",
     "size_category": "Guide",
-    "tags": ["newfoundland", "puppy", "checklist", "cardiac", "sas", "giant-breed"],
+    "tags": [
+      "newfoundland",
+      "puppy",
+      "checklist",
+      "cardiac",
+      "sas",
+      "giant-breed"
+    ],
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Everything you need before your Newfoundland puppy comes home — including the cardiac exam requirement within 48 hours of arrival and the breeder documentation you should already have in hand.",
     "meta_description": "Newfoundland puppy checklist: cardiac exam timing, SAS and cystinuria documentation from breeder, drool management setup, giant-breed gear requirements, and first-week priorities."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Newfoundland_dog_Smoky.jpg/330px-Newfoundland_dog_Smoky.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_480cc8f5-1517-4bd2-99a5-d64a3b0a1a2c.png?v=1777529946",
       "alt": "Newfoundland puppy checklist"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Before Puppy Comes Home",
@@ -36,7 +41,6 @@
       "html": "<h3>Loose-Leash Walking: Non-Negotiable from Day One</h3><p>A Newfoundland that learns to pull on the leash as a puppy becomes a 140-lb dog that pulls on the leash as an adult. This is not a preference issue — it is a physical safety issue. Start loose-leash walking practice immediately, use a front-clip harness to reduce pulling mechanics, and reward heavily for walking with slack in the lead. Short, frequent training sessions work better than long frustrated walks.</p><h3>Training Approach</h3><p>Newfoundlands are responsive and willing — one of the more trainable giant breeds. They respond well to positive reinforcement and are motivated by food and praise. Key commands to establish in the first months:</p><ul><li>Sit, down, stay — essential and achievable at puppy stage</li><li>Loose-leash walking — start immediately</li><li>Come — establish in a fenced area with high-value rewards</li><li>No jumping — a 20-lb puppy jumping is endearing; a 140-lb adult jumping is dangerous. Establish the rule from day one and enforce it consistently</li><li>Wait/door manners — sit and wait before going through doors</li></ul><h3>Socialization</h3><p>Newfoundlands are generally social and people-friendly by nature, but the socialization window (8–16 weeks) still matters enormously. Expose the puppy to diverse people, environments, sounds, and friendly dogs during this period. Puppy classes are excellent for both socialization and early obedience — choose one that uses positive reinforcement methods.</p><h3>Exercise Limits for Giant Breed Puppies</h3><p>Giant breed puppies have growth plates that close significantly later than smaller breeds — 18–24 months. Until then, restrict forced running, repetitive jumping, and stair climbing. Free play in a yard is appropriate; jogging, hiking, or long forced exercise sessions are not. Overexercising a giant breed puppy creates orthopedic risk during the most vulnerable growth period.</p>"
     }
   },
-
   "faq": [
     {
       "q": "When should my Newfoundland puppy have a cardiac exam?",

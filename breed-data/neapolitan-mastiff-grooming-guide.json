@@ -5,7 +5,10 @@
     "shopify_handle": "neapolitan-mastiff-grooming-guide",
     "group": "Neapolitan Mastiff",
     "size_category": "Guide",
-    "tags": ["neapolitan-mastiff", "grooming"],
+    "tags": [
+      "neapolitan-mastiff",
+      "grooming"
+    ],
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The Neapolitan Mastiff's short coat is nearly maintenance-free, but the abundant skin folds and wrinkles require daily cleaning and thorough drying to prevent skin fold dermatitis. Drool management is a permanent household reality.",
@@ -13,7 +16,7 @@
   },
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Mastino_sylwetka.jpg/250px-Mastino_sylwetka.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_09f9c8e1-53de-44fd-89d3-291edf5602a4.png?v=1777529892",
       "alt": "Neapolitan Mastiff grooming guide"
     }
   },

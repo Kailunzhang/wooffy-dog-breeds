@@ -5,20 +5,24 @@
     "shopify_handle": "bluetick-coonhound-first-year-costs",
     "group": "Bluetick Coonhound",
     "size_category": "Guide",
-    "tags": ["bluetick-coonhound", "cost", "budget", "first-year", "large-breed"],
+    "tags": [
+      "bluetick-coonhound",
+      "cost",
+      "budget",
+      "first-year",
+      "large-breed"
+    ],
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Bluetick Coonhounds are affordable to purchase and moderately priced to own. The main ongoing health cost to plan for is ear infection management, plus the standard large-breed expenses.",
     "meta_description": "Bluetick Coonhound first year costs: puppy price, food budget, vet care, ear infection costs, pet insurance, and honest lifetime cost estimates."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BluetickCoonhound.jpg/250px-BluetickCoonhound.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_1295de24-c1a2-4dd0-8a70-102cc852d37c.png?v=1777526225",
       "alt": "Bluetick Coonhound first year costs"
     }
   },
-
   "sections": {
     "intro": {
       "label": "What You'll Spend",
@@ -36,7 +40,6 @@
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Scenario</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Estimated Lifetime Cost (11–12 yr)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Healthy, excellent ear care</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$20,000–$32,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Recurring ear issues, mild hip dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$25,000–$40,000</td></tr><tr><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Major joint surgery required</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$30,000–$50,000</td></tr></tbody></table>"
     }
   },
-
   "faq": [
     {
       "q": "Is a Bluetick Coonhound expensive to own?",

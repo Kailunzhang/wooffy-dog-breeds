@@ -6,74 +6,103 @@
     "group": "Sporting Group",
     "size_category": "Medium Breed",
     "tagline": "The English Springer Spaniel is an enthusiastic, high-energy bird dog with a friendly, trainable personality. They need real daily exercise, diligent ear care, and a breeder who can provide DNA test documentation for known inherited diseases.",
-    "tags": ["sporting-group", "medium-breed", "bird-dog", "flushing-spaniel", "friendly", "dog-breeds"],
+    "tags": [
+      "sporting-group",
+      "medium-breed",
+      "bird-dog",
+      "flushing-spaniel",
+      "friendly",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-18T16:00:00Z",
     "excerpt": "English Springer Spaniels are enthusiastic, athletic bird dogs that make excellent family companions when their exercise needs are genuinely met. Ear infections are endemic to the breed and require proactive weekly cleaning. Ask breeders for PFK and Fucosidosis DNA test documentation.",
     "meta_description": "English Springer Spaniel breed guide: exercise requirements, endemic ear infection management, field vs show line differences, PFK and Fucosidosis DNA testing, and what this sporting dog needs daily."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "40–50 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–14 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "60–90 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Easy–Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Very good" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Yes, with exercise commitment" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "40–50 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–14 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "60–90 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy–Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Very good"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes, with exercise commitment"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Springer_Spaniel_Wide_Shot.jpg/330px-Springer_Spaniel_Wide_Shot.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_3cd22993-dc9a-405c-9658-963589b202a2.png?v=1777527678",
       "alt": "English Springer Spaniel"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is an English Springer Spaniel?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The English Springer Spaniel is the original flushing spaniel, developed in England to spring (flush) game birds from cover for hunters. The breed has been a working gundog for centuries and was one of the first spaniels separated into distinct breeds by size and purpose. They remain excellent hunters today while also being widely kept as family companions.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">An important distinction for buyers: field lines and show lines of English Springer Spaniels differ substantially. Field-bred Springers are leaner, more intense, faster, and have significantly higher drive. Show-bred Springers are heavier-coated, calmer, and more typical family companions. If you're purchasing from a sporting or hunting background, you're getting a different dog temperamentally than a show-line puppy. Know which you're buying.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Ear infections deserve specific mention upfront: long, hanging, fur-covered ears reduce airflow dramatically, and ear infections are endemic in the breed. Proactive weekly ear cleaning from day one is not optional — it's the difference between a dog who gets occasional infections and one who has chronic ear disease.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What English Springer Spaniels Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">A well-proportioned, athletic spaniel. Weight 40–50 lbs; height 19–20 inches. The expression is friendly, alert, and eager — one of the most expressive faces in dogdom. The long, pendant ears are feathered with wavy hair.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The double coat is flat or wavy with feathering on the ears, chest, belly, and legs. Colors include liver and white, black and white, and tricolor combinations with tan points. Show lines tend toward heavier coats and more feathering; field lines are more moderate. The coat sheds moderately and requires regular trimming, particularly around the ears, feet, and feathering.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Enthusiastic, friendly, and eager to please. English Springer Spaniels are one of the more trainable sporting breeds — they have drive, but they also genuinely want to work with their person, which makes them more responsive than many hunting dogs. They are affectionate with family, typically good with children, and sociable with strangers and other dogs when properly socialized.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The energy level is real and sustained. A Springer that hasn't had adequate exercise is not a calm companion — they become mouthy, destructive, and hyperactive. Daily vigorous exercise is the foundation of a manageable Springer.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">A brief note on Rage Syndrome: this is an extremely rare condition that causes sudden, unpredictable aggression in an otherwise normal dog. It is primarily associated with certain golden/red show-line bloodlines and is genuinely uncommon. It should not drive breed choice decisions, but it is worth mentioning because it exists and is sometimes misattributed to normal behavioral problems.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About an English Springer Spaniel",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Springers are one of the better family sporting dogs if you actually have the lifestyle for them. They're friendly, trainable, affectionate, and good with children — all genuine virtues. They're not guard dogs or aloof personalities; they're happy, enthusiastic dogs that want to be with you and do things with you.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The exercise requirement is the honest conversation. A Springer needs 60–90 minutes of real exercise daily — not a slow walk around the block. If your schedule doesn't allow for that consistently, you'll have a frustrated, difficult dog. An exercised Springer is a wonderful house dog; an under-exercised one is chaos.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The ear thing is also not optional. Build weekly ear cleaning into your routine from day one. It takes five minutes and prevents chronic infections that are painful, expensive, and can eventually cause serious damage. That's the deal with this breed — do the ear maintenance, exercise the dog, and you'll have a very rewarding companion.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">60–90 minutes of vigorous activity daily. Fetch, swimming, running, field work, or agility are ideal. On-leash walks supplement but don't replace real exercise. Springers were built to work all day in the field; daily activity needs to reflect that.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Weekly brushing of the double coat to manage moderate shedding and prevent feathering tangles. Trimming every 8–12 weeks around the ears, paws, and body. Ear cleaning weekly — this is non-negotiable for this breed. See the <a href=\"/blogs/dog-breeds/english-springer-spaniel-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">English Springer Spaniel grooming guide</a> for the ear cleaning protocol.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Training</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Positive reinforcement with consistency. Springers are among the more responsive sporting breeds. They enjoy learning and working with their owner — enroll in obedience class early and take advantage of the breed's trainability. Field training for hunting Springers requires specialized instruction.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Generally a healthy breed with a 12–14 year lifespan. Ear infections are the most common day-to-day health concern. Two inherited metabolic conditions — PFK Deficiency and Fucosidosis — have DNA tests available that responsible breeders use.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Ear Infections (Otitis Externa)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Endemic to the breed due to long, pendulous, fur-covered ears that restrict airflow. Not a defect — it's structural. Prevented with consistent weekly cleaning. Signs of infection: head shaking, ear scratching, odor, redness. Requires vet treatment when it occurs; chronic cases cause irreversible damage.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Phosphofructokinase Deficiency (PFK)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">An inherited metabolic disease affecting red blood cells. DNA test available; responsible breeders screen both parents. Affected dogs show exercise intolerance and episodic anemia.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Fucosidosis</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">A fatal lysosomal storage disease causing progressive neurological deterioration. DNA test available. Ask breeders for documentation for both parents.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Present in the breed. OFA hip evaluation from responsible breeders.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">PRA (Progressive Retinal Atrophy)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Inherited retinal degeneration leading to blindness. DNA test and CAER eye exam available from breeders.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">CEA (Collie Eye Anomaly)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inherited eye condition affecting retinal and choroidal development. DNA test available. Severity varies; mildly affected dogs may have functional vision throughout their lives.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> PFK DNA test, Fucosidosis DNA test, PRA DNA test, CEA DNA test, CAER eye exam, OFA hip clearance.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,200–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Grooming (trimming + ear care)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,800–$5,500</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,600–$2,900</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">Ear infection treatment adds variable costs for dogs that develop chronic problems despite preventive care — $100–$300 per vet visit. Weekly home cleaning minimizes this significantly. See the <a href=\"/blogs/dog-breeds/english-springer-spaniel-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is an English Springer Spaniel Right for You?",
@@ -91,25 +120,50 @@
         "Owners wanting a very low-maintenance coat"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your English Springer Spaniel",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Field vs Show Lines</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Decide which type before searching for breeders. Field-bred Springers have significantly higher drive and energy; show-bred are calmer and heavier-coated. Most family companion buyers are better served by show lines unless they intend to hunt with the dog.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,200–$2,500 from reputable breeders. Required documentation: PFK DNA test, Fucosidosis DNA test, PRA DNA test, CEA DNA test, CAER eye exam, OFA hip clearance. The English Springer Spaniel Field Trial Association and the ESS Club maintain breeder referral resources.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before arrival, complete the <a href=\"/blogs/dog-breeds/english-springer-spaniel-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">English Springer Spaniel puppy checklist</a> — ear cleaning supplies and a routine established before the puppy comes home.</p>"
     }
   },
-
   "faq": [
-    { "q": "How much exercise does an English Springer Spaniel need?", "a": "60–90 minutes of vigorous activity daily. Springers are working gun dogs — they were bred to quarter fields and flush game for hours. Slow walks don't meet their needs. Fetch, swimming, running, field work, or agility are ideal. An under-exercised Springer becomes hyperactive, mouthy, and destructive." },
-    { "q": "Why do English Springer Spaniels get so many ear infections?", "a": "The long, pendulous, fur-covered ears restrict airflow to the ear canal, creating a warm, moist environment where bacteria and yeast thrive. This is structural, not a defect. The prevention is weekly ear cleaning — wipe the ear canal with a vet-approved ear cleaner to remove debris and moisture. Establish this routine from puppyhood. Signs of infection: head shaking, ear scratching, odor, redness. See a vet when those signs appear." },
-    { "q": "What is the difference between field and show English Springer Spaniels?", "a": "Field-bred Springers are bred for hunting performance — they are leaner, faster, more intense, and have higher prey drive. Show-bred Springers are bred for conformation — they have heavier, more ornate coats, calmer temperaments, and are more typical family companions. The physical and temperamental differences are significant. Most family companion buyers are better suited to show lines." },
-    { "q": "Are English Springer Spaniels good with kids?", "a": "Generally excellent. They are friendly, energetic, and genuinely good with children. Their enthusiasm level can be a lot for very young toddlers — an excited Springer can knock over small children without meaning to. Good supervision and basic training (sit before greeting, no jumping) manage this well." }
+    {
+      "q": "How much exercise does an English Springer Spaniel need?",
+      "a": "60–90 minutes of vigorous activity daily. Springers are working gun dogs — they were bred to quarter fields and flush game for hours. Slow walks don't meet their needs. Fetch, swimming, running, field work, or agility are ideal. An under-exercised Springer becomes hyperactive, mouthy, and destructive."
+    },
+    {
+      "q": "Why do English Springer Spaniels get so many ear infections?",
+      "a": "The long, pendulous, fur-covered ears restrict airflow to the ear canal, creating a warm, moist environment where bacteria and yeast thrive. This is structural, not a defect. The prevention is weekly ear cleaning — wipe the ear canal with a vet-approved ear cleaner to remove debris and moisture. Establish this routine from puppyhood. Signs of infection: head shaking, ear scratching, odor, redness. See a vet when those signs appear."
+    },
+    {
+      "q": "What is the difference between field and show English Springer Spaniels?",
+      "a": "Field-bred Springers are bred for hunting performance — they are leaner, faster, more intense, and have higher prey drive. Show-bred Springers are bred for conformation — they have heavier, more ornate coats, calmer temperaments, and are more typical family companions. The physical and temperamental differences are significant. Most family companion buyers are better suited to show lines."
+    },
+    {
+      "q": "Are English Springer Spaniels good with kids?",
+      "a": "Generally excellent. They are friendly, energetic, and genuinely good with children. Their enthusiasm level can be a lot for very young toddlers — an excited Springer can knock over small children without meaning to. Good supervision and basic training (sit before greeting, no jumping) manage this well."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Cocker Spaniel", "slug": "cocker-spaniel", "note": "Smaller spaniel, similar friendly temperament, also prone to ear infections"},
-    {"name": "Labrador Retriever", "slug": "labrador-retriever", "note": "Similar friendly, trainable sporting dog profile, heavier shedding"},
-    {"name": "Vizsla", "slug": "vizsla", "note": "Sporting dog, very low shedding, higher energy, velcro personality"},
-    {"name": "Brittany", "slug": "brittany", "note": "Compact sporting dog, comparable energy and trainability, lighter coat"}
+    {
+      "name": "Cocker Spaniel",
+      "slug": "cocker-spaniel",
+      "note": "Smaller spaniel, similar friendly temperament, also prone to ear infections"
+    },
+    {
+      "name": "Labrador Retriever",
+      "slug": "labrador-retriever",
+      "note": "Similar friendly, trainable sporting dog profile, heavier shedding"
+    },
+    {
+      "name": "Vizsla",
+      "slug": "vizsla",
+      "note": "Sporting dog, very low shedding, higher energy, velcro personality"
+    },
+    {
+      "name": "Brittany",
+      "slug": "brittany",
+      "note": "Compact sporting dog, comparable energy and trainability, lighter coat"
+    }
   ]
 }

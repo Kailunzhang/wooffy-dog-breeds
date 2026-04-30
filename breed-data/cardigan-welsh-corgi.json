@@ -6,74 +6,104 @@
     "group": "Herding Group",
     "size_category": "Small-Medium Breed",
     "tagline": "The Cardigan Welsh Corgi is a complete herding dog in a small package — alert, intelligent, loyal, and entirely capable of working livestock despite standing a foot tall. They shed heavily, they herd children, and they are genuinely one of the most rewarding small-medium breeds for the right owner.",
-    "tags": ["herding-group", "small-medium-breed", "herding", "loyal", "intelligent", "corgi", "dog-breeds"],
+    "tags": [
+      "herding-group",
+      "small-medium-breed",
+      "herding",
+      "loyal",
+      "intelligent",
+      "corgi",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Cardigan Welsh Corgis are the longer-tailed, more reserved cousin to the Pembroke. Loyal, smart, and functional herding dogs despite their size — with a long spine that requires health management and a shedding output that exceeds their small stature.",
     "meta_description": "Cardigan Welsh Corgi breed guide: differences from Pembroke, IVDD spinal risk, PRA and DM genetic testing, heavy shedding, herding instinct with children, and whether a Cardigan fits your household."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Small-Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "25–38 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "12–15 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "45–60 min" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Moderate-High" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Easy-Moderate" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Good with supervision" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Manageable" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small-Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "25–38 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "45–60 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Moderate-High"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy-Moderate"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Good with supervision"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Manageable"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cardigan_Welsh_Corgi%2C_Profile.png/250px-Cardigan_Welsh_Corgi%2C_Profile.png",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_5fae695a-eeae-424b-88d1-045808f5da85.png?v=1777526784",
       "alt": "Cardigan Welsh Corgi"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is a Cardigan Welsh Corgi?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Cardigan Welsh Corgi is one of the oldest herding breeds in Britain, with origins in Wales going back over 3,000 years. They were used to herd cattle by nipping at their heels and moving out of the way of kicks — the low-to-the-ground build isn't decorative, it's functional. The distinguishing features from the more famous Pembroke Welsh Corgi: the Cardigan has a long tail (Pembrokes are docked or born without), larger, more rounded ears, and a slightly more reserved, independent temperament.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Cardigans come in more color variety than Pembrokes: brindle and white, red and white, blue merle and white, sable and white, and black and white with tan points. The double coat sheds heavily, particularly during spring and fall coat blows.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The long spine and short legs that define the Corgi type create a real structural vulnerability: intervertebral disc disease (IVDD). Managing a Cardigan's spine health — jump height, stair access, weight — is part of responsible ownership of this breed.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Cardigan Welsh Corgis Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Long-bodied, low-set, and sturdily built. 25–38 lbs (females toward the lower end, males toward the upper). The long, low silhouette with upright, large ears and a fox brush tail is unmistakable. The head is broader and the ears more rounded compared to the Pembroke.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The double coat is medium length, with a harsh outer coat and dense undercoat. Shedding is significant — more than their size suggests. Expect coat everywhere during coat blows. Regular brushing keeps it manageable; during blows, daily brushing with an undercoat rake is necessary.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Cardigans are more reserved than Pembrokes. Loyal to their family without being as outgoing or social with strangers. They're alert, intelligent dogs that notice everything — good watchdogs without being excessive barkers. They have the Corgi intelligence and the herding breed's tendency to think independently, which means training requires patience and engagement rather than simple repetition.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The herding instinct is present and worth knowing about if you have children. Running children, in particular, can trigger the heel-nipping herding response. It's not aggression — it's what a herding dog does with moving livestock — but it can frighten small children and needs to be addressed consistently from puppyhood.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Cardigans are generally good with other dogs and can do well in multi-dog households. Same-sex dynamics should be monitored as with most herding breeds, but Cardigans are not characteristically dog-aggressive. Good with cats introduced properly; prey drive is present but moderate.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Cardigan Welsh Corgi",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Cardigan is one of the best-kept secrets in herding breeds. Everyone knows the Pembroke; fewer people know the Cardigan, which tends to produce Cardigan owners who are genuinely enthusiastic and knowledgeable about the breed. That's not a coincidence — people who specifically seek out a Cardigan have usually done their homework.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The two things I'd make sure any prospective Cardigan owner understands: the spine and the shedding. IVDD is a real risk in chondrodystrophic breeds (long back, short legs), and managing it starts before any symptoms appear — appropriate ramp access, not allowing jumping from height, maintaining healthy weight. A Cardigan that blows its back disc is facing a $4,000–$8,000 surgery decision. This is manageable, but it requires awareness from day one.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The shedding genuinely surprises people. A 30-lb Corgi produces shedding volume that many owners would attribute to a 70-lb dog. If you want a low-shed household, get a different breed. If you're fine with regular vacuuming and seasonal coat blows that produce an impressive volume of fur, the Cardigan is an exceptional dog — smart, loyal, moderate in exercise needs, and genuinely funny to live with.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Moderate — 45–60 minutes daily. Cardigans are herding dogs with genuine endurance, but they don't need the extreme exercise of ACDs or Border Collies. Daily walks plus active play or training are typically sufficient. Weight management is important for spine health — Cardigans gain weight easily and extra weight puts strain on those discs.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Spine Management</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Ramps or steps to furniture and beds — discourage jumping from height. Maintain healthy weight rigorously. Avoid extreme twisting movements. Watch for early signs of back pain or neurological symptoms (stumbling, dragging a leg, sudden back sensitivity) and treat as urgent. Know the signs of IVDD before you need to know them.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Weekly brushing during normal periods; daily undercoat raking during coat blows. Never shave the double coat. Baths every 6–8 weeks. See the <a href=\"/blogs/dog-breeds/cardigan-welsh-corgi-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Cardigan Welsh Corgi grooming guide</a> for the full routine.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Cardigans are generally hardy, but the chondrodystrophic body structure creates real spinal vulnerability, and several genetic conditions have DNA tests available that responsible breeders use.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">IVDD (Intervertebral Disc Disease)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The long spine and short legs of chondrodystrophic breeds create vulnerability to disc herniation. A disc that ruptures or bulges into the spinal cord causes pain and neurological symptoms ranging from mild back pain to complete paralysis. Surgical treatment ($4,000–$8,000) is required in severe cases. Prevention: maintain healthy weight, use ramps, discourage jumping from height, and know the warning signs.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inherited retinal degeneration leading to blindness. PRCD-PRA DNA test available. Responsible breeders test both parents; affected-to-affected pairings should not occur.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Degenerative Myelopathy (DM)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Progressive spinal cord disease causing hind limb weakness and paralysis, typically in older dogs. DNA test available. Can be confused with IVDD — distinction matters for treatment approach. Cardigans have elevated DM rates.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Present in the breed despite the small size. OFA clearances from responsible breeders.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (other forms)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Multiple forms of PRA can occur in Cardigans. CAER eye exam from breeding stock in addition to DNA testing is recommended.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for:</strong> PRCD-PRA DNA test, DM DNA test, OFA hip, and CAER eye exam clearances for both parents.</p>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,200–$2,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (small-medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance (IVDD coverage critical)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Ramps and spine-management equipment</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$100–$300</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$450</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,700–$5,350</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,200–$2,400</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">Pet insurance is particularly important for Cardigans given IVDD surgical costs. See the <a href=\"/blogs/dog-breeds/cardigan-welsh-corgi-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Cardigan first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Cardigan Welsh Corgi Right for You?",
@@ -92,24 +122,45 @@
         "Owners expecting a completely low-maintenance, low-effort dog"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Cardigan Welsh Corgi",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$1,200–$2,500 from reputable breeders. Required clearances: PRCD-PRA DNA test, DM DNA test, OFA hip, and CAER eye exam for both parents. The Cardigan Welsh Corgi Club of America maintains a breeder referral. Cardigans are less common than Pembrokes — expect a wait from reputable breeders and plan accordingly.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Cardigan rescue organizations exist but Cardigans are less common in rescue than Pembrokes. Mixed-breed Corgis are more common in general rescues. Be sure you're adopting an actual Cardigan rather than a Pembroke mix if the long tail matters to you.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Cardigan comes home, complete the <a href=\"/blogs/dog-breeds/cardigan-welsh-corgi-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Cardigan puppy checklist</a> — ramps, pet insurance enrollment, and spine management planning are the most important pre-arrival items.</p>"
     }
   },
-
   "faq": [
-    { "q": "What is the difference between a Cardigan and a Pembroke Welsh Corgi?", "a": "Several differences: Cardigans have long tails; Pembrokes are docked or naturally bobtailed. Cardigans have larger, more rounded ears; Pembrokes have more pointed ears. Cardigans are slightly heavier and more long-bodied. Cardigans come in more colors including blue merle. Temperament-wise, Cardigans tend to be more reserved and independent; Pembrokes are generally more outgoing and social. Both are intelligent herding breeds with significant shedding and herding instincts." },
-    { "q": "What is IVDD and how serious is it for Corgis?", "a": "Intervertebral disc disease occurs when a spinal disc herniates or ruptures, pressing on the spinal cord. The Corgi's long spine and short legs (chondrodystrophic structure) creates structural vulnerability to this. Symptoms range from mild back pain to sudden hind limb paralysis. Severe cases require emergency surgery costing $4,000–$8,000. Prevention: maintain healthy weight, use ramps to furniture, discourage jumping from height. Pet insurance enrolled before any symptoms develop is critical financial protection." },
-    { "q": "Do Cardigans shed a lot?", "a": "Yes — more than their size suggests. The double coat sheds year-round and very heavily during two annual coat blows. Regular brushing manages it during normal periods; daily raking during blows keeps the volume manageable. If you want a low-shed household, a Cardigan is not the right choice." },
-    { "q": "Are Cardigans good with children?", "a": "Generally good with school-age children, with supervision. The herding instinct can manifest as heel-nipping at running children — this is breed behavior, not aggression, but requires consistent redirection from puppyhood. Very young children who don't yet read dog body language are a less ideal match. Cardigans are loyal to their family and typically tolerant with children they're raised with." }
+    {
+      "q": "What is the difference between a Cardigan and a Pembroke Welsh Corgi?",
+      "a": "Several differences: Cardigans have long tails; Pembrokes are docked or naturally bobtailed. Cardigans have larger, more rounded ears; Pembrokes have more pointed ears. Cardigans are slightly heavier and more long-bodied. Cardigans come in more colors including blue merle. Temperament-wise, Cardigans tend to be more reserved and independent; Pembrokes are generally more outgoing and social. Both are intelligent herding breeds with significant shedding and herding instincts."
+    },
+    {
+      "q": "What is IVDD and how serious is it for Corgis?",
+      "a": "Intervertebral disc disease occurs when a spinal disc herniates or ruptures, pressing on the spinal cord. The Corgi's long spine and short legs (chondrodystrophic structure) creates structural vulnerability to this. Symptoms range from mild back pain to sudden hind limb paralysis. Severe cases require emergency surgery costing $4,000–$8,000. Prevention: maintain healthy weight, use ramps to furniture, discourage jumping from height. Pet insurance enrolled before any symptoms develop is critical financial protection."
+    },
+    {
+      "q": "Do Cardigans shed a lot?",
+      "a": "Yes — more than their size suggests. The double coat sheds year-round and very heavily during two annual coat blows. Regular brushing manages it during normal periods; daily raking during blows keeps the volume manageable. If you want a low-shed household, a Cardigan is not the right choice."
+    },
+    {
+      "q": "Are Cardigans good with children?",
+      "a": "Generally good with school-age children, with supervision. The herding instinct can manifest as heel-nipping at running children — this is breed behavior, not aggression, but requires consistent redirection from puppyhood. Very young children who don't yet read dog body language are a less ideal match. Cardigans are loyal to their family and typically tolerant with children they're raised with."
+    }
   ],
-
   "related_breeds": [
-    {"name": "Pembroke Welsh Corgi", "slug": "pembroke-welsh-corgi", "note": "Close cousin, more popular, more outgoing temperament, bobtailed"},
-    {"name": "Border Collie", "slug": "border-collie", "note": "Same herding group, much higher drive and exercise needs, no IVDD risk"},
-    {"name": "Australian Cattle Dog", "slug": "australian-cattle-dog", "note": "Herding group, similar working intelligence, much higher exercise and stimulation needs"}
+    {
+      "name": "Pembroke Welsh Corgi",
+      "slug": "pembroke-welsh-corgi",
+      "note": "Close cousin, more popular, more outgoing temperament, bobtailed"
+    },
+    {
+      "name": "Border Collie",
+      "slug": "border-collie",
+      "note": "Same herding group, much higher drive and exercise needs, no IVDD risk"
+    },
+    {
+      "name": "Australian Cattle Dog",
+      "slug": "australian-cattle-dog",
+      "note": "Herding group, similar working intelligence, much higher exercise and stimulation needs"
+    }
   ]
 }

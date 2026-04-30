@@ -5,20 +5,24 @@
     "shopify_handle": "chow-chow-grooming-guide",
     "group": "Chow Chow",
     "size_category": "Guide",
-    "tags": ["chow-chow", "grooming", "double-coat", "shedding", "coat-blow"],
+    "tags": [
+      "chow-chow",
+      "grooming",
+      "double-coat",
+      "shedding",
+      "coat-blow"
+    ],
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "The Chow Chow's dense double coat requires consistent brushing and proper technique — and must never be shaved. Learn the routine that keeps the coat healthy and mats under control.",
     "meta_description": "Chow Chow grooming guide: tools for a dense double coat, weekly and seasonal routine, mat prevention, and why shaving this breed causes permanent coat damage."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Chow-chow_in_Tallinn.JPG/250px-Chow-chow_in_Tallinn.JPG",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_643a450a-f3e7-441c-9b64-e0f1b807e88e.png?v=1777527019",
       "alt": "Chow Chow grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Chow Chow Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Chow Chows are reserved and often don't enjoy extended handling by strangers — including groomers they don't know. Habituating puppies to grooming from the earliest possible age is essential. An adult Chow that has never been groomed can make the process genuinely difficult.</p><h3>Mane Mat Prevention</h3><p>The thick ruff around the neck is the most mat-prone area of the rough Chow. Check this area every brushing session — mats form fastest here because the hair is longest and densest, and overlaps in multiple directions. A conditioner or detangling spray applied to this area before brushing helps prevent snapping and eases comb-through.</p><h3>Skin Fold Monitoring</h3><p>The facial skin folds of some Chow Chows require weekly cleaning. Use a soft damp cloth to wipe between the folds, then dry thoroughly — moisture trapped in skin folds causes yeast and bacterial infections. If you notice redness, odor, or the dog rubbing its face, examine the folds and consult your vet.</p><h3>Ear Care</h3><p>Check ears weekly. The small, triangular ears reduce airflow, and combined with a heavy coat, ears can accumulate moisture and debris. Signs of a problem: head shaking, ear scratching, odor, or discharge. Ear infections require veterinary treatment — cleaning alone won't resolve an active infection.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often do Chow Chows need grooming?",

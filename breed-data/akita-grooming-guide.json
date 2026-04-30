@@ -5,20 +5,24 @@
     "shopify_handle": "akita-grooming-guide",
     "group": "Akita",
     "size_category": "Guide",
-    "tags": ["akita", "grooming", "double-coat", "shedding", "coat-blow"],
+    "tags": [
+      "akita",
+      "grooming",
+      "double-coat",
+      "shedding",
+      "coat-blow"
+    ],
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Akita grooming is manageable most of the year — and intense twice a year during coat blows. The right tools and a consistent routine keep the double coat healthy and your home livable.",
     "meta_description": "Akita grooming guide: undercoat rake technique, coat blow management, bathing a large independent breed, and maintaining the double coat without damaging it."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Akita_Collage.png/330px-Akita_Collage.png",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ee0fb262-e35a-4dce-a339-4f487fa0378a.png?v=1777525351",
       "alt": "Akita grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The Akita Coat",
@@ -36,7 +40,6 @@
       "html": "<p>Akitas are large, independent dogs that don't inherently enjoy being handled. Puppies that are handled consistently — touched all over, have ears checked, paws manipulated, body groomed — become manageable adults. Adults that haven't been habituated can resist grooming with their size and strength.</p><h3>Practical Tips</h3><ul><li>Start handling from day one. Every grooming interaction is also a handling exercise</li><li>Use high-value treats to associate grooming tools with positive outcomes</li><li>Work in sections rather than trying to groom the entire dog in one pass — shorter sessions are more productive than exhausting battles</li><li>A non-slip mat on the grooming surface reduces anxiety in most dogs</li><li>If the dog becomes genuinely aggressive during grooming — not just wiggly or uncooperative, but growling and snapping — work with a professional groomer experienced with working breeds until the behavior is addressed through training</li></ul><h3>Ear Care</h3><p>Check ears weekly. The pendant, triangular ear shape reduces airflow, and moisture or debris can accumulate. Signs of a problem: shaking the head, rubbing ears on furniture, odor, or redness. If you notice any of these, see your vet — ear infections need treatment, not just cleaning.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often do Akitas shed?",

@@ -6,74 +6,103 @@
     "group": "Non-Sporting Group",
     "size_category": "Medium Breed",
     "tagline": "The English Bulldog is gentle, loyal, and calm — and comes with more medical complexity than almost any other breed. BOAS, skin fold infections, heat emergencies, and an 8–10 year lifespan are the honest trade-offs for one of the most affectionate dogs in existence.",
-    "tags": ["non-sporting-group", "medium-breed", "brachycephalic", "boas", "apartment-friendly", "dog-breeds"],
+    "tags": [
+      "non-sporting-group",
+      "medium-breed",
+      "brachycephalic",
+      "boas",
+      "apartment-friendly",
+      "dog-breeds"
+    ],
     "published": true,
     "published_at": "2026-04-19T16:00:00Z",
     "excerpt": "Bulldogs are gentle, devoted, and calm indoors. They are also the most medically complex common breed — BOAS surgery is the rule rather than the exception, daily skin fold cleaning is non-negotiable, and heat above 70°F is a genuine emergency risk. Know this going in.",
     "meta_description": "Bulldog breed guide: BOAS surgery reality, daily skin fold and tail pocket cleaning, heat emergency prevention, hip dysplasia, and what the real annual costs look like for responsible ownership."
   },
-
   "stats": {
-    "size":     { "emoji": "📏", "label": "Size",     "value": "Medium" },
-    "weight":   { "emoji": "⚖️", "label": "Weight",   "value": "40–50 lbs" },
-    "lifespan": { "emoji": "📅", "label": "Lifespan", "value": "8–10 yrs" },
-    "exercise": { "emoji": "🏃", "label": "Exercise", "value": "20–30 min (strictly weather-limited)" },
-    "grooming": { "emoji": "✂️", "label": "Grooming", "value": "Daily (fold cleaning)" },
-    "training": { "emoji": "🎓", "label": "Training", "value": "Moderate-Challenging" },
-    "with_kids":  { "emoji": "👨‍👩‍👧", "label": "With Kids",  "value": "Excellent" },
-    "beginners":  { "emoji": "🌱", "label": "Beginners",  "value": "Only if well-researched" }
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Medium"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "40–50 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "8–10 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "20–30 min (strictly weather-limited)"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Daily (fold cleaning)"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Moderate-Challenging"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Excellent"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Only if well-researched"
+    }
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bulldog_inglese.jpg/330px-Bulldog_inglese.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_e7a6da94-7077-4311-be34-3f0a12b7c663.png?v=1777526623",
       "alt": "English Bulldog"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
       "heading": "What Is an English Bulldog?",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The English Bulldog was originally bred for bull-baiting in 13th-century England — a brutal practice requiring a low, broad, powerful dog with a fearless disposition. When bull-baiting was banned in 1835, the breed was on the verge of extinction. Enthusiasts preserved it by selectively breeding for the gentle, loyal temperament, removing the aggression while keeping the distinctive physical appearance. The result is one of the most recognizable dogs in the world and, in temperament, one of the gentlest.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The honest context is that the Bulldog is also the poster breed for the consequences of extreme conformation. The flat face, compressed skull, deep wrinkles, corkscrew tail, and heavy build that define the breed's look are the same features that produce BOAS, skin fold infections, hemivertebrae, orthopedic problems, and an inability to thermoregulate normally. These are not coincidental problems — they are structural.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">This is not an argument against Bulldogs. It is an argument for going in with full awareness. An owner who understands the requirements before they bring a Bulldog home can provide an excellent life for the dog. An owner who discovers the medical reality after the fact is in a harder position.</p>"
     },
-
     "appearance": {
       "label": "Physical",
       "heading": "What Bulldogs Look Like",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Stocky and low-slung, weighing 40 lbs (females) to 50 lbs (males) with a height of 14–15 inches. The broad, massive head with pronounced underbite, deep wrinkles, and rope of skin over the nose is immediately recognizable. The body is heavily muscled with wide shoulders, a narrow rear, and a characteristic rolling gait. The short, fine coat comes in brindle, white, fawn, red, or any combination.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The corkscrew tail is a form of hemivertebrae. The deep facial folds — including the nose rope, cheek folds, and body folds — trap moisture and debris. The tail pocket (the fold of skin around the base of the tail in many Bulldogs) requires cleaning as carefully as the facial folds. These are the physical features that require daily management.</p>"
     },
-
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Gentle, loyal, and calm. Adult Bulldogs are among the most easygoing large-ish dogs available — low energy, affectionate, and content to be near their family. They are not active dogs in any meaningful sense. A short walk, a comfortable spot, and proximity to their people is their idea of a complete day. They are excellent apartment dogs when their temperature needs are met.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The stubbornness is real. Bulldogs are not motivated to comply with commands the way food-driven or eager-to-please breeds are. Training is achievable with patience and consistency, but expecting easy compliance is a setup for frustration. High-value treats and very short training sessions work best.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With children: excellent — patient, tolerant, and gentle. With strangers: typically friendly or neutral. With other dogs: generally good when socialized. Bulldogs rarely show aggression; they are far more likely to be completely indifferent to things that don't interest them.</p>"
     },
-
     "mikes_take": {
       "label": "A Realistic Take",
       "heading": "What I'd Tell a Friend Thinking About a Bulldog",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">There are two conversations worth having about Bulldogs. The first is about the temperament — which is genuinely wonderful and earns the breed its devoted following. Bulldogs are calm, loyal, and deeply lovable. The way they plant themselves on your feet and breathe heavily at you while expecting nothing more from life is its own reward. They are good dogs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The second conversation is about what responsible ownership costs — financially and in time. BOAS surgery is needed by most Bulldogs, often multiple procedures. The daily skin fold cleaning routine is non-negotiable and, if skipped, leads to infections that require veterinary treatment. Heat is a genuine medical emergency above 70–75°F — not an inconvenience, not something to manage carefully, but a risk of death if the dog overheats without immediate intervention. The 8–10 year lifespan means the compressed costs over fewer years are real.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Budget $4,000–$9,000 for year one and understand that ongoing costs will be higher than most medium-sized breeds due to health management requirements. Insurance before the first vet visit is non-negotiable. If this is within your means and you've read this honestly, a Bulldog can be a genuinely rewarding companion.</p>"
     },
-
     "care": {
       "label": "Daily Life",
       "heading": "Care Requirements",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise and Heat Management</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">20–30 minutes of gentle walking in cool conditions only. No outdoor activity when temperatures exceed 70–75°F without extreme caution. The Bulldog cannot thermoregulate effectively — they cannot pant efficiently enough to cool themselves due to their airway anatomy. Overheating can escalate to heatstroke in minutes. AC is not a comfort option; it is a medical necessity. Know heatstroke signs: heavy panting, drooling, staggering, unresponsiveness. Emergency response: cool water (not cold), wet towels on neck and groin, get to a vet immediately.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Skin Fold and Wrinkle Cleaning</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Clean facial folds, nose rope, tail pocket, and any other skin folds daily. Use a soft cloth dampened with water or a veterinary-approved skin fold wipe. Always dry thoroughly after cleaning — moisture in a fold is the problem. For dogs with recurrent infections, dilute chlorhexidine solution or medicated wipes may be recommended by your vet. See the <a href=\"/blogs/dog-breeds/bulldog-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Bulldog grooming guide</a> for the complete routine.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Swimming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Bulldogs cannot swim safely unassisted. Their heavy front end and narrow rear create a body composition that sinks. Never leave a Bulldog near an unsupervised pool, body of water, or bath. A dog life jacket is required for any water exposure.</p>"
     },
-
     "health": {
       "label": "Wellness",
       "heading": "Health &amp; Common Conditions",
       "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The English Bulldog has the highest health complexity of any common companion breed. This is not a statement against the breed — it is information every owner needs.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">BOAS (Most Severe)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">The most extreme brachycephalic airway obstruction of any common breed — pinched nostrils, severely elongated soft palate, narrowed trachea, and everted laryngeal saccules. Most Bulldogs require surgical intervention, often multiple procedures, to breathe comfortably. This is not if for most dogs; it is when. Cost: $1,500–$4,000.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Skin Fold Dermatitis</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Bacterial and yeast infections in skin folds — facial wrinkles, nose rope, tail pocket, and body folds. Prevented by daily cleaning and drying. Treated with topical antibiotics/antifungals when it develops. Severe or recurrent cases may require surgical fold removal.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Severe in the breed — the broad, heavy build combined with the narrow rear creates significant orthopedic stress. Managed medically in most cases; surgical options for severe cases. OFA screening available.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Cherry Eye</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Prolapse of the third eyelid gland — the red mass visible in the inner corner of the eye. Requires surgical correction; not treated by simply pushing it back in. Common in the breed.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hemivertebrae</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Malformed vertebrae — the corkscrew tail is a manifestation, but spinal hemivertebrae can cause cord compression and progressive neurological signs. Spinal imaging identifies severity.</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Short Lifespan</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">8–10 years is the realistic lifespan. This is meaningfully shorter than most medium-sized breeds. The accumulated health costs are compressed into fewer years, not spread over a decade-plus.</td></tr></tbody></table>"
     },
-
     "cost": {
       "label": "Budget",
       "heading": "Cost of Ownership",
       "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$2,000–$4,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food (medium breed)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$700</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$700–$1,500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">BOAS surgery (very common)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$1,500–$4,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Skin fold management supplies</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$100–$200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$100–$200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Setup (crate, supplies)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$5,500–$11,800</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,600–$3,100</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">Insurance is essential — BOAS surgery alone without insurance is $1,500–$4,000. The short lifespan means lifetime costs are compressed, not lower. See the <a href=\"/blogs/dog-breeds/bulldog-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Bulldog first-year cost breakdown</a>.</p>"
     },
-
     "right_for_you": {
       "label": "Fit Assessment",
       "heading": "Is a Bulldog Right for You?",
@@ -92,25 +121,50 @@
         "Owners who want a longer lifespan without the grief of a 8–10 year companion"
       ]
     },
-
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Bulldog",
       "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$2,000–$4,000 from reputable breeders. The Bulldog Club of America maintains a breeder referral. Bulldogs cannot typically be naturally born — cesarean section is required for most litters. Responsible breeders health screen for OFA hip, eye conditions, and cardiac health. Ask specifically about BOAS evaluation of the sire and dam and whether the breeder prioritizes wider nostrils and better airways in their selection.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bulldog-specific rescues are active and frequently have dogs needing homes. Many Bulldogs are surrendered when owners cannot manage the medical costs. Rescue Bulldogs often come with documented health histories and may have already had BOAS or other surgeries.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Bulldog comes home, complete the <a href=\"/blogs/dog-breeds/bulldog-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Bulldog puppy checklist</a> — AC setup verification, skin fold cleaning supplies, emergency vet location, and insurance enrollment are all required before the dog arrives.</p>"
     }
   },
-
   "faq": [
-    { "q": "Do all Bulldogs need BOAS surgery?", "a": "Most do — to varying degrees. The breed's conformation virtually guarantees some level of airway obstruction. A graded respiratory evaluation will determine the severity for your specific dog. Many veterinary specialists recommend prophylactic surgical correction early (first year) before the dog experiences a respiratory crisis, because the airway worsens with age and chronic labored breathing causes secondary changes (everted saccules, tracheal narrowing) that complicate the surgery if done late." },
-    { "q": "Why can't Bulldogs be in the heat?", "a": "The same reason as all brachycephalic breeds, but more severe: dogs cool by panting, and Bulldogs have a severely restricted airway that prevents effective panting. They also have a heavy build that generates more heat during any activity. Above 70–75°F, a Bulldog can overheat faster than you can react. Air conditioning is the only safe solution — not fans, not shade, not careful monitoring." },
-    { "q": "How long do Bulldogs live?", "a": "8–10 years on average. This is shorter than most medium-sized breeds and is a genuine consideration in the decision to own one. The shorter lifespan means both the grief comes sooner and the health costs are compressed into fewer years rather than spread over a longer life. Some Bulldogs with good genetics and meticulous care reach 12 years; others do not make it to 8." },
-    { "q": "Can you breed Bulldogs naturally?", "a": "Most cannot. The breed's wide shoulders and narrow hips make natural birth anatomically difficult or impossible for most Bulldogs. The majority of litters require cesarean section delivery. This is one reason responsible breeders charge significantly more than for other breeds — the costs of breeding are substantially higher." }
+    {
+      "q": "Do all Bulldogs need BOAS surgery?",
+      "a": "Most do — to varying degrees. The breed's conformation virtually guarantees some level of airway obstruction. A graded respiratory evaluation will determine the severity for your specific dog. Many veterinary specialists recommend prophylactic surgical correction early (first year) before the dog experiences a respiratory crisis, because the airway worsens with age and chronic labored breathing causes secondary changes (everted saccules, tracheal narrowing) that complicate the surgery if done late."
+    },
+    {
+      "q": "Why can't Bulldogs be in the heat?",
+      "a": "The same reason as all brachycephalic breeds, but more severe: dogs cool by panting, and Bulldogs have a severely restricted airway that prevents effective panting. They also have a heavy build that generates more heat during any activity. Above 70–75°F, a Bulldog can overheat faster than you can react. Air conditioning is the only safe solution — not fans, not shade, not careful monitoring."
+    },
+    {
+      "q": "How long do Bulldogs live?",
+      "a": "8–10 years on average. This is shorter than most medium-sized breeds and is a genuine consideration in the decision to own one. The shorter lifespan means both the grief comes sooner and the health costs are compressed into fewer years rather than spread over a longer life. Some Bulldogs with good genetics and meticulous care reach 12 years; others do not make it to 8."
+    },
+    {
+      "q": "Can you breed Bulldogs naturally?",
+      "a": "Most cannot. The breed's wide shoulders and narrow hips make natural birth anatomically difficult or impossible for most Bulldogs. The majority of litters require cesarean section delivery. This is one reason responsible breeders charge significantly more than for other breeds — the costs of breeding are substantially higher."
+    }
   ],
-
   "related_breeds": [
-    {"name": "French Bulldog", "slug": "french-bulldog", "note": "Smaller, similar brachycephalic profile, lower activity level, higher BOAS frequency"},
-    {"name": "Pug", "slug": "pug", "note": "Smaller size, similar BOAS severity, similar companion temperament"},
-    {"name": "Boston Terrier", "slug": "boston-terrier", "note": "Smaller, less severe brachycephalic issues, more active temperament"},
-    {"name": "Olde English Bulldogge", "slug": "olde-english-bulldogge", "note": "Healthier working reconstruction of the breed, better airway, not AKC registered"}
+    {
+      "name": "French Bulldog",
+      "slug": "french-bulldog",
+      "note": "Smaller, similar brachycephalic profile, lower activity level, higher BOAS frequency"
+    },
+    {
+      "name": "Pug",
+      "slug": "pug",
+      "note": "Smaller size, similar BOAS severity, similar companion temperament"
+    },
+    {
+      "name": "Boston Terrier",
+      "slug": "boston-terrier",
+      "note": "Smaller, less severe brachycephalic issues, more active temperament"
+    },
+    {
+      "name": "Olde English Bulldogge",
+      "slug": "olde-english-bulldogge",
+      "note": "Healthier working reconstruction of the breed, better airway, not AKC registered"
+    }
   ]
 }

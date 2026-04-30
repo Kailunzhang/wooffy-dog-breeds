@@ -5,20 +5,25 @@
     "shopify_handle": "irish-water-spaniel-grooming-guide",
     "group": "Irish Water Spaniel",
     "size_category": "Guide",
-    "tags": ["irish-water-spaniel", "grooming", "curly-coat", "rat-tail", "professional-trim", "low-shedding"],
+    "tags": [
+      "irish-water-spaniel",
+      "grooming",
+      "curly-coat",
+      "rat-tail",
+      "professional-trim",
+      "low-shedding"
+    ],
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "The Irish Water Spaniel's dense, liver-colored curly coat and distinctive rat tail require professional trimming every 8–10 weeks. The low-shedding curls mat without regular brushing. Ear cleaning is critical for any water-working spaniel with pendulous ears.",
     "meta_description": "Irish Water Spaniel grooming guide: managing the dense curly liver coat, professional trim schedule, rat tail maintenance, ear cleaning essentials, and the complete home care routine."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ierse_Water_Spaniel.jpg/250px-Ierse_Water_Spaniel.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_8c5da6b5-da35-4b5f-bc6a-7809d5d526e1.png?v=1777528646",
       "alt": "Irish Water Spaniel grooming guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "The IWS Coat",
@@ -36,7 +41,6 @@
       "html": "<p>The Irish Water Spaniel's pendulous ears combined with regular water exposure make ear infections a common problem without preventive cleaning. Clean the ears thoroughly after every swimming session and as part of the weekly grooming routine. Apply veterinary ear cleaning solution, massage the base, let the dog shake, then wipe visible debris with cotton balls. Trim hair at the ear canal opening at every professional grooming session to maintain airflow.</p><h3>The Rat Tail</h3><p>The IWS's characteristic rat tail — thick at the base, tapering to a fine point, naturally covered in short smooth hair — requires no trimming. Keep the tail clean; debris can accumulate at the base where the smooth tail meets the curly body coat. Wipe the base of the tail during weekly maintenance and check the smooth skin of the tail for any irritation. Do not attempt to make the tail look curlier or clip it — it is a naturally smooth breed characteristic.</p><h3>Drug Sensitivity Awareness</h3><p>Irish Water Spaniels have documented sensitivity to certain medications, including sulfasalazine and some other drugs. This is important to flag with any veterinarian or emergency veterinarian. Carry a note of this breed-specific sensitivity and ensure it is noted in the veterinary record. When any new medication is prescribed, ask the vet to cross-reference it against known IWS sensitivities before dispensing.</p>"
     }
   },
-
   "faq": [
     {
       "q": "How often does an Irish Water Spaniel need professional grooming?",

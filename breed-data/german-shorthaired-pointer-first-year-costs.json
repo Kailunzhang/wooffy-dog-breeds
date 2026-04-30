@@ -5,20 +5,24 @@
     "shopify_handle": "german-shorthaired-pointer-first-year-costs",
     "group": "German Shorthaired Pointer",
     "size_category": "Guide",
-    "tags": ["german-shorthaired-pointer", "cost", "first-year", "large-breed", "dog-ownership-cost"],
+    "tags": [
+      "german-shorthaired-pointer",
+      "cost",
+      "first-year",
+      "large-breed",
+      "dog-ownership-cost"
+    ],
     "published": true,
     "published_at": "2026-04-15T16:00:00Z",
     "excerpt": "Owning a GSP costs $3,500–$6,000 in year one when you factor in the puppy price, setup, vet care, food, and training. Here's the full breakdown.",
     "meta_description": "German Shorthaired Pointer first year cost breakdown: puppy price, vet visits, food, training, gear, and realistic annual ongoing costs."
   },
-
   "images": {
     "hero": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Duitse_staande_korthaar_10-10-2.jpg/330px-Duitse_staande_korthaar_10-10-2.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_bff6a82c-e2e0-4472-8789-b27b867d50e9.png?v=1777528016",
       "alt": "German Shorthaired Pointer cost guide"
     }
   },
-
   "sections": {
     "intro": {
       "label": "Overview",
@@ -36,7 +40,6 @@
       "html": "<h3>Where to Invest</h3><ul><li><strong>Training:</strong> A well-trained GSP is a manageable, joyful dog. An untrained one is destructive, hard to walk, and exhausting. The $400–$800 for quality puppy and basic obedience training is money directly returned in daily life quality.</li><li><strong>Pet insurance:</strong> Get it before the first vet visit, before any pre-existing conditions are documented. GSPs are generally healthy, but bloat and hip dysplasia can generate five-figure bills with no warning.</li></ul><h3>Where to Save Appropriately</h3><ul><li><strong>Grooming:</strong> The GSP's short coat needs only a $20 rubber mitt and basic supplies. No professional grooming needed.</li><li><strong>Exercise equipment:</strong> You don't need expensive gear — a long leash and a park are enough. If you're a runner or cyclist, your GSP will happily train alongside you at no extra cost.</li></ul>"
     }
   },
-
   "faq": [
     {
       "q": "How much does a German Shorthaired Pointer puppy cost?",
