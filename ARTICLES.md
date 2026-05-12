@@ -7,10 +7,10 @@
 
 | Type | Count |
 |------|-------|
-| Breed guides | 174 |
+| Breed guides | 179 |
 | Supporting articles | 493 |
 | Roundup articles | 61 |
-| **Total** | **728** |
+| **Total** | **733** |
 
 ---
 
@@ -43,7 +43,7 @@
 | Best Sporting Dog Breeds | ✅ Live | [/blogs/dog-breeds/best-sporting-dog-breeds](https://thewooffy.com/blogs/dog-breeds/best-sporting-dog-breeds) |
 | Best Terrier Breeds | ✅ Live | [/blogs/dog-breeds/best-terrier-breeds](https://thewooffy.com/blogs/dog-breeds/best-terrier-breeds) |
 | Best Therapy Dog Breeds | ✅ Live | [/blogs/dog-breeds/best-therapy-dog-breeds](https://thewooffy.com/blogs/dog-breeds/best-therapy-dog-breeds) |
-| Best Toy Dog Breeds | 🕐 Scheduled 2026-05-12 00:00 BJT | [/blogs/dog-breeds/best-toy-dog-breeds](https://thewooffy.com/blogs/dog-breeds/best-toy-dog-breeds) |
+| Best Toy Dog Breeds | ✅ Live | [/blogs/dog-breeds/best-toy-dog-breeds](https://thewooffy.com/blogs/dog-breeds/best-toy-dog-breeds) |
 | Best Watchdog Breeds | ✅ Live | [/blogs/dog-breeds/best-watchdog-breeds](https://thewooffy.com/blogs/dog-breeds/best-watchdog-breeds) |
 | Best Working Dog Breeds | ✅ Live | [/blogs/dog-breeds/best-working-dog-breeds](https://thewooffy.com/blogs/dog-breeds/best-working-dog-breeds) |
 | Black Dog Breeds | ✅ Live | [/blogs/dog-breeds/black-dog-breeds](https://thewooffy.com/blogs/dog-breeds/black-dog-breeds) |
@@ -288,6 +288,11 @@
 | Bernese Mountain Dog First Year Costs | ✅ Live | [/blogs/dog-breeds/bernese-mountain-dog-first-year-costs](https://thewooffy.com/blogs/dog-breeds/bernese-mountain-dog-first-year-costs) |
 | Bernese Mountain Dog Grooming Guide | ✅ Live | [/blogs/dog-breeds/bernese-mountain-dog-grooming-guide](https://thewooffy.com/blogs/dog-breeds/bernese-mountain-dog-grooming-guide) |
 | Bernese Mountain Dog Puppy Checklist | ✅ Live | [/blogs/dog-breeds/bernese-mountain-dog-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/bernese-mountain-dog-puppy-checklist) |
+
+### Bernese Mountain Dog vs Saint Bernard *(Giant Breed Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Bernese Mountain Dog vs Saint Bernard | ✅ Live | [/blogs/dog-breeds/bernese-mountain-dog-vs-saint-bernard](https://thewooffy.com/blogs/dog-breeds/bernese-mountain-dog-vs-saint-bernard) |
 
 ### Bichon Frise *(Non-Sporting Group · Small Breed)*
 | Article | Status | URL |
@@ -936,6 +941,11 @@
 | Mastiff Grooming Guide | ✅ Live | [/blogs/dog-breeds/mastiff-grooming-guide](https://thewooffy.com/blogs/dog-breeds/mastiff-grooming-guide) |
 | Mastiff Puppy Checklist | ✅ Live | [/blogs/dog-breeds/mastiff-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/mastiff-puppy-checklist) |
 
+### Mastiff vs Cane Corso *(Mastiff Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Mastiff vs Cane Corso | ✅ Live | [/blogs/dog-breeds/mastiff-vs-cane-corso](https://thewooffy.com/blogs/dog-breeds/mastiff-vs-cane-corso) |
+
 ### Miniature American Shepherd *(Herding Group · Small-Medium Breed)*
 | Article | Status | URL |
 |---------|--------|-----|
@@ -991,6 +1001,11 @@
 | Newfoundland First Year Costs | ✅ Live | [/blogs/dog-breeds/newfoundland-first-year-costs](https://thewooffy.com/blogs/dog-breeds/newfoundland-first-year-costs) |
 | Newfoundland Grooming Guide | ✅ Live | [/blogs/dog-breeds/newfoundland-grooming-guide](https://thewooffy.com/blogs/dog-breeds/newfoundland-grooming-guide) |
 | Newfoundland Puppy Checklist | ✅ Live | [/blogs/dog-breeds/newfoundland-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/newfoundland-puppy-checklist) |
+
+### Newfoundland vs Saint Bernard *(Giant Breed Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Newfoundland vs Saint Bernard | ✅ Live | [/blogs/dog-breeds/newfoundland-vs-saint-bernard](https://thewooffy.com/blogs/dog-breeds/newfoundland-vs-saint-bernard) |
 
 ### Norfolk Terrier *(Terrier · Small)*
 | Article | Status | URL |
@@ -1226,6 +1241,11 @@
 | Sheepadoodle Grooming Guide: Coat Care, Brushing Schedules, and Professional Trim Frequency | ✅ Live | [/blogs/dog-breeds/sheepadoodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/sheepadoodle-grooming-guide) |
 | Sheepadoodle Puppy Checklist | ✅ Live | [/blogs/dog-breeds/sheepadoodle-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/sheepadoodle-puppy-checklist) |
 
+### Sheepadoodle vs Bernedoodle *(Doodle Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Sheepadoodle vs Bernedoodle | ✅ Live | [/blogs/dog-breeds/sheepadoodle-vs-bernedoodle](https://thewooffy.com/blogs/dog-breeds/sheepadoodle-vs-bernedoodle) |
+
 ### Shetland Sheepdog *(Herding Group · Small Breed)*
 | Article | Status | URL |
 |---------|--------|-----|
@@ -1374,6 +1394,11 @@
 | Vizsla First-Year Costs: Full Budget Breakdown | ✅ Live | [/blogs/dog-breeds/vizsla-first-year-costs](https://thewooffy.com/blogs/dog-breeds/vizsla-first-year-costs) |
 | Vizsla Grooming Guide: Low-Maintenance Coat Care | ✅ Live | [/blogs/dog-breeds/vizsla-grooming-guide](https://thewooffy.com/blogs/dog-breeds/vizsla-grooming-guide) |
 | Vizsla Puppy Checklist: Everything to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/vizsla-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/vizsla-puppy-checklist) |
+
+### Vizsla vs Weimaraner *(Sporting Breed Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Vizsla vs Weimaraner | ✅ Live | [/blogs/dog-breeds/vizsla-vs-weimaraner](https://thewooffy.com/blogs/dog-breeds/vizsla-vs-weimaraner) |
 
 ### Weimaraner *(Sporting Group · Large Breed)*
 | Article | Status | URL |
