@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "The Lagotto Romagnolo is Italy's truffle hunter — a curly-coated, water-retrieving spaniel turned nose-work specialist with an excellent 15–17 year lifespan. They're friendly, intelligent, and relatively low-shedding. The digging instinct is real. The curly coat needs professional maintenance. And the LSD (Lagotto Storage Disease) DNA test is non-negotiable before buying.",
-    "meta_description": "Lagotto Romagnolo breed guide: truffle-hunting history, personality, curly coat maintenance, Lagotto Storage Disease DNA testing, juvenile epilepsy, and whether a Lagotto fits your household."
+    "meta_description": "Lagotto Romagnolo breed guide: truffle-hunting history, personality, curly coat maintenance, Lagotto Storage Disease DNA testing, juvenile epilepsy, and..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_1d4804f6-7267-4903-8cf4-5ab8417603af.png?v=1777528794",
       "alt": "Lagotto Romagnolo"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_53fdb441-5f66-40da-9493-6d68987f8afa.png?v=1777528797",
+        "alt": "Lagotto Romagnolo at home with owner",
+        "caption": "Life with a Lagotto Romagnolo — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/lagotto-romagnolo-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_5f7afa65-6101-4ec9-bed2-8fabd0415160.png?v=1777528789",
+        "alt": "Lagotto Romagnolo coat being brushed",
+        "caption": "Coat care is a big part of Lagotto Romagnolo ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/lagotto-romagnolo-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3cc8d877-13cd-4819-9607-d73bffaea749.png?v=1777528801",
+        "alt": "Lagotto Romagnolo puppy",
+        "caption": "Bringing home a Lagotto Romagnolo puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/lagotto-romagnolo-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Anyone willing to designate a digging area and work with the breed's instincts"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Lagotto Romagnolos need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Lagotto Romagnolo coats matt fast without consistent care",
         "Owners who won't or can't budget for professional grooming every 6–8 weeks",
         "Those who want a dog that doesn't dig — this is fundamental to the breed",
         "Anyone who won't require the LSD DNA test from breeders",

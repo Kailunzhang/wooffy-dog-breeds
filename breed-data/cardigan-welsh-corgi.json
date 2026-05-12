@@ -18,7 +18,7 @@
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Cardigan Welsh Corgis are the longer-tailed, more reserved cousin to the Pembroke. Loyal, smart, and functional herding dogs despite their size — with a long spine that requires health management and a shedding output that exceeds their small stature.",
-    "meta_description": "Cardigan Welsh Corgi breed guide: differences from Pembroke, IVDD spinal risk, PRA and DM genetic testing, heavy shedding, herding instinct with children, and whether a Cardigan fits your household."
+    "meta_description": "Cardigan Welsh Corgi breed guide: differences from Pembroke, IVDD spinal risk, PRA and DM genetic testing, heavy shedding, herding instinct with children,..."
   },
   "stats": {
     "size": {
@@ -66,7 +66,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_5fae695a-eeae-424b-88d1-045808f5da85.png?v=1777526784",
       "alt": "Cardigan Welsh Corgi"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_8249ad7e-70ce-44a2-9772-2f867f78be14.png?v=1777526796",
+        "alt": "Cardigan Welsh Corgi at home with owner",
+        "caption": "Life with a Cardigan Welsh Corgi — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/cardigan-welsh-corgi-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_58994fe0-29ef-4a40-a92a-d91d994e25c7.png?v=1777526788",
+        "alt": "Cardigan Welsh Corgi coat being brushed",
+        "caption": "Coat care is a big part of Cardigan Welsh Corgi ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/cardigan-welsh-corgi-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_e68fcfef-39a1-4be8-b56b-ce5774fbc56c.png?v=1777526792",
+        "alt": "Cardigan Welsh Corgi puppy",
+        "caption": "Bringing home a Cardigan Welsh Corgi puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/cardigan-welsh-corgi-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -115,6 +141,8 @@
         "People who appreciate an independent, reserved herding breed"
       ],
       "not_fit": [
+        "You travel often or have unpredictable hours — Cardigan Welsh Corgis do best with consistent 45–60 min of daily exercise from the same handler",
+        "You expect a calm, quiet first 8-12 weeks — Cardigan Welsh Corgi puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "Anyone who cannot tolerate significant shedding",
         "Owners who want a very social, outgoing dog with all strangers",
         "Families with toddlers who won't respect the dog's space (heel-nipping instinct)",

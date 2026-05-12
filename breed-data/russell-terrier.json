@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_087bac37-54b6-4251-ba99-6248f656434a.png?v=1777580700",
       "alt": "Russell Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_056c5573-17b3-4724-9f39-f3e11aab04b6.png?v=1777580694",
+        "alt": "Russell Terrier at home with owner",
+        "caption": "Life with a Russell Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/russell-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_300d36ca-55d0-4d83-b844-9f5a8361fe26.png?v=1777580725",
+        "alt": "Russell Terrier coat being brushed",
+        "caption": "Coat care is a big part of Russell Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/russell-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_896c788f-68d9-40d3-a098-ca33aba0ce81.png?v=1777580689",
+        "alt": "Russell Terrier puppy",
+        "caption": "Bringing home a Russell Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/russell-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -109,6 +135,7 @@
         "and you have a securely fenced yard, the Russell Terrier is an excellent choice"
       ],
       "not_fit": [
+        "You expect a calm, quiet first 8-12 weeks — Russell Terrier puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "not ideal for first-time owners, cat households, or those who want a calm, obedient companion with minimal exercise needs",
         "Households unable to commit to the breed's daily exercise needs",
         "Owners wanting a low-maintenance or hands-off pet",

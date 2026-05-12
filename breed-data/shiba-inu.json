@@ -18,7 +18,7 @@
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Shiba Inus are the internet's favorite dog and one of the most challenging small breeds you can own. The 'Shiba scream' is real, the escape artistry is real, the off-leash danger is real. Know what you're getting into.",
-    "meta_description": "Shiba Inu breed guide: primitive breed independence, the Shiba scream, escape artist tendencies, prey drive, off-leash safety, health conditions, and whether a Shiba fits your household."
+    "meta_description": "Shiba Inu breed guide: primitive breed independence, the Shiba scream, escape artist tendencies, prey drive, off-leash safety, health conditions, and..."
   },
   "stats": {
     "size": {
@@ -66,7 +66,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_bb1c5b03-a29f-49ef-b4b3-f18f93d4bb29.png?v=1777531522",
       "alt": "Shiba Inu"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_adc48d5c-ef21-4226-8749-8046405bf9b1.png?v=1777531518",
+        "alt": "Shiba Inu at home with owner",
+        "caption": "Life with a Shiba Inu — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/shiba-inu-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_430bdfcb-1cb7-43e1-a389-d6288770f72b.png?v=1777531510",
+        "alt": "Shiba Inu coat being brushed",
+        "caption": "Coat care is a big part of Shiba Inu ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/shiba-inu-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_88cdd2e4-50b4-46c1-ac5f-db0e9dece34e.png?v=1777531514",
+        "alt": "Shiba Inu puppy",
+        "caption": "Bringing home a Shiba Inu puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/shiba-inu-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -115,6 +141,8 @@
         "Households without small prey animals, or with careful supervised management"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Shiba Inus need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "This is your first dog — Shiba Inus frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "First-time dog owners who want a compliant, eager-to-please dog",
         "Owners who want off-leash freedom in open areas",
         "Households with small children who don't understand reading dog body language",

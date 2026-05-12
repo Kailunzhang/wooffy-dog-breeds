@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_b3168cd4-d1f5-430a-8fac-a1abf24bdfe4.png?v=1777574690",
       "alt": "Entlebucher Mountain Dog"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_59648131-558f-4d3a-85f7-705f8784fb26.png?v=1777574695",
+        "alt": "Entlebucher Mountain Dog at home with owner",
+        "caption": "Life with a Entlebucher Mountain Dog — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/entlebucher-mountain-dog-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_b71d7d39-f181-4ef3-9b14-713a5a6cbf50.png?v=1777574686",
+        "alt": "Entlebucher Mountain Dog coat being brushed",
+        "caption": "Coat care is a big part of Entlebucher Mountain Dog ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/entlebucher-mountain-dog-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_4888c2a2-908f-4bad-b3df-e44268ca3b16.png?v=1777574682",
+        "alt": "Entlebucher Mountain Dog puppy",
+        "caption": "Bringing home a Entlebucher Mountain Dog puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/entlebucher-mountain-dog-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -108,6 +134,8 @@
         "It thrives in homes with access to outdoor space and active lifestyles"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Entlebucher Mountain Dogs need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You have a small apartment without nearby outdoor space — at 45–65 lbs, Entlebucher Mountain Dogs need room to stretch and a routine of off-property exercise",
         "Sedentary owners",
         "Apartment dwellers without active routines",
         "First-time owners who underestimate the herding breed work ethic"

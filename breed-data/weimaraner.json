@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-18T16:00:00Z",
     "excerpt": "Weimaraners are athletic, intelligent hunting dogs that become destructive and anxious when under-exercised. The 'Gray Ghost' nickname reflects both their appearance and their ability to disappear over a fence when motivated. Bloat risk is significant; gastropexy is recommended.",
-    "meta_description": "Weimaraner breed guide: exercise requirements, escape artist management, bloat risk and gastropexy, health conditions, and what this high-drive German pointer actually requires daily."
+    "meta_description": "Weimaraner breed guide: exercise requirements, escape artist management, bloat risk and gastropexy, health conditions, and what this high-drive German..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_6f02c639-5a4a-463a-8309-bb76540fa5fd.png?v=1777532139",
       "alt": "Weimaraner"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_a2dfcf76-cf3f-44b9-8978-9fa6ec9f1075.png?v=1777532142",
+        "alt": "Weimaraner at home with owner",
+        "caption": "Life with a Weimaraner — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/weimaraner-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_68c80383-f6be-4221-b981-e1302876571c.png?v=1777532134",
+        "alt": "Weimaraner coat being brushed",
+        "caption": "Coat care is a big part of Weimaraner ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/weimaraner-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_d159642c-8ef5-45c8-a63a-8152847741bf.png?v=1777532128",
+        "alt": "Weimaraner puppy",
+        "caption": "Bringing home a Weimaraner puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/weimaraner-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Active families with older children"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Weimaraners need 90–120 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You live in a small apartment, studio, or rental with weight limits — Weimaraners reach 55–90 lbs and many leases cap dogs at 25-50 lbs",
         "First-time dog owners — the stubbornness and energy level require experience",
         "Households without secure, tall fencing",
         "Sedentary or low-activity households",

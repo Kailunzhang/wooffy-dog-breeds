@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "The Wirehaired Pointing Griffon was specifically developed to be the most versatile hunting dog — pointing, flushing, and retrieving on land and in water. The harsh wiry coat is low-shedding, the personality is affectionate and loyal, and the energy level is high. A hunting household's ideal dog.",
-    "meta_description": "Wirehaired Pointing Griffon breed guide: versatile gun dog temperament, wiry coat grooming and hand-stripping, hip dysplasia and thyroid health, and whether this devoted sporting breed fits your household."
+    "meta_description": "Wirehaired Pointing Griffon breed guide: versatile gun dog temperament, wiry coat grooming and hand-stripping, hip dysplasia and thyroid health, and whether..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_8bc502d0-7a3b-4b74-9f38-079c31105b87.png?v=1777532573",
       "alt": "Wirehaired Pointing Griffon"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_af476ce7-8e7f-4c8f-8144-827f3835339f.png?v=1777532562",
+        "alt": "Wirehaired Pointing Griffon at home with owner",
+        "caption": "Life with a Wirehaired Pointing Griffon — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/wirehaired-pointing-griffon-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_87613c63-3b04-45ea-bda1-205baf43aa91.png?v=1777532569",
+        "alt": "Wirehaired Pointing Griffon coat being brushed",
+        "caption": "Coat care is a big part of Wirehaired Pointing Griffon ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/wirehaired-pointing-griffon-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_55dd30da-71d0-4e9e-b4d6-d47933831359.png?v=1777532566",
+        "alt": "Wirehaired Pointing Griffon puppy",
+        "caption": "Bringing home a Wirehaired Pointing Griffon puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/wirehaired-pointing-griffon-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners committed to providing significant daily exercise"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Wirehaired Pointing Griffons need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You have a small apartment without nearby outdoor space — at 35–70 lbs, Wirehaired Pointing Griffons need room to stretch and a routine of off-property exercise",
         "Sedentary households — this breed needs real work or vigorous exercise",
         "Owners who want a breed that's immediately satisfied with leash walks",
         "Those who want minimal grooming — ear and coat maintenance is required"

@@ -16,7 +16,7 @@
     "published": true,
     "published_at": "2026-04-14T01:00:00Z",
     "excerpt": "The Maltese is an ancient toy breed with a silky white coat, enormous personality, and a devoted following. They're alert, playful, and deeply attached to their owners — with grooming requirements that demand real commitment and a fragility that means they're better suited to adults or families with older children.",
-    "meta_description": "Maltese owner's guide: temperament, grooming requirements, health issues, training, costs, and whether this elegant ancient toy breed fits your home and lifestyle."
+    "meta_description": "Maltese owner's guide: temperament, grooming requirements, health issues, training, costs, and whether this elegant ancient toy breed fits your home and..."
   },
   "stats": {
     "size": {
@@ -64,7 +64,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_52b2e29b-9970-4171-9914-f031bd1dbc39.png?v=1777529640",
       "alt": "Maltese"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_d5a57c3f-0366-4fd8-8c7c-0fd84e8531b2.png?v=1777529636",
+        "alt": "Maltese at home with owner",
+        "caption": "Life with a Maltese — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/maltese-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_8b3e9d4c-443c-43df-9c39-d2a1a0ec74ad.png?v=1777529631",
+        "alt": "Maltese coat being brushed",
+        "caption": "Coat care is a big part of Maltese ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/maltese-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_86a21bc2-42ac-4ca0-bccc-83821b1373bd.png?v=1777529628",
+        "alt": "Maltese puppy",
+        "caption": "Bringing home a Maltese puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/maltese-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -113,6 +139,8 @@
         "Mild dog allergy sufferers — low-shedding single coat often tolerated better"
       ],
       "not_fit": [
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Maltese coats matt fast without consistent care",
+        "You have close neighbors or thin apartment walls — Malteses are vocal by breed standard and a single barking complaint can violate many city or HOA noise ordinances",
         "Have toddlers or very young children — size makes injury risk real",
         "Want minimal grooming commitment",
         "Away from home 8+ hours most days",

@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The Neapolitan Mastiff is one of the most ancient guardian breeds — massive, wrinkled, and capable of producing drool at a scale that must be experienced to be believed. Devoted to family, assertive with strangers, and emphatically not a beginner dog.",
-    "meta_description": "Neapolitan Mastiff breed guide: wrinkle and skin fold care, drool management, guardian temperament, health conditions including cherry eye and bloat, and honest beginner assessment."
+    "meta_description": "Neapolitan Mastiff breed guide: wrinkle and skin fold care, drool management, guardian temperament, health conditions including cherry eye and bloat, and..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_f26dea13-e051-4586-b4c8-cef6e7385b98.png?v=1777529905",
       "alt": "Neapolitan Mastiff"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_17d5c13f-7342-4022-997c-b91998ce15d6.png?v=1777529901",
+        "alt": "Neapolitan Mastiff at home with owner",
+        "caption": "Life with a Neapolitan Mastiff — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/neapolitan-mastiff-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_09f9c8e1-53de-44fd-89d3-291edf5602a4.png?v=1777529892",
+        "alt": "Neapolitan Mastiff coat being brushed",
+        "caption": "Coat care is a big part of Neapolitan Mastiff ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/neapolitan-mastiff-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_efa98422-a6bc-4c13-b00a-d5abf8c7109c.png?v=1777529897",
+        "alt": "Neapolitan Mastiff puppy",
+        "caption": "Bringing home a Neapolitan Mastiff puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/neapolitan-mastiff-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners in areas without BSL restrictions on Mastiff-type breeds"
       ],
       "not_fit": [
+        "You live in a small apartment, studio, or rental with weight limits — Neapolitan Mastiffs reach 110–150 lbs and many leases cap dogs at 25-50 lbs",
+        "This is your first dog — Neapolitan Mastiffs frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "First-time dog owners or those without experience with assertive breeds",
         "Households where drool is a dealbreaker — it is constant and copious",
         "Anyone not prepared to maintain skin folds regularly",

@@ -64,7 +64,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_88e49288-8f02-472f-9c83-b043a5fef045.png?v=1777527122",
       "alt": "Cocker Spaniel"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_b8c4de2f-b295-4763-b8d0-ae253c2f8cf7.png?v=1777527127",
+        "alt": "Cocker Spaniel at home with owner",
+        "caption": "Life with a Cocker Spaniel — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/cocker-spaniel-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_8d2b0961-310b-46c9-8007-d7eaf0a829ee.png?v=1777527118",
+        "alt": "Cocker Spaniel coat being brushed",
+        "caption": "Coat care is a big part of Cocker Spaniel ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/cocker-spaniel-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_a335769b-15ac-4d4d-9d45-4e6a438eceef.png?v=1777527132",
+        "alt": "Cocker Spaniel puppy",
+        "caption": "Bringing home a Cocker Spaniel puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/cocker-spaniel-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -113,6 +139,8 @@
         "Households that want a deep companion dog, not an independent one"
       ],
       "not_fit": [
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Cocker Spaniel coats matt fast without consistent care",
+        "You expect a calm, quiet first 8-12 weeks — Cocker Spaniel puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "Want a low-grooming dog — the Cocker coat is non-negotiable maintenance",
         "Unwilling to budget $500–$900/year for professional grooming",
         "Away from home long hours without a plan — Cockers bond deeply and dislike isolation",

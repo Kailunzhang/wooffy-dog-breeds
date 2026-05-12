@@ -13,7 +13,7 @@
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "The Kerry Blue Terrier is Ireland's national dog — a versatile, wavy-coated working terrier with a striking blue-gray coat, boundless energy, and a personality as vibrant as its Irish heritage.",
-    "meta_description": "Complete Kerry Blue Terrier guide: temperament, distinctive blue coat care, health, and costs. Learn about Ireland's national dog and whether it suits your home."
+    "meta_description": "Complete Kerry Blue Terrier guide: temperament, distinctive blue coat care, health, and costs. Learn about Ireland's national dog and whether it suits your..."
   },
   "stats": {
     "size": {
@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_a556d622-6dd3-44fb-be89-d915c8b6853d.png?v=1777575311",
       "alt": "Kerry Blue Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_833ed7a6-0ac7-4e8d-b431-d77c3132e4d0.png?v=1777575317",
+        "alt": "Kerry Blue Terrier at home with owner",
+        "caption": "Life with a Kerry Blue Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/kerry-blue-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_3a2feda5-a6d5-4f01-aad1-c168db5c2323.png?v=1777575321",
+        "alt": "Kerry Blue Terrier coat being brushed",
+        "caption": "Coat care is a big part of Kerry Blue Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/kerry-blue-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_1c37c0c3-9dd2-429b-85fb-bb43d2756423.png?v=1777575325",
+        "alt": "Kerry Blue Terrier puppy",
+        "caption": "Bringing home a Kerry Blue Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/kerry-blue-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "You don't have cats or small animals"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Kerry Blue Terriers need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Kerry Blue Terrier coats matt fast without consistent care",
         "You are a first-time dog owner",
         "You want a dog that's reliably friendly with all other dogs",
         "You have cats or small pets",

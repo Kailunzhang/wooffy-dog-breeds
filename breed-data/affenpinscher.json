@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "The Affenpinscher — 'monkey dog' in German — is a tiny package of stubbornness, comedy, and fearless self-confidence. They're entertaining, loyal to family, and completely unaware of how small they are. Not the easiest toy breed, but one of the most interesting.",
-    "meta_description": "Affenpinscher breed guide: terrier temperament in a toy body, training challenges, health concerns including Legg-Calvé-Perthes and respiratory issues, and whether this breed suits your home."
+    "meta_description": "Affenpinscher breed guide: terrier temperament in a toy body, training challenges, health concerns including Legg-Calvé-Perthes and respiratory issues, and..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_6fd25db5-9e55-4802-847b-fc5ed5d56af1.png?v=1777572749",
       "alt": "Affenpinscher"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_eca1329c-9741-417c-a765-cab24086ef5e.png?v=1777572745",
+        "alt": "Affenpinscher at home with owner",
+        "caption": "Life with a Affenpinscher — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/affenpinscher-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_35876511-e97e-4704-aa7b-18c01650aee1.png?v=1777572753",
+        "alt": "Affenpinscher coat being brushed",
+        "caption": "Coat care is a big part of Affenpinscher ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/affenpinscher-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9b51f5f4-686f-439b-a81c-3d0c86ee6e94.png?v=1777572759",
+        "alt": "Affenpinscher puppy",
+        "caption": "Bringing home a Affenpinscher puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/affenpinscher-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Households with older children or adults only"
       ],
       "not_fit": [
+        "You can't budget for unexpected vet bills — flat-faced breeds like the Affenpinscher commonly need $3,000-15,000 in surgical care over their lifetime for breathing (BOAS), eye, or spinal issues, and most pet insurance excludes pre-existing brachycephalic conditions",
+        "You have close neighbors or thin apartment walls — Affenpinschers are vocal by breed standard and a single barking complaint can violate many city or HOA noise ordinances",
         "Families with young children or toddlers — the breed's tolerance for rough handling is limited",
         "Owners who want a highly obedient, eager-to-please small dog",
         "Anyone wanting a dog for hot-weather outdoor activity",

@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_4ef0f318-e067-4a32-942d-24c70d5e75f3.png?v=1777526691",
       "alt": "Bullmastiff"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_ef89720d-ee2c-4a06-88f3-981543f8d43f.png?v=1777526683",
+        "alt": "Bullmastiff at home with owner",
+        "caption": "Life with a Bullmastiff — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/bullmastiff-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_78f00a52-9f05-4d26-aa22-82fbd2c993fc.png?v=1777526679",
+        "alt": "Bullmastiff coat being brushed",
+        "caption": "Coat care is a big part of Bullmastiff ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/bullmastiff-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_94503020-20eb-4f46-98bd-cfcdac719341.png?v=1777526687",
+        "alt": "Bullmastiff puppy",
+        "caption": "Bringing home a Bullmastiff puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/bullmastiff-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "People who can accept a shorter-than-average lifespan and proactive health care"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Bullmastiffs need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You live in a small apartment, studio, or rental with weight limits — Bullmastiffs reach 100–130 lbs and many leases cap dogs at 25-50 lbs",
         "High-activity owners wanting a running or hiking partner",
         "First-time dog owners or anyone unable to manage a powerful guardian breed",
         "Households with multiple same-sex dogs without careful management",

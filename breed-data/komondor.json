@@ -18,7 +18,7 @@
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "The Komondor is a magnificent, powerful livestock guardian that has protected Hungarian flocks for centuries. It is not a family companion in the conventional sense — it is a working guardian dog that operates independently, makes its own decisions, and is not suitable for inexperienced owners. The corded coat takes two years to develop and hours to dry after bathing.",
-    "meta_description": "Komondor breed guide: why this livestock guardian requires experienced ownership, corded coat care commitment, health concerns including GDV, and a realistic assessment of what living with a Komondor actually means."
+    "meta_description": "Komondor breed guide: why this livestock guardian requires experienced ownership, corded coat care commitment, health concerns including GDV, and a..."
   },
   "stats": {
     "size": {
@@ -66,7 +66,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_1f47fc11-2a4f-4a15-b30f-57b5ccc4d267.png?v=1777575401",
       "alt": "Komondor"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_89d7dd47-cffc-4b29-889c-b6dad9a2fb79.png?v=1777575409",
+        "alt": "Komondor at home with owner",
+        "caption": "Life with a Komondor — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/komondor-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_f4b765dd-a16f-49a9-a15a-a8815d91e98c.png?v=1777575395",
+        "alt": "Komondor coat being brushed",
+        "caption": "Coat care is a big part of Komondor ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/komondor-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_4eb47a02-4413-41d7-92ef-35d3fcc03276.png?v=1777575380",
+        "alt": "Komondor puppy",
+        "caption": "Bringing home a Komondor puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/komondor-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -115,6 +141,8 @@
         "Committed to the corded coat's ongoing maintenance from puppyhood"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Komondors need 60–90 min of consistent daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You live in a small apartment, studio, or rental with weight limits — Komondors reach 80–100+ lbs and many leases cap dogs at 25-50 lbs",
         "First-time dog owners or those without prior large-breed guardian experience",
         "Apartment dwellers or households without securely fenced property",
         "Households with frequent visitors or children's friends regularly in the home",

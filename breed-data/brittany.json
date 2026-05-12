@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "The Brittany is one of the best compact sporting dogs available — naturally biddable, excellent in the field and as a family dog, and athletic enough for serious hunters. The exercise requirement is non-negotiable. A bored Brittany is a destructive Brittany.",
-    "meta_description": "Brittany breed guide: exercise requirements for a high-energy sporting dog, hip dysplasia and epilepsy health concerns, grooming the medium wavy coat, and whether this breed suits your lifestyle."
+    "meta_description": "Brittany breed guide: exercise requirements for a high-energy sporting dog, hip dysplasia and epilepsy health concerns, grooming the medium wavy coat, and..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_dd81bca7-be8f-4369-adcc-c3544bb4ee6e.png?v=1777526498",
       "alt": "Brittany"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_18d9b30e-b93c-49e7-ae9e-f3b653c64e2c.png?v=1777526485",
+        "alt": "Brittany at home with owner",
+        "caption": "Life with a Brittany — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/brittany-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_bab7baa5-718b-482d-a3fa-38509feb2f72.png?v=1777526489",
+        "alt": "Brittany coat being brushed",
+        "caption": "Coat care is a big part of Brittany ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/brittany-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_6d25c435-99b8-469f-bfc4-1a85a4cfc5a2.png?v=1777526493",
+        "alt": "Brittany puppy",
+        "caption": "Bringing home a Brittany puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/brittany-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "People who want a trainable sporting dog that isn't giant-sized"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Brittanys need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You expect a calm, quiet first 8-12 weeks — Brittany puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "Sedentary or moderately active owners who can't commit to 90+ minutes of vigorous daily exercise",
         "Apartment dwellers without access to significant exercise space",
         "Owners looking for a calm, mellow companion breed",

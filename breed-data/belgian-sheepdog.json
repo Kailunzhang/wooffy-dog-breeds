@@ -13,7 +13,7 @@
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "The Belgian Sheepdog, also known as the Groenendael, is an elegant, all-black herding breed with a long, flowing double coat. Highly intelligent and energetic, this versatile dog excels in herding, police work, and as a devoted family companion.",
-    "meta_description": "Belgian Sheepdog (Groenendael) breed guide: temperament, grooming, health, costs, and whether this beautiful black herding dog is right for your active lifestyle."
+    "meta_description": "Belgian Sheepdog (Groenendael) breed guide: temperament, grooming, health, costs, and whether this beautiful black herding dog is right for your active..."
   },
   "stats": {
     "size": {
@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_b32f1ec5-e9d3-4f26-aed3-6b13b3db5faa.png?v=1777573674",
       "alt": "Belgian Sheepdog"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_e763eade-b95a-46b3-91fb-ec6a931a9674.png?v=1777573688",
+        "alt": "Belgian Sheepdog at home with owner",
+        "caption": "Life with a Belgian Sheepdog — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/belgian-sheepdog-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4c4cd6e7-a73d-44b6-b9e4-e068b16c8bef.png?v=1777573683",
+        "alt": "Belgian Sheepdog coat being brushed",
+        "caption": "Coat care is a big part of Belgian Sheepdog ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/belgian-sheepdog-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_946367ed-a359-4426-8697-a6e9ed650249.png?v=1777573692",
+        "alt": "Belgian Sheepdog puppy",
+        "caption": "Bringing home a Belgian Sheepdog puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/belgian-sheepdog-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "You are away from home for long periods daily"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Belgian Sheepdogs need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Belgian Sheepdog coats matt fast without consistent care",
         "You are a first-time dog owner without herding-breed experience",
         "You have a sedentary lifestyle",
         "You prefer a low-maintenance coat",

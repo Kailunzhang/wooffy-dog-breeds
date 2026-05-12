@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "German Wirehaired Pointers are serious hunting dogs that happen to live in your house. They're athletic, tenacious, and built for full days in the field. The wiry coat and independent streak make them less forgiving than most sporting breeds — but for the right active owner, they're exceptional.",
-    "meta_description": "German Wirehaired Pointer breed guide: personality, exercise needs, grooming the wiry coat, health conditions including hip dysplasia and heart disease, and whether this breed fits your lifestyle."
+    "meta_description": "German Wirehaired Pointer breed guide: personality, exercise needs, grooming the wiry coat, health conditions including hip dysplasia and heart disease, and..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_ea2fcfdd-1a2d-431f-9b6a-37c5f3a48439.png?v=1777528084",
       "alt": "German Wirehaired Pointer"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_ec6a0313-2d1a-4a62-b8e5-8284db180e86.png?v=1777528088",
+        "alt": "German Wirehaired Pointer at home with owner",
+        "caption": "Life with a German Wirehaired Pointer — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/german-wirehaired-pointer-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_36225727-bf1b-4d32-ba08-8ca6f3b2370f.png?v=1777528092",
+        "alt": "German Wirehaired Pointer coat being brushed",
+        "caption": "Coat care is a big part of German Wirehaired Pointer ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/german-wirehaired-pointer-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_a88de939-5a7d-470a-b578-01c724d00e13.png?v=1777528080",
+        "alt": "German Wirehaired Pointer puppy",
+        "caption": "Bringing home a German Wirehaired Pointer puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/german-wirehaired-pointer-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Families willing to commit to 90+ minutes of vigorous exercise daily"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — German Wirehaired Pointers need 90–120 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "This is your first dog — German Wirehaired Pointers frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "First-time dog owners or those unfamiliar with high-drive sporting breeds",
         "Apartment or small-space living",
         "Owners with cats or small animals — prey drive is significant",

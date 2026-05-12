@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "The Mini American Shepherd delivers everything the Australian Shepherd offers — intelligence, drive, trainability, loyalty — in a more compact package. The energy and mental stimulation needs are not reduced. Plan for a very active companion with CEA and MDR1 health tests required from any breeder.",
-    "meta_description": "Miniature American Shepherd breed guide: energy and exercise needs, herding drive in a smaller body, CEA and MDR1 health testing, and what compact herding dog ownership requires."
+    "meta_description": "Miniature American Shepherd breed guide: energy and exercise needs, herding drive in a smaller body, CEA and MDR1 health testing, and what compact herding..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2a583a84-7571-4abd-8356-b8f2e9130455.png?v=1777529745",
       "alt": "Miniature American Shepherd"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_4e15625d-71a4-46c2-bf5b-ac2f5500d8e2.png?v=1777529749",
+        "alt": "Miniature American Shepherd at home with owner",
+        "caption": "Life with a Miniature American Shepherd — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/miniature-american-shepherd-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_a0f02e63-41ba-4141-9367-a65a0eee3549.png?v=1777529737",
+        "alt": "Miniature American Shepherd coat being brushed",
+        "caption": "Coat care is a big part of Miniature American Shepherd ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/miniature-american-shepherd-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_d0992a24-2b44-4f16-a147-9679457605e5.png?v=1777529741",
+        "alt": "Miniature American Shepherd puppy",
+        "caption": "Bringing home a Miniature American Shepherd puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/miniature-american-shepherd-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners with the time for daily vigorous exercise and training engagement"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Miniature American Shepherds need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You expect a calm, quiet first 8-12 weeks — Miniature American Shepherd puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "Owners looking for a low-energy or calm companion",
         "People who will leave the dog alone for long hours without exercise",
         "Those who can't provide mental stimulation beyond just walks",

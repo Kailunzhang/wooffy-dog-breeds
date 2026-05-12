@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-18T16:00:00Z",
     "excerpt": "Alaskan Malamutes are endurance-built working dogs with a friendly disposition, a stubborn streak, and exercise requirements that most owners underestimate. They shed heavily, can be dog-aggressive, and cannot be trusted off-leash in unfenced areas. Know what you're signing up for.",
-    "meta_description": "Alaskan Malamute breed guide: temperament, heavy shedding, off-leash safety, dog-aggression tendencies, hereditary health tests, and what this working breed actually requires daily."
+    "meta_description": "Alaskan Malamute breed guide: temperament, heavy shedding, off-leash safety, dog-aggression tendencies, hereditary health tests, and what this working breed..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_f0b6359e-0d39-4bb6-8e7f-b22da92fd304.png?v=1777525396",
       "alt": "Alaskan Malamute"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_4539c826-12e8-48ac-85c3-81116e76368f.png?v=1777525405",
+        "alt": "Alaskan Malamute at home with owner",
+        "caption": "Life with a Alaskan Malamute — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/alaskan-malamute-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_0b856902-96d7-4f91-b56e-5401c51d6f4d.png?v=1777525411",
+        "alt": "Alaskan Malamute coat being brushed",
+        "caption": "Coat care is a big part of Alaskan Malamute ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/alaskan-malamute-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_c2468f99-3431-44d5-a306-7795636ca600.png?v=1777525401",
+        "alt": "Alaskan Malamute puppy",
+        "caption": "Bringing home a Alaskan Malamute puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/alaskan-malamute-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Cold-climate households where the double coat is appropriate"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Alaskan Malamutes need 90–120 min of consistent daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You live in a small apartment, studio, or rental with weight limits — Alaskan Malamutes reach 75–100+ lbs and many leases cap dogs at 25-50 lbs",
         "First-time dog owners without prior large-breed experience",
         "Apartment dwellers or households without secure outdoor space",
         "Households with small animals (cats, small dogs, rabbits)",

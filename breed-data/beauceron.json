@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_19c5c3fd-eb53-4f9d-a163-4251737219f7.png?v=1777580384",
       "alt": "Beauceron"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_1fc79dff-540c-4b53-8f7b-d49c3cd28292.png?v=1777580395",
+        "alt": "Beauceron at home with owner",
+        "caption": "Life with a Beauceron — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/beauceron-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_54762f5a-4313-462b-aea1-0f3356fc8c05.png?v=1777580404",
+        "alt": "Beauceron coat being brushed",
+        "caption": "Coat care is a big part of Beauceron ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/beauceron-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_662b5aab-fbfb-4723-aac3-e74da66ac9e2.png?v=1777580389",
+        "alt": "Beauceron puppy",
+        "caption": "Bringing home a Beauceron puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/beauceron-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "Have a securely fenced property"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Beaucerons need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You live in a small apartment, studio, or rental with weight limits — Beaucerons reach 70–110 lbs and many leases cap dogs at 25-50 lbs",
         "You are a first-time dog owner",
         "You have limited time for exercise and training",
         "You want a relaxed, easygoing dog",

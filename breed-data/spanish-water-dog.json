@@ -18,7 +18,7 @@
     "published": true,
     "published_at": "2026-05-05T16:00:00Z",
     "excerpt": "The Spanish Water Dog is a genuine working breed — used for herding, hunting, and water retrieval across Spain for centuries. Their curly coat forms natural cords and should never be brushed. They're athletic, devoted to their family, and reserved with strangers. Not a beginner breed.",
-    "meta_description": "Spanish Water Dog breed guide: the no-brush corded coat explained, temperament with family and strangers, health screening requirements, and whether this versatile herding breed fits your life."
+    "meta_description": "Spanish Water Dog breed guide: the no-brush corded coat explained, temperament with family and strangers, health screening requirements, and whether this..."
   },
   "stats": {
     "size": {
@@ -66,7 +66,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_d607e935-4018-424d-9f82-4e64dd525594.png?v=1777579724",
       "alt": "Spanish Water Dog"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_d84dcedc-268f-4286-9677-f317a39ecf8d.png?v=1777579717",
+        "alt": "Spanish Water Dog at home with owner",
+        "caption": "Life with a Spanish Water Dog — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/spanish-water-dog-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_dc96456e-91af-4103-9fa6-5a7754a014c3.png?v=1777579712",
+        "alt": "Spanish Water Dog coat being brushed",
+        "caption": "Coat care is a big part of Spanish Water Dog ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/spanish-water-dog-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_6019986c-9d03-411c-aedd-64316db29600.png?v=1777579721",
+        "alt": "Spanish Water Dog puppy",
+        "caption": "Bringing home a Spanish Water Dog puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/spanish-water-dog-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -115,6 +141,8 @@
         "Committed to early and thorough socialization to manage stranger reserve"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Spanish Water Dogs need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "This is your first dog — Spanish Water Dogs frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "First-time dog owners without prior herding or working breed experience",
         "Owners looking for a social, everyone-is-a-friend type of dog",
         "Anyone who cannot commit to 60–90 minutes of daily vigorous exercise",

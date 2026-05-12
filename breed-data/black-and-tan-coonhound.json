@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Black and Tan Coonhounds are easy-going, affectionate dogs at home with low grooming needs. In the field — or following an interesting scent on a walk — the nose takes over entirely. The baying voice carries long distances and is not negotiable. Ear cleaning is the single most important routine care task.",
-    "meta_description": "Black and Tan Coonhound breed guide: nose-driven temperament, the baying voice reality, ear infection prevention, training challenges, and what a scent hound actually needs at home."
+    "meta_description": "Black and Tan Coonhound breed guide: nose-driven temperament, the baying voice reality, ear infection prevention, training challenges, and what a scent..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2106b5ed-92bd-4537-980d-db1585fbe023.png?v=1777526105",
       "alt": "Black and Tan Coonhound"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_1b08492a-22f9-4b64-9139-4755524f5cd8.png?v=1777526097",
+        "alt": "Black and Tan Coonhound at home with owner",
+        "caption": "Life with a Black and Tan Coonhound — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/black-and-tan-coonhound-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_7fde5db9-f8ff-4f8f-8d06-1c3a92888230.png?v=1777526101",
+        "alt": "Black and Tan Coonhound coat being brushed",
+        "caption": "Coat care is a big part of Black and Tan Coonhound ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/black-and-tan-coonhound-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_20df211f-645f-48d8-a1ac-10a91b743de7.png?v=1777526109",
+        "alt": "Black and Tan Coonhound puppy",
+        "caption": "Bringing home a Black and Tan Coonhound puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/black-and-tan-coonhound-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Households with other dogs — pack-oriented and generally dog-friendly"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Black and Tan Coonhounds need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You live in a small apartment, studio, or rental with weight limits — Black and Tan Coonhounds reach 65–110 lbs and many leases cap dogs at 25-50 lbs",
         "Apartment or noise-sensitive households — the baying will carry",
         "Anyone expecting reliable off-leash recall in open areas",
         "Owners who want a dog that ignores interesting scents on walks",

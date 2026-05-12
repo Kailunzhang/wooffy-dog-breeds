@@ -18,7 +18,7 @@
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Border Collies are the world's most intelligent dog breed — which means they need more mental stimulation than almost any other breed, are prone to obsessive behaviors without it, and are fundamentally not typical pets.",
-    "meta_description": "Border Collie breed guide: extreme intelligence, obsessive behaviors, CEA eye anomaly, MDR1 drug sensitivity, exercise and mental stimulation requirements, and whether a Border Collie fits your household."
+    "meta_description": "Border Collie breed guide: extreme intelligence, obsessive behaviors, CEA eye anomaly, MDR1 drug sensitivity, exercise and mental stimulation requirements,..."
   },
   "stats": {
     "size": {
@@ -66,7 +66,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_9c1274b3-2b43-4534-b440-e6f58dab74f5.png?v=1777526272",
       "alt": "Border Collie"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7c081500-5dfe-4184-9df2-86e658ca4f95.png?v=1777526265",
+        "alt": "Border Collie at home with owner",
+        "caption": "Life with a Border Collie — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/border-collie-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_780d4102-99e6-4519-8057-b803e653fa3c.png?v=1777526283",
+        "alt": "Border Collie coat being brushed",
+        "caption": "Coat care is a big part of Border Collie ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/border-collie-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9a410929-830b-4320-8899-de38f2e135ba.png?v=1777526279",
+        "alt": "Border Collie puppy",
+        "caption": "Bringing home a Border Collie puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/border-collie-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -115,6 +141,8 @@
         "People who've honestly assessed whether their lifestyle matches what this dog needs"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Border Collies need 90–120+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "This is your first dog — Border Collies frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "First-time dog owners who want an intelligent, easy-to-train companion",
         "Anyone who can't provide 90+ minutes of activity plus daily mental engagement",
         "Households that want a calm, low-key dog",

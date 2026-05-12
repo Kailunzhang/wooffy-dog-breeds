@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_601d4f85-2e65-4ec8-8f55-5751a5a2ff18.png?v=1777572931",
       "alt": "American Eskimo Dog"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_3da95066-93b5-4cbc-9a70-dc950ad562ed.png?v=1777572936",
+        "alt": "American Eskimo Dog at home with owner",
+        "caption": "Life with a American Eskimo Dog — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/american-eskimo-dog-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_10297bf7-c705-4063-ad4c-3d07e994c461.png?v=1777572928",
+        "alt": "American Eskimo Dog coat being brushed",
+        "caption": "Coat care is a big part of American Eskimo Dog ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/american-eskimo-dog-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_68da149e-e63b-434e-bf29-873e60d7ce92.png?v=1777572920",
+        "alt": "American Eskimo Dog puppy",
+        "caption": "Bringing home a American Eskimo Dog puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/american-eskimo-dog-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "You are interested in dog sports or trick training"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — American Eskimo Dogs need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — American Eskimo Dog coats matt fast without consistent care",
         "You work long hours and the dog would be alone most of the day",
         "You want a low-shedding or low-grooming dog",
         "You live in a very warm climate without good air conditioning",

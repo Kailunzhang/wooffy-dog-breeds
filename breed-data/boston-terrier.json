@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-19T16:00:00Z",
     "excerpt": "Boston Terriers are friendly, adaptable, and genuinely easy to live with — but they're brachycephalic, heat-sensitive, and their prominent eyes are an injury risk. Get the respiratory evaluation done early and keep the AC on in summer.",
-    "meta_description": "Boston Terrier breed guide: BOAS respiratory evaluation, heat management, hemivertebrae, hereditary cataracts, deafness screening, and what responsible ownership actually costs."
+    "meta_description": "Boston Terrier breed guide: BOAS respiratory evaluation, heat management, hemivertebrae, hereditary cataracts, deafness screening, and what responsible..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_3d63e939-2d2f-4614-8541-7dd86e20caa3.png?v=1777526391",
       "alt": "Boston Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0ad0f85d-efd1-45f4-93b1-c23d629404aa.png?v=1777526395",
+        "alt": "Boston Terrier at home with owner",
+        "caption": "Life with a Boston Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/boston-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_211ddfce-9466-4ef7-9c24-8cd84f9f12ab.png?v=1777526386",
+        "alt": "Boston Terrier coat being brushed",
+        "caption": "Coat care is a big part of Boston Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/boston-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_a5ebbb6e-1805-4675-a32a-869b11de6c1a.png?v=1777526382",
+        "alt": "Boston Terrier puppy",
+        "caption": "Bringing home a Boston Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/boston-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners prepared for heat management and respiratory health monitoring"
       ],
       "not_fit": [
+        "You have close neighbors or thin apartment walls — Boston Terriers are vocal by breed standard and a single barking complaint can violate many city or HOA noise ordinances",
+        "You expect a calm, quiet first 8-12 weeks — Boston Terrier puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "Owners in warm climates without AC — heat intolerance is a real medical concern",
         "Anyone who wants a running or jogging partner for warm-weather exercise",
         "Owners who won't do the respiratory evaluation or budget for potential BOAS surgery",

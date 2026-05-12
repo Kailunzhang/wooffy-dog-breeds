@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_15f8fcec-6455-401d-8683-c38b7290b078.png?v=1777575698",
       "alt": "Miniature Bull Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_745bb72c-76d9-49f9-a024-9a51a31aff65.png?v=1777575691",
+        "alt": "Miniature Bull Terrier at home with owner",
+        "caption": "Life with a Miniature Bull Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/miniature-bull-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_8f8d8fe9-0629-4f1d-b6b3-8e446cd7f493.png?v=1777575685",
+        "alt": "Miniature Bull Terrier coat being brushed",
+        "caption": "Coat care is a big part of Miniature Bull Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/miniature-bull-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_65ce5cee-b73f-4e1b-8bfb-6732b16dfe9e.png?v=1777575677",
+        "alt": "Miniature Bull Terrier puppy",
+        "caption": "Bringing home a Miniature Bull Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/miniature-bull-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "You have a securely fenced yard"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Miniature Bull Terriers need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "This is your first dog — Miniature Bull Terriers frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "You want a reliably obedient dog",
         "You are a first-time dog owner",
         "You have small children under 5",

@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "English Cocker Spaniels are genuinely happy, gentle dogs — excellent with families and eager to please. They're different from American Cockers: larger, more field-like in build, with a more moderate head. The practical note that applies to every Cocker owner: weekly ear cleaning is not optional. Floppy ears plus feathering equals chronic ear infections if neglected.",
-    "meta_description": "English Cocker Spaniel breed guide: personality, differences from American Cocker Spaniels, ear infection prevention, health conditions including Familial Nephropathy and PRA, and whether an English Cocker fits your household."
+    "meta_description": "English Cocker Spaniel breed guide: personality, differences from American Cocker Spaniels, ear infection prevention, health conditions including Familial..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_214ec750-e929-430a-aab3-f32dd51825f4.png?v=1777527575",
       "alt": "English Cocker Spaniel"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_a416cf15-853c-44f7-99a3-9fa16f5dbd67.png?v=1777527579",
+        "alt": "English Cocker Spaniel at home with owner",
+        "caption": "Life with a English Cocker Spaniel — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/english-cocker-spaniel-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4c9d50c7-030a-4462-b979-dc58f00b4bd1.png?v=1777527567",
+        "alt": "English Cocker Spaniel coat being brushed",
+        "caption": "Coat care is a big part of English Cocker Spaniel ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/english-cocker-spaniel-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_2461b230-ee4e-403d-aa76-9bf741fc0c47.png?v=1777527572",
+        "alt": "English Cocker Spaniel puppy",
+        "caption": "Bringing home a English Cocker Spaniel puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/english-cocker-spaniel-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Those willing to budget for professional grooming every 6–8 weeks"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — English Cocker Spaniels need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — English Cocker Spaniel coats matt fast without consistent care",
         "Owners who won't commit to weekly ear cleaning — infections will be chronic and costly",
         "Those wanting a very low-maintenance coat",
         "Owners who cannot afford or accommodate regular professional grooming",

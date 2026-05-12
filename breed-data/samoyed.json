@@ -18,7 +18,7 @@
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Samoyeds are one of the most visually striking dogs in existence — the white double coat, the 'Sammy smile,' the expressive eyes. They're also vocal, socially demanding, heavy shedders, and carry a fatal hereditary kidney disease. Know both sides before you fall for the look.",
-    "meta_description": "Samoyed breed guide: the Sammy smile, white double coat management, SHG hereditary kidney disease DNA test requirements, exercise needs, and honest ownership expectations."
+    "meta_description": "Samoyed breed guide: the Sammy smile, white double coat management, SHG hereditary kidney disease DNA test requirements, exercise needs, and honest..."
   },
   "stats": {
     "size": {
@@ -66,7 +66,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_aa1c9c61-79c9-46a6-90f8-bfae44809d46.png?v=1777531208",
       "alt": "Samoyed"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_a7a7133c-00ef-41d4-bdde-f6125f4ee4c7.png?v=1777531200",
+        "alt": "Samoyed at home with owner",
+        "caption": "Life with a Samoyed — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/samoyed-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_9bb69e00-12ed-4b24-9917-a0c7ff9d4428.png?v=1777531204",
+        "alt": "Samoyed coat being brushed",
+        "caption": "Coat care is a big part of Samoyed ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/samoyed-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_f6f29976-d539-4239-8ad9-55cf30ed8c9a.png?v=1777531196",
+        "alt": "Samoyed puppy",
+        "caption": "Bringing home a Samoyed puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/samoyed-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -116,6 +142,8 @@
         "Buyers who insist on SHG DNA test documentation from both parents"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Samoyeds need 60–90 min of consistent daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Samoyed coats matt fast without consistent care",
         "People in hot climates who cannot air-condition year-round",
         "Owners who work long hours and leave the dog alone all day",
         "Anyone who cannot tolerate significant shedding",

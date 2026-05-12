@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_cdd6329b-9778-41f4-82f6-746e94db9f8d.png?v=1777574318",
       "alt": "Chinese Crested"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_70b2ce9d-1c5a-435d-b89f-642190b9b450.png?v=1777574321",
+        "alt": "Chinese Crested at home with owner",
+        "caption": "Life with a Chinese Crested — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/chinese-crested-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_d9254b5e-31fa-4d36-9c12-bb6a45686e50.png?v=1777574310",
+        "alt": "Chinese Crested coat being brushed",
+        "caption": "Coat care is a big part of Chinese Crested ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/chinese-crested-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_0a6258a6-a162-4467-8e85-07f9a2535c88.png?v=1777574325",
+        "alt": "Chinese Crested puppy",
+        "caption": "Bringing home a Chinese Crested puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/chinese-crested-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "Homes with the appropriate space and lifestyle for the breed's energy level"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Chinese Cresteds need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You expect a calm, quiet first 8-12 weeks — Chinese Crested puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "People who want a low-maintenance small dog",
         "Households with very young children",
         "Owners who travel frequently without the ability to bring the dog along"

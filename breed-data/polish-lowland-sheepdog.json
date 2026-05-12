@@ -13,7 +13,7 @@
     "published": true,
     "published_at": "2026-05-04T16:00:00Z",
     "excerpt": "The Polish Lowland Sheepdog (PON) is a confident, independent herding breed from Poland with a memorable shaggy coat and an extraordinary memory. Self-assured and devoted, the PON requires an experienced owner who respects its intelligence.",
-    "meta_description": "Polish Lowland Sheepdog (PON) breed guide: temperament, coat care, grooming commitment, and costs. Poland's shaggy herder with exceptional memory and independent nature."
+    "meta_description": "Polish Lowland Sheepdog (PON) breed guide: temperament, coat care, grooming commitment, and costs. Poland's shaggy herder with exceptional memory and..."
   },
   "stats": {
     "size": {
@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_4a60d669-3b6c-417c-95a3-b315c0afa5f5.png?v=1777580610",
       "alt": "Polish Lowland Sheepdog"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_b477138a-11a2-4b4d-ad75-f4140b49ec21.png?v=1777580618",
+        "alt": "Polish Lowland Sheepdog at home with owner",
+        "caption": "Life with a Polish Lowland Sheepdog — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/polish-lowland-sheepdog-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_b0d78e00-4fac-4db2-a29a-f87cc04be6ef.png?v=1777580622",
+        "alt": "Polish Lowland Sheepdog coat being brushed",
+        "caption": "Coat care is a big part of Polish Lowland Sheepdog ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/polish-lowland-sheepdog-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_4649f433-32ad-4c3f-9bc8-ea783cc0aa95.png?v=1777580615",
+        "alt": "Polish Lowland Sheepdog puppy",
+        "caption": "Bringing home a Polish Lowland Sheepdog puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/polish-lowland-sheepdog-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "People who enjoy daily engagement and active companionship with their dog"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Polish Lowland Sheepdogs need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Polish Lowland Sheepdog coats matt fast without consistent care",
         "First-time owners",
         "Sedentary households",
         "People who want a coat-free",

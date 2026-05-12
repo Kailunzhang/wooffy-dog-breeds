@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-19T16:00:00Z",
     "excerpt": "Yorkies are not lap dogs by temperament — they're working terriers in a small package. They also need a harness (tracheal collapse risk), rigorous dental care, and hypoglycemia monitoring as puppies. Understand the health picture before you fall for that face.",
-    "meta_description": "Yorkshire Terrier breed guide: terrier personality in a toy body, tracheal collapse prevention, hypoglycemia risk, portosystemic shunts, dental disease, and grooming options."
+    "meta_description": "Yorkshire Terrier breed guide: terrier personality in a toy body, tracheal collapse prevention, hypoglycemia risk, portosystemic shunts, dental disease, and..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_4c6f5eca-98fc-4799-8ad8-1ac30e7f570f.png?v=1777532613",
       "alt": "Yorkshire Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_8506372e-9a88-4c22-a4ca-f52aaf457916.png?v=1777532609",
+        "alt": "Yorkshire Terrier at home with owner",
+        "caption": "Life with a Yorkshire Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/yorkshire-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_16e3db48-d58f-41e1-9d5e-ef1d7576e383.png?v=1777532620",
+        "alt": "Yorkshire Terrier coat being brushed",
+        "caption": "Coat care is a big part of Yorkshire Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/yorkshire-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_ce311006-a472-40cd-a135-1e51cc1fbaf3.png?v=1777532617",
+        "alt": "Yorkshire Terrier puppy",
+        "caption": "Bringing home a Yorkshire Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/yorkshire-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Households with older children or adults"
       ],
       "not_fit": [
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Yorkshire Terrier coats matt fast without consistent care",
+        "You have close neighbors or thin apartment walls — Yorkshire Terriers are vocal by breed standard and a single barking complaint can violate many city or HOA noise ordinances",
         "Owners wanting a calm, gentle lap dog (Yorkies are terriers, not lap dogs by temperament)",
         "Households with very young children — the small size makes them injury-prone",
         "Anyone not prepared for the grooming and dental care commitment",

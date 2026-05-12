@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-18T16:00:00Z",
     "excerpt": "Vizslas are high-energy, deeply affectionate sporting dogs that excel in active households. Their 'velcro' bonding tendency makes separation anxiety a real risk if under-exercised or left alone excessively. Epilepsy and Sebaceous Adenitis are notable breed health concerns.",
-    "meta_description": "Vizsla breed guide: exercise requirements, separation anxiety prevention, velcro dog bonding traits, health conditions including epilepsy and Sebaceous Adenitis, and what this sensitive sporting dog needs."
+    "meta_description": "Vizsla breed guide: exercise requirements, separation anxiety prevention, velcro dog bonding traits, health conditions including epilepsy and Sebaceous..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_0bfaf41d-376f-4726-959e-b41d48f14a7f.png?v=1777532077",
       "alt": "Vizsla"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_93adac40-efad-40a4-9e61-3e193df382a6.png?v=1777532081",
+        "alt": "Vizsla at home with owner",
+        "caption": "Life with a Vizsla — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/vizsla-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_5757ce83-c817-48e3-aba4-cfb1922523b7.png?v=1777532073",
+        "alt": "Vizsla coat being brushed",
+        "caption": "Coat care is a big part of Vizsla ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/vizsla-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_41edeb36-9bf7-4ab6-a1cb-83c4e1ef7fae.png?v=1777532069",
+        "alt": "Vizsla puppy",
+        "caption": "Bringing home a Vizsla puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/vizsla-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Households where someone is home for much of the day"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Vizslas need 90–120 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You're frequently away 8+ hours and can't arrange a midday dog walker or daycare — Vizslas bond intensely and are documented to develop separation anxiety more often than average",
         "Households where the dog will be alone for 8+ hours daily — separation anxiety is a real risk",
         "Sedentary owners who cannot provide vigorous daily exercise",
         "Anyone expecting independence or aloofness — Vizslas are the opposite of that",

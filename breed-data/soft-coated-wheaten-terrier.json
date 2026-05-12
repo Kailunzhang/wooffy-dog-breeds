@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Soft Coated Wheaten Terriers are charming, playful, and better with families than many terriers. The 'Wheaten greeting' — jumping at everyone with unbounded enthusiasm — is real and requires training. More urgently: PLN and PLE are protein-losing diseases requiring annual monitoring throughout the dog's life.",
-    "meta_description": "Soft Coated Wheaten Terrier breed guide: Wheaten greeting behavior, silky coat maintenance, PLN/PLE protein-losing disease monitoring requirements, Addison's disease risk, and honest ownership expectations."
+    "meta_description": "Soft Coated Wheaten Terrier breed guide: Wheaten greeting behavior, silky coat maintenance, PLN/PLE protein-losing disease monitoring requirements,..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_83c94c6b-9110-441d-8c77-5680524b82d0.png?v=1777531685",
       "alt": "Soft Coated Wheaten Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_5d56416e-fd90-4173-91e3-712deb238785.png?v=1777531677",
+        "alt": "Soft Coated Wheaten Terrier at home with owner",
+        "caption": "Life with a Soft Coated Wheaten Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/soft-coated-wheaten-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_035f4dd9-94de-43f3-a58a-0206440ed1e3.png?v=1777531673",
+        "alt": "Soft Coated Wheaten Terrier coat being brushed",
+        "caption": "Coat care is a big part of Soft Coated Wheaten Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/soft-coated-wheaten-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3dbed4e2-e2b6-44bd-8f62-b7b712cac3b1.png?v=1777531681",
+        "alt": "Soft Coated Wheaten Terrier puppy",
+        "caption": "Bringing home a Soft Coated Wheaten Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/soft-coated-wheaten-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Households where some terrier independence and energy is welcome"
       ],
       "not_fit": [
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Soft Coated Wheaten Terrier coats matt fast without consistent care",
+        "You travel often or have unpredictable hours — Soft Coated Wheaten Terriers do best with consistent 45–60 min of daily exercise from the same handler",
         "Anyone who wants a dog that doesn't jump on guests (without significant training investment)",
         "Owners who cannot keep up with the grooming schedule — the coat mats badly when neglected",
         "People who are not prepared to commit to annual health monitoring for PLN/PLE",

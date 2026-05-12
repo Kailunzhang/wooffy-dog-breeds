@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "Irish Setters are exuberant, beautiful, and genuinely friendly — one of the most sociable sporting breeds. They also maintain puppy-like behavior for years and carry CLAD, a fatal immune disorder. Both parents must be DNA tested. Know what you're committing to before you fall for the mahogany coat.",
-    "meta_description": "Irish Setter breed guide: exuberant temperament, slow maturation, CLAD DNA test requirements from both parents, PRA testing, bloat risk, grooming the feathered coat, and realistic energy requirements."
+    "meta_description": "Irish Setter breed guide: exuberant temperament, slow maturation, CLAD DNA test requirements from both parents, PRA testing, bloat risk, grooming the..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_037c3b3d-0d13-4bdb-a432-2df998c73574.png?v=1777528577",
       "alt": "Irish Setter"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_99a4b29d-eb59-40be-9fcd-ff3c068086cb.png?v=1777528582",
+        "alt": "Irish Setter at home with owner",
+        "caption": "Life with a Irish Setter — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/irish-setter-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ea6c9cb9-aa89-42ee-8bd9-dd1d808eeb2e.png?v=1777528586",
+        "alt": "Irish Setter coat being brushed",
+        "caption": "Coat care is a big part of Irish Setter ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/irish-setter-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_6a616634-e6ba-46a2-95f4-35ea7c48dab5.png?v=1777528590",
+        "alt": "Irish Setter puppy",
+        "caption": "Bringing home a Irish Setter puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/irish-setter-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Buyers who insist on CLAD and PRA DNA test documentation from both parents"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Irish Setters need 90–120 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You have a small apartment without nearby outdoor space — at 60–70 lbs, Irish Setters need room to stretch and a routine of off-property exercise",
         "Low-activity households or anyone who cannot commit to daily vigorous exercise",
         "People who want a calm, settled dog within the first two years",
         "Anyone buying from a breeder without CLAD DNA test documentation",

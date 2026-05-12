@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_a60f565f-a722-48f7-9ce6-2274f423474b.png?v=1777573297",
       "alt": "Bearded Collie"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_2e5f616e-547d-43f3-973e-c50bff0cdbd8.png?v=1777573251",
+        "alt": "Bearded Collie at home with owner",
+        "caption": "Life with a Bearded Collie — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/bearded-collie-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_95e5ff26-efe0-4c26-842d-8a756802f551.png?v=1777573269",
+        "alt": "Bearded Collie coat being brushed",
+        "caption": "Coat care is a big part of Bearded Collie ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/bearded-collie-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_416b6903-074b-41d9-bb30-1472c662287f.png?v=1777573263",
+        "alt": "Bearded Collie puppy",
+        "caption": "Bringing home a Bearded Collie puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/bearded-collie-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "Are interested in dog sports or activities"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Bearded Collies need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Bearded Collie coats matt fast without consistent care",
         "You work long hours and would leave the dog alone most of the day",
         "You prefer a low-maintenance coat",
         "You live in a small apartment without nearby outdoor space",

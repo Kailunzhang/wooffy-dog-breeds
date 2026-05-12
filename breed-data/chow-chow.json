@@ -18,7 +18,7 @@
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Chow Chows are dignified, deeply loyal to their family, and fundamentally indifferent to everyone else. They are territorial, independent, and require an owner who genuinely understands what a cat-like dog in a bear-sized body actually demands.",
-    "meta_description": "Chow Chow breed guide: aloof temperament, territorial instincts, entropion and health conditions, grooming the double coat, and whether a Chow Chow fits your household."
+    "meta_description": "Chow Chow breed guide: aloof temperament, territorial instincts, entropion and health conditions, grooming the double coat, and whether a Chow Chow fits..."
   },
   "stats": {
     "size": {
@@ -66,7 +66,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_ac8c33b0-b761-466f-8738-bf5e3bf03981.png?v=1777527027",
       "alt": "Chow Chow"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_474f3127-c41c-400d-a9af-95b789cab9fa.png?v=1777527023",
+        "alt": "Chow Chow at home with owner",
+        "caption": "Life with a Chow Chow — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/chow-chow-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_643a450a-f3e7-441c-9b64-e0f1b807e88e.png?v=1777527019",
+        "alt": "Chow Chow coat being brushed",
+        "caption": "Coat care is a big part of Chow Chow ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/chow-chow-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_d78e47bf-4f7f-4f57-8b8c-a5c43d51f4b1.png?v=1777527015",
+        "alt": "Chow Chow puppy",
+        "caption": "Bringing home a Chow Chow puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/chow-chow-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -115,6 +141,8 @@
         "People who appreciate a dog that bonds deeply with family but isn't performatively friendly"
       ],
       "not_fit": [
+        "This is your first dog — Chow Chows frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
+        "You travel often or have unpredictable hours — Chow Chows do best with consistent 45–60 min of daily exercise from the same handler",
         "First-time large dog owners — this is a genuinely not-recommended combination",
         "Households expecting a friendly, sociable dog with guests",
         "Busy households with inconsistent structure or unpredictable schedules",

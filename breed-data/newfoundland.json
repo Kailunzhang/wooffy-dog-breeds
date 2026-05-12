@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "The Newfoundland deserves its 'gentle giant' reputation — these are patient, devoted, calm dogs that are genuinely excellent with children. They also drool extensively, have serious cardiac health concerns that require testing, and cost significantly to own at giant breed scale.",
-    "meta_description": "Newfoundland breed guide: gentle giant temperament, water rescue instinct, SAS cardiac screening requirements, cystinuria DNA test, drool management, and honest cost of ownership."
+    "meta_description": "Newfoundland breed guide: gentle giant temperament, water rescue instinct, SAS cardiac screening requirements, cystinuria DNA test, drool management, and..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2df2100d-21f8-4b66-a01b-43637344ae88.png?v=1777529958",
       "alt": "Newfoundland dog"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_1863a979-79f2-4de4-8b30-764a6069f72b.png?v=1777529949",
+        "alt": "Newfoundland at home with owner",
+        "caption": "Life with a Newfoundland — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/newfoundland-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_cb6629de-9387-4ae6-bae2-f66f521863d6.png?v=1777529953",
+        "alt": "Newfoundland coat being brushed",
+        "caption": "Coat care is a big part of Newfoundland ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/newfoundland-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_480cc8f5-1517-4bd2-99a5-d64a3b0a1a2c.png?v=1777529946",
+        "alt": "Newfoundland puppy",
+        "caption": "Bringing home a Newfoundland puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/newfoundland-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners who want an easy-to-train large breed without the independence challenges of guardian breeds"
       ],
       "not_fit": [
+        "You live in a small apartment, studio, or rental with weight limits — Newfoundlands reach 100–150 lbs and many leases cap dogs at 25-50 lbs",
+        "You're on a tight budget — Newfoundlands cost $100-180/month in food alone, and giant-breed health risks (bloat, hip dysplasia, joint surgery) commonly run $5,000-15,000 in lifetime emergency vet care",
         "Anyone strongly bothered by drool — it is constant and unavoidable in this breed",
         "Hot climate households without strong indoor cooling management",
         "Owners not prepared for the 9–10 year lifespan and associated grief",

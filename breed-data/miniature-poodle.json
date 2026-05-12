@@ -16,7 +16,7 @@
     "published": true,
     "published_at": "2026-04-14T01:00:00Z",
     "excerpt": "The Miniature Poodle is one of the most intelligent breeds alive, packed into a 10–15 pound body that's light on shedding and heavy on personality. If you want a trainable, engaging companion who can learn virtually anything you teach them, this is your breed — just go in knowing the grooming costs are real and ongoing.",
-    "meta_description": "Miniature Poodle owner's guide: intelligence, trainability, grooming costs, health issues, exercise needs, and whether this versatile small breed fits your lifestyle."
+    "meta_description": "Miniature Poodle owner's guide: intelligence, trainability, grooming costs, health issues, exercise needs, and whether this versatile small breed fits your..."
   },
   "stats": {
     "size": {
@@ -64,7 +64,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_0f877e02-3d14-46b5-90ab-7bb42e39a610.png?v=1777529800",
       "alt": "Miniature Poodle"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_c170677c-35b1-4231-b9ed-b646de8b7246.png?v=1777529805",
+        "alt": "Miniature Poodle at home with owner",
+        "caption": "Life with a Miniature Poodle — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/miniature-poodle-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_3f2f424e-0e0c-4a2a-a99f-adf68da06927.png?v=1777529794",
+        "alt": "Miniature Poodle coat being brushed",
+        "caption": "Coat care is a big part of Miniature Poodle ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/miniature-poodle-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9727bc3a-6e2a-4e39-be7b-a6011163c338.png?v=1777529808",
+        "alt": "Miniature Poodle puppy",
+        "caption": "Bringing home a Miniature Poodle puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/miniature-poodle-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -113,6 +139,8 @@
         "Apartment or house — they adapt to any space with adequate exercise"
       ],
       "not_fit": [
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Miniature Poodle coats matt fast without consistent care",
+        "You're frequently away 8+ hours and can't arrange a midday dog walker or daycare — Miniature Poodles bond intensely and are documented to develop separation anxiety more often than average",
         "Not prepared for recurring professional grooming every 6–8 weeks",
         "Want a low-maintenance, low-engagement dog",
         "Away from home 8+ hours daily — they need interaction",

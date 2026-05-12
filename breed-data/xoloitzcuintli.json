@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "The Xoloitzcuintli — also called the Mexican Hairless Dog or simply \"Xolo\" — is an ancient, calm, deeply loyal primitive breed that has changed little in thousands of years. Hairless individuals need sunscreen and cold-weather clothing rather than grooming. Three sizes, two coat varieties, one remarkably steady temperament.",
-    "meta_description": "Xoloitzcuintli breed guide: three size varieties, hairless vs coated, ancient breed temperament, skin care requirements, dental quirks of the hairless variety, and health overview."
+    "meta_description": "Xoloitzcuintli breed guide: three size varieties, hairless vs coated, ancient breed temperament, skin care requirements, dental quirks of the hairless..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_5c1815d2-f3f2-4984-92e7-e2bd725cf29c.png?v=1777580215",
       "alt": "Xoloitzcuintli"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_de7d1d55-d0a7-4120-80df-7046d9ac7e10.png?v=1777580211",
+        "alt": "Xoloitzcuintli at home with owner",
+        "caption": "Life with a Xoloitzcuintli — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/xoloitzcuintli-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ec29846b-090b-4e32-9bc7-5ef5ef7c8154.png?v=1777580208",
+        "alt": "Xoloitzcuintli coat being brushed",
+        "caption": "Coat care is a big part of Xoloitzcuintli ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/xoloitzcuintli-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_bb575d3b-25eb-479f-9ccb-807d8755c635.png?v=1777580219",
+        "alt": "Xoloitzcuintli puppy",
+        "caption": "Bringing home a Xoloitzcuintli puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/xoloitzcuintli-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Allergy-sensitive households (hairless variety sheds nothing)"
       ],
       "not_fit": [
+        "You travel often or have unpredictable hours — Xoloitzcuintlis do best with consistent 30–60 min of daily exercise from the same handler",
+        "You have a small apartment without nearby outdoor space — at 10–55 lbs (varies), Xoloitzcuintlis need room to stretch and a routine of off-property exercise",
         "Owners in very cold climates who can't manage hairless dog clothing and warmth needs",
         "Those wanting an immediately friendly, outgoing breed — Xolos are reserved with strangers",
         "Anyone expecting a highly obedient breed that trains like an eager-to-please working dog",

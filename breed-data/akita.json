@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_00170be3-f1e9-467f-b5c3-3e9b48afea0f.png?v=1777525342",
       "alt": "Akita"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_6e8ef3dc-4a7e-4fa9-8b00-db46a462df39.png?v=1777525338",
+        "alt": "Akita at home with owner",
+        "caption": "Life with a Akita — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/akita-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ee0fb262-e35a-4dce-a339-4f487fa0378a.png?v=1777525351",
+        "alt": "Akita coat being brushed",
+        "caption": "Coat care is a big part of Akita ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/akita-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_a5814d1c-391b-4c4a-9fcd-c0d7cfe7f2de.png?v=1777525346",
+        "alt": "Akita puppy",
+        "caption": "Bringing home a Akita puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/akita-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Committed to early and consistent socialization starting from puppyhood"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Akitas need 60–90 min of consistent daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You live in a small apartment, studio, or rental with weight limits — Akitas reach 70–130 lbs and many leases cap dogs at 25-50 lbs",
         "First-time dog owners without prior large-breed experience",
         "Households with multiple dogs, especially same-sex dogs",
         "Owners expecting a dog park-friendly, social breed",

@@ -63,7 +63,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_e3c0700d-6ca9-45fd-92e1-af74cf11084b.png?v=1777525188",
       "alt": "Labrador Retriever"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7c63b60e-550b-4098-8420-ddb6dd4d1460.png?v=1777525201",
+        "alt": "Labrador Retriever at home with owner",
+        "caption": "Life with a Labrador Retriever — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/labrador-retriever-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_efa5744d-5005-4fc1-82b0-7ff901cc3761.png?v=1777525192",
+        "alt": "Labrador Retriever coat being brushed",
+        "caption": "Coat care is a big part of Labrador Retriever ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/labrador-retriever-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_c3b2bba6-bb63-4c29-977c-04d5e38fd98b.png?v=1777525196",
+        "alt": "Labrador Retriever puppy",
+        "caption": "Bringing home a Labrador Retriever puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/labrador-retriever-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -112,6 +138,8 @@
         "Willing to enforce strict food portions — Labs will become obese otherwise"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Labrador Retrievers need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You're frequently away 8+ hours and can't arrange a midday dog walker or daycare — Labrador Retrievers bond intensely and are documented to develop separation anxiety more often than average",
         "Work 8+ hours daily without a dog walker or daycare plan",
         "Want a calm, low-energy companion dog",
         "Not prepared for heavy shedding on furniture, clothing, and everywhere else",

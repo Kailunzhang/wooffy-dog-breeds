@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "Collies are one of the most family-friendly large breeds — loyal, sensitive, patient with children, and strikingly beautiful. They're also heavy shedders with a coat that demands daily attention and a critical DNA test (CEA) that every buyer must ask for.",
-    "meta_description": "Rough Collie breed guide: temperament with families and children, grooming the heavy double coat, Collie Eye Anomaly and MDR1 drug sensitivity, and what ownership really requires."
+    "meta_description": "Rough Collie breed guide: temperament with families and children, grooming the heavy double coat, Collie Eye Anomaly and MDR1 drug sensitivity, and what..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_1e0b7705-cffc-4eb2-b5b2-6beecc042d75.png?v=1777527191",
       "alt": "Rough Collie"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_a27d6335-361b-49c3-8f64-3d8435ecbf34.png?v=1777527195",
+        "alt": "Collie (Rough Collie) at home with owner",
+        "caption": "Life with a Collie (Rough Collie) — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/collie-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_cfaeb703-e301-4c31-810b-d3e7c267396e.png?v=1777527180",
+        "alt": "Collie (Rough Collie) coat being brushed",
+        "caption": "Coat care is a big part of Collie (Rough Collie) ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/collie-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_73b173b0-fc1d-4010-b281-2c871c38e70f.png?v=1777527185",
+        "alt": "Collie (Rough Collie) puppy",
+        "caption": "Bringing home a Collie (Rough Collie) puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/collie-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "First-time large-breed owners who have realistic expectations about coat maintenance"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Collie (Rough Collie)s need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Collie (Rough Collie) coats matt fast without consistent care",
         "Anyone unwilling to brush 3–4 times per week and manage heavy seasonal shedding",
         "Households wanting a low-maintenance coat",
         "Owners who cannot verify CEA DNA test results from the breeder",

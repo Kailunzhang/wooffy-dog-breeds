@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-19T16:00:00Z",
     "excerpt": "Standard Poodles are among the smartest, most versatile breeds available — non-shedding, athletic, deeply loyal, and excellent with families. Addison's disease, bloat, and mandatory professional grooming are the real considerations going in.",
-    "meta_description": "Standard Poodle breed guide: intelligence and training, Addison's disease awareness, bloat and gastropexy, Sebaceous Adenitis, professional grooming requirements, and first-year costs."
+    "meta_description": "Standard Poodle breed guide: intelligence and training, Addison's disease awareness, bloat and gastropexy, Sebaceous Adenitis, professional grooming..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_e07879b9-c778-416b-b2d0-675e3d174f57.png?v=1777531939",
       "alt": "Standard Poodle"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_56800c94-3ed2-4f8f-9134-b9de2cc9ac35.png?v=1777531956",
+        "alt": "Standard Poodle at home with owner",
+        "caption": "Life with a Standard Poodle — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/standard-poodle-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_7797e443-55b7-401d-8ef6-ee4a50d38415.png?v=1777531951",
+        "alt": "Standard Poodle coat being brushed",
+        "caption": "Coat care is a big part of Standard Poodle ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/standard-poodle-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_4a644985-603a-47ed-99c7-a2ef80c26cb5.png?v=1777531960",
+        "alt": "Standard Poodle puppy",
+        "caption": "Bringing home a Standard Poodle puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/standard-poodle-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Anyone willing to budget for and commit to professional grooming every 6–8 weeks"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Standard Poodles need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You're frequently away 8+ hours and can't arrange a midday dog walker or daycare — Standard Poodles bond intensely and are documented to develop separation anxiety more often than average",
         "Owners who want a low-energy, low-activity companion",
         "Anyone unwilling to pay for or learn professional-level grooming — no grooming means severe matting",
         "Owners not prepared for the grooming cost as a permanent annual budget item"

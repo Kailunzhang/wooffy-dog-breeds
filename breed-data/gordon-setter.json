@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "Gordon Setters are the heaviest, most family-oriented of the setter breeds — loyal, steady, and serious about their work. They mature slowly, need consistent exercise, and carry real bloat risk. Less flashy than Irish Setters, more devoted to their people.",
-    "meta_description": "Gordon Setter breed guide: temperament compared to other setters, bloat/GDV risk, health conditions, grooming the black-and-tan coat, and what to expect from this loyal sporting breed."
+    "meta_description": "Gordon Setter breed guide: temperament compared to other setters, bloat/GDV risk, health conditions, grooming the black-and-tan coat, and what to expect..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_e67ac4d3-5ec9-4dee-9785-563e9cfe85ef.png?v=1777528195",
       "alt": "Gordon Setter"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_cbe447b8-08a9-4649-9643-d7f0d661bb61.png?v=1777528199",
+        "alt": "Gordon Setter at home with owner",
+        "caption": "Life with a Gordon Setter — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/gordon-setter-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_0ecdabae-1ec4-4afb-a7ce-ac6a4a0bf622.png?v=1777528191",
+        "alt": "Gordon Setter coat being brushed",
+        "caption": "Coat care is a big part of Gordon Setter ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/gordon-setter-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3563d2c1-070d-4ac8-9966-2372badd3b05.png?v=1777528203",
+        "alt": "Gordon Setter puppy",
+        "caption": "Bringing home a Gordon Setter puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/gordon-setter-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners prepared to be patient through slow adolescent maturation"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Gordon Setters need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You have a small apartment without nearby outdoor space — at 45–80 lbs, Gordon Setters need room to stretch and a routine of off-property exercise",
         "Apartment dwellers or owners who can only provide short walks",
         "Owners wanting an immediately biddable, fast-maturing dog",
         "Anyone who isn't prepared for bloat/GDV risk and hasn't discussed gastropexy with their vet",

@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "Shelties are among the most intelligent and trainable dogs available. They're devoted to their family and genuinely beautiful. The trade-off is significant barking — a breed-deep tendency that is the number one reason Shelties are surrendered. If you can't live with a vocal dog, look elsewhere.",
-    "meta_description": "Shetland Sheepdog breed guide: managing the barking tendency, CEA and MDR1 health testing, heavy coat grooming requirements, and temperament with families and strangers."
+    "meta_description": "Shetland Sheepdog breed guide: managing the barking tendency, CEA and MDR1 health testing, heavy coat grooming requirements, and temperament with families..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_54f31fe1-6f11-4924-a799-fd53815b76f7.png?v=1777531450",
       "alt": "Shetland Sheepdog"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_c5e928de-51e4-464b-b609-756c3e74d97a.png?v=1777531462",
+        "alt": "Shetland Sheepdog at home with owner",
+        "caption": "Life with a Shetland Sheepdog — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/shetland-sheepdog-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_f24d2a67-1ffd-4fb5-90ef-e8720f770823.png?v=1777531454",
+        "alt": "Shetland Sheepdog coat being brushed",
+        "caption": "Coat care is a big part of Shetland Sheepdog ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/shetland-sheepdog-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_46e60639-83f4-4656-b317-2f0d19841495.png?v=1777531458",
+        "alt": "Shetland Sheepdog puppy",
+        "caption": "Bringing home a Shetland Sheepdog puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/shetland-sheepdog-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Those who want a loyal, devoted companion with genuine intelligence"
       ],
       "not_fit": [
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Shetland Sheepdog coats matt fast without consistent care",
+        "You travel often or have unpredictable hours — Shetland Sheepdogs do best with consistent 45–60 min of daily exercise from the same handler",
         "Apartment dwellers with noise-sensitive neighbors",
         "Households where quiet is important (young sleeping babies, home office)",
         "Owners who expect to train the barking away completely — this won't happen",

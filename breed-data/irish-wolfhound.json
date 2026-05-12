@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Irish Wolfhounds are the tallest dogs in the world — gentle, calm, and deeply devoted. They also live 6–8 years, carry a very high bloat risk that makes gastropexy standard care, and have meaningful cardiac disease rates. Choosing an Irish Wolfhound means choosing a shorter timeline with a very large heart.",
-    "meta_description": "Irish Wolfhound breed guide: gentle giant temperament, 6–8 year lifespan reality, bloat/GDV risk and gastropexy, DCM cardiac screening, osteosarcoma, and what the off-leash rule means for a sighthound this size."
+    "meta_description": "Irish Wolfhound breed guide: gentle giant temperament, 6–8 year lifespan reality, bloat/GDV risk and gastropexy, DCM cardiac screening, osteosarcoma, and..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_3d58dedd-8ebc-466e-9a01-d5594a4ba4cc.png?v=1777528693",
       "alt": "Irish Wolfhound"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_2bc05047-9e89-42d7-b138-d38208277f2d.png?v=1777528697",
+        "alt": "Irish Wolfhound at home with owner",
+        "caption": "Life with a Irish Wolfhound — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/irish-wolfhound-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_7a759a87-36cc-4392-93a8-af1660046925.png?v=1777528689",
+        "alt": "Irish Wolfhound coat being brushed",
+        "caption": "Coat care is a big part of Irish Wolfhound ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/irish-wolfhound-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3076f48e-d5ba-4da3-9a2f-17ed49790aaf.png?v=1777528685",
+        "alt": "Irish Wolfhound puppy",
+        "caption": "Bringing home a Irish Wolfhound puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/irish-wolfhound-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "People drawn to a breed with extraordinary presence and quiet, devoted temperament"
       ],
       "not_fit": [
+        "You live in a small apartment, studio, or rental with weight limits — Irish Wolfhounds reach 105–180+ lbs and many leases cap dogs at 25-50 lbs",
+        "You're on a tight budget — Irish Wolfhounds cost $100-180/month in food alone, and giant-breed health risks (bloat, hip dysplasia, joint surgery) commonly run $5,000-15,000 in lifetime emergency vet care",
         "Anyone expecting a 10–15 year companion — the grief will come sooner than anticipated",
         "Owners without secure fencing — off-leash is never safe for a sighthound",
         "Households with cats or very small dogs (prey drive applies)",

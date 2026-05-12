@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Irish Water Spaniels are clownish, high-energy, and excellent in the water — one of the largest and most distinctive spaniel breeds. The curly liver coat sheds very little but requires regular trimming to prevent matting. A drug sensitivity issue affecting the breed warrants attention before any veterinary procedures.",
-    "meta_description": "Irish Water Spaniel breed guide: the clownish personality, curly coat grooming requirements, critical drug sensitivity, hip dysplasia, and what distinguishes this large spaniel from other retrieving breeds."
+    "meta_description": "Irish Water Spaniel breed guide: the clownish personality, curly coat grooming requirements, critical drug sensitivity, hip dysplasia, and what..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_76ea5106-cd7e-4fff-ba6b-ae171655f167.png?v=1777528642",
       "alt": "Irish Water Spaniel"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_dfd0cda5-a8d3-4390-a68f-caf3fd1bec4f.png?v=1777528633",
+        "alt": "Irish Water Spaniel at home with owner",
+        "caption": "Life with a Irish Water Spaniel — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/irish-water-spaniel-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_8c5da6b5-da35-4b5f-bc6a-7809d5d526e1.png?v=1777528646",
+        "alt": "Irish Water Spaniel coat being brushed",
+        "caption": "Coat care is a big part of Irish Water Spaniel ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/irish-water-spaniel-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_44fb6306-1333-406c-8d9f-2d864be6c096.png?v=1777528638",
+        "alt": "Irish Water Spaniel puppy",
+        "caption": "Bringing home a Irish Water Spaniel puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/irish-water-spaniel-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Those prepared to alert every vet to breed-specific drug sensitivity"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Irish Water Spaniels need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You have a small apartment without nearby outdoor space — at 45–68 lbs, Irish Water Spaniels need room to stretch and a routine of off-property exercise",
         "Owners who cannot provide significant daily exercise",
         "Those who want a lower-maintenance coat without regular trimming",
         "Households that prefer a calm, laid-back companion dog",

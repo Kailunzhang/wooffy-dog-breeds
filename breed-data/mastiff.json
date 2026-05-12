@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Mastiffs can exceed 200 lbs and have a calm, devoted temperament that belies their enormous size. They're gentle with their family and surprisingly low-energy indoors. The practical realities: significant drool, giant-breed health costs, a 6–10 year lifespan, and a dog that will drape itself across your couch permanently.",
-    "meta_description": "Mastiff breed guide: gentle giant temperament, drool management, giant-breed health costs, lifespan expectations, and what everyday life with the world's heaviest dog breed looks like."
+    "meta_description": "Mastiff breed guide: gentle giant temperament, drool management, giant-breed health costs, lifespan expectations, and what everyday life with the world's..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_df994855-2566-4a4e-90cb-78167f14a989.png?v=1777529688",
       "alt": "Mastiff (English Mastiff)"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_551b9b2f-40d6-4718-9bc7-6a1d1b47271d.png?v=1777529679",
+        "alt": "Mastiff at home with owner",
+        "caption": "Life with a Mastiff — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/mastiff-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ea2c7a4f-d91e-48ff-b352-001565d8dc3b.png?v=1777529694",
+        "alt": "Mastiff coat being brushed",
+        "caption": "Coat care is a big part of Mastiff ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/mastiff-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_2f7f58f8-d29d-4f26-81c2-4482ba0a0b54.png?v=1777529683",
+        "alt": "Mastiff puppy",
+        "caption": "Bringing home a Mastiff puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/mastiff-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Those who value a natural guardian presence without aggression training"
       ],
       "not_fit": [
+        "You live in a small apartment, studio, or rental with weight limits — Mastiffs reach 120–230+ lbs and many leases cap dogs at 25-50 lbs",
+        "You're on a tight budget — Mastiffs cost $100-180/month in food alone, and giant-breed health risks (bloat, hip dysplasia, joint surgery) commonly run $5,000-15,000 in lifetime emergency vet care",
         "Anyone with strong aversion to drool — it is constant and significant",
         "Small living spaces — a 200-lb dog needs room",
         "Owners on tight budgets — giant-breed food and vet costs are substantial",

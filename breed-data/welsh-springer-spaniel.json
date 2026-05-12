@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Welsh Springer Spaniels are affectionate, family-oriented, and less hyperactive than English Springers — making them a good fit for active households that want a calmer-natured spaniel. They can be noticeably reserved with strangers, which is unusual for the spaniel type and worth knowing beforehand.",
-    "meta_description": "Welsh Springer Spaniel breed guide: the devoted family temperament, reserved behavior with strangers, silky red-and-white coat grooming, and key health concerns including PRA, glaucoma, and epilepsy."
+    "meta_description": "Welsh Springer Spaniel breed guide: the devoted family temperament, reserved behavior with strangers, silky red-and-white coat grooming, and key health..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_76c85f40-a2d6-41be-9490-18a78f48a936.png?v=1777532194",
       "alt": "Welsh Springer Spaniel"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_22702470-5e47-4698-9bf2-5655c02a37e4.png?v=1777532190",
+        "alt": "Welsh Springer Spaniel at home with owner",
+        "caption": "Life with a Welsh Springer Spaniel — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/welsh-springer-spaniel-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_bbc87f1b-f503-4c0f-adda-b0f684deab76.png?v=1777532186",
+        "alt": "Welsh Springer Spaniel coat being brushed",
+        "caption": "Coat care is a big part of Welsh Springer Spaniel ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/welsh-springer-spaniel-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_cb7b4166-a705-4063-9493-44edaa169f78.png?v=1777532182",
+        "alt": "Welsh Springer Spaniel puppy",
+        "caption": "Bringing home a Welsh Springer Spaniel puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/welsh-springer-spaniel-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Beginner or experienced owners using positive training methods"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Welsh Springer Spaniels need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You have a small apartment without nearby outdoor space — at 35–55 lbs, Welsh Springer Spaniels need room to stretch and a routine of off-property exercise",
         "Owners who want a dog that's immediately social and outgoing with all strangers",
         "Sedentary households — this breed needs real daily exercise",
         "Those who neglect ear care and regular grooming"

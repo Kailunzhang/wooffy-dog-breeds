@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "Giant Schnauzers are not oversized house pets — they are working dogs with strong guarding instincts, dominant personalities, and high intelligence. They thrive under confident, experienced handling and fall apart under passive ownership.",
-    "meta_description": "Giant Schnauzer breed guide: dominant temperament, guarding instincts, exercise and training requirements, health conditions, and whether a Giant Schnauzer fits your household."
+    "meta_description": "Giant Schnauzer breed guide: dominant temperament, guarding instincts, exercise and training requirements, health conditions, and whether a Giant Schnauzer..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_07f1748f-a5b8-4038-8928-d5ccf51aae2d.png?v=1777574913",
       "alt": "Giant Schnauzer"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_bd2d7b4b-4f13-49aa-a768-ea314626b984.png?v=1777574921",
+        "alt": "Giant Schnauzer at home with owner",
+        "caption": "Life with a Giant Schnauzer — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/giant-schnauzer-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_93436f67-316a-40d2-ae74-12534d549e07.png?v=1777574917",
+        "alt": "Giant Schnauzer coat being brushed",
+        "caption": "Coat care is a big part of Giant Schnauzer ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/giant-schnauzer-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_1e9584fa-53fd-4218-85f4-ee9d053123e4.png?v=1777574927",
+        "alt": "Giant Schnauzer puppy",
+        "caption": "Bringing home a Giant Schnauzer puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/giant-schnauzer-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "People interested in dog sports: protection work, competitive obedience, Schutzhund/IPO"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Giant Schnauzers need 90–120 min of consistent daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "This is your first dog — Giant Schnauzers frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "First-time dog owners or those without large-breed working dog experience",
         "Passive owners who want a low-maintenance or easy-going companion",
         "Households that cannot provide vigorous daily exercise",

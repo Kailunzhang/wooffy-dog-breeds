@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "The Great Pyrenees is a majestic, intelligent livestock guardian that has been making its own decisions for centuries. That independence is real, the barking at night is real, and the fence requirement is non-negotiable. Understand the breed before you fall for the white coat.",
-    "meta_description": "Great Pyrenees breed guide: temperament, independence, nocturnal barking, fencing requirements, health conditions including Addison's disease, and honest ownership expectations."
+    "meta_description": "Great Pyrenees breed guide: temperament, independence, nocturnal barking, fencing requirements, health conditions including Addison's disease, and honest..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_fc60fab5-341d-4502-b606-b0f3110699a2.png?v=1777528307",
       "alt": "Great Pyrenees"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_877259ac-3123-45e6-bb79-1eba9701c329.png?v=1777528302",
+        "alt": "Great Pyrenees at home with owner",
+        "caption": "Life with a Great Pyrenees — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/great-pyrenees-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_528b585a-a83a-471e-8cc5-ec9a1c41e019.png?v=1777528311",
+        "alt": "Great Pyrenees coat being brushed",
+        "caption": "Coat care is a big part of Great Pyrenees ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/great-pyrenees-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_644fb722-4fa1-4b46-92e3-3a827d8ee2f1.png?v=1777528298",
+        "alt": "Great Pyrenees puppy",
+        "caption": "Bringing home a Great Pyrenees puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/great-pyrenees-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "People who value a devoted family guardian over an obedient performance dog"
       ],
       "not_fit": [
+        "You live in a small apartment, studio, or rental with weight limits — Great Pyreneess reach 85–160 lbs and many leases cap dogs at 25-50 lbs",
+        "This is your first dog — Great Pyreneess frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "First-time dog owners who expect reliable off-leash obedience",
         "Households in dense urban settings with close neighbors where barking will create conflict",
         "Owners without a securely fenced yard or unwilling to install one",

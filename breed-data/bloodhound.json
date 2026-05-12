@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "The Bloodhound's tracking ability is unmatched — a scent trail 14 days old, from 130 miles away. That same nose makes off-leash life permanently unsafe. Add in significant drool, weekly mandatory ear cleaning to prevent chronic infections, and a large friendly personality, and you have a very specific ownership experience.",
-    "meta_description": "Bloodhound breed guide: world's best scent tracker, off-leash dangers, mandatory weekly ear cleaning protocol, drool management, bloat risk, hip and elbow dysplasia, and honest ownership expectations."
+    "meta_description": "Bloodhound breed guide: world's best scent tracker, off-leash dangers, mandatory weekly ear cleaning protocol, drool management, bloat risk, hip and elbow..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2cbbc3fb-3072-43db-b2de-37a3f6da0199.png?v=1777526161",
       "alt": "Bloodhound"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0cb8f8a0-206c-4165-9c20-bbf3e69f6203.png?v=1777526165",
+        "alt": "Bloodhound at home with owner",
+        "caption": "Life with a Bloodhound — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/bloodhound-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_1ce707f9-0626-409c-a102-538077c3c368.png?v=1777526153",
+        "alt": "Bloodhound coat being brushed",
+        "caption": "Coat care is a big part of Bloodhound ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/bloodhound-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_aa1835c8-7de1-441d-b40c-cf7b1333a196.png?v=1777526157",
+        "alt": "Bloodhound puppy",
+        "caption": "Bringing home a Bloodhound puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/bloodhound-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Families looking for a gentle, friendly large dog with a good nature toward children"
       ],
       "not_fit": [
+        "You live in a small apartment, studio, or rental with weight limits — Bloodhounds reach 80–110 lbs and many leases cap dogs at 25-50 lbs",
+        "This is your first dog — Bloodhounds frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "Anyone who cannot tolerate drool on surfaces, furniture, and clothing",
         "Owners expecting off-leash freedom outside a secured fence",
         "People unwilling to commit to the weekly ear cleaning protocol",

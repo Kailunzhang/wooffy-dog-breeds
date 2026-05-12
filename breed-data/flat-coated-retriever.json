@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "Flat-Coated Retrievers are joyful, affectionate, and endlessly enthusiastic dogs — the breed is sometimes called the 'Peter Pan of retrievers' for good reason. The honest conversation that must accompany any interest in this breed is the cancer rate: malignant histiocytosis devastates this breed at a rate and age that no prospective owner should be surprised by.",
-    "meta_description": "Flat-Coated Retriever breed guide: the 'forever puppy' personality, exercise needs, cancer risk and malignant histiocytosis in this breed, grooming, and the honest trade-offs of ownership."
+    "meta_description": "Flat-Coated Retriever breed guide: the 'forever puppy' personality, exercise needs, cancer risk and malignant histiocytosis in this breed, grooming, and the..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_e6b0ece5-1f33-4c87-b62f-1200d5279cfe.png?v=1777527794",
       "alt": "Flat-Coated Retriever"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_23b97603-8d4a-4abb-8e99-a99297ce4915.png?v=1777527786",
+        "alt": "Flat-Coated Retriever at home with owner",
+        "caption": "Life with a Flat-Coated Retriever — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/flat-coated-retriever-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_c3afd20a-77e4-4942-938b-cca8443d3901.png?v=1777527782",
+        "alt": "Flat-Coated Retriever coat being brushed",
+        "caption": "Coat care is a big part of Flat-Coated Retriever ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/flat-coated-retriever-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_6a125a81-22d7-445e-8a92-d53a4e73161f.png?v=1777527790",
+        "alt": "Flat-Coated Retriever puppy",
+        "caption": "Bringing home a Flat-Coated Retriever puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/flat-coated-retriever-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners willing to get pet insurance before the first vet visit — no exceptions"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Flat-Coated Retrievers need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You're not prepared for a shorter ~8–10 yrs companionship — owners of larger and giant breeds describe the compressed lifespan as the single hardest trade-off in hindsight",
         "Anyone who hasn't researched and accepted the malignant histiocytosis risk",
         "Households wanting a calm, settled dog — Flat-Coats stay puppy-like for years",
         "Owners who cannot provide vigorous daily exercise",

@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_68c7d042-22bb-46e7-b77a-1088b8ed6656.png?v=1777575060",
       "alt": "Icelandic Sheepdog"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7c263d2e-f305-4366-aaff-1c2691dca7b0.png?v=1777575065",
+        "alt": "Icelandic Sheepdog at home with owner",
+        "caption": "Life with a Icelandic Sheepdog — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/icelandic-sheepdog-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_cecc729c-f791-4d09-8a09-9d9da3ec2ad5.png?v=1777575050",
+        "alt": "Icelandic Sheepdog coat being brushed",
+        "caption": "Coat care is a big part of Icelandic Sheepdog ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/icelandic-sheepdog-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_eea2d50f-0c7f-4416-80d5-58086b67ee8f.png?v=1777575046",
+        "alt": "Icelandic Sheepdog puppy",
+        "caption": "Bringing home a Icelandic Sheepdog puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/icelandic-sheepdog-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -109,6 +135,8 @@
         "It is excellent with children and other dogs"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Icelandic Sheepdogs need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You expect a calm, quiet first 8-12 weeks — Icelandic Sheepdog puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "It is not ideal for sedentary owners, those in small spaces without outdoor access, or people who cannot tolerate significant seasonal shedding and a tendency to bark",
         "Households unable to commit to the breed's daily exercise needs",
         "Owners wanting a low-maintenance or hands-off pet",

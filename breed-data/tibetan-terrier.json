@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-05-03T16:00:00Z",
     "excerpt": "Don't let the name fool you — the Tibetan Terrier has no terrier temperament whatsoever. It's a gentle, devoted companion from the Tibetan monasteries with a long double coat, snowshoe feet, and an alert, sensitive nature that bonds deeply with family.",
-    "meta_description": "Tibetan Terrier breed guide: temperament, grooming the long double coat, health conditions including PRA and lens luxation, and whether this ancient companion breed fits your lifestyle."
+    "meta_description": "Tibetan Terrier breed guide: temperament, grooming the long double coat, health conditions including PRA and lens luxation, and whether this ancient..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_ee41c723-e0c7-4e46-8f2e-52549ba23700.png?v=1777579951",
       "alt": "Tibetan Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_fbed5f33-7991-4d1f-9d77-53f0b2dbb7d5.png?v=1777579946",
+        "alt": "Tibetan Terrier at home with owner",
+        "caption": "Life with a Tibetan Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/tibetan-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_b2406b86-c3fb-47d5-8b82-9b1869776c0c.png?v=1777579931",
+        "alt": "Tibetan Terrier coat being brushed",
+        "caption": "Coat care is a big part of Tibetan Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/tibetan-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_4121b0ca-4a62-4dfc-bf05-9199f917843e.png?v=1777579961",
+        "alt": "Tibetan Terrier puppy",
+        "caption": "Bringing home a Tibetan Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/tibetan-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Those looking for a long-lived companion — 15+ year lifespans are typical"
       ],
       "not_fit": [
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Tibetan Terrier coats matt fast without consistent care",
+        "You travel often or have unpredictable hours — Tibetan Terriers do best with consistent 45–60 min of daily exercise from the same handler",
         "Owners who want a low-maintenance coat — the long double coat requires consistent grooming",
         "Very busy households where the dog would frequently be alone — they bond closely and prefer company",
         "Anyone expecting terrier-style independence or feistiness — this breed is gentle and sensitive",

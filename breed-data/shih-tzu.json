@@ -64,7 +64,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_a345cc25-99a7-41f1-a7aa-0ffab51daac2.png?v=1777531566",
       "alt": "Shih Tzu"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_5370f35a-ec3e-4a05-abe3-0fd5d7f9aa0d.png?v=1777531572",
+        "alt": "Shih Tzu at home with owner",
+        "caption": "Life with a Shih Tzu — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/shih-tzu-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_d5966d26-a9b1-4c8a-8aaa-3271545e64b8.png?v=1777531562",
+        "alt": "Shih Tzu coat being brushed",
+        "caption": "Coat care is a big part of Shih Tzu ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/shih-tzu-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_dfec2479-0f3c-43b0-9c47-f6f9ea074903.png?v=1777531576",
+        "alt": "Shih Tzu puppy",
+        "caption": "Bringing home a Shih Tzu puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/shih-tzu-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -113,6 +139,8 @@
         "Prefer a low-exercise dog with a long potential lifespan"
       ],
       "not_fit": [
+        "You can't budget for unexpected vet bills — flat-faced breeds like the Shih Tzu commonly need $3,000-15,000 in surgical care over their lifetime for breathing (BOAS), eye, or spinal issues, and most pet insurance excludes pre-existing brachycephalic conditions",
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Shih Tzu coats matt fast without consistent care",
         "Don't want to invest time or money in regular grooming",
         "Gone from home most of the day regularly",
         "Live in a very hot or humid climate without climate control",

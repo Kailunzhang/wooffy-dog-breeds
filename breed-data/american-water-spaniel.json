@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "The American Water Spaniel is Wisconsin's state dog and one of the few breeds developed entirely in the United States. They're versatile hunters, enthusiastic family dogs, and genuinely rare. Cardiac monitoring is recommended — Mitral Valve Disease is a real concern in the breed.",
-    "meta_description": "American Water Spaniel breed guide: Midwestern hunting heritage, temperament, Mitral Valve Disease cardiac monitoring, curly coat care, and what makes this rare breed distinctive."
+    "meta_description": "American Water Spaniel breed guide: Midwestern hunting heritage, temperament, Mitral Valve Disease cardiac monitoring, curly coat care, and what makes this..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_8baba605-6623-4593-8920-2e62850129e1.png?v=1777525568",
       "alt": "American Water Spaniel"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_f96f44e3-940e-4b16-a890-10c0f49e4626.png?v=1777525573",
+        "alt": "American Water Spaniel at home with owner",
+        "caption": "Life with a American Water Spaniel — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/american-water-spaniel-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_726c7dee-58e1-4acb-9c8c-0459aef2f5b5.png?v=1777525576",
+        "alt": "American Water Spaniel coat being brushed",
+        "caption": "Coat care is a big part of American Water Spaniel ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/american-water-spaniel-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_f5e2e6f0-ca1b-42fc-b424-a8d624893ff1.png?v=1777525564",
+        "alt": "American Water Spaniel puppy",
+        "caption": "Bringing home a American Water Spaniel puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/american-water-spaniel-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners committed to annual cardiac monitoring as part of routine health care"
       ],
       "not_fit": [
+        "You travel often or have unpredictable hours — American Water Spaniels do best with consistent 60 min of daily exercise from the same handler",
+        "You expect a calm, quiet first 8-12 weeks — American Water Spaniel puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "Owners who can only provide minimal exercise — this is a working sporting dog, not a low-energy companion",
         "Impulsive buyers who want a puppy immediately — quality breeders may have wait lists",
         "Households with cats or small animals without careful introduction management",

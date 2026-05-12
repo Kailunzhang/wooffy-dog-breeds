@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_39ac0dce-1d5c-42db-8ff2-41d1ac7fbd54.png?v=1777580136",
       "alt": "Wire Fox Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_9199035a-ebc0-4530-9656-58b91c702820.png?v=1777580150",
+        "alt": "Wire Fox Terrier at home with owner",
+        "caption": "Life with a Wire Fox Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/wire-fox-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_78ff5855-0e51-4cb9-b07b-e8885fa16b91.png?v=1777580140",
+        "alt": "Wire Fox Terrier coat being brushed",
+        "caption": "Coat care is a big part of Wire Fox Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/wire-fox-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_ca3df7b9-a2f4-4be7-937e-4ab1045fb2f9.png?v=1777580146",
+        "alt": "Wire Fox Terrier puppy",
+        "caption": "Bringing home a Wire Fox Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/wire-fox-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "Owners who have researched the breed and understand its temperament"
       ],
       "not_fit": [
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Wire Fox Terrier coats matt fast without consistent care",
+        "You expect a calm, quiet first 8-12 weeks — Wire Fox Terrier puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "is not well-suited to apartment living without exceptional dedication to daily exercise, households with cats or small animals, or owners who want a calm, easily managed pet",
         "The Wire Fox Terrier's energy level, prey drive, and potential dog-to-dog issues require an experienced, committed handler",
         "But for the right owner, it is one of the most rewarding breeds in existence"

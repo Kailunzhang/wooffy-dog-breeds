@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-19T16:00:00Z",
     "excerpt": "Bulldogs are gentle, devoted, and calm indoors. They are also the most medically complex common breed — BOAS surgery is the rule rather than the exception, daily skin fold cleaning is non-negotiable, and heat above 70°F is a genuine emergency risk. Know this going in.",
-    "meta_description": "Bulldog breed guide: BOAS surgery reality, daily skin fold and tail pocket cleaning, heat emergency prevention, hip dysplasia, and what the real annual costs look like for responsible ownership."
+    "meta_description": "Bulldog breed guide: BOAS surgery reality, daily skin fold and tail pocket cleaning, heat emergency prevention, hip dysplasia, and what the real annual..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_e7a6da94-7077-4311-be34-3f0a12b7c663.png?v=1777526623",
       "alt": "English Bulldog"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7c8a2a6c-4dc2-4af7-95db-8b521325b7cc.png?v=1777526632",
+        "alt": "Bulldog at home with owner",
+        "caption": "Life with a Bulldog — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/bulldog-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_f14dc488-246c-4fb5-bc6b-a5733de91395.png?v=1777526620",
+        "alt": "Bulldog coat being brushed",
+        "caption": "Coat care is a big part of Bulldog ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/bulldog-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_f51d76bc-d770-4c99-842e-84f91a4533b9.png?v=1777526627",
+        "alt": "Bulldog puppy",
+        "caption": "Bringing home a Bulldog puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/bulldog-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Families with children — Bulldogs are wonderfully patient with kids"
       ],
       "not_fit": [
+        "You can't budget for unexpected vet bills — flat-faced breeds like the Bulldog commonly need $3,000-15,000 in surgical care over their lifetime for breathing (BOAS), eye, or spinal issues, and most pet insurance excludes pre-existing brachycephalic conditions",
+        "You're not prepared for a shorter ~8–10 yrs companionship — owners of larger and giant breeds describe the compressed lifespan as the single hardest trade-off in hindsight",
         "Anyone in a warm climate without AC, or who plans to keep the dog outside",
         "Owners with limited health care budget — Bulldogs are one of the most expensive breeds to own responsibly",
         "Active owners wanting an exercise partner",

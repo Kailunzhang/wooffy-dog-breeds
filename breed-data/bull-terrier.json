@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Bull Terriers have a completely unique appearance, an even more unique personality, and a DNA test that every buyer needs to see before purchasing. They're endearing, determined, and not for owners who want easy compliance.",
-    "meta_description": "Bull Terrier breed guide: unique egg-shaped head, stubborn but loyal personality, hereditary nephritis DNA test, deafness risk in white dogs, and real ownership expectations."
+    "meta_description": "Bull Terrier breed guide: unique egg-shaped head, stubborn but loyal personality, hereditary nephritis DNA test, deafness risk in white dogs, and real..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_99652124-ae2f-4aa1-91b9-8f1e9593eac3.png?v=1777526572",
       "alt": "Bull Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_44361309-4d3b-4dc4-8b1c-e13564d7af43.png?v=1777526564",
+        "alt": "Bull Terrier at home with owner",
+        "caption": "Life with a Bull Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/bull-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_97e20d92-69d3-4b9a-b35d-a24d80de0cc7.png?v=1777526568",
+        "alt": "Bull Terrier coat being brushed",
+        "caption": "Coat care is a big part of Bull Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/bull-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9949d5b0-463a-40ba-863c-fb234445afe5.png?v=1777526557",
+        "alt": "Bull Terrier puppy",
+        "caption": "Bringing home a Bull Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/bull-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Those who verify HN DNA test results and all health clearances before purchasing"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Bull Terriers need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "This is your first dog — Bull Terriers frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "First-time dog owners expecting easy compliance",
         "Multi-pet households (especially with small animals or same-sex dogs) without experience managing dog-selective breeds",
         "Households where the dog will be alone for extended periods",

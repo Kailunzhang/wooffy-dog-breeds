@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_87faacf7-eb42-42f9-ae80-14ce308896ad.png?v=1777575831",
       "alt": "Norfolk Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_9c292af4-374d-498b-ab54-ed6e09f20d70.png?v=1777575827",
+        "alt": "Norfolk Terrier at home with owner",
+        "caption": "Life with a Norfolk Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/norfolk-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_49439493-a618-4c60-a708-30860e556c0a.png?v=1777575823",
+        "alt": "Norfolk Terrier coat being brushed",
+        "caption": "Coat care is a big part of Norfolk Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/norfolk-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_776d9cba-bf5a-4ebd-8198-40528bf4e223.png?v=1777575838",
+        "alt": "Norfolk Terrier puppy",
+        "caption": "Bringing home a Norfolk Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/norfolk-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "Its dog-friendly nature makes it one of the more versatile terriers for multi-dog households"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Norfolk Terriers need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You expect a calm, quiet first 8-12 weeks — Norfolk Terrier puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "It is not ideal for homes with birds, hamsters, or other small pets given its prey drive",
         "Owners who want a calm, quiet lap dog will be surprised by the Norfolk's energy and vocal alertness",
         "But for the right owner, it offers a long, rewarding, and entertaining relationship"

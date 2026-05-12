@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "AmStaffs are strong, athletic, and devoted family dogs with a genuinely joyful nature. The practical realities: check breed-specific legislation in your municipality before purchasing, and understand what early socialization actually requires for a breed-selective breed.",
-    "meta_description": "American Staffordshire Terrier breed guide: real temperament, BSL legislation awareness, health screening, training approach, and what daily life with an AmStaff looks like."
+    "meta_description": "American Staffordshire Terrier breed guide: real temperament, BSL legislation awareness, health screening, training approach, and what daily life with an..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_155894d8-4a86-4e12-97fb-f6859073cff9.png?v=1777525512",
       "alt": "American Staffordshire Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_88ced3b6-9285-4c16-8f92-ebfe15a452ab.png?v=1777525517",
+        "alt": "American Staffordshire Terrier at home with owner",
+        "caption": "Life with a American Staffordshire Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/american-staffordshire-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ec9dfda1-e6fb-4fcf-af3c-bc08ed6e8132.png?v=1777525507",
+        "alt": "American Staffordshire Terrier coat being brushed",
+        "caption": "Coat care is a big part of American Staffordshire Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/american-staffordshire-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_ed231c43-3909-4f9d-92c0-f42efeba6f06.png?v=1777525503",
+        "alt": "American Staffordshire Terrier puppy",
+        "caption": "Bringing home a American Staffordshire Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/american-staffordshire-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Those who want a trainable, people-loving breed with low grooming needs"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — American Staffordshire Terriers need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You have a small apartment without nearby outdoor space — at 40–70 lbs, American Staffordshire Terriers need room to stretch and a routine of off-property exercise",
         "Anyone in a BSL-affected municipality, rental with breed restrictions, or HOA with exclusions",
         "Multi-dog households without experience managing dog-selective breeds",
         "First-time dog owners without access to experienced training support",

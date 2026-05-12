@@ -18,7 +18,7 @@
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "The Clumber Spaniel is the calmest and heaviest spaniel — thoughtful, loyal, and less frenetic than Cockers or Springers. They shed heavily and require eye and ear care. A good choice for spaniel fans who want a more manageable energy level.",
-    "meta_description": "Clumber Spaniel breed guide: calm temperament, heavy shedding management, hip dysplasia prevalence, eye and ear health requirements, hypothyroidism risk, and honest ownership expectations."
+    "meta_description": "Clumber Spaniel breed guide: calm temperament, heavy shedding management, hip dysplasia prevalence, eye and ear health requirements, hypothyroidism risk,..."
   },
   "stats": {
     "size": {
@@ -66,7 +66,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_6c699628-770e-47ab-b611-fb62f341aa7d.png?v=1777527066",
       "alt": "Clumber Spaniel"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_d5810c55-fd3e-4d7e-a457-71683669c426.png?v=1777527070",
+        "alt": "Clumber Spaniel at home with owner",
+        "caption": "Life with a Clumber Spaniel — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/clumber-spaniel-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_b1217ba3-385d-4535-a293-52af132693e0.png?v=1777527078",
+        "alt": "Clumber Spaniel coat being brushed",
+        "caption": "Coat care is a big part of Clumber Spaniel ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/clumber-spaniel-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_c0dd057a-720e-4af8-b662-a1c5ac8a34fc.png?v=1777527074",
+        "alt": "Clumber Spaniel puppy",
+        "caption": "Bringing home a Clumber Spaniel puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/clumber-spaniel-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -115,6 +141,8 @@
         "Anyone willing to commit to daily eye and ear maintenance"
       ],
       "not_fit": [
+        "You travel often or have unpredictable hours — Clumber Spaniels do best with consistent 30–60 min of daily exercise from the same handler",
+        "You have a small apartment without nearby outdoor space — at 55–85 lbs, Clumber Spaniels need room to stretch and a routine of off-property exercise",
         "Hot climate households without reliable air conditioning and shaded outdoor space",
         "Anyone who cannot accept significant white fur on all surfaces",
         "People who want a long-lived large dog — 10–12 years is the typical range"

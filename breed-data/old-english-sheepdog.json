@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "Old English Sheepdogs are gentle, playful, and excellent with families — but the coat is the defining challenge of owning one. Owners either commit to daily brushing or pay a professional groomer regularly. There is no low-maintenance option with a full OES coat.",
-    "meta_description": "Old English Sheepdog breed guide: coat commitment and grooming costs, temperament with families, hip dysplasia and deafness health concerns, and honest first-year cost estimates."
+    "meta_description": "Old English Sheepdog breed guide: coat commitment and grooming costs, temperament with families, hip dysplasia and deafness health concerns, and honest..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_ddd542d4-6a4d-4c63-b525-1750131d9086.png?v=1777530230",
       "alt": "Old English Sheepdog"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_b58a7ea0-5431-46eb-b8ce-7239a544777e.png?v=1777530234",
+        "alt": "Old English Sheepdog at home with owner",
+        "caption": "Life with a Old English Sheepdog — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/old-english-sheepdog-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_e4967370-1161-427b-bbfc-182ae1409609.png?v=1777530226",
+        "alt": "Old English Sheepdog coat being brushed",
+        "caption": "Coat care is a big part of Old English Sheepdog ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/old-english-sheepdog-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_0b8acc8b-85f3-4932-9681-38fbdc1b51c0.png?v=1777530238",
+        "alt": "Old English Sheepdog puppy",
+        "caption": "Bringing home a Old English Sheepdog puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/old-english-sheepdog-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -113,6 +139,8 @@
         "Those who appreciate the iconic OES look and are prepared to maintain it"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Old English Sheepdogs need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You live in a small apartment, studio, or rental with weight limits — Old English Sheepdogs reach 60–100 lbs and many leases cap dogs at 25-50 lbs",
         "Anyone who underestimates the grooming commitment — this is the most common reason for OES surrender",
         "Owners who want a low-maintenance coat or a dog that can go without regular brushing",
         "People in hot climates without indoor cooling — the coat retains heat",

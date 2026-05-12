@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_05ae2691-4f9b-45f2-ac79-6ce1c7932842.png?v=1777527526",
       "alt": "Dogue de Bordeaux"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_20f7001c-6003-42fa-9b86-ebf622090e5f.png?v=1777527530",
+        "alt": "Dogue de Bordeaux at home with owner",
+        "caption": "Life with a Dogue de Bordeaux — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/dogue-de-bordeaux-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ad1787fa-e694-4471-8262-f06403432b09.png?v=1777527518",
+        "alt": "Dogue de Bordeaux coat being brushed",
+        "caption": "Coat care is a big part of Dogue de Bordeaux ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/dogue-de-bordeaux-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_a431608e-800c-41ff-beb9-54880df928f3.png?v=1777527522",
+        "alt": "Dogue de Bordeaux puppy",
+        "caption": "Bringing home a Dogue de Bordeaux puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/dogue-de-bordeaux-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "Owners who value deep loyalty over high trainability"
       ],
       "not_fit": [
+        "You live in a small apartment, studio, or rental with weight limits — Dogue de Bordeauxs reach 110+ lbs and many leases cap dogs at 25-50 lbs",
+        "This is your first dog — Dogue de Bordeauxs frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "Active families wanting a sporting or running companion",
         "First-time owners unfamiliar with guardian-breed dynamics",
         "Anyone unable to budget for giant-breed food, vet care, and equipment",

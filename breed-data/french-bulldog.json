@@ -15,7 +15,7 @@
     ],
     "published": true,
     "excerpt": "French Bulldogs are affectionate, low-exercise, and genuinely funny to live with. They're also one of the most expensive breeds to own long-term, with structural health issues built into the breed standard.",
-    "meta_description": "Is a French Bulldog right for you? The real picture on breathing issues, heat sensitivity, health costs, temperament, and what first-time owners actually deal with."
+    "meta_description": "Is a French Bulldog right for you? The real picture on breathing issues, heat sensitivity, health costs, temperament, and what first-time owners actually..."
   },
   "stats": {
     "size": {
@@ -63,7 +63,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_89bf4fb0-c41c-4cfc-b343-24d56263e5ee.png?v=1777527854",
       "alt": "French Bulldog"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_c2a9c8f0-e88e-4f8e-8dae-c1c44cd64d2e.png?v=1777527846",
+        "alt": "French Bulldog at home with owner",
+        "caption": "Life with a French Bulldog — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/french-bulldog-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_161a47a1-305d-4416-97ab-d3764478c6ee.png?v=1777527850",
+        "alt": "French Bulldog coat being brushed",
+        "caption": "Coat care is a big part of French Bulldog ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/french-bulldog-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_068ce089-4e3f-4288-83c9-1f4b5a03d6a2.png?v=1777527842",
+        "alt": "French Bulldog puppy",
+        "caption": "Bringing home a French Bulldog puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/french-bulldog-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -112,6 +138,8 @@
         "Want a quiet, affectionate dog with genuine personality"
       ],
       "not_fit": [
+        "You can't budget for unexpected vet bills — flat-faced breeds like the French Bulldog commonly need $3,000-15,000 in surgical care over their lifetime for breathing (BOAS), eye, or spinal issues, and most pet insurance excludes pre-existing brachycephalic conditions",
+        "You're getting your first dog without doing breed-specific research — French Bulldogs have quirks that catch unprepared owners off-guard",
         "Active owner wanting a running or hiking partner",
         "Live in a hot climate without reliable air conditioning",
         "Not prepared for or can't afford higher-than-average vet bills",

@@ -64,7 +64,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_d2243a89-c43d-4a2d-979d-1b6ccab8420b.png?v=1777526954",
       "alt": "Chihuahua"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_77ee0376-e485-438a-82b4-3eb9b9088b95.png?v=1777526962",
+        "alt": "Chihuahua at home with owner",
+        "caption": "Life with a Chihuahua — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/chihuahua-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_021a2bff-ebf2-48a3-921b-2e72f1dff825.png?v=1777526966",
+        "alt": "Chihuahua coat being brushed",
+        "caption": "Coat care is a big part of Chihuahua ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/chihuahua-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_e928c93e-cec5-418d-8f55-7082c41b43f1.png?v=1777526958",
+        "alt": "Chihuahua puppy",
+        "caption": "Bringing home a Chihuahua puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/chihuahua-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -113,6 +139,8 @@
         "Older households or those without young children"
       ],
       "not_fit": [
+        "You have close neighbors or thin apartment walls — Chihuahuas are vocal by breed standard and a single barking complaint can violate many city or HOA noise ordinances",
+        "You expect a calm, quiet first 8-12 weeks — Chihuahua puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "Households with toddlers or very young children — fragile and can bite if frightened",
         "Expecting a friendly-to-everyone dog without significant socialization work",
         "Want a dog that can be reliably off-leash in open areas",

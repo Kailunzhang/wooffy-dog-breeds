@@ -768,10 +768,10 @@ def find_article_by_handle(handle):
 
 
 def _compute_title_tag(slug, name):
-    """SEO title_tag template. Returns None for roundups (use Shopify default)."""
+    """SEO title_tag template covering breeds (main+supporting) and roundups."""
     roundup_prefixes = ("best-", "most-", "easiest-", "quietest-", "longest-", "rarest-", "low-", "dog-breeds-")
     if any(slug.startswith(p) for p in roundup_prefixes):
-        return None
+        return f"{name}: Top Picks & Care Guide"
     suffix_templates = {
         "-grooming-guide":    "{breed} Grooming Guide: Tools, Tips & Schedule",
         "-first-year-costs":  "{breed} Cost: First-Year & Annual Budget",

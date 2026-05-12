@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "Leonbergers are magnificent, gentle giant dogs with a lion-like mane and a 7–9 year lifespan. Their warmth and patience are exceptional; their grooming demands and genetic health risks require serious preparation.",
-    "meta_description": "Leonberger breed guide: gentle giant temperament, LPN and LEMP genetic conditions, bloat risk, grooming commitment, and honest lifespan expectations for this magnificent breed."
+    "meta_description": "Leonberger breed guide: gentle giant temperament, LPN and LEMP genetic conditions, bloat risk, grooming commitment, and honest lifespan expectations for..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_a53302fa-f53e-4842-b94c-4e6c5ce671d9.png?v=1777575507",
       "alt": "Leonberger"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_e42722d6-0958-4835-bfa5-54b944a85f27.png?v=1777575511",
+        "alt": "Leonberger at home with owner",
+        "caption": "Life with a Leonberger — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/leonberger-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_2a42f671-16a6-470c-9298-9cdf9afbdff0.png?v=1777575503",
+        "alt": "Leonberger coat being brushed",
+        "caption": "Coat care is a big part of Leonberger ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/leonberger-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_34452f31-6a88-4b7c-898b-d270926faa24.png?v=1777575515",
+        "alt": "Leonberger puppy",
+        "caption": "Bringing home a Leonberger puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/leonberger-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Active families who enjoy outdoor activities and water sports"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Leonbergers need 60–90 min of consistent daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You live in a small apartment, studio, or rental with weight limits — Leonbergers reach 90–170 lbs and many leases cap dogs at 25-50 lbs",
         "Anyone who cannot or will not commit to daily/weekly coat maintenance",
         "Owners expecting a 12+ year companion — the realistic average is 7–9 years",
         "Those who will purchase from breeders without full genetic health documentation",

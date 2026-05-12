@@ -64,7 +64,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_077f2c33-42cd-4e2c-8294-6156aea935c4.png?v=1777525722",
       "alt": "Australian Shepherd"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7753dd6a-9241-4142-a0bf-9055aea33377.png?v=1777525727",
+        "alt": "Australian Shepherd at home with owner",
+        "caption": "Life with a Australian Shepherd — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/australian-shepherd-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_69ce4fac-1bcf-40b3-b533-83b3e964f661.png?v=1777525718",
+        "alt": "Australian Shepherd coat being brushed",
+        "caption": "Coat care is a big part of Australian Shepherd ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/australian-shepherd-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9e4e5374-0dad-4492-b957-70a04972f149.png?v=1777525731",
+        "alt": "Australian Shepherd puppy",
+        "caption": "Bringing home a Australian Shepherd puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/australian-shepherd-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -113,6 +139,8 @@
         "Active families with older children — Aussies are loyal and excellent with kids who engage them"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Australian Shepherds need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "This is your first dog — Australian Shepherds frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "First-time dog owners unfamiliar with high-drive herding breeds",
         "Households with 8+ hour work days without a dog walker or daycare plan",
         "Sedentary lifestyles — an under-exercised Aussie is a destructive, anxious Aussie",

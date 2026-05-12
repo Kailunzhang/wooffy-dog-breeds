@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_91748572-9868-44a1-9b9a-4eed4bcf259b.png?v=1777573888",
       "alt": "Bouvier des Flandres"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_ee58bce2-3fa2-4c57-bdb9-f2b5546785d9.png?v=1777573864",
+        "alt": "Bouvier des Flandres at home with owner",
+        "caption": "Life with a Bouvier des Flandres — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/bouvier-des-flandres-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ce55ed97-61ce-44d6-9edb-c33b9ace347f.png?v=1777573868",
+        "alt": "Bouvier des Flandres coat being brushed",
+        "caption": "Coat care is a big part of Bouvier des Flandres ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/bouvier-des-flandres-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_93f11262-e305-4a0e-b251-f926954773e0.png?v=1777573883",
+        "alt": "Bouvier des Flandres puppy",
+        "caption": "Bringing home a Bouvier des Flandres puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/bouvier-des-flandres-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "Have a very small living space with no outdoor access"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Bouvier des Flandress need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You live in a small apartment, studio, or rental with weight limits — Bouvier des Flandress reach 70–110 lbs and many leases cap dogs at 25-50 lbs",
         "Are a first-time dog owner",
         "Have limited time for exercise and training",
         "Prefer a low-maintenance coat",

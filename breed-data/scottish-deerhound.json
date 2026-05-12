@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-26T16:00:00Z",
     "excerpt": "Scottish Deerhounds are quiet, gentle giants with a rough wire coat and the loyalty of a devoted companion. They're also never off-leash, have an 8–11 year lifespan, meaningful cardiac disease rates, and a bloat risk that makes gastropexy recommended. Go in knowing what you're choosing.",
-    "meta_description": "Scottish Deerhound breed guide: gentle sighthound temperament, DCM cardiac screening, GDV bloat/gastropexy recommendation, Factor VII blood clotting, anesthesia sensitivity, and the short lifespan reality."
+    "meta_description": "Scottish Deerhound breed guide: gentle sighthound temperament, DCM cardiac screening, GDV bloat/gastropexy recommendation, Factor VII blood clotting,..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_19f84575-f633-491d-8f38-83633ee48beb.png?v=1777579525",
       "alt": "Scottish Deerhound"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_857fa515-6341-4653-84c2-898a00a52112.png?v=1777579516",
+        "alt": "Scottish Deerhound at home with owner",
+        "caption": "Life with a Scottish Deerhound — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/scottish-deerhound-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_68baac26-b675-4889-96df-912a93091789.png?v=1777579521",
+        "alt": "Scottish Deerhound coat being brushed",
+        "caption": "Coat care is a big part of Scottish Deerhound ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/scottish-deerhound-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3dbe7700-360b-4495-a48e-cbc1e679c37f.png?v=1777579512",
+        "alt": "Scottish Deerhound puppy",
+        "caption": "Bringing home a Scottish Deerhound puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/scottish-deerhound-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Families looking for a calm, dignified dog that is gentle with children"
       ],
       "not_fit": [
+        "You live in a small apartment, studio, or rental with weight limits — Scottish Deerhounds reach 75–110 lbs and many leases cap dogs at 25-50 lbs",
+        "You're on a tight budget — Scottish Deerhounds cost $100-180/month in food alone, and giant-breed health risks (bloat, hip dysplasia, joint surgery) commonly run $5,000-15,000 in lifetime emergency vet care",
         "Anyone unprepared for the short lifespan and significant health management requirements",
         "Owners without secure fencing — off-leash is never safe for a sighthound",
         "Households with cats or small animals the dog was not raised with",

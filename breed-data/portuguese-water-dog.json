@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-18T16:00:00Z",
     "excerpt": "Portuguese Water Dogs are energetic, intelligent working dogs that fit well into active households. Their low-shedding coat reduces allergen exposure but requires professional grooming every 6–8 weeks. Critical health screening — especially GM-1 DNA testing — is non-negotiable from any responsible breeder.",
-    "meta_description": "Portuguese Water Dog breed guide: exercise needs, coat maintenance, GM-1 and JDCM health testing requirements, and what active ownership of this working breed actually involves."
+    "meta_description": "Portuguese Water Dog breed guide: exercise needs, coat maintenance, GM-1 and JDCM health testing requirements, and what active ownership of this working..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_ce5fc7dc-da08-4027-ac33-edf860f299b9.png?v=1777530496",
       "alt": "Portuguese Water Dog"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_ec51f203-e1ac-44d2-80b2-ccefce8b00fd.png?v=1777530492",
+        "alt": "Portuguese Water Dog at home with owner",
+        "caption": "Life with a Portuguese Water Dog — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/portuguese-water-dog-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_c359ddc5-df48-4e58-90b8-52e23daba45d.png?v=1777530488",
+        "alt": "Portuguese Water Dog coat being brushed",
+        "caption": "Coat care is a big part of Portuguese Water Dog ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/portuguese-water-dog-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_1339867e-034b-4d92-8a6e-59f936aba059.png?v=1777530500",
+        "alt": "Portuguese Water Dog puppy",
+        "caption": "Bringing home a Portuguese Water Dog puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/portuguese-water-dog-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "People who enjoy training and working with an intelligent, responsive dog"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Portuguese Water Dogs need 60–90 min of consistent daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You have a small apartment without nearby outdoor space — at 35–60 lbs, Portuguese Water Dogs need room to stretch and a routine of off-property exercise",
         "Sedentary households that cannot provide real daily exercise",
         "Anyone who believes 'hypoallergenic' means allergy-free — it doesn't; spend time with the breed first",
         "Owners not prepared for ongoing professional grooming costs",

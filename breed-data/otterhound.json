@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-26T16:00:00Z",
     "excerpt": "The Otterhound is one of the rarest AKC-recognized breeds on earth — critically endangered by the Kennel Club UK's Vulnerable Native Breeds list. They're enthusiastic, loud, and wonderfully affectionate. If you want a breed almost nobody else has, you should understand exactly what you're getting.",
-    "meta_description": "Otterhound breed guide: temperament, care requirements, critical health concerns including thrombocytopathia, why the breed is critically rare, and what ownership actually requires."
+    "meta_description": "Otterhound breed guide: temperament, care requirements, critical health concerns including thrombocytopathia, why the breed is critically rare, and what..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_927caf4f-a93e-4408-8fe5-d8257f1071f5.png?v=1777575946",
       "alt": "Otterhound"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_b2f3e4d3-a05a-44c0-a1a3-8295e612f21c.png?v=1777575937",
+        "alt": "Otterhound at home with owner",
+        "caption": "Life with a Otterhound — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/otterhound-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_e356c299-9bd4-490d-9f34-e96bfa09e473.png?v=1777575934",
+        "alt": "Otterhound coat being brushed",
+        "caption": "Coat care is a big part of Otterhound ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/otterhound-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_8b70f54c-9741-419e-85b9-c84475383ce2.png?v=1777575950",
+        "alt": "Otterhound puppy",
+        "caption": "Bringing home a Otterhound puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/otterhound-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners committed to supporting a rare breed preservation program"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Otterhounds need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You live in a small apartment, studio, or rental with weight limits — Otterhounds reach 80–115 lbs and many leases cap dogs at 25-50 lbs",
         "First-time dog owners without prior hound or independent-breed experience",
         "Apartment or small-space living without a fenced outdoor area",
         "Households that require a quiet dog — the baying voice is loud and carries",

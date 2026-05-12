@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "Saint Bernards are calm, patient, devoted giants with a legendary reputation for gentleness. They also drool at extraordinary volume, require prophylactic gastropexy consideration, and eat as much as a small human. Budget honestly before you decide.",
-    "meta_description": "Saint Bernard breed guide: gentle giant temperament, drool management, gastropexy recommendation, Wobbler Syndrome, Bloat/GDV, and realistic first-year cost breakdown for a giant breed."
+    "meta_description": "Saint Bernard breed guide: gentle giant temperament, drool management, gastropexy recommendation, Wobbler Syndrome, Bloat/GDV, and realistic first-year cost..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_7a87f5bd-2a5f-40a6-bddd-cd018fa7109f.png?v=1777531109",
       "alt": "Saint Bernard"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7e6c526b-7998-40b1-a068-19694588442c.png?v=1777531105",
+        "alt": "Saint Bernard at home with owner",
+        "caption": "Life with a Saint Bernard — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/saint-bernard-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_adea74c1-18d0-4df1-919c-94407688b586.png?v=1777531101",
+        "alt": "Saint Bernard coat being brushed",
+        "caption": "Coat care is a big part of Saint Bernard ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/saint-bernard-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_c00ee275-511d-4772-93b0-8d789d09e3bc.png?v=1777531097",
+        "alt": "Saint Bernard puppy",
+        "caption": "Bringing home a Saint Bernard puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/saint-bernard-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Anyone committed to gastropexy at spay/neuter and proactive health management"
       ],
       "not_fit": [
+        "You live in a small apartment, studio, or rental with weight limits — Saint Bernards reach 120–180+ lbs and many leases cap dogs at 25-50 lbs",
+        "You're on a tight budget — Saint Bernards cost $100-180/month in food alone, and giant-breed health risks (bloat, hip dysplasia, joint surgery) commonly run $5,000-15,000 in lifetime emergency vet care",
         "Anyone strongly bothered by drool — this is not a mild-drool breed",
         "Hot climate households without strong indoor cooling",
         "Owners not prepared for the 8–10 year lifespan",

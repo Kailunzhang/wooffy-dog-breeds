@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "The Pointer is one of the oldest and most capable bird dogs — powerful, athletic, and built for endurance. They're good-natured but independent, and they require significantly more exercise than their calm indoor demeanor suggests. Under-exercised Pointers become problem dogs quickly.",
-    "meta_description": "Pointer breed guide: field dog temperament, extreme exercise requirements, skin allergy management, hip dysplasia and PRA health risks, minimal grooming requirements, and honest fit assessment."
+    "meta_description": "Pointer breed guide: field dog temperament, extreme exercise requirements, skin allergy management, hip dysplasia and PRA health risks, minimal grooming..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_9fd2e33e-b291-46ae-a7cc-6f809e2d2898.png?v=1777530392",
       "alt": "Pointer"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_19366581-6feb-4bea-bda8-2a6da1166eaa.png?v=1777530388",
+        "alt": "Pointer at home with owner",
+        "caption": "Life with a Pointer — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/pointer-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_6a0bc1d5-35e1-438a-a21b-4bbf11fb5fb5.png?v=1777530384",
+        "alt": "Pointer coat being brushed",
+        "caption": "Coat care is a big part of Pointer ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/pointer-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_a20d52ec-493e-4068-a973-a3016817daaa.png?v=1777530380",
+        "alt": "Pointer puppy",
+        "caption": "Bringing home a Pointer puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/pointer-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -113,6 +139,8 @@
         "Hunters looking for a capable, classic field companion"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Pointers need 90–120 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "This is your first dog — Pointers frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "Low-activity households or anyone who cannot provide 90+ minutes of vigorous daily exercise",
         "People who want a dog that reliably comes when called off-leash near wildlife or birds",
         "Owners expecting the affectionate velcro personality of a retriever"

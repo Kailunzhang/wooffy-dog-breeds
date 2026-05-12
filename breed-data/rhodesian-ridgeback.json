@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-21T16:00:00Z",
     "excerpt": "The Ridgeback is a loyal, athletic, and striking breed with minimal grooming needs — but the independent hound temperament and strong prey drive require an experienced owner. The dermoid sinus check is essential at the first vet visit. Bloat risk makes gastropexy a real conversation to have early.",
-    "meta_description": "Rhodesian Ridgeback breed guide: independent temperament, dermoid sinus health check, bloat risk and gastropexy, prey drive management, and what experienced ownership looks like."
+    "meta_description": "Rhodesian Ridgeback breed guide: independent temperament, dermoid sinus health check, bloat risk and gastropexy, prey drive management, and what experienced..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_0d89dcc6-f8b5-4ad4-9feb-20b3cfebdc88.png?v=1777530797",
       "alt": "Rhodesian Ridgeback"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_f32efbaf-10f7-4e48-ae2c-0353967b5e8e.png?v=1777530801",
+        "alt": "Rhodesian Ridgeback at home with owner",
+        "caption": "Life with a Rhodesian Ridgeback — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/rhodesian-ridgeback-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_427cc022-c10d-4adc-89aa-73c1bb8a73fa.png?v=1777530793",
+        "alt": "Rhodesian Ridgeback coat being brushed",
+        "caption": "Coat care is a big part of Rhodesian Ridgeback ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/rhodesian-ridgeback-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_cd742c99-50ec-455a-923a-da64d778849e.png?v=1777530805",
+        "alt": "Rhodesian Ridgeback puppy",
+        "caption": "Bringing home a Rhodesian Ridgeback puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/rhodesian-ridgeback-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Those who value loyalty and devotion over instant obedience"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Rhodesian Ridgebacks need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "This is your first dog — Rhodesian Ridgebacks frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "First-time large-breed owners",
         "Households with cats or small animals given strong prey drive",
         "Anyone expecting highly responsive, reliable recall off-leash",

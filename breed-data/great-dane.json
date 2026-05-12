@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Great Danes are magnificent, gentle, and devoted dogs who happen to be the size of a small horse. They're good family companions with calm temperaments. Know before you go: the lifespan averages 7–10 years, bloat is a primary killer, and everything about this breed costs more.",
-    "meta_description": "Great Dane breed guide: gentle giant temperament, giant-breed health costs, bloat risk, strict puppy exercise rules, and whether a Dane fits your space and budget."
+    "meta_description": "Great Dane breed guide: gentle giant temperament, giant-breed health costs, bloat risk, strict puppy exercise rules, and whether a Dane fits your space and..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_57f64e6e-d1ef-43af-aede-c8bf53d050ad.png?v=1777528259",
       "alt": "Great Dane"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_376c3b21-4114-4bdf-bec6-0b6d1af0f223.png?v=1777528247",
+        "alt": "Great Dane at home with owner",
+        "caption": "Life with a Great Dane — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/great-dane-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_c4103480-4b64-47f9-a2b4-17afae164b4c.png?v=1777528255",
+        "alt": "Great Dane coat being brushed",
+        "caption": "Coat care is a big part of Great Dane ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/great-dane-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_6fb2bf9a-3794-4ab1-b413-a8f801886afb.png?v=1777528251",
+        "alt": "Great Dane puppy",
+        "caption": "Bringing home a Great Dane puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/great-dane-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Able to enroll in pet insurance before first vet visit"
       ],
       "not_fit": [
+        "You live in a small apartment, studio, or rental with weight limits — Great Danes reach 110–175+ lbs and many leases cap dogs at 25-50 lbs",
+        "You're on a tight budget — Great Danes cost $100-180/month in food alone, and giant-breed health risks (bloat, hip dysplasia, joint surgery) commonly run $5,000-15,000 in lifetime emergency vet care",
         "Small apartments or living spaces where a giant dog cannot move comfortably",
         "Tight budgets — giant-breed ongoing costs are substantially higher",
         "Anyone not prepared to follow puppy exercise restrictions",

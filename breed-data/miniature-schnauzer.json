@@ -64,7 +64,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_86bc6cf3-66a4-4de5-ab75-40193c9d5e61.png?v=1777529857",
       "alt": "Miniature Schnauzer"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_de3c71bd-8076-4915-a85c-1633f9e18aa5.png?v=1777529852",
+        "alt": "Miniature Schnauzer at home with owner",
+        "caption": "Life with a Miniature Schnauzer — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/miniature-schnauzer-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_39a4d11c-b75e-4448-bd6d-23efc931b728.png?v=1777529844",
+        "alt": "Miniature Schnauzer coat being brushed",
+        "caption": "Coat care is a big part of Miniature Schnauzer ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/miniature-schnauzer-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3c82db30-71ae-424d-9e6a-3dae2b235c41.png?v=1777529848",
+        "alt": "Miniature Schnauzer puppy",
+        "caption": "Bringing home a Miniature Schnauzer puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/miniature-schnauzer-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -113,6 +139,8 @@
         "Apartment-compatible if exercised adequately (with the caveat of barking)"
       ],
       "not_fit": [
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Miniature Schnauzer coats matt fast without consistent care",
+        "You have close neighbors or thin apartment walls — Miniature Schnauzers are vocal by breed standard and a single barking complaint can violate many city or HOA noise ordinances",
         "Want a quiet, low-barking dog — Mini Schnauzers vocalize freely",
         "Unwilling to maintain a low-fat diet and restrict fatty treats",
         "Looking for a low-grooming dog — the wiry coat requires regular professional attention",

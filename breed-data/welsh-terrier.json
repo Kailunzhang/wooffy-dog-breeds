@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_a664d025-89a4-498a-8af8-ba6d2bc08acd.png?v=1777580079",
       "alt": "Welsh Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_699c4275-4b73-486a-8c25-f23f274ee5b6.png?v=1777580074",
+        "alt": "Welsh Terrier at home with owner",
+        "caption": "Life with a Welsh Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/welsh-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_560dd90e-3e14-4fcb-aeac-966be3cc1ab4.png?v=1777580088",
+        "alt": "Welsh Terrier coat being brushed",
+        "caption": "Coat care is a big part of Welsh Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/welsh-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_aebc5e66-2078-4130-b81e-4935b63fbcc8.png?v=1777580085",
+        "alt": "Welsh Terrier puppy",
+        "caption": "Bringing home a Welsh Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/welsh-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -109,6 +135,8 @@
         "The low-shedding coat is a practical bonus"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Welsh Terriers need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You expect a calm, quiet first 8-12 weeks — Welsh Terrier puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "Households with small animals (birds, rodents, cats) given its prey drive",
         "For owners who want a calm",
         "Passive companion",

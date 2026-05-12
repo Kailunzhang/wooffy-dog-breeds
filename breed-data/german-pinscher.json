@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_fd617a5c-9a28-4b10-9061-72bdef98ef12.png?v=1777527909",
       "alt": "German Pinscher"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_3df9e25e-7ff0-486b-bfea-ed689aac6c8e.png?v=1777527902",
+        "alt": "German Pinscher at home with owner",
+        "caption": "Life with a German Pinscher — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/german-pinscher-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_cf9bbdc9-6798-465e-ad01-f44575c14598.png?v=1777527912",
+        "alt": "German Pinscher coat being brushed",
+        "caption": "Coat care is a big part of German Pinscher ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/german-pinscher-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_8202e18c-56d8-4ca2-b642-a57b97f3d5e0.png?v=1777527917",
+        "alt": "German Pinscher puppy",
+        "caption": "Bringing home a German Pinscher puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/german-pinscher-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "People who want a confident, alert, dog with a strong prey drive"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — German Pinschers need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "This is your first dog — German Pinschers frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "First-time owners wanting an easy-going beginner breed",
         "Households with cats, rabbits, or other small pets",
         "Sedentary owners or busy households unable to exercise daily",

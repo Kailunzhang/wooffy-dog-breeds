@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "The Keeshond is one of the most people-oriented spitz breeds — friendly, alert, and deeply attached to family. The tradeoff for that charming personality is a double coat that sheds dramatically twice a year. Know what you're signing up for on both counts.",
-    "meta_description": "Keeshond breed guide: friendly adaptable personality, heavy double coat shedding, spectacle markings, health concerns including epilepsy and heart disease, and ownership considerations."
+    "meta_description": "Keeshond breed guide: friendly adaptable personality, heavy double coat shedding, spectacle markings, health concerns including epilepsy and heart disease,..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_0b0ad703-f435-45a2-b758-cf4482b9a3c5.png?v=1777575260",
       "alt": "Keeshond"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_6231225c-2b1d-45b7-b739-cbe18164a549.png?v=1777575264",
+        "alt": "Keeshond at home with owner",
+        "caption": "Life with a Keeshond — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/keeshond-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4e7a2eeb-a0b1-48e9-8f34-86d74d1b677b.png?v=1777575255",
+        "alt": "Keeshond coat being brushed",
+        "caption": "Coat care is a big part of Keeshond ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/keeshond-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_03d91818-78b0-4280-8788-4712c6c21b3a.png?v=1777575251",
+        "alt": "Keeshond puppy",
+        "caption": "Bringing home a Keeshond puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/keeshond-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners who appreciate an alert watchdog that's not aggressive"
       ],
       "not_fit": [
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Keeshond coats matt fast without consistent care",
+        "You travel often or have unpredictable hours — Keeshonds do best with consistent 45–60 min of daily exercise from the same handler",
         "Anyone who cannot tolerate heavy seasonal shedding — this coat produces a lot of hair",
         "Owners away from home most of the day — Keeshonds need company and can develop separation anxiety",
         "Apartment dwellers with noise-sensitive neighbors — the breed's vocal tendencies need managing",

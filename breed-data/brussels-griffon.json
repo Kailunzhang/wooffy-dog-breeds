@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_f65a1225-f8d5-4098-8f33-99aeba5969df.png?v=1777574192",
       "alt": "Brussels Griffon"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_4174bdb3-2ec2-4b25-9904-0393b93085f8.png?v=1777574167",
+        "alt": "Brussels Griffon at home with owner",
+        "caption": "Life with a Brussels Griffon — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/brussels-griffon-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_0034635a-f9b2-4a75-92c2-04dda241bb06.png?v=1777574175",
+        "alt": "Brussels Griffon coat being brushed",
+        "caption": "Coat care is a big part of Brussels Griffon ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/brussels-griffon-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_ee179884-68e9-40d0-808c-92ba09095485.png?v=1777574171",
+        "alt": "Brussels Griffon puppy",
+        "caption": "Bringing home a Brussels Griffon puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/brussels-griffon-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "People who enjoy daily engagement and active companionship with their dog"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Brussels Griffons need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You can't budget for unexpected vet bills — flat-faced breeds like the Brussels Griffon commonly need $3,000-15,000 in surgical care over their lifetime for breathing (BOAS), eye, or spinal issues, and most pet insurance excludes pre-existing brachycephalic conditions",
         "It is not ideal for households with young children, for owners who travel frequently and will need to leave the dog for extended periods, or for people who want a low-maintenance, easygoing pet",
         "Households unable to commit to the breed's daily exercise needs",
         "Owners wanting a low-maintenance or hands-off pet",

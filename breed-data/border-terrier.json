@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Border Terrier is one of the most practical small dogs: energetic, hardy, good with families, and more tolerant of other dogs than most terrier breeds. The honest requirements are real daily exercise, secure fencing, and awareness of CECS — a dietary-managed health condition specific to the breed.",
-    "meta_description": "Border Terrier breed guide: temperament, exercise needs, CECS health condition, grooming the grizzled coat, and honest ownership requirements for this working family terrier."
+    "meta_description": "Border Terrier breed guide: temperament, exercise needs, CECS health condition, grooming the grizzled coat, and honest ownership requirements for this..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_fe925623-20a9-4a4c-8fd1-ee9579ef43b3.png?v=1777573802",
       "alt": "Border Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_1e5818fb-8daf-48dc-b20c-5c3f80ed46da.png?v=1777573797",
+        "alt": "Border Terrier at home with owner",
+        "caption": "Life with a Border Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/border-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_45df4868-8e97-4ee9-95f2-d10c51907828.png?v=1777573810",
+        "alt": "Border Terrier coat being brushed",
+        "caption": "Coat care is a big part of Border Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/border-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_87533e14-e519-4bb9-97c7-4510e07e0a78.png?v=1777573806",
+        "alt": "Border Terrier puppy",
+        "caption": "Bringing home a Border Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/border-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "First-time terrier owners who have researched the breed thoroughly"
       ],
       "not_fit": [
+        "You travel often or have unpredictable hours — Border Terriers do best with consistent 45–60 min of daily exercise from the same handler",
+        "You have close neighbors or thin apartment walls — Border Terriers are vocal by breed standard and a single barking complaint can violate many city or HOA noise ordinances",
         "Homes with cats, rabbits, or other small animals — prey drive is high and consistent",
         "Households without secure fencing — off-leash in open areas is not safe",
         "Owners wanting a very low-energy or lap-dog experience",

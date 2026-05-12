@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "The Toller is a compact, athletic retriever with a unique tolling behavior to lure waterfowl and a high-pitched alert bark that surprises new owners. They're intelligent, active, and generally easier to train than most sporting breeds — with a real caveat around autoimmune health conditions that requires careful breeding selection and insurance from day one.",
-    "meta_description": "Nova Scotia Duck Tolling Retriever breed guide: tolling behavior, temperament, the Toller scream, autoimmune health conditions including Addison's disease, and whether a Toller fits your household."
+    "meta_description": "Nova Scotia Duck Tolling Retriever breed guide: tolling behavior, temperament, the Toller scream, autoimmune health conditions including Addison's disease,..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_aa8dd516-8c41-45de-9d4d-6e92287d0e78.png?v=1777530170",
       "alt": "Nova Scotia Duck Tolling Retriever"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_fbb7f4d4-15a1-4969-a4ec-c47e50526a53.png?v=1777530182",
+        "alt": "Nova Scotia Duck Tolling Retriever at home with owner",
+        "caption": "Life with a Nova Scotia Duck Tolling Retriever — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/nova-scotia-duck-tolling-retriever-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4f587aa8-acab-4dd3-89cf-d70f479ef9c1.png?v=1777530179",
+        "alt": "Nova Scotia Duck Tolling Retriever coat being brushed",
+        "caption": "Coat care is a big part of Nova Scotia Duck Tolling Retriever ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/nova-scotia-duck-tolling-retriever-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_c6c90821-7f86-4210-99cc-cb62c8019159.png?v=1777530174",
+        "alt": "Nova Scotia Duck Tolling Retriever puppy",
+        "caption": "Bringing home a Nova Scotia Duck Tolling Retriever puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/nova-scotia-duck-tolling-retriever-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Experienced dog owners comfortable with health management and insurance planning"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Nova Scotia Duck Tolling Retrievers need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You have a small apartment without nearby outdoor space — at 35–50 lbs, Nova Scotia Duck Tolling Retrievers need room to stretch and a routine of off-property exercise",
         "Owners in apartments or close quarters not prepared for the Toller scream",
         "Those who have not researched the autoimmune health picture",
         "Anyone who will not get insurance before the first vet visit",

@@ -64,7 +64,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_4f40370b-1e9f-47f5-8a84-ff8687cefbb1.png?v=1777528358",
       "alt": "Greyhound"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_73baf366-5417-4767-bdb1-ee131a2c561a.png?v=1777528366",
+        "alt": "Greyhound at home with owner",
+        "caption": "Life with a Greyhound — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/greyhound-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_593b4ac7-d86e-4e88-9234-ac1b5b72d650.png?v=1777528362",
+        "alt": "Greyhound coat being brushed",
+        "caption": "Coat care is a big part of Greyhound ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/greyhound-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_b5be0fdb-1a28-4989-b649-600db4708dfd.png?v=1777528354",
+        "alt": "Greyhound puppy",
+        "caption": "Bringing home a Greyhound puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/greyhound-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -113,6 +139,8 @@
         "Can commit to dental care and safe fencing"
       ],
       "not_fit": [
+        "You have a small apartment without nearby outdoor space — at 60–70 lbs, Greyhounds need room to stretch and a routine of off-property exercise",
+        "You expect a calm, quiet first 8-12 weeks — Greyhound puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "Want a dog you can let off-leash in an open area",
         "Have small pets (cats, rabbits) without careful introduction",
         "Want an enthusiastically obedient, high-energy working partner",

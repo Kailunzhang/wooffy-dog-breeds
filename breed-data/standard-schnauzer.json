@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "The Standard Schnauzer is the original Schnauzer — versatile, high-energy, and smart enough to be mischievous when under-stimulated. Lower shedding and generally healthier than the Giant or Miniature, but still needs a handler who can keep up.",
-    "meta_description": "Standard Schnauzer breed guide: spirited medium-breed temperament, wiry coat care, intelligence and stubbornness balance, health conditions, and what ownership actually requires."
+    "meta_description": "Standard Schnauzer breed guide: spirited medium-breed temperament, wiry coat care, intelligence and stubbornness balance, health conditions, and what..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_8491a0a2-039e-471c-a461-e94d40ffed04.png?v=1777579784",
       "alt": "Standard Schnauzer"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_099194ef-e6ab-436d-b082-995a6cea17dd.png?v=1777579788",
+        "alt": "Standard Schnauzer at home with owner",
+        "caption": "Life with a Standard Schnauzer — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/standard-schnauzer-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_748e4fcc-fc86-4d3c-9abe-7c0d2953662d.png?v=1777579776",
+        "alt": "Standard Schnauzer coat being brushed",
+        "caption": "Coat care is a big part of Standard Schnauzer ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/standard-schnauzer-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_00adf3e6-e363-4b2a-b578-79e59a906bd5.png?v=1777579772",
+        "alt": "Standard Schnauzer puppy",
+        "caption": "Bringing home a Standard Schnauzer puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/standard-schnauzer-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Experienced owners who enjoy the challenge of an intelligent, independent-thinking dog"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Standard Schnauzers need 60–90 min of consistent daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You have a small apartment without nearby outdoor space — at 30–50 lbs, Standard Schnauzers need room to stretch and a routine of off-property exercise",
         "Sedentary owners expecting a calm, low-energy companion",
         "First-time owners looking for an easygoing, biddable breed",
         "Households wanting a quiet, undemanding dog",

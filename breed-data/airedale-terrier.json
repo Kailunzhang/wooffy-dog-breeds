@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The largest of all terrier breeds, the Airedale Terrier earned its title as King of Terriers through versatility — hunting, police work, military service. Bold, loyal, and athletic, they're outstanding dogs for active owners who understand that terrier independence is a feature, not a flaw.",
-    "meta_description": "Airedale Terrier breed guide: temperament, exercise needs, grooming the wiry double coat, health conditions including hip dysplasia and cardiac concerns, and honest ownership requirements."
+    "meta_description": "Airedale Terrier breed guide: temperament, exercise needs, grooming the wiry double coat, health conditions including hip dysplasia and cardiac concerns,..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_5e06cf15-20ac-4732-955b-5a4979feb9de.png?v=1777572872",
       "alt": "Airedale Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_86ac219c-d881-440d-84cb-38db1a19bdf6.png?v=1777572814",
+        "alt": "Airedale Terrier at home with owner",
+        "caption": "Life with a Airedale Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/airedale-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_0a13d346-3136-4909-9efd-1e07adeeedee.png?v=1777572821",
+        "alt": "Airedale Terrier coat being brushed",
+        "caption": "Coat care is a big part of Airedale Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/airedale-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_27d1c381-df1c-4b13-bc59-4b01d1a02103.png?v=1777572857",
+        "alt": "Airedale Terrier puppy",
+        "caption": "Bringing home a Airedale Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/airedale-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners willing to budget for regular professional grooming every 8–12 weeks"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Airedale Terriers need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "This is your first dog — Airedale Terriers frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "First-time dog owners expecting easy compliance — terrier independence is real",
         "Homes with cats, rabbits, or other small animals — prey drive is very high",
         "Owners who want a low-energy or low-maintenance breed",

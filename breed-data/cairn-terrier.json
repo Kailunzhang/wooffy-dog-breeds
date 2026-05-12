@@ -13,7 +13,7 @@
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Cairn Terrier is a spirited, hardy little dog from Scotland's Western Highlands — best known as Toto from The Wizard of Oz. Tenacious, curious, and surprisingly tough for its size, the Cairn makes a wonderful family companion.",
-    "meta_description": "Complete Cairn Terrier breed guide: temperament, grooming, health, and care tips. Learn about this spirited Scottish terrier and whether it's the right dog for you."
+    "meta_description": "Complete Cairn Terrier breed guide: temperament, grooming, health, and care tips. Learn about this spirited Scottish terrier and whether it's the right dog..."
   },
   "stats": {
     "size": {
@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_1c74d054-0fd4-4c82-9d92-8bcb03ea8f5d.png?v=1777574266",
       "alt": "Cairn Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_1cb40ba4-a94c-4f1f-b2d7-456b26a2838a.png?v=1777574262",
+        "alt": "Cairn Terrier at home with owner",
+        "caption": "Life with a Cairn Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/cairn-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_e4903d14-d279-4064-a491-b0038c0c722a.png?v=1777574276",
+        "alt": "Cairn Terrier coat being brushed",
+        "caption": "Coat care is a big part of Cairn Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/cairn-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_20257926-0a32-4023-a18b-8296e974a398.png?v=1777574272",
+        "alt": "Cairn Terrier puppy",
+        "caption": "Bringing home a Cairn Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/cairn-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "You appreciate a dog with strong character, even if it occasionally means a battle of wills"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Cairn Terriers need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You expect a calm, quiet first 8-12 weeks — Cairn Terrier puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "You want a dog that's always obedient and never tests limits",
         "You have a pet rabbit, guinea pig, or other small prey animals",
         "You want a dog that can reliably be off-leash in open areas",

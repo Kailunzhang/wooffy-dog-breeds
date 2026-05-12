@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-05-01T16:00:00Z",
     "excerpt": "Lhasa Apsos look like lap dogs but don't act like them. These ancient Tibetan sentinel dogs are independent, alert, and capable of real stubbornness. They're devoted to their family, aloof with strangers, and come with a coat that requires serious maintenance.",
-    "meta_description": "Lhasa Apso breed guide: independent temperament, watchdog instincts, grooming requirements, renal dysplasia and other health concerns, and whether a Lhasa fits your household."
+    "meta_description": "Lhasa Apso breed guide: independent temperament, watchdog instincts, grooming requirements, renal dysplasia and other health concerns, and whether a Lhasa..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_9a014aca-0119-4444-9aac-92b62c02e9c5.png?v=1777575573",
       "alt": "Lhasa Apso"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_d35d0d8a-abe2-4546-addd-ff7a66532cd4.png?v=1777575568",
+        "alt": "Lhasa Apso at home with owner",
+        "caption": "Life with a Lhasa Apso — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/lhasa-apso-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_30c092e4-19b6-4d4e-8e4a-d67d721f3fb4.png?v=1777575555",
+        "alt": "Lhasa Apso coat being brushed",
+        "caption": "Coat care is a big part of Lhasa Apso ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/lhasa-apso-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_615f3957-5579-45bb-996d-fce07b651bcf.png?v=1777575561",
+        "alt": "Lhasa Apso puppy",
+        "caption": "Bringing home a Lhasa Apso puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/lhasa-apso-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "People who want a long-lived companion with a genuine personality"
       ],
       "not_fit": [
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Lhasa Apso coats matt fast without consistent care",
+        "You're getting your first dog without doing breed-specific research — Lhasa Apsos have quirks that catch unprepared owners off-guard",
         "Owners expecting a pushover lap dog that's always eager to please",
         "Households with toddlers or rough-handling young children",
         "Anyone not willing to commit to regular grooming — this coat does not manage itself",

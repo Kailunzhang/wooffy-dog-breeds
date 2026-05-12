@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_b33677f8-b9f3-466c-ab6f-bfef3be45879.png?v=1777579619",
       "alt": "Silky Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_730c47d2-9229-4a2b-bdf9-eb7be85020e7.png?v=1777579627",
+        "alt": "Silky Terrier at home with owner",
+        "caption": "Life with a Silky Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/silky-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_800ebffe-1ed3-44c1-a3be-3a444470443f.png?v=1777579615",
+        "alt": "Silky Terrier coat being brushed",
+        "caption": "Coat care is a big part of Silky Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/silky-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_8ad3bd2e-6e15-43f1-a588-244dd044fcf1.png?v=1777579623",
+        "alt": "Silky Terrier puppy",
+        "caption": "Bringing home a Silky Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/silky-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -109,6 +135,8 @@
         "Its low-shedding coat is a bonus for tidy households"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Silky Terriers need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Silky Terrier coats matt fast without consistent care",
         "It is NOT ideal for homes with small pets (birds, hamsters, guinea pigs), families with very young children who play rough, or owners who want a calm, easygoing lap dog",
         "The Silky's prey drive, vocal tendencies, and grooming requirements are dealbreakers for some",
         "But for the right owner, this breed offers years of lively, loyal, and genuinely entertaining companionship"

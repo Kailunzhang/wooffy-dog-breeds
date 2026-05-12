@@ -16,7 +16,7 @@
     "published": true,
     "published_at": "2026-04-14T01:00:00Z",
     "excerpt": "The Whippet is the Greyhound's smaller, more practical sibling — fast enough to race, gentle enough for a first-time owner, and calm enough for apartment life. If you want a medium dog that's elegant, quiet, and easy to groom, the Whippet is worth a serious look.",
-    "meta_description": "Whippet owner's guide: temperament, exercise needs, health considerations, grooming, costs, prey drive, and whether this sighthound fits your home and lifestyle."
+    "meta_description": "Whippet owner's guide: temperament, exercise needs, health considerations, grooming, costs, prey drive, and whether this sighthound fits your home and..."
   },
   "stats": {
     "size": {
@@ -64,7 +64,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_40933de7-5ed1-4d4b-882c-aa2d759f76f2.png?v=1777533045",
       "alt": "Whippet"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_e7870ea9-5696-4da5-b51c-56c371a97742.png?v=1777533041",
+        "alt": "Whippet at home with owner",
+        "caption": "Life with a Whippet — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/whippet-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_54932cde-1e32-40bb-b7d0-e81a6ef479c2.png?v=1777533038",
+        "alt": "Whippet coat being brushed",
+        "caption": "Coat care is a big part of Whippet ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/whippet-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_cef74e21-55da-49fe-8a92-dea80b2e9594.png?v=1777533049",
+        "alt": "Whippet puppy",
+        "caption": "Bringing home a Whippet puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/whippet-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -113,6 +139,8 @@
         "First-time owner who wants a trainable, manageable breed"
       ],
       "not_fit": [
+        "You travel often or have unpredictable hours — Whippets do best with consistent 40–60 min of daily exercise from the same handler",
+        "You expect a calm, quiet first 8-12 weeks — Whippet puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "Have small pets (cats, rabbits) without careful introduction and monitoring",
         "Need reliable off-leash recall in open unfenced areas",
         "Want a guard dog or highly alert watchdog",

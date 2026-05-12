@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_ccdd054f-8898-4280-8608-bbae871dafd0.png?v=1777580004",
       "alt": "Toy Fox Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_799b05f9-b53c-471e-9952-5194a6e888c1.png?v=1777580008",
+        "alt": "Toy Fox Terrier at home with owner",
+        "caption": "Life with a Toy Fox Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/toy-fox-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_b8447b84-73ba-4e8f-bdf3-9aab25d16955.png?v=1777580012",
+        "alt": "Toy Fox Terrier coat being brushed",
+        "caption": "Coat care is a big part of Toy Fox Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/toy-fox-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_220ff0cd-1055-4e6f-bcd5-90b279c16af8.png?v=1777580017",
+        "alt": "Toy Fox Terrier puppy",
+        "caption": "Bringing home a Toy Fox Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/toy-fox-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -108,6 +134,8 @@
         "It's one of the best choices for owners who want a genuinely trainable small dog with low grooming needs"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Toy Fox Terriers need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You expect a calm, quiet first 8-12 weeks — Toy Fox Terrier puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "Households unable to commit to the breed's daily exercise needs",
         "Owners wanting a low-maintenance or hands-off pet",
         "First-time dog owners unfamiliar with this breed type",

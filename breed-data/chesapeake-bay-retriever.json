@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-22T16:00:00Z",
     "excerpt": "Chesapeake Bay Retrievers are not Labs with a different coat. They're more independent, more tenacious, and more demanding of their owners. For serious waterfowl hunters or experienced owners who want a loyal, capable working retriever, the Chessie has few equals. For first-time retriever owners expecting golden-temperament ease, they're the wrong choice.",
-    "meta_description": "Chesapeake Bay Retriever breed guide: temperament differences from Labradors, exercise and training needs, oily coat care, health conditions including PRA and EIC, and whether a Chessie fits your household."
+    "meta_description": "Chesapeake Bay Retriever breed guide: temperament differences from Labradors, exercise and training needs, oily coat care, health conditions including PRA..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2c4fd2e0-59e3-449d-a8b1-efd618a66015.png?v=1777526899",
       "alt": "Chesapeake Bay Retriever"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_fba68748-5a84-449a-810d-569153cd3cb0.png?v=1777526907",
+        "alt": "Chesapeake Bay Retriever at home with owner",
+        "caption": "Life with a Chesapeake Bay Retriever — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/chesapeake-bay-retriever-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_7e8c2017-f87c-4d5d-8229-97b89188fe58.png?v=1777526895",
+        "alt": "Chesapeake Bay Retriever coat being brushed",
+        "caption": "Coat care is a big part of Chesapeake Bay Retriever ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/chesapeake-bay-retriever-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_cded4db8-ceaf-4932-b4cb-72b549d699b4.png?v=1777526903",
+        "alt": "Chesapeake Bay Retriever puppy",
+        "caption": "Bringing home a Chesapeake Bay Retriever puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/chesapeake-bay-retriever-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners committed to health testing — buy only from parents clear for PRA and EIC"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Chesapeake Bay Retrievers need 90–120 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "This is your first dog — Chesapeake Bay Retrievers frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "First-time dog owners or those expecting retriever-breed ease and compliance",
         "Households that want a universally friendly, social dog",
         "Owners who cannot provide intensive daily exercise and mental stimulation",

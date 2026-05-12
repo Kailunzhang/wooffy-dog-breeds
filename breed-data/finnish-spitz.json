@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_01de40b4-1068-4cf9-b048-ae99d5abfdfe.png?v=1777574861",
       "alt": "Finnish Spitz"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_3fbc2b25-8ba3-472c-a127-f70a6b283a63.png?v=1777574857",
+        "alt": "Finnish Spitz at home with owner",
+        "caption": "Life with a Finnish Spitz — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/finnish-spitz-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_b48737fe-ccb5-4cbf-b8f8-ee2260648c5e.png?v=1777574823",
+        "alt": "Finnish Spitz coat being brushed",
+        "caption": "Coat care is a big part of Finnish Spitz ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/finnish-spitz-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5e7b3dc1-1a16-4c5f-9a52-831f2dd6e16e.png?v=1777574865",
+        "alt": "Finnish Spitz puppy",
+        "caption": "Bringing home a Finnish Spitz puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/finnish-spitz-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "People who enjoy daily engagement and active companionship with their dog"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Finnish Spitzs need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You expect a calm, quiet first 8-12 weeks — Finnish Spitz puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "It is not well-suited to apartment living, noise-sensitive environments, owners who want an obedient, handler-focused companion, or anyone with close neighbors who would be disturbed by regular barking",
         "The heavy seasonal shedding is also a significant consideration for tidy households",
         "Households unable to commit to the breed's daily exercise needs",

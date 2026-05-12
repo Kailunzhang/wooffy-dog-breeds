@@ -13,7 +13,7 @@
     "published": true,
     "published_at": "2026-04-29T16:00:00Z",
     "excerpt": "The Scottish Terrier is one of the most recognizable breeds in the world — the compact, dignified Scottie with its distinctive silhouette has been a cultural icon for over a century. Independent, loyal, and emphatically its own dog, the Scottie rewards patient, experienced owners with fierce devotion.",
-    "meta_description": "Scottish Terrier breed guide: temperament, wiry coat care, health concerns, and costs. The iconic Scottie — independent, dignified, and deeply loyal to its chosen person."
+    "meta_description": "Scottish Terrier breed guide: temperament, wiry coat care, health concerns, and costs. The iconic Scottie — independent, dignified, and deeply loyal to its..."
   },
   "stats": {
     "size": {
@@ -104,6 +104,8 @@
         "It adapts well to apartment and city life"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Scottish Terriers need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "This is your first dog — Scottish Terriers frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "It is not appropriate for families with young children, households with small pets, or anyone who wants a universally friendly, easy-to-train companion dog",
         "Households unable to commit to the breed's daily exercise needs",
         "Owners wanting a low-maintenance or hands-off pet",
@@ -121,7 +123,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_ba02a924-6212-48d5-b9c9-c286ed0a3aa8.png?v=1777579572",
       "alt": "Scottish Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_812db7ce-f0d7-42be-8e4b-788122802c8f.png?v=1777579576",
+        "alt": "Scottish Terrier at home with owner",
+        "caption": "Life with a Scottish Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/scottish-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_270a325d-3763-4c39-9844-059ffec66a32.png?v=1777579564",
+        "alt": "Scottish Terrier coat being brushed",
+        "caption": "Coat care is a big part of Scottish Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/scottish-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_212dc274-077e-4f12-a3e2-412f9628d86b.png?v=1777579569",
+        "alt": "Scottish Terrier puppy",
+        "caption": "Bringing home a Scottish Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/scottish-terrier-puppy-checklist"
+      }
+    ]
   },
   "faq": [
     {

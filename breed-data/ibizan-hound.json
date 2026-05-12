@@ -18,7 +18,7 @@
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Ibizan Hounds are athletic, elegant sighthounds from the Balearic Islands — friendly, sensitive, and capable of jumping extraordinary heights. Fencing must be at least 6 feet. They are sensitive to anesthesia (sighthound protocol required at every vet procedure), sensitive to cold, and gentle enough for first-time owners who do the research.",
-    "meta_description": "Ibizan Hound breed guide: the 5-foot standing jump, anesthesia sensitivity, sighthound off-leash rule, coat varieties, sensitivity to cold, and what elegant athletic independence looks like at home."
+    "meta_description": "Ibizan Hound breed guide: the 5-foot standing jump, anesthesia sensitivity, sighthound off-leash rule, coat varieties, sensitivity to cold, and what elegant..."
   },
   "stats": {
     "size": {
@@ -66,7 +66,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_0e2ad79a-4c47-40f7-b4b3-595e8bf95532.png?v=1777528526",
       "alt": "Ibizan Hound"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_6d0784c6-e7cc-4d23-9efd-1bdd6d06a46b.png?v=1777528535",
+        "alt": "Ibizan Hound at home with owner",
+        "caption": "Life with a Ibizan Hound — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/ibizan-hound-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_89e9a958-d5b8-4907-8957-3c83e2d034e2.png?v=1777528522",
+        "alt": "Ibizan Hound coat being brushed",
+        "caption": "Coat care is a big part of Ibizan Hound ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/ibizan-hound-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5b57dde3-8c70-4e04-bdc9-805df3f40e49.png?v=1777528531",
+        "alt": "Ibizan Hound puppy",
+        "caption": "Bringing home a Ibizan Hound puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/ibizan-hound-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -115,6 +141,8 @@
         "Families who can commit to the anesthesia sensitivity protocol for every procedure"
       ],
       "not_fit": [
+        "You have a small apartment without nearby outdoor space — at 45–50 lbs, Ibizan Hounds need room to stretch and a routine of off-property exercise",
+        "You're getting your first dog without doing breed-specific research — Ibizan Hounds have quirks that catch unprepared owners off-guard",
         "Anyone without 6-foot secure fencing — a 5-foot fence is not enough for this breed",
         "Cold-climate households not prepared for a dog that needs a coat in winter",
         "Owners expecting off-leash reliability outside a fence",

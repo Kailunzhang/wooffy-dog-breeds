@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-27T16:00:00Z",
     "excerpt": "Greater Swiss Mountain Dogs are loyal, calm giant-breed dogs built for pulling carts and working with farmers. They make excellent family dogs for owners who can handle their size, heavy shedding, and serious bloat risk.",
-    "meta_description": "Greater Swiss Mountain Dog breed guide: temperament, drafting heritage, heat sensitivity, health risks including bloat and hip dysplasia, and what it costs to own one."
+    "meta_description": "Greater Swiss Mountain Dog breed guide: temperament, drafting heritage, heat sensitivity, health risks including bloat and hip dysplasia, and what it costs..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_01c4bf16-e81d-494e-8bb8-ab3c333a7cda.png?v=1777574987",
       "alt": "Greater Swiss Mountain Dog"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_52c6ee8b-ca5a-4e9a-b927-844f0034d4e8.png?v=1777574993",
+        "alt": "Greater Swiss Mountain Dog at home with owner",
+        "caption": "Life with a Greater Swiss Mountain Dog — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/greater-swiss-mountain-dog-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_79791013-e8fd-4585-86cc-853ded956dbe.png?v=1777575008",
+        "alt": "Greater Swiss Mountain Dog coat being brushed",
+        "caption": "Coat care is a big part of Greater Swiss Mountain Dog ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/greater-swiss-mountain-dog-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_132d3f1c-4c0b-49ff-a491-605cd7c04c2f.png?v=1777574968",
+        "alt": "Greater Swiss Mountain Dog puppy",
+        "caption": "Bringing home a Greater Swiss Mountain Dog puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/greater-swiss-mountain-dog-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "People who have researched the shorter giant-breed lifespan and accept it"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Greater Swiss Mountain Dogs need 60–90 min of consistent daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You live in a small apartment, studio, or rental with weight limits — Greater Swiss Mountain Dogs reach 85–140 lbs and many leases cap dogs at 25-50 lbs",
         "Owners in consistently hot climates without climate control",
         "Anyone not prepared for heavy year-round shedding",
         "Households expecting a 14-year commitment — realistic lifespan is 8–11 years",

@@ -15,7 +15,7 @@
     ],
     "published": true,
     "excerpt": "Rottweilers are loyal, calm, and naturally protective — excellent dogs for the right owner. They need consistent training, early socialization, and experienced handling. In the wrong hands, their power and protective instincts become a liability.",
-    "meta_description": "Is a Rottweiler right for you? The honest guide to Rottweiler temperament, guarding instinct, exercise needs, health costs, and what experienced ownership actually requires."
+    "meta_description": "Is a Rottweiler right for you? The honest guide to Rottweiler temperament, guarding instinct, exercise needs, health costs, and what experienced ownership..."
   },
   "stats": {
     "size": {
@@ -63,7 +63,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_cb44dd27-1cb6-444a-92c5-458d18212d3d.png?v=1777534942",
       "alt": "Rottweiler"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_39b46d17-378e-4c30-8fb5-73b3c6f470c2.png?v=1777534951",
+        "alt": "Rottweiler at home with owner",
+        "caption": "Life with a Rottweiler — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/rottweiler-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_1e8574f4-02d0-4019-89cc-0628f2d01c9d.png?v=1777534939",
+        "alt": "Rottweiler coat being brushed",
+        "caption": "Coat care is a big part of Rottweiler ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/rottweiler-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_23850270-4578-46a1-82fc-6a1b4a8b278d.png?v=1777534947",
+        "alt": "Rottweiler puppy",
+        "caption": "Bringing home a Rottweiler puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/rottweiler-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -112,6 +138,8 @@
         "Verified homeowner's insurance and housing allows the breed"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Rottweilers need 60–80 min of consistent daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You live in a small apartment, studio, or rental with weight limits — Rottweilers reach 80–135 lbs and many leases cap dogs at 25-50 lbs",
         "First-time dog owner without a serious training commitment",
         "Households with very young children and no management plan for a large herding dog",
         "Renting where breed restrictions apply",

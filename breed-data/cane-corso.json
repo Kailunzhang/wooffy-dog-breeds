@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-18T16:00:00Z",
     "excerpt": "Cane Corsos are confident, powerful guardian dogs that bond intensely to their family and treat strangers with deep suspicion. They require experienced ownership, rigorous early socialization, and serious health screening. They are not beginner dogs — full stop.",
-    "meta_description": "Cane Corso breed guide: temperament, guardian instincts, health risks including JLPP and bloat, BSL restrictions, and what experienced ownership actually looks like."
+    "meta_description": "Cane Corso breed guide: temperament, guardian instincts, health risks including JLPP and bloat, BSL restrictions, and what experienced ownership actually..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_a2be4a93-3f7b-426b-8d3c-a5f464aadf24.png?v=1777526745",
       "alt": "Cane Corso"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_d1cc08a3-cbb8-47b1-b4dc-d566259a309f.png?v=1777526736",
+        "alt": "Cane Corso at home with owner",
+        "caption": "Life with a Cane Corso — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/cane-corso-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_e919f595-5043-4a55-b147-1e0eb457d7d4.png?v=1777526740",
+        "alt": "Cane Corso coat being brushed",
+        "caption": "Coat care is a big part of Cane Corso ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/cane-corso-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_edfd923f-408d-46a7-9da6-e7be2c0c6d84.png?v=1777526732",
+        "alt": "Cane Corso puppy",
+        "caption": "Bringing home a Cane Corso puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/cane-corso-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners who want a loyal, protective family dog and understand the management responsibility that entails"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Cane Corsos need 60–90 min of consistent daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You live in a small apartment, studio, or rental with weight limits — Cane Corsos reach 88–110+ lbs and many leases cap dogs at 25-50 lbs",
         "First-time dog owners — this is not the breed to learn on",
         "Households in jurisdictions with Cane Corso BSL — check before you commit",
         "People who cannot provide structured daily exercise and consistent training",

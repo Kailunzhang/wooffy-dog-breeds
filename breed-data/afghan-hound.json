@@ -18,7 +18,7 @@
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "The Afghan Hound is breathtaking and genuinely challenging. Cat-like independence, extreme prey drive that makes off-leash life unsafe at any speed, anesthesia sensitivity, and a coat requiring hours of maintenance each week — this is a breed for dedicated owners only.",
-    "meta_description": "Afghan Hound breed guide: sighthound independence, 40mph speed and off-leash danger, anesthesia sensitivity warning, coat maintenance requirements, hip dysplasia and cataract risks, and realistic ownership expectations."
+    "meta_description": "Afghan Hound breed guide: sighthound independence, 40mph speed and off-leash danger, anesthesia sensitivity warning, coat maintenance requirements, hip..."
   },
   "stats": {
     "size": {
@@ -66,7 +66,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_479a1968-d14b-4b6b-8c7e-22bb6abae860.png?v=1777525282",
       "alt": "Afghan Hound"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_f9650e44-375a-4035-ab8e-d496d5fab2a2.png?v=1777525286",
+        "alt": "Afghan Hound at home with owner",
+        "caption": "Life with a Afghan Hound — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/afghan-hound-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_84b10545-e15c-4868-835f-8cb41bcad2ee.png?v=1777525291",
+        "alt": "Afghan Hound coat being brushed",
+        "caption": "Coat care is a big part of Afghan Hound ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/afghan-hound-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_8c7c0795-3e3e-4587-8ab5-57b432ae6433.png?v=1777525294",
+        "alt": "Afghan Hound puppy",
+        "caption": "Bringing home a Afghan Hound puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/afghan-hound-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -115,6 +141,8 @@
         "Owners in cooler climates (the coat is not suited to extreme heat environments)"
       ],
       "not_fit": [
+        "This is your first dog — Afghan Hounds frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
+        "You travel often or have unpredictable hours — Afghan Hounds do best with consistent 45–60 min of daily exercise from the same handler",
         "First-time dog owners expecting trainable obedience",
         "Anyone who cannot provide a securely fenced running area",
         "People who want a responsive, people-pleasing dog",

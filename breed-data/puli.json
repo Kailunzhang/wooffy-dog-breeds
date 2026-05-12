@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_637fdedc-464d-470a-aeb4-b5362701a2da.png?v=1777579301",
       "alt": "Puli"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_2850660c-ec90-45d7-aa64-b5cebaabba35.png?v=1777579290",
+        "alt": "Puli at home with owner",
+        "caption": "Life with a Puli — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/puli-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_03f99d6b-de1f-47c0-a328-50778c34925b.png?v=1777579297",
+        "alt": "Puli coat being brushed",
+        "caption": "Coat care is a big part of Puli ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/puli-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_d0221886-7a23-49d1-ba97-195a400a6dab.png?v=1777579293",
+        "alt": "Puli puppy",
+        "caption": "Bringing home a Puli puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/puli-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "Homes with the appropriate space and lifestyle for the breed's energy level"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Pulis need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Puli coats matt fast without consistent care",
         "Owners looking for low-grooming convenience",
         "First-time owners",
         "Sedentary households"

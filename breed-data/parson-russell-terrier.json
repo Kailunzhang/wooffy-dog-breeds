@@ -13,7 +13,7 @@
     "published": true,
     "published_at": "2026-04-28T16:00:00Z",
     "excerpt": "The Parson Russell Terrier is a bold, athletic, fox-hunting terrier with explosive energy and boundless intelligence. Originally bred by Reverend John Russell, this white-bodied dog with go-all-day stamina is not for sedentary owners.",
-    "meta_description": "Complete Parson Russell Terrier guide: temperament, care, training, health, and costs. Learn about this bold, athletic hunting terrier and whether it suits your lifestyle."
+    "meta_description": "Complete Parson Russell Terrier guide: temperament, care, training, health, and costs. Learn about this bold, athletic hunting terrier and whether it suits..."
   },
   "stats": {
     "size": {
@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_20d887d5-1e05-4d99-970d-64425fe039f6.png?v=1777576125",
       "alt": "Parson Russell Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0c71eaa9-da19-439e-a0b4-7708c20bba67.png?v=1777576120",
+        "alt": "Parson Russell Terrier at home with owner",
+        "caption": "Life with a Parson Russell Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/parson-russell-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_9a65234b-9362-496e-a5d8-89db54812f4e.png?v=1777576095",
+        "alt": "Parson Russell Terrier coat being brushed",
+        "caption": "Coat care is a big part of Parson Russell Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/parson-russell-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_13a29168-c7b5-402a-8903-60e489ad42f7.png?v=1777576129",
+        "alt": "Parson Russell Terrier puppy",
+        "caption": "Bringing home a Parson Russell Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/parson-russell-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,7 @@
         "You don't have cats or other small animals"
       ],
       "not_fit": [
+        "You expect a calm, quiet first 8-12 weeks — Parson Russell Terrier puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "You want a calm, low-energy companion",
         "You're a first-time dog owner",
         "You have cats or rabbits",

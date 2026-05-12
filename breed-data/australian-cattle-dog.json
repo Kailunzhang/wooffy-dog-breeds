@@ -18,7 +18,7 @@
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Australian Cattle Dogs — Blue Heelers, Red Heelers — are extraordinary working dogs that need extraordinary owners. If you can't give one a job, don't get one.",
-    "meta_description": "Australian Cattle Dog breed guide: herding instinct, heel-nipping with children, extreme work drive, health conditions including PRA and deafness, and whether an ACD fits your household."
+    "meta_description": "Australian Cattle Dog breed guide: herding instinct, heel-nipping with children, extreme work drive, health conditions including PRA and deafness, and..."
   },
   "stats": {
     "size": {
@@ -66,7 +66,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_cc75145b-7ba6-40f0-ac69-f3bcf600600a.png?v=1777525677",
       "alt": "Australian Cattle Dog"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_ab7114a8-592d-4e44-983c-19a1adfb78e7.png?v=1777525683",
+        "alt": "Australian Cattle Dog at home with owner",
+        "caption": "Life with a Australian Cattle Dog — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/australian-cattle-dog-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ea997743-c0df-4bea-a49d-59c778b017b4.png?v=1777525667",
+        "alt": "Australian Cattle Dog coat being brushed",
+        "caption": "Coat care is a big part of Australian Cattle Dog ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/australian-cattle-dog-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_4f3b9277-3895-4187-86e7-0d9efead4f9c.png?v=1777525671",
+        "alt": "Australian Cattle Dog puppy",
+        "caption": "Bringing home a Australian Cattle Dog puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/australian-cattle-dog-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -115,6 +141,8 @@
         "Owners who will enroll in agility, herding, flyball, or another dog sport"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Australian Cattle Dogs need 90–120+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "This is your first dog — Australian Cattle Dogs frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "First-time dog owners or casual pet owners",
         "Households with very young children (heel-nipping instinct is hard to fully eliminate)",
         "Anyone who can't provide extensive daily physical AND mental exercise",

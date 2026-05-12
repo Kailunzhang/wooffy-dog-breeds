@@ -64,7 +64,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2f8c8919-427f-455e-8143-cbfeac064f62.png?v=1777527453",
       "alt": "Doberman Pinscher"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_c6aaff3a-169f-4c83-9ad0-87c46837fda0.png?v=1777527458",
+        "alt": "Doberman Pinscher at home with owner",
+        "caption": "Life with a Doberman Pinscher — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/doberman-pinscher-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_d885fbb7-c59f-48c3-9db3-22928b345d9a.png?v=1777527461",
+        "alt": "Doberman Pinscher coat being brushed",
+        "caption": "Coat care is a big part of Doberman Pinscher ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/doberman-pinscher-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_7c68cb65-68ac-4400-b300-2dda63f02423.png?v=1777527466",
+        "alt": "Doberman Pinscher puppy",
+        "caption": "Bringing home a Doberman Pinscher puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/doberman-pinscher-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -113,6 +139,8 @@
         "Want a deeply loyal, intelligent companion that actively engages with you"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Doberman Pinschers need 60–90 min of consistent daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You live in a small apartment, studio, or rental with weight limits — Doberman Pinschers reach 60–100 lbs and many leases cap dogs at 25-50 lbs",
         "First-time dog owners without prior large working-breed experience",
         "Households where the dog would be alone 8+ hours daily without a plan",
         "Sedentary households or those without access to real exercise outlets",

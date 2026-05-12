@@ -18,7 +18,7 @@
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Borzoi are beautiful, independent sighthounds with a 40 mph sprint capability and a cat-like home presence. They're gentle and quiet indoors, but the off-leash rule is absolute — they will chase and they will not come back. Anesthesia sensitivity requires every vet to know they're treating a sighthound before any procedure.",
-    "meta_description": "Borzoi breed guide: sighthound temperament, the absolute off-leash rule, anesthesia sensitivity, bloat risk and gastropexy recommendation, silky coat grooming, and what elegant independence looks like in daily life."
+    "meta_description": "Borzoi breed guide: sighthound temperament, the absolute off-leash rule, anesthesia sensitivity, bloat risk and gastropexy recommendation, silky coat..."
   },
   "stats": {
     "size": {
@@ -66,7 +66,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_90df2c92-5ea6-4e12-a81b-69b5e32b9b17.png?v=1777526339",
       "alt": "Borzoi"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_eb7a44fc-0142-4df3-810d-383559c9245a.png?v=1777526327",
+        "alt": "Borzoi at home with owner",
+        "caption": "Life with a Borzoi — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/borzoi-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4aa8ac13-c87a-44a5-bdaa-1da8ecf32280.png?v=1777526331",
+        "alt": "Borzoi coat being brushed",
+        "caption": "Coat care is a big part of Borzoi ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/borzoi-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_01140674-e202-4622-a511-c08c4a3e1d1e.png?v=1777526335",
+        "alt": "Borzoi puppy",
+        "caption": "Bringing home a Borzoi puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/borzoi-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -115,6 +141,8 @@
         "Households prepared to brief every vet on sighthound anesthesia sensitivity"
       ],
       "not_fit": [
+        "You live in a small apartment, studio, or rental with weight limits — Borzois reach 60–105 lbs and many leases cap dogs at 25-50 lbs",
+        "This is your first dog — Borzois frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "Anyone who wants reliable off-leash freedom outside a fenced area",
         "First-time dog owners unfamiliar with independent breed management",
         "High-energy households with chaotic environments — Borzoi prefer calm",

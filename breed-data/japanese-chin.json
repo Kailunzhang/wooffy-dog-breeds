@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_0ddae1b7-4071-4f7d-9160-c172faec705c.png?v=1777575190",
       "alt": "Japanese Chin"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_978f466f-69f0-49b9-a838-371e13a26c7a.png?v=1777575196",
+        "alt": "Japanese Chin at home with owner",
+        "caption": "Life with a Japanese Chin — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/japanese-chin-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_2de2a21f-69f6-40fd-bb27-e85822d44613.png?v=1777575206",
+        "alt": "Japanese Chin coat being brushed",
+        "caption": "Coat care is a big part of Japanese Chin ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/japanese-chin-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_d7534f09-201d-44a7-9fdc-be287f30b4b5.png?v=1777575186",
+        "alt": "Japanese Chin puppy",
+        "caption": "Bringing home a Japanese Chin puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/japanese-chin-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "You are prepared to manage a brachycephalic breed's health needs"
       ],
       "not_fit": [
+        "You can't budget for unexpected vet bills — flat-faced breeds like the Japanese Chin commonly need $3,000-15,000 in surgical care over their lifetime for breathing (BOAS), eye, or spinal issues, and most pet insurance excludes pre-existing brachycephalic conditions",
+        "You travel often or have unpredictable hours — Japanese Chins do best with consistent 30–60 min of daily exercise from the same handler",
         "You want an active, vigorous dog for outdoor adventures",
         "You have very young children",
         "You live in a hot climate without good air conditioning",

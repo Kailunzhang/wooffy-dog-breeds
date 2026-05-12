@@ -18,7 +18,7 @@
     "published": true,
     "published_at": "2026-04-23T16:00:00Z",
     "excerpt": "The Basenji is one of the most unique breeds in existence — barkless (they produce a distinctive yodel/barroo instead), cat-like in self-grooming, and intensely independent. They're also escape artists with serious prey drive and carry Fanconi Syndrome, a DNA-testable kidney disease. Not for beginners.",
-    "meta_description": "Basenji breed guide: barkless yodel behavior, cat-like temperament, Fanconi Syndrome DNA test requirements, escape artist tendencies, prey drive, low shedding, and realistic ownership expectations."
+    "meta_description": "Basenji breed guide: barkless yodel behavior, cat-like temperament, Fanconi Syndrome DNA test requirements, escape artist tendencies, prey drive, low..."
   },
   "stats": {
     "size": {
@@ -66,7 +66,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_5fc378e4-b125-48d9-9f5f-18db12d0337c.png?v=1777525785",
       "alt": "Basenji"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_092d7c6d-b1e9-49a6-8b9b-95d81ace075c.png?v=1777525789",
+        "alt": "Basenji at home with owner",
+        "caption": "Life with a Basenji — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/basenji-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_cdadf8fb-655e-433d-95f8-56677ecee158.png?v=1777525780",
+        "alt": "Basenji coat being brushed",
+        "caption": "Coat care is a big part of Basenji ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/basenji-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_dc5c7381-4912-4ca0-a39e-7e9a98283b47.png?v=1777525776",
+        "alt": "Basenji puppy",
+        "caption": "Bringing home a Basenji puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/basenji-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -115,6 +141,8 @@
         "Dog-only households or those with dogs the Basenji is raised alongside from puppyhood"
       ],
       "not_fit": [
+        "This is your first dog — Basenjis frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
+        "You travel often or have unpredictable hours — Basenjis do best with consistent 45–60 min of daily exercise from the same handler",
         "First-time dog owners expecting trainable compliance",
         "Households with cats, rabbits, or other small animals",
         "Anyone who cannot provide a truly escape-proof fenced area",

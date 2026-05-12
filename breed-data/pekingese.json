@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_10733bad-7d52-4327-8eb9-3a941e7a0bbe.png?v=1777580541",
       "alt": "Pekingese"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_e9e82f98-ba29-4dcf-a096-f83ea5d98521.png?v=1777580550",
+        "alt": "Pekingese at home with owner",
+        "caption": "Life with a Pekingese — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/pekingese-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_b3caeda3-6210-47c7-8053-a06487b87774.png?v=1777580546",
+        "alt": "Pekingese coat being brushed",
+        "caption": "Coat care is a big part of Pekingese ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/pekingese-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5f3dc10f-9802-4878-a2a2-9b830e34e1d3.png?v=1777580557",
+        "alt": "Pekingese puppy",
+        "caption": "Bringing home a Pekingese puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/pekingese-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "You prefer a low-energy dog who enjoys indoor life"
       ],
       "not_fit": [
+        "This is your first dog — Pekingeses frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
+        "You can't budget for unexpected vet bills — flat-faced breeds like the Pekingese commonly need $3,000-15,000 in surgical care over their lifetime for breathing (BOAS), eye, or spinal issues, and most pet insurance excludes pre-existing brachycephalic conditions",
         "You have very young children who may handle the dog roughly",
         "You want a highly trainable, command-following dog",
         "You cannot commit to regular grooming (matting in this breed is a serious welfare issue)",

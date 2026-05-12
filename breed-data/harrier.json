@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-25T16:00:00Z",
     "excerpt": "Harriers are cheerful, energetic pack hounds that look like a larger Beagle and share much of the Beagle's personality. They are genuinely rare in the US — AKC registration numbers are among the lowest of any recognized breed — which means finding a puppy takes patience. Active households with a secure yard will find them excellent companions.",
-    "meta_description": "Harrier breed guide: temperament, how they compare to Beagles, pack-oriented nature, rarity in the US, health, and what a scent hound of this size actually needs."
+    "meta_description": "Harrier breed guide: temperament, how they compare to Beagles, pack-oriented nature, rarity in the US, health, and what a scent hound of this size actually..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_ce085731-cc46-4ec6-bb4d-c540fb40ca80.png?v=1777528410",
       "alt": "Harrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_d18de9ac-fb41-4939-878f-67f6075ef702.png?v=1777528423",
+        "alt": "Harrier at home with owner",
+        "caption": "Life with a Harrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/harrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_f6a901df-09b6-441f-9352-85aec909c7e0.png?v=1777528415",
+        "alt": "Harrier coat being brushed",
+        "caption": "Coat care is a big part of Harrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/harrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_10e5a447-451c-412e-8aaa-f201d9056372.png?v=1777528419",
+        "alt": "Harrier puppy",
+        "caption": "Bringing home a Harrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/harrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners interested in nose work or tracking activities"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Harriers need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You have a small apartment without nearby outdoor space — at 45–60 lbs, Harriers need room to stretch and a routine of off-property exercise",
         "Anyone expecting off-leash reliability outside a fenced area",
         "Households needing a quiet dog — the hound voice is present",
         "Owners who want an immediately available breed — waiting for a puppy is part of owning a Harrier",

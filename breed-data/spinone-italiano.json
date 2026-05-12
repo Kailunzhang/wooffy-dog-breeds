@@ -18,7 +18,7 @@
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "The Spinone Italiano is Italy's ancient all-purpose gun dog — large, gentle, patient, and surprisingly low-key for a sporting breed. They drool from their pendulous lips, hunt at a methodical trot rather than a sprint, and make wonderfully docile companions. One DNA test — cerebellar ataxia — is essential from reputable breeders.",
-    "meta_description": "Spinone Italiano breed guide: gentle gun dog temperament, wiry coat care, critical cerebellar ataxia DNA test, bloat risk, ear infections, and the honest drool situation."
+    "meta_description": "Spinone Italiano breed guide: gentle gun dog temperament, wiry coat care, critical cerebellar ataxia DNA test, bloat risk, ear infections, and the honest..."
   },
   "stats": {
     "size": {
@@ -66,7 +66,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_75013dc5-7c46-4017-b609-0852e8bb8d91.png?v=1777531831",
       "alt": "Spinone Italiano"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_5b0038a5-b6f1-49c4-a936-113e952bdd9c.png?v=1777531827",
+        "alt": "Spinone Italiano at home with owner",
+        "caption": "Life with a Spinone Italiano — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/spinone-italiano-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_374ed0bf-3cfc-4dda-b6bc-f7d47231b753.png?v=1777531823",
+        "alt": "Spinone Italiano coat being brushed",
+        "caption": "Coat care is a big part of Spinone Italiano ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/spinone-italiano-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_924535fd-cacb-48df-87d5-ad5e95bb1073.png?v=1777531819",
+        "alt": "Spinone Italiano puppy",
+        "caption": "Bringing home a Spinone Italiano puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/spinone-italiano-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -115,6 +141,8 @@
         "Anyone committed to requiring cerebellar ataxia DNA clearance from their breeder"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Spinone Italianos need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You have a small apartment without nearby outdoor space — at 62–85 lbs, Spinone Italianos need room to stretch and a routine of off-property exercise",
         "Households where drool is genuinely unacceptable",
         "Owners who want a high-intensity, fast-running sporting dog",
         "Anyone who would purchase from a breeder without cerebellar ataxia DNA documentation"

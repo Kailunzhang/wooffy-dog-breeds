@@ -64,7 +64,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_7796059b-c83b-488b-9490-1870e4064608.png?v=1777528024",
       "alt": "German Shorthaired Pointer"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_bff6a82c-e2e0-4472-8789-b27b867d50e9.png?v=1777528016",
+        "alt": "German Shorthaired Pointer at home with owner",
+        "caption": "Life with a German Shorthaired Pointer — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/german-shorthaired-pointer-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_56aa98e8-77ad-4b4a-98fe-00e7770f4bde.png?v=1777528028",
+        "alt": "German Shorthaired Pointer coat being brushed",
+        "caption": "Coat care is a big part of German Shorthaired Pointer ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/german-shorthaired-pointer-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3219856b-489b-4482-b1bc-8f2d55ca47e1.png?v=1777528021",
+        "alt": "German Shorthaired Pointer puppy",
+        "caption": "Bringing home a German Shorthaired Pointer puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/german-shorthaired-pointer-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -113,6 +139,8 @@
         "Someone who wants a low-grooming, highly trainable, deeply bonded companion"
       ],
       "not_fit": [
+        "This is your first dog — German Shorthaired Pointers frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
+        "You have a small apartment without nearby outdoor space — at 45–70 lbs, German Shorthaired Pointers need room to stretch and a routine of off-property exercise",
         "Work 8+ hours daily without a daycare or dog walker plan",
         "Live in an apartment or home without access to off-leash exercise areas",
         "Want a calm, lower-energy dog that's satisfied with walks",

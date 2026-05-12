@@ -15,7 +15,7 @@
     ],
     "published": true,
     "excerpt": "Corgis are compact, highly intelligent, deeply loyal, and surprisingly athletic herding dogs. They're also vocal, moderately high energy, prone to nipping at heels, and need more mental challenge than most small breeds.",
-    "meta_description": "Is a Pembroke Welsh Corgi right for you? The real guide to Corgi personality, herding instinct, exercise needs, health, and what living with one actually looks like."
+    "meta_description": "Is a Pembroke Welsh Corgi right for you? The real guide to Corgi personality, herding instinct, exercise needs, health, and what living with one actually..."
   },
   "stats": {
     "size": {
@@ -63,7 +63,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_5a103018-07f9-447e-bda2-5e928f0050e2.png?v=1777530290",
       "alt": "Pembroke Welsh Corgi"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0f47d187-6e0e-4267-b784-a6949db2ca47.png?v=1777530282",
+        "alt": "Pembroke Welsh Corgi at home with owner",
+        "caption": "Life with a Pembroke Welsh Corgi — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/pembroke-welsh-corgi-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_3c48d927-09a4-407d-8bf0-2d28d2987fcf.png?v=1777530286",
+        "alt": "Pembroke Welsh Corgi coat being brushed",
+        "caption": "Coat care is a big part of Pembroke Welsh Corgi ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/pembroke-welsh-corgi-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_c0cb3e8f-0cf9-4e56-a2a7-56183733153f.png?v=1777530294",
+        "alt": "Pembroke Welsh Corgi puppy",
+        "caption": "Bringing home a Pembroke Welsh Corgi puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/pembroke-welsh-corgi-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -112,6 +138,8 @@
         "Looking for a loyal, family-oriented companion with longevity (12–13 years)"
       ],
       "not_fit": [
+        "You travel often or have unpredictable hours — Pembroke Welsh Corgis do best with consistent 45–60 min of daily exercise from the same handler",
+        "You expect a calm, quiet first 8-12 weeks — Pembroke Welsh Corgi puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "Want a quiet, low-key small dog that doesn't bark",
         "Have very young toddlers and can't manage the nipping-at-heels instinct",
         "Not prepared for or can't commit to consistent exercise and mental stimulation",

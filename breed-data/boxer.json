@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-16T16:00:00Z",
     "excerpt": "Boxers are playful, energetic, and devoted — one of the best family breeds available for active households. The health reality includes a high cancer rate and a brachycephalic airway that limits heat tolerance. Know what you're getting into.",
-    "meta_description": "Boxer breed guide: playful temperament, cancer and heart health risks, exercise limitations from flat face, family compatibility, and what ownership really looks like."
+    "meta_description": "Boxer breed guide: playful temperament, cancer and heart health risks, exercise limitations from flat face, family compatibility, and what ownership really..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_309fd0a5-c5ad-472f-81a2-bac274cf0f87.png?v=1777526437",
       "alt": "Boxer dog"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_16bc1e25-af0c-4b70-91dc-28a654119c49.png?v=1777526434",
+        "alt": "Boxer at home with owner",
+        "caption": "Life with a Boxer — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/boxer-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_59c4ff77-5586-4355-8f07-9e9becc3ac41.png?v=1777526446",
+        "alt": "Boxer coat being brushed",
+        "caption": "Coat care is a big part of Boxer ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/boxer-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5e1c80c5-35c3-4093-b173-fa31b7afd15e.png?v=1777526442",
+        "alt": "Boxer puppy",
+        "caption": "Bringing home a Boxer puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/boxer-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners committed to regular vet checkups for early cancer detection"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Boxers need 60–90 min of consistent daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You can't budget for unexpected vet bills — flat-faced breeds like the Boxer commonly need $3,000-15,000 in surgical care over their lifetime for breathing (BOAS), eye, or spinal issues, and most pet insurance excludes pre-existing brachycephalic conditions",
         "Hot climates without reliable air conditioning or ability to limit outdoor exercise",
         "Sedentary households that cannot meet the 60–90 minute daily exercise requirement",
         "Owners wanting a low-energy, calm companion",

@@ -19,7 +19,7 @@
     "published": true,
     "published_at": "2026-04-20T16:00:00Z",
     "excerpt": "Belgian Malinois are extraordinary working dogs used in police and military work worldwide. They are also one of the most catastrophically mismatched breeds for typical pet ownership. Read this before you get one.",
-    "meta_description": "Belgian Malinois breed guide: extreme drive, police and military working requirements, why they fail as typical pets, real ownership demands, and who should actually own one."
+    "meta_description": "Belgian Malinois breed guide: extreme drive, police and military working requirements, why they fail as typical pets, real ownership demands, and who should..."
   },
   "stats": {
     "size": {
@@ -67,7 +67,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_d709838a-965d-4f42-ac9e-422a7f0ae3b0.png?v=1777525945",
       "alt": "Belgian Malinois"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0e579954-eb2b-4dba-9d15-b9737ecd2c66.png?v=1777525953",
+        "alt": "Belgian Malinois at home with owner",
+        "caption": "Life with a Belgian Malinois — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/belgian-malinois-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_3237c65a-bd1b-47e6-8179-821e24d8f5f7.png?v=1777525940",
+        "alt": "Belgian Malinois coat being brushed",
+        "caption": "Coat care is a big part of Belgian Malinois ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/belgian-malinois-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_2d416c12-19b7-4c39-bf14-1e001dcb4371.png?v=1777525948",
+        "alt": "Belgian Malinois puppy",
+        "caption": "Bringing home a Belgian Malinois puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/belgian-malinois-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -116,6 +142,8 @@
         "Handlers who have done their preparation and know exactly what they're taking on"
       ],
       "not_fit": [
+        "You have a small apartment without nearby outdoor space — at 40–80 lbs, Belgian Malinoiss need room to stretch and a routine of off-property exercise",
+        "You expect a calm, quiet first 8-12 weeks — Belgian Malinois puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "Anyone who wants the dog because it looks impressive on social media",
         "Families with young children wanting a family pet",
         "First-time or inexperienced dog owners",

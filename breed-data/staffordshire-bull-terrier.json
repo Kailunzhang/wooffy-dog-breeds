@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-17T16:00:00Z",
     "excerpt": "The Stafford is one of the most devoted family breeds in existence — loving, sturdy, and enthusiastic. They require HC and L2HGA DNA tests from both parents. Verify breed-specific legislation in your jurisdiction before purchase, as BSL may apply.",
-    "meta_description": "Staffordshire Bull Terrier breed guide: nanny dog reputation, family temperament, HC/L2HGA DNA tests required, BSL considerations, grooming requirements, and honest ownership expectations."
+    "meta_description": "Staffordshire Bull Terrier breed guide: nanny dog reputation, family temperament, HC/L2HGA DNA tests required, BSL considerations, grooming requirements,..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_11331cad-481a-46b7-8dc4-187ee46be50b.png?v=1777531874",
       "alt": "Staffordshire Bull Terrier"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_5f4fe538-6a67-488d-a1da-884575b5842c.png?v=1777531882",
+        "alt": "Staffordshire Bull Terrier at home with owner",
+        "caption": "Life with a Staffordshire Bull Terrier — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/staffordshire-bull-terrier-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_af961644-cb4b-46b0-bade-b707fd7178df.png?v=1777531870",
+        "alt": "Staffordshire Bull Terrier coat being brushed",
+        "caption": "Coat care is a big part of Staffordshire Bull Terrier ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/staffordshire-bull-terrier-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_09599064-766e-4d76-aede-c62e796d6b84.png?v=1777531879",
+        "alt": "Staffordshire Bull Terrier puppy",
+        "caption": "Bringing home a Staffordshire Bull Terrier puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/staffordshire-bull-terrier-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners who want a low-maintenance coat with a highly social personality"
       ],
       "not_fit": [
+        "You travel often or have unpredictable hours — Staffordshire Bull Terriers do best with consistent 45–60 min of daily exercise from the same handler",
+        "You're getting your first dog without doing breed-specific research — Staffordshire Bull Terriers have quirks that catch unprepared owners off-guard",
         "Households in jurisdictions with BSL that restricts or prohibits this breed type",
         "Multi-dog households expecting the dogs to manage themselves without supervision",
         "People buying from breeders who cannot provide HC and L2HGA DNA clearances",

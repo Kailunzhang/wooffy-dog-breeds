@@ -64,7 +64,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_d1ba6810-7897-445c-be18-22fb7cca7a2a.png?v=1777526848",
       "alt": "Cavalier King Charles Spaniel"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_bee4b025-da9e-4aa9-9a26-6433d8a60c59.png?v=1777526840",
+        "alt": "Cavalier King Charles Spaniel at home with owner",
+        "caption": "Life with a Cavalier King Charles Spaniel — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/cavalier-king-charles-spaniel-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_237ac07a-28be-4e01-9f5b-97745a663b21.png?v=1777526852",
+        "alt": "Cavalier King Charles Spaniel coat being brushed",
+        "caption": "Coat care is a big part of Cavalier King Charles Spaniel ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/cavalier-king-charles-spaniel-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3df4e2c2-cc12-4e1b-91e2-b41b8d27602a.png?v=1777526844",
+        "alt": "Cavalier King Charles Spaniel puppy",
+        "caption": "Bringing home a Cavalier King Charles Spaniel puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/cavalier-king-charles-spaniel-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -113,6 +139,8 @@
         "Want a trainable, low-drama dog"
       ],
       "not_fit": [
+        "You can't budget for unexpected vet bills — flat-faced breeds like the Cavalier King Charles Spaniel commonly need $3,000-15,000 in surgical care over their lifetime for breathing (BOAS), eye, or spinal issues, and most pet insurance excludes pre-existing brachycephalic conditions",
+        "You're frequently away 8+ hours and can't arrange a midday dog walker or daycare — Cavalier King Charles Spaniels bond intensely and are documented to develop separation anxiety more often than average",
         "Away from home 8+ hours most days",
         "Want a guard dog or high-energy companion",
         "Not prepared for potential cardiac or neurological vet costs",

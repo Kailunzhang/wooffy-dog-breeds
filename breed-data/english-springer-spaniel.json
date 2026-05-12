@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-18T16:00:00Z",
     "excerpt": "English Springer Spaniels are enthusiastic, athletic bird dogs that make excellent family companions when their exercise needs are genuinely met. Ear infections are endemic to the breed and require proactive weekly cleaning. Ask breeders for PFK and Fucosidosis DNA test documentation.",
-    "meta_description": "English Springer Spaniel breed guide: exercise requirements, endemic ear infection management, field vs show line differences, PFK and Fucosidosis DNA testing, and what this sporting dog needs daily."
+    "meta_description": "English Springer Spaniel breed guide: exercise requirements, endemic ear infection management, field vs show line differences, PFK and Fucosidosis DNA..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_3cd22993-dc9a-405c-9658-963589b202a2.png?v=1777527678",
       "alt": "English Springer Spaniel"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_c9735e2d-7d75-4635-b43f-8b1209c26568.png?v=1777527674",
+        "alt": "English Springer Spaniel at home with owner",
+        "caption": "Life with a English Springer Spaniel — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/english-springer-spaniel-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_3dd7d080-1c38-4f40-b4d9-96c49f8c2b47.png?v=1777527666",
+        "alt": "English Springer Spaniel coat being brushed",
+        "caption": "Coat care is a big part of English Springer Spaniel ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/english-springer-spaniel-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_dd754de0-1b56-450d-a80b-1df73ff7e43b.png?v=1777527670",
+        "alt": "English Springer Spaniel puppy",
+        "caption": "Bringing home a English Springer Spaniel puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/english-springer-spaniel-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "People who enjoy training and working with a responsive, intelligent dog"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — English Springer Spaniels need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You have a small apartment without nearby outdoor space — at 40–50 lbs, English Springer Spaniels need room to stretch and a routine of off-property exercise",
         "Sedentary households — an under-exercised Springer is a problem",
         "Owners who won't commit to regular ear cleaning (chronic infections will result)",
         "Anyone purchasing without asking for PFK and Fucosidosis DNA test documentation",

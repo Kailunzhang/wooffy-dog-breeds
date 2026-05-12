@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-26T16:00:00Z",
     "excerpt": "The Pharaoh Hound is one of the oldest identifiable dog breeds in the world and the national dog of Malta. They blush — literally, their nose and ears turn pink when excited. Elegant and athletic, they need a sighthound-aware owner and a securely fenced yard.",
-    "meta_description": "Pharaoh Hound breed guide: the blushing trait, sighthound temperament, anesthesia sensitivity, exercise requirements, and what this ancient athletic breed actually needs from its owner."
+    "meta_description": "Pharaoh Hound breed guide: the blushing trait, sighthound temperament, anesthesia sensitivity, exercise requirements, and what this ancient athletic breed..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_0127bc43-435e-4c9a-9ffb-671a1a41394a.png?v=1777530337",
       "alt": "Pharaoh Hound"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_69e0ba73-53d4-42d5-90cd-3cab38a6f975.png?v=1777530342",
+        "alt": "Pharaoh Hound at home with owner",
+        "caption": "Life with a Pharaoh Hound — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/pharaoh-hound-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_d61b17f2-745f-4cef-a64a-e58b77f95e78.png?v=1777530333",
+        "alt": "Pharaoh Hound coat being brushed",
+        "caption": "Coat care is a big part of Pharaoh Hound ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/pharaoh-hound-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5aab0886-8c6b-4fed-8ab0-dca13fa98082.png?v=1777530329",
+        "alt": "Pharaoh Hound puppy",
+        "caption": "Bringing home a Pharaoh Hound puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/pharaoh-hound-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Those who want a friendly, engaged sighthound that is less aloof than Afghan or Greyhound"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Pharaoh Hounds need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "This is your first dog — Pharaoh Hounds frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "First-time dog owners without sighthound experience",
         "Households without a securely fenced yard",
         "Homes with cats, rabbits, or small animals — prey drive is real",

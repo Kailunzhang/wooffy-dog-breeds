@@ -61,7 +61,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_b785ecf8-35e9-4050-9747-fcd67a024528.png?v=1777575752",
       "alt": "Miniature Pinscher"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0ea69784-206a-42b0-be21-ede16a94de49.png?v=1777575762",
+        "alt": "Miniature Pinscher at home with owner",
+        "caption": "Life with a Miniature Pinscher — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/miniature-pinscher-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_4f2a98e1-0860-4809-b11d-589dd19cbab2.png?v=1777575758",
+        "alt": "Miniature Pinscher coat being brushed",
+        "caption": "Coat care is a big part of Miniature Pinscher ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/miniature-pinscher-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9aa269ff-0414-4a3c-92a1-02ad085f15ca.png?v=1777575746",
+        "alt": "Miniature Pinscher puppy",
+        "caption": "Bringing home a Miniature Pinscher puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/miniature-pinscher-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -110,6 +136,8 @@
         "You want a loyal, devoted companion with real personality"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Miniature Pinschers need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You expect a calm, quiet first 8-12 weeks — Miniature Pinscher puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "You want a calm, mellow dog who is happy to lounge all day",
         "You have very young children who may handle the dog roughly",
         "You have small pets (birds, hamsters, rabbits) that could be harassed",

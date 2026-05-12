@@ -17,7 +17,7 @@
     "published": true,
     "published_at": "2026-04-24T16:00:00Z",
     "excerpt": "Field Spaniels are one of the lesser-known spaniel breeds — gentle, devoted, and genuinely good-natured. They share the Cocker Spaniel's sweet temperament but carry themselves with a bit more seriousness. They're also rare enough that finding a quality breeder requires effort.",
-    "meta_description": "Field Spaniel breed guide: temperament, grooming the silky feathered coat, health conditions including PRA and hip dysplasia, and what makes this rare spaniel different from the Cocker."
+    "meta_description": "Field Spaniel breed guide: temperament, grooming the silky feathered coat, health conditions including PRA and hip dysplasia, and what makes this rare..."
   },
   "stats": {
     "size": {
@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_a2f261d5-37c8-465f-8f85-0397316229cc.png?v=1777527722",
       "alt": "Field Spaniel"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_493a5673-5bcb-4fc3-bf96-a4d276d60ef4.png?v=1777527730",
+        "alt": "Field Spaniel at home with owner",
+        "caption": "Life with a Field Spaniel — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/field-spaniel-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_7c80703f-8263-4232-85a8-d7a649e3daab.png?v=1777527726",
+        "alt": "Field Spaniel coat being brushed",
+        "caption": "Coat care is a big part of Field Spaniel ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/field-spaniel-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_5e2fb721-e817-49e7-a929-02c31001507b.png?v=1777527734",
+        "alt": "Field Spaniel puppy",
+        "caption": "Bringing home a Field Spaniel puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/field-spaniel-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "First-time or experienced owners who use positive, reward-based training methods"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Field Spaniels need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You have a small apartment without nearby outdoor space — at 35–50 lbs, Field Spaniels need room to stretch and a routine of off-property exercise",
         "Owners who want a widely available breed with short wait times",
         "Households where grooming and ear cleaning will be neglected",
         "People who prefer a highly social, outgoing dog with everyone (Field Spaniels are somewhat reserved with strangers)",

@@ -65,7 +65,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_f72f8e40-110a-4de9-87b4-f588fc4ffaf9.png?v=1777528471",
       "alt": "Havanese"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_5d323592-4bfb-47e8-a333-f36eca5219c2.png?v=1777528483",
+        "alt": "Havanese at home with owner",
+        "caption": "Life with a Havanese — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/havanese-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_133e6ce8-c3a3-4254-8b36-1c75461c05f1.png?v=1777528479",
+        "alt": "Havanese coat being brushed",
+        "caption": "Coat care is a big part of Havanese ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/havanese-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_f6019699-c40d-41ac-855b-aa15e135b366.png?v=1777528467",
+        "alt": "Havanese puppy",
+        "caption": "Bringing home a Havanese puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/havanese-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -114,6 +140,8 @@
         "Owners willing to invest in consistent grooming (professional or at-home)"
       ],
       "not_fit": [
+        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Havanese coats matt fast without consistent care",
+        "You have close neighbors or thin apartment walls — Havaneses are vocal by breed standard and a single barking complaint can violate many city or HOA noise ordinances",
         "Owners who will be gone for 8–10 hours daily — separation anxiety is a real concern",
         "Anyone wanting a low-grooming-maintenance dog",
         "Households with steps or furniture the dog would need to jump from without ramps"

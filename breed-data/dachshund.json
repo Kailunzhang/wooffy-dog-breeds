@@ -64,7 +64,33 @@
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2c099c3d-5ab7-4d61-b69a-dfae3db32d87.png?v=1777527343",
       "alt": "Dachshund"
-    }
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_b8a58f3c-5e59-4285-91ac-1b0f1094384c.png?v=1777527347",
+        "alt": "Dachshund at home with owner",
+        "caption": "Life with a Dachshund — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/dachshund-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ce46c8bc-b939-4ede-b628-578b288e1873.png?v=1777527351",
+        "alt": "Dachshund coat being brushed",
+        "caption": "Coat care is a big part of Dachshund ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/dachshund-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_aa1829c6-4c6b-4e70-926f-b4049c772fa7.png?v=1777527337",
+        "alt": "Dachshund puppy",
+        "caption": "Bringing home a Dachshund puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/dachshund-puppy-checklist"
+      }
+    ]
   },
   "sections": {
     "intro": {
@@ -113,6 +139,7 @@
         "Apartment or smaller home living — size works, but stairs and furniture-jumping need management"
       ],
       "not_fit": [
+        "You expect a calm, quiet first 8-12 weeks — Dachshund puppies, like all breeds, go through a 'puppy blues' phase of sleep loss, biting, accidents, and overwhelm that 73% of new sole-caretakers report struggling with",
         "Households with very young children who may drop or mishandle the dog",
         "Unwilling to use ramps and manage furniture access consistently",
         "Expecting quick, easy housetraining — Dachshunds are notoriously stubborn about it",
