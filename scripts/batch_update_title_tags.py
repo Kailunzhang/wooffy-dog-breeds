@@ -69,6 +69,8 @@ def compute_title_tag(slug: str, name: str) -> str | None:
     roundup_prefixes = ("best-", "most-", "easiest-", "quietest-", "longest-", "rarest-", "low-", "dog-breeds-")
     if any(slug.startswith(p) for p in roundup_prefixes):
         return f"{name}: Top Picks & Care Guide"
+    if "-vs-" in slug:
+        return f"{name}: Which Is Right for You?"
     suffix_templates = {
         "-grooming-guide":    "{breed} Grooming Guide: Tools, Tips & Schedule",
         "-first-year-costs":  "{breed} Cost: First-Year & Annual Budget",

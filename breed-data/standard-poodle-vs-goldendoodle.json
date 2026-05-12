@@ -65,8 +65,8 @@
   },
   "images": {
     "hero": {
-      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_10c6a9d9-9819-453b-a4c0-cdbd2125a123.png?v=1778474556",
-      "alt": "Standard Poodle and Goldendoodle, head-to-head comparison"
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/comparison-standard-poodle-vs-goldendoodle-hero.png?v=1778560603",
+      "alt": "Standard Poodle and Goldendoodle side by side, purebred vs doodle comparison"
     }
   },
   "sections": {
@@ -104,6 +104,11 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Standard Poodle if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Need guaranteed minimal shedding. Want the most predictable temperament and health outcomes. Are comfortable with a slightly more reserved-with-strangers personality. Want lower lifetime cancer risk than Goldendoodle. Can find a reputable Poodle breeder (there's no AKC tracking equivalent to GANA for Doodles, but the OFA database is reliable).</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Goldendoodle if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a notably friendly, child-oriented temperament. Accept the coat-variability risk of F1, OR are willing to invest in F1B/multigen from a tested breeder. Have access to the GANA Blue Ribbon ecosystem. Don't mind slightly higher lifetime health costs.</p>"
+    },
+    "related": {
+      "label": "Related Reading",
+      "heading": "Compare More Breeds",
+      "html": "<!-- comparison-related-section v1 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/standard-poodle\" style=\"color:#000;font-weight:600;\">Standard Poodle full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/goldendoodle\" style=\"color:#000;font-weight:600;\">Goldendoodle full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/goldendoodle-vs-labradoodle\" style=\"color:#000;font-weight:600;\">Goldendoodle vs Labradoodle</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-hypoallergenic-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Hypoallergenic Dog Breeds (both feature here)</a></li></ul>"
     }
   },
   "faq": [

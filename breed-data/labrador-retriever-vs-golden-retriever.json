@@ -63,8 +63,8 @@
   },
   "images": {
     "hero": {
-      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_865a38ae-38ac-4dd5-8e90-62027625d2c4.png?v=1778474604",
-      "alt": "Labrador Retriever and Golden Retriever, head-to-head comparison"
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/comparison-labrador-retriever-vs-golden-retriever-hero.png?v=1778560615",
+      "alt": "Labrador Retriever and Golden Retriever side by side, breed comparison"
     }
   },
   "sections": {
@@ -102,6 +102,11 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Labrador if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want minimal grooming. Live in a hot climate. Prefer a bouncy, food-driven personality. Are interested in field work, hunting, water sports, or service-dog training. Want the slightly lower cancer risk over the dog's lifetime.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Golden Retriever if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Are willing to commit to 2-3x weekly brushing and accept heavy shedding. Want a slightly softer, more emotionally responsive personality. Are interested in therapy-dog work. Live in a cool or moderate climate. Have the budget and insurance for elevated cancer risk.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose a Goldendoodle or Labradoodle instead if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Need significantly lower shedding. Both <a href=\"/blogs/dog-breeds/goldendoodle\">Goldendoodles</a> and <a href=\"/blogs/dog-breeds/labradoodle\">Labradoodles</a> can offer the same family-friendly temperaments with reduced shedding (when bred well from tested lines). See <a href=\"/blogs/dog-breeds/goldendoodle-vs-labradoodle\">our Doodle comparison</a> for that branch.</p>"
+    },
+    "related": {
+      "label": "Related Reading",
+      "heading": "Compare More Breeds",
+      "html": "<!-- comparison-related-section v1 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/labrador-retriever\" style=\"color:#000;font-weight:600;\">Labrador Retriever full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/golden-retriever\" style=\"color:#000;font-weight:600;\">Golden Retriever full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/goldendoodle-vs-labradoodle\" style=\"color:#000;font-weight:600;\">Goldendoodle vs Labradoodle (the doodle alternatives)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-family-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Family Dog Breeds (full roundup)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-hunting-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Hunting Dog Breeds (both excel here)</a></li></ul>"
     }
   },
   "faq": [

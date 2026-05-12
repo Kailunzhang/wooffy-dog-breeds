@@ -64,8 +64,8 @@
   },
   "images": {
     "hero": {
-      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_fe4e0932-6a46-4da5-b174-ecd87cdc05a7.png?v=1778474649",
-      "alt": "Bernedoodle and Goldendoodle, head-to-head comparison"
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/comparison-bernedoodle-vs-goldendoodle-hero.png?v=1778560613",
+      "alt": "Bernedoodle and Goldendoodle side by side, doodle breed comparison"
     }
   },
   "sections": {
@@ -103,6 +103,11 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Bernedoodle if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a calmer, gentler dog with lower energy demands. Have space for a larger dog (or pick the Mini). Love the tri-color pattern. Tolerate some training stubbornness. Have a household where someone is occasionally away for a few hours (Bernedoodles handle this better).</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Goldendoodle if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want higher trainability and faster learning. Have an active outdoor household. Can be home most of the day or arrange midday companionship. Want access to the GANA Blue Ribbon breeder ecosystem. Prefer warm solid colors over patterns.</p>"
+    },
+    "related": {
+      "label": "Related Reading",
+      "heading": "Compare More Breeds",
+      "html": "<!-- comparison-related-section v1 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/bernedoodle\" style=\"color:#000;font-weight:600;\">Bernedoodle full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/goldendoodle\" style=\"color:#000;font-weight:600;\">Goldendoodle full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/goldendoodle-vs-labradoodle\" style=\"color:#000;font-weight:600;\">Goldendoodle vs Labradoodle (the other top doodle comparison)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-doodle-breeds-for-families\" style=\"color:#000;font-weight:600;\">Best Doodle Breeds for Families</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-large-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Large Dog Breeds (for the Standard Bernedoodle)</a></li></ul>"
     }
   },
   "faq": [

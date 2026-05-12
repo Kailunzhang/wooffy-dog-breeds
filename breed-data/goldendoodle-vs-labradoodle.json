@@ -64,8 +64,8 @@
   },
   "images": {
     "hero": {
-      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_10c6a9d9-9819-453b-a4c0-cdbd2125a123.png?v=1778474556",
-      "alt": "Goldendoodle and Labradoodle, head-to-head comparison guide"
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/comparison-goldendoodle-vs-labradoodle-hero.png?v=1778560603",
+      "alt": "Goldendoodle and Labradoodle side by side, head-to-head breed comparison"
     }
   },
   "sections": {
@@ -103,6 +103,11 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Goldendoodle if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a calm, child-oriented family dog. Prefer moderate (not high) energy. Plan to be home most of the day or arrange midday companionship. Value the GANA Blue Ribbon ecosystem of tested breeders. Are comfortable monitoring for cancer signs as the dog ages.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Labradoodle if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Have an active outdoor household (hiking, running, swimming). Want a more playful-bouncy personality. Prioritize coat predictability (and can afford Australian Labradoodle pricing). Are interested in service-dog or therapy-dog work. Want slightly better tolerance of being home alone.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Standard Poodle instead if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Need guaranteed minimal shedding (no Doodle is guaranteed; Standard Poodle is). Want the most predictable temperament outcome. Are willing to look past the show-clip appearance (a sporting clip looks similar to a Doodle anyway).</p>"
+    },
+    "related": {
+      "label": "Related Reading",
+      "heading": "Compare More Breeds",
+      "html": "<!-- comparison-related-section v1 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/goldendoodle\" style=\"color:#000;font-weight:600;\">Goldendoodle full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/labradoodle\" style=\"color:#000;font-weight:600;\">Labradoodle full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/standard-poodle-vs-goldendoodle\" style=\"color:#000;font-weight:600;\">Standard Poodle vs Goldendoodle: which is more reliably low-shedding</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/bernedoodle-vs-goldendoodle\" style=\"color:#000;font-weight:600;\">Bernedoodle vs Goldendoodle: gentler temperament option</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-doodle-breeds-for-families\" style=\"color:#000;font-weight:600;\">Best Doodle Breeds for Families (full roundup)</a></li></ul>"
     }
   },
   "faq": [

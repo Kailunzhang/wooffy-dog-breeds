@@ -65,8 +65,8 @@
   },
   "images": {
     "hero": {
-      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_8d826209-7b14-4bdd-85dc-38bd094f3871.png?v=1778474699",
-      "alt": "Cavapoo and Cockapoo, small Doodle comparison"
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/comparison-cavapoo-vs-cockapoo-hero.png?v=1778560603",
+      "alt": "Cavapoo and Cockapoo side by side, small doodle breed comparison"
     }
   },
   "sections": {
@@ -104,6 +104,11 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Cavapoo if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a notably calm, lap-oriented small dog. Live in an apartment with thin walls (quieter). Are willing to invest in cardiac monitoring. Want one of the gentlest small Doodles.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Cockapoo if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a more playful, slightly more active small dog. Are comfortable with daily ear-cleaning routine. Prefer slightly lower upfront cost. Have school-age children who want a more interactive playmate.</p>"
+    },
+    "related": {
+      "label": "Related Reading",
+      "heading": "Compare More Breeds",
+      "html": "<!-- comparison-related-section v1 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/cavapoo\" style=\"color:#000;font-weight:600;\">Cavapoo full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/cavalier-king-charles-spaniel\" style=\"color:#000;font-weight:600;\">Cavalier King Charles Spaniel (the purebred parent)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/cocker-spaniel\" style=\"color:#000;font-weight:600;\">Cocker Spaniel (the Cockapoo's purebred parent)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/standard-poodle\" style=\"color:#000;font-weight:600;\">Standard Poodle (the shared parent breed)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-small-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Small Dog Breeds (full roundup)</a></li></ul>"
     }
   },
   "faq": [

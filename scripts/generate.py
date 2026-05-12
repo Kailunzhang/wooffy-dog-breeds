@@ -82,24 +82,33 @@ def build_stats_grid(stats):
 
 
 def build_toc(sections, breed):
-    section_keys = ["intro", "appearance", "temperament", "mikes_take", "care",
-                    "health", "special", "cost", "right_for_you", "finding", "faq"]
-    # Fallback labels for sections not in the sections dict
+    # Use the article's actual section insertion order (Python 3.7+ preserves it),
+    # plus always append faq at the end if the article has FAQ entries.
+    # This handles main breed articles, roundups, and comparison articles uniformly.
+    has_faq = bool(breed.get("faq"))
+    ordered = list(sections.keys())
+    if has_faq and "faq" not in ordered:
+        ordered.append("faq")
     fallbacks = {
         "right_for_you": sections.get("right_for_you", {}).get("heading", "Is This Breed Right for You?"),
         "faq":           "FAQ",
     }
     items = ""
-    has_faq = bool(breed.get("faq"))
-    for key in section_keys:
-        if key == "faq" and not has_faq:
-            continue
-        if key not in ("faq", "right_for_you") and key not in sections:
-            continue
-        if key == "right_for_you" and not sections.get("right_for_you"):
-            continue
+    for key in ordered:
+        if key == "faq":
+            if not has_faq:
+                continue
+            sec = {}
+        else:
+            sec = sections.get(key, {})
+            if not isinstance(sec, dict):
+                continue
+            # Skip empty html sections (right_for_you may have good_fit instead of html)
+            if key != "right_for_you" and not sec.get("html"):
+                continue
+            if key == "right_for_you" and not sec.get("good_fit") and not sec.get("html"):
+                continue
         anchor = key.replace("_", "-")
-        sec = sections.get(key, {})
         heading = sec.get("heading", "") if isinstance(sec, dict) else ""
         label = heading or fallbacks.get(key, key)
         label = label.replace("<br>", " ").replace("<br/>", " ")
@@ -785,10 +794,12 @@ def find_article_by_handle(handle):
 
 
 def _compute_title_tag(slug, name):
-    """SEO title_tag template covering breeds (main+supporting) and roundups."""
+    """SEO title_tag template covering breeds (main+supporting), roundups, and comparisons."""
     roundup_prefixes = ("best-", "most-", "easiest-", "quietest-", "longest-", "rarest-", "low-", "dog-breeds-")
     if any(slug.startswith(p) for p in roundup_prefixes):
         return f"{name}: Top Picks & Care Guide"
+    if "-vs-" in slug:
+        return f"{name}: Which Is Right for You?"
     suffix_templates = {
         "-grooming-guide":    "{breed} Grooming Guide: Tools, Tips & Schedule",
         "-first-year-costs":  "{breed} Cost: First-Year & Annual Budget",
