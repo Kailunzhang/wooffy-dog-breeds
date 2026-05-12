@@ -60,13 +60,13 @@
   "images": {
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_056bbfde-a6e1-483a-98d2-065d674d1ad0.png?v=1777574119",
-      "alt": "Briard"
+      "alt": "Adult Briard with long flowing tawny double coat with shaggy beard and eyebrows covering the eyes, professional pet photograph"
     },
     "secondary": [
       {
         "placement": "before_temperament",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_23f4e70d-d41d-4cc6-95b1-9136ecb5539b.png?v=1777574127",
-        "alt": "Briard at home with owner",
+        "alt": "Briard relaxing at home in a sunlit family setting",
         "caption": "Life with a Briard — what daily ownership actually looks and costs.",
         "cta": "See first-year costs →",
         "link": "/blogs/dog-breeds/briard-first-year-costs"
@@ -74,7 +74,7 @@
       {
         "placement": "before_care",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_0eeb1400-1775-4d59-8d13-9711c41f6e08.png?v=1777574123",
-        "alt": "Briard coat being brushed",
+        "alt": "Briard being brushed and groomed at home",
         "caption": "Coat care is a big part of Briard ownership.",
         "cta": "See full grooming guide →",
         "link": "/blogs/dog-breeds/briard-grooming-guide"
@@ -82,7 +82,7 @@
       {
         "placement": "before_finding",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_fc4d3c0f-25a2-44c5-8b38-144bc7fe4e19.png?v=1777574115",
-        "alt": "Briard puppy",
+        "alt": "Eight-week-old Briard puppy looking curiously at the camera",
         "caption": "Bringing home a Briard puppy.",
         "cta": "See the puppy checklist →",
         "link": "/blogs/dog-breeds/briard-puppy-checklist"

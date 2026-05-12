@@ -63,13 +63,13 @@
   "images": {
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_0f877e02-3d14-46b5-90ab-7bb42e39a610.png?v=1777529800",
-      "alt": "Miniature Poodle"
+      "alt": "Adult Miniature Poodle with dense apricot curly coat in a refined elegant cut, professional pet photograph"
     },
     "secondary": [
       {
         "placement": "before_temperament",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_c170677c-35b1-4231-b9ed-b646de8b7246.png?v=1777529805",
-        "alt": "Miniature Poodle at home with owner",
+        "alt": "Miniature Poodle relaxing at home in a sunlit family setting",
         "caption": "Life with a Miniature Poodle — what daily ownership actually looks and costs.",
         "cta": "See first-year costs →",
         "link": "/blogs/dog-breeds/miniature-poodle-first-year-costs"
@@ -77,7 +77,7 @@
       {
         "placement": "before_care",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_3f2f424e-0e0c-4a2a-a99f-adf68da06927.png?v=1777529794",
-        "alt": "Miniature Poodle coat being brushed",
+        "alt": "Miniature Poodle being brushed and groomed at home",
         "caption": "Coat care is a big part of Miniature Poodle ownership.",
         "cta": "See full grooming guide →",
         "link": "/blogs/dog-breeds/miniature-poodle-grooming-guide"
@@ -85,7 +85,7 @@
       {
         "placement": "before_finding",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9727bc3a-6e2a-4e39-be7b-a6011163c338.png?v=1777529808",
-        "alt": "Miniature Poodle puppy",
+        "alt": "Eight-week-old Miniature Poodle puppy looking curiously at the camera",
         "caption": "Bringing home a Miniature Poodle puppy.",
         "cta": "See the puppy checklist →",
         "link": "/blogs/dog-breeds/miniature-poodle-puppy-checklist"

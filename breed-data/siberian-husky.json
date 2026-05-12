@@ -62,13 +62,13 @@
   "images": {
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2af4103e-ccde-499e-be22-384c8d278086.png?v=1777531626",
-      "alt": "Siberian Husky"
+      "alt": "Adult Siberian Husky with thick black-and-white double coat with blue or bicolor eyes, wolf-like profile, professional pet photograph"
     },
     "secondary": [
       {
         "placement": "before_temperament",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_0d845525-51fe-4aa2-9c8e-e0a7a7377464.png?v=1777531630",
-        "alt": "Siberian Husky at home with owner",
+        "alt": "Siberian Husky relaxing at home in a sunlit family setting",
         "caption": "Life with a Siberian Husky — what daily ownership actually looks and costs.",
         "cta": "See first-year costs →",
         "link": "/blogs/dog-breeds/siberian-husky-first-year-costs"
@@ -76,7 +76,7 @@
       {
         "placement": "before_care",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_78ab5242-7ce5-459f-ba7c-4fb48a75deda.png?v=1777531622",
-        "alt": "Siberian Husky coat being brushed",
+        "alt": "Siberian Husky being brushed and groomed at home",
         "caption": "Coat care is a big part of Siberian Husky ownership.",
         "cta": "See full grooming guide →",
         "link": "/blogs/dog-breeds/siberian-husky-grooming-guide"
@@ -84,7 +84,7 @@
       {
         "placement": "before_finding",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9cfd1cd8-0976-40ce-8a43-d0562ec7d96d.png?v=1777531634",
-        "alt": "Siberian Husky puppy",
+        "alt": "Eight-week-old Siberian Husky puppy looking curiously at the camera",
         "caption": "Bringing home a Siberian Husky puppy.",
         "cta": "See the puppy checklist →",
         "link": "/blogs/dog-breeds/siberian-husky-puppy-checklist"

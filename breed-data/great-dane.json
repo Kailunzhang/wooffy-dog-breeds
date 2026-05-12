@@ -64,13 +64,13 @@
   "images": {
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_57f64e6e-d1ef-43af-aede-c8bf53d050ad.png?v=1777528259",
-      "alt": "Great Dane"
+      "alt": "Adult Great Dane with short sleek fawn coat with a black mask, towering elegant frame, professional pet photograph"
     },
     "secondary": [
       {
         "placement": "before_temperament",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_376c3b21-4114-4bdf-bec6-0b6d1af0f223.png?v=1777528247",
-        "alt": "Great Dane at home with owner",
+        "alt": "Great Dane relaxing at home in a sunlit family setting",
         "caption": "Life with a Great Dane — what daily ownership actually looks and costs.",
         "cta": "See first-year costs →",
         "link": "/blogs/dog-breeds/great-dane-first-year-costs"
@@ -78,7 +78,7 @@
       {
         "placement": "before_care",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_c4103480-4b64-47f9-a2b4-17afae164b4c.png?v=1777528255",
-        "alt": "Great Dane coat being brushed",
+        "alt": "Great Dane being brushed and groomed at home",
         "caption": "Coat care is a big part of Great Dane ownership.",
         "cta": "See full grooming guide →",
         "link": "/blogs/dog-breeds/great-dane-grooming-guide"
@@ -86,7 +86,7 @@
       {
         "placement": "before_finding",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_6fb2bf9a-3794-4ab1-b413-a8f801886afb.png?v=1777528251",
-        "alt": "Great Dane puppy",
+        "alt": "Eight-week-old Great Dane puppy looking curiously at the camera",
         "caption": "Bringing home a Great Dane puppy.",
         "cta": "See the puppy checklist →",
         "link": "/blogs/dog-breeds/great-dane-puppy-checklist"

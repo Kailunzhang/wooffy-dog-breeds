@@ -64,13 +64,13 @@
   "images": {
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_e7a6da94-7077-4311-be34-3f0a12b7c663.png?v=1777526623",
-      "alt": "English Bulldog"
+      "alt": "Adult Bulldog with short fawn-and-white coat, broad wrinkled head, stocky low frame, professional pet photograph"
     },
     "secondary": [
       {
         "placement": "before_temperament",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7c8a2a6c-4dc2-4af7-95db-8b521325b7cc.png?v=1777526632",
-        "alt": "Bulldog at home with owner",
+        "alt": "Bulldog relaxing at home in a sunlit family setting",
         "caption": "Life with a Bulldog — what daily ownership actually looks and costs.",
         "cta": "See first-year costs →",
         "link": "/blogs/dog-breeds/bulldog-first-year-costs"
@@ -78,7 +78,7 @@
       {
         "placement": "before_care",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_f14dc488-246c-4fb5-bc6b-a5733de91395.png?v=1777526620",
-        "alt": "Bulldog coat being brushed",
+        "alt": "Bulldog being brushed and groomed at home",
         "caption": "Coat care is a big part of Bulldog ownership.",
         "cta": "See full grooming guide →",
         "link": "/blogs/dog-breeds/bulldog-grooming-guide"
@@ -86,7 +86,7 @@
       {
         "placement": "before_finding",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_f51d76bc-d770-4c99-842e-84f91a4533b9.png?v=1777526627",
-        "alt": "Bulldog puppy",
+        "alt": "Eight-week-old Bulldog puppy looking curiously at the camera",
         "caption": "Bringing home a Bulldog puppy.",
         "cta": "See the puppy checklist →",
         "link": "/blogs/dog-breeds/bulldog-puppy-checklist"

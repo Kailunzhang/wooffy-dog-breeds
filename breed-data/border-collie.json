@@ -65,13 +65,13 @@
   "images": {
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_9c1274b3-2b43-4534-b440-e6f58dab74f5.png?v=1777526272",
-      "alt": "Border Collie"
+      "alt": "Adult Border Collie with medium-length black-and-white double coat with feathering, professional pet photograph"
     },
     "secondary": [
       {
         "placement": "before_temperament",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7c081500-5dfe-4184-9df2-86e658ca4f95.png?v=1777526265",
-        "alt": "Border Collie at home with owner",
+        "alt": "Border Collie relaxing at home in a sunlit family setting",
         "caption": "Life with a Border Collie — what daily ownership actually looks and costs.",
         "cta": "See first-year costs →",
         "link": "/blogs/dog-breeds/border-collie-first-year-costs"
@@ -79,7 +79,7 @@
       {
         "placement": "before_care",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_780d4102-99e6-4519-8057-b803e653fa3c.png?v=1777526283",
-        "alt": "Border Collie coat being brushed",
+        "alt": "Border Collie being brushed and groomed at home",
         "caption": "Coat care is a big part of Border Collie ownership.",
         "cta": "See full grooming guide →",
         "link": "/blogs/dog-breeds/border-collie-grooming-guide"
@@ -87,7 +87,7 @@
       {
         "placement": "before_finding",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_9a410929-830b-4320-8899-de38f2e135ba.png?v=1777526279",
-        "alt": "Border Collie puppy",
+        "alt": "Eight-week-old Border Collie puppy looking curiously at the camera",
         "caption": "Bringing home a Border Collie puppy.",
         "cta": "See the puppy checklist →",
         "link": "/blogs/dog-breeds/border-collie-puppy-checklist"

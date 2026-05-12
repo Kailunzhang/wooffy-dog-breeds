@@ -64,13 +64,13 @@
   "images": {
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_7a87f5bd-2a5f-40a6-bddd-cd018fa7109f.png?v=1777531109",
-      "alt": "Saint Bernard"
+      "alt": "Adult Saint Bernard with long red-and-white coat with broad flat head and deep jowls, professional pet photograph"
     },
     "secondary": [
       {
         "placement": "before_temperament",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7e6c526b-7998-40b1-a068-19694588442c.png?v=1777531105",
-        "alt": "Saint Bernard at home with owner",
+        "alt": "Saint Bernard relaxing at home in a sunlit family setting",
         "caption": "Life with a Saint Bernard — what daily ownership actually looks and costs.",
         "cta": "See first-year costs →",
         "link": "/blogs/dog-breeds/saint-bernard-first-year-costs"
@@ -78,7 +78,7 @@
       {
         "placement": "before_care",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_adea74c1-18d0-4df1-919c-94407688b586.png?v=1777531101",
-        "alt": "Saint Bernard coat being brushed",
+        "alt": "Saint Bernard being brushed and groomed at home",
         "caption": "Coat care is a big part of Saint Bernard ownership.",
         "cta": "See full grooming guide →",
         "link": "/blogs/dog-breeds/saint-bernard-grooming-guide"
@@ -86,7 +86,7 @@
       {
         "placement": "before_finding",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_c00ee275-511d-4772-93b0-8d789d09e3bc.png?v=1777531097",
-        "alt": "Saint Bernard puppy",
+        "alt": "Eight-week-old Saint Bernard puppy looking curiously at the camera",
         "caption": "Bringing home a Saint Bernard puppy.",
         "cta": "See the puppy checklist →",
         "link": "/blogs/dog-breeds/saint-bernard-puppy-checklist"

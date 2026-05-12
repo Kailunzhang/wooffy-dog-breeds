@@ -168,6 +168,8 @@ def build_fun_facts(facts):
 
 
 def build_faq(faqs):
+    if not faqs:
+        return ""
     items = ""
     for i, item in enumerate(faqs):
         border_bottom = ";border-bottom:1px solid #e8e8e8" if i == len(faqs) - 1 else ""
@@ -179,12 +181,27 @@ def build_faq(faqs):
     </summary>
     <p style="font-size:0.9em;font-weight:400;line-height:1.7;color:#6b7177;margin:0 0 18px 0;padding-right:24px;">{item['a']}</p>
   </details>"""
+    # FAQPage JSON-LD schema for AI agents / voice search / Google understanding.
+    schema = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": item["q"],
+                "acceptedAnswer": {"@type": "Answer", "text": item["a"]},
+            }
+            for item in faqs
+        ],
+    }
+    schema_json = json.dumps(schema, ensure_ascii=False).replace("</", "<\\/")
     return f"""<style>
 .wooffy-faq summary::-webkit-details-marker{{display:none;}}
 .wooffy-faq summary{{cursor:pointer;outline:none;}}
 .wooffy-faq details[open] .faq-icon{{transform:rotate(45deg);}}
 .wooffy-faq .faq-icon{{transition:transform 0.22s ease;display:inline-block;}}
 </style>
+<script type="application/ld+json">{schema_json}</script>
 <div class="wooffy-faq" style="margin-bottom:48px;padding-top:32px;border-top:1px solid #e8e8e8;">
   <p style="font-family:'figmaMono','SF Mono',monospace;font-size:0.7em;font-weight:400;letter-spacing:0.54px;text-transform:uppercase;color:rgba(0,0,0,0.45);margin:0 0 8px 0;">FAQ</p>
   <h2 id="faq" style="font-size:1.5em;font-weight:700;color:#1a1a1a;margin:0 0 4px 0;line-height:1.2;">Frequently Asked Questions</h2>

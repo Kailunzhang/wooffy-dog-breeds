@@ -63,13 +63,13 @@
   "images": {
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_2f8c8919-427f-455e-8143-cbfeac064f62.png?v=1777527453",
-      "alt": "Doberman Pinscher"
+      "alt": "Adult Doberman Pinscher with short sleek black-and-rust coat, athletic muscular frame, professional pet photograph"
     },
     "secondary": [
       {
         "placement": "before_temperament",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_c6aaff3a-169f-4c83-9ad0-87c46837fda0.png?v=1777527458",
-        "alt": "Doberman Pinscher at home with owner",
+        "alt": "Doberman Pinscher relaxing at home in a sunlit family setting",
         "caption": "Life with a Doberman Pinscher — what daily ownership actually looks and costs.",
         "cta": "See first-year costs →",
         "link": "/blogs/dog-breeds/doberman-pinscher-first-year-costs"
@@ -77,7 +77,7 @@
       {
         "placement": "before_care",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_d885fbb7-c59f-48c3-9db3-22928b345d9a.png?v=1777527461",
-        "alt": "Doberman Pinscher coat being brushed",
+        "alt": "Doberman Pinscher being brushed and groomed at home",
         "caption": "Coat care is a big part of Doberman Pinscher ownership.",
         "cta": "See full grooming guide →",
         "link": "/blogs/dog-breeds/doberman-pinscher-grooming-guide"
@@ -85,7 +85,7 @@
       {
         "placement": "before_finding",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_7c68cb65-68ac-4400-b300-2dda63f02423.png?v=1777527466",
-        "alt": "Doberman Pinscher puppy",
+        "alt": "Eight-week-old Doberman Pinscher puppy looking curiously at the camera",
         "caption": "Bringing home a Doberman Pinscher puppy.",
         "cta": "See the puppy checklist →",
         "link": "/blogs/dog-breeds/doberman-pinscher-puppy-checklist"

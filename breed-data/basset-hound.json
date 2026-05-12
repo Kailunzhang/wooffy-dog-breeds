@@ -63,13 +63,13 @@
   "images": {
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_54e63a09-bd39-4448-b010-a92e84eca909.png?v=1777525840",
-      "alt": "Basset Hound"
+      "alt": "Adult Basset Hound with short tricolor coat, long droopy ears, low-slung wrinkled body, professional pet photograph"
     },
     "secondary": [
       {
         "placement": "before_temperament",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_e22885d1-f0b6-4cac-9bc1-16e4acc280c0.png?v=1777525832",
-        "alt": "Basset Hound at home with owner",
+        "alt": "Basset Hound relaxing at home in a sunlit family setting",
         "caption": "Life with a Basset Hound — what daily ownership actually looks and costs.",
         "cta": "See first-year costs →",
         "link": "/blogs/dog-breeds/basset-hound-first-year-costs"
@@ -77,7 +77,7 @@
       {
         "placement": "before_care",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_26c6970a-66bc-4d75-aaa9-9d787148ee30.png?v=1777525844",
-        "alt": "Basset Hound coat being brushed",
+        "alt": "Basset Hound being brushed and groomed at home",
         "caption": "Coat care is a big part of Basset Hound ownership.",
         "cta": "See full grooming guide →",
         "link": "/blogs/dog-breeds/basset-hound-grooming-guide"
@@ -85,7 +85,7 @@
       {
         "placement": "before_finding",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_2b3f39be-df2f-43a2-941a-b64b71c9b235.png?v=1777525836",
-        "alt": "Basset Hound puppy",
+        "alt": "Eight-week-old Basset Hound puppy looking curiously at the camera",
         "caption": "Bringing home a Basset Hound puppy.",
         "cta": "See the puppy checklist →",
         "link": "/blogs/dog-breeds/basset-hound-puppy-checklist"

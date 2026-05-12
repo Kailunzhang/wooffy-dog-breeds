@@ -62,13 +62,13 @@
   "images": {
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_89bf4fb0-c41c-4cfc-b343-24d56263e5ee.png?v=1777527854",
-      "alt": "French Bulldog"
+      "alt": "Adult French Bulldog with short fawn coat, large bat ears, flat brachycephalic face, compact heavy-boned frame, professional pet photograph"
     },
     "secondary": [
       {
         "placement": "before_temperament",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_c2a9c8f0-e88e-4f8e-8dae-c1c44cd64d2e.png?v=1777527846",
-        "alt": "French Bulldog at home with owner",
+        "alt": "French Bulldog relaxing at home in a sunlit family setting",
         "caption": "Life with a French Bulldog — what daily ownership actually looks and costs.",
         "cta": "See first-year costs →",
         "link": "/blogs/dog-breeds/french-bulldog-first-year-costs"
@@ -76,7 +76,7 @@
       {
         "placement": "before_care",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_161a47a1-305d-4416-97ab-d3764478c6ee.png?v=1777527850",
-        "alt": "French Bulldog coat being brushed",
+        "alt": "French Bulldog being brushed and groomed at home",
         "caption": "Coat care is a big part of French Bulldog ownership.",
         "cta": "See full grooming guide →",
         "link": "/blogs/dog-breeds/french-bulldog-grooming-guide"
@@ -84,7 +84,7 @@
       {
         "placement": "before_finding",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_068ce089-4e3f-4288-83c9-1f4b5a03d6a2.png?v=1777527842",
-        "alt": "French Bulldog puppy",
+        "alt": "Eight-week-old French Bulldog puppy looking curiously at the camera",
         "caption": "Bringing home a French Bulldog puppy.",
         "cta": "See the puppy checklist →",
         "link": "/blogs/dog-breeds/french-bulldog-puppy-checklist"

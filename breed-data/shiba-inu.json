@@ -65,13 +65,13 @@
   "images": {
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_bb1c5b03-a29f-49ef-b4b3-f18f93d4bb29.png?v=1777531522",
-      "alt": "Shiba Inu"
+      "alt": "Adult Shiba Inu with thick red double coat with urajiro (white markings on cheeks/chest), curled tail, professional pet photograph"
     },
     "secondary": [
       {
         "placement": "before_temperament",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_adc48d5c-ef21-4226-8749-8046405bf9b1.png?v=1777531518",
-        "alt": "Shiba Inu at home with owner",
+        "alt": "Shiba Inu relaxing at home in a sunlit family setting",
         "caption": "Life with a Shiba Inu — what daily ownership actually looks and costs.",
         "cta": "See first-year costs →",
         "link": "/blogs/dog-breeds/shiba-inu-first-year-costs"
@@ -79,7 +79,7 @@
       {
         "placement": "before_care",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_430bdfcb-1cb7-43e1-a389-d6288770f72b.png?v=1777531510",
-        "alt": "Shiba Inu coat being brushed",
+        "alt": "Shiba Inu being brushed and groomed at home",
         "caption": "Coat care is a big part of Shiba Inu ownership.",
         "cta": "See full grooming guide →",
         "link": "/blogs/dog-breeds/shiba-inu-grooming-guide"
@@ -87,7 +87,7 @@
       {
         "placement": "before_finding",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_88cdd2e4-50b4-46c1-ac5f-db0e9dece34e.png?v=1777531514",
-        "alt": "Shiba Inu puppy",
+        "alt": "Eight-week-old Shiba Inu puppy looking curiously at the camera",
         "caption": "Bringing home a Shiba Inu puppy.",
         "cta": "See the puppy checklist →",
         "link": "/blogs/dog-breeds/shiba-inu-puppy-checklist"

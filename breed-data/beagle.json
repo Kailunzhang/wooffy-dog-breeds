@@ -62,13 +62,13 @@
   "images": {
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_cd2e0ed8-7697-424a-bee7-07178bcc18b9.png?v=1777525887",
-      "alt": "Beagle"
+      "alt": "Adult Beagle with short tricolor (black, white, tan) coat, professional pet photograph"
     },
     "secondary": [
       {
         "placement": "before_temperament",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_f8549465-d51e-4f40-9831-f45f895f4366.png?v=1777525891",
-        "alt": "Beagle at home with owner",
+        "alt": "Beagle relaxing at home in a sunlit family setting",
         "caption": "Life with a Beagle — what daily ownership actually looks and costs.",
         "cta": "See first-year costs →",
         "link": "/blogs/dog-breeds/beagle-first-year-costs"
@@ -76,7 +76,7 @@
       {
         "placement": "before_care",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_1f8743a3-f660-48cf-baa3-16d520b4b946.png?v=1777525883",
-        "alt": "Beagle coat being brushed",
+        "alt": "Beagle being brushed and groomed at home",
         "caption": "Coat care is a big part of Beagle ownership.",
         "cta": "See full grooming guide →",
         "link": "/blogs/dog-breeds/beagle-grooming-guide"
@@ -84,7 +84,7 @@
       {
         "placement": "before_finding",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_552db3a7-6b70-44b5-b6a1-6754d7626f28.png?v=1777525897",
-        "alt": "Beagle puppy",
+        "alt": "Eight-week-old Beagle puppy looking curiously at the camera",
         "caption": "Bringing home a Beagle puppy.",
         "cta": "See the puppy checklist →",
         "link": "/blogs/dog-breeds/beagle-puppy-checklist"

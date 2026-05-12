@@ -63,13 +63,13 @@
   "images": {
     "hero": {
       "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_86bc6cf3-66a4-4de5-ab75-40193c9d5e61.png?v=1777529857",
-      "alt": "Miniature Schnauzer"
+      "alt": "Adult Miniature Schnauzer with wiry salt-and-pepper coat with prominent beard and bushy eyebrows, professional pet photograph"
     },
     "secondary": [
       {
         "placement": "before_temperament",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_de3c71bd-8076-4915-a85c-1633f9e18aa5.png?v=1777529852",
-        "alt": "Miniature Schnauzer at home with owner",
+        "alt": "Miniature Schnauzer relaxing at home in a sunlit family setting",
         "caption": "Life with a Miniature Schnauzer — what daily ownership actually looks and costs.",
         "cta": "See first-year costs →",
         "link": "/blogs/dog-breeds/miniature-schnauzer-first-year-costs"
@@ -77,7 +77,7 @@
       {
         "placement": "before_care",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_39a4d11c-b75e-4448-bd6d-23efc931b728.png?v=1777529844",
-        "alt": "Miniature Schnauzer coat being brushed",
+        "alt": "Miniature Schnauzer being brushed and groomed at home",
         "caption": "Coat care is a big part of Miniature Schnauzer ownership.",
         "cta": "See full grooming guide →",
         "link": "/blogs/dog-breeds/miniature-schnauzer-grooming-guide"
@@ -85,7 +85,7 @@
       {
         "placement": "before_finding",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_3c82db30-71ae-424d-9e6a-3dae2b235c41.png?v=1777529848",
-        "alt": "Miniature Schnauzer puppy",
+        "alt": "Eight-week-old Miniature Schnauzer puppy looking curiously at the camera",
         "caption": "Bringing home a Miniature Schnauzer puppy.",
         "cta": "See the puppy checklist →",
         "link": "/blogs/dog-breeds/miniature-schnauzer-puppy-checklist"
