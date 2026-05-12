@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "name": "Great Dane vs Doberman Pinscher",
+    "slug": "great-dane-vs-doberman",
+    "shopify_handle": "great-dane-vs-doberman",
+    "group": "Guard & Giant Breed Comparisons",
+    "size_category": "Comparison",
+    "tagline": "Great Dane vs Doberman: gentle giant vs vigilant athlete. Size, family fit, cardiac risks, and which breed is right for your home.",
+    "tags": [
+      "comparison",
+      "great-dane",
+      "doberman-pinscher",
+      "giant-breed",
+      "guard-dog",
+      "family-dog",
+      "dog-breeds"
+    ],
+    "published": true,
+    "published_at": null,
+    "excerpt": "Great Dane vs Doberman compared: 150 vs 70 lbs, gentle giant vs protective athlete, DCM risk, family fit, mistakes to avoid.",
+    "meta_description": "Great Dane vs Doberman: size, temperament, DCM risk, family fit. Which is right?"
+  },
+  "stats": {
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Large-Giant"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "60-200 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "7-13 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "30-120 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "Low (both)"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Dane: Mod / Doberman: Excellent"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Excellent (both)"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Caution (both)"
+    }
+  },
+  "images": {
+    "hero": {
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/comparison-great-dane-vs-doberman-hero.png?v=1778612241",
+      "alt": "Great Dane and Doberman Pinscher side by side, large breed comparison"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "Great Dane vs Doberman: The Quick Answer",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Both are German breeds with impressive physical presence and protective potential. The decisive differences: <strong>size</strong> (Dane is 60-100 lbs heavier), <strong>energy level</strong> (Doberman has 2-3x the daily exercise requirement), <strong>protective instinct</strong> (Doberman is the protector; Dane is gentle and accepting), and <strong>health risk profile</strong> (Dane faces bloat + cardiomyopathy; Doberman faces DCM + von Willebrand).</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">For pure family-pet purposes wanting an impressive but calm companion, Great Dane is the easier match. For households wanting an active protective partner, Doberman is the right answer.</p><p style=\"font-size:0.8em;color:#999;margin:24px 0 0 0;text-align:right;\">Last updated May 2026 - by Kailun Zhang</p>"
+    },
+    "quick_answers": {
+      "label": "Quick Answers",
+      "heading": "5 Questions Most People Ask First",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Short answers to the questions most people ask before comparing these two:</p><div style=\"margin-bottom:14px;\"><p style=\"font-size:0.9em;font-weight:700;color:#1a1a1a;margin:0 0 4px 0;\">Q: Which is bigger?</p><p style=\"font-size:0.9em;color:#6b7177;line-height:1.6;margin:0;\">A: Great Dane, by a large margin. Adult Danes hit 150-200 lbs. Dobermans are 60-100 lbs.</p></div><div style=\"margin-bottom:14px;\"><p style=\"font-size:0.9em;font-weight:700;color:#1a1a1a;margin:0 0 4px 0;\">Q: Which is more protective?</p><p style=\"font-size:0.9em;color:#6b7177;line-height:1.6;margin:0;\">A: Doberman. Great Danes are friendly gentle giants - poor natural guards.</p></div><div style=\"margin-bottom:14px;\"><p style=\"font-size:0.9em;font-weight:700;color:#1a1a1a;margin:0 0 4px 0;\">Q: Which lives longer?</p><p style=\"font-size:0.9em;color:#6b7177;line-height:1.6;margin:0;\">A: Doberman, by 2-3 years on average. Size drives the Dane's shorter lifespan.</p></div><div style=\"margin-bottom:14px;\"><p style=\"font-size:0.9em;font-weight:700;color:#1a1a1a;margin:0 0 4px 0;\">Q: Which is easier for first-time owners?</p><p style=\"font-size:0.9em;color:#6b7177;line-height:1.6;margin:0;\">A: Great Dane, despite the size. Calm temperament more forgiving than Doberman's reactive temperament.</p></div><div style=\"margin-bottom:14px;\"><p style=\"font-size:0.9em;font-weight:700;color:#1a1a1a;margin:0 0 4px 0;\">Q: Which is better for apartment living?</p><p style=\"font-size:0.9em;color:#6b7177;line-height:1.6;margin:0;\">A: Both can work better than their size suggests. Great Dane's low energy makes lounging viable; Doberman's smaller size and low shedding help.</p></div>"
+    },
+    "side_by_side": {
+      "label": "Side by Side",
+      "heading": "Specs Compared",
+      "html": "<div style=\"overflow-x:auto;margin:0 0 20px 0;\"><table style=\"width:100%;border-collapse:collapse;font-size:0.9em;line-height:1.6;\"><thead><tr style=\"border-bottom:2px solid #1a1a1a;\"><th style=\"text-align:left;padding:10px 8px;color:#1a1a1a;font-weight:700;\">Attribute</th><th style=\"text-align:left;padding:10px 8px;color:#1a1a1a;font-weight:700;\">Great Dane</th><th style=\"text-align:left;padding:10px 8px;color:#1a1a1a;font-weight:700;\">Doberman Pinscher</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 8px;color:#1a1a1a;font-weight:600;\">Origin</td><td style=\"padding:10px 8px;color:#6b7177;\">Germany - boar hunting, refined as companion</td><td style=\"padding:10px 8px;color:#6b7177;\">Germany - tax collector personal protection (1890s)</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 8px;color:#1a1a1a;font-weight:600;\">Size</td><td style=\"padding:10px 8px;color:#6b7177;\">120-200 lbs, 28-34 in</td><td style=\"padding:10px 8px;color:#6b7177;\">60-100 lbs, 24-28 in</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 8px;color:#1a1a1a;font-weight:600;\">Lifespan</td><td style=\"padding:10px 8px;color:#6b7177;\">7-10 years</td><td style=\"padding:10px 8px;color:#6b7177;\">10-13 years</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 8px;color:#1a1a1a;font-weight:600;\">Shedding</td><td style=\"padding:10px 8px;color:#6b7177;\">Moderate year-round</td><td style=\"padding:10px 8px;color:#6b7177;\">Low - one of lowest short-coat shedders</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 8px;color:#1a1a1a;font-weight:600;\">Energy level</td><td style=\"padding:10px 8px;color:#6b7177;\">Low-moderate</td><td style=\"padding:10px 8px;color:#6b7177;\">High</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 8px;color:#1a1a1a;font-weight:600;\">Protective instinct</td><td style=\"padding:10px 8px;color:#6b7177;\">Low - 'gentle giant'</td><td style=\"padding:10px 8px;color:#6b7177;\">Strong - vocal alert, reactive</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 8px;color:#1a1a1a;font-weight:600;\">Stranger reception</td><td style=\"padding:10px 8px;color:#6b7177;\">Friendly, accepting</td><td style=\"padding:10px 8px;color:#6b7177;\">Reserved, vocally alert</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 8px;color:#1a1a1a;font-weight:600;\">Heat tolerance</td><td style=\"padding:10px 8px;color:#6b7177;\">Poor</td><td style=\"padding:10px 8px;color:#6b7177;\">Poor - no insulating coat</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 8px;color:#1a1a1a;font-weight:600;\">Main health risks</td><td style=\"padding:10px 8px;color:#6b7177;\">Bloat (35-40% lifetime), DCM, Wobbler's</td><td style=\"padding:10px 8px;color:#6b7177;\">DCM (50-60% lifetime), vWD, Wobbler's</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 8px;color:#1a1a1a;font-weight:600;\">Cost (reputable)</td><td style=\"padding:10px 8px;color:#6b7177;\">$1,500-$3,000</td><td style=\"padding:10px 8px;color:#6b7177;\">$1,800-$3,500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 8px;color:#1a1a1a;font-weight:600;\">Best for</td><td style=\"padding:10px 8px;color:#6b7177;\">Calm households wanting gentle giant</td><td style=\"padding:10px 8px;color:#6b7177;\">Active owners wanting protective companion</td></tr></tbody></table></div>"
+    },
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament: Gentle Giant vs Vigilant Athlete",
+      "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Great Dane: friendly, calm, low-energy</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Modern Danes are calm, patient, friendly with strangers, content with moderate exercise. Not natural protectors despite size.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Doberman: vocally alert, intense bonding</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Dobermans alert vocally to anything unusual. Form intense velcro bonds. High daily exercise needs (60-120 min).</p>"
+    },
+    "health": {
+      "label": "Health",
+      "heading": "Health: Different Cardiac Realities",
+      "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Great Dane main risks</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\"><strong>Bloat/GDV</strong> 35-40% lifetime - highest of any breed. <strong>DCM</strong>. <strong>Wobbler's syndrome</strong>.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Doberman main risks</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\"><strong>DCM</strong> affects 50-60% lifetime - highest of any breed. Annual echocardiogram from age 3 essential. <strong>Von Willebrand disease</strong>.</p>"
+    },
+    "mikes_take": {
+      "label": "Personal Take",
+      "heading": "What I'd Tell a Friend Choosing Between These Two",
+      "html": "<div style=\"background:#faf7f0;border-left:4px solid #1a1a1a;padding:20px 24px;margin:0 0 24px 0;border-radius:4px;\"><p style=\"font-family:'figmaMono','SF Mono',monospace;font-size:0.7em;font-weight:400;letter-spacing:0.54px;text-transform:uppercase;color:rgba(0,0,0,0.45);margin:0 0 12px 0;\">A first-time owner's take</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The choice is mostly about lifestyle. Doberman is a 'partner dog' - intense bonding, active outdoor companion, vigilant when family is at risk. Great Dane is a 'presence dog' - the size is the feature, gentle nature is the family-fit benefit, and the deal is accepting 7-10 year lifespan.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Two scenarios I'd push back on: Doberman in a household where the dog is alone 9 hours daily (velcro temperament + separation anxiety produces a neurotic dog), and Great Dane bought without prior research on bloat/gastropexy.</p></div>"
+    },
+    "mistakes": {
+      "label": "Common Mistakes",
+      "heading": "Mistake Index: Buyer Errors to Avoid",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">These are the most common buyer mistakes Wooffy sees come up repeatedly in owner forums and rescue intake stories. Knowing them ahead of time is the cheapest way to avoid 3-5 years of regret.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Mistakes new Great Dane owners often make</h3><ul style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 24px 0;padding-left:20px;\"><li style=\"margin-bottom:10px;\"><strong style=\"color:#1a1a1a;\">Choosing the heaviest line or biggest puppy.</strong> <span style=\"color:#6b7177;\">Larger Great Danes have shorter lifespans. Lines selecting for 150-170 lb adults live measurably longer.</span></li><li style=\"margin-bottom:10px;\"><strong style=\"color:#1a1a1a;\">Skipping prophylactic gastropexy.</strong> <span style=\"color:#6b7177;\">Bloat/GDV affects 35-40% lifetime. Prophylactic gastropexy at spay/neuter prevents twisting. $300-$800 one-time.</span></li><li style=\"margin-bottom:10px;\"><strong style=\"color:#1a1a1a;\">Not budgeting for cardiac monitoring.</strong> <span style=\"color:#6b7177;\">DCM affects elevated percentage. Annual cardiac echo from age 2 catches early-stage DCM.</span></li><li style=\"margin-bottom:10px;\"><strong style=\"color:#1a1a1a;\">Inadequate vehicle and home setup.</strong> <span style=\"color:#6b7177;\">Standard sedans don't fit adult Great Danes. SUV or truck with crate space required.</span></li><li style=\"margin-bottom:10px;\"><strong style=\"color:#1a1a1a;\">Underestimating food costs.</strong> <span style=\"color:#6b7177;\">$1,500-$2,500/year for premium giant-breed food.</span></li></ul><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Mistakes new Doberman Pinscher owners often make</h3><ul style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:10px;\"><strong style=\"color:#1a1a1a;\">Skipping annual cardiac echo from age 3.</strong> <span style=\"color:#6b7177;\">DCM affects 50-60% of Dobermans lifetime - the highest of any breed. Without screening, sudden cardiac death is common.</span></li><li style=\"margin-bottom:10px;\"><strong style=\"color:#1a1a1a;\">Buying without breeder cardiac certifications.</strong> <span style=\"color:#6b7177;\">Reputable Doberman breeders provide cardiac certificates on both parents.</span></li><li style=\"margin-bottom:10px;\"><strong style=\"color:#1a1a1a;\">Confusing European vs American lines.</strong> <span style=\"color:#6b7177;\">European Dobermans (working) have firmer temperaments. American show Dobermans are calmer.</span></li><li style=\"margin-bottom:10px;\"><strong style=\"color:#1a1a1a;\">Underestimating velcro / separation anxiety.</strong> <span style=\"color:#6b7177;\">Dobermans bond intensely and develop separation anxiety more than most breeds.</span></li><li style=\"margin-bottom:10px;\"><strong style=\"color:#1a1a1a;\">Inadequate cold-weather preparation.</strong> <span style=\"color:#6b7177;\">Dobermans have almost no body fat. Need sweaters in cold-weather walks.</span></li></ul>"
+    },
+    "breeder_vetting": {
+      "label": "Breeder Vetting",
+      "heading": "How to Vet a Breeder for Either Breed",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Both breeds have committed reputable breeders and a wide pool of backyard breeders with no health testing. The questions below separate the two.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Ask any Great Dane breeder</h3><ol style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;padding-left:24px;\"><li style=\"margin-bottom:8px;color:#6b7177;\">OFA hip certificates for both parents.</li><li style=\"margin-bottom:8px;color:#6b7177;\">OFA cardiac clearance with current echocardiogram.</li><li style=\"margin-bottom:8px;color:#6b7177;\">How old are grandparents and what were their causes of death?</li><li style=\"margin-bottom:8px;color:#6b7177;\">What is the typical adult weight in your line?</li><li style=\"margin-bottom:8px;color:#6b7177;\">Will you commit to prophylactic gastropexy?</li></ol><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Ask any Doberman Pinscher breeder</h3><ol style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;padding-left:24px;\"><li style=\"margin-bottom:8px;color:#6b7177;\">OFA hip and elbow certificates for both parents.</li><li style=\"margin-bottom:8px;color:#6b7177;\">Annual cardiac echocardiogram + Holter monitor results on both parents.</li><li style=\"margin-bottom:8px;color:#6b7177;\">Von Willebrand disease DNA test on both parents.</li><li style=\"margin-bottom:8px;color:#6b7177;\">Thyroid panel on both parents.</li><li style=\"margin-bottom:8px;color:#6b7177;\">European or American line?</li></ol><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Red flags - walk away if you see any of these</h3><ul style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:8px;color:#6b7177;\">Doberman breeder doesn't do annual cardiac screening - non-negotiable.</li><li style=\"margin-bottom:8px;color:#6b7177;\">Sells Great Dane puppies weighing 30+ lbs at 8 weeks.</li><li style=\"margin-bottom:8px;color:#6b7177;\">Markets \"European bloodline\" without documentation.</li><li style=\"margin-bottom:8px;color:#6b7177;\">Multiple litters per year.</li><li style=\"margin-bottom:8px;color:#6b7177;\">Will not show parents in person.</li><li style=\"margin-bottom:8px;color:#6b7177;\">Sells puppies before 8 weeks old.</li></ul>"
+    },
+    "cost": {
+      "label": "Cost",
+      "heading": "Cost: Both Expensive Long-Term",
+      "html": "<div style=\"overflow-x:auto;margin:0 0 20px 0;\"><table style=\"width:100%;border-collapse:collapse;font-size:0.9em;line-height:1.6;\"><thead><tr style=\"border-bottom:2px solid #1a1a1a;\"><th style=\"text-align:left;padding:10px 8px;color:#1a1a1a;font-weight:700;\">Attribute</th><th style=\"text-align:left;padding:10px 8px;color:#1a1a1a;font-weight:700;\">Great Dane</th><th style=\"text-align:left;padding:10px 8px;color:#1a1a1a;font-weight:700;\">Doberman Pinscher</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 8px;color:#1a1a1a;font-weight:600;\">Puppy (reputable)</td><td style=\"padding:10px 8px;color:#6b7177;\">$1,500-$3,000</td><td style=\"padding:10px 8px;color:#6b7177;\">$1,800-$3,500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 8px;color:#1a1a1a;font-weight:600;\">First-year total</td><td style=\"padding:10px 8px;color:#6b7177;\">$5,000-$8,500</td><td style=\"padding:10px 8px;color:#6b7177;\">$3,800-$6,800</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 8px;color:#1a1a1a;font-weight:600;\">Annual ongoing</td><td style=\"padding:10px 8px;color:#6b7177;\">$2,800-$5,000</td><td style=\"padding:10px 8px;color:#6b7177;\">$2,400-$4,200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 8px;color:#1a1a1a;font-weight:600;\">Food (giant vs large)</td><td style=\"padding:10px 8px;color:#6b7177;\">$1,500-$2,500/yr</td><td style=\"padding:10px 8px;color:#6b7177;\">$700-$1,200/yr</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 8px;color:#1a1a1a;font-weight:600;\">Annual cardiac screening</td><td style=\"padding:10px 8px;color:#6b7177;\">Recommended</td><td style=\"padding:10px 8px;color:#6b7177;\">Essential from age 3</td></tr></tbody></table></div>"
+    },
+    "decision": {
+      "label": "Decision",
+      "heading": "Which Should You Choose?",
+      "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Great Dane if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a low-energy gentle giant. Have space for 150-200 lb dog. Emotionally prepared for 7-10 year lifespan. Cool climate.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Doberman if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a protective partner. Active outdoor lifestyle. Can commit to annual cardiac screening. Moderate/warm climate (indoor primary).</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Compare with related options</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">See <a href=\"/blogs/dog-breeds/rottweiler-vs-doberman-pinscher\">Rottweiler vs Doberman</a>, <a href=\"/blogs/dog-breeds/cane-corso-vs-great-dane\">Cane Corso vs Great Dane</a>, or <a href=\"/blogs/dog-breeds/german-shepherd-vs-doberman\">German Shepherd vs Doberman</a>.</p>"
+    },
+    "related": {
+      "label": "Related Reading",
+      "heading": "Compare More Breeds",
+      "html": "<!-- comparison-related-section v4 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/great-dane\" style=\"color:#000;font-weight:600;\">Great Dane full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/doberman-pinscher\" style=\"color:#000;font-weight:600;\">Doberman Pinscher full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/cane-corso-vs-great-dane\" style=\"color:#000;font-weight:600;\">Cane Corso vs Great Dane: guardian comparison</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/rottweiler-vs-doberman-pinscher\" style=\"color:#000;font-weight:600;\">Rottweiler vs Doberman: the bigger alternative</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/german-shepherd-vs-doberman\" style=\"color:#000;font-weight:600;\">German Shepherd vs Doberman: working breed comparison</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-guard-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Guard Dog Breeds</a></li></ul>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Can a Great Dane really live in an apartment?",
+      "a": "Surprisingly yes. Low energy means 30-45 minute walk plus indoor lounging satisfies exercise needs."
+    },
+    {
+      "q": "Which has more health issues?",
+      "a": "Both face elevated cardiac disease (Dane: DCM + bloat; Doberman: ~50-60% lifetime DCM). Lifetime medical cost is similar."
+    },
+    {
+      "q": "Are Dobermans really vicious?",
+      "a": "No - dated reputation. Modern Dobermans are vigilant family dogs, vocally alert but stable when properly socialized."
+    },
+    {
+      "q": "Do Dobermans really have 50% DCM rates?",
+      "a": "Yes. Per cardiology studies, lifetime DCM prevalence is approximately 50-60% - the highest of any breed."
+    },
+    {
+      "q": "What about Rottweiler as an alternative?",
+      "a": "Worth considering. <a href=\"/blogs/dog-breeds/rottweiler\">Rottweiler</a> sits between the two - calmer than Doberman, more protective than Dane."
+    }
+  ]
+}

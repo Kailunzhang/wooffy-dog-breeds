@@ -7,10 +7,10 @@
 
 | Type | Count |
 |------|-------|
-| Breed guides | 179 |
+| Breed guides | 184 |
 | Supporting articles | 493 |
 | Roundup articles | 61 |
-| **Total** | **733** |
+| **Total** | **738** |
 
 ---
 
@@ -276,6 +276,11 @@
 | Bernedoodle Grooming Guide: Coat Care, Brushing Schedules, and Professional Trim Frequency | ✅ Live | [/blogs/dog-breeds/bernedoodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/bernedoodle-grooming-guide) |
 | Bernedoodle Puppy Checklist | ✅ Live | [/blogs/dog-breeds/bernedoodle-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/bernedoodle-puppy-checklist) |
 
+### Bernedoodle vs Aussiedoodle *(Doodle Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Bernedoodle vs Aussiedoodle | ✅ Live | [/blogs/dog-breeds/bernedoodle-vs-aussiedoodle](https://thewooffy.com/blogs/dog-breeds/bernedoodle-vs-aussiedoodle) |
+
 ### Bernedoodle vs Goldendoodle *(Doodle Comparisons · Comparison)*
 | Article | Status | URL |
 |---------|--------|-----|
@@ -442,6 +447,11 @@
 | Cane Corso First-Year Costs: Full Budget Breakdown | ✅ Live | [/blogs/dog-breeds/cane-corso-first-year-costs](https://thewooffy.com/blogs/dog-breeds/cane-corso-first-year-costs) |
 | Cane Corso Grooming Guide | ✅ Live | [/blogs/dog-breeds/cane-corso-grooming-guide](https://thewooffy.com/blogs/dog-breeds/cane-corso-grooming-guide) |
 | Cane Corso Puppy Checklist: Everything to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/cane-corso-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/cane-corso-puppy-checklist) |
+
+### Cane Corso vs Great Dane *(Giant Breed Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Cane Corso vs Great Dane | ✅ Live | [/blogs/dog-breeds/cane-corso-vs-great-dane](https://thewooffy.com/blogs/dog-breeds/cane-corso-vs-great-dane) |
 
 ### Cane Corso vs Presa Canario *(Mastiff Comparisons · Comparison)*
 | Article | Status | URL |
@@ -707,6 +717,11 @@
 | How Much Outdoor Space Does a Golden Retriever Need? | ✅ Live | [/blogs/dog-breeds/golden-retriever-outdoor-space](https://thewooffy.com/blogs/dog-breeds/golden-retriever-outdoor-space) |
 | Golden Retriever Puppy Checklist | ✅ Live | [/blogs/dog-breeds/golden-retriever-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/golden-retriever-puppy-checklist) |
 
+### Golden Retriever vs German Shepherd *(Working & Family Breed Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Golden Retriever vs German Shepherd | ✅ Live | [/blogs/dog-breeds/golden-retriever-vs-german-shepherd](https://thewooffy.com/blogs/dog-breeds/golden-retriever-vs-german-shepherd) |
+
 ### Goldendoodle *(Designer Crossbreed · Medium to Large Breed)*
 | Article | Status | URL |
 |---------|--------|-----|
@@ -735,6 +750,11 @@
 | Great Dane First Year Costs | ✅ Live | [/blogs/dog-breeds/great-dane-first-year-costs](https://thewooffy.com/blogs/dog-breeds/great-dane-first-year-costs) |
 | Great Dane Grooming Guide | ✅ Live | [/blogs/dog-breeds/great-dane-grooming-guide](https://thewooffy.com/blogs/dog-breeds/great-dane-grooming-guide) |
 | Great Dane Puppy Checklist | ✅ Live | [/blogs/dog-breeds/great-dane-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/great-dane-puppy-checklist) |
+
+### Great Dane vs Doberman Pinscher *(Guard & Giant Breed Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Great Dane vs Doberman Pinscher | ✅ Live | [/blogs/dog-breeds/great-dane-vs-doberman](https://thewooffy.com/blogs/dog-breeds/great-dane-vs-doberman) |
 
 ### Great Pyrenees *(Working Group · Large Breed)*
 | Article | Status | URL |
@@ -1394,6 +1414,11 @@
 | Vizsla First-Year Costs: Full Budget Breakdown | ✅ Live | [/blogs/dog-breeds/vizsla-first-year-costs](https://thewooffy.com/blogs/dog-breeds/vizsla-first-year-costs) |
 | Vizsla Grooming Guide: Low-Maintenance Coat Care | ✅ Live | [/blogs/dog-breeds/vizsla-grooming-guide](https://thewooffy.com/blogs/dog-breeds/vizsla-grooming-guide) |
 | Vizsla Puppy Checklist: Everything to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/vizsla-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/vizsla-puppy-checklist) |
+
+### Vizsla vs German Shorthaired Pointer *(Sporting Breed Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Vizsla vs German Shorthaired Pointer | ✅ Live | [/blogs/dog-breeds/vizsla-vs-german-shorthaired-pointer](https://thewooffy.com/blogs/dog-breeds/vizsla-vs-german-shorthaired-pointer) |
 
 ### Vizsla vs Weimaraner *(Sporting Breed Comparisons · Comparison)*
 | Article | Status | URL |
