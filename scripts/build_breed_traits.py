@@ -241,6 +241,14 @@ OVERRIDES: dict[str, dict] = {
     "welsh-terrier": {"category": "wiry_terrier", "coat": "harsh wiry black-and-tan coat with beard and eyebrows", "puppy_coat": "soft black-and-tan puppy coat"},
     "wire-fox-terrier": {"category": "wiry_terrier", "coat": "harsh wiry white-with-tan-markings coat with prominent beard and eyebrows", "puppy_coat": "soft white-with-tan puppy coat"},
     "xoloitzcuintli": {"category": "hairless", "coat": "smooth dark gray-black hairless skin with almond eyes and bat-like ears (hairless variety)", "puppy_coat": "smooth dark gray-black hairless puppy skin"},
+
+    # ── Doodle Designer Crossbreeds (Days 28-29) ──────────────────────────────
+    "goldendoodle": {"category": "curly_poodle", "coat": "wavy or curly cream-and-apricot coat with a soft teddy-bear face", "puppy_coat": "soft fluffy cream-and-apricot puppy coat"},
+    "labradoodle": {"category": "curly_poodle", "coat": "soft fleece-or-wool wavy chocolate coat", "puppy_coat": "soft chocolate puppy coat"},
+    "bernedoodle": {"category": "curly_poodle", "coat": "wavy or curly tri-color coat (black with white chest markings and rust accents over the eyes and on the cheeks)", "puppy_coat": "soft fluffy tri-color puppy coat (black, white, rust)"},
+    "cavapoo": {"category": "curly_poodle", "coat": "wavy or curly cream-and-apricot coat with a rounded teddy-bear muzzle and large dark eyes", "puppy_coat": "soft fluffy cream-and-apricot puppy coat"},
+    "sheepadoodle": {"category": "curly_poodle", "coat": "dense wavy or curly black-and-white panda coat (predominantly black with white markings on the chest, face, paws, and tail tip)", "puppy_coat": "soft fluffy black-and-white panda puppy coat"},
+    "aussiedoodle": {"category": "curly_poodle", "coat": "wavy or curly blue merle coat (mottled gray-blue with black patches) with white markings on the chest and face", "puppy_coat": "soft fluffy blue merle puppy coat"},
 }
 
 

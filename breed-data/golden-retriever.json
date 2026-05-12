@@ -66,16 +66,28 @@
     },
     "secondary": [
       {
+        "placement": "before_temperament",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_4a8502ef-6822-495f-8191-78478e59cd4d.png?v=1777528140",
-        "alt": "Golden Retriever running",
-        "caption": "Photo: Wikimedia Commons",
-        "placement": "before_temperament"
+        "alt": "Golden Retriever at home with owner",
+        "caption": "Life with a Golden Retriever — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/golden-retriever-first-year-costs"
       },
       {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_65a18f71-5e44-4fee-9e54-a166388b9626.png?v=1777528136",
+        "alt": "Golden Retriever coat being brushed",
+        "caption": "Coat care is a big part of Golden Retriever ownership.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/golden-retriever-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
         "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_7c16da00-47ff-402a-86a4-b868b17db4fa.png?v=1777528144",
         "alt": "Golden Retriever puppy",
-        "caption": "Photo: Wikimedia Commons / CC BY-SA 4.0",
-        "placement": "before_finding"
+        "caption": "Bringing home a Golden Retriever puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/golden-retriever-puppy-checklist"
       }
     ]
   },
@@ -132,6 +144,8 @@
         "Can budget $2,000–$3,000/year ongoing"
       ],
       "not_fit": [
+        "You work full-time with 8+ hours away from home — Golden Retrievers need 60–90 min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You're frequently away 8+ hours and can't arrange a midday dog walker or daycare — Golden Retrievers bond intensely and are documented to develop separation anxiety more often than average",
         "Are away from home 8+ hours most days",
         "Have severe dog hair allergies",
         "Want a low-energy or independent dog",
@@ -142,7 +156,7 @@
     "finding": {
       "label": "Next Steps",
       "heading": "Finding Your Golden Retriever",
-      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Reputable Breeder</h3><p style=\"font-size:0.95em;font-weight:400;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Expect $1,500–$3,500 from a breeder who does proper health testing. Verify OFA Hip &amp; Elbow, OFA Cardiac, CAER Eye clearances, and ask to meet the mother in person. Prices under $1,000 almost always mean no health testing—that's a false saving that shows up in vet bills later. <a href=\"/blogs/dog-breeds/golden-retriever-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Here's a full Golden Retriever puppy checklist</a> for what to look for before you put down a deposit.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Adopting from Rescue</h3><p style=\"font-size:0.95em;font-weight:400;line-height:1.7;color:#6b7177;margin:0;\">Adoption fees typically run $200–$500 and include spay/neuter, vaccines, and a health check. Start with the Golden Retriever Club of America Rescue or Petfinder.com. Adult rescues often have known temperaments, which is genuinely useful for first-time owners.</p>"
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Reputable Breeder</h3><p style=\"font-size:0.95em;font-weight:400;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Expect $1,500–$3,500 from a breeder who does proper health testing. Verify OFA Hip &amp; Elbow, OFA Cardiac, CAER Eye clearances, and ask to meet the mother in person. Prices under $1,000 almost always mean no health testing—that's a false saving that shows up in vet bills later. <a href=\"/blogs/dog-breeds/golden-retriever-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Here's a full Golden Retriever puppy checklist</a> for what to look for before you put down a deposit.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Adopting from Rescue</h3><p style=\"font-size:0.95em;font-weight:400;line-height:1.7;color:#6b7177;margin:0;\">Adoption fees typically run $200–$500 and include spay/neuter, vaccines, and a health check. Start with the Golden Retriever Club of America Rescue or Petfinder.com. Adult rescues often have known temperaments, which is genuinely useful for first-time owners.</p><!-- doodle-internal-links-gr-v1 --><h3 style=\"font-size:1.2em;font-weight:700;color:#1a1a1a;margin:32px 0 12px 0;\">Considering a Goldendoodle Instead?</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The <a href=\"/blogs/dog-breeds/goldendoodle\" style=\"color:#000;font-weight:600;\">Goldendoodle</a> is the most popular Golden Retriever cross - combining the Golden's family-friendly temperament with the Poodle's low-shedding coat. Many prospective Golden owners ultimately choose a Goldendoodle to mitigate Golden cancer risk and shedding, though coat outcomes vary by generation (F1 vs F1B vs multigen). See the Goldendoodle breed guide for the trade-offs.</p>"
     }
   },
   "faq": [

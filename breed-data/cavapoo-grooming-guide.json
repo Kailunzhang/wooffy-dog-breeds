@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "group": "Cavapoo",
+    "shopify_handle": "cavapoo-grooming-guide",
+    "size_category": "Guide",
+    "published": true,
+    "published_at": null,
+    "name": "Cavapoo Grooming Guide: Coat Care, Brushing Schedules, and Professional Trim Frequency",
+    "slug": "cavapoo-grooming-guide",
+    "excerpt": "How to groom a Cavapoo's wavy or curly coat — why professional grooming every 6–8 weeks matters, how to brush properly at home, and what happens if you skip it.",
+    "meta_description": "How to groom a Cavapoo: professional grooming every 6–8 weeks, line-brushing technique, the 8–14 month coat transition, practical pet clips, and what happens without regular grooming.",
+    "tags": [
+      "Cavapoo",
+      "Guide",
+      "Dog Guides"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_a23776f8-235d-4b42-b94d-a3a7f4444999.png?v=1778474694",
+      "alt": "Cavapoo"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "The Coat",
+      "heading": "The Cavapoo Coat: Low-Shedding, High-Maintenance",
+      "html": "<p>The Cavapoo coat is the result of crossing a Poodle's continuously growing, low-shedding curls with the other parent breed's coat. The result is a wavy or curly coat that sheds far less than most breeds — but grows continuously and mats aggressively without diligent grooming. Professional grooming every 6–8 weeks is not optional for this breed; it is basic coat maintenance.</p><p>A Cavapoo that goes 10–12 weeks without professional grooming can develop dense pelted mats so close to the skin that a full shave-down is the only humane way to clear them. Mats pull the skin, hide skin infections, and can become painful. The grooming schedule is a permanent ongoing commitment.</p><h3>Basic Grooming Schedule</h3><ul><li><strong>Brushing:</strong> 2–3 times per week; daily during the 8–14 month coat transition</li><li><strong>Professional grooming:</strong> Every 6–8 weeks — strictly</li><li><strong>Bathing:</strong> Every 3–4 weeks</li><li><strong>Ear cleaning:</strong> Weekly — hair grows in the ear canal</li><li><strong>Nail trimming:</strong> Every 3–4 weeks</li><li><strong>Teeth brushing:</strong> Daily</li></ul>"
+    },
+    "care": {
+      "label": "Brushing and At-Home Care",
+      "heading": "How to Brush a Cavapoo Properly",
+      "html": "<h3>Line Brushing: The Required Technique</h3><p>Surface brushing a Cavapoo's coat is not sufficient. Mats form close to the skin, and brushing only the outer layer misses them until they are tight and difficult to remove. Use line brushing: part the coat horizontally, hold the section above out of the way, and use a slicker brush to work from the skin outward in short strokes. Move the part upward section by section. Finish with a metal comb — if it passes through without snagging, the section is done. If it snags, keep brushing.</p><h3>Priority Areas</h3><p>Mats form fastest in friction areas: behind the ears, under the armpits, around the collar, and at the junction of the legs and body. Pay extra attention to these areas at every brushing.</p><p>Cavapoo coats are wavy or curly. F1B and multigen Cavapoos lean curlier and shed minimally. F1 Cavapoos vary more. All coat types require professional grooming every 6–8 weeks plus 2–3 brushing sessions at home per week. Pay special attention to behind the ears, around the eyes, and under the legs — mats form fastest in these friction areas for small Doodles.</p><p>Eye and tear-stain care is a daily Cavapoo task. The Cavalier-influenced face shape produces some tear staining; gentle daily wiping with a damp cloth or tear-stain wipe prevents discoloration and skin irritation. Ear canal hair grows like a Poodle's and needs removal at every professional appointment.</p><h3>Ear Canal Hair</h3><p>Hair grows in the ear canal and traps moisture and debris. Have your groomer remove this hair at every professional appointment. Clean ears weekly. Ear infections are common when ear-canal hair is not managed.</p>"
+    },
+    "special": {
+      "label": "Professional Grooming",
+      "heading": "Clip Styles and What Happens If You Skip",
+      "html": "<h3>Practical Clip Options</h3><p>Most Cavapoo owners choose one of: puppy clip (short all over), teddy bear clip (rounded face), or Cavapoo clip (slightly longer, soft appearance). Discuss with your groomer what clip length matches your willingness to brush at home — a shorter clip needs less maintenance.</p><h3>What Happens Without Regular Grooming</h3><p>A Cavapoo coat neglected for 3+ months develops pelted mats — mats so tight and dense against the skin they form a felt-like layer. Pelting is painful, can hide skin infections, and cannot be brushed out — the only humane option is shaving down to the skin. The coat takes 6–12 months to regrow. Regular professional grooming every 6–8 weeks prevents this entirely.</p><h3>Annual Grooming Cost</h3><p>Professional grooming at $80–$150 per appointment every 6–8 weeks runs $500–$1,400 per year. This is a fixed, ongoing cost of Cavapoo ownership.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "How often does a Cavapoo need professional grooming?",
+      "a": "Every 6–8 weeks, without exception. The wavy or curly coat grows continuously and develops dense painful mats within 10–12 weeks without professional trimming. Budget $500–$1,400 per year for professional grooming as a permanent ongoing cost. Shorter clips require less at-home brushing between appointments; longer clips require more."
+    },
+    {
+      "q": "What is the puppy-to-adult coat transition in Cavapoos?",
+      "a": "Around 8–14 months, the soft puppy coat transitions to the adult wavy or curly coat. During this 4–8 week phase, mats form more aggressively than at any other time — the two coat types interact and tangle together. Daily brushing is typically required during the transition. Keeping the coat shorter during this period significantly reduces the challenge."
+    },
+    {
+      "q": "What are the practical clip options for a pet Cavapoo?",
+      "a": "Most pet owners choose a kennel clip (short all over, easy maintenance) or a teddy bear clip (longer with a rounded face). Discuss with your groomer what clip length matches your willingness to brush at home between appointments. A shorter clip needs less maintenance than a longer one."
+    }
+  ]
+}

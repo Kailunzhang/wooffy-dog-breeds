@@ -798,5 +798,517 @@
     "coat": "long fine silky steel-blue-and-tan single coat (resembles human hair)",
     "grooming_action": "with a long pin brush, steel comb, and detangling spray bottle laid out on the table beside the dog",
     "puppy_coat": "soft black-and-tan puppy coat (color matures over months)"
+  },
+  {
+    "slug": "affenpinscher",
+    "name": "Affenpinscher",
+    "category": "wiry_terrier",
+    "coat": "scruffy wiry black coat with monkey-like beard and bushy eyebrows",
+    "grooming_action": "with a stripping comb, slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft black puppy coat"
+  },
+  {
+    "slug": "airedale-terrier",
+    "name": "Airedale Terrier",
+    "category": "wiry_terrier",
+    "coat": "dense wiry black saddle and tan body with a beard and bushy eyebrows",
+    "grooming_action": "with a stripping comb, slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft fluffy black-and-tan puppy coat (still soft, before the wiry adult coat develops)"
+  },
+  {
+    "slug": "american-eskimo-dog",
+    "name": "American Eskimo Dog",
+    "category": "thick_double",
+    "coat": "thick pure white double coat with a fluffy ruff",
+    "grooming_action": "with a slicker brush, undercoat rake, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "fluffy white puppy double coat"
+  },
+  {
+    "slug": "australian-terrier",
+    "name": "Australian Terrier",
+    "category": "wiry_terrier",
+    "coat": "harsh wiry blue-and-tan coat with a soft topknot",
+    "grooming_action": "with a stripping comb, slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft blue-and-tan puppy coat"
+  },
+  {
+    "slug": "bearded-collie",
+    "name": "Bearded Collie",
+    "category": "thick_double",
+    "coat": "long shaggy gray-and-white double coat with a full beard",
+    "grooming_action": "with a slicker brush, undercoat rake, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "fluffy gray-and-white puppy coat"
+  },
+  {
+    "slug": "beauceron",
+    "name": "Beauceron",
+    "category": "smooth_short",
+    "coat": "short black-and-tan double coat with double dewclaws on rear legs, large athletic frame",
+    "grooming_action": "with a rubber curry brush and bristle grooming brush laid out on the table beside the dog",
+    "puppy_coat": "smooth black-and-tan puppy coat"
+  },
+  {
+    "slug": "bedlington-terrier",
+    "name": "Bedlington Terrier",
+    "category": "curly_poodle",
+    "coat": "crisp curly low-shedding lamb-like coat with a fluffy lighter topknot",
+    "grooming_action": "with professional grooming scissors, a slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft fluffy crisp curly puppy coat"
+  },
+  {
+    "slug": "belgian-sheepdog",
+    "name": "Belgian Sheepdog",
+    "category": "thick_double",
+    "coat": "long jet-black double coat with abundant ruff and feathering",
+    "grooming_action": "with a slicker brush, undercoat rake, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "fluffy black puppy coat"
+  },
+  {
+    "slug": "belgian-tervuren",
+    "name": "Belgian Tervuren",
+    "category": "thick_double",
+    "coat": "long mahogany-fawn double coat with black overlay and feathering",
+    "grooming_action": "with a slicker brush, undercoat rake, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "fluffy mahogany puppy coat"
+  },
+  {
+    "slug": "border-terrier",
+    "name": "Border Terrier",
+    "category": "wiry_terrier",
+    "coat": "harsh wiry grizzle-and-tan coat with otter-like head",
+    "grooming_action": "with a stripping comb, slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft grizzle-and-tan puppy coat"
+  },
+  {
+    "slug": "bouvier-des-flandres",
+    "name": "Bouvier des Flandres",
+    "category": "wiry_terrier",
+    "coat": "harsh wiry tousled black coat with prominent beard and bushy eyebrows, large athletic frame",
+    "grooming_action": "with a stripping comb, slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft black puppy coat"
+  },
+  {
+    "slug": "briard",
+    "name": "Briard",
+    "category": "long_silky",
+    "coat": "long flowing tawny double coat with shaggy beard and eyebrows covering the eyes",
+    "grooming_action": "with a long pin brush, steel comb, and detangling spray bottle laid out on the table beside the dog",
+    "puppy_coat": "soft tawny puppy coat"
+  },
+  {
+    "slug": "brussels-griffon",
+    "name": "Brussels Griffon",
+    "category": "wiry_terrier",
+    "coat": "rough wiry red coat with full beard and pushed-in monkey-like face",
+    "grooming_action": "with a stripping comb, slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft red puppy coat"
+  },
+  {
+    "slug": "cairn-terrier",
+    "name": "Cairn Terrier",
+    "category": "wiry_terrier",
+    "coat": "shaggy harsh wiry wheaten coat (Toto-style)",
+    "grooming_action": "with a stripping comb, slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft wheaten puppy coat"
+  },
+  {
+    "slug": "chinese-crested",
+    "name": "Chinese Crested",
+    "category": "hairless",
+    "coat": "smooth pinkish hairless skin with feathered crest, ankle plumes, and plumed tail (hairless variety)",
+    "grooming_action": "with skin-care items — a soft microfiber cloth and bottle of dog-safe moisturizer — laid out on the table beside the dog",
+    "puppy_coat": "smooth pink puppy skin with soft tufted crest"
+  },
+  {
+    "slug": "chinese-shar-pei",
+    "name": "Chinese Shar-Pei",
+    "category": "smooth_short",
+    "coat": "short bristly fawn coat with deep characteristic loose wrinkles and hippopotamus-like muzzle",
+    "grooming_action": "with a rubber curry brush and bristle grooming brush laid out on the table beside the dog",
+    "puppy_coat": "deeply wrinkled fawn puppy coat (extreme wrinkles)"
+  },
+  {
+    "slug": "coton-de-tulear",
+    "name": "Coton de Tulear",
+    "category": "long_silky",
+    "coat": "long cotton-soft pure white coat",
+    "grooming_action": "with a long pin brush, steel comb, and detangling spray bottle laid out on the table beside the dog",
+    "puppy_coat": "soft fluffy white puppy coat"
+  },
+  {
+    "slug": "entlebucher-mountain-dog",
+    "name": "Entlebucher Mountain Dog",
+    "category": "smooth_short",
+    "coat": "short tricolor (black, rust, white) Swiss mountain dog coat with athletic compact frame",
+    "grooming_action": "with a rubber curry brush and bristle grooming brush laid out on the table beside the dog",
+    "puppy_coat": "smooth tricolor puppy coat"
+  },
+  {
+    "slug": "finnish-lapphund",
+    "name": "Finnish Lapphund",
+    "category": "thick_double",
+    "coat": "thick long black double coat with profuse ruff and curled tail",
+    "grooming_action": "with a slicker brush, undercoat rake, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "fluffy black puppy double coat"
+  },
+  {
+    "slug": "finnish-spitz",
+    "name": "Finnish Spitz",
+    "category": "thick_double",
+    "coat": "fox-red double coat with curled tail over the back, fox-like face",
+    "grooming_action": "with a slicker brush, undercoat rake, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "fluffy red puppy coat"
+  },
+  {
+    "slug": "giant-schnauzer",
+    "name": "Giant Schnauzer",
+    "category": "wiry_terrier",
+    "coat": "harsh wiry black or salt-and-pepper coat with prominent beard and bushy eyebrows, large powerful frame",
+    "grooming_action": "with a stripping comb, slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft black puppy coat"
+  },
+  {
+    "slug": "greater-swiss-mountain-dog",
+    "name": "Greater Swiss Mountain Dog",
+    "category": "thick_double",
+    "coat": "short tricolor (black, rust, white) double coat, large powerful Swiss mountain frame",
+    "grooming_action": "with a slicker brush, undercoat rake, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft tricolor puppy coat"
+  },
+  {
+    "slug": "icelandic-sheepdog",
+    "name": "Icelandic Sheepdog",
+    "category": "thick_double",
+    "coat": "thick tan-and-white double coat with curled tail, spitz-type build",
+    "grooming_action": "with a slicker brush, undercoat rake, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "fluffy tan-and-white puppy coat"
+  },
+  {
+    "slug": "irish-terrier",
+    "name": "Irish Terrier",
+    "category": "wiry_terrier",
+    "coat": "harsh wiry rich red coat with beard and eyebrows",
+    "grooming_action": "with a stripping comb, slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft red puppy coat"
+  },
+  {
+    "slug": "japanese-chin",
+    "name": "Japanese Chin",
+    "category": "long_silky",
+    "coat": "long silky black-and-white coat with flat brachycephalic face",
+    "grooming_action": "with a long pin brush, steel comb, and detangling spray bottle laid out on the table beside the dog",
+    "puppy_coat": "soft black-and-white puppy coat"
+  },
+  {
+    "slug": "keeshond",
+    "name": "Keeshond",
+    "category": "thick_double",
+    "coat": "thick gray-and-cream double coat with characteristic spectacle markings around the eyes",
+    "grooming_action": "with a slicker brush, undercoat rake, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "fluffy gray puppy coat"
+  },
+  {
+    "slug": "kerry-blue-terrier",
+    "name": "Kerry Blue Terrier",
+    "category": "curly_poodle",
+    "coat": "soft dense wavy blue-gray coat with beard",
+    "grooming_action": "with professional grooming scissors, a slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft blue-gray puppy coat (born black, clears to blue over months)"
+  },
+  {
+    "slug": "komondor",
+    "name": "Komondor",
+    "category": "corded",
+    "coat": "long white corded mop-like coat",
+    "grooming_action": "with a wide-tooth grooming comb and detangling spray laid out on the table beside the dog (the cords are tended by hand, never brushed)",
+    "puppy_coat": "fluffy soft white pre-cord puppy fur"
+  },
+  {
+    "slug": "lakeland-terrier",
+    "name": "Lakeland Terrier",
+    "category": "wiry_terrier",
+    "coat": "harsh wiry blue-and-tan coat with beard and eyebrows",
+    "grooming_action": "with a stripping comb, slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft blue-and-tan puppy coat"
+  },
+  {
+    "slug": "leonberger",
+    "name": "Leonberger",
+    "category": "thick_double",
+    "coat": "long lion-like golden-mahogany double coat with dark mask, large gentle giant frame",
+    "grooming_action": "with a slicker brush, undercoat rake, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "fluffy golden puppy coat"
+  },
+  {
+    "slug": "lhasa-apso",
+    "name": "Lhasa Apso",
+    "category": "long_silky",
+    "coat": "long flowing silky golden double coat reaching the floor",
+    "grooming_action": "with a long pin brush, steel comb, and detangling spray bottle laid out on the table beside the dog",
+    "puppy_coat": "soft golden puppy coat"
+  },
+  {
+    "slug": "lowchen",
+    "name": "Lowchen",
+    "category": "long_silky",
+    "coat": "long silky white-and-cream coat in characteristic 'little lion' clip",
+    "grooming_action": "with a long pin brush, steel comb, and detangling spray bottle laid out on the table beside the dog",
+    "puppy_coat": "soft white-and-cream puppy coat"
+  },
+  {
+    "slug": "miniature-bull-terrier",
+    "name": "Miniature Bull Terrier",
+    "category": "smooth_short",
+    "coat": "short white coat with the iconic egg-shaped head profile (smaller than standard Bull Terrier)",
+    "grooming_action": "with a rubber curry brush and bristle grooming brush laid out on the table beside the dog",
+    "puppy_coat": "smooth white puppy coat with the egg-shaped head"
+  },
+  {
+    "slug": "miniature-pinscher",
+    "name": "Miniature Pinscher",
+    "category": "smooth_short",
+    "coat": "short sleek black-and-rust coat with hackney-trotting toy frame",
+    "grooming_action": "with a rubber curry brush and bristle grooming brush laid out on the table beside the dog",
+    "puppy_coat": "smooth black-and-rust puppy coat"
+  },
+  {
+    "slug": "norfolk-terrier",
+    "name": "Norfolk Terrier",
+    "category": "wiry_terrier",
+    "coat": "harsh wiry red coat with folded drop ears",
+    "grooming_action": "with a stripping comb, slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft red puppy coat"
+  },
+  {
+    "slug": "norwich-terrier",
+    "name": "Norwich Terrier",
+    "category": "wiry_terrier",
+    "coat": "harsh wiry red coat with prick ears",
+    "grooming_action": "with a stripping comb, slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft red puppy coat"
+  },
+  {
+    "slug": "otterhound",
+    "name": "Otterhound",
+    "category": "wirehaired_sporting",
+    "coat": "rough harsh wiry grizzle coat, large bear-like build, long droopy ears",
+    "grooming_action": "with a stripping comb, slicker brush, and beard comb laid out on the table beside the dog",
+    "puppy_coat": "soft grizzle puppy coat"
+  },
+  {
+    "slug": "papillon",
+    "name": "Papillon",
+    "category": "long_silky",
+    "coat": "long silky black-and-white coat with butterfly-shaped fringed erect ears",
+    "grooming_action": "with a long pin brush, steel comb, and detangling spray bottle laid out on the table beside the dog",
+    "puppy_coat": "soft black-and-white puppy coat with oversized fringed ears"
+  },
+  {
+    "slug": "parson-russell-terrier",
+    "name": "Parson Russell Terrier",
+    "category": "smooth_short",
+    "coat": "short white-with-tan coat (predominantly white body, athletic working terrier frame)",
+    "grooming_action": "with a rubber curry brush and bristle grooming brush laid out on the table beside the dog",
+    "puppy_coat": "smooth white-with-tan puppy coat"
+  },
+  {
+    "slug": "pekingese",
+    "name": "Pekingese",
+    "category": "long_silky",
+    "coat": "long flowing thick gold-and-white double coat with lion-like mane and flat brachycephalic face",
+    "grooming_action": "with a long pin brush, steel comb, and detangling spray bottle laid out on the table beside the dog",
+    "puppy_coat": "fluffy gold-and-white puppy coat"
+  },
+  {
+    "slug": "polish-lowland-sheepdog",
+    "name": "Polish Lowland Sheepdog",
+    "category": "thick_double",
+    "coat": "long shaggy gray-and-white double coat covering the eyes",
+    "grooming_action": "with a slicker brush, undercoat rake, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "fluffy gray-and-white puppy coat"
+  },
+  {
+    "slug": "puli",
+    "name": "Puli",
+    "category": "corded",
+    "coat": "long black corded mop-like coat",
+    "grooming_action": "with a wide-tooth grooming comb and detangling spray laid out on the table beside the dog (the cords are tended by hand, never brushed)",
+    "puppy_coat": "fluffy soft black pre-cord puppy fur"
+  },
+  {
+    "slug": "redbone-coonhound",
+    "name": "Redbone Coonhound",
+    "category": "smooth_short",
+    "coat": "short solid mahogany-red hound coat with long pendulous ears",
+    "grooming_action": "with a rubber curry brush and bristle grooming brush laid out on the table beside the dog",
+    "puppy_coat": "smooth red puppy coat"
+  },
+  {
+    "slug": "russell-terrier",
+    "name": "Russell Terrier",
+    "category": "smooth_short",
+    "coat": "short white-with-tan coat (Jack Russell type, athletic compact frame)",
+    "grooming_action": "with a rubber curry brush and bristle grooming brush laid out on the table beside the dog",
+    "puppy_coat": "smooth white-with-tan puppy coat"
+  },
+  {
+    "slug": "schipperke",
+    "name": "Schipperke",
+    "category": "thick_double",
+    "coat": "thick black double coat with profuse ruff, fox-like face, naturally tailless",
+    "grooming_action": "with a slicker brush, undercoat rake, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "fluffy black puppy coat"
+  },
+  {
+    "slug": "scottish-deerhound",
+    "name": "Scottish Deerhound",
+    "category": "wirehaired_sporting",
+    "coat": "harsh wiry blue-gray coat, towering Greyhound-like sighthound silhouette",
+    "grooming_action": "with a stripping comb, slicker brush, and beard comb laid out on the table beside the dog",
+    "puppy_coat": "soft blue-gray puppy coat"
+  },
+  {
+    "slug": "scottish-terrier",
+    "name": "Scottish Terrier",
+    "category": "wiry_terrier",
+    "coat": "harsh wiry black coat with characteristic beard and eyebrows, short legs",
+    "grooming_action": "with a stripping comb, slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft black puppy coat"
+  },
+  {
+    "slug": "silky-terrier",
+    "name": "Silky Terrier",
+    "category": "long_silky",
+    "coat": "long fine silky steel-blue-and-tan coat (resembles miniature Yorkie)",
+    "grooming_action": "with a long pin brush, steel comb, and detangling spray bottle laid out on the table beside the dog",
+    "puppy_coat": "soft black-and-tan puppy coat"
+  },
+  {
+    "slug": "skye-terrier",
+    "name": "Skye Terrier",
+    "category": "long_silky",
+    "coat": "long flowing silver-blue coat reaching the ground with drop ears",
+    "grooming_action": "with a long pin brush, steel comb, and detangling spray bottle laid out on the table beside the dog",
+    "puppy_coat": "soft silver-blue puppy coat"
+  },
+  {
+    "slug": "spanish-water-dog",
+    "name": "Spanish Water Dog",
+    "category": "curly_poodle",
+    "coat": "dense corded or curled brown coat (often clipped uniformly)",
+    "grooming_action": "with professional grooming scissors, a slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft curly brown puppy coat"
+  },
+  {
+    "slug": "standard-schnauzer",
+    "name": "Standard Schnauzer",
+    "category": "wiry_terrier",
+    "coat": "harsh wiry salt-and-pepper coat with prominent beard and bushy eyebrows",
+    "grooming_action": "with a stripping comb, slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft salt-and-pepper puppy coat"
+  },
+  {
+    "slug": "swedish-vallhund",
+    "name": "Swedish Vallhund",
+    "category": "thick_double",
+    "coat": "short gray-and-tan double coat, low-bodied corgi-like Spitz frame",
+    "grooming_action": "with a slicker brush, undercoat rake, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "fluffy gray-and-tan puppy coat"
+  },
+  {
+    "slug": "tibetan-spaniel",
+    "name": "Tibetan Spaniel",
+    "category": "long_silky",
+    "coat": "medium silky golden double coat with feathered tail, flat-faced",
+    "grooming_action": "with a long pin brush, steel comb, and detangling spray bottle laid out on the table beside the dog",
+    "puppy_coat": "soft golden puppy coat"
+  },
+  {
+    "slug": "tibetan-terrier",
+    "name": "Tibetan Terrier",
+    "category": "long_silky",
+    "coat": "long flowing silky double coat (white, gold, or black) covering the eyes",
+    "grooming_action": "with a long pin brush, steel comb, and detangling spray bottle laid out on the table beside the dog",
+    "puppy_coat": "fluffy puppy coat"
+  },
+  {
+    "slug": "toy-fox-terrier",
+    "name": "Toy Fox Terrier",
+    "category": "smooth_short",
+    "coat": "short tricolor (black, white, tan) toy frame",
+    "grooming_action": "with a rubber curry brush and bristle grooming brush laid out on the table beside the dog",
+    "puppy_coat": "smooth tricolor puppy coat"
+  },
+  {
+    "slug": "welsh-terrier",
+    "name": "Welsh Terrier",
+    "category": "wiry_terrier",
+    "coat": "harsh wiry black-and-tan coat with beard and eyebrows",
+    "grooming_action": "with a stripping comb, slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft black-and-tan puppy coat"
+  },
+  {
+    "slug": "wire-fox-terrier",
+    "name": "Wire Fox Terrier",
+    "category": "wiry_terrier",
+    "coat": "harsh wiry white-with-tan-markings coat with prominent beard and eyebrows",
+    "grooming_action": "with a stripping comb, slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft white-with-tan puppy coat"
+  },
+  {
+    "slug": "xoloitzcuintli",
+    "name": "Xoloitzcuintli",
+    "category": "hairless",
+    "coat": "smooth dark gray-black hairless skin with almond eyes and bat-like ears (hairless variety)",
+    "grooming_action": "with skin-care items — a soft microfiber cloth and bottle of dog-safe moisturizer — laid out on the table beside the dog",
+    "puppy_coat": "smooth dark gray-black hairless puppy skin"
+  },
+  {
+    "slug": "goldendoodle",
+    "name": "Goldendoodle",
+    "category": "curly_poodle",
+    "coat": "wavy or curly cream-and-apricot coat with a soft teddy-bear face",
+    "grooming_action": "with professional grooming scissors, a slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft fluffy cream-and-apricot puppy coat"
+  },
+  {
+    "slug": "labradoodle",
+    "name": "Labradoodle",
+    "category": "curly_poodle",
+    "coat": "soft fleece-or-wool wavy chocolate coat",
+    "grooming_action": "with professional grooming scissors, a slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft chocolate puppy coat"
+  },
+  {
+    "slug": "bernedoodle",
+    "name": "Bernedoodle",
+    "category": "curly_poodle",
+    "coat": "wavy or curly tri-color coat (black with white chest markings and rust accents over the eyes and on the cheeks)",
+    "grooming_action": "with professional grooming scissors, a slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft fluffy tri-color puppy coat (black, white, rust)"
+  },
+  {
+    "slug": "cavapoo",
+    "name": "Cavapoo",
+    "category": "curly_poodle",
+    "coat": "wavy or curly cream-and-apricot coat with a rounded teddy-bear muzzle and large dark eyes",
+    "grooming_action": "with professional grooming scissors, a slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft fluffy cream-and-apricot puppy coat"
+  },
+  {
+    "slug": "sheepadoodle",
+    "name": "Sheepadoodle",
+    "category": "curly_poodle",
+    "coat": "dense wavy or curly black-and-white panda coat (predominantly black with white markings on the chest, face, paws, and tail tip)",
+    "grooming_action": "with professional grooming scissors, a slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft fluffy black-and-white panda puppy coat"
+  },
+  {
+    "slug": "aussiedoodle",
+    "name": "Aussiedoodle",
+    "category": "curly_poodle",
+    "coat": "wavy or curly blue merle coat (mottled gray-blue with black patches) with white markings on the chest and face",
+    "grooming_action": "with professional grooming scissors, a slicker brush, and steel comb laid out on the table beside the dog",
+    "puppy_coat": "soft fluffy blue merle puppy coat"
   }
 ]

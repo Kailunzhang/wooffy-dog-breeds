@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "name": "Goldendoodle First Year Costs",
+    "slug": "goldendoodle-first-year-costs",
+    "shopify_handle": "goldendoodle-first-year-costs",
+    "group": "Goldendoodle",
+    "size_category": "Guide",
+    "tags": [
+      "goldendoodle",
+      "costs",
+      "first-year"
+    ],
+    "published": true,
+    "published_at": null,
+    "excerpt": "Goldendoodle first-year costs run $4,500–$8,800 including purchase price. Professional grooming every 6–8 weeks is the breed's primary recurring cost beyond food and insurance.",
+    "meta_description": "Goldendoodle first year costs: puppy price $2,000–$5,000, mandatory professional grooming every 6–8 weeks, vet bills including OFA screening, insurance considerations, and total first-year expense estimates."
+  },
+  "images": {
+    "hero": {
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_93ad37b5-259a-4a3b-9cf5-f0762024a223.png?v=1778474569",
+      "alt": "Goldendoodle first year costs"
+    }
+  },
+  "sections": {
+    "intro": {
+      "label": "Upfront Costs",
+      "heading": "What Does a Goldendoodle Cost to Acquire?",
+      "html": "<p><strong>Puppy from a reputable breeder: $2,000–$5,000.</strong> Reputable Goldendoodle breeders invest in OFA health testing, genetic panels, prenatal care, and puppy socialization. The price reflects this investment. Lower-priced Goldendoodles often come from breeders who skip these costs — which is exactly why they often produce dogs with serious health and temperament problems.</p><p><strong>Rescue adoption: $200–$600</strong> through Doodle Rescue Collective, IDOG Rescue, or breed-specific rescue networks. Many surrendered Doodles are 1–3-year-old dogs whose owners underestimated grooming, exercise, or training requirements. Adult rescues offer known coat type, known temperament, and known size.</p><p><strong>Initial setup costs: $300–$700</strong></p><ul><li>Crate (sized for adult dog): $80–$200</li><li>Bed: $60–$140</li><li>Collar, harness, leash: $60–$120</li><li>Grooming tools (slicker brush, pin brush, metal comb): $50–$110</li><li>Bowls: $30–$70</li></ul>"
+    },
+    "care": {
+      "label": "First Year Recurring",
+      "heading": "First Year Ongoing Expenses",
+      "html": "<p><strong>Food: $500–$900 for the first year.</strong> High-quality dry food appropriate for size. Budget monthly.</p><p><strong>Veterinary care (first year): $500–$900</strong></p><ul><li>Initial wellness exam and puppy vaccination series: $150–$350</li><li>Spay or neuter: $200–$500 — discuss prophylactic gastropexy at this appointment for Standard-size dogs</li><li>Heartworm and parasite prevention: $120–$240/year</li><li>Routine bloodwork and screening: $80–$200</li></ul><p><strong>Pet insurance: $600–$1,200/year.</strong> Strongly recommended. Cancer (Golden lineage) and hip dysplasia are the two most expensive potential conditions. Insurance enrolled before the first vet visit covers both — do not delay enrollment.</p><p><strong>Professional grooming: $600–$1,200/year.</strong> At $80–$150 per session every 6–8 weeks, professional grooming is a fixed, permanent expense. The coat grows continuously and must be clipped — it is not optional maintenance. Owners who learn to clip at home reduce this cost but require quality clippers and practice.</p>"
+    },
+    "special": {
+      "label": "Total & Ongoing",
+      "heading": "First Year Total and Long-Term Costs",
+      "html": "<p><strong>First year total estimate: $4,500–$8,800</strong> (including purchase price). Professional grooming and insurance are the primary ongoing cost drivers.</p><p><strong>Annual ongoing costs after year one: $2,050–$3,900</strong></p><ul><li>Food: $500–$900</li><li>Routine vet care and preventives: $350–$600</li><li>Pet insurance: $600–$1,200</li><li>Professional grooming: $600–$1,200</li></ul><p>Over a 10–15 yrs lifespan, total ownership cost excluding purchase price is typically $20,000–$50,000 — driven significantly by mandatory professional grooming over a long life. The grooming cost accumulated over the dog's lifetime makes home grooming skill acquisition the most impactful long-term cost reduction available to Goldendoodle owners.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Why are Goldendoodles so expensive?",
+      "a": "Two reasons. First, demand has dramatically exceeded supply for over a decade. Second, ethical breeding requires significant investment — OFA testing on both parents, genetic panels, stud fees, prenatal care, and puppy socialization can cost $3,000–$5,000 per litter before any profit. Lower-priced Doodles often come from breeders who skip these costs, which is why they're cheaper — and exactly why they often produce dogs with health and temperament problems. A higher initial price from a tested breeder is dramatically cheaper than discovering hip dysplasia at age 3."
+    },
+    {
+      "q": "Can I reduce Goldendoodle grooming costs by clipping at home?",
+      "a": "Yes — significantly. Quality clippers ($150–$350), the correct blade sizes, and scissors are the tool investment. Learning a basic pet clip is achievable with practice and YouTube tutorials. Many owners learn to clip their own dog and reduce professional grooming to periodic trim-outs. The cumulative savings over the dog's lifetime can be $5,000–$15,000."
+    },
+    {
+      "q": "Is pet insurance worth it?",
+      "a": "For Doodles, yes. Most large Doodle breeds have meaningful orthopedic risks (hip dysplasia, $4,000–$8,000 per joint to repair) and several have breed-specific health risks that insurance can offset. Enroll before the first vet visit — insurance enrolled after a diagnosis typically excludes that condition as a pre-existing exclusion. Monthly premiums of $40–$100 are typical for Doodles."
+    }
+  ]
+}

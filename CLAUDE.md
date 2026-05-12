@@ -251,6 +251,34 @@ dog-breeds-by-size dog-breeds-by-group
 
 ---
 
+## Doodle Designer-Breed Series (Days 28–29)
+
+6 doodle hybrid-breed guides plus 1 roundup added May 10. All marked `published: false` until the user reviews and triggers publishing. Hero/secondary images use a Wikipedia placeholder — replace before publish via the HD image pipeline or manual upload.
+
+| Day | Date | Breeds (4–6) | Roundup | Articles |
+|-----|------|--------------|---------|----------|
+| 28 | May 11 | Goldendoodle, Labradoodle, Bernedoodle, Cavapoo | — | 16 |
+| 29 | May 12 | Sheepadoodle, Aussiedoodle | best-doodle-breeds-for-families | 9 |
+
+### Day 28 slugs (May 11)
+```
+goldendoodle goldendoodle-grooming-guide goldendoodle-first-year-costs goldendoodle-puppy-checklist
+labradoodle labradoodle-grooming-guide labradoodle-first-year-costs labradoodle-puppy-checklist
+bernedoodle bernedoodle-grooming-guide bernedoodle-first-year-costs bernedoodle-puppy-checklist
+cavapoo cavapoo-grooming-guide cavapoo-first-year-costs cavapoo-puppy-checklist
+```
+
+### Day 29 slugs (May 12)
+```
+sheepadoodle sheepadoodle-grooming-guide sheepadoodle-first-year-costs sheepadoodle-puppy-checklist
+aussiedoodle aussiedoodle-grooming-guide aussiedoodle-first-year-costs aussiedoodle-puppy-checklist
+best-doodle-breeds-for-families
+```
+
+Generator: `scripts/generate_doodle_articles.py` regenerates the 23 templated files from `BREEDS` and `SUPPORTING` dicts (the 2 hand-written main breeds, goldendoodle.json and labradoodle.json, are not in the generator).
+
+---
+
 ## Known Issues & Fixes
 
 ### Image URL validation

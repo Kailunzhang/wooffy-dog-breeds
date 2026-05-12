@@ -2345,5 +2345,89 @@
       "body_replacements": 0
     },
     "stage3_at": "2026-04-30T21:46:09Z"
+  },
+  "goldendoodle": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_10c6a9d9-9819-453b-a4c0-cdbd2125a123.png?v=1778474556",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_fa8987ff-5612-4796-821e-f5b9bec3b039.png?v=1778474560",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_c83b00fd-2577-414a-8426-7a474325fb48.png?v=1778474564",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_93ad37b5-259a-4a3b-9cf5-f0762024a223.png?v=1778474569"
+    },
+    "stage1_at": "2026-05-11T04:42:57Z",
+    "stage2_at": "2026-05-11T04:47:05Z",
+    "stage2_stats": {
+      "hero_updated": 4,
+      "body_replacements": 3
+    }
+  },
+  "labradoodle": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_7ecf60c7-b0cf-4b1d-8ea8-8c954a9174ee.png?v=1778474600",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_865a38ae-38ac-4dd5-8e90-62027625d2c4.png?v=1778474604",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_bc83178c-683a-4366-9f8c-9152a0c9e4ca.png?v=1778474609",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_f931dc45-5fcf-4e26-83cf-85da0bebddcd.png?v=1778474613"
+    },
+    "stage1_at": "2026-05-11T04:43:42Z",
+    "stage2_at": "2026-05-11T04:47:05Z",
+    "stage2_stats": {
+      "hero_updated": 4,
+      "body_replacements": 3
+    }
+  },
+  "bernedoodle": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_fe4e0932-6a46-4da5-b174-ecd87cdc05a7.png?v=1778474649",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_4ff7edc3-f3ea-4525-90e3-c3ec6a0d0ca8.png?v=1778474653",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_a1acece4-6f68-4d7d-9812-697f9fccbb81.png?v=1778474658",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_a40a9d9d-c1f9-46a5-8ee8-975e88886131.png?v=1778474663"
+    },
+    "stage1_at": "2026-05-11T04:44:31Z",
+    "stage2_at": "2026-05-11T04:47:05Z",
+    "stage2_stats": {
+      "hero_updated": 4,
+      "body_replacements": 3
+    }
+  },
+  "cavapoo": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_a23776f8-235d-4b42-b94d-a3a7f4444999.png?v=1778474694",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_8d826209-7b14-4bdd-85dc-38bd094f3871.png?v=1778474699",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_d7d99059-07f7-47dc-b5e5-ce3459d030d1.png?v=1778474703",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_830fe835-9659-4025-8fcb-97630d7f6b11.png?v=1778474707"
+    },
+    "stage1_at": "2026-05-11T04:45:15Z",
+    "stage2_at": "2026-05-11T04:47:05Z",
+    "stage2_stats": {
+      "hero_updated": 4,
+      "body_replacements": 3
+    }
+  },
+  "sheepadoodle": {
+    "image_urls": {
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_c027cf8c-3741-45f8-a86c-05e47b956462.png?v=1778474737",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_623a954a-69fc-4732-8f5a-6a4568a0bd8c.png?v=1778474741",
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_ca50f793-84cc-46a2-827d-2e6c9025f4eb.png?v=1778474745",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_8ab09f72-bf22-47bc-bd4b-e50aa190e1bb.png?v=1778474750"
+    },
+    "stage1_at": "2026-05-11T04:45:58Z",
+    "stage2_at": "2026-05-11T04:47:05Z",
+    "stage2_stats": {
+      "hero_updated": 4,
+      "body_replacements": 3
+    }
+  },
+  "aussiedoodle": {
+    "image_urls": {
+      "02-grooming": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_012ff14a-23da-4f70-8594-937a9b970e30.png?v=1778474782",
+      "01-adult-portrait": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_cd6bf39a-a94d-4034-a6c7-3647b5fc3f4e.png?v=1778474786",
+      "04-puppy": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_96d6dab4-9318-4ad1-a229-9ca008b28e2b.png?v=1778474790",
+      "03-lifestyle": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_7652f334-cd52-4bdb-9f4b-0459f5d021ec.png?v=1778474794"
+    },
+    "stage1_at": "2026-05-11T04:46:43Z",
+    "stage2_at": "2026-05-11T04:47:05Z",
+    "stage2_stats": {
+      "hero_updated": 4,
+      "body_replacements": 3
+    }
   }
 }

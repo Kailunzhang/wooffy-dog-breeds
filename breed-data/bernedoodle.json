@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "name": "Bernedoodle",
+    "slug": "bernedoodle",
+    "shopify_handle": "bernedoodle",
+    "group": "Designer Crossbreed",
+    "size_category": "Small to Large Breed",
+    "tagline": "The Bernedoodle — Bernese Mountain Dog crossed with Poodle — was designed in 2003 by Sherry Rupke to capture the Bernese's gentle, family-oriented temperament while addressing the Bernese's heavy shedding and famously short lifespan. Done well, the Bernedoodle often lives 4–6 years longer than a purebred Berner and sheds dramatically less.",
+    "tags": [
+      "designer-crossbreed",
+      "medium-breed",
+      "family-friendly",
+      "low-shedding",
+      "doodle",
+      "gentle",
+      "dog-breeds"
+    ],
+    "published": true,
+    "published_at": null,
+    "excerpt": "Bernedoodles combine the Bernese Mountain Dog's calm, gentle temperament with the Poodle's low-shedding coat and longer lifespan. Lifespan extension is the breed's most-cited benefit — but only with health-tested parents from both lineages.",
+    "meta_description": "Bernedoodle breed guide: lifespan extension explained, F1 vs F1B vs multigen, tri-color coat genetics, Bernese cancer risk, hip dysplasia, exercise needs, grooming costs, and choosing a tested breeder."
+  },
+  "stats": {
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small to Large"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "25–90 lbs (Mini, Medium, Standard)"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–18 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "45–75 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High (professional required)"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Excellent"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes"
+    }
+  },
+  "images": {
+    "hero": {
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_fe4e0932-6a46-4da5-b174-ecd87cdc05a7.png?v=1778474649",
+      "alt": "Bernedoodle"
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_a40a9d9d-c1f9-46a5-8ee8-975e88886131.png?v=1778474663",
+        "alt": "Bernedoodle at home with family",
+        "caption": "Life with a Bernedoodle — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/bernedoodle-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_a1acece4-6f68-4d7d-9812-697f9fccbb81.png?v=1778474658",
+        "alt": "Bernedoodle coat care",
+        "caption": "Coat care is a real ongoing commitment.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/bernedoodle-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_4ff7edc3-f3ea-4525-90e3-c3ec6a0d0ca8.png?v=1778474653",
+        "alt": "Bernedoodle puppy",
+        "caption": "Bringing home a Bernedoodle puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/bernedoodle-puppy-checklist"
+      }
+    ]
+  },
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Bernedoodle?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Bernedoodle is a deliberate crossbreed between a Bernese Mountain Dog and a Standard, Mini, or Toy Poodle, first developed in 2003 by Sherry Rupke at SwissRidge Kennels in Ontario. The breeding goal was specific and unusual among the Doodles: address the Bernese Mountain Dog's two best-known weaknesses — heavy shedding and a tragically short lifespan (often only 7–9 years, with cancer as the dominant cause of death). Cross-breeding with the longer-lived, lower-shedding Poodle was intended to mitigate both.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bernedoodles come in three sizes depending on Poodle parent: <strong>Tiny / Toy</strong> (Toy Poodle parent, 10–24 lbs), <strong>Mini</strong> (Mini Poodle parent, 25–49 lbs), and <strong>Standard</strong> (Standard Poodle parent, 50–90 lbs). Standard Bernedoodles are the closest in size and presence to a purebred Bernese; Minis and Tinys are increasingly popular for smaller homes. Generations follow the usual Doodle convention: F1 (Berner × Poodle, variable coats), F1B (F1 × Poodle, more reliably low-shedding), multigen (third-generation+, most consistent).</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The signature look most associated with the Bernedoodle is the tri-color coat — black, white, and rust — that mirrors the Bernese. Tri-color is genetically recessive, and not every Bernedoodle will display it; some are bi-color (black and white), sable, merle, or solid colors. The coat is typically wavy or curly and ranges from minimally-shedding (F1B and multigen) to moderately-shedding (some F1s).</p>"
+    },
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Bernedoodles Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Size varies from 10 lb Tiny Bernedoodles to 90 lb Standards. <strong>Standard</strong> Bernedoodles stand 23–29 inches and weigh 50–90 lbs — substantial, sturdy dogs. <strong>Mini</strong> Bernedoodles stand 18–22 inches and weigh 25–49 lbs. <strong>Tiny / Toy</strong> Bernedoodles stand 12–17 inches and weigh 10–24 lbs. Confirm the parents' sizes when evaluating a puppy.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Coat is wavy or curly and ranges from low-shedding (most common) to minimally-shedding (F1B and multigen). The tri-color pattern — black with white markings and rust accents over the eyes and on the cheeks/legs — is the most sought-after but not guaranteed; a tri-color parent does not guarantee tri-color puppies. Other patterns include bi-color (black and white), sable, merle (rare and requires careful breeding to avoid double-merle health issues), and solid colors. The coat requires the same intensive grooming as other Doodles regardless of color.</p>"
+    },
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bernedoodles tend to inherit the Bernese Mountain Dog's calm, gentle, family-oriented disposition combined with the Poodle's intelligence and trainability. They are typically more laid-back than Goldendoodles or Labradoodles — less exhaustingly enthusiastic, more content to settle in the room with the family. The Bernese's reputation for being deeply bonded to children carries through; Standard Bernedoodles are often described as exceptional family dogs.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The flip side of the Bernese temperament is a tendency toward stubbornness and a slower training maturation. Most Bernedoodles are trainable but on their own timeline — not as immediately compliant as a Lab or Golden. Patient, consistent positive reinforcement from puppyhood is essential. Some Bernedoodles inherit a reserved or aloof attitude toward strangers (Bernese trait); proper early socialization between 8–16 weeks is important.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With children: excellent, often gentle and patient especially with young children. With other animals: generally excellent. With strangers: friendly but sometimes reserved at first. Separation anxiety is documented but typically less severe than in Goldendoodles.</p>"
+    },
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Bernedoodle",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">If a family asks me about getting a Bernese Mountain Dog, my honest advice is increasingly: consider a Bernedoodle from a tested breeder instead. The Bernese is one of the most beautiful and gentle breeds in the world, but the 7–9 year average lifespan and the cancer rate (50%+ of Bernese die of cancer per breed-club studies) is a real heartbreak that many families don't recover from. A well-bred Bernedoodle frequently lives 4–6 years longer and retains most of the temperament that makes the Bernese so beloved.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The catch — same as every Doodle — is that the breeder matters enormously. The lifespan benefit only materializes when both parents are health-tested and longevity is being actively selected for. A Bernedoodle bred from an untested Bernese Mountain Dog and an untested Poodle is not meaningfully healthier than a purebred Berner — the cancer genes and orthopedic risks pass through both parents. Buy from a breeder who can show you OFA clearances on both parents, who tracks the longevity of dogs they've previously placed, and who can document several generations of health data.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">The grooming reality is the same as the other Doodles. Professional grooming every 6–8 weeks ($80–$150) is non-negotiable, plus 2–3 brushing sessions per week at home. The Bernese's affinity for cool weather carries through — most Bernedoodles do better in moderate or cold climates than in heat.</p>"
+    },
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">45–75 minutes daily for Standards; 30–45 minutes for Minis. Bernedoodles are less driven than Lab- or Australian Shepherd-based Doodles — they need real activity but are content to be settled at home between walks. Hiking, swimming, and moderate-paced play suit the breed.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Mental Stimulation</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Daily training sessions, puzzle feeders, and scent work. The Poodle side contributes intelligence; the Bernese side contributes a slightly slower, more deliberate working style. Consistency matters more than intensity.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Professional grooming every 6–8 weeks. Brushing 2–3 times per week at home, daily during the 8–14 month coat transition. The coat is typically wavy or curly and mats aggressively without regular brushing. See the <a href=\"/blogs/dog-breeds/bernedoodle-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Bernedoodle grooming guide</a>.</p>"
+    },
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Bernedoodles share inherited health risks with both parent breeds. The Bernese Mountain Dog has one of the shortest average lifespans of any breed, driven heavily by cancer rates; the lifespan extension claim for the Bernedoodle is real but depends entirely on health-tested foundation stock.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Cancer</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Bernese Mountain Dogs have very high cancer rates (~50% of deaths in studies). Histiocytic sarcoma is the most breed-specific cancer in the Bernese lineage. Crossing with Poodle reduces but does not eliminate this risk. Cancer is the leading cause of death in middle-aged and senior Bernedoodles. Choosing a breeder who tracks parent longevity is the most actionable preventive.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Hip and Elbow Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Both parent breeds carry elevated rates. OFA or PennHIP screening on both parents is essential. Ask for specific ratings (Excellent, Good, Fair) — not just &quot;hips have been cleared.&quot;</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Degenerative Myelopathy (DM)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Progressive spinal cord disease causing rear-end weakness and paralysis in older dogs. DNA test available — the Bernese parent should be tested clear or carrier. Documented at elevated rates in Bernese.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inherited retinal degeneration leading to blindness. Present in Poodles. DNA test available — Poodle parent should be tested.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Bloat / GDV</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Deep-chested Standard Bernedoodles are at GDV risk. Prophylactic gastropexy at spay/neuter is worth discussing.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Von Willebrand's Disease</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Inherited bleeding disorder from the Poodle side. DNA test available. Important to know before any surgical procedure.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for (both parents):</strong> OFA hip and elbow, OFA cardiac, CAER eye exam, PRA DNA test, DM DNA test on the Bernese parent, vWD DNA test on the Poodle parent. Ask the breeder for the longevity records of dogs from previous litters.</p>"
+    },
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$2,500–$5,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Professional grooming (every 6–8 weeks)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$600–$1,200</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$700–$1,400</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$700–$1,400</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies, training)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$600</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$5,200–$10,500</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$2,250–$4,200</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">Histiocytic sarcoma treatment, if it develops, runs $8,000–$25,000+. Insurance enrolled before the first vet visit is the single highest-value financial decision for this breed. See the <a href=\"/blogs/dog-breeds/bernedoodle-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Bernedoodle first-year cost breakdown</a>.</p>"
+    },
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Bernedoodle Right for You?",
+      "good_fit": [
+        "Families that want the gentle Bernese temperament without the 7-year heartbreak",
+        "Active but not high-octane households — Bernedoodles need exercise but are not endurance athletes",
+        "Cooler climates — Bernedoodles inherit Bernese sensitivity to heat",
+        "Owners willing to invest in tested breeders ($3,000+ puppy) to realize the lifespan benefit",
+        "Households that want a calm, family-oriented dog with low-shedding coat"
+      ],
+      "not_fit": [
+        "Owners shopping primarily on price — bargain Bernedoodles often inherit cancer and orthopedic risks at full strength",
+        "Hot or humid climates without air-conditioning — Bernedoodles overheat readily",
+        "Households that want a high-energy dog for serious running or dog sports",
+        "Owners who cannot commit to OFA-clearance verification on both parents",
+        "People not prepared for the grooming cost as a permanent annual budget item"
+      ]
+    },
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Bernedoodle",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$2,500–$5,500 from reputable breeders. The Bernedoodle Association of America (BAA) and the United Bernedoodle Registry maintain breeder directories. SwissRidge Kennels (originator) and member breeders publish health protocols. Required: OFA hip and elbow on both parents, OFA cardiac, CAER eye exam, PRA and DM DNA tests, vWD test on the Poodle parent. The single most valuable question to ask a Bernedoodle breeder is: &quot;What is the longevity record of dogs from previous litters?&quot; A breeder tracking this data is breeding for the lifespan benefit; a breeder who can't answer is not.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Doodle Rescue Collective and IDOG Rescue both place Bernedoodles. Adult dogs offer known coat, size, and temperament, and a clearer health picture than a puppy.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Bernedoodle puppy comes home, complete the <a href=\"/blogs/dog-breeds/bernedoodle-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Bernedoodle puppy checklist</a> — insurance enrollment, identifying an experienced groomer, and training class registration are the three critical pre-arrival steps.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "Do Bernedoodles really live longer than Bernese Mountain Dogs?",
+      "a": "On average, yes — when bred from health-tested parents. Bernese Mountain Dogs average 7–9 years due to very high cancer rates (50%+ of deaths in breed studies). Well-bred Bernedoodles often live 12–15 years, sometimes 16–18 for smaller sizes. The lifespan benefit depends entirely on the breeder selecting for longevity and health-testing both parents. A Bernedoodle from untested parents may not significantly outlive a purebred Bernese."
+    },
+    {
+      "q": "What is a tri-color Bernedoodle?",
+      "a": "A tri-color Bernedoodle has the classic Bernese Mountain Dog coloration: predominantly black with white markings on the chest, paws, and face, plus rust-colored accents over the eyes and on the cheeks and legs. It is the most sought-after Bernedoodle color but genetically recessive — even two tri-color parents may produce non-tri-color puppies. Expect a $500–$1,500 premium for tri-color puppies from many breeders."
+    },
+    {
+      "q": "Are Bernedoodles good for hot climates?",
+      "a": "Not particularly. The Bernese Mountain Dog was bred for the Swiss Alps, and Bernedoodles often inherit heat sensitivity even though the Poodle parent handles warmth better. In hot or humid climates, Bernedoodles need air-conditioned indoor time, exercise restricted to cool morning or evening hours, and constant access to shade and water. They thrive in moderate-to-cool climates."
+    },
+    {
+      "q": "Is the Mini Bernedoodle as healthy as the Standard?",
+      "a": "Mixed evidence. Mini Bernedoodles inherit some lifespan benefit from the smaller Poodle parent (small dogs typically live longer than large dogs) but may also inherit additional health concerns from the smaller Poodle. The Toy/Tiny Bernedoodle market is also more saturated with profit-driven breeding, so tested parents are harder to verify. Stick with breeders who can document health testing on both parents regardless of size."
+    }
+  ],
+  "related_breeds": [
+    {
+      "name": "Goldendoodle",
+      "slug": "goldendoodle",
+      "note": "Golden Retriever × Poodle — similar family-dog concept, more energy, similar coat care"
+    },
+    {
+      "name": "Sheepadoodle",
+      "slug": "sheepadoodle",
+      "note": "Old English Sheepdog × Poodle — similar large-and-gentle profile, more herding instinct"
+    },
+    {
+      "name": "Standard Poodle",
+      "slug": "standard-poodle",
+      "note": "The Poodle parent — reliably non-shedding, longer-lived, predictable temperament"
+    },
+    {
+      "name": "Bernese Mountain Dog",
+      "slug": "bernese-mountain-dog",
+      "note": "The other purebred parent — gentle and beautiful but short-lived with high cancer rates"
+    }
+  ]
+}

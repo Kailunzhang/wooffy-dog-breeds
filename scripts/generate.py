@@ -205,12 +205,17 @@ def build_related(breeds):
 
 
 def build_image(img, extra_style=""):
-    caption = f'<figcaption style="font-size:0.75em;color:#6b7177;margin-top:8px;letter-spacing:0.02em;">{img["caption"]}</figcaption>' if img.get("caption") else ""
-    return f"""<figure style="margin:0 0 8px 0;{extra_style}">
+    cap = img.get("caption", "")
+    cta = img.get("cta", "")
+    cta_html = f'<span style="color:#1a1a1a;font-weight:700;text-decoration:underline;text-underline-offset:3px;{"margin-left:8px;" if cap else ""}">{cta}</span>' if cta else ""
+    caption = f'<figcaption style="font-size:0.75em;color:#6b7177;margin-top:8px;letter-spacing:0.02em;">{cap}{cta_html}</figcaption>' if (cap or cta) else ""
+    figure = f"""<figure style="margin:0 0 8px 0;{extra_style}">
   <img src="{img['url']}" alt="{img['alt']}" loading="lazy"
     style="width:100%;height:auto;border-radius:8px;display:block;box-shadow:rgba(0,0,0,0.07) 0px 8px 24px;">
   {caption}
 </figure>"""
+    link = img.get("link")
+    return f'<a href="{link}" style="text-decoration:none;color:inherit;display:block;">{figure}</a>' if link else figure
 
 
 def build_quiz_cta(cta):
@@ -304,6 +309,10 @@ def generate_html(breed):
 
     if s.get("mikes_take"):
         content += build_section("mikes_take", s["mikes_take"], name)
+
+    # secondary image before care
+    if "before_care" in secondary:
+        content += build_image(secondary["before_care"])
 
     if s.get("care"):
         content += build_section("care",    s["care"],    name)
@@ -758,6 +767,24 @@ def find_article_by_handle(handle):
     return None
 
 
+def _compute_title_tag(slug, name):
+    """SEO title_tag template. Returns None for roundups (use Shopify default)."""
+    roundup_prefixes = ("best-", "most-", "easiest-", "quietest-", "longest-", "rarest-", "low-", "dog-breeds-")
+    if any(slug.startswith(p) for p in roundup_prefixes):
+        return None
+    suffix_templates = {
+        "-grooming-guide":    "{breed} Grooming Guide: Tools, Tips & Schedule",
+        "-first-year-costs":  "{breed} Cost: First-Year & Annual Budget",
+        "-puppy-checklist":   "{breed} Puppy Checklist: First 30 Days Essentials",
+    }
+    for suf, tmpl in suffix_templates.items():
+        if slug.endswith(suf):
+            base_slug = slug[: -len(suf)]
+            breed_display = base_slug.replace("-", " ").title()
+            return tmpl.format(breed=breed_display)
+    return f"{name} Breed Guide: Cost, Care & Temperament"
+
+
 def publish_to_shopify(breed, html, force_update=False):
     m = breed["meta"]
     handle = m["shopify_handle"]
@@ -777,19 +804,28 @@ def publish_to_shopify(breed, html, force_update=False):
         "title":      m["name"],
         "body_html":  html,
         "handle":     handle,
+        "author":     m.get("author", "Kailun Zhang"),
         "published":  m.get("published", True),
         "tags":       ", ".join(m.get("tags", [])),
         "excerpt":    m.get("excerpt", ""),
         **({"published_at": m["published_at"]} if m.get("published_at") else {}),
         **({"image": {"src": hero["url"], "alt": hero.get("alt", m["name"])}} if hero.get("url") else {}),
         "metafields": [
-            {
-                "key":       "description_tag",
-                "value":     m.get("meta_description", ""),
-                "type":      "single_line_text_field",
-                "namespace": "global"
-            }
-        ] if m.get("meta_description") else []
+            mf for mf in [
+                ({
+                    "key":       "description_tag",
+                    "value":     m.get("meta_description", ""),
+                    "type":      "single_line_text_field",
+                    "namespace": "global"
+                } if m.get("meta_description") else None),
+                ({
+                    "key":       "title_tag",
+                    "value":     _compute_title_tag(handle, m["name"]),
+                    "type":      "single_line_text_field",
+                    "namespace": "global"
+                } if _compute_title_tag(handle, m["name"]) else None),
+            ] if mf is not None
+        ]
     }
 
     if existing_id:

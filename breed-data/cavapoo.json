@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "name": "Cavapoo",
+    "slug": "cavapoo",
+    "shopify_handle": "cavapoo",
+    "group": "Designer Crossbreed",
+    "size_category": "Small Breed",
+    "tagline": "The Cavapoo — Cavalier King Charles Spaniel crossed with a Miniature or Toy Poodle — is one of the most popular small Doodles, prized for its small size, affectionate temperament, and (often) low-shedding coat. The serious risk this breed inherits from the Cavalier parent is mitral valve disease, a genetic heart condition that affects more than half of Cavaliers by age 5. Choosing a breeder who heart-tests the Cavalier parent is non-negotiable.",
+    "tags": [
+      "designer-crossbreed",
+      "small-breed",
+      "family-friendly",
+      "apartment-friendly",
+      "low-shedding",
+      "doodle",
+      "dog-breeds"
+    ],
+    "published": true,
+    "published_at": null,
+    "excerpt": "Cavapoos are small, affectionate, low-shedding family dogs — wonderful with children and apartment-friendly. The breed inherits a serious heart-disease risk from the Cavalier parent (mitral valve disease), making heart-tested breeding stock essential.",
+    "meta_description": "Cavapoo breed guide: Cavalier mitral valve disease (MVD) risk, syringomyelia, F1 vs F1B coats, apartment suitability, exercise needs, grooming costs, and choosing a breeder who heart-tests the Cavalier parent."
+  },
+  "stats": {
+    "size": {
+      "emoji": "📏",
+      "label": "Size",
+      "value": "Small"
+    },
+    "weight": {
+      "emoji": "⚖️",
+      "label": "Weight",
+      "value": "9–25 lbs"
+    },
+    "lifespan": {
+      "emoji": "📅",
+      "label": "Lifespan",
+      "value": "12–15 yrs"
+    },
+    "exercise": {
+      "emoji": "🏃",
+      "label": "Exercise",
+      "value": "30–45 min"
+    },
+    "grooming": {
+      "emoji": "✂️",
+      "label": "Grooming",
+      "value": "High (professional required)"
+    },
+    "training": {
+      "emoji": "🎓",
+      "label": "Training",
+      "value": "Easy"
+    },
+    "with_kids": {
+      "emoji": "👨‍👩‍👧",
+      "label": "With Kids",
+      "value": "Excellent"
+    },
+    "beginners": {
+      "emoji": "🌱",
+      "label": "Beginners",
+      "value": "Yes"
+    }
+  },
+  "images": {
+    "hero": {
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/01-adult-portrait_8d826209-7b14-4bdd-85dc-38bd094f3871.png?v=1778474699",
+      "alt": "Cavapoo"
+    },
+    "secondary": [
+      {
+        "placement": "before_temperament",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/03-lifestyle_830fe835-9659-4025-8fcb-97630d7f6b11.png?v=1778474707",
+        "alt": "Cavapoo at home with family",
+        "caption": "Life with a Cavapoo — what daily ownership actually looks and costs.",
+        "cta": "See first-year costs →",
+        "link": "/blogs/dog-breeds/cavapoo-first-year-costs"
+      },
+      {
+        "placement": "before_care",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/02-grooming_a23776f8-235d-4b42-b94d-a3a7f4444999.png?v=1778474694",
+        "alt": "Cavapoo coat care",
+        "caption": "Coat care is a real ongoing commitment.",
+        "cta": "See full grooming guide →",
+        "link": "/blogs/dog-breeds/cavapoo-grooming-guide"
+      },
+      {
+        "placement": "before_finding",
+        "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/04-puppy_d7d99059-07f7-47dc-b5e5-ce3459d030d1.png?v=1778474703",
+        "alt": "Cavapoo puppy",
+        "caption": "Bringing home a Cavapoo puppy.",
+        "cta": "See the puppy checklist →",
+        "link": "/blogs/dog-breeds/cavapoo-puppy-checklist"
+      }
+    ]
+  },
+  "sections": {
+    "intro": {
+      "label": "Overview",
+      "heading": "What Is a Cavapoo?",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Cavapoo (also called Cavoodle in Australia) is a deliberate crossbreed between a Cavalier King Charles Spaniel and a Miniature or Toy Poodle, popular since the 1990s and now one of the most common small Doodle breeds in the world. The cross was designed to combine the Cavalier's famously affectionate, child-friendly temperament with the Poodle's low-shedding coat and reduced exposure to certain Cavalier health risks.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The lifespan-and-health goal is meaningful in this cross. The purebred Cavalier has one of the most concerning health profiles of any breed: more than 50% of Cavaliers develop mitral valve disease (MVD), a progressive heart condition, by age 5, and the average Cavalier lifespan is just 10–11 years. Cross-breeding with the heart-healthier Poodle dilutes some of this risk — but only when the Cavalier parent is itself heart-cleared. An untested Cavalier parent can pass MVD on regardless of the Poodle cross.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Generations follow the same Doodle convention. F1 (Cavalier × Poodle) is the most common and produces variable coats. F1B (F1 × Poodle) is more reliably low-shedding. Multigen is most consistent. Most Cavapoos are F1; ask the breeder for the specific generation and the health testing done on both parents.</p>"
+    },
+    "appearance": {
+      "label": "Physical",
+      "heading": "What Cavapoos Look Like",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Small, compact, and rounded. Adult Cavapoos typically weigh 9–25 lbs and stand 9–14 inches at the shoulder. The Toy Poodle parent produces smaller Cavapoos; the Miniature Poodle parent produces the upper end of the range. Within litters, size variation of 3–5 lbs is normal.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Coats are wavy or curly. F1B and multigen Cavapoos lean curlier and shed minimally; some F1s have wavier coats with more shedding. Colors include cream, apricot, red, chocolate, black, sable, tri-color (Blenheim-pattern from the Cavalier side), and parti combinations. The dark eyes and rounded muzzle give the Cavapoo its distinctive teddy-bear appearance.</p>"
+    },
+    "temperament": {
+      "label": "Personality",
+      "heading": "Temperament",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Cavapoos are famously affectionate, gentle, and people-oriented. They inherit the Cavalier's reputation as a lap dog and constant companion combined with the Poodle's playful intelligence. They are excellent with children, generally great with other pets, and well-suited to apartment living and senior owners.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The flip side of the deeply social temperament is intense bonding and separation anxiety. Cavapoos do not tolerate long alone-time well; they were bred to be companions and they fall apart when isolated for 8+ hours. This is the single most common owner complaint about the breed.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With children: excellent, often described as one of the best small-breed choices for families. With other animals: very good. With strangers: friendly. They are not guard dogs in any sense — they will greet visitors as new friends. Training is straightforward but requires patience for housebreaking, which can take longer than with larger breeds.</p>"
+    },
+    "mikes_take": {
+      "label": "A Realistic Take",
+      "heading": "What I'd Tell a Friend Thinking About a Cavapoo",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Cavapoo is one of the best small-breed family dog choices available — for the right household. The temperament is genuinely lovely, the size is apartment-friendly, and well-bred F1B or multigen Cavapoos are reliably low-shedding. The breed has become hugely popular for real, defensible reasons.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Mitral valve disease is the issue that keeps me up about this breed. MVD is the leading cause of death in purebred Cavaliers, with onset often in the early years of life. The Cavapoo cross dilutes this risk, but only if the Cavalier parent itself has been heart-cleared by a board-certified veterinary cardiologist within 12 months of breeding. This is not the same as a routine vet listening with a stethoscope. Ask specifically: &quot;Has the Cavalier parent been examined by a veterinary cardiologist for MVD within the last year, and can I see the report?&quot; If the answer is no, walk away.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Syringomyelia (SM) is the other Cavalier-specific concern. It is a neurological condition caused by skull malformation; affected dogs scratch at their necks and shoulders persistently and may eventually need lifelong pain management. MRI screening of breeding stock is the gold standard but is expensive and not all breeders do it. Ask whether the Cavalier parent has been MRI-screened.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Cavapoos are not the breed for households with frequent extended absences. Plan for daycare, dog walkers, or a household where someone is home most of the time.</p>"
+    },
+    "care": {
+      "label": "Daily Life",
+      "heading": "Care Requirements",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Exercise</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">30–45 minutes daily — moderate-pace walks, indoor play, short hikes. Cavapoos enjoy activity but are not athletes; they are equally content settled on the couch with their family.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Mental Stimulation</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Daily training sessions, puzzle feeders, gentle trick training. The Poodle side wants engagement; the Cavalier side wants companionship. Both are well-served by short, frequent training games.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Grooming</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Professional grooming every 6–8 weeks. Brushing 2–3 times per week at home, paying special attention to behind the ears and around the eyes (where mats form fastest in small Doodles). Eye and tear-stain cleaning daily. See the <a href=\"/blogs/dog-breeds/cavapoo-grooming-guide\" style=\"color:#1a1a1a;font-weight:700;\">Cavapoo grooming guide</a>.</p>"
+    },
+    "health": {
+      "label": "Wellness",
+      "heading": "Health &amp; Common Conditions",
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Cavapoos inherit the most consequential health concerns of any Doodle. The Cavalier King Charles Spaniel has one of the highest documented prevalences of inherited disease of any breed — particularly mitral valve disease (MVD) and syringomyelia (SM). The Poodle cross helps but does not eliminate these risks. Verified health testing on the Cavalier parent is the single most important variable.</p><table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Condition</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">What It Means</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Mitral Valve Disease (MVD)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Progressive heart valve degeneration, the leading cause of death in purebred Cavaliers. More than 50% of Cavaliers develop MVD by age 5, and over 90% by age 10. Cross-breeding with Poodle reduces but does not eliminate this risk. The Cavalier parent must have a current (within 12 months) heart clearance from a board-certified veterinary cardiologist. Lifetime management of MVD can cost $3,000–$10,000+ in medication and monitoring.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Syringomyelia (SM)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Neurological condition caused by Chiari-like skull malformation (the skull is too small for the brain). Causes pain, persistent scratching at the neck and shoulders (without contact), and in severe cases neurological deficits. MRI screening is the only definitive diagnostic. Ask whether the Cavalier parent has been MRI-screened — most breeders do not, but the best ones do.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Hip Dysplasia</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Less common in small Cavapoos but documented. OFA screening on both parents recommended.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Patellar Luxation</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Kneecap dislocation, common in small breeds including Cavapoos. Examination by a veterinarian is the standard screening.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f8f8f8;vertical-align:top;\">Progressive Retinal Atrophy (PRA)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">From the Poodle side. DNA test available — the Poodle parent should be tested clear or carrier.</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f6f6f1;vertical-align:top;\">Episodic Falling Syndrome</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Cavalier-specific muscle disorder causing collapse episodes. DNA test available; ask whether the Cavalier parent has been tested.</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\"><strong style=\"color:#1a1a1a;\">Ask breeders for (both parents):</strong> Heart clearance on the Cavalier parent from a board-certified veterinary cardiologist within 12 months (this is the single most important test). Plus: OFA hip on both parents, patellar exam, CAER eye exam, PRA DNA test, episodic falling DNA test, and ideally MRI clearance for syringomyelia.</p>"
+    },
+    "cost": {
+      "label": "Budget",
+      "heading": "Cost of Ownership",
+      "html": "<table style=\"width:100%;border-collapse:collapse;font-size:0.88em;\"><thead><tr><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Expense</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">First Year</th><th style=\"padding:10px 12px;text-align:left;font-weight:700;color:#1a1a1a;background:#f6f6f1;border-bottom:1px solid #d0d0d0;\">Annual (ongoing)</th></tr></thead><tbody><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Puppy (reputable breeder)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$2,000–$4,500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">—</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Food</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$300–$500</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Vet (routine + puppy series)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$500–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$350–$600</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Professional grooming (every 6–8 weeks)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$500–$1,000</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">Pet insurance</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$900</td><td style=\"padding:10px 12px;color:#6b7177;background:#f8f8f8;\">$400–$900</td></tr><tr style=\"border-bottom:1px solid #e8e8e8;\"><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">Setup (crate, supplies, training)</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">$250–$500</td><td style=\"padding:10px 12px;color:#6b7177;background:#f6f6f1;\">—</td></tr><tr><td style=\"padding:10px 12px;font-weight:700;color:#1a1a1a;background:#f0f0f0;\">Estimated Total</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$3,800–$8,200</td><td style=\"padding:10px 12px;font-weight:700;color:#008060;background:#f0f0f0;\">$1,500–$3,000</td></tr></tbody></table><p style=\"font-size:0.82em;color:#6b7177;margin:14px 0 0 0;\">MVD treatment, if it develops, adds $1,500–$4,000/year for medication and cardiac monitoring. Insurance enrolled before the first vet visit — and before any MVD diagnosis — covers this. Do not delay enrollment. See the <a href=\"/blogs/dog-breeds/cavapoo-first-year-costs\" style=\"color:#1a1a1a;font-weight:700;\">full Cavapoo first-year cost breakdown</a>.</p>"
+    },
+    "right_for_you": {
+      "label": "Fit Assessment",
+      "heading": "Is a Cavapoo Right for You?",
+      "good_fit": [
+        "Apartment dwellers and small-home families wanting a low-shedding small breed",
+        "Households where someone is home most of the day",
+        "Families with children (especially Cavapoos placed in homes with older, gentle children)",
+        "Senior owners wanting an affectionate, low-exercise companion",
+        "Owners willing to pay a premium for a heart-cleared Cavalier parent"
+      ],
+      "not_fit": [
+        "Households where the dog will be alone 8+ hours daily — separation anxiety is severe in this breed",
+        "Owners shopping by price — untested Cavalier parents pass MVD on regardless of price",
+        "Households not prepared for ongoing cardiology monitoring",
+        "Families with very rough young children — Cavapoos are small and can be injured",
+        "Owners who want a low-grooming dog — even small Doodles need regular professional grooming"
+      ]
+    },
+    "finding": {
+      "label": "Next Steps",
+      "heading": "Finding Your Cavapoo",
+      "html": "<h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Buying from a Breeder</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">$2,000–$4,500 from reputable breeders. The Cavapoo Club of America and Cavoodle Club of Australia maintain breeder directories. The non-negotiable test is a current heart clearance on the Cavalier parent from a board-certified veterinary cardiologist (the AVCA-trained specialist, not the regular vet). The breeder should also be able to show OFA hip clearances, patellar examination, CAER eye exam, and PRA DNA testing on the Poodle parent. Breeders willing to invest in MRI clearance for syringomyelia are operating at the highest tier.</p><h3 style=\"font-size:0.95em;font-weight:700;color:#1a1a1a;margin:0 0 10px 0;\">Rescue</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Cavapoo-specific rescue is limited but growing. Doodle Rescue Collective and Cavalier King Charles Spaniel rescue networks occasionally place Cavapoos. Adult dogs that have already been heart-screened are a strong choice.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:16px 0 0 0;\">Before your Cavapoo puppy comes home, complete the <a href=\"/blogs/dog-breeds/cavapoo-puppy-checklist\" style=\"color:#1a1a1a;font-weight:700;\">Cavapoo puppy checklist</a> — insurance enrollment, identifying an experienced groomer, and training class registration are the three critical pre-arrival steps.</p>"
+    }
+  },
+  "faq": [
+    {
+      "q": "What is mitral valve disease and why does it matter for Cavapoos?",
+      "a": "Mitral valve disease (MVD) is a progressive degeneration of the heart's mitral valve, leading to heart failure. It is the leading cause of death in purebred Cavalier King Charles Spaniels, with more than 50% affected by age 5 and over 90% by age 10. The Cavapoo cross with Poodle reduces but does not eliminate this risk. The single most important screening for a Cavapoo breeder is a current heart clearance on the Cavalier parent from a board-certified veterinary cardiologist (not a regular vet). Without this, you have no meaningful protection against inheriting the disease."
+    },
+    {
+      "q": "Do Cavapoos get separation anxiety?",
+      "a": "Yes — at very high rates. The Cavalier was bred specifically as a companion dog, and Cavapoos inherit this intense need for human company. Cavapoos left alone 8+ hours daily commonly develop barking, destructive chewing, house-soiling, and pacing behaviors. They are best suited to homes where someone is present most of the time, or where daycare or a dog walker provides midday companionship."
+    },
+    {
+      "q": "Are Cavapoos hypoallergenic?",
+      "a": "F1B and multigen Cavapoos with curly coats are reliably low-shedding. F1 Cavapoos vary — about half shed noticeably. No dog is truly hypoallergenic. For allergy-sensitive families, request an F1B or multigen with a confirmed curly coat, and spend time with the specific puppy or an adult sibling before committing."
+    },
+    {
+      "q": "How big does a Cavapoo get?",
+      "a": "9–25 lbs depending on the Poodle parent size. A Toy Poodle parent produces Cavapoos at the small end (9–15 lbs); a Mini Poodle parent produces Cavapoos at the upper end (18–25 lbs). The breeder should be able to give a reliable estimate based on parent sizes. Within litters, size variation of 3–5 lbs is normal."
+    }
+  ],
+  "related_breeds": [
+    {
+      "name": "Goldendoodle",
+      "slug": "goldendoodle",
+      "note": "Larger version of the family-dog concept, more exercise, equally social"
+    },
+    {
+      "name": "Bichon Frise",
+      "slug": "bichon-frise",
+      "note": "Similar small, low-shedding, affectionate purebred — more predictable genetics"
+    },
+    {
+      "name": "Miniature Poodle",
+      "slug": "miniature-poodle",
+      "note": "The Poodle parent — reliably non-shedding, longer-lived, more energetic"
+    },
+    {
+      "name": "Cavalier King Charles Spaniel",
+      "slug": "cavalier-king-charles-spaniel",
+      "note": "The Cavalier parent — same temperament but significantly higher MVD risk"
+    }
+  ]
+}
