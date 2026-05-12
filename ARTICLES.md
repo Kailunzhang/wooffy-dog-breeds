@@ -7,10 +7,10 @@
 
 | Type | Count |
 |------|-------|
-| Breed guides | 164 |
+| Breed guides | 169 |
 | Supporting articles | 493 |
 | Roundup articles | 61 |
-| **Total** | **718** |
+| **Total** | **723** |
 
 ---
 
@@ -276,6 +276,11 @@
 | Bernedoodle Grooming Guide: Coat Care, Brushing Schedules, and Professional Trim Frequency | ✅ Live | [/blogs/dog-breeds/bernedoodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/bernedoodle-grooming-guide) |
 | Bernedoodle Puppy Checklist | ✅ Live | [/blogs/dog-breeds/bernedoodle-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/bernedoodle-puppy-checklist) |
 
+### Bernedoodle vs Goldendoodle *(Doodle Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Bernedoodle vs Goldendoodle | ✅ Live | [/blogs/dog-breeds/bernedoodle-vs-goldendoodle](https://thewooffy.com/blogs/dog-breeds/bernedoodle-vs-goldendoodle) |
+
 ### Bernese Mountain Dog *(Working Group · Large Breed)*
 | Article | Status | URL |
 |---------|--------|-----|
@@ -451,6 +456,11 @@
 | Cavapoo First Year Costs | ✅ Live | [/blogs/dog-breeds/cavapoo-first-year-costs](https://thewooffy.com/blogs/dog-breeds/cavapoo-first-year-costs) |
 | Cavapoo Grooming Guide: Coat Care, Brushing Schedules, and Professional Trim Frequency | ✅ Live | [/blogs/dog-breeds/cavapoo-grooming-guide](https://thewooffy.com/blogs/dog-breeds/cavapoo-grooming-guide) |
 | Cavapoo Puppy Checklist | ✅ Live | [/blogs/dog-breeds/cavapoo-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/cavapoo-puppy-checklist) |
+
+### Cavapoo vs Cockapoo *(Doodle Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Cavapoo vs Cockapoo | ✅ Live | [/blogs/dog-breeds/cavapoo-vs-cockapoo](https://thewooffy.com/blogs/dog-breeds/cavapoo-vs-cockapoo) |
 
 ### Chesapeake Bay Retriever *(Sporting Group · Large Breed)*
 | Article | Status | URL |
@@ -685,6 +695,11 @@
 | Goldendoodle Grooming Guide: Coat Care, Brushing Schedules, and Professional Trim Frequency | ✅ Live | [/blogs/dog-breeds/goldendoodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/goldendoodle-grooming-guide) |
 | Goldendoodle Puppy Checklist | ✅ Live | [/blogs/dog-breeds/goldendoodle-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/goldendoodle-puppy-checklist) |
 
+### Goldendoodle vs Labradoodle *(Doodle Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Goldendoodle vs Labradoodle | ✅ Live | [/blogs/dog-breeds/goldendoodle-vs-labradoodle](https://thewooffy.com/blogs/dog-breeds/goldendoodle-vs-labradoodle) |
+
 ### Gordon Setter *(Sporting Group · Large Breed)*
 | Article | Status | URL |
 |---------|--------|-----|
@@ -844,6 +859,11 @@
 | Labrador Retriever First-Year Costs | ✅ Live | [/blogs/dog-breeds/labrador-retriever-first-year-costs](https://thewooffy.com/blogs/dog-breeds/labrador-retriever-first-year-costs) |
 | Labrador Retriever Grooming Guide | ✅ Live | [/blogs/dog-breeds/labrador-retriever-grooming-guide](https://thewooffy.com/blogs/dog-breeds/labrador-retriever-grooming-guide) |
 | Labrador Retriever Puppy Checklist | ✅ Live | [/blogs/dog-breeds/labrador-retriever-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/labrador-retriever-puppy-checklist) |
+
+### Labrador vs Golden Retriever *(Breed Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Labrador vs Golden Retriever | ✅ Live | [/blogs/dog-breeds/labrador-retriever-vs-golden-retriever](https://thewooffy.com/blogs/dog-breeds/labrador-retriever-vs-golden-retriever) |
 
 ### Lagotto Romagnolo *(Sporting Group · Medium Breed)*
 | Article | Status | URL |
@@ -1268,6 +1288,11 @@
 | Standard Poodle First Year Costs | ✅ Live | [/blogs/dog-breeds/standard-poodle-first-year-costs](https://thewooffy.com/blogs/dog-breeds/standard-poodle-first-year-costs) |
 | Standard Poodle Grooming Guide: Curly Coat Care and Professional Trim Schedules | ✅ Live | [/blogs/dog-breeds/standard-poodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/standard-poodle-grooming-guide) |
 | Standard Poodle Puppy Checklist | ✅ Live | [/blogs/dog-breeds/standard-poodle-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/standard-poodle-puppy-checklist) |
+
+### Standard Poodle vs Goldendoodle *(Breed Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Standard Poodle vs Goldendoodle | ✅ Live | [/blogs/dog-breeds/standard-poodle-vs-goldendoodle](https://thewooffy.com/blogs/dog-breeds/standard-poodle-vs-goldendoodle) |
 
 ### Standard Schnauzer *(Working Group · Medium Breed)*
 | Article | Status | URL |
