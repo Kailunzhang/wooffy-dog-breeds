@@ -7,10 +7,10 @@
 
 | Type | Count |
 |------|-------|
-| Breed guides | 169 |
+| Breed guides | 174 |
 | Supporting articles | 493 |
 | Roundup articles | 61 |
-| **Total** | **723** |
+| **Total** | **728** |
 
 ---
 
@@ -329,6 +329,11 @@
 | Border Collie Grooming Guide | ✅ Live | [/blogs/dog-breeds/border-collie-grooming-guide](https://thewooffy.com/blogs/dog-breeds/border-collie-grooming-guide) |
 | Border Collie Puppy Checklist | ✅ Live | [/blogs/dog-breeds/border-collie-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/border-collie-puppy-checklist) |
 
+### Border Collie vs Australian Shepherd *(Herding Breed Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Border Collie vs Australian Shepherd | ✅ Live | [/blogs/dog-breeds/border-collie-vs-australian-shepherd](https://thewooffy.com/blogs/dog-breeds/border-collie-vs-australian-shepherd) |
+
 ### Border Terrier *(Terrier Group · Small Breed)*
 | Article | Status | URL |
 |---------|--------|-----|
@@ -432,6 +437,11 @@
 | Cane Corso First-Year Costs: Full Budget Breakdown | ✅ Live | [/blogs/dog-breeds/cane-corso-first-year-costs](https://thewooffy.com/blogs/dog-breeds/cane-corso-first-year-costs) |
 | Cane Corso Grooming Guide | ✅ Live | [/blogs/dog-breeds/cane-corso-grooming-guide](https://thewooffy.com/blogs/dog-breeds/cane-corso-grooming-guide) |
 | Cane Corso Puppy Checklist: Everything to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/cane-corso-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/cane-corso-puppy-checklist) |
+
+### Cane Corso vs Presa Canario *(Mastiff Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Cane Corso vs Presa Canario | ✅ Live | [/blogs/dog-breeds/cane-corso-vs-presa-canario](https://thewooffy.com/blogs/dog-breeds/cane-corso-vs-presa-canario) |
 
 ### Cardigan Welsh Corgi *(Herding Group · Small-Medium Breed)*
 | Article | Status | URL |
@@ -653,6 +663,11 @@
 | German Shepherd Dog First-Year Costs | ✅ Live | [/blogs/dog-breeds/german-shepherd-dog-first-year-costs](https://thewooffy.com/blogs/dog-breeds/german-shepherd-dog-first-year-costs) |
 | German Shepherd Dog Grooming Guide | ✅ Live | [/blogs/dog-breeds/german-shepherd-dog-grooming-guide](https://thewooffy.com/blogs/dog-breeds/german-shepherd-dog-grooming-guide) |
 | German Shepherd Dog Puppy Checklist | ✅ Live | [/blogs/dog-breeds/german-shepherd-dog-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/german-shepherd-dog-puppy-checklist) |
+
+### German Shepherd vs Doberman *(Working Breed Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| German Shepherd vs Doberman | ✅ Live | [/blogs/dog-breeds/german-shepherd-vs-doberman](https://thewooffy.com/blogs/dog-breeds/german-shepherd-vs-doberman) |
 
 ### German Shorthaired Pointer *(Sporting Group · Large Breed)*
 | Article | Status | URL |
@@ -1136,6 +1151,16 @@
 | Rottweiler First-Year Costs | ✅ Live | [/blogs/dog-breeds/rottweiler-first-year-costs](https://thewooffy.com/blogs/dog-breeds/rottweiler-first-year-costs) |
 | Rottweiler Grooming Guide | ✅ Live | [/blogs/dog-breeds/rottweiler-grooming-guide](https://thewooffy.com/blogs/dog-breeds/rottweiler-grooming-guide) |
 | Rottweiler Puppy Checklist | ✅ Live | [/blogs/dog-breeds/rottweiler-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/rottweiler-puppy-checklist) |
+
+### Rottweiler vs Cane Corso *(Mastiff Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Rottweiler vs Cane Corso | ✅ Live | [/blogs/dog-breeds/rottweiler-vs-cane-corso](https://thewooffy.com/blogs/dog-breeds/rottweiler-vs-cane-corso) |
+
+### Rottweiler vs Doberman Pinscher *(Guard Breed Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Rottweiler vs Doberman Pinscher | ✅ Live | [/blogs/dog-breeds/rottweiler-vs-doberman-pinscher](https://thewooffy.com/blogs/dog-breeds/rottweiler-vs-doberman-pinscher) |
 
 ### Russell Terrier *(Terrier · Small)*
 | Article | Status | URL |
