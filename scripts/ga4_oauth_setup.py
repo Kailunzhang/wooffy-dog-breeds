@@ -17,7 +17,10 @@ except ImportError:
     sys.exit("Install the helper dep first:\n"
              "  python3 -m pip install --user google-auth-oauthlib")
 
-SCOPES = ["https://www.googleapis.com/auth/analytics.readonly"]
+SCOPES = [
+    "https://www.googleapis.com/auth/analytics.readonly",
+    "https://www.googleapis.com/auth/webmasters.readonly",
+]
 
 
 def main():
