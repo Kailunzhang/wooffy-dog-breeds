@@ -54,6 +54,20 @@ WOW_DOWN = -0.08
 WOW_STRONG_DOWN = -0.25
 TOP_PAGES_LIMIT = 15
 
+# Chinese display labels
+DAY_STATE_CN = {"SPIKE": "\U0001F4C8 异常上涨", "DROP": "\U0001F4C9 异常下跌",
+                "NORMAL": "✅ 正常"}
+WOW_STATE_CN = {"growing strongly": "\U0001F680 强劲增长",
+                "growing": "\U0001F4C8 增长中", "stable": "➡️ 平稳",
+                "declining": "\U0001F4C9 下滑",
+                "declining sharply": "\U0001F53B 明显下滑"}
+CHANNEL_CN = {"Direct": "直接访问", "Organic Search": "自然搜索",
+              "Organic Social": "自然社交", "Organic Shopping": "自然购物",
+              "Referral": "引荐", "Unassigned": "未归类",
+              "Paid Search": "付费搜索", "Paid Social": "付费社交",
+              "Email": "邮件", "Organic Video": "自然视频",
+              "Display": "展示广告", "Cross-network": "跨网络"}
+
 
 GA4_SCOPES = ["https://www.googleapis.com/auth/analytics.readonly"]
 
@@ -168,8 +182,10 @@ def _pct(curr, base):
 def analyze(data):
     series = data["series"]
     if len(series) < 10:
-        return {"verdict": "Not enough data yet", "lines": [],
-                "recommendations": ["Let GA4 accumulate more days, then re-run."]}
+        return {"verdict": "ℹ️ 数据不足",
+                "lines": ["GA4 数据天数太少，暂时无法做趋势判断。"],
+                "recommendations": ["⏳ 等 GA4 再积累几天数据后会自动恢复。"],
+                "top_pages": [], "channels": {}}
 
     yesterday = series[-1]
     baseline = series[-(BASELINE_DAYS + 1):-1] or series[:-1]
@@ -209,68 +225,67 @@ def analyze(data):
     org_share = org_now / total_now
 
     if wow_state in ("growing strongly", "growing") and org_growth > 0.15:
-        verdict = "Growing - SEO compounding"
+        verdict = "\U0001F4C8 增长中 · SEO 复利"
     elif wow_state == "growing strongly":
-        verdict = "Growing strongly"
+        verdict = "\U0001F680 强劲增长"
     elif wow_state == "growing":
-        verdict = "Growing"
+        verdict = "\U0001F4C8 增长中"
     elif wow_state == "stable":
-        verdict = "Stable"
+        verdict = "➡️ 平稳"
     elif wow_state == "declining":
-        verdict = "Slowing down"
+        verdict = "⚠️ 增长放缓"
     else:
-        verdict = "Declining - needs attention"
+        verdict = "\U0001F534 下滑 · 需关注"
 
     lines = [
-        f"Yesterday ({yesterday['date']}): {y} sessions, "
-        f"{yesterday['users']} users, {yesterday['views']} pageviews "
-        f"(engagement {yesterday['engagement']*100:.0f}%).",
-        f"Day vs 28-day baseline ({base_median:.0f} median): "
-        f"{vs_base*100:+.0f}% (z={z:+.1f}) -> {day_state}.",
-        f"Last 7 days: {last7} sessions vs previous 7 ({prev7}): "
-        f"{wow*100:+.0f}% -> {wow_state}.",
-        f"Organic search: {org_now} sessions last 7d "
-        f"({org_share*100:.0f}% of traffic), {org_growth*100:+.0f}% WoW.",
+        f"昨日（{yesterday['date']}）：{y} 次会话 · "
+        f"{yesterday['users']} 访客 · {yesterday['views']} 次浏览"
+        f"（参与度 {yesterday['engagement']*100:.0f}%）",
+        f"对比 28 天基线（中位 {base_median:.0f}）："
+        f"{vs_base*100:+.0f}%（z={z:+.1f}）→ {DAY_STATE_CN[day_state]}",
+        f"近 7 天：{last7} 次会话 vs 前 7 天 {prev7} 次："
+        f"{wow*100:+.0f}% → {WOW_STATE_CN[wow_state]}",
+        f"自然搜索：{org_now} 次（占总流量 {org_share*100:.0f}%）· "
+        f"环比 {org_growth*100:+.0f}%",
     ]
 
     recs = []
     if day_state == "SPIKE" and data["yest_landing"]:
         top = data["yest_landing"][0]
         recs.append(
-            f"Yesterday spiked. Top entry page was {top[0]} ({top[1]} "
-            f"sessions) - produce/expand more content like it while it ranks."
+            f"\U0001F4C8 昨日流量异常上涨。最大入口页：{top[0]}"
+            f"（{top[1]} 次）——趁它还在排名，多产出 / 扩展同类内容。"
         )
     if day_state == "DROP":
         recs.append(
-            "Yesterday dropped well below baseline. Check the daily publish "
-            "ran, the site is reachable, and recent articles are indexed "
-            "(Google Search Console > Pages)."
+            "\U0001F4C9 昨日明显低于基线。请检查：当天发文是否执行、"
+            "网站能否访问、近期文章是否被收录"
+            "（Google Search Console › 网页）。"
         )
     recent_below = sum(
         1 for d in series[-3:] if d["sessions"] < base_median * 0.6
     )
     if recent_below >= 2 and day_state != "SPIKE":
         recs.append(
-            "Traffic has been under baseline for multiple recent days - "
-            "investigate publish cadence and indexing, not a one-off dip."
+            "⚠️ 近几天持续低于基线——这不是偶发回落，"
+            "排查发文节奏与收录情况。"
         )
     if org_growth >= 0.15:
         recs.append(
-            "Organic search is compounding - keep the daily publish cadence; "
-            "it is the growth engine."
+            "\U0001F50D 自然搜索在复利增长——保持每日发文节奏，"
+            "它就是增长引擎。"
         )
     elif org_share < 0.30:
         recs.append(
-            "Organic search is still a minority of traffic - focus on "
-            "internal linking and Search Console coverage so articles rank."
+            "\U0001F50D 自然搜索仍属少数流量——加强站内内链与 "
+            "Search Console 收录，让文章排得上去。"
         )
     if wow_state in ("growing strongly", "growing"):
         recs.append(
-            "Week-over-week growth is healthy - maintain current cadence; "
-            "do not change what is working."
+            "✅ 周环比增长健康——维持当前节奏，别改正在生效的东西。"
         )
     if not recs:
-        recs.append("Traffic is stable. No action needed; keep publishing.")
+        recs.append("✅ 流量平稳，无需特别处理，继续按计划发文即可。")
 
     return {
         "verdict": verdict,
@@ -283,27 +298,33 @@ def analyze(data):
 
 def build_report(a):
     today = date.today().strftime("%Y-%m-%d")
+    bar = "─" * 34
     pages = "\n".join(
-        f"  {i+1}. {p[0]}  -  {p[1]} sessions"
+        f"  {i+1}. {p[0]}  —  {p[1]} 次"
         for i, p in enumerate(a.get("top_pages", []))
-    )
-    chans = ", ".join(
-        f"{k}: {v}" for k, v in sorted(
-            a.get("channels", {}).items(), key=lambda x: -x[1]
-        )
-    )
-    recs = "\n".join(f"  - {r}" for r in a["recommendations"])
-    summary = "\n".join(f"  {l}" for l in a["lines"])
+    ) or "  （暂无数据）"
+    chans = "\n".join(
+        f"  • {CHANNEL_CN.get(k, k)}：{v} 次"
+        for k, v in sorted(a.get("channels", {}).items(), key=lambda x: -x[1])
+    ) or "  （暂无数据）"
+    recs = "\n\n".join(f"  {r}" for r in a["recommendations"])
+    summary = "\n".join(f"  • {line}" for line in a["lines"])
     text = (
-        f"WOOFFY TRAFFIC WATCH - {today}\n"
-        f"{'=' * 50}\n\n"
-        f"VERDICT: {a['verdict']}\n\n"
-        f"SUMMARY\n{summary}\n\n"
-        f"TRAFFIC SOURCES (last 7d)\n  {chans}\n\n"
-        f"TOP PAGES (last 7d)\n{pages}\n\n"
-        f"RECOMMENDATIONS\n{recs}\n"
+        f"\U0001F436  Wooffy 流量日报 · {today}\n"
+        f"{bar}\n\n"
+        f"\U0001F4CA  总体判断：{a['verdict']}\n\n"
+        f"{bar}\n\n"
+        f"\U0001F4C8  数据摘要\n\n{summary}\n\n"
+        f"{bar}\n\n"
+        f"\U0001F310  流量来源（近 7 天）\n\n{chans}\n\n"
+        f"{bar}\n\n"
+        f"\U0001F525  热门页面（近 7 天）\n\n{pages}\n\n"
+        f"{bar}\n\n"
+        f"\U0001F4A1  行动建议\n\n{recs}\n\n"
+        f"{bar}\n"
+        f"\U0001F916  本邮件由 Wooffy Traffic Watch 每日自动生成\n"
     )
-    subject = f"[Wooffy] {a['verdict']} - traffic {today}"
+    subject = f"\U0001F436 Wooffy 流量日报 · {a['verdict']} · {today}"
     return subject, text
 
 
