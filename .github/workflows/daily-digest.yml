@@ -1,17 +1,18 @@
-name: Wooffy SEO Watch
+name: Wooffy Daily Digest
 
-# Daily Google Search Console SEO action queue -> emailed.
-# Runs at 08:30 PDT (15:30 UTC). GSC data lags ~2 days.
-# Reuses the same OAuth + email repo secrets as the traffic watch.
-# The OAuth refresh token must include the webmasters.readonly scope.
+# One daily email = GA4 traffic report + GSC SEO action queue.
+# Replaces the separate traffic-watch.yml and seo-report.yml.
+# Runs at 08:00 PDT (15:00 UTC). GSC half lags ~2 days.
+# Reuses the same repo secrets; OAuth token must include both
+# analytics.readonly and webmasters.readonly scopes.
 
 on:
   schedule:
-    - cron: '30 15 * * *'
+    - cron: '0 15 * * *'
   workflow_dispatch:
 
 jobs:
-  seo-report:
+  daily-digest:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -21,8 +22,12 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run SEO report
+      - name: Install dependencies
+        run: pip install google-analytics-data google-auth
+
+      - name: Run daily digest
         env:
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
           GA4_OAUTH_CLIENT_ID: ${{ secrets.GA4_OAUTH_CLIENT_ID }}
           GA4_OAUTH_CLIENT_SECRET: ${{ secrets.GA4_OAUTH_CLIENT_SECRET }}
           GA4_OAUTH_REFRESH_TOKEN: ${{ secrets.GA4_OAUTH_REFRESH_TOKEN }}
@@ -30,4 +35,4 @@ jobs:
           ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-        run: python3 scripts/seo_report.py
+        run: python3 scripts/daily_digest.py
