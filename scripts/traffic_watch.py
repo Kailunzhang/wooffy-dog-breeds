@@ -68,6 +68,26 @@ CHANNEL_CN = {"Direct": "直接访问", "Organic Search": "自然搜索",
               "Email": "邮件", "Organic Video": "自然视频",
               "Display": "展示广告", "Cross-network": "跨网络"}
 
+# AI answer-engine referrers (GA4 sessionSource). Precise on purpose —
+# excludes generic bing/yahoo, which are mostly classic search.
+AI_LABEL = {"chatgpt.com": "ChatGPT", "chat.openai.com": "ChatGPT",
+            "openai.com": "ChatGPT", "perplexity.ai": "Perplexity",
+            "www.perplexity.ai": "Perplexity", "gemini.google.com": "Gemini",
+            "copilot.microsoft.com": "Copilot", "copilot.com": "Copilot",
+            "you.com": "You.com", "poe.com": "Poe", "claude.ai": "Claude",
+            "phind.com": "Phind"}
+AI_SUFFIXES = (".perplexity.ai", ".openai.com")
+
+
+def _ai_label(src):
+    s = (src or "").lower().strip()
+    if s in AI_LABEL:
+        return AI_LABEL[s]
+    for suf in AI_SUFFIXES:
+        if s.endswith(suf):
+            return "Perplexity" if "perplexity" in suf else "ChatGPT"
+    return None
+
 
 GA4_SCOPES = ["https://www.googleapis.com/auth/analytics.readonly"]
 
@@ -164,12 +184,20 @@ def fetch(client, prop):
         client, prop, ["landingPagePlusQueryString"], ["sessions"],
         "yesterday", "yesterday", order_metric="sessions", limit=5,
     )
+
+    def src_sessions(start, end):
+        return _run(client, prop, ["sessionSource"], ["sessions"],
+                    start, end, order_metric="sessions", limit=200)
+
     return {
         "series": series,
         "channels_now": channels_now,
         "channels_prev": channels_prev,
         "top_pages": [(r[0], int(r[1]), int(r[2])) for r in top_pages],
         "yest_landing": [(r[0], int(r[1])) for r in yest_landing],
+        "ai_28": src_sessions("28daysAgo", "yesterday"),
+        "ai_7": src_sessions("7daysAgo", "yesterday"),
+        "ai_prev": src_sessions("14daysAgo", "8daysAgo"),
     }
 
 
@@ -284,6 +312,28 @@ def analyze(data):
         recs.append(
             "✅ 周环比增长健康——维持当前节奏，别改正在生效的东西。"
         )
+
+    def _ai_group(rows):
+        out = {}
+        for src, n in rows:
+            lab = _ai_label(src)
+            if lab:
+                out[lab] = out.get(lab, 0) + int(n)
+        return out
+
+    ai_eng = _ai_group(data["ai_28"])
+    ai_total = sum(ai_eng.values())
+    ai_all = sum(int(r[1]) for r in data["ai_28"]) or 1
+    ai_now7 = sum(_ai_group(data["ai_7"]).values())
+    ai_prev7 = sum(_ai_group(data["ai_prev"]).values())
+    ai = {"engines": ai_eng, "total28": ai_total, "share": ai_total / ai_all,
+          "now7": ai_now7, "prev7": ai_prev7, "wow": _pct(ai_now7, ai_prev7)}
+    if ai_total >= 10 and ai["wow"] >= 0.3:
+        recs.append(
+            "\U0001F916 AI 引擎转介在增长——开始优化内容的可被引用性"
+            "（开头直给答案、清晰小标题、FAQ、结构化数据）。"
+        )
+
     if not recs:
         recs.append("✅ 流量平稳，无需特别处理，继续按计划发文即可。")
 
@@ -293,6 +343,7 @@ def analyze(data):
         "recommendations": recs,
         "top_pages": data["top_pages"][:8],
         "channels": data["channels_now"],
+        "ai": ai,
     }
 
 
@@ -309,6 +360,24 @@ def build_report(a):
     ) or "  （暂无数据）"
     recs = "\n\n".join(f"  {r}" for r in a["recommendations"])
     summary = "\n".join(f"  • {line}" for line in a["lines"])
+    ai = a.get("ai")
+    if ai and ai["total28"] > 0:
+        eng = " · ".join(
+            f"{k}: {v}" for k, v in
+            sorted(ai["engines"].items(), key=lambda x: -x[1])
+        )
+        ai_txt = (
+            f"  • 近 28 天 AI 引擎转介：{ai['total28']} 次"
+            f"（占总流量 {ai['share']*100:.1f}%）\n"
+            f"  • 近 7 天 vs 前 7 天：{ai['prev7']} → {ai['now7']}"
+            f"（{ai['wow']*100:+.0f}%）\n"
+            f"  • 分引擎：{eng}\n"
+            f"  • 说明：仅含会传 referrer 的 AI（ChatGPT/Perplexity/"
+            f"Copilot 等）；Google AI Overviews 无独立 referrer，无法分离。"
+        )
+    else:
+        ai_txt = ("  • 暂无可追踪的 AI 引擎转介（持续监测中）\n"
+                  "  • 说明：Google AI Overviews 无独立 referrer，不在此列。")
     text = (
         f"\U0001F436  Wooffy 流量日报 · {today}\n"
         f"{bar}\n\n"
@@ -317,6 +386,8 @@ def build_report(a):
         f"\U0001F4C8  数据摘要\n\n{summary}\n\n"
         f"{bar}\n\n"
         f"\U0001F310  流量来源（近 7 天）\n\n{chans}\n\n"
+        f"{bar}\n\n"
+        f"\U0001F916  AI 可见度（GEO）\n\n{ai_txt}\n\n"
         f"{bar}\n\n"
         f"\U0001F525  热门页面（近 7 天）\n\n{pages}\n\n"
         f"{bar}\n\n"
