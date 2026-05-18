@@ -59,9 +59,10 @@ def main():
         seo_body = "⚠️ SEO 部分本次获取失败：\n" + traceback.format_exc()
 
     n_txt = seo_n if seo_n is not None else "?"
+    alarm_tag = "　|　\U0001F6A8 SEO 告警" if seo_alarm else ""
     head = (f"\U0001F436\U0001F4CA  Wooffy 每日晨报 · {today}\n{BAR}\n"
-            f"流量判断：{verdict}　|　SEO 待办：{n_txt} 项"
-            f"{'　|　\U0001F6A8 SEO 告警' if seo_alarm else ''}\n{BAR}\n\n")
+            f"流量判断：{verdict}　|　SEO 待办：{n_txt} 项{alarm_tag}\n"
+            f"{BAR}\n\n")
     body = (head
             + (traffic_body or "")
             + f"\n\n{BAR}\n{BAR}\n\n"
