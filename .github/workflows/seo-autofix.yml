@@ -1,0 +1,38 @@
+name: Wooffy SEO Autofix
+
+# Weekly: propose meta-description rewrites for high-impression /
+# low-CTR repo pages as ONE pull request. Merging the PR = approval.
+# Runs Mondays 09:00 PDT (16:00 UTC).
+# Needs repo secret ANTHROPIC_API_KEY (Claude writes the copy);
+# reuses GA4 OAuth + GSC secrets. PR creation uses the built-in token.
+
+on:
+  schedule:
+    - cron: '0 16 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  seo-autofix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run SEO autofix
+        env:
+          GA4_OAUTH_CLIENT_ID: ${{ secrets.GA4_OAUTH_CLIENT_ID }}
+          GA4_OAUTH_CLIENT_SECRET: ${{ secrets.GA4_OAUTH_CLIENT_SECRET }}
+          GA4_OAUTH_REFRESH_TOKEN: ${{ secrets.GA4_OAUTH_REFRESH_TOKEN }}
+          GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python3 scripts/seo_autofix.py

@@ -1,0 +1,51 @@
+name: Wooffy Content Deploy
+
+# When breed-data/*.json changes land on main (e.g. an SEO-autofix PR
+# is merged, or you edit content directly), push ONLY the changed
+# articles to Shopify via generate.py --update.
+#
+# Note: this makes main the source of truth — any breed-data change
+# merged to main auto-syncs to the live store. That is intentional
+# (merge = ship), but be aware non-autofix breed-data edits also
+# deploy.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'breed-data/**'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Create .env
+        run: |
+          printf 'SHOPIFY_STORE=%s\nSHOPIFY_TOKEN=%s\nSHOPIFY_BLOG_ID=%s\n' \
+            "${{ secrets.SHOPIFY_STORE }}" \
+            "${{ secrets.SHOPIFY_TOKEN }}" \
+            "${{ secrets.SHOPIFY_BLOG_ID }}" > .env
+
+      - name: Update changed articles on Shopify
+        run: |
+          BEFORE='${{ github.event.before }}'
+          if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            BEFORE="HEAD^"
+          fi
+          SLUGS=$(git diff --name-only "$BEFORE" "${{ github.sha }}" -- 'breed-data/*.json' \
+            | sed 's@^breed-data/@@; s@\.json$@@' | sort -u | tr '\n' ' ')
+          echo "Changed slugs: $SLUGS"
+          if [ -z "$(echo $SLUGS | tr -d ' ')" ]; then
+            echo "No breed-data slugs changed; nothing to deploy."
+            exit 0
+          fi
+          echo YES | python3 scripts/generate.py $SLUGS --update
