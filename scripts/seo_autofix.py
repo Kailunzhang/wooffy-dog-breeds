@@ -39,8 +39,8 @@ MAX_POS = 20.0             # a better snippet can still help on page 2
 CTR_RATIO = 0.6            # ctr below 60% of positional norm = opportunity
 COOLDOWN_DAYS = 21
 ANTHROPIC_MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-haiku-4-5")
-TITLE_MIN, TITLE_MAX = 40, 70
-META_MIN, META_MAX = 130, 170
+TITLE_MIN, TITLE_MAX = 30, 75   # lenient; Google shows ~55-60 chars
+META_MIN, META_MAX = 120, 170   # 120 mobile-safe, 158 desktop, buffer ok
 
 # Scraper / branded / dated junk queries to ignore — wastes LLM calls
 # and produces weird titles. Tune as more noise appears in GSC.
@@ -164,17 +164,28 @@ def _rewrite(excerpt, old_title, old_desc, query):
     req.add_header("content-type", "application/json")
     resp = json.loads(urllib.request.urlopen(req, timeout=60).read())
     text = "".join(b.get("text", "") for b in resp.get("content", [])).strip()
+    # Strip ```json ... ``` fences if Claude wrapped its output.
+    if text.startswith("```"):
+        text = re.sub(r"^```[A-Za-z]*\s*", "", text)
+        text = re.sub(r"\s*```$", "", text).strip()
     try:
         obj = json.loads(text)
         title = " ".join(str(obj["title"]).strip().strip('"').split())
         desc = " ".join(str(obj["meta_description"]).strip().strip('"').split())
-    except Exception:
+    except Exception as e:
+        print(f"    ! LLM parse failed ({e}); raw: {text[:140]!r}")
         return None
     if not (TITLE_MIN <= len(title) <= TITLE_MAX):
+        print(f"    ! title {len(title)}ch outside [{TITLE_MIN},{TITLE_MAX}]"
+              f": {title!r}")
         return None
     if not (META_MIN <= len(desc) <= META_MAX):
+        print(f"    ! meta {len(desc)}ch outside [{META_MIN},{META_MAX}]"
+              f": {desc!r}")
         return None
     if not _title_safe(title, old_title):
+        print(f"    ! anti-drift: new title lost subject of "
+              f"{old_title!r}: {title!r}")
         return None
     return title, desc
 
@@ -237,6 +248,8 @@ def main():
 
     rows, today = [], date.today().isoformat()
     for c in picks:
+        print(f"\n→ {c['slug']}  «{c['query']}»  pos {c['position']:.1f}"
+              f" · CTR {c['ctr']*100:.2f}%")
         path = os.path.join(BREED_DIR, f"{c['slug']}.json")
         meta = json.load(open(path, encoding="utf-8"))["meta"]
         old_title = meta.get("name", "")
@@ -251,6 +264,8 @@ def main():
             continue
         edited = _apply_edit(c["slug"], new_title, new_desc)
         if edited is None:
+            print(f"    ! apply_edit skipped (ambiguous token or missing "
+                  f"meta field)")
             continue
         state[c["slug"]] = today
         rows.append((c, edited[0], edited[1], new_title, new_desc))
