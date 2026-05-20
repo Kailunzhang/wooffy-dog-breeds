@@ -1,11 +1,13 @@
-"""Weekly SEO auto-fix: propose meta-description rewrites as a PR.
+"""Weekly SEO auto-fix: propose title + meta-description rewrites as a PR.
 
-Pulls GSC CTR opportunities (via seo_report), keeps only pages whose
-source lives in this repo (breed-data/<slug>.json under
-/blogs/dog-breeds/), asks Claude to rewrite the SERP meta description
-to lift CTR for the page's best query, writes a minimal one-field
-edit per file, and opens ONE pull request. Merging the PR is the
-approval; a separate deploy workflow pushes merged changes to Shopify.
+Pulls GSC CTR opportunities (via seo_report), filters scraper-noise
+queries, keeps only pages whose source lives in this repo
+(breed-data/<slug>.json under /blogs/dog-breeds/), asks Claude to
+rewrite BOTH the SERP title (meta.name) and meta description to lift
+CTR for the page's best query, writes a surgical two-field edit per
+file (skipping any page where a token isn't uniquely placed), and
+opens ONE pull request. Merging the PR is the approval; a separate
+deploy workflow pushes merged changes to Shopify.
 
 Never auto-merges. Caps fixes/run. Skips pages fixed within the
 cooldown. State in seo_autofix_state.json.
@@ -37,7 +39,23 @@ MAX_POS = 20.0             # a better snippet can still help on page 2
 CTR_RATIO = 0.6            # ctr below 60% of positional norm = opportunity
 COOLDOWN_DAYS = 21
 ANTHROPIC_MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-haiku-4-5")
-META_MAX = 160
+TITLE_MIN, TITLE_MAX = 40, 70
+META_MIN, META_MAX = 130, 170
+
+# Scraper / branded / dated junk queries to ignore — wastes LLM calls
+# and produces weird titles. Tune as more noise appears in GSC.
+_NOISE_BRANDS = ("highland canine", "akc.org", "petfinder",
+                 "rover.com", "wisdom panel", "embark vet")
+_NOISE_YEAR = re.compile(r"\b20\d{2}\b")
+
+
+def _query_ok(q):
+    s = (q or "").lower().strip()
+    if len(s.split()) > 8:
+        return False
+    if _NOISE_YEAR.search(s):
+        return False
+    return not any(b in s for b in _NOISE_BRANDS)
 
 
 def _slug_of(page_url):
@@ -71,6 +89,8 @@ def candidates(token):
             continue
         if ctr >= CTR_RATIO * seo._exp_ctr(pos):
             continue
+        if not _query_ok(q):
+            continue
         slug = _slug_of(page)
         if not slug or not os.path.isfile(
                 os.path.join(BREED_DIR, f"{slug}.json")):
@@ -92,24 +112,49 @@ def candidates(token):
     return ranked[:MAX_FIXES], ext, state
 
 
-def _anthropic(name, excerpt, old_desc, query):
+def _title_safe(new_title, old_title):
+    """Reject titles that drop the article's primary subject word
+    (anti-drift guard: e.g., never turn 'Goldendoodle' into something
+    that doesn't contain it). Lenient on very short old titles."""
+    candidates = [w for w in re.findall(r"[A-Za-z]+", old_title or "")
+                  if len(w) >= 4]
+    if not candidates:
+        return True
+    longest = max(candidates, key=len)
+    return longest.lower() in (new_title or "").lower()
+
+
+def _rewrite(excerpt, old_title, old_desc, query):
+    """Ask Claude for a (title, meta_description) pair targeting the
+    query. Returns the pair, or None on any failure / out-of-spec output.
+    """
     key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
     if not key:
         return None
     prompt = (
-        "Rewrite the Google search meta description for a dog blog "
-        "article so it earns more clicks for a specific query.\n\n"
-        f"Article title: {name}\n"
-        f"Article summary: {excerpt}\n"
+        "You are rewriting a dog blog article's Google SERP snippet "
+        "(page title + meta description) to earn more clicks for a "
+        "specific search query.\n\n"
+        f"Current title: {old_title}\n"
         f"Current meta description: {old_desc}\n"
+        f"Article summary: {excerpt}\n"
         f"Target search query: {query}\n\n"
-        "Rules: 140-158 characters; one line; American English; "
-        "directly speak to the query intent; specific and compelling "
-        "but never clickbait; no fabricated facts, numbers, or claims; "
-        "no surrounding quotes. Output ONLY the new meta description."
+        "Rules:\n"
+        f"- title: {TITLE_MIN}-{TITLE_MAX} chars; keep the article's "
+        "primary subject (e.g., the breed name) verbatim; weave the "
+        "query (or a close natural variant) in near the front; "
+        "specific and click-worthy, never clickbait; American "
+        "English; no surrounding quotes; no trailing brand suffix.\n"
+        f"- meta_description: {META_MIN}-{META_MAX} chars; speak "
+        "directly to the query intent; specific and compelling, "
+        "never clickbait; no fabricated facts, numbers, or claims; "
+        "no surrounding quotes.\n"
+        "- Do not invent facts not in the summary.\n\n"
+        'Output ONLY a single-line JSON object, no commentary:\n'
+        '{"title": "...", "meta_description": "..."}'
     )
     body = json.dumps({
-        "model": ANTHROPIC_MODEL, "max_tokens": 256,
+        "model": ANTHROPIC_MODEL, "max_tokens": 512,
         "messages": [{"role": "user", "content": prompt}],
     }).encode()
     req = urllib.request.Request("https://api.anthropic.com/v1/messages",
@@ -118,29 +163,44 @@ def _anthropic(name, excerpt, old_desc, query):
     req.add_header("anthropic-version", "2023-06-01")
     req.add_header("content-type", "application/json")
     resp = json.loads(urllib.request.urlopen(req, timeout=60).read())
-    text = "".join(b.get("text", "") for b in resp.get("content", []))
-    text = " ".join(text.strip().strip('"').split())
-    if not text or len(text) > META_MAX + 15:
+    text = "".join(b.get("text", "") for b in resp.get("content", [])).strip()
+    try:
+        obj = json.loads(text)
+        title = " ".join(str(obj["title"]).strip().strip('"').split())
+        desc = " ".join(str(obj["meta_description"]).strip().strip('"').split())
+    except Exception:
         return None
-    return text
+    if not (TITLE_MIN <= len(title) <= TITLE_MAX):
+        return None
+    if not (META_MIN <= len(desc) <= META_MAX):
+        return None
+    if not _title_safe(title, old_title):
+        return None
+    return title, desc
 
 
-def _apply_edit(slug, new_desc):
-    """Surgical replace of only meta_description; minimal diff."""
+def _apply_edit(slug, new_title, new_desc):
+    """Surgical replace of meta.name + meta.meta_description; minimal diff.
+    Skips (returns None) if either field is missing or its JSON-encoded
+    token isn't uniquely placed in the raw file."""
     path = os.path.join(BREED_DIR, f"{slug}.json")
     with open(path, encoding="utf-8") as f:
         raw = f.read()
     data = json.loads(raw)
-    old = data.get("meta", {}).get("meta_description")
-    if old is None:
+    meta = data.get("meta", {})
+    old_title = meta.get("name")
+    old_desc = meta.get("meta_description")
+    if old_title is None or old_desc is None:
         return None
-    old_tok = json.dumps(old, ensure_ascii=False)
-    new_tok = json.dumps(new_desc, ensure_ascii=False)
-    if raw.count(old_tok) != 1:
-        return None  # ambiguous; skip rather than risk a messy diff
+    o_t = json.dumps(old_title, ensure_ascii=False)
+    n_t = json.dumps(new_title, ensure_ascii=False)
+    o_d = json.dumps(old_desc, ensure_ascii=False)
+    n_d = json.dumps(new_desc, ensure_ascii=False)
+    if raw.count(o_t) != 1 or raw.count(o_d) != 1:
+        return None
     with open(path, "w", encoding="utf-8", newline="\n") as f:
-        f.write(raw.replace(old_tok, new_tok, 1))
-    return old
+        f.write(raw.replace(o_t, n_t, 1).replace(o_d, n_d, 1))
+    return old_title, old_desc
 
 
 def _git(*args):
@@ -179,31 +239,35 @@ def main():
     for c in picks:
         path = os.path.join(BREED_DIR, f"{c['slug']}.json")
         meta = json.load(open(path, encoding="utf-8"))["meta"]
-        new = _anthropic(meta.get("name", c["slug"]),
-                         meta.get("excerpt", ""),
-                         meta.get("meta_description", ""), c["query"])
+        old_title = meta.get("name", "")
+        old_desc = meta.get("meta_description", "")
+        new = _rewrite(meta.get("excerpt", ""), old_title, old_desc,
+                       c["query"])
         if not new:
             continue
+        new_title, new_desc = new
         if dry:
-            rows.append((c, meta.get("meta_description", ""), new))
+            rows.append((c, old_title, old_desc, new_title, new_desc))
             continue
-        old = _apply_edit(c["slug"], new)
-        if old is None:
+        edited = _apply_edit(c["slug"], new_title, new_desc)
+        if edited is None:
             continue
         state[c["slug"]] = today
-        rows.append((c, old, new))
+        rows.append((c, edited[0], edited[1], new_title, new_desc))
 
     if not rows:
         print("No actionable fixes this run.")
         return
 
     if dry:
-        for c, old, new in rows:
+        for c, ot, od, nt, nd in rows:
             print(f"\n{c['slug']}  «{c['query']}»  "
                   f"pos {c['position']:.1f} · {c['impressions']} impr · "
                   f"CTR {c['ctr']*100:.2f}%")
-            print(f"  OLD: {old}")
-            print(f"  NEW: {new}")
+            print(f"  TITLE  OLD: {ot}")
+            print(f"         NEW: {nt}")
+            print(f"  META   OLD: {od}")
+            print(f"         NEW: {nd}")
         print(f"\n[dry-run] {len(rows)} edits; "
               f"{len(external)} external (manual) opportunities.")
         return
@@ -217,26 +281,30 @@ def main():
     _git("config", "user.name", "wooffy-seo-bot")
     _git("checkout", "-B", branch)
     _git("add", "seo_autofix_state.json",
-         *[f"breed-data/{c['slug']}.json" for c, _, _ in rows])
+         *[f"breed-data/{c['slug']}.json" for c, *_ in rows])
     _git("commit", "-m",
-         f"seo-autofix: {len(rows)} meta-description rewrites ({today})")
+         f"seo-autofix: {len(rows)} title+meta rewrites ({today})")
     _git("push", "-f", "origin", branch)
 
-    tbl = ["| 页面 | 目标查询 | 曝光 | 排名 | 旧描述 → 新描述 |",
-           "|---|---|---|---|---|"]
-    for c, old, new in rows:
-        tbl.append(f"| `{c['slug']}` | {c['query']} | {c['impressions']} | "
-                   f"{c['position']:.1f} | ~~{old[:80]}~~ → **{new}** |")
+    blocks = []
+    for i, (c, ot, od, nt, nd) in enumerate(rows, 1):
+        blocks.append(
+            f"### {i}. `{c['slug']}` · 「{c['query']}」"
+            f"（{c['impressions']} 曝光 · 第 {c['position']:.1f} 名 · "
+            f"CTR {c['ctr']*100:.2f}%）\n\n"
+            f"- **Title** ~~{ot}~~ → **{nt}**\n"
+            f"- **Meta** ~~{od}~~ → **{nd}**"
+        )
     appx = "\n".join(
         f"- [ ] `{p}` — 「{v['query']}」({v['impressions']} 曝光，"
         f"第 {v['position']:.1f} 名) — 不在仓库，需到 Shopify 手动改"
         for p, v in external)
     body = (
-        f"自动生成的 SEO meta description 优化（{today}）。\n\n"
+        f"自动生成的 SEO 标题 + meta description 优化（{today}）。\n\n"
         "**审核 = 合并。** 合并到 main 后会自动只对这些 slug 跑 "
         "`generate.py --update` 推到 Shopify。逐条看下面新旧对比，不满意"
-        "就直接在本 PR 改文件或关掉。\n\n" + "\n".join(tbl) +
-        ("\n\n### 仓库外机会（自动改不到，手动处理）\n\n" + appx
+        "就在本 PR 直接改文件或关掉。\n\n" + "\n\n".join(blocks) +
+        ("\n\n---\n### 仓库外机会（自动改不到，手动处理）\n\n" + appx
          if appx else ""))
     url = _open_pr(branch, f"🔎 SEO 自动优化 · {len(rows)} 条 · {today}", body)
     print(f"PR opened: {url}")
