@@ -42,6 +42,13 @@ ANTHROPIC_MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-haiku-4-5")
 TITLE_MIN, TITLE_MAX = 30, 75   # lenient; Google shows ~55-60 chars
 META_MIN, META_MAX = 120, 170   # 120 mobile-safe, 158 desktop, buffer ok
 
+# Cannibalization detection (a query where >=2 thewooffy URLs compete with
+# material impressions and no single URL dominates). Surfaced in the PR for
+# human judgment (canonical / consolidation) - autofix cannot resolve these.
+CANNI_MIN_IMPR_PER_URL = 20
+CANNI_MAX_DOMINANCE = 0.80   # skip if top URL holds more than this share
+MAX_CANNI = 6
+
 # Scraper / branded / dated junk queries to ignore — wastes LLM calls
 # and produces weird titles. Tune as more noise appears in GSC.
 _NOISE_BRANDS = ("highland canine", "akc.org", "petfinder",
@@ -118,7 +125,47 @@ def candidates(token):
                           "impressions": impr, "position": pos, "ctr": ctr}
     ranked = sorted(best.values(), key=lambda x: -x["impressions"])
     ext = sorted(external.items(), key=lambda kv: -kv[1]["impressions"])[:10]
-    return ranked[:MAX_FIXES], ext, state
+    return ranked[:MAX_FIXES], ext, state, rows
+
+
+def _cannibalization(rows: list) -> list[dict]:
+    """Detect queries where >=2 thewooffy.com URLs compete with material
+    impressions and no single URL dominates. Returned for human judgment
+    (canonical / noindex / content consolidation) - autofix can't fix
+    these via title+meta alone.
+
+    Each entry: {"query": str, "total": int,
+                 "urls": [{"page", "impressions", "position", "clicks"}]}
+    Sorted by total impressions descending, capped at MAX_CANNI.
+    """
+    by_query: dict[str, list[dict]] = {}
+    for r in rows:
+        q, page = r["keys"]
+        if not _query_ok(q):
+            continue
+        if "thewooffy.com" not in page:
+            continue
+        if r["impressions"] < CANNI_MIN_IMPR_PER_URL:
+            continue
+        by_query.setdefault(q, []).append({
+            "page": page,
+            "impressions": r["impressions"],
+            "position": r["position"],
+            "clicks": r["clicks"],
+        })
+
+    out: list[dict] = []
+    for q, urls in by_query.items():
+        if len(urls) < 2:
+            continue
+        urls.sort(key=lambda u: -u["impressions"])
+        total = sum(u["impressions"] for u in urls)
+        if total and urls[0]["impressions"] / total > CANNI_MAX_DOMINANCE:
+            continue   # one URL dominates -> not really cannibalized
+        out.append({"query": q, "urls": urls, "total": total})
+
+    out.sort(key=lambda c: -c["total"])
+    return out[:MAX_CANNI]
 
 
 def _title_safe(new_title, old_title):
@@ -261,18 +308,23 @@ def _open_pr(branch, title, body):
 
 def main():
     token = seo._access_token()
-    picks, external, state = candidates(token)
+    picks, external, state, rows = candidates(token)
+    canni = _cannibalization(rows)
     dry = os.environ.get("SEO_AUTOFIX_DRY") == "1" \
         or not os.environ.get("GITHUB_TOKEN")
 
     if dry:
         print(f"[dry-run] {len(picks)} repo candidates, "
-              f"{len(external)} external opportunities")
+              f"{len(external)} external opportunities, "
+              f"{len(canni)} cannibalization candidates")
         for c in picks:
             print(f"  · {c['slug']}  «{c['query']}»  pos {c['position']:.1f}"
                   f" · {c['impressions']} impr · CTR {c['ctr']*100:.2f}%")
         for p, v in external[:5]:
             print(f"  (ext) {p}  «{v['query']}»  {v['impressions']} impr")
+        for cn in canni:
+            print(f"  (canni) «{cn['query']}»  total {cn['total']} impr "
+                  f"across {len(cn['urls'])} URLs")
 
     rows, today = [], date.today().isoformat()
     for c in picks:
@@ -300,6 +352,10 @@ def main():
 
     if not rows:
         print("No actionable fixes this run.")
+        if canni:
+            print(f"({len(canni)} cannibalization candidate(s) detected — "
+                  f"see dry-run output above; PR was not opened because "
+                  f"no title/meta rewrites passed validation.)")
         return
 
     if dry:
@@ -342,13 +398,36 @@ def main():
         f"- [ ] `{p}` — 「{v['query']}」({v['impressions']} 曝光，"
         f"第 {v['position']:.1f} 名) — 不在仓库，需到 Shopify 手动改"
         for p, v in external)
+
+    canni_section = ""
+    if canni:
+        parts = []
+        for i, cn in enumerate(canni, 1):
+            urls_md = "\n".join(
+                f"- `{u['page'].replace('https://www.thewooffy.com','').replace('https://thewooffy.com','')}`"
+                f" · 第 {u['position']:.1f} 名 · {u['impressions']} 曝光 · "
+                f"{u['clicks']} 点击"
+                for u in cn["urls"]
+            )
+            parts.append(
+                f"#### {i}. 「{cn['query']}」"
+                f"（总 {cn['total']} 曝光 · {len(cn['urls'])} 个 URL）"
+                f"\n\n{urls_md}"
+            )
+        canni_section = (
+            "\n\n---\n### 🔀 内部相残（一个查询词被多页争夺，"
+            "需人工判断 canonical / noindex / 内容合并）\n\n"
+            + "\n\n".join(parts)
+        )
+
     body = (
         f"自动生成的 SEO 标题 + meta description 优化（{today}）。\n\n"
         "**审核 = 合并。** 合并到 main 后会自动只对这些 slug 跑 "
         "`generate.py --update` 推到 Shopify。逐条看下面新旧对比，不满意"
-        "就在本 PR 直接改文件或关掉。\n\n" + "\n\n".join(blocks) +
-        ("\n\n---\n### 仓库外机会（自动改不到，手动处理）\n\n" + appx
-         if appx else ""))
+        "就在本 PR 直接改文件或关掉。\n\n" + "\n\n".join(blocks)
+        + canni_section
+        + ("\n\n---\n### 仓库外机会（自动改不到，手动处理）\n\n" + appx
+           if appx else ""))
     url = _open_pr(branch, f"🔎 SEO 自动优化 · {len(rows)} 条 · {today}", body)
     print(f"PR opened: {url}")
 
