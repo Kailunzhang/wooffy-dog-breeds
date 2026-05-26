@@ -44,7 +44,32 @@ def load_env():
 _env = load_env()
 SHOPIFY_STORE   = _env.get("SHOPIFY_STORE",   "your-store.myshopify.com")
 SHOPIFY_TOKEN   = _env.get("SHOPIFY_TOKEN",   "")
-SHOPIFY_BLOG_ID = int(_env.get("SHOPIFY_BLOG_ID", "0"))
+SHOPIFY_BLOG_ID = int(_env.get("SHOPIFY_BLOG_ID", "0") or "0")
+SHOPIFY_DOG_NUTRITION_BLOG_ID = int(
+    _env.get("SHOPIFY_DOG_NUTRITION_BLOG_ID", "0") or "0"
+)
+
+# blog_handle -> blog id. Extend as more blogs come under autofix.
+# Env var names follow the pattern SHOPIFY_<HANDLE>_BLOG_ID (SHOPIFY_BLOG_ID
+# is kept as the legacy alias for the dog-breeds blog).
+BLOG_IDS = {
+    "dog-breeds":    SHOPIFY_BLOG_ID,
+    "dog-nutrition": SHOPIFY_DOG_NUTRITION_BLOG_ID,
+}
+
+
+def _resolve_blog(breed):
+    """Return (blog_handle, blog_id) for this article. Default = dog-breeds
+    so every existing breed-data file routes correctly with no migration."""
+    handle = (breed.get("meta") or {}).get("blog_handle") or "dog-breeds"
+    blog_id = BLOG_IDS.get(handle, 0)
+    if not blog_id:
+        env_var = "SHOPIFY_" + handle.upper().replace("-", "_") + "_BLOG_ID"
+        raise RuntimeError(
+            f"No blog id configured for blog_handle={handle!r}. "
+            f"Set {env_var} in .env."
+        )
+    return handle, blog_id
 # ─────────────────────────────────────────────────────────────────────────────
 
 
@@ -782,10 +807,11 @@ def get_blog_id():
     print("\nPaste the correct id into .env as SHOPIFY_BLOG_ID=<id>")
 
 
-def find_article_by_handle(handle):
+def find_article_by_handle(handle, blog_id=None):
     """Return article_id if handle already exists in the blog, else None."""
+    blog_id = blog_id or SHOPIFY_BLOG_ID
     data = _shopify_request(
-        f"/blogs/{SHOPIFY_BLOG_ID}/articles.json?handle={handle}&fields=id,handle"
+        f"/blogs/{blog_id}/articles.json?handle={handle}&fields=id,handle"
     )
     for article in data.get("articles", []):
         if article["handle"] == handle:
@@ -816,10 +842,11 @@ def _compute_title_tag(slug, name):
 def publish_to_shopify(breed, html, force_update=False):
     m = breed["meta"]
     handle = m["shopify_handle"]
+    blog_handle, blog_id = _resolve_blog(breed)
     log = load_log()
 
     # ── duplicate check ───────────────────────────────────────────────────────
-    existing_id = find_article_by_handle(handle)
+    existing_id = find_article_by_handle(handle, blog_id)
 
     print(f"  excerpt preview: {m.get('excerpt','')[:60] or '(empty)'}")
 
@@ -828,6 +855,10 @@ def publish_to_shopify(breed, html, force_update=False):
         return existing_id
 
     hero = breed.get("images", {}).get("hero", {})
+    # Prefer an explicit title_tag stored in the JSON (e.g. imported nutrition
+    # articles already carry the real SERP title metafield). Fall back to the
+    # template-based computation for breeds/grooming/cost/checklist/roundups.
+    title_tag = m.get("title_tag") or _compute_title_tag(handle, m["name"])
     article_body = {
         "title":      m["name"],
         "body_html":  html,
@@ -848,10 +879,10 @@ def publish_to_shopify(breed, html, force_update=False):
                 } if m.get("meta_description") else None),
                 ({
                     "key":       "title_tag",
-                    "value":     _compute_title_tag(handle, m["name"]),
+                    "value":     title_tag,
                     "type":      "single_line_text_field",
                     "namespace": "global"
-                } if _compute_title_tag(handle, m["name"]) else None),
+                } if title_tag else None),
             ] if mf is not None
         ]
     }
@@ -859,7 +890,7 @@ def publish_to_shopify(breed, html, force_update=False):
     if existing_id:
         # UPDATE existing article
         result = _shopify_request(
-            f"/blogs/{SHOPIFY_BLOG_ID}/articles/{existing_id}.json",
+            f"/blogs/{blog_id}/articles/{existing_id}.json",
             method="PUT",
             payload={"article": article_body}
         )
@@ -868,14 +899,14 @@ def publish_to_shopify(breed, html, force_update=False):
     else:
         # CREATE new article
         result = _shopify_request(
-            f"/blogs/{SHOPIFY_BLOG_ID}/articles.json",
+            f"/blogs/{blog_id}/articles.json",
             method="POST",
             payload={"article": article_body}
         )
         article_id = result["article"]["id"]
         action = "Published"
 
-    url = f"https://{SHOPIFY_STORE}{BLOG_BASE}/{handle}"
+    url = f"https://{SHOPIFY_STORE}/blogs/{blog_handle}/{handle}"
     print(f"  {action} -> {url}  (id={article_id})")
 
     # ── write to log ──────────────────────────────────────────────────────────
@@ -946,7 +977,14 @@ if __name__ == "__main__":
         print(f"\n>> {slug}")
         try:
             breed = load_breed(slug)
-            html  = generate_html(breed)
+            if breed.get("body_html") is not None:
+                # Passthrough mode (imported nutrition / non-wooffy templates):
+                # the JSON carries the article HTML verbatim. Do NOT render the
+                # wooffy section template — it would overwrite the real body.
+                html = breed["body_html"]
+                print(f"  passthrough mode  (body_html, {len(html)} bytes)")
+            else:
+                html = generate_html(breed)
             save_html(slug, html)
             if do_publish or do_update:
                 publish_to_shopify(breed, html, force_update=do_update)

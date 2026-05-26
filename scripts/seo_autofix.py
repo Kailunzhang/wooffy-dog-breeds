@@ -58,11 +58,18 @@ def _query_ok(q):
     return not any(b in s for b in _NOISE_BRANDS)
 
 
+# Blogs whose articles are stored in this repo (breed-data/<slug>.json) and
+# can therefore be auto-edited. Pages outside these blogs become "external"
+# opportunities the human must handle in Shopify.
+SUPPORTED_BLOGS = ("dog-breeds", "dog-nutrition")
+
+
 def _slug_of(page_url):
     path = re.sub(r"^https?://[^/]+", "", page_url)
-    if "/blogs/dog-breeds/" not in path:
-        return None
-    return path.rstrip("/").split("/")[-1] or None
+    for blog in SUPPORTED_BLOGS:
+        if f"/blogs/{blog}/" in path:
+            return path.rstrip("/").split("/")[-1] or None
+    return None
 
 
 def _load_state():
@@ -94,7 +101,9 @@ def candidates(token):
         slug = _slug_of(page)
         if not slug or not os.path.isfile(
                 os.path.join(BREED_DIR, f"{slug}.json")):
-            if "/blogs/dog-breeds/" not in page:  # not ours to edit
+            # Outside our supported blogs OR missing local file ->
+            # surface as external opportunity for manual handling.
+            if not any(f"/blogs/{b}/" in page for b in SUPPORTED_BLOGS):
                 cur = external.get(page)
                 if not cur or impr > cur["impressions"]:
                     external[page] = {"query": q, "impressions": impr,
@@ -191,9 +200,15 @@ def _rewrite(excerpt, old_title, old_desc, query):
 
 
 def _apply_edit(slug, new_title, new_desc):
-    """Surgical replace of meta.name + meta.meta_description; minimal diff.
-    Skips (returns None) if either field is missing or its JSON-encoded
-    token isn't uniquely placed in the raw file."""
+    """Surgical replace of meta.name + meta.meta_description (+ optionally
+    meta.title_tag, when present). Minimal diff. Skips (returns None) if
+    either of the required fields is missing or its JSON-encoded token
+    isn't uniquely placed in the raw file.
+
+    title_tag is the SERP-displayed title metafield (Shopify
+    global.title_tag); when set (e.g. imported nutrition articles) we sync
+    it to the new title so Google actually shows the rewritten copy.
+    """
     path = os.path.join(BREED_DIR, f"{slug}.json")
     with open(path, encoding="utf-8") as f:
         raw = f.read()
@@ -209,8 +224,21 @@ def _apply_edit(slug, new_title, new_desc):
     n_d = json.dumps(new_desc, ensure_ascii=False)
     if raw.count(o_t) != 1 or raw.count(o_d) != 1:
         return None
+    new_raw = raw.replace(o_t, n_t, 1).replace(o_d, n_d, 1)
+
+    # Optional sync: SERP title_tag metafield -> new title.
+    old_title_tag = meta.get("title_tag")
+    if old_title_tag and old_title_tag != new_title:
+        o_tt = json.dumps(old_title_tag, ensure_ascii=False)
+        n_tt = json.dumps(new_title, ensure_ascii=False)
+        if new_raw.count(o_tt) == 1:
+            new_raw = new_raw.replace(o_tt, n_tt, 1)
+        # else: title_tag token not uniquely placeable; leave it, the
+        # required name+meta edits still apply. (Quiet skip is fine —
+        # this field is best-effort.)
+
     with open(path, "w", encoding="utf-8", newline="\n") as f:
-        f.write(raw.replace(o_t, n_t, 1).replace(o_d, n_d, 1))
+        f.write(new_raw)
     return old_title, old_desc
 
 

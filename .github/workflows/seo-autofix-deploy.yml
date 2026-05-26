@@ -30,10 +30,11 @@ jobs:
 
       - name: Create .env
         run: |
-          printf 'SHOPIFY_STORE=%s\nSHOPIFY_TOKEN=%s\nSHOPIFY_BLOG_ID=%s\n' \
+          printf 'SHOPIFY_STORE=%s\nSHOPIFY_TOKEN=%s\nSHOPIFY_BLOG_ID=%s\nSHOPIFY_DOG_NUTRITION_BLOG_ID=%s\n' \
             "${{ secrets.SHOPIFY_STORE }}" \
             "${{ secrets.SHOPIFY_TOKEN }}" \
-            "${{ secrets.SHOPIFY_BLOG_ID }}" > .env
+            "${{ secrets.SHOPIFY_BLOG_ID }}" \
+            "${{ secrets.SHOPIFY_DOG_NUTRITION_BLOG_ID }}" > .env
 
       - name: Update changed articles on Shopify
         run: |
