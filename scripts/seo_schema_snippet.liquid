@@ -1,0 +1,127 @@
+{%- comment -%}
+  Dynamic JSON-LD schema injection.
+  Render from theme.liquid head section AFTER {% render 'meta-tags' %}:
+      {% render 'seo-schema' %}
+
+  Covers: WebSite + SearchAction (homepage), Organization (homepage),
+  BlogPosting + BreadcrumbList (article pages), Blog (blog index pages),
+  Product + Offer (product pages).
+{%- endcomment -%}
+
+{%- if request.page_type == 'index' -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ shop.name | json }},
+  "url": {{ shop.url | json }},
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ shop.url }}/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": {{ shop.name | json }},
+  "url": {{ shop.url | json }}
+  {%- if settings.favicon -%}
+  ,"logo": "https:{{ settings.favicon | image_url: width: 200 }}"
+  {%- endif -%}
+}
+</script>
+{%- endif -%}
+
+{%- if request.page_type == 'article' -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ article.title | json }},
+  {%- if article.image -%}
+  "image": "https:{{ article.image | image_url: width: 1200 }}",
+  {%- endif -%}
+  "datePublished": {{ article.published_at | date: "%Y-%m-%dT%H:%M:%S%z" | json }},
+  "dateModified": {{ article.updated_at | date: "%Y-%m-%dT%H:%M:%S%z" | json }},
+  "author": {
+    "@type": "Organization",
+    "name": {{ shop.name | json }},
+    "url": {{ shop.url | json }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ shop.name | json }}
+    {%- if settings.favicon -%}
+    ,"logo": {
+      "@type": "ImageObject",
+      "url": "https:{{ settings.favicon | image_url: width: 200 }}"
+    }
+    {%- endif -%}
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ canonical_url | json }}
+  },
+  "description": {{ article.excerpt_or_content | strip_html | truncate: 200 | json }}
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": {{ shop.url | json }} },
+    { "@type": "ListItem", "position": 2, "name": {{ blog.title | json }}, "item": "{{ shop.url }}/blogs/{{ blog.handle }}" },
+    { "@type": "ListItem", "position": 3, "name": {{ article.title | json }}, "item": {{ canonical_url | json }} }
+  ]
+}
+</script>
+{%- endif -%}
+
+{%- if request.page_type == 'blog' -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": {{ blog.title | json }},
+  "url": {{ canonical_url | json }},
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ shop.name | json }}
+  }
+}
+</script>
+{%- endif -%}
+
+{%- if request.page_type == 'product' -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": {{ product.title | json }},
+  "image": [
+    {%- for img in product.images limit: 4 -%}
+      "https:{{ img | image_url: width: 1200 }}"
+      {%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+  ],
+  "description": {{ product.description | strip_html | truncate: 500 | json }},
+  "brand": {
+    "@type": "Brand",
+    "name": {{ product.vendor | default: shop.name | json }}
+  },
+  "sku": {{ product.selected_or_first_available_variant.sku | json }},
+  "offers": {
+    "@type": "Offer",
+    "url": "{{ shop.url }}{{ product.url }}",
+    "priceCurrency": {{ cart.currency.iso_code | json }},
+    "price": "{{ product.price | money_without_currency | strip_html | replace: ',', '' }}",
+    "availability": "{% if product.available %}https://schema.org/InStock{% else %}https://schema.org/OutOfStock{% endif %}",
+    "itemCondition": "https://schema.org/NewCondition"
+  }
+}
+</script>
+{%- endif -%}

@@ -855,10 +855,25 @@ def publish_to_shopify(breed, html, force_update=False):
         return existing_id
 
     hero = breed.get("images", {}).get("hero", {})
-    # Prefer an explicit title_tag stored in the JSON (e.g. imported nutrition
-    # articles already carry the real SERP title metafield). Fall back to the
-    # template-based computation for breeds/grooming/cost/checklist/roundups.
-    title_tag = m.get("title_tag") or _compute_title_tag(handle, m["name"])
+    # Resolution order for SERP title:
+    #   1. Explicit meta.title_tag in JSON (autofix-managed articles, imported
+    #      nutrition articles).
+    #   2. meta.name if it is already context-rich (>=30 chars or contains a
+    #      content-type marker like "Cost", "Guide", "Yes", "?"). This catches
+    #      autofix-rewritten names so they actually reach Shopify's title_tag
+    #      metafield (otherwise the suffix template silently overrides).
+    #   3. Suffix-template enrichment for terse generated names like the bare
+    #      breed names used by main-breed articles ("Yorkshire Terrier" ->
+    #      "Yorkshire Terrier Breed Guide: Cost, Care & Temperament").
+    _name = m.get("name", "") or ""
+    _markers = ("cost", "guide", "grooming", "checklist", "schedule",
+                "budget", "tips", "facts", "yes", "?", "$")
+    if m.get("title_tag"):
+        title_tag = m["title_tag"]
+    elif len(_name) >= 30 or any(mk in _name.lower() for mk in _markers):
+        title_tag = _name
+    else:
+        title_tag = _compute_title_tag(handle, _name)
     article_body = {
         "title":      m["name"],
         "body_html":  html,

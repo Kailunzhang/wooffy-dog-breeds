@@ -273,16 +273,33 @@ def _apply_edit(slug, new_title, new_desc):
         return None
     new_raw = raw.replace(o_t, n_t, 1).replace(o_d, n_d, 1)
 
-    # Optional sync: SERP title_tag metafield -> new title.
+    # SERP title_tag sync. Two cases:
+    #   (a) JSON already has title_tag -> swap it to new_title in-place.
+    #   (b) JSON has no title_tag -> inject a new title_tag line right after
+    #       the name line (same surgical pattern as the name/desc swap).
+    # Without this sync the suffix template in generate.py:_compute_title_tag
+    # silently overrides autofix-rewritten names with the original generic
+    # SERP title, defeating the rewrite (root cause traced 2026-06-05).
     old_title_tag = meta.get("title_tag")
-    if old_title_tag and old_title_tag != new_title:
-        o_tt = json.dumps(old_title_tag, ensure_ascii=False)
-        n_tt = json.dumps(new_title, ensure_ascii=False)
-        if new_raw.count(o_tt) == 1:
-            new_raw = new_raw.replace(o_tt, n_tt, 1)
-        # else: title_tag token not uniquely placeable; leave it, the
-        # required name+meta edits still apply. (Quiet skip is fine —
-        # this field is best-effort.)
+    if old_title_tag:
+        if old_title_tag != new_title:
+            o_tt = json.dumps(old_title_tag, ensure_ascii=False)
+            n_tt = json.dumps(new_title, ensure_ascii=False)
+            if new_raw.count(o_tt) == 1:
+                new_raw = new_raw.replace(o_tt, n_tt, 1)
+            # else: token not uniquely placeable; skip (best-effort).
+    else:
+        # Inject a new title_tag line after the "name" line, matching the
+        # name line's indentation.
+        name_line = f'"name": {n_t},'
+        if new_raw.count(name_line) == 1:
+            idx = new_raw.find(name_line)
+            line_start = new_raw.rfind("\n", 0, idx) + 1
+            indent = new_raw[line_start:idx]
+            inject = f'\n{indent}"title_tag": {n_t},'
+            new_raw = new_raw.replace(name_line, name_line + inject, 1)
+        # else: ambiguous, skip (rare; the generate.py >=30char fallback
+        # in publish_to_shopify will still propagate new_title correctly).
 
     with open(path, "w", encoding="utf-8", newline="\n") as f:
         f.write(new_raw)
