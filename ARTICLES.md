@@ -272,7 +272,7 @@
 | Article | Status | URL |
 |---------|--------|-----|
 | Bernedoodle | ✅ Live | [/blogs/dog-breeds/bernedoodle](https://thewooffy.com/blogs/dog-breeds/bernedoodle) |
-| Bernedoodle First Year Costs | ✅ Live | [/blogs/dog-breeds/bernedoodle-first-year-costs](https://thewooffy.com/blogs/dog-breeds/bernedoodle-first-year-costs) |
+| Bernedoodle Cost Year 1: $5,200–$10,500 (Real Budget) | ✅ Live | [/blogs/dog-breeds/bernedoodle-first-year-costs](https://thewooffy.com/blogs/dog-breeds/bernedoodle-first-year-costs) |
 | Bernedoodle Grooming Guide: Coat Care, Brushing Schedules, and Professional Trim Frequency | ✅ Live | [/blogs/dog-breeds/bernedoodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/bernedoodle-grooming-guide) |
 | Bernedoodle Puppy Checklist | ✅ Live | [/blogs/dog-breeds/bernedoodle-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/bernedoodle-puppy-checklist) |
 
@@ -484,7 +484,7 @@
 | Article | Status | URL |
 |---------|--------|-----|
 | Cane Corso | ✅ Live | [/blogs/dog-breeds/cane-corso](https://thewooffy.com/blogs/dog-breeds/cane-corso) |
-| Cane Corso First-Year Costs: Full Budget Breakdown | ✅ Live | [/blogs/dog-breeds/cane-corso-first-year-costs](https://thewooffy.com/blogs/dog-breeds/cane-corso-first-year-costs) |
+| Cane Corso Cost Year 1: $4,450–$11,500 Budget Breakdown | ✅ Live | [/blogs/dog-breeds/cane-corso-first-year-costs](https://thewooffy.com/blogs/dog-breeds/cane-corso-first-year-costs) |
 | Cane Corso Grooming Guide | ✅ Live | [/blogs/dog-breeds/cane-corso-grooming-guide](https://thewooffy.com/blogs/dog-breeds/cane-corso-grooming-guide) |
 | Cane Corso Puppy Checklist: Everything to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/cane-corso-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/cane-corso-puppy-checklist) |
 
@@ -515,7 +515,7 @@
 | Article | Status | URL |
 |---------|--------|-----|
 | Cavalier King Charles Spaniel | ✅ Live | [/blogs/dog-breeds/cavalier-king-charles-spaniel](https://thewooffy.com/blogs/dog-breeds/cavalier-king-charles-spaniel) |
-| Cavalier King Charles Spaniel First-Year Costs | ✅ Live | [/blogs/dog-breeds/cavalier-king-charles-spaniel-first-year-costs](https://thewooffy.com/blogs/dog-breeds/cavalier-king-charles-spaniel-first-year-costs) |
+| Cavalier King Charles Spaniel Cost Year 1: $2,000–$3,500 | ✅ Live | [/blogs/dog-breeds/cavalier-king-charles-spaniel-first-year-costs](https://thewooffy.com/blogs/dog-breeds/cavalier-king-charles-spaniel-first-year-costs) |
 | Cavalier King Charles Spaniel Grooming Guide | ✅ Live | [/blogs/dog-breeds/cavalier-king-charles-spaniel-grooming-guide](https://thewooffy.com/blogs/dog-breeds/cavalier-king-charles-spaniel-grooming-guide) |
 | Cavalier King Charles Spaniel Puppy Checklist | ✅ Live | [/blogs/dog-breeds/cavalier-king-charles-spaniel-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/cavalier-king-charles-spaniel-puppy-checklist) |
 
@@ -1039,7 +1039,7 @@
 | Article | Status | URL |
 |---------|--------|-----|
 | Miniature Poodle | ✅ Live | [/blogs/dog-breeds/miniature-poodle](https://thewooffy.com/blogs/dog-breeds/miniature-poodle) |
-| Miniature Poodle First-Year Costs | ✅ Live | [/blogs/dog-breeds/miniature-poodle-first-year-costs](https://thewooffy.com/blogs/dog-breeds/miniature-poodle-first-year-costs) |
+| Miniature Poodle Cost Year 1: $1,800–$3,200 (Real Budget) | ✅ Live | [/blogs/dog-breeds/miniature-poodle-first-year-costs](https://thewooffy.com/blogs/dog-breeds/miniature-poodle-first-year-costs) |
 | Miniature Poodle Grooming Guide | ✅ Live | [/blogs/dog-breeds/miniature-poodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/miniature-poodle-grooming-guide) |
 | Miniature Poodle Puppy Checklist | ✅ Live | [/blogs/dog-breeds/miniature-poodle-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/miniature-poodle-puppy-checklist) |
 
@@ -1331,7 +1331,7 @@
 | Article | Status | URL |
 |---------|--------|-----|
 | Shih Tzu | ✅ Live | [/blogs/dog-breeds/shih-tzu](https://thewooffy.com/blogs/dog-breeds/shih-tzu) |
-| Shih Tzu First-Year Costs | ✅ Live | [/blogs/dog-breeds/shih-tzu-first-year-costs](https://thewooffy.com/blogs/dog-breeds/shih-tzu-first-year-costs) |
+| Shih Tzu Cost Year 1: $2,500–$5,000 (Real Budget) | ✅ Live | [/blogs/dog-breeds/shih-tzu-first-year-costs](https://thewooffy.com/blogs/dog-breeds/shih-tzu-first-year-costs) |
 | Shih Tzu Grooming Guide | ✅ Live | [/blogs/dog-breeds/shih-tzu-grooming-guide](https://thewooffy.com/blogs/dog-breeds/shih-tzu-grooming-guide) |
 | Shih Tzu Puppy Checklist | ✅ Live | [/blogs/dog-breeds/shih-tzu-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/shih-tzu-puppy-checklist) |
 
@@ -1424,7 +1424,7 @@
 | Article | Status | URL |
 |---------|--------|-----|
 | Tibetan Mastiff | ✅ Live | [/blogs/dog-breeds/tibetan-mastiff](https://thewooffy.com/blogs/dog-breeds/tibetan-mastiff) |
-| Tibetan Mastiff First Year Costs | ✅ Live | [/blogs/dog-breeds/tibetan-mastiff-first-year-costs](https://thewooffy.com/blogs/dog-breeds/tibetan-mastiff-first-year-costs) |
+| Tibetan Mastiff Cost Year 1: $5,000–$8,500 (Real Budget) | ✅ Live | [/blogs/dog-breeds/tibetan-mastiff-first-year-costs](https://thewooffy.com/blogs/dog-breeds/tibetan-mastiff-first-year-costs) |
 | Tibetan Mastiff Grooming Guide | ✅ Live | [/blogs/dog-breeds/tibetan-mastiff-grooming-guide](https://thewooffy.com/blogs/dog-breeds/tibetan-mastiff-grooming-guide) |
 | Tibetan Mastiff Puppy Checklist | ✅ Live | [/blogs/dog-breeds/tibetan-mastiff-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/tibetan-mastiff-puppy-checklist) |
 
@@ -1432,7 +1432,7 @@
 | Article | Status | URL |
 |---------|--------|-----|
 | Tibetan Spaniel | ✅ Live | [/blogs/dog-breeds/tibetan-spaniel](https://thewooffy.com/blogs/dog-breeds/tibetan-spaniel) |
-| Tibetan Spaniel First Year Costs | ✅ Live | [/blogs/dog-breeds/tibetan-spaniel-first-year-costs](https://thewooffy.com/blogs/dog-breeds/tibetan-spaniel-first-year-costs) |
+| Tibetan Spaniel Cost Year 1: $1,200–$2,200 (Real Budget) | ✅ Live | [/blogs/dog-breeds/tibetan-spaniel-first-year-costs](https://thewooffy.com/blogs/dog-breeds/tibetan-spaniel-first-year-costs) |
 | Tibetan Spaniel Grooming Guide | ✅ Live | [/blogs/dog-breeds/tibetan-spaniel-grooming-guide](https://thewooffy.com/blogs/dog-breeds/tibetan-spaniel-grooming-guide) |
 | Tibetan Spaniel Puppy Checklist | ✅ Live | [/blogs/dog-breeds/tibetan-spaniel-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/tibetan-spaniel-puppy-checklist) |
 
@@ -1456,7 +1456,7 @@
 | Article | Status | URL |
 |---------|--------|-----|
 | Vizsla | ✅ Live | [/blogs/dog-breeds/vizsla](https://thewooffy.com/blogs/dog-breeds/vizsla) |
-| Vizsla First-Year Costs: Full Budget Breakdown | ✅ Live | [/blogs/dog-breeds/vizsla-first-year-costs](https://thewooffy.com/blogs/dog-breeds/vizsla-first-year-costs) |
+| Vizsla Cost Year 1: $2,700–$6,100 Budget Breakdown | ✅ Live | [/blogs/dog-breeds/vizsla-first-year-costs](https://thewooffy.com/blogs/dog-breeds/vizsla-first-year-costs) |
 | Vizsla Grooming Guide: Low-Maintenance Coat Care | ✅ Live | [/blogs/dog-breeds/vizsla-grooming-guide](https://thewooffy.com/blogs/dog-breeds/vizsla-grooming-guide) |
 | Vizsla Puppy Checklist: Everything to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/vizsla-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/vizsla-puppy-checklist) |
 
@@ -1506,7 +1506,7 @@
 | Article | Status | URL |
 |---------|--------|-----|
 | Whippet | ✅ Live | [/blogs/dog-breeds/whippet](https://thewooffy.com/blogs/dog-breeds/whippet) |
-| Whippet First-Year Costs | ✅ Live | [/blogs/dog-breeds/whippet-first-year-costs](https://thewooffy.com/blogs/dog-breeds/whippet-first-year-costs) |
+| Whippet Cost Year 1: $1,500–$3,000 (Real Budget) | ✅ Live | [/blogs/dog-breeds/whippet-first-year-costs](https://thewooffy.com/blogs/dog-breeds/whippet-first-year-costs) |
 | Whippet Grooming Guide | ✅ Live | [/blogs/dog-breeds/whippet-grooming-guide](https://thewooffy.com/blogs/dog-breeds/whippet-grooming-guide) |
 | Whippet Puppy Checklist | ✅ Live | [/blogs/dog-breeds/whippet-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/whippet-puppy-checklist) |
 
@@ -1519,7 +1519,7 @@
 | Article | Status | URL |
 |---------|--------|-----|
 | Wire Fox Terrier | ✅ Live | [/blogs/dog-breeds/wire-fox-terrier](https://thewooffy.com/blogs/dog-breeds/wire-fox-terrier) |
-| Wire Fox Terrier First Year Costs | ✅ Live | [/blogs/dog-breeds/wire-fox-terrier-first-year-costs](https://thewooffy.com/blogs/dog-breeds/wire-fox-terrier-first-year-costs) |
+| Wire Fox Terrier Cost Year 1: $1,500–$2,500 (Real Budget) | ✅ Live | [/blogs/dog-breeds/wire-fox-terrier-first-year-costs](https://thewooffy.com/blogs/dog-breeds/wire-fox-terrier-first-year-costs) |
 | Wire Fox Terrier Grooming Guide | ✅ Live | [/blogs/dog-breeds/wire-fox-terrier-grooming-guide](https://thewooffy.com/blogs/dog-breeds/wire-fox-terrier-grooming-guide) |
 | Wire Fox Terrier Puppy Checklist | ✅ Live | [/blogs/dog-breeds/wire-fox-terrier-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/wire-fox-terrier-puppy-checklist) |
 
