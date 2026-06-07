@@ -122,7 +122,7 @@
 | Alaskan Malamute | ✅ Live | [/blogs/dog-breeds/alaskan-malamute](https://thewooffy.com/blogs/dog-breeds/alaskan-malamute) |
 | Alaskan Malamute First-Year Costs: Full Budget Breakdown | ✅ Live | [/blogs/dog-breeds/alaskan-malamute-first-year-costs](https://thewooffy.com/blogs/dog-breeds/alaskan-malamute-first-year-costs) |
 | Alaskan Malamute Grooming: Every 6–8 Weeks + Shedding Plan | ✅ Live | [/blogs/dog-breeds/alaskan-malamute-grooming-guide](https://thewooffy.com/blogs/dog-breeds/alaskan-malamute-grooming-guide) |
-| Alaskan Malamute Puppy Checklist: What to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/alaskan-malamute-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/alaskan-malamute-puppy-checklist) |
+| Alaskan Malamute Puppy Checklist: First 90 Days | ✅ Live | [/blogs/dog-breeds/alaskan-malamute-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/alaskan-malamute-puppy-checklist) |
 
 ### American Eskimo Dog *(Non-Sporting · Small)*
 | Article | Status | URL |
@@ -169,7 +169,7 @@
 |---------|--------|-----|
 | Aussiedoodle | ✅ Live | [/blogs/dog-breeds/aussiedoodle](https://thewooffy.com/blogs/dog-breeds/aussiedoodle) |
 | Aussiedoodle First Year Costs | ✅ Live | [/blogs/dog-breeds/aussiedoodle-first-year-costs](https://thewooffy.com/blogs/dog-breeds/aussiedoodle-first-year-costs) |
-| Aussiedoodle Grooming Guide: Coat Care, Brushing Schedules, and Professional Trim Frequency | ✅ Live | [/blogs/dog-breeds/aussiedoodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/aussiedoodle-grooming-guide) |
+| Aussiedoodle Grooming Guide: Coat Care & Trim | ✅ Live | [/blogs/dog-breeds/aussiedoodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/aussiedoodle-grooming-guide) |
 | Aussiedoodle Puppy Checklist | ✅ Live | [/blogs/dog-breeds/aussiedoodle-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/aussiedoodle-puppy-checklist) |
 
 ### Australian Cattle Dog *(Herding Group · Medium Breed)*
@@ -273,7 +273,7 @@
 |---------|--------|-----|
 | Bernedoodle | ✅ Live | [/blogs/dog-breeds/bernedoodle](https://thewooffy.com/blogs/dog-breeds/bernedoodle) |
 | Bernedoodle Cost Year 1: $5,200–$10,500 (Real Budget) | ✅ Live | [/blogs/dog-breeds/bernedoodle-first-year-costs](https://thewooffy.com/blogs/dog-breeds/bernedoodle-first-year-costs) |
-| Bernedoodle Grooming Guide: Coat Care, Brushing Schedules, and Professional Trim Frequency | ✅ Live | [/blogs/dog-breeds/bernedoodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/bernedoodle-grooming-guide) |
+| Bernedoodle Grooming Guide: Coat Care & Trim | ✅ Live | [/blogs/dog-breeds/bernedoodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/bernedoodle-grooming-guide) |
 | Bernedoodle Puppy Checklist | ✅ Live | [/blogs/dog-breeds/bernedoodle-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/bernedoodle-puppy-checklist) |
 
 ### Bernedoodle vs Aussiedoodle *(Doodle Comparisons · Comparison)*
@@ -366,7 +366,7 @@
 | Boston Terrier | ✅ Live | [/blogs/dog-breeds/boston-terrier](https://thewooffy.com/blogs/dog-breeds/boston-terrier) |
 | Boston Terrier First-Year Costs: Full Budget Breakdown | ✅ Live | [/blogs/dog-breeds/boston-terrier-first-year-costs](https://thewooffy.com/blogs/dog-breeds/boston-terrier-first-year-costs) |
 | Boston Terrier Grooming Guide: Coat Care and Health Maintenance | ✅ Live | [/blogs/dog-breeds/boston-terrier-grooming-guide](https://thewooffy.com/blogs/dog-breeds/boston-terrier-grooming-guide) |
-| Boston Terrier Puppy Checklist: What to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/boston-terrier-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/boston-terrier-puppy-checklist) |
+| Boston Terrier Puppy Checklist: First 90 Days | ✅ Live | [/blogs/dog-breeds/boston-terrier-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/boston-terrier-puppy-checklist) |
 
 ### Bouvier des Flandres *(Herding · Large)*
 | Article | Status | URL |
@@ -470,10 +470,10 @@
 |---------|--------|-----|
 | Can Dogs Eat Broccoli? Yes — In Small Amounts, Watch the Stems | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-broccoli](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-broccoli) |
 
-### Can Dogs Eat Butternut Squash? A Nutritious Addition to Your Dog's Diet *( · )*
+### Can Dogs Eat Butternut Squash? Yes & Why *( · )*
 | Article | Status | URL |
 |---------|--------|-----|
-| Can Dogs Eat Butternut Squash? A Nutritious Addition to Your Dog's Diet | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-butternut-squash-a-nutritious-addition-to-your-dogs-diet](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-butternut-squash-a-nutritious-addition-to-your-dogs-diet) |
+| Can Dogs Eat Butternut Squash? Yes & Why | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-butternut-squash-a-nutritious-addition-to-your-dogs-diet](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-butternut-squash-a-nutritious-addition-to-your-dogs-diet) |
 
 ### Can Dogs Eat Cheese? Yes — In Moderation, with One Big Caveat *( · )*
 | Article | Status | URL |
@@ -586,7 +586,7 @@
 | Cane Corso | ✅ Live | [/blogs/dog-breeds/cane-corso](https://thewooffy.com/blogs/dog-breeds/cane-corso) |
 | Cane Corso Cost Year 1: $4,450–$11,500 Budget Breakdown | ✅ Live | [/blogs/dog-breeds/cane-corso-first-year-costs](https://thewooffy.com/blogs/dog-breeds/cane-corso-first-year-costs) |
 | Cane Corso Grooming Guide | ✅ Live | [/blogs/dog-breeds/cane-corso-grooming-guide](https://thewooffy.com/blogs/dog-breeds/cane-corso-grooming-guide) |
-| Cane Corso Puppy Checklist: Everything to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/cane-corso-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/cane-corso-puppy-checklist) |
+| Cane Corso Puppy Checklist: First 90 Days at Home | ✅ Live | [/blogs/dog-breeds/cane-corso-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/cane-corso-puppy-checklist) |
 
 ### Cane Corso vs Great Dane *(Giant Breed Comparisons · Comparison)*
 | Article | Status | URL |
@@ -624,7 +624,7 @@
 |---------|--------|-----|
 | Cavapoo | ✅ Live | [/blogs/dog-breeds/cavapoo](https://thewooffy.com/blogs/dog-breeds/cavapoo) |
 | Cavapoo Costs: First Year Budget Guide | ✅ Live | [/blogs/dog-breeds/cavapoo-first-year-costs](https://thewooffy.com/blogs/dog-breeds/cavapoo-first-year-costs) |
-| Cavapoo Grooming Guide: Coat Care, Brushing Schedules, and Professional Trim Frequency | ✅ Live | [/blogs/dog-breeds/cavapoo-grooming-guide](https://thewooffy.com/blogs/dog-breeds/cavapoo-grooming-guide) |
+| Cavapoo Grooming Guide: Coat Care & Trim Schedule | ✅ Live | [/blogs/dog-breeds/cavapoo-grooming-guide](https://thewooffy.com/blogs/dog-breeds/cavapoo-grooming-guide) |
 | Cavapoo Puppy Checklist | ✅ Live | [/blogs/dog-breeds/cavapoo-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/cavapoo-puppy-checklist) |
 
 ### Cavapoo vs Cockapoo *(Doodle Comparisons · Comparison)*
@@ -758,7 +758,7 @@
 | English Springer Spaniel | ✅ Live | [/blogs/dog-breeds/english-springer-spaniel](https://thewooffy.com/blogs/dog-breeds/english-springer-spaniel) |
 | English Springer Spaniel First-Year Costs: Full Budget Breakdown | ✅ Live | [/blogs/dog-breeds/english-springer-spaniel-first-year-costs](https://thewooffy.com/blogs/dog-breeds/english-springer-spaniel-first-year-costs) |
 | English Springer Spaniel Grooming Guide: Coat Care and Ear Cleaning | ✅ Live | [/blogs/dog-breeds/english-springer-spaniel-grooming-guide](https://thewooffy.com/blogs/dog-breeds/english-springer-spaniel-grooming-guide) |
-| English Springer Spaniel Puppy Checklist: Everything to Do Before Bringing One Home | ✅ Live | [/blogs/dog-breeds/english-springer-spaniel-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/english-springer-spaniel-puppy-checklist) |
+| English Springer Spaniel Puppy Checklist: 90 Days | ✅ Live | [/blogs/dog-breeds/english-springer-spaniel-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/english-springer-spaniel-puppy-checklist) |
 
 ### Entlebucher Mountain Dog *(Herding · Medium)*
 | Article | Status | URL |
@@ -872,7 +872,7 @@
 |---------|--------|-----|
 | Goldendoodle | ✅ Live | [/blogs/dog-breeds/goldendoodle](https://thewooffy.com/blogs/dog-breeds/goldendoodle) |
 | Goldendoodle First Year Costs | ✅ Live | [/blogs/dog-breeds/goldendoodle-first-year-costs](https://thewooffy.com/blogs/dog-breeds/goldendoodle-first-year-costs) |
-| Goldendoodle Grooming Guide: Coat Care, Brushing Schedules, and Professional Trim Frequency | ✅ Live | [/blogs/dog-breeds/goldendoodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/goldendoodle-grooming-guide) |
+| Goldendoodle Grooming Guide: Coat Care & Trim | ✅ Live | [/blogs/dog-breeds/goldendoodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/goldendoodle-grooming-guide) |
 | Goldendoodle Puppy Checklist | ✅ Live | [/blogs/dog-breeds/goldendoodle-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/goldendoodle-puppy-checklist) |
 
 ### Goldendoodle vs Labradoodle *(Doodle Comparisons · Comparison)*
@@ -939,7 +939,7 @@
 | Havanese | ✅ Live | [/blogs/dog-breeds/havanese](https://thewooffy.com/blogs/dog-breeds/havanese) |
 | Havanese First-Year Costs: Full Budget Breakdown | ✅ Live | [/blogs/dog-breeds/havanese-first-year-costs](https://thewooffy.com/blogs/dog-breeds/havanese-first-year-costs) |
 | Havanese Grooming Guide: Silky Coat Care and Tear Stain Management | ✅ Live | [/blogs/dog-breeds/havanese-grooming-guide](https://thewooffy.com/blogs/dog-breeds/havanese-grooming-guide) |
-| Havanese Puppy Checklist: What to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/havanese-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/havanese-puppy-checklist) |
+| Havanese Puppy Checklist: First 90 Days at Home | ✅ Live | [/blogs/dog-breeds/havanese-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/havanese-puppy-checklist) |
 
 ### Ibizan Hound *(Hound Group · Large Breed)*
 | Article | Status | URL |
@@ -995,7 +995,7 @@
 | Italian Greyhound | ✅ Live | [/blogs/dog-breeds/italian-greyhound](https://thewooffy.com/blogs/dog-breeds/italian-greyhound) |
 | Italian Greyhound First-Year Costs: Full Budget Breakdown | ✅ Live | [/blogs/dog-breeds/italian-greyhound-first-year-costs](https://thewooffy.com/blogs/dog-breeds/italian-greyhound-first-year-costs) |
 | Italian Greyhound Grooming Guide: Coat Care and Dental Health | ✅ Live | [/blogs/dog-breeds/italian-greyhound-grooming-guide](https://thewooffy.com/blogs/dog-breeds/italian-greyhound-grooming-guide) |
-| Italian Greyhound Puppy Checklist: What to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/italian-greyhound-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/italian-greyhound-puppy-checklist) |
+| Italian Greyhound Puppy Checklist: First 90 Days | ✅ Live | [/blogs/dog-breeds/italian-greyhound-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/italian-greyhound-puppy-checklist) |
 
 ### Japanese Chin *(Toy · Small)*
 | Article | Status | URL |
@@ -1034,7 +1034,7 @@
 |---------|--------|-----|
 | Labradoodle | ✅ Live | [/blogs/dog-breeds/labradoodle](https://thewooffy.com/blogs/dog-breeds/labradoodle) |
 | Labradoodle First Year Costs | ✅ Live | [/blogs/dog-breeds/labradoodle-first-year-costs](https://thewooffy.com/blogs/dog-breeds/labradoodle-first-year-costs) |
-| Labradoodle Grooming Guide: Coat Care, Brushing Schedules, and Professional Trim Frequency | ✅ Live | [/blogs/dog-breeds/labradoodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/labradoodle-grooming-guide) |
+| Labradoodle Grooming Guide: Coat Care & Trim | ✅ Live | [/blogs/dog-breeds/labradoodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/labradoodle-grooming-guide) |
 | Labradoodle Puppy Checklist | ✅ Live | [/blogs/dog-breeds/labradoodle-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/labradoodle-puppy-checklist) |
 
 ### Labrador Retriever *(Sporting Group · Large Breed)*
@@ -1282,7 +1282,7 @@
 | Pomeranian | ✅ Live | [/blogs/dog-breeds/pomeranian](https://thewooffy.com/blogs/dog-breeds/pomeranian) |
 | Pomeranian First-Year Costs: Full Budget Breakdown | ✅ Live | [/blogs/dog-breeds/pomeranian-first-year-costs](https://thewooffy.com/blogs/dog-breeds/pomeranian-first-year-costs) |
 | Pomeranian Grooming Guide: Double Coat Care and What Not to Do | ✅ Live | [/blogs/dog-breeds/pomeranian-grooming-guide](https://thewooffy.com/blogs/dog-breeds/pomeranian-grooming-guide) |
-| Pomeranian Puppy Checklist: What to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/pomeranian-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/pomeranian-puppy-checklist) |
+| Pomeranian Puppy Checklist: First 90 Days at Home | ✅ Live | [/blogs/dog-breeds/pomeranian-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/pomeranian-puppy-checklist) |
 
 ### Portuguese Water Dog *(Working Group · Medium Breed)*
 | Article | Status | URL |
@@ -1290,7 +1290,7 @@
 | Portuguese Water Dog | ✅ Live | [/blogs/dog-breeds/portuguese-water-dog](https://thewooffy.com/blogs/dog-breeds/portuguese-water-dog) |
 | Portuguese Water Dog First-Year Costs: Full Budget Breakdown | ✅ Live | [/blogs/dog-breeds/portuguese-water-dog-first-year-costs](https://thewooffy.com/blogs/dog-breeds/portuguese-water-dog-first-year-costs) |
 | Portuguese Water Dog Grooming: Every 6–8 Weeks (Curly Coat) | ✅ Live | [/blogs/dog-breeds/portuguese-water-dog-grooming-guide](https://thewooffy.com/blogs/dog-breeds/portuguese-water-dog-grooming-guide) |
-| Portuguese Water Dog Puppy Checklist: What to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/portuguese-water-dog-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/portuguese-water-dog-puppy-checklist) |
+| Portuguese Water Dog Puppy Checklist: 90 Days | ✅ Live | [/blogs/dog-breeds/portuguese-water-dog-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/portuguese-water-dog-puppy-checklist) |
 
 ### Pug *(Toy Group · Small Breed)*
 | Article | Status | URL |
@@ -1403,7 +1403,7 @@
 |---------|--------|-----|
 | Sheepadoodle | ✅ Live | [/blogs/dog-breeds/sheepadoodle](https://thewooffy.com/blogs/dog-breeds/sheepadoodle) |
 | Sheepadoodle First Year Costs | ✅ Live | [/blogs/dog-breeds/sheepadoodle-first-year-costs](https://thewooffy.com/blogs/dog-breeds/sheepadoodle-first-year-costs) |
-| Sheepadoodle Grooming Guide: Coat Care, Brushing Schedules, and Professional Trim Frequency | ✅ Live | [/blogs/dog-breeds/sheepadoodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/sheepadoodle-grooming-guide) |
+| Sheepadoodle Grooming Guide: Coat Care & Trim | ✅ Live | [/blogs/dog-breeds/sheepadoodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/sheepadoodle-grooming-guide) |
 | Sheepadoodle Puppy Checklist | ✅ Live | [/blogs/dog-breeds/sheepadoodle-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/sheepadoodle-puppy-checklist) |
 
 ### Sheepadoodle vs Bernedoodle *(Doodle Comparisons · Comparison)*
@@ -1496,7 +1496,7 @@
 |---------|--------|-----|
 | Standard Poodle | ✅ Live | [/blogs/dog-breeds/standard-poodle](https://thewooffy.com/blogs/dog-breeds/standard-poodle) |
 | Standard Poodle First Year Costs | ✅ Live | [/blogs/dog-breeds/standard-poodle-first-year-costs](https://thewooffy.com/blogs/dog-breeds/standard-poodle-first-year-costs) |
-| Standard Poodle Grooming Guide: Curly Coat Care and Professional Trim Schedules | ✅ Live | [/blogs/dog-breeds/standard-poodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/standard-poodle-grooming-guide) |
+| Standard Poodle Grooming Guide: Curly Coat Care | ✅ Live | [/blogs/dog-breeds/standard-poodle-grooming-guide](https://thewooffy.com/blogs/dog-breeds/standard-poodle-grooming-guide) |
 | Standard Poodle Puppy Checklist | ✅ Live | [/blogs/dog-breeds/standard-poodle-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/standard-poodle-puppy-checklist) |
 
 ### Standard Poodle vs Goldendoodle *(Breed Comparisons · Comparison)*
@@ -1558,7 +1558,7 @@
 | Vizsla | ✅ Live | [/blogs/dog-breeds/vizsla](https://thewooffy.com/blogs/dog-breeds/vizsla) |
 | Vizsla Cost Year 1: $2,700–$6,100 Budget Breakdown | ✅ Live | [/blogs/dog-breeds/vizsla-first-year-costs](https://thewooffy.com/blogs/dog-breeds/vizsla-first-year-costs) |
 | Vizsla Grooming Guide: Low-Maintenance Coat Care | ✅ Live | [/blogs/dog-breeds/vizsla-grooming-guide](https://thewooffy.com/blogs/dog-breeds/vizsla-grooming-guide) |
-| Vizsla Puppy Checklist: Everything to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/vizsla-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/vizsla-puppy-checklist) |
+| Vizsla Puppy Checklist: First 90 Days at Home | ✅ Live | [/blogs/dog-breeds/vizsla-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/vizsla-puppy-checklist) |
 
 ### Vizsla vs German Shorthaired Pointer *(Sporting Breed Comparisons · Comparison)*
 | Article | Status | URL |
@@ -1576,7 +1576,7 @@
 | Weimaraner | ✅ Live | [/blogs/dog-breeds/weimaraner](https://thewooffy.com/blogs/dog-breeds/weimaraner) |
 | Weimaraner First-Year Costs: Full Budget Breakdown | ✅ Live | [/blogs/dog-breeds/weimaraner-first-year-costs](https://thewooffy.com/blogs/dog-breeds/weimaraner-first-year-costs) |
 | Weimaraner Grooming Guide: Low-Maintenance Silver-Grey Coat Care | ✅ Live | [/blogs/dog-breeds/weimaraner-grooming-guide](https://thewooffy.com/blogs/dog-breeds/weimaraner-grooming-guide) |
-| Weimaraner Puppy Checklist: What to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/weimaraner-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/weimaraner-puppy-checklist) |
+| Weimaraner Puppy Checklist: First 90 Days at Home | ✅ Live | [/blogs/dog-breeds/weimaraner-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/weimaraner-puppy-checklist) |
 
 ### Welsh Springer Spaniel *(Sporting Group · Medium Breed)*
 | Article | Status | URL |
@@ -1645,5 +1645,5 @@
 | Yorkshire Terrier | ✅ Live | [/blogs/dog-breeds/yorkshire-terrier](https://thewooffy.com/blogs/dog-breeds/yorkshire-terrier) |
 | Yorkshire Terrier Cost Year 1: $2,400–$5,540 Real Budget | ✅ Live | [/blogs/dog-breeds/yorkshire-terrier-first-year-costs](https://thewooffy.com/blogs/dog-breeds/yorkshire-terrier-first-year-costs) |
 | Yorkshire Terrier Grooming Guide: Silky Coat Care and Styling Options | ✅ Live | [/blogs/dog-breeds/yorkshire-terrier-grooming-guide](https://thewooffy.com/blogs/dog-breeds/yorkshire-terrier-grooming-guide) |
-| Yorkshire Terrier Puppy Checklist: What to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/yorkshire-terrier-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/yorkshire-terrier-puppy-checklist) |
+| Yorkshire Terrier Puppy Checklist: 90 Days | ✅ Live | [/blogs/dog-breeds/yorkshire-terrier-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/yorkshire-terrier-puppy-checklist) |
 
