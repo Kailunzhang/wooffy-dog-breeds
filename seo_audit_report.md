@@ -4,19 +4,11 @@ Scanned: 768 breed-data JSON files
 
 ## Summary
 
-Total findings: **701**
+Total findings: **698**
 - CRITICAL: 0
-- HIGH: 3
+- HIGH: 0
 - MEDIUM: 698
 - LOW: 0
-
-## HIGH
-
-### thin_content_lt_500 (3)
-
-- 'can-dogs-eat-eggplant' / 471
-- 'golden-retriever-outdoor-space' / 405
-- 'low-maintenance-dog-breeds' / 477
 
 ## MEDIUM
 
