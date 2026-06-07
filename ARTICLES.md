@@ -7,10 +7,10 @@
 
 | Type | Count |
 |------|-------|
-| Breed guides | 194 |
+| Breed guides | 204 |
 | Supporting articles | 493 |
 | Roundup articles | 61 |
-| **Total** | **748** |
+| **Total** | **758** |
 
 ---
 
@@ -440,6 +440,16 @@
 | Cairn Terrier Grooming Guide | ✅ Live | [/blogs/dog-breeds/cairn-terrier-grooming-guide](https://thewooffy.com/blogs/dog-breeds/cairn-terrier-grooming-guide) |
 | Cairn Terrier Puppy Checklist | ✅ Live | [/blogs/dog-breeds/cairn-terrier-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/cairn-terrier-puppy-checklist) |
 
+### Can Dogs Eat Apples? Yes — But Remove the Seeds and Core *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Apples? Yes — But Remove the Seeds and Core | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-apples](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-apples) |
+
+### Can Dogs Eat Bananas? Yes — Benefits, Serving Size & Tips *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Bananas? Yes — Benefits, Serving Size & Tips | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-bananas](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-bananas) |
+
 ### Can Dogs Eat Blueberries? A Nutritional Guide for Dog Owners *( · )*
 | Article | Status | URL |
 |---------|--------|-----|
@@ -455,25 +465,65 @@
 |---------|--------|-----|
 | Can Dogs Eat Chicken Breast? Unveiling the Truth for Pet Owners | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-chicken-breast](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-chicken-breast) |
 
+### Can Dogs Eat Chocolate? No — Why It's Toxic & What to Do *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Chocolate? No — Why It's Toxic & What to Do | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-chocolate](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-chocolate) |
+
 ### Can Dogs Eat Eggplant? Safety Tips & Benefits *( · )*
 | Article | Status | URL |
 |---------|--------|-----|
 | Can Dogs Eat Eggplant? Safety Tips & Benefits | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-eggplant](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-eggplant) |
+
+### Can Dogs Eat Eggs? Yes — Cooked Eggs Are Safe and Nutritious *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Eggs? Yes — Cooked Eggs Are Safe and Nutritious | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-eggs](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-eggs) |
+
+### Can Dogs Eat Grapes? No — They're Toxic & Cause Kidney Failure *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Grapes? No — They're Toxic & Cause Kidney Failure | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-grapes](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-grapes) |
+
+### Can Dogs Eat Onions? No — They Cause Hemolytic Anemia *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Onions? No — They Cause Hemolytic Anemia | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-onions](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-onions) |
+
+### Can Dogs Eat Peanut Butter? Yes — But Always Check for Xylitol *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Peanut Butter? Yes — But Always Check for Xylitol | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-peanut-butter](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-peanut-butter) |
 
 ### Can Dogs Eat Quinoa? Yes — Benefits, Risks & How to Serve *( · )*
 | Article | Status | URL |
 |---------|--------|-----|
 | Can Dogs Eat Quinoa? Yes — Benefits, Risks & How to Serve | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-quinoa](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-quinoa) |
 
+### Can Dogs Eat Rice? Yes — A Bland Diet Staple Explained *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Rice? Yes — A Bland Diet Staple Explained | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-rice](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-rice) |
+
 ### The Benefits and Cautions of Feeding Salmon to Your Dog *( · )*
 | Article | Status | URL |
 |---------|--------|-----|
 | The Benefits and Cautions of Feeding Salmon to Your Dog | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-salmon](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-salmon) |
 
+### Can Dogs Eat Strawberries? Yes — Benefits, Sugar Notes & How *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Strawberries? Yes — Benefits, Sugar Notes & How | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-strawberries](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-strawberries) |
+
 ### Can Dogs Have Sunflower Seeds? Safety & Benefits *( · )*
 | Article | Status | URL |
 |---------|--------|-----|
 | Can Dogs Have Sunflower Seeds? Safety & Benefits | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-sunflower-seeds](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-sunflower-seeds) |
+
+### Can Dogs Eat Watermelon? Yes — Remove the Seeds and Rind *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Watermelon? Yes — Remove the Seeds and Rind | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-watermelon](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-watermelon) |
 
 ### Can Dogs Have Almond Butter? *( · )*
 | Article | Status | URL |
