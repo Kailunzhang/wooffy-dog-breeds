@@ -4,47 +4,47 @@ Scanned: 768 breed-data JSON files
 
 ## Summary
 
-Total findings: **829**
+Total findings: **738**
 - CRITICAL: 0
-- HIGH: 131
+- HIGH: 40
 - MEDIUM: 698
 - LOW: 0
 
 ## HIGH
 
-### thin_content_lt_500 (131)
+### thin_content_lt_500 (40)
 
-- 'airedale-terrier-first-year-costs' / 346
-- 'akita-first-year-costs' / 381
-- 'alaskan-malamute-first-year-costs' / 424
-- 'american-eskimo-dog-first-year-costs' / 431
-- 'american-foxhound-first-year-costs' / 392
-- 'american-staffordshire-terrier-first-year-costs' / 325
-- 'american-water-spaniel-first-year-costs' / 346
-- 'anatolian-shepherd-dog-first-year-costs' / 425
-- 'aussiedoodle-first-year-costs' / 359
-- 'australian-cattle-dog-first-year-costs' / 407
-- 'australian-shepherd-first-year-costs' / 423
 - 'beagle-grooming-guide' / 373
 - 'beagle-puppy-checklist' / 372
-- 'bearded-collie-first-year-costs' / 453
-- 'beauceron-first-year-costs' / 386
-- 'bedlington-terrier-first-year-costs' / 426
-- 'belgian-malinois-first-year-costs' / 423
-- 'belgian-sheepdog-first-year-costs' / 304
-- 'bernedoodle-first-year-costs' / 361
-- 'bernese-mountain-dog-first-year-costs' / 376
-- 'black-and-tan-coonhound-first-year-costs' / 337
 - 'bluetick-coonhound-grooming-guide' / 437
 - 'bluetick-coonhound-puppy-checklist' / 452
-- 'border-collie-first-year-costs' / 420
-- 'boston-terrier-first-year-costs' / 412
-- 'bouvier-des-flandres-first-year-costs' / 416
-- 'boxer-first-year-costs' / 367
-- 'brussels-griffon-first-year-costs' / 381
-- 'bull-terrier-first-year-costs' / 351
-- 'bulldog-first-year-costs' / 476
-- ... (101 more)
+- 'can-dogs-eat-eggplant' / 471
+- 'cocker-spaniel-grooming-guide' / 490
+- 'doberman-pinscher-grooming-guide' / 472
+- 'entlebucher-mountain-dog-grooming-guide' / 415
+- 'entlebucher-mountain-dog-puppy-checklist' / 482
+- 'finnish-lapphund-grooming-guide' / 413
+- 'finnish-lapphund-puppy-checklist' / 386
+- 'finnish-spitz-grooming-guide' / 452
+- 'german-shorthaired-pointer-grooming-guide' / 446
+- 'golden-retriever-grooming-guide' / 493
+- 'golden-retriever-outdoor-space' / 405
+- 'harrier-grooming-guide' / 357
+- 'harrier-puppy-checklist' / 426
+- 'ibizan-hound-grooming-guide' / 479
+- 'icelandic-sheepdog-grooming-guide' / 367
+- 'icelandic-sheepdog-puppy-checklist' / 402
+- 'irish-setter-grooming-guide' / 420
+- 'irish-setter-puppy-checklist' / 456
+- 'low-maintenance-dog-breeds' / 477
+- 'norfolk-terrier-grooming-guide' / 460
+- 'norfolk-terrier-puppy-checklist' / 496
+- 'norwich-terrier-grooming-guide' / 438
+- 'parson-russell-terrier-grooming-guide' / 477
+- 'pembroke-welsh-corgi-grooming-guide' / 393
+- 'pharaoh-hound-grooming-guide' / 499
+- 'polish-lowland-sheepdog-puppy-checklist' / 459
+- ... (10 more)
 
 ## MEDIUM
 
