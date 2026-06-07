@@ -1,0 +1,51 @@
+{%- comment -%}
+  Optional override snippet: emits a second Article JSON-LD with the
+  REAL updated_at timestamp from Shopify.
+
+  The installed Booster Apps SEO block writes Article schema with
+  dateModified = article.published_at (stale — never reflects edits).
+  This snippet emits an additional Article schema; Google deduplicates
+  on @id (mainEntityOfPage) and typically picks the fresher
+  dateModified for freshness assessment.
+
+  Install:
+  1. Shopify admin -> Online Store -> Themes -> Edit code
+  2. Snippets -> Add new snippet -> name it "seo-article-freshness"
+     -> paste this entire file content -> Save
+  3. Open layout/theme.liquid, find the line {{ content_for_header }}
+     in the <head> section, and add right AFTER it:
+        {% render 'seo-article-freshness' %}
+  4. Save
+{%- endcomment -%}
+
+{%- if request.page_type == 'article' -%}
+  {%- assign dt_published = article.published_at | date: "%Y-%m-%dT%H:%M:%S%z" -%}
+  {%- assign dt_modified  = article.updated_at  | date: "%Y-%m-%dT%H:%M:%S%z" -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "{{ canonical_url }}#freshness",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ canonical_url }}"
+  },
+  "headline": {{ article.title | json }},
+  "datePublished": "{{ dt_published }}",
+  "dateModified": "{{ dt_modified }}",
+  "author": {
+    "@type": "Organization",
+    "name": {{ shop.name | json }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ shop.name | json }}{%- if settings.favicon -%},
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https:{{ settings.favicon | image_url: width: 200 }}"
+    }
+    {%- endif -%}
+  }
+}
+</script>
+{%- endif -%}
