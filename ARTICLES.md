@@ -46,10 +46,10 @@
 | Best Toy Dog Breeds | ✅ Live | [/blogs/dog-breeds/best-toy-dog-breeds](https://thewooffy.com/blogs/dog-breeds/best-toy-dog-breeds) |
 | Best Watchdog Breeds | ✅ Live | [/blogs/dog-breeds/best-watchdog-breeds](https://thewooffy.com/blogs/dog-breeds/best-watchdog-breeds) |
 | Best Working Dog Breeds | ✅ Live | [/blogs/dog-breeds/best-working-dog-breeds](https://thewooffy.com/blogs/dog-breeds/best-working-dog-breeds) |
-| Black Dog Breeds | ✅ Live | [/blogs/dog-breeds/black-dog-breeds](https://thewooffy.com/blogs/dog-breeds/black-dog-breeds) |
-| Calmest Dog Breeds | ✅ Live | [/blogs/dog-breeds/calmest-dog-breeds](https://thewooffy.com/blogs/dog-breeds/calmest-dog-breeds) |
-| Chinese Dog Breeds | ✅ Live | [/blogs/dog-breeds/chinese-dog-breeds](https://thewooffy.com/blogs/dog-breeds/chinese-dog-breeds) |
-| Curly-Haired Dog Breeds | ✅ Live | [/blogs/dog-breeds/curly-haired-dog-breeds](https://thewooffy.com/blogs/dog-breeds/curly-haired-dog-breeds) |
+| Black Dog Breeds: 10 Beautiful All-Black Breeds Explained | ✅ Live | [/blogs/dog-breeds/black-dog-breeds](https://thewooffy.com/blogs/dog-breeds/black-dog-breeds) |
+| Calmest Dog Breeds: 10 Laid-Back Breeds for Quiet Homes | ✅ Live | [/blogs/dog-breeds/calmest-dog-breeds](https://thewooffy.com/blogs/dog-breeds/calmest-dog-breeds) |
+| Chinese Dog Breeds: 10 Ancient Breeds From China Explained | ✅ Live | [/blogs/dog-breeds/chinese-dog-breeds](https://thewooffy.com/blogs/dog-breeds/chinese-dog-breeds) |
+| Curly-Haired Dog Breeds: 10 Breeds With Tight Curls or Waves | ✅ Live | [/blogs/dog-breeds/curly-haired-dog-breeds](https://thewooffy.com/blogs/dog-breeds/curly-haired-dog-breeds) |
 | Dog Breeds by Group | ✅ Live | [/blogs/dog-breeds/dog-breeds-by-group](https://thewooffy.com/blogs/dog-breeds/dog-breeds-by-group) |
 | Dog Breeds by Size | ✅ Live | [/blogs/dog-breeds/dog-breeds-by-size](https://thewooffy.com/blogs/dog-breeds/dog-breeds-by-size) |
 | Dog Breeds Good with Cats | ✅ Live | [/blogs/dog-breeds/dog-breeds-good-with-cats](https://thewooffy.com/blogs/dog-breeds/dog-breeds-good-with-cats) |
@@ -57,18 +57,18 @@
 | Dog Breeds That Don't Bark | ✅ Live | [/blogs/dog-breeds/dog-breeds-that-dont-bark](https://thewooffy.com/blogs/dog-breeds/dog-breeds-that-dont-bark) |
 | Dog Breeds with Blue Eyes | ✅ Live | [/blogs/dog-breeds/dog-breeds-with-blue-eyes](https://thewooffy.com/blogs/dog-breeds/dog-breeds-with-blue-eyes) |
 | Easiest Dogs to Train | ✅ Live | [/blogs/dog-breeds/easiest-dogs-to-train](https://thewooffy.com/blogs/dog-breeds/easiest-dogs-to-train) |
-| Fluffy Dog Breeds | ✅ Live | [/blogs/dog-breeds/fluffy-dog-breeds](https://thewooffy.com/blogs/dog-breeds/fluffy-dog-breeds) |
-| Friendliest Dog Breeds | ✅ Live | [/blogs/dog-breeds/friendliest-dog-breeds](https://thewooffy.com/blogs/dog-breeds/friendliest-dog-breeds) |
-| German Dog Breeds | ✅ Live | [/blogs/dog-breeds/german-dog-breeds](https://thewooffy.com/blogs/dog-breeds/german-dog-breeds) |
-| Giant Dog Breeds | ✅ Live | [/blogs/dog-breeds/giant-dog-breeds](https://thewooffy.com/blogs/dog-breeds/giant-dog-breeds) |
-| Healthiest Dog Breeds | ✅ Live | [/blogs/dog-breeds/healthiest-dog-breeds](https://thewooffy.com/blogs/dog-breeds/healthiest-dog-breeds) |
-| Irish Dog Breeds | ✅ Live | [/blogs/dog-breeds/irish-dog-breeds](https://thewooffy.com/blogs/dog-breeds/irish-dog-breeds) |
-| Japanese Dog Breeds | ✅ Live | [/blogs/dog-breeds/japanese-dog-breeds](https://thewooffy.com/blogs/dog-breeds/japanese-dog-breeds) |
-| Long-Haired Dog Breeds | ✅ Live | [/blogs/dog-breeds/long-haired-dog-breeds](https://thewooffy.com/blogs/dog-breeds/long-haired-dog-breeds) |
+| Fluffy Dog Breeds: 10 Cloud-Like Breeds You Will Want to Hug | ✅ Live | [/blogs/dog-breeds/fluffy-dog-breeds](https://thewooffy.com/blogs/dog-breeds/fluffy-dog-breeds) |
+| Friendliest Dog Breeds: 10 Top Social Breeds for Families | ✅ Live | [/blogs/dog-breeds/friendliest-dog-breeds](https://thewooffy.com/blogs/dog-breeds/friendliest-dog-breeds) |
+| German Dog Breeds: 10 Native Breeds From Germany Explained | ✅ Live | [/blogs/dog-breeds/german-dog-breeds](https://thewooffy.com/blogs/dog-breeds/german-dog-breeds) |
+| Giant Dog Breeds: 10 of the World's Largest Dog Breeds | ✅ Live | [/blogs/dog-breeds/giant-dog-breeds](https://thewooffy.com/blogs/dog-breeds/giant-dog-breeds) |
+| Healthiest Dog Breeds: 10 Long-Lived and Hardy Breeds | ✅ Live | [/blogs/dog-breeds/healthiest-dog-breeds](https://thewooffy.com/blogs/dog-breeds/healthiest-dog-breeds) |
+| Irish Dog Breeds: 9 Native Breeds of Ireland Explained | ✅ Live | [/blogs/dog-breeds/irish-dog-breeds](https://thewooffy.com/blogs/dog-breeds/irish-dog-breeds) |
+| Japanese Dog Breeds: The 6 Native Nihon Ken Explained | ✅ Live | [/blogs/dog-breeds/japanese-dog-breeds](https://thewooffy.com/blogs/dog-breeds/japanese-dog-breeds) |
+| Long-Haired Dog Breeds: 10 Elegant Flowing-Coat Breeds | ✅ Live | [/blogs/dog-breeds/long-haired-dog-breeds](https://thewooffy.com/blogs/dog-breeds/long-haired-dog-breeds) |
 | Longest Living Dog Breeds | ✅ Live | [/blogs/dog-breeds/longest-living-dog-breeds](https://thewooffy.com/blogs/dog-breeds/longest-living-dog-breeds) |
 | Low-Maintenance Dog Breeds | ✅ Live | [/blogs/dog-breeds/low-maintenance-dog-breeds](https://thewooffy.com/blogs/dog-breeds/low-maintenance-dog-breeds) |
 | Low-Shedding Dog Breeds | ✅ Live | [/blogs/dog-breeds/low-shedding-dog-breeds](https://thewooffy.com/blogs/dog-breeds/low-shedding-dog-breeds) |
-| Medium-Sized Dog Breeds | ✅ Live | [/blogs/dog-breeds/medium-sized-dog-breeds](https://thewooffy.com/blogs/dog-breeds/medium-sized-dog-breeds) |
+| Medium-Sized Dog Breeds: 10 Best 30 to 60 Pound Dogs | ✅ Live | [/blogs/dog-breeds/medium-sized-dog-breeds](https://thewooffy.com/blogs/dog-breeds/medium-sized-dog-breeds) |
 | Most Affectionate Dog Breeds | ✅ Live | [/blogs/dog-breeds/most-affectionate-dog-breeds](https://thewooffy.com/blogs/dog-breeds/most-affectionate-dog-breeds) |
 | Most Expensive Dog Breeds | ✅ Live | [/blogs/dog-breeds/most-expensive-dog-breeds](https://thewooffy.com/blogs/dog-breeds/most-expensive-dog-breeds) |
 | Most Intelligent Dog Breeds | ✅ Live | [/blogs/dog-breeds/most-intelligent-dog-breeds](https://thewooffy.com/blogs/dog-breeds/most-intelligent-dog-breeds) |
@@ -77,8 +77,8 @@
 | Most Protective Dog Breeds | ✅ Live | [/blogs/dog-breeds/most-protective-dog-breeds](https://thewooffy.com/blogs/dog-breeds/most-protective-dog-breeds) |
 | Quietest Dog Breeds | ✅ Live | [/blogs/dog-breeds/quietest-dog-breeds](https://thewooffy.com/blogs/dog-breeds/quietest-dog-breeds) |
 | Rarest Dog Breeds | ✅ Live | [/blogs/dog-breeds/rarest-dog-breeds](https://thewooffy.com/blogs/dog-breeds/rarest-dog-breeds) |
-| Short-Haired Dog Breeds | ✅ Live | [/blogs/dog-breeds/short-haired-dog-breeds](https://thewooffy.com/blogs/dog-breeds/short-haired-dog-breeds) |
-| White Dog Breeds | ✅ Live | [/blogs/dog-breeds/white-dog-breeds](https://thewooffy.com/blogs/dog-breeds/white-dog-breeds) |
+| Short-Haired Dog Breeds: 10 Low-Shedding Smooth-Coat Breeds | ✅ Live | [/blogs/dog-breeds/short-haired-dog-breeds](https://thewooffy.com/blogs/dog-breeds/short-haired-dog-breeds) |
+| White Dog Breeds: 10 Pure-White Breeds You Will Love | ✅ Live | [/blogs/dog-breeds/white-dog-breeds](https://thewooffy.com/blogs/dog-breeds/white-dog-breeds) |
 
 ---
 
