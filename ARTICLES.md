@@ -7,10 +7,10 @@
 
 | Type | Count |
 |------|-------|
-| Breed guides | 204 |
+| Breed guides | 214 |
 | Supporting articles | 493 |
 | Roundup articles | 61 |
-| **Total** | **758** |
+| **Total** | **768** |
 
 ---
 
@@ -445,6 +445,11 @@
 |---------|--------|-----|
 | Can Dogs Eat Apples? Yes — But Remove the Seeds and Core | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-apples](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-apples) |
 
+### Can Dogs Eat Avocado? Mostly No — Here's the Real Risk *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Avocado? Mostly No — Here's the Real Risk | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-avocado](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-avocado) |
+
 ### Can Dogs Eat Bananas? Yes — Benefits, Serving Size & Tips *( · )*
 | Article | Status | URL |
 |---------|--------|-----|
@@ -455,10 +460,25 @@
 |---------|--------|-----|
 | Can Dogs Eat Blueberries? A Nutritional Guide for Dog Owners | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-blueberries](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-blueberries) |
 
+### Can Dogs Eat Bread? Plain Yes — Raw Dough Is a Critical Danger *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Bread? Plain Yes — Raw Dough Is a Critical Danger | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-bread](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-bread) |
+
+### Can Dogs Eat Broccoli? Yes — In Small Amounts, Watch the Stems *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Broccoli? Yes — In Small Amounts, Watch the Stems | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-broccoli](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-broccoli) |
+
 ### Can Dogs Eat Butternut Squash? A Nutritious Addition to Your Dog's Diet *( · )*
 | Article | Status | URL |
 |---------|--------|-----|
 | Can Dogs Eat Butternut Squash? A Nutritious Addition to Your Dog's Diet | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-butternut-squash-a-nutritious-addition-to-your-dogs-diet](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-butternut-squash-a-nutritious-addition-to-your-dogs-diet) |
+
+### Can Dogs Eat Cheese? Yes — In Moderation, with One Big Caveat *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Cheese? Yes — In Moderation, with One Big Caveat | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-cheese](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-cheese) |
 
 ### Can Dogs Eat Chicken Breast? Unveiling the Truth for Pet Owners *( · )*
 | Article | Status | URL |
@@ -490,15 +510,30 @@
 |---------|--------|-----|
 | Can Dogs Eat Onions? No — They Cause Hemolytic Anemia | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-onions](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-onions) |
 
+### Can Dogs Eat Oranges? Yes — Small Amounts, Peeled & Seedless *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Oranges? Yes — Small Amounts, Peeled & Seedless | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-oranges](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-oranges) |
+
 ### Can Dogs Eat Peanut Butter? Yes — But Always Check for Xylitol *( · )*
 | Article | Status | URL |
 |---------|--------|-----|
 | Can Dogs Eat Peanut Butter? Yes — But Always Check for Xylitol | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-peanut-butter](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-peanut-butter) |
 
+### Can Dogs Eat Pineapple? Yes — Small Pieces, Fresh & Plain *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Pineapple? Yes — Small Pieces, Fresh & Plain | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-pineapple](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-pineapple) |
+
 ### Can Dogs Eat Quinoa? Yes — Benefits, Risks & How to Serve *( · )*
 | Article | Status | URL |
 |---------|--------|-----|
 | Can Dogs Eat Quinoa? Yes — Benefits, Risks & How to Serve | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-quinoa](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-quinoa) |
+
+### Can Dogs Eat Raw Meat? The Honest Veterinary Answer *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Raw Meat? The Honest Veterinary Answer | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-raw-meat](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-raw-meat) |
 
 ### Can Dogs Eat Rice? Yes — A Bland Diet Staple Explained *( · )*
 | Article | Status | URL |
@@ -520,10 +555,25 @@
 |---------|--------|-----|
 | Can Dogs Have Sunflower Seeds? Safety & Benefits | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-sunflower-seeds](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-sunflower-seeds) |
 
+### Can Dogs Eat Sweet Potatoes? Yes — Cooked, Plain, in Moderation *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Sweet Potatoes? Yes — Cooked, Plain, in Moderation | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-sweet-potatoes](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-sweet-potatoes) |
+
+### Can Dogs Eat Tomatoes? Ripe Red Flesh Yes — Green Parts No *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Tomatoes? Ripe Red Flesh Yes — Green Parts No | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-tomatoes](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-tomatoes) |
+
 ### Can Dogs Eat Watermelon? Yes — Remove the Seeds and Rind *( · )*
 | Article | Status | URL |
 |---------|--------|-----|
 | Can Dogs Eat Watermelon? Yes — Remove the Seeds and Rind | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-watermelon](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-watermelon) |
+
+### Can Dogs Eat Yogurt? Yes — Plain Unsweetened, in Small Amounts *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Can Dogs Eat Yogurt? Yes — Plain Unsweetened, in Small Amounts | ✅ Live | [/blogs/dog-breeds/can-dogs-eat-yogurt](https://thewooffy.com/blogs/dog-breeds/can-dogs-eat-yogurt) |
 
 ### Can Dogs Have Almond Butter? *( · )*
 | Article | Status | URL |
