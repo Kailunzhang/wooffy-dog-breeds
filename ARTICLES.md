@@ -121,7 +121,7 @@
 |---------|--------|-----|
 | Alaskan Malamute | ✅ Live | [/blogs/dog-breeds/alaskan-malamute](https://thewooffy.com/blogs/dog-breeds/alaskan-malamute) |
 | Alaskan Malamute First-Year Costs: Full Budget Breakdown | ✅ Live | [/blogs/dog-breeds/alaskan-malamute-first-year-costs](https://thewooffy.com/blogs/dog-breeds/alaskan-malamute-first-year-costs) |
-| Alaskan Malamute Grooming Guide: Coat Care and Shedding Management | ✅ Live | [/blogs/dog-breeds/alaskan-malamute-grooming-guide](https://thewooffy.com/blogs/dog-breeds/alaskan-malamute-grooming-guide) |
+| Alaskan Malamute Grooming: Every 6–8 Weeks + Shedding Plan | ✅ Live | [/blogs/dog-breeds/alaskan-malamute-grooming-guide](https://thewooffy.com/blogs/dog-breeds/alaskan-malamute-grooming-guide) |
 | Alaskan Malamute Puppy Checklist: What to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/alaskan-malamute-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/alaskan-malamute-puppy-checklist) |
 
 ### American Eskimo Dog *(Non-Sporting · Small)*
@@ -161,7 +161,7 @@
 |---------|--------|-----|
 | Anatolian Shepherd Dog | ✅ Live | [/blogs/dog-breeds/anatolian-shepherd-dog](https://thewooffy.com/blogs/dog-breeds/anatolian-shepherd-dog) |
 | Anatolian Shepherd Dog First Year Costs | ✅ Live | [/blogs/dog-breeds/anatolian-shepherd-dog-first-year-costs](https://thewooffy.com/blogs/dog-breeds/anatolian-shepherd-dog-first-year-costs) |
-| Anatolian Shepherd Dog Grooming Guide | ✅ Live | [/blogs/dog-breeds/anatolian-shepherd-dog-grooming-guide](https://thewooffy.com/blogs/dog-breeds/anatolian-shepherd-dog-grooming-guide) |
+| Anatolian Shepherd Grooming: Brush Daily + Trim Every 6–8 Weeks | ✅ Live | [/blogs/dog-breeds/anatolian-shepherd-dog-grooming-guide](https://thewooffy.com/blogs/dog-breeds/anatolian-shepherd-dog-grooming-guide) |
 | Anatolian Shepherd Dog Puppy Checklist | ✅ Live | [/blogs/dog-breeds/anatolian-shepherd-dog-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/anatolian-shepherd-dog-puppy-checklist) |
 
 ### Aussiedoodle *(Designer Crossbreed · Medium to Large Breed)*
@@ -185,7 +185,7 @@
 |---------|--------|-----|
 | Australian Shepherd | ✅ Live | [/blogs/dog-breeds/australian-shepherd](https://thewooffy.com/blogs/dog-breeds/australian-shepherd) |
 | Australian Shepherd First Year Costs | ✅ Live | [/blogs/dog-breeds/australian-shepherd-first-year-costs](https://thewooffy.com/blogs/dog-breeds/australian-shepherd-first-year-costs) |
-| Australian Shepherd Grooming Guide | ✅ Live | [/blogs/dog-breeds/australian-shepherd-grooming-guide](https://thewooffy.com/blogs/dog-breeds/australian-shepherd-grooming-guide) |
+| Australian Shepherd Grooming: Brush 2–3x/Week + Pro Tools | ✅ Live | [/blogs/dog-breeds/australian-shepherd-grooming-guide](https://thewooffy.com/blogs/dog-breeds/australian-shepherd-grooming-guide) |
 | Australian Shepherd Puppy Checklist | ✅ Live | [/blogs/dog-breeds/australian-shepherd-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/australian-shepherd-puppy-checklist) |
 
 ### Australian Terrier *(Terrier · Small)*
@@ -249,7 +249,7 @@
 |---------|--------|-----|
 | Belgian Malinois | ✅ Live | [/blogs/dog-breeds/belgian-malinois](https://thewooffy.com/blogs/dog-breeds/belgian-malinois) |
 | Belgian Malinois First Year Costs | ✅ Live | [/blogs/dog-breeds/belgian-malinois-first-year-costs](https://thewooffy.com/blogs/dog-breeds/belgian-malinois-first-year-costs) |
-| Belgian Malinois Grooming Guide | ✅ Live | [/blogs/dog-breeds/belgian-malinois-grooming-guide](https://thewooffy.com/blogs/dog-breeds/belgian-malinois-grooming-guide) |
+| Belgian Malinois Grooming: Every 6–8 Weeks + Shedding Plan | ✅ Live | [/blogs/dog-breeds/belgian-malinois-grooming-guide](https://thewooffy.com/blogs/dog-breeds/belgian-malinois-grooming-guide) |
 | Belgian Malinois Puppy Checklist | ✅ Live | [/blogs/dog-breeds/belgian-malinois-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/belgian-malinois-puppy-checklist) |
 
 ### Belgian Sheepdog *(Herding · Medium)*
@@ -609,7 +609,7 @@
 |---------|--------|-----|
 | Dachshund | ✅ Live | [/blogs/dog-breeds/dachshund](https://thewooffy.com/blogs/dog-breeds/dachshund) |
 | Dachshund First Year Costs | ✅ Live | [/blogs/dog-breeds/dachshund-first-year-costs](https://thewooffy.com/blogs/dog-breeds/dachshund-first-year-costs) |
-| Dachshund Grooming Guide | ✅ Live | [/blogs/dog-breeds/dachshund-grooming-guide](https://thewooffy.com/blogs/dog-breeds/dachshund-grooming-guide) |
+| Dachshund Grooming Guide: Smooth, Long, and Wire Coat Care | ✅ Live | [/blogs/dog-breeds/dachshund-grooming-guide](https://thewooffy.com/blogs/dog-breeds/dachshund-grooming-guide) |
 | Dachshund Puppy Checklist | ✅ Live | [/blogs/dog-breeds/dachshund-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/dachshund-puppy-checklist) |
 
 ### Dalmatian *(Non-Sporting Group · Large Breed)*
@@ -785,7 +785,7 @@
 |---------|--------|-----|
 | Gordon Setter | ✅ Live | [/blogs/dog-breeds/gordon-setter](https://thewooffy.com/blogs/dog-breeds/gordon-setter) |
 | Gordon Setter First Year Costs | ✅ Live | [/blogs/dog-breeds/gordon-setter-first-year-costs](https://thewooffy.com/blogs/dog-breeds/gordon-setter-first-year-costs) |
-| Gordon Setter Grooming Guide | ✅ Live | [/blogs/dog-breeds/gordon-setter-grooming-guide](https://thewooffy.com/blogs/dog-breeds/gordon-setter-grooming-guide) |
+| Gordon Setter Grooming: Every 4–6 Weeks for the Feathered Coat | ✅ Live | [/blogs/dog-breeds/gordon-setter-grooming-guide](https://thewooffy.com/blogs/dog-breeds/gordon-setter-grooming-guide) |
 | Gordon Setter Puppy Checklist | ✅ Live | [/blogs/dog-breeds/gordon-setter-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/gordon-setter-puppy-checklist) |
 
 ### Great Dane *(Working Group · Giant Breed)*
@@ -1064,7 +1064,7 @@
 |---------|--------|-----|
 | Newfoundland | ✅ Live | [/blogs/dog-breeds/newfoundland](https://thewooffy.com/blogs/dog-breeds/newfoundland) |
 | Newfoundland First Year Costs | ✅ Live | [/blogs/dog-breeds/newfoundland-first-year-costs](https://thewooffy.com/blogs/dog-breeds/newfoundland-first-year-costs) |
-| Newfoundland Grooming Guide | ✅ Live | [/blogs/dog-breeds/newfoundland-grooming-guide](https://thewooffy.com/blogs/dog-breeds/newfoundland-grooming-guide) |
+| Newfoundland Grooming: Every 4–6 Weeks (Heavy Coat Schedule) | ✅ Live | [/blogs/dog-breeds/newfoundland-grooming-guide](https://thewooffy.com/blogs/dog-breeds/newfoundland-grooming-guide) |
 | Newfoundland Puppy Checklist | ✅ Live | [/blogs/dog-breeds/newfoundland-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/newfoundland-puppy-checklist) |
 
 ### Newfoundland vs Saint Bernard *(Giant Breed Comparisons · Comparison)*
@@ -1141,7 +1141,7 @@
 |---------|--------|-----|
 | Pekingese | ✅ Live | [/blogs/dog-breeds/pekingese](https://thewooffy.com/blogs/dog-breeds/pekingese) |
 | Pekingese First Year Costs | ✅ Live | [/blogs/dog-breeds/pekingese-first-year-costs](https://thewooffy.com/blogs/dog-breeds/pekingese-first-year-costs) |
-| Pekingese Grooming Guide | ✅ Live | [/blogs/dog-breeds/pekingese-grooming-guide](https://thewooffy.com/blogs/dog-breeds/pekingese-grooming-guide) |
+| Pekingese Grooming Guide: Every 4–6 Weeks for the Long Coat | ✅ Live | [/blogs/dog-breeds/pekingese-grooming-guide](https://thewooffy.com/blogs/dog-breeds/pekingese-grooming-guide) |
 | Pekingese Puppy Checklist | ✅ Live | [/blogs/dog-breeds/pekingese-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/pekingese-puppy-checklist) |
 
 ### Pembroke Welsh Corgi *(Herding Group · Small Breed)*
@@ -1189,7 +1189,7 @@
 |---------|--------|-----|
 | Portuguese Water Dog | ✅ Live | [/blogs/dog-breeds/portuguese-water-dog](https://thewooffy.com/blogs/dog-breeds/portuguese-water-dog) |
 | Portuguese Water Dog First-Year Costs: Full Budget Breakdown | ✅ Live | [/blogs/dog-breeds/portuguese-water-dog-first-year-costs](https://thewooffy.com/blogs/dog-breeds/portuguese-water-dog-first-year-costs) |
-| Portuguese Water Dog Grooming Guide: Curly Coat Care and Trims | ✅ Live | [/blogs/dog-breeds/portuguese-water-dog-grooming-guide](https://thewooffy.com/blogs/dog-breeds/portuguese-water-dog-grooming-guide) |
+| Portuguese Water Dog Grooming: Every 6–8 Weeks (Curly Coat) | ✅ Live | [/blogs/dog-breeds/portuguese-water-dog-grooming-guide](https://thewooffy.com/blogs/dog-breeds/portuguese-water-dog-grooming-guide) |
 | Portuguese Water Dog Puppy Checklist: What to Do Before and After Bringing One Home | ✅ Live | [/blogs/dog-breeds/portuguese-water-dog-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/portuguese-water-dog-puppy-checklist) |
 
 ### Pug *(Toy Group · Small Breed)*
@@ -1520,7 +1520,7 @@
 |---------|--------|-----|
 | Wire Fox Terrier | ✅ Live | [/blogs/dog-breeds/wire-fox-terrier](https://thewooffy.com/blogs/dog-breeds/wire-fox-terrier) |
 | Wire Fox Terrier Cost Year 1: $1,500–$2,500 (Real Budget) | ✅ Live | [/blogs/dog-breeds/wire-fox-terrier-first-year-costs](https://thewooffy.com/blogs/dog-breeds/wire-fox-terrier-first-year-costs) |
-| Wire Fox Terrier Grooming Guide | ✅ Live | [/blogs/dog-breeds/wire-fox-terrier-grooming-guide](https://thewooffy.com/blogs/dog-breeds/wire-fox-terrier-grooming-guide) |
+| Wire Fox Terrier Grooming: Hand-Strip Every 8–10 Weeks | ✅ Live | [/blogs/dog-breeds/wire-fox-terrier-grooming-guide](https://thewooffy.com/blogs/dog-breeds/wire-fox-terrier-grooming-guide) |
 | Wire Fox Terrier Puppy Checklist | ✅ Live | [/blogs/dog-breeds/wire-fox-terrier-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/wire-fox-terrier-puppy-checklist) |
 
 ### Wirehaired Pointing Griffon *(Sporting Group · Medium-Large Breed)*
