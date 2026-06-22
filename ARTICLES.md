@@ -7,10 +7,10 @@
 
 | Type | Count |
 |------|-------|
-| Breed guides | 218 |
+| Breed guides | 221 |
 | Supporting articles | 493 |
 | Roundup articles | 61 |
-| **Total** | **772** |
+| **Total** | **775** |
 
 ---
 
@@ -256,6 +256,11 @@
 | Belgian Malinois First Year Costs | ✅ Live | [/blogs/dog-breeds/belgian-malinois-first-year-costs](https://thewooffy.com/blogs/dog-breeds/belgian-malinois-first-year-costs) |
 | Belgian Malinois Grooming: Every 6–8 Weeks + Shedding Plan | ✅ Live | [/blogs/dog-breeds/belgian-malinois-grooming-guide](https://thewooffy.com/blogs/dog-breeds/belgian-malinois-grooming-guide) |
 | Belgian Malinois Puppy Checklist | ✅ Live | [/blogs/dog-breeds/belgian-malinois-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/belgian-malinois-puppy-checklist) |
+
+### Belgian Malinois vs German Shepherd: Working Dog Comparison *(Working Dog Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Belgian Malinois vs German Shepherd: Working Dog Comparison | ✅ Live | [/blogs/dog-breeds/belgian-malinois-vs-german-shepherd](https://thewooffy.com/blogs/dog-breeds/belgian-malinois-vs-german-shepherd) |
 
 ### Belgian Sheepdog *(Herding · Medium)*
 | Article | Status | URL |
@@ -652,6 +657,11 @@
 | Chihuahua First Year Costs | ✅ Live | [/blogs/dog-breeds/chihuahua-first-year-costs](https://thewooffy.com/blogs/dog-breeds/chihuahua-first-year-costs) |
 | Chihuahua Grooming Guide | ✅ Live | [/blogs/dog-breeds/chihuahua-grooming-guide](https://thewooffy.com/blogs/dog-breeds/chihuahua-grooming-guide) |
 | Chihuahua Puppy Checklist | ✅ Live | [/blogs/dog-breeds/chihuahua-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/chihuahua-puppy-checklist) |
+
+### Chihuahua vs Pomeranian: Size, Coat, Temperament, Cost *(Toy Breed Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Chihuahua vs Pomeranian: Size, Coat, Temperament, Cost | ✅ Live | [/blogs/dog-breeds/chihuahua-vs-pomeranian](https://thewooffy.com/blogs/dog-breeds/chihuahua-vs-pomeranian) |
 
 ### Chinese Crested *(Toy · Small)*
 | Article | Status | URL |
@@ -1059,6 +1069,11 @@
 | Labrador Retriever First-Year Costs | ✅ Live | [/blogs/dog-breeds/labrador-retriever-first-year-costs](https://thewooffy.com/blogs/dog-breeds/labrador-retriever-first-year-costs) |
 | Labrador Retriever Grooming Guide | ✅ Live | [/blogs/dog-breeds/labrador-retriever-grooming-guide](https://thewooffy.com/blogs/dog-breeds/labrador-retriever-grooming-guide) |
 | Labrador Retriever Puppy Checklist | ✅ Live | [/blogs/dog-breeds/labrador-retriever-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/labrador-retriever-puppy-checklist) |
+
+### Labrador Retriever vs German Shepherd: Family Dog or Working Partner? *(Popular Breed Comparisons · Comparison)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Labrador Retriever vs German Shepherd: Family Dog or Working Partner? | ✅ Live | [/blogs/dog-breeds/labrador-retriever-vs-german-shepherd](https://thewooffy.com/blogs/dog-breeds/labrador-retriever-vs-german-shepherd) |
 
 ### Labrador vs Golden Retriever *(Breed Comparisons · Comparison)*
 | Article | Status | URL |
