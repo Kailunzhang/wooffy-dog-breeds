@@ -7,10 +7,10 @@
 
 | Type | Count |
 |------|-------|
-| Breed guides | 221 |
+| Breed guides | 224 |
 | Supporting articles | 493 |
 | Roundup articles | 61 |
-| **Total** | **775** |
+| **Total** | **778** |
 
 ---
 
@@ -394,6 +394,11 @@
 | Boxer Grooming Guide | ✅ Live | [/blogs/dog-breeds/boxer-grooming-guide](https://thewooffy.com/blogs/dog-breeds/boxer-grooming-guide) |
 | Boxer Puppy Checks: Complete Pre-Arrival Checklist | ✅ Live | [/blogs/dog-breeds/boxer-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/boxer-puppy-checklist) |
 
+### Brachycephalic Dogs & BOAS: The 2026 Buyer Guide *(Brachycephalic Breed Health · Guide)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Brachycephalic Dogs & BOAS: The 2026 Buyer Guide | 🕐 Scheduled 2026-06-22 20:00 BJT | [/blogs/dog-breeds/brachycephalic-dogs-boas-buyer-guide](https://thewooffy.com/blogs/dog-breeds/brachycephalic-dogs-boas-buyer-guide) |
+
 ### Briard *(Herding · Large)*
 | Article | Status | URL |
 |---------|--------|-----|
@@ -742,6 +747,11 @@
 | Doberman Pinscher First Year Costs | ✅ Live | [/blogs/dog-breeds/doberman-pinscher-first-year-costs](https://thewooffy.com/blogs/dog-breeds/doberman-pinscher-first-year-costs) |
 | Doberman Pinscher Grooming Guide | ✅ Live | [/blogs/dog-breeds/doberman-pinscher-grooming-guide](https://thewooffy.com/blogs/dog-breeds/doberman-pinscher-grooming-guide) |
 | Doberman Pinscher Puppy Checklist | ✅ Live | [/blogs/dog-breeds/doberman-pinscher-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/doberman-pinscher-puppy-checklist) |
+
+### Dog Tick Prevention & Lyme Disease Guide 2026 *(Dog Health & Prevention · Guide)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Dog Tick Prevention & Lyme Disease Guide 2026 | 🕐 Scheduled 2026-06-22 20:00 BJT | [/blogs/dog-breeds/dog-tick-prevention-lyme-disease-guide](https://thewooffy.com/blogs/dog-breeds/dog-tick-prevention-lyme-disease-guide) |
 
 ### Dogue de Bordeaux *(Working · Giant)*
 | Article | Status | URL |
@@ -1636,6 +1646,11 @@
 | West Highland White Terrier First Year Costs | ✅ Live | [/blogs/dog-breeds/west-highland-white-terrier-first-year-costs](https://thewooffy.com/blogs/dog-breeds/west-highland-white-terrier-first-year-costs) |
 | West Highland White Terrier Grooming Guide | ✅ Live | [/blogs/dog-breeds/west-highland-white-terrier-grooming-guide](https://thewooffy.com/blogs/dog-breeds/west-highland-white-terrier-grooming-guide) |
 | West Highland White Terrier Puppy Checklist | ✅ Live | [/blogs/dog-breeds/west-highland-white-terrier-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/west-highland-white-terrier-puppy-checklist) |
+
+### When Is Pavement Too Hot for Dog Paws? The 7-Second Test + Safety Guide *(Seasonal Dog Care · Guide)*
+| Article | Status | URL |
+|---------|--------|-----|
+| When Is Pavement Too Hot for Dog Paws? The 7-Second Test + Safety Guide | 🕐 Scheduled 2026-06-22 20:00 BJT | [/blogs/dog-breeds/when-is-pavement-too-hot-for-dogs](https://thewooffy.com/blogs/dog-breeds/when-is-pavement-too-hot-for-dogs) |
 
 ### Whippet *(Hound Group · Medium Breed)*
 | Article | Status | URL |
