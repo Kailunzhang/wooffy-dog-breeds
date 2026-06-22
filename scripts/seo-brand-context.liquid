@@ -1,0 +1,83 @@
+{%- comment -%}
+  seo-brand-context.liquid - Wooffy brand reinforcement schema
+
+  ==========================================================
+  PASTE-INTO-SHOPIFY snippet. This file is in scripts/ for
+  reference only; the live theme reads from snippets/ in the
+  Shopify code editor.
+  ==========================================================
+
+  PURPOSE: Reinforce Google's recognition of "Wooffy" as the
+  canonical brand identity for thewooffy.com. The existing
+  Booster Apps SEO Organization schema correctly names the
+  brand "Wooffy" but:
+    1. Has no alternateName property (Google uses this for
+       variant brand-string matching).
+    2. The sameAs[] array contains empty strings from Shopify
+       theme social-media settings where some platforms are
+       configured with empty URLs (6 of 9 entries empty as of
+       2026-06-21).
+
+  This snippet emits a supplementary Organization JSON-LD
+  using the same @id as the canonical Organization, which
+  causes Google to MERGE the properties — adding alternateName,
+  description, knowsAbout, and a clean sameAs[] containing only
+  populated social profiles.
+
+  ==========================================================
+  HOW TO INSTALL (3 minutes in Shopify Admin)
+  ==========================================================
+
+  Step 1. Online Store → Themes → ⋯ (three dots) → Edit code
+
+  Step 2. Left sidebar → Snippets folder → "Add a new snippet"
+          → Name: seo-brand-context
+          → Paste THE ENTIRE CONTENTS OF THIS FILE
+            (the {% comment %} block is fine; Shopify strips it
+            from output)
+          → Save
+
+  Step 3. Left sidebar → Layout → theme.liquid
+          → Find the line: {{ content_for_header }}
+          → Right AFTER that line, add a new line:
+              {% render 'seo-brand-context' %}
+          → If you already have {% render 'seo-article-freshness' %},
+            put this new line right after it.
+          → Save
+
+  Step 4. Verify (1 minute): use https://search.google.com/test/rich-results
+          → enter https://thewooffy.com/
+          → confirm Organization schema shows alternateName +
+            cleaned sameAs[] without empty strings
+
+  Idempotent: emitting two JSON-LDs with the same @id is the
+  correct schema.org pattern for property merging. Google
+  handles this fine and treats it as a single Organization
+  entity with the union of properties.
+{%- endcomment -%}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "{{ shop.url }}/#organization",
+  "name": "Wooffy",
+  "alternateName": ["Wooffy.com", "Wooffy Dog Breed Guides"],
+  "url": "{{ shop.url }}",
+  "logo": "{{ shop.url }}/cdn/shop/files/Logo_a50e828c-1066-4eec-8ff2-e41bdf8e6808.png",
+  "description": "Wooffy publishes 700+ expert dog breed guides covering cost, care, grooming and nutrition for every dog — plus modern designer dog houses crafted for everyday comfort.",
+  "knowsAbout": [
+    "Dog breeds",
+    "Dog nutrition",
+    "Dog grooming",
+    "Puppy care",
+    "Dog health",
+    "Modern dog houses"
+  ],
+  "sameAs": [
+    "https://www.pinterest.com/wooffy_official/",
+    "https://www.instagram.com/wooffy_official/",
+    "https://www.youtube.com/@Wooffy_Official"
+  ]
+}
+</script>
