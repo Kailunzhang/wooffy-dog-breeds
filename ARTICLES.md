@@ -7,10 +7,10 @@
 
 | Type | Count |
 |------|-------|
-| Breed guides | 224 |
+| Breed guides | 227 |
 | Supporting articles | 493 |
 | Roundup articles | 61 |
-| **Total** | **778** |
+| **Total** | **781** |
 
 ---
 
@@ -748,6 +748,11 @@
 | Doberman Pinscher Grooming Guide | ✅ Live | [/blogs/dog-breeds/doberman-pinscher-grooming-guide](https://thewooffy.com/blogs/dog-breeds/doberman-pinscher-grooming-guide) |
 | Doberman Pinscher Puppy Checklist | ✅ Live | [/blogs/dog-breeds/doberman-pinscher-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/doberman-pinscher-puppy-checklist) |
 
+### Dog Food on a Budget 2026: How to Feed Well for Less Without Cutting Corners *(Dog Nutrition & Budget · Guide)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Dog Food on a Budget 2026: How to Feed Well for Less Without Cutting Corners | ✅ Live | [/blogs/dog-breeds/dog-food-on-a-budget-2026](https://thewooffy.com/blogs/dog-breeds/dog-food-on-a-budget-2026) |
+
 ### Dog Tick Prevention & Lyme Disease Guide 2026 *(Dog Health & Prevention · Guide)*
 | Article | Status | URL |
 |---------|--------|-----|
@@ -760,6 +765,11 @@
 | Dogue de Bordeaux First Year Costs | ✅ Live | [/blogs/dog-breeds/dogue-de-bordeaux-first-year-costs](https://thewooffy.com/blogs/dog-breeds/dogue-de-bordeaux-first-year-costs) |
 | Dogue de Bordeaux Grooming Guide | ✅ Live | [/blogs/dog-breeds/dogue-de-bordeaux-grooming-guide](https://thewooffy.com/blogs/dog-breeds/dogue-de-bordeaux-grooming-guide) |
 | Dogue de Bordeaux Puppy Checklist | ✅ Live | [/blogs/dog-breeds/dogue-de-bordeaux-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/dogue-de-bordeaux-puppy-checklist) |
+
+### Doodle Breeding Ethics 2026: Boom, Shelter Crisis, How to Find Ethical Breeders *(Dog Welfare & Buying · Guide)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Doodle Breeding Ethics 2026: Boom, Shelter Crisis, How to Find Ethical Breeders | ✅ Live | [/blogs/dog-breeds/doodle-breeding-ethics-2026](https://thewooffy.com/blogs/dog-breeds/doodle-breeding-ethics-2026) |
 
 ### English Cocker Spaniel *(Sporting Group · Medium Breed)*
 | Article | Status | URL |
@@ -1503,6 +1513,11 @@
 | Skye Terrier Cost Year 1: $3,500–$6,500 (Real Budget) | ✅ Live | [/blogs/dog-breeds/skye-terrier-first-year-costs](https://thewooffy.com/blogs/dog-breeds/skye-terrier-first-year-costs) |
 | Skye Terrier Grooming Guide | ✅ Live | [/blogs/dog-breeds/skye-terrier-grooming-guide](https://thewooffy.com/blogs/dog-breeds/skye-terrier-grooming-guide) |
 | Skye Terrier Puppy Checklist | ✅ Live | [/blogs/dog-breeds/skye-terrier-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/skye-terrier-puppy-checklist) |
+
+### Smart Dog Collar Buyer Guide 2026: Fi, Halo, Tractive Compared *(Dog Tech & Gear · Guide)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Smart Dog Collar Buyer Guide 2026: Fi, Halo, Tractive Compared | ✅ Live | [/blogs/dog-breeds/smart-dog-collar-buyer-guide-2026](https://thewooffy.com/blogs/dog-breeds/smart-dog-collar-buyer-guide-2026) |
 
 ### Soft Coated Wheaten Terrier *(Terrier Group · Medium Breed)*
 | Article | Status | URL |
