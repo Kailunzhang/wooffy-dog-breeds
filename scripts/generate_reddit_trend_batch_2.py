@@ -20,6 +20,7 @@ Run:
 from __future__ import annotations
 
 import json
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -31,21 +32,11 @@ PLACEHOLDER_HERO = (
     "keep-double-coated-dogs-cool-in-summer-hero.png?v=1782088032"
 )
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from wooffy_links import related_links_html as related_block  # noqa: E402
+
 P_STYLE = 'style="font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;"'
 H3_STYLE = 'style="font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;"'
-INTERNAL = "<!-- WOOFFY_INTERNAL_LINKS_v1 -->"
-
-
-def related_block(items: list[tuple[str, str]]) -> str:
-    ul = "".join(
-        f'<li><a href="https://thewooffy.com/blogs/dog-breeds/{p}">{label}</a></li>'
-        for p, label in items
-    )
-    return (
-        f"\n{INTERNAL}\n"
-        f'<section class="related-reading">\n<h2>Related Reading</h2>\n'
-        f"<ul>{ul}</ul>\n</section>"
-    )
 
 
 BUDGET_FOOD = {
