@@ -2,7 +2,7 @@
 
 Prerequisite: Pinterest Developer App created at
 https://developers.pinterest.com/apps/ with:
-  - Redirect URI: https://thewooffy.com/?pinterest-auth=1
+  - Redirect URI: https://thewooffy.com/    (no query params - Pinterest rejects)
   - Scopes requested (during user grant): boards:read, boards:write,
                                           pins:read, pins:write,
                                           user_accounts:read
@@ -27,7 +27,7 @@ import requests
 ROOT = Path(__file__).resolve().parent.parent
 ENV_PATH = ROOT / ".env"
 
-REDIRECT_URI = "https://thewooffy.com/?pinterest-auth=1"
+REDIRECT_URI = "https://thewooffy.com/"
 SCOPES = "boards:read,boards:write,pins:read,pins:write,user_accounts:read"
 TOKEN_ENDPOINT = "https://api.pinterest.com/v5/oauth/token"
 
