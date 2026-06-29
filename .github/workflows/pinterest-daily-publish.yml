@@ -1,0 +1,73 @@
+name: Wooffy Pinterest Daily Publish
+
+# Posts up to 6 unpublished pins per day via Pinterest API v5.
+# Runs 21:00 UTC daily (17:00 ET / 14:00 PT - end of US workday,
+# strong Pinterest browsing window).
+#
+# Sprint 1 = 40 pins from Top 20 articles (pinterest-sprint-1.md).
+# At batch=6/day this finishes in ~7 days.
+#
+# Required GitHub Secrets:
+#   PINTEREST_APP_ID
+#   PINTEREST_APP_SECRET
+#   PINTEREST_REFRESH_TOKEN
+#
+# State file (committed back to main):
+#   pinterest-published.json
+
+on:
+  schedule:
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+    inputs:
+      batch:
+        description: 'How many pins to post this run'
+        required: false
+        default: '6'
+
+permissions:
+  contents: write
+
+jobs:
+  pinterest-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Show pre-run status
+        env:
+          PINTEREST_APP_ID: ${{ secrets.PINTEREST_APP_ID }}
+          PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
+          PINTEREST_REFRESH_TOKEN: ${{ secrets.PINTEREST_REFRESH_TOKEN }}
+        run: python3 scripts/pinterest_api.py status
+
+      - name: Publish next batch
+        env:
+          PINTEREST_APP_ID: ${{ secrets.PINTEREST_APP_ID }}
+          PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
+          PINTEREST_REFRESH_TOKEN: ${{ secrets.PINTEREST_REFRESH_TOKEN }}
+        run: |
+          BATCH="${{ github.event.inputs.batch || '6' }}"
+          python3 scripts/pinterest_api.py publish --batch="$BATCH"
+
+      - name: Commit pinterest-published.json
+        run: |
+          if git diff --quiet pinterest-published.json; then
+            echo "No state change; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pinterest-published.json
+          git commit -m "chore(pinterest): daily auto-publish state update"
+          git push origin HEAD:main
