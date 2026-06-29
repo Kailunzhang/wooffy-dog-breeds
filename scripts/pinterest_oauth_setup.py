@@ -1,9 +1,14 @@
 """One-time Pinterest OAuth flow to obtain refresh_token.
 
+Uses a local HTTP server to auto-capture the OAuth callback - no manual
+URL copy-paste needed. Same pattern as ``gcloud auth login`` and ``gh
+auth login``.
+
 Prerequisite: Pinterest Developer App created at
 https://developers.pinterest.com/apps/ with:
-  - Redirect URI: http://localhost/    (Pinterest allows http+localhost;
-    avoids Shopify canonicalization that strips query params on real domains)
+  - Redirect URI: http://localhost:8765/callback
+    (Pinterest allows http+localhost; the port matters and must match
+    exactly.)
   - Scopes requested (during user grant): boards:read, boards:write,
                                           pins:read, pins:write,
                                           user_accounts:read
@@ -18,25 +23,34 @@ Run:
 from __future__ import annotations
 
 import base64
-import re
 import sys
 import urllib.parse
+import webbrowser
+from http.server import BaseHTTPRequestHandler, HTTPServer
 from pathlib import Path
+from typing import Optional
 
 import requests
 
 ROOT = Path(__file__).resolve().parent.parent
 ENV_PATH = ROOT / ".env"
 
-REDIRECT_URI = "http://localhost/"
+CALLBACK_HOST = "localhost"
+CALLBACK_PORT = 8765
+CALLBACK_PATH = "/callback"
+REDIRECT_URI = f"http://{CALLBACK_HOST}:{CALLBACK_PORT}{CALLBACK_PATH}"
 SCOPES = "boards:read,boards:write,pins:read,pins:write,user_accounts:read"
 TOKEN_ENDPOINT = "https://api.pinterest.com/v5/oauth/token"
+STATE = "wooffy-pinterest-setup"
 
 
 def load_env() -> dict[str, str]:
     env: dict[str, str] = {}
     if not ENV_PATH.exists():
-        sys.exit(f".env not found at {ENV_PATH}. Create one with PINTEREST_APP_ID and PINTEREST_APP_SECRET first.")
+        sys.exit(
+            f".env not found at {ENV_PATH}. Create one with PINTEREST_APP_ID "
+            f"and PINTEREST_APP_SECRET first."
+        )
     for line in ENV_PATH.read_text(encoding="utf-8").splitlines():
         line = line.strip()
         if not line or line.startswith("#") or "=" not in line:
@@ -48,7 +62,9 @@ def load_env() -> dict[str, str]:
 
 def write_env_keys(updates: dict[str, str]) -> None:
     """Append or update keys in .env (preserves other lines)."""
-    existing_lines = ENV_PATH.read_text(encoding="utf-8").splitlines() if ENV_PATH.exists() else []
+    existing_lines = (
+        ENV_PATH.read_text(encoding="utf-8").splitlines() if ENV_PATH.exists() else []
+    )
     keys_to_update = set(updates.keys())
     new_lines: list[str] = []
     for line in existing_lines:
@@ -73,14 +89,91 @@ def build_auth_url(app_id: str) -> str:
         "redirect_uri": REDIRECT_URI,
         "response_type": "code",
         "scope": SCOPES,
-        "state": "wooffy-pinterest-setup",
+        "state": STATE,
     }
     return "https://www.pinterest.com/oauth/?" + urllib.parse.urlencode(params)
 
 
-def extract_code(pasted: str) -> str | None:
-    match = re.search(r"[?&]code=([^&\s]+)", pasted)
-    return urllib.parse.unquote(match.group(1)) if match else None
+SUCCESS_HTML = b"""<!doctype html>
+<html><head><meta charset="utf-8"><title>Pinterest OAuth - Success</title>
+<style>
+body { font-family: -apple-system, system-ui, sans-serif; max-width: 560px;
+       margin: 80px auto; padding: 0 24px; color: #1a1a1a; }
+h1 { font-size: 24px; }
+p { font-size: 16px; line-height: 1.6; color: #444; }
+code { background: #f4f4f4; padding: 2px 6px; border-radius: 3px; }
+</style></head>
+<body>
+<h1>Pinterest authorization captured</h1>
+<p>You can close this tab. The terminal will continue automatically.</p>
+</body></html>
+"""
+
+ERROR_HTML = b"""<!doctype html>
+<html><head><meta charset="utf-8"><title>Pinterest OAuth - Error</title></head>
+<body><h1>Authorization failed</h1>
+<p>The callback URL did not contain a code parameter. Check the terminal
+for details and re-run the script.</p></body></html>
+"""
+
+
+class CallbackHandler(BaseHTTPRequestHandler):
+    """Captures the single OAuth callback request."""
+
+    captured_code: Optional[str] = None
+    captured_error: Optional[str] = None
+
+    def do_GET(self) -> None:  # noqa: N802 - http.server API
+        parsed = urllib.parse.urlparse(self.path)
+        if parsed.path != CALLBACK_PATH:
+            self.send_response(404)
+            self.end_headers()
+            return
+        params = urllib.parse.parse_qs(parsed.query)
+        code = params.get("code", [None])[0]
+        error = params.get("error", [None])[0]
+        if code:
+            CallbackHandler.captured_code = code
+            self.send_response(200)
+            self.send_header("Content-Type", "text/html; charset=utf-8")
+            self.send_header("Content-Length", str(len(SUCCESS_HTML)))
+            self.end_headers()
+            self.wfile.write(SUCCESS_HTML)
+        else:
+            CallbackHandler.captured_error = error or "no-code"
+            self.send_response(400)
+            self.send_header("Content-Type", "text/html; charset=utf-8")
+            self.send_header("Content-Length", str(len(ERROR_HTML)))
+            self.end_headers()
+            self.wfile.write(ERROR_HTML)
+
+    def log_message(self, format: str, *args: object) -> None:  # noqa: A002
+        pass  # suppress default access log
+
+
+def wait_for_callback() -> str:
+    """Bind localhost:CALLBACK_PORT, serve one request, return the code."""
+    try:
+        server = HTTPServer((CALLBACK_HOST, CALLBACK_PORT), CallbackHandler)
+    except OSError as exc:
+        sys.exit(
+            f"Cannot bind {CALLBACK_HOST}:{CALLBACK_PORT}: {exc}\n"
+            f"Another process is using this port. Stop it (or change "
+            f"CALLBACK_PORT in this script + update Pinterest App redirect "
+            f"URI to match)."
+        )
+    print(f"Local callback server listening on {REDIRECT_URI}")
+    print("Waiting for Pinterest to redirect after you click 'Connect'...")
+    while (
+        CallbackHandler.captured_code is None
+        and CallbackHandler.captured_error is None
+    ):
+        server.handle_request()
+    server.server_close()
+    if CallbackHandler.captured_error is not None:
+        sys.exit(f"OAuth callback returned error: {CallbackHandler.captured_error}")
+    assert CallbackHandler.captured_code is not None
+    return CallbackHandler.captured_code
 
 
 def exchange_code(app_id: str, app_secret: str, code: str) -> dict:
@@ -98,8 +191,9 @@ def exchange_code(app_id: str, app_secret: str, code: str) -> dict:
     if resp.status_code != 200:
         sys.exit(
             f"Token exchange failed (HTTP {resp.status_code}):\n  {resp.text}\n"
-            f"Common causes: wrong redirect URI (must match Pinterest App settings exactly), "
-            f"code already used (re-run from auth URL), expired code (use within 5 min)."
+            f"Common causes: wrong redirect URI (must match Pinterest App "
+            f"settings EXACTLY, including port), code already used (re-run), "
+            f"or expired code (use within 5 min)."
         )
     return resp.json()
 
@@ -126,26 +220,31 @@ def main() -> int:
     auth_url = build_auth_url(app_id)
     print()
     print("=" * 70)
-    print("STEP 1 - Open this URL in your browser (already-logged-into-Pinterest):")
+    print("Pinterest OAuth - one-time setup")
     print("=" * 70)
     print()
-    print(auth_url)
+    print("Required Pinterest App redirect URI (must match exactly):")
+    print(f"  {REDIRECT_URI}")
     print()
+    print("Opening this URL in your default browser:")
+    print(f"  {auth_url}")
+    print()
+    print("If the browser does NOT open automatically, copy the URL above")
+    print("and open it manually. Make sure you are logged in to the right")
+    print("Pinterest Business account first.")
+    print()
+    print("After you click 'Connect' on the Pinterest page, the browser")
+    print("will redirect back here automatically - no copy-paste needed.")
     print("=" * 70)
-    print("STEP 2 - Click 'Connect' to grant access.")
-    print("Pinterest will redirect to:")
-    print(f"    {REDIRECT_URI}&code=XXXXXX&state=wooffy-pinterest-setup")
     print()
-    print("STEP 3 - Copy the FULL URL from your browser address bar")
-    print("(the page may 404, that is fine; the code is in the URL).")
-    print("Then paste it below and press Enter:")
-    print("=" * 70)
-    print()
-    pasted = input("Paste redirect URL: ").strip()
-    code = extract_code(pasted)
-    if not code:
-        sys.exit("Could not find ?code=... in the pasted URL. Re-run the script.")
-    print(f"Extracted code: {code[:12]}...")
+
+    try:
+        webbrowser.open(auth_url)
+    except Exception:
+        pass
+
+    code = wait_for_callback()
+    print(f"Captured code: {code[:12]}...")
     print()
     print("Exchanging code for tokens...")
     tokens = exchange_code(app_id, app_secret, code)
@@ -175,10 +274,9 @@ def main() -> int:
     print()
     print("Next steps:")
     print("  1. python3 scripts/pinterest_api.py setup-boards     # creates 8 boards + saves IDs")
-    print("  2. python3 scripts/pinterest_api.py publish --batch=3  # dry-run, posts 3 pins")
+    print("  2. python3 scripts/pinterest_api.py publish --batch=3  # posts 3 pins")
     print("  3. Add PINTEREST_APP_ID, PINTEREST_APP_SECRET, PINTEREST_REFRESH_TOKEN")
-    print("     as GitHub Repository Secrets (Settings > Secrets and variables > Actions)")
-    print("     so the daily cron workflow can run unattended.")
+    print("     as GitHub Repository Secrets so the daily cron runs unattended.")
     return 0
 
 
