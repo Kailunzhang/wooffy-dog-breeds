@@ -357,9 +357,11 @@ def validate_rewrite(original: dict, rewritten: dict) -> str | None:
     wc = len(text.split())
     if wc < MIN_WORDS_AFTER:
         return f"too short after rewrite: {wc} words (need {MIN_WORDS_AFTER}+)"
-    links_o = set(re.findall(r'href="([^"]+)"', json.dumps(secs_o)))
-    links_r = set(re.findall(r'href="([^"]+)"', json.dumps(secs_r)))
-    missing = links_o - links_r
+    def links_of(secs: dict) -> set[str]:
+        html = " ".join(s.get("html", "") for s in secs.values() if isinstance(s, dict))
+        return set(re.findall(r'href="([^"]+)"', html))
+
+    missing = links_of(secs_o) - links_of(secs_r)
     if missing:
         return f"links dropped: {sorted(missing)[:3]}"
     return None
