@@ -1,0 +1,821 @@
+{
+  "targets": {
+    "affenpinscher-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "afghan-hound-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.065
+    },
+    "airedale-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.813
+    },
+    "akita-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.787
+    },
+    "alaskan-malamute-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.771
+    },
+    "american-eskimo-dog-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.761
+    },
+    "american-foxhound-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.763
+    },
+    "american-staffordshire-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.859
+    },
+    "american-water-spaniel-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.777
+    },
+    "anatolian-shepherd-dog-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.744
+    },
+    "aussiedoodle-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.817
+    },
+    "australian-cattle-dog-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.713
+    },
+    "australian-shepherd-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.902
+    },
+    "australian-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.841
+    },
+    "basenji-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.069
+    },
+    "basset-hound-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "beagle-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.902
+    },
+    "bearded-collie-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.822
+    },
+    "beauceron-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.86
+    },
+    "bedlington-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.804
+    },
+    "belgian-malinois-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.779
+    },
+    "belgian-sheepdog-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.902
+    },
+    "belgian-tervuren-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.914
+    },
+    "bernedoodle-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.817
+    },
+    "bernese-mountain-dog-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.753
+    },
+    "bichon-frise-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "black-and-tan-coonhound-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.517
+    },
+    "bloodhound-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.08
+    },
+    "bluetick-coonhound-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.839
+    },
+    "border-collie-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.771
+    },
+    "border-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "borzoi-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.065
+    },
+    "boston-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.787
+    },
+    "bouvier-des-flandres-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.892
+    },
+    "boxer-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.83
+    },
+    "briard-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.892
+    },
+    "brittany-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.062
+    },
+    "brussels-griffon-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.871
+    },
+    "bull-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.839
+    },
+    "bulldog-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.779
+    },
+    "bullmastiff-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.804
+    },
+    "cairn-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "cane-corso-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "cardigan-welsh-corgi-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.796
+    },
+    "cavalier-king-charles-spaniel-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "cavapoo-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.817
+    },
+    "chesapeake-bay-retriever-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.785
+    },
+    "chihuahua-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.747
+    },
+    "chinese-crested-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.851
+    },
+    "chinese-shar-pei-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "chow-chow-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.804
+    },
+    "clumber-spaniel-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.077
+    },
+    "cocker-spaniel-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.822
+    },
+    "collie-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.796
+    },
+    "coton-de-tulear-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.644
+    },
+    "dachshund-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.804
+    },
+    "dalmatian-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.804
+    },
+    "doberman-pinscher-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.796
+    },
+    "dogue-de-bordeaux-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.622
+    },
+    "english-cocker-spaniel-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.785
+    },
+    "english-setter-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.779
+    },
+    "english-springer-spaniel-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.779
+    },
+    "entlebucher-mountain-dog-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.835
+    },
+    "field-spaniel-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.785
+    },
+    "finnish-lapphund-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.924
+    },
+    "finnish-spitz-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.755
+    },
+    "flat-coated-retriever-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.688
+    },
+    "french-bulldog-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "german-pinscher-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "german-shepherd-dog-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "german-shorthaired-pointer-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.831
+    },
+    "german-wirehaired-pointer-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.763
+    },
+    "giant-schnauzer-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.077
+    },
+    "golden-retriever-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "goldendoodle-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.817
+    },
+    "gordon-setter-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.755
+    },
+    "great-dane-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.802
+    },
+    "great-pyrenees-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.763
+    },
+    "greater-swiss-mountain-dog-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.08
+    },
+    "greyhound-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "harrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.831
+    },
+    "havanese-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.822
+    },
+    "ibizan-hound-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.811
+    },
+    "icelandic-sheepdog-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.936
+    },
+    "irish-setter-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.849
+    },
+    "irish-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "irish-water-spaniel-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.802
+    },
+    "irish-wolfhound-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.755
+    },
+    "italian-greyhound-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "japanese-chin-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "keeshond-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "kerry-blue-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.792
+    },
+    "komondor-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "labradoodle-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.817
+    },
+    "labrador-retriever-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "lagotto-romagnolo-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.76
+    },
+    "lakeland-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.924
+    },
+    "leonberger-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.08
+    },
+    "lhasa-apso-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "lowchen-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "maltese-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "mastiff-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.82
+    },
+    "miniature-american-shepherd-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.771
+    },
+    "miniature-bull-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.733
+    },
+    "miniature-pinscher-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "miniature-poodle-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "miniature-schnauzer-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.813
+    },
+    "neapolitan-mastiff-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.087
+    },
+    "newfoundland-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.779
+    },
+    "norfolk-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.804
+    },
+    "norwegian-elkhound-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.839
+    },
+    "norwich-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.804
+    },
+    "nova-scotia-duck-tolling-retriever-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.674
+    },
+    "old-english-sheepdog-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.75
+    },
+    "otterhound-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.771
+    },
+    "papillon-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "parson-russell-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.796
+    },
+    "pekingese-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "pembroke-welsh-corgi-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.86
+    },
+    "pharaoh-hound-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.822
+    },
+    "pointer-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.071
+    },
+    "polish-lowland-sheepdog-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.925
+    },
+    "pomeranian-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.787
+    },
+    "portuguese-water-dog-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.753
+    },
+    "pug-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.763
+    },
+    "puli-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.914
+    },
+    "redbone-coonhound-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.752
+    },
+    "rhodesian-ridgeback-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.067
+    },
+    "rottweiler-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.892
+    },
+    "russell-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.881
+    },
+    "saint-bernard-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.771
+    },
+    "saluki-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.787
+    },
+    "samoyed-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.779
+    },
+    "schipperke-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "scottish-deerhound-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.087
+    },
+    "scottish-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.841
+    },
+    "sheepadoodle-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.817
+    },
+    "shetland-sheepdog-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.779
+    },
+    "shiba-inu-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.777
+    },
+    "shih-tzu-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "siberian-husky-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.902
+    },
+    "silky-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.804
+    },
+    "skye-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.787
+    },
+    "soft-coated-wheaten-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.711
+    },
+    "spanish-water-dog-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.698
+    },
+    "spinone-italiano-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.777
+    },
+    "staffordshire-bull-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.804
+    },
+    "standard-poodle-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.087
+    },
+    "standard-schnauzer-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.776
+    },
+    "swedish-vallhund-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "tibetan-mastiff-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "tibetan-spaniel-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "tibetan-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "toy-fox-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.779
+    },
+    "vizsla-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.771
+    },
+    "weimaraner-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.779
+    },
+    "welsh-springer-spaniel-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.777
+    },
+    "welsh-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "west-highland-white-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.727
+    },
+    "whippet-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "wire-fox-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "wirehaired-pointing-griffon-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.785
+    },
+    "xoloitzcuintli-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.0
+    },
+    "yorkshire-terrier-first-year-costs": {
+      "cluster": "costs",
+      "templated_fraction": 0.796
+    },
+    "beagle-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.673
+    },
+    "bluetick-coonhound-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.673
+    },
+    "cocker-spaniel-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.687
+    },
+    "doberman-pinscher-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.673
+    },
+    "entlebucher-mountain-dog-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.543
+    },
+    "finnish-lapphund-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.654
+    },
+    "finnish-spitz-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.65
+    },
+    "german-shorthaired-pointer-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.687
+    },
+    "golden-retriever-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.66
+    },
+    "harrier-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.68
+    },
+    "ibizan-hound-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.63
+    },
+    "icelandic-sheepdog-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.68
+    },
+    "irish-setter-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.68
+    },
+    "norfolk-terrier-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.632
+    },
+    "norwich-terrier-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.644
+    },
+    "parson-russell-terrier-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.62
+    },
+    "pembroke-welsh-corgi-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.687
+    },
+    "pharaoh-hound-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.716
+    },
+    "rottweiler-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.716
+    },
+    "russell-terrier-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.65
+    },
+    "siberian-husky-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.687
+    },
+    "silky-terrier-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.647
+    },
+    "toy-fox-terrier-grooming-guide": {
+      "cluster": "grooming",
+      "templated_fraction": 0.632
+    }
+  },
+  "boilerplate": {
+    "costs": [
+      "reserve private training for specific issues a group setting cannot address.",
+      "a #-pound bag of premium kibble is roughly # percent cheaper per pound than a #-pound bag.",
+      "the statistical likelihood that a first-year puppy needs at least one unscheduled vet visit is high &mdash; ingested objects, gi upset, minor injuries, ear infections.",
+      "why are first-year costs so much higher than later years?",
+      "adult kibble is similarly priced to puppy kibble.",
+      "plan as if at least one will happen.",
+      "once these are paid, ongoing annual costs settle into a much lower steady state.",
+      "national breed clubs maintain rescue networks.",
+      "separate emergency insurance kicks in for catastrophic costs.",
+      "group puppy class over private training.",
+      "premiums for the same coverage can vary # percent across companies.",
+      "one-time setup (crate, leashes, bowls, beds, training): #&ndash;#%.",
+      "compare three insurance quotes before enrolling.",
+      "third, the one-time setup (crate, beds, bowls, leashes, baby gates, training classes) is concentrated in the first three months.",
+      "training escalation if behavior problems emerge.",
+      "use prescription discount services for chronic meds.",
+      "store in an airtight container in a cool dry place; quality kibble keeps # weeks once opened.",
+      "chewed shoes, scratched doors, the rug.",
+      "years # through # are typically the cheapest.",
+      "use wellness plans for routine, insurance for emergencies.",
+      "a single one-week trip can be $#&ndash;$#",
+      "if you travel or work long days, $#&ndash;$# per day adds up fast.",
+      "a basic puppy class is $#&ndash;$#",
+      "the places where smart owners legitimately save: adopt from a breed-specific rescue.",
+      "the flexible budget &mdash; spend more on whichever the breed or your situation requires.",
+      "build a buffer for these: one emergency vet visit ($#&ndash;$#+).",
+      "the line items above add up to a real number, but the proportions surprise most new owners: acquisition (puppy price or adoption fee): #&ndash;#% of year one.",
+      "year two saves $#&ndash;$# versus year one.",
+      "largely paid in the first three months.",
+      "years #&ndash;# are typically the cheapest medically."
+    ],
+    "grooming": [
+      "missing mats until they tighten against the skin.",
+      "use a veterinary ear cleaner, never water or alcohol.",
+      "seasonal coat changes most double-coated breeds blow their undercoat twice a year &mdash; once in spring as the heavy winter coat is shed for a lighter summer coat, and once in fall as the heavier winter coat grows in.",
+      "standard full groom (medium-coat or double-coat): $#&ndash;$# every #&ndash;# weeks.",
+      "for severe aversion, a fear-free certified groomer or a veterinary behaviorist can help.",
+      "common grooming mistakes that cause skin problems over-bathing.",
+      "ndgaa certification is a useful but not required signal.",
+      "continuously growing hair that does not shed in a typical way.",
+      "brush in the direction of hair growth and section the coat for thorough coverage.",
+      "look between toes for embedded grass seeds, check pad condition, look for hot spots, lumps, or fleas.",
+      "the weekly home grooming routine even breeds that visit a professional groomer regularly need home care between appointments.",
+      "single-coat breeds shed at a steady year-round rate without the dramatic seasonal events.",
+      "frequent washing strips the natural oils that protect the skin barrier, causing dryness, itching, and sometimes secondary infections.",
+      "the wire texture is maintained by either hand-stripping (preserves color and texture) or clipping (faster and cheaper but softens the coat over time).",
+      "sheds year-round at a steady rate but rarely \"blows\" coat.",
+      "during these #&ndash;# week periods, expect three to four times the normal amount of loose hair and daily brushing requirements.",
+      "a small mat is easy to brush out; a mat that has tightened against the skin can only be safely removed by shaving the entire area.",
+      "tooth brushing (#+ times per week).",
+      "requires the most frequent professional grooming &mdash; a full groom every #&ndash;# weeks &mdash; and daily brushing to prevent mats.",
+      "over-aggressive use on a single-coat breed strips the protective topcoat.",
+      "wipe gently with cotton; never insert a swab into the ear canal.",
+      "misusing the undercoat rake or furminator.",
+      "includes bath, blow-dry, brush-out, nail trim, ear cleaning, and minor trimming.",
+      "most owners with short-coat breeds do this at home.",
+      "continuously-growing or curly coat full groom: $#&ndash;$# every #&ndash;# weeks.",
+      "working breeds in dirty conditions or breeds with skin allergies may need a medicated bath weekly under veterinary guidance.",
+      "the correct hot-weather management is regular brushing to remove loose undercoat and provision of shade and water &mdash; not shaving.",
+      "one layer of hair, minimal undercoat.",
+      "ask a breed-specific facebook group or your veterinarian for a referral.",
+      "sheds heavily twice a year &mdash; spring and fall &mdash; in week-long \"coat blow\" events."
+    ],
+    "checklist": [
+      "complete puppy vaccination series: core vaccines at # # and # weeks."
+    ]
+  }
+}
