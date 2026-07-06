@@ -59,7 +59,8 @@ STATE_PATH = ROOT / "detemplatize-state.json"
 
 API_URL = "https://api.anthropic.com/v1/messages"
 DEFAULT_MODEL = "claude-sonnet-5"
-MAX_OUTPUT_TOKENS = 4000
+MAX_OUTPUT_TOKENS = 16000  # 2,000-4,000 words of inline-styled HTML JSON
+MIN_WORDS_AFTER = 1700     # validation floor (sections only, FAQ adds more)
 
 # Articles with templated fraction above this go on the rewrite list.
 TEMPLATED_THRESHOLD = 0.25
@@ -223,22 +224,49 @@ Rewrite requirements:
 - PRESERVE HTML conventions: keep the original's inline-style formatting approach (style attributes on <p>/<h3>/<ul>/<table> etc.); structure may change form.
 - PRESERVE any <a href> links exactly (same URLs; anchor text may be rephrased).
 - VARY structure: do not follow the original's paragraph order slavishly; reorganize where it improves flow.
-- INJECT breed specificity: weave the provided breed facts into the narrative (coat type changes grooming cost/effort; size changes food cost; known health conditions change vet/insurance considerations). At least 25% of the rewritten text should be breed-specific in a way that would NOT make sense pasted into a different breed's article.
-- Total length: 950-1500 words across all sections (expand thin sections with breed-specific detail).
-- FAQ: rewrite each answer's phrasing, keep facts; you may rephrase questions; keep the same number of FAQ entries or add one breed-specific entry.
+- INJECT breed specificity: weave the provided breed facts into the narrative (coat type changes grooming cost/effort; size changes food cost; known health conditions change vet/insurance considerations). At least 30% of the rewritten text should be breed-specific in a way that would NOT make sense pasted into a different breed's article.
+- Total length: 2,200-3,500 words across all sections. This is an EXPANSION rewrite, not a compression. Never pad with fluff - expand with substance using the EXPANSION GUIDANCE provided in the user message. Add <h3> subheadings (with the original's inline-style conventions) to structure the longer sections.
+- Tables: where the original has a table, keep a table (may restructure); where a cost/schedule breakdown would clarify, add one.
+- FAQ: rewrite each answer's phrasing, keep facts; you may rephrase questions; expand answers to 60-120 words each; add 1-2 new breed-specific FAQ entries.
 - Tone: expert but warm, practical, first-hand. No fluff, no 'in conclusion', no 'it's important to note'.
 
 Output ONLY valid JSON with this exact shape (no markdown fences):
 {"sections": {"<key>": {"label": "...", "heading": "...", "html": "..."}, ...}, "faq": [{"q": "...", "a": "..."}, ...]}"""
 
 
-def build_user_prompt(data: dict, breed_facts: dict, forbidden: list[str]) -> str:
+EXPANSION_GUIDANCE = {
+    "costs": """EXPANSION GUIDANCE for first-year-cost articles (reach 2,200-3,500 words with substance, not padding):
+- Month-by-month first-year cost timeline (months 1-3 setup-heavy, 4-6 vaccines/training, 7-12 steady state) with this breed's specifics
+- Breed-specific health cost scenarios: use the known health conditions from BREED FACTS - what does screening/treatment for THOSE conditions cost, and how does it shape insurance choice for this breed
+- Food cost math tied to this breed's adult weight: cups per day, bag size economics, puppy vs adult formula transition timing
+- Grooming line item tied to this breed's actual coat: DIY tool kit one-time cost vs professional schedule annual cost
+- Budget path vs premium path: two realistic first-year totals for this breed, itemized
+- One-time vs recurring cost table
+- 3-4 breed-specific money-saving tactics that do NOT compromise welfare (and 1-2 false economies to avoid for this breed specifically)
+- Regional variation note (urban vs suburban US pricing)
+- Rescue/adoption route cost comparison for this breed if plausible""",
+    "grooming": """EXPANSION GUIDANCE for grooming-guide articles (reach 2,200-3,500 words with substance, not padding):
+- Coat development timeline: puppy coat -> adult coat transition for THIS coat type, and how grooming changes at each stage
+- Seasonal calendar: what shedding/coat care looks like across the year for this breed
+- Complete tool list with technique: which brush/comb/tool, why for this coat, how to use it, what it costs
+- Step-by-step bath protocol for this coat type (frequency, water temp, shampoo type, drying - especially drying time/method for this coat)
+- DIY vs professional groomer: realistic schedule and annual cost for this breed, what to ask the groomer for
+- Ears/nails/teeth/paws routine specific to this breed's known issues
+- 3-5 common grooming mistakes owners of THIS breed make and the consequence of each
+- Matting/blowout/stripping specifics if relevant to this coat type; skip irrelevant techniques""",
+}
+
+
+def build_user_prompt(data: dict, breed_facts: dict, forbidden: list[str],
+                      cluster: str) -> str:
     payload = {
         "sections": data.get("sections") or {},
         "faq": data.get("faq") or [],
     }
+    guidance = EXPANSION_GUIDANCE.get(cluster, "")
     return (
         f"BREED FACTS:\n{json.dumps(breed_facts, ensure_ascii=False, indent=1)}\n\n"
+        f"{guidance}\n\n"
         f"FORBIDDEN BOILERPLATE (do not reuse these phrasings):\n"
         + "\n".join(f"- {s[:160]}" for s in forbidden[:20])
         + f"\n\nCURRENT ARTICLE JSON:\n{json.dumps(payload, ensure_ascii=False)}"
@@ -292,7 +320,7 @@ def call_claude(api_key: str, model: str, system: str, user: str) -> str:
             "system": system,
             "messages": [{"role": "user", "content": user}],
         },
-        timeout=180,
+        timeout=300,
     )
     if resp.status_code == 429:
         raise RuntimeError("rate-limited")
@@ -327,8 +355,8 @@ def validate_rewrite(original: dict, rewritten: dict) -> str | None:
             return "faq entry malformed"
     text = TAG.sub(" ", " ".join(s.get("html", "") for s in secs_r.values()))
     wc = len(text.split())
-    if wc < 700:
-        return f"too short after rewrite: {wc} words"
+    if wc < MIN_WORDS_AFTER:
+        return f"too short after rewrite: {wc} words (need {MIN_WORDS_AFTER}+)"
     links_o = set(re.findall(r'href="([^"]+)"', json.dumps(secs_o)))
     links_r = set(re.findall(r'href="([^"]+)"', json.dumps(secs_r)))
     missing = links_o - links_r
@@ -385,7 +413,7 @@ def cmd_rewrite(limit: int, model: str) -> int:
             wc_before = len(article_text(data).split())
             facts = breed_facts_for(stem)
             forbidden = boiler.get(info["cluster"], [])
-            user = build_user_prompt(data, facts, forbidden)
+            user = build_user_prompt(data, facts, forbidden, info["cluster"])
             rewritten = None
             for attempt in (1, 2):
                 try:
