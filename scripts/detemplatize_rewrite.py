@@ -225,13 +225,37 @@ Rewrite requirements:
 - PRESERVE any <a href> links exactly (same URLs; anchor text may be rephrased).
 - VARY structure: do not follow the original's paragraph order slavishly; reorganize where it improves flow.
 - INJECT breed specificity: weave the provided breed facts into the narrative (coat type changes grooming cost/effort; size changes food cost; known health conditions change vet/insurance considerations). At least 30% of the rewritten text should be breed-specific in a way that would NOT make sense pasted into a different breed's article.
-- Total length: 2,200-3,500 words across all sections. This is an EXPANSION rewrite, not a compression. Never pad with fluff - expand with substance using the EXPANSION GUIDANCE provided in the user message. Add <h3> subheadings (with the original's inline-style conventions) to structure the longer sections.
+- HARD LENGTH REQUIREMENT: the combined text across all section html fields MUST exceed 1,900 words - an automated validator rejects anything shorter. Aim for 2,300-3,200 words. Each individual section must be at least 550 words. This is an EXPANSION rewrite, not a compression. Never pad with fluff - expand with substance using the EXPANSION GUIDANCE provided in the user message; if a section feels complete but the total is short, deepen it with GUIDANCE topics you have not yet covered. Add <h3> subheadings (with the original's inline-style conventions) to structure the longer sections.
 - Tables: where the original has a table, keep a table (may restructure); where a cost/schedule breakdown would clarify, add one.
 - FAQ: rewrite each answer's phrasing, keep facts; you may rephrase questions; expand answers to 60-120 words each; add 1-2 new breed-specific FAQ entries.
 - Tone: expert but warm, practical, first-hand. No fluff, no 'in conclusion', no 'it's important to note'.
 
 Output ONLY valid JSON with this exact shape (no markdown fences):
 {"sections": {"<key>": {"label": "...", "heading": "...", "html": "..."}, ...}, "faq": [{"q": "...", "a": "..."}, ...]}"""
+
+
+RELATED_RE = re.compile(r"\n?<!-- WOOFFY_INTERNAL_LINKS_v1 -->.*$", re.S)
+
+
+def strip_related(sections: dict) -> tuple[dict, dict]:
+    """Remove the machine-injected Related Reading block before sending to
+    the model; return (stripped_sections, {section_key: related_html}) so
+    the block can be re-appended verbatim after the rewrite. The model
+    never sees it, so it can never drop or corrupt those links."""
+    stripped: dict = {}
+    stash: dict = {}
+    for k, s in sections.items():
+        if not isinstance(s, dict):
+            stripped[k] = s
+            continue
+        html = s.get("html", "")
+        m = RELATED_RE.search(html)
+        s2 = dict(s)
+        if m:
+            stash[k] = m.group(0).strip()
+            s2["html"] = html[: m.start()].rstrip()
+        stripped[k] = s2
+    return stripped, stash
 
 
 EXPANSION_GUIDANCE = {
@@ -257,15 +281,20 @@ EXPANSION_GUIDANCE = {
 }
 
 
-def build_user_prompt(data: dict, breed_facts: dict, forbidden: list[str],
+def build_user_prompt(payload: dict, breed_facts: dict, forbidden: list[str],
                       cluster: str) -> str:
-    payload = {
-        "sections": data.get("sections") or {},
-        "faq": data.get("faq") or [],
-    }
     guidance = EXPANSION_GUIDANCE.get(cluster, "")
+    src_words = len(
+        TAG.sub(" ", " ".join(
+            s.get("html", "") for s in payload["sections"].values()
+            if isinstance(s, dict)
+        )).split()
+    )
     return (
         f"BREED FACTS:\n{json.dumps(breed_facts, ensure_ascii=False, indent=1)}\n\n"
+        f"LENGTH: the source article is {src_words} words. Your rewrite MUST "
+        f"exceed 1,950 words across the section html fields (aim 2,300-3,200); "
+        f"an automated validator rejects shorter output.\n\n"
         f"{guidance}\n\n"
         f"FORBIDDEN BOILERPLATE (do not reuse these phrasings):\n"
         + "\n".join(f"- {s[:160]}" for s in forbidden[:20])
@@ -415,27 +444,46 @@ def cmd_rewrite(limit: int, model: str) -> int:
             wc_before = len(article_text(data).split())
             facts = breed_facts_for(stem)
             forbidden = boiler.get(info["cluster"], [])
-            user = build_user_prompt(data, facts, forbidden, info["cluster"])
+            secs_stripped, related_stash = strip_related(data.get("sections") or {})
+            work = {"sections": secs_stripped, "faq": data.get("faq") or []}
+            user = build_user_prompt(work, facts, forbidden, info["cluster"])
             rewritten = None
-            for attempt in (1, 2):
+            for attempt in (1, 2, 3):
                 try:
                     raw = call_claude(api_key, model, REWRITE_SYSTEM, user)
                     rewritten = parse_rewrite(raw)
-                    err = validate_rewrite(data, rewritten)
+                    err = validate_rewrite(work, rewritten)
                     if err is None:
                         break
-                    if attempt == 2:
+                    if attempt == 3:
                         raise RuntimeError(f"validation failed: {err}")
+                    fix_hint = ""
+                    if "too short" in err:
+                        m_wc = re.search(r"(\d+) words", err)
+                        got = int(m_wc.group(1)) if m_wc else 0
+                        fix_hint = (
+                            f" Add at least {max(400, 1950 - got)} more words of "
+                            f"substantive breed-specific content using EXPANSION "
+                            f"GUIDANCE topics you have not yet covered (e.g. "
+                            f"month-by-month timeline, budget-vs-premium paths, "
+                            f"breed-vs-breed comparison, regional pricing). Do not pad."
+                        )
                     user += (
-                        f"\n\nYOUR PREVIOUS ATTEMPT FAILED VALIDATION: {err}. "
-                        f"Fix this and output the full corrected JSON."
+                        f"\n\nYOUR PREVIOUS ATTEMPT FAILED VALIDATION: {err}."
+                        f"{fix_hint} Output the full corrected JSON."
                     )
                 except (json.JSONDecodeError, RuntimeError) as e:
-                    if attempt == 2:
+                    if attempt == 3:
                         raise
                     if "rate-limited" in str(e):
                         time.sleep(30)
-            data["sections"] = rewritten["sections"]
+            new_secs = rewritten["sections"]
+            for k, block in related_stash.items():
+                if k in new_secs and isinstance(new_secs[k], dict):
+                    new_secs[k]["html"] = (
+                        new_secs[k].get("html", "").rstrip() + "\n" + block
+                    )
+            data["sections"] = new_secs
             data["faq"] = rewritten["faq"]
             path.write_text(
                 json.dumps(data, ensure_ascii=False, indent=2),

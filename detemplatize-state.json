@@ -1,0 +1,34 @@
+{
+  "icelandic-sheepdog-first-year-costs": {
+    "status": "done",
+    "cluster": "costs",
+    "words_before": 1756,
+    "words_after": 2303,
+    "model": "claude-sonnet-5",
+    "ts": "2026-07-12T05:44:07+00:00"
+  },
+  "polish-lowland-sheepdog-first-year-costs": {
+    "status": "done",
+    "cluster": "costs",
+    "words_before": 1251,
+    "words_after": 2157,
+    "model": "claude-sonnet-5",
+    "ts": "2026-07-12T06:09:21+00:00"
+  },
+  "finnish-lapphund-first-year-costs": {
+    "status": "done",
+    "cluster": "costs",
+    "words_before": 1235,
+    "words_after": 1906,
+    "model": "claude-sonnet-5",
+    "ts": "2026-07-12T06:11:08+00:00"
+  },
+  "lakeland-terrier-first-year-costs": {
+    "status": "done",
+    "cluster": "costs",
+    "words_before": 1223,
+    "words_after": 2541,
+    "model": "claude-sonnet-5",
+    "ts": "2026-07-12T06:02:24+00:00"
+  }
+}
