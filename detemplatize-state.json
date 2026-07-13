@@ -1119,11 +1119,6 @@
     "model": "claude-sonnet-5",
     "ts": "2026-07-13T02:42:20+00:00"
   },
-  "bloodhound-first-year-costs": {
-    "status": "failed",
-    "error": "validation failed: too short after rewrite: 1606 words (need 1700+)",
-    "ts": "2026-07-13T02:45:48+00:00"
-  },
   "greater-swiss-mountain-dog-first-year-costs": {
     "status": "done",
     "cluster": "costs",
@@ -1419,5 +1414,85 @@
     "words_after": 1836,
     "model": "claude-sonnet-5",
     "ts": "2026-07-13T04:06:25+00:00"
+  },
+  "shih-tzu-first-year-costs": {
+    "status": "done",
+    "cluster": "costs",
+    "words_before": 892,
+    "words_after": 2352,
+    "model": "claude-sonnet-5",
+    "ts": "2026-07-13T04:11:23+00:00"
+  },
+  "swedish-vallhund-first-year-costs": {
+    "status": "done",
+    "cluster": "costs",
+    "words_before": 621,
+    "words_after": 1772,
+    "model": "claude-sonnet-5",
+    "ts": "2026-07-13T04:14:57+00:00"
+  },
+  "tibetan-mastiff-first-year-costs": {
+    "status": "done",
+    "cluster": "costs",
+    "words_before": 729,
+    "words_after": 2339,
+    "model": "claude-sonnet-5",
+    "ts": "2026-07-13T04:18:54+00:00"
+  },
+  "tibetan-terrier-first-year-costs": {
+    "status": "done",
+    "cluster": "costs",
+    "words_before": 566,
+    "words_after": 1796,
+    "model": "claude-sonnet-5",
+    "ts": "2026-07-13T04:26:32+00:00"
+  },
+  "welsh-terrier-first-year-costs": {
+    "status": "done",
+    "cluster": "costs",
+    "words_before": 536,
+    "words_after": 2201,
+    "model": "claude-sonnet-5",
+    "ts": "2026-07-13T04:30:17+00:00"
+  },
+  "whippet-first-year-costs": {
+    "status": "done",
+    "cluster": "costs",
+    "words_before": 934,
+    "words_after": 2372,
+    "model": "claude-sonnet-5",
+    "ts": "2026-07-13T04:35:00+00:00"
+  },
+  "wire-fox-terrier-first-year-costs": {
+    "status": "done",
+    "cluster": "costs",
+    "words_before": 543,
+    "words_after": 1917,
+    "model": "claude-sonnet-5",
+    "ts": "2026-07-13T04:36:25+00:00"
+  },
+  "xoloitzcuintli-first-year-costs": {
+    "status": "done",
+    "cluster": "costs",
+    "words_before": 540,
+    "words_after": 1941,
+    "model": "claude-sonnet-5",
+    "ts": "2026-07-13T04:38:00+00:00"
+  },
+  "bloodhound-first-year-costs": {
+    "status": "done",
+    "cluster": "costs",
+    "words_before": 549,
+    "words_after": 1784,
+    "model": "claude-sonnet-5",
+    "ts": "2026-07-13T05:13:42+00:00"
+  },
+  "tibetan-spaniel-first-year-costs": {
+    "status": "done",
+    "cluster": "costs",
+    "words_before": 565,
+    "words_after": 1838,
+    "model": "claude-sonnet-5",
+    "ts": "2026-07-13T05:16:15+00:00"
   }
 }
