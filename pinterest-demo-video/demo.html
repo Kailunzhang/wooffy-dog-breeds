@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Wooffy Pinterest Publisher — App Demo</title>
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<style>
+  html, body { margin: 0; padding: 0; background: #000; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+
+<script type="text/babel">
+/* ══════════════════ animations.jsx engine (inlined) ══════════════════ */
+(function() {
+  const { createContext, useContext, useState, useEffect, useRef, useCallback } = React;
+
+  const TimeContext = createContext({ time: 0, duration: 10, playing: false });
+  const SpriteContext = createContext(null);
+
+  const Easing = {
+    linear: t => t,
+    easeIn: t => t * t,
+    easeOut: t => 1 - (1 - t) * (1 - t),
+    easeInOut: t => t < 0.5 ? 2 * t * t : 1 - Math.pow(-2 * t + 2, 2) / 2,
+    expoOut: t => t === 1 ? 1 : 1 - Math.pow(2, -10 * t),
+  };
+
+  function interpolate(t, input, output, easing) {
+    const [inStart, inEnd] = input;
+    const [outStart, outEnd] = output;
+    if (t <= inStart) return outStart;
+    if (t >= inEnd) return outEnd;
+    let progress = (t - inStart) / (inEnd - inStart);
+    if (easing) progress = easing(progress);
+    return outStart + (outEnd - outStart) * progress;
+  }
+
+  function useTime() { return useContext(TimeContext).time; }
+  function useSprite() {
+    const sprite = useContext(SpriteContext);
+    if (!sprite) return { t: 0, elapsed: 0, duration: 0 };
+    return sprite;
+  }
+
+  const stageStyles = {
+    wrapper: { position: 'fixed', inset: 0, background: '#000', display: 'flex', flexDirection: 'column', fontFamily: '-apple-system, "Segoe UI", sans-serif' },
+    stageHolder: { flex: 1, position: 'relative', overflow: 'hidden' },
+    canvas: { position: 'absolute', top: '50%', left: '50%', transformOrigin: 'center center', background: '#111', overflow: 'hidden' },
+    controls: { position: 'fixed', bottom: 0, left: 0, right: 0, background: 'rgba(0,0,0,0.8)', padding: '12px 20px', display: 'flex', alignItems: 'center', gap: 16, color: '#fff', fontSize: 12, zIndex: 100 },
+    button: { background: 'none', border: '1px solid rgba(255,255,255,0.3)', color: '#fff', padding: '6px 14px', borderRadius: 4, cursor: 'pointer', fontSize: 12 },
+    timeDisplay: { fontFamily: 'ui-monospace, monospace', fontVariantNumeric: 'tabular-nums', minWidth: 90 },
+    scrubber: { flex: 1, height: 4, background: 'rgba(255,255,255,0.2)', borderRadius: 2, position: 'relative', cursor: 'pointer' },
+    scrubberFill: { position: 'absolute', top: 0, left: 0, height: '100%', background: '#fff', borderRadius: 2, pointerEvents: 'none' },
+    scrubberHandle: { position: 'absolute', top: '50%', width: 12, height: 12, background: '#fff', borderRadius: '50%', transform: 'translate(-50%, -50%)', pointerEvents: 'none' },
+  };
+
+  function Stage({ duration = 10, width = 1920, height = 1080, loop = true, children, bgColor = '#fff' }) {
+    const [time, setTime] = useState(0);
+    const [playing, setPlaying] = useState(true);
+    const [scale, setScale] = useState(1);
+    const rafRef = useRef(null);
+
+    const effectiveLoop = (typeof window !== 'undefined' && window.__recording) ? false : loop;
+
+    useEffect(() => {
+      function updateScale() {
+        const vw = window.innerWidth;
+        const vh = window.innerHeight - (window.__recording ? 0 : 56);
+        setScale(Math.min(vw / width, vh / height));
+      }
+      updateScale();
+      window.addEventListener('resize', updateScale);
+      return () => window.removeEventListener('resize', updateScale);
+    }, [width, height]);
+
+    useEffect(() => {
+      if (!playing) return;
+      let cancelled = false;
+      let last = null;
+
+      function tick(now) {
+        if (cancelled) return;
+        if (last === null) {
+          last = now;
+          if (typeof window !== 'undefined') window.__ready = true;
+        }
+        const delta = (now - last) / 1000;
+        last = now;
+        setTime(prev => {
+          const next = prev + delta;
+          if (next >= duration) return effectiveLoop ? 0 : duration - 0.001;
+          return next;
+        });
+        rafRef.current = requestAnimationFrame(tick);
+      }
+
+      const startAfterFonts = () => { if (!cancelled) rafRef.current = requestAnimationFrame(tick); };
+      if (typeof document !== 'undefined' && document.fonts && document.fonts.ready) {
+        document.fonts.ready.then(startAfterFonts);
+      } else {
+        startAfterFonts();
+      }
+      return () => { cancelled = true; cancelAnimationFrame(rafRef.current); };
+    }, [playing, duration, effectiveLoop]);
+
+    useEffect(() => {
+      window.__seek = (t) => setTime(t);
+    }, []);
+
+    const handleScrub = useCallback((e) => {
+      const rect = e.currentTarget.getBoundingClientRect();
+      const ratio = (e.clientX - rect.left) / rect.width;
+      setTime(Math.max(0, Math.min(duration, ratio * duration)));
+      setPlaying(false);
+    }, [duration]);
+
+    const progress = time / duration;
+    const canvasStyle = { ...stageStyles.canvas, width, height, background: bgColor, transform: `translate(-50%, -50%) scale(${scale})` };
+
+    return (
+      <TimeContext.Provider value={{ time, duration, playing, setPlaying, setTime }}>
+        <div style={stageStyles.wrapper}>
+          <div style={stageStyles.stageHolder}>
+            <div style={canvasStyle}>{children}</div>
+          </div>
+          <div style={stageStyles.controls} className="no-record">
+            <button style={stageStyles.button} onClick={() => setPlaying(p => !p)}>{playing ? '⏸' : '▶'}</button>
+            <button style={stageStyles.button} onClick={() => setTime(0)}>⏮</button>
+            <div style={stageStyles.timeDisplay}>{time.toFixed(2)}s / {duration.toFixed(2)}s</div>
+            <div style={stageStyles.scrubber} onMouseDown={handleScrub}>
+              <div style={{ ...stageStyles.scrubberFill, width: `${progress * 100}%` }} />
+              <div style={{ ...stageStyles.scrubberHandle, left: `${progress * 100}%` }} />
+            </div>
+          </div>
+        </div>
+      </TimeContext.Provider>
+    );
+  }
+
+  function Sprite({ start = 0, end, children, style }) {
+    const { time } = useContext(TimeContext);
+    const actualEnd = end == null ? Infinity : end;
+    if (time < start || time >= actualEnd) return null;
+    const duration = actualEnd - start;
+    const elapsed = time - start;
+    const t = duration === 0 ? 1 : Math.max(0, Math.min(1, elapsed / duration));
+    return (
+      <SpriteContext.Provider value={{ t, elapsed, duration, start, end: actualEnd }}>
+        <div style={{ position: 'absolute', inset: 0, ...style }}>{children}</div>
+      </SpriteContext.Provider>
+    );
+  }
+
+  window.Animations = { Stage, Sprite, useTime, useSprite, Easing, interpolate };
+})();
+</script>
+
+<script type="text/babel">
+/* ══════════════════ Demo content ══════════════════
+   All data below is REAL: captured from live API calls and actual
+   script runs against the @wooffy_official account on 2026-07-11.
+*/
+const { Stage, Sprite, useSprite, Easing, interpolate } = window.Animations;
+
+const INK = '#221F1C';
+const PAPER = '#FBF9F5';
+const MUTED = '#8A857D';
+const ACCENT = '#E60023';           /* Pinterest red — Pinterest-related marks only */
+const MONO = 'Consolas, "Cascadia Mono", ui-monospace, monospace';
+const SERIF = 'Georgia, "Times New Roman", serif';
+const SANS = '"Segoe UI", -apple-system, sans-serif';
+
+/* Real boards on the account (GET /v5/boards, 2026-07-11) */
+const BOARDS = [
+  { name: 'Dog Breed Guides',     id: '925982442074840407' },
+  { name: 'Best Dogs For...',     id: '925982442074840408' },
+  { name: 'Dog Care & Grooming',  id: '925982442074840409' },
+  { name: 'Puppy Costs & Budget', id: '925982442074840410' },
+  { name: 'Doodle Dogs',          id: '925982442074840411' },
+  { name: 'Dog Tech & Gear',      id: '925982442074840412' },
+  { name: 'Dog Health',           id: '925982442074840413' },
+  { name: 'Seasonal Dog Care',    id: '925982442074840414' },
+];
+
+/* ── shared building blocks ─────────────────────────────── */
+
+function SceneFade({ children, fadeOut = 0.5, bg = PAPER }) {
+  const { elapsed, duration } = useSprite();
+  const inO = interpolate(elapsed, [0, 0.5], [0, 1], Easing.easeOut);
+  const outO = fadeOut > 0 ? interpolate(elapsed, [duration - fadeOut, duration], [1, 0], Easing.easeIn) : 1;
+  return (
+    <div style={{ position: 'absolute', inset: 0, background: bg, opacity: Math.min(inO, outO) }}>
+      {children}
+    </div>
+  );
+}
+
+function Kicker({ step, label }) {
+  return (
+    <div style={{ position: 'absolute', top: 64, left: 96, right: 96, display: 'flex', alignItems: 'baseline', gap: 24, borderBottom: `2px solid ${INK}`, paddingBottom: 18 }}>
+      <span style={{ fontFamily: MONO, fontSize: 20, letterSpacing: '0.18em', color: MUTED }}>WOOFFY PINTEREST PUBLISHER · APP DEMO</span>
+      <span style={{ flex: 1 }} />
+      {step && <span style={{ fontFamily: MONO, fontSize: 20, color: ACCENT, letterSpacing: '0.1em' }}>{step}</span>}
+      {label && <span style={{ fontFamily: SANS, fontSize: 22, fontWeight: 600, color: INK }}>{label}</span>}
+    </div>
+  );
+}
+
+function Rise({ at = 0, children, style }) {
+  const { elapsed } = useSprite();
+  const p = interpolate(elapsed, [at, at + 0.7], [0, 1], Easing.expoOut);
+  return <div style={{ opacity: p, transform: `translateY(${(1 - p) * 24}px)`, ...style }}>{children}</div>;
+}
+
+/* Terminal window with timed, typed lines.
+   line: { at, text, color?, typed? } — typed lines animate char-by-char */
+function Terminal({ title, lines, width = '100%', height, fontSize = 23 }) {
+  const { elapsed } = useSprite();
+  const visible = lines.filter(l => elapsed >= l.at);
+  return (
+    <div style={{ width, height, background: '#17191E', borderRadius: 10, overflow: 'hidden', boxShadow: '0 18px 50px rgba(30,25,20,0.18)', display: 'flex', flexDirection: 'column' }}>
+      <div style={{ background: '#22252C', padding: '12px 20px', fontFamily: MONO, fontSize: 17, color: '#9AA0AA', letterSpacing: '0.06em' }}>{title}</div>
+      <div style={{ padding: '22px 26px', fontFamily: MONO, fontSize, lineHeight: 1.62, whiteSpace: 'pre-wrap', flex: 1 }}>
+        {visible.map((l, i) => {
+          let text = l.text;
+          let caret = false;
+          if (l.typed) {
+            const dur = Math.max(0.5, l.text.length * 0.022);
+            const n = Math.floor(interpolate(elapsed, [l.at, l.at + dur], [0, l.text.length]));
+            caret = n < l.text.length;
+            text = l.text.slice(0, n);
+          }
+          return (
+            <div key={i} style={{ color: l.color || '#D8DCE2', minHeight: '1.62em' }}>
+              {text}{caret && <span style={{ background: '#D8DCE2', color: '#17191E' }}>▌</span>}
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
+/* ── Scene 1 · Title (0–12s) ────────────────────────────── */
+function S1() {
+  return (
+    <SceneFade>
+      <div style={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', textAlign: 'center' }}>
+        <Rise at={0.2}>
+          <img src="assets/avatar.jpg" style={{ width: 130, height: 130, borderRadius: '50%', border: `3px solid ${INK}` }} />
+        </Rise>
+        <Rise at={0.6}>
+          <div style={{ fontFamily: SERIF, fontSize: 84, fontWeight: 700, color: INK, marginTop: 36, letterSpacing: '-0.01em' }}>
+            Wooffy Pinterest Publisher
+          </div>
+        </Rise>
+        <Rise at={1.1}>
+          <div style={{ fontFamily: MONO, fontSize: 26, color: ACCENT, marginTop: 18, letterSpacing: '0.12em' }}>
+            APP DEMO · STANDARD ACCESS REVIEW
+          </div>
+        </Rise>
+        <Rise at={2.2}>
+          <div style={{ fontFamily: SANS, fontSize: 30, color: INK, marginTop: 64, lineHeight: 1.85, maxWidth: 1150 }}>
+            A server-side script that publishes our own dog-breed articles from <b>thewooffy.com</b> as
+            Pins — to our own Pinterest business account{' '}
+            <span style={{ fontFamily: MONO, fontSize: 27, color: ACCENT }}>@wooffy_official</span>.
+          </div>
+        </Rise>
+        <Rise at={3.6}>
+          <div style={{ display: 'flex', gap: 20, marginTop: 56 }}>
+            {['First-party use only', 'Single account — ours', 'No third-party user data'].map(s => (
+              <span key={s} style={{ fontFamily: SANS, fontSize: 23, fontWeight: 600, color: INK, border: `2px solid ${INK}`, padding: '12px 28px' }}>{s}</span>
+            ))}
+          </div>
+        </Rise>
+      </div>
+    </SceneFade>
+  );
+}
+
+/* ── Scene 2 · OAuth (12–34s) ───────────────────────────── */
+function S2() {
+  const { elapsed } = useSprite();
+  const steps = [
+    { at: 1.0, n: '1', t: 'One-time consent', d: 'Our account owner approves the app via Pinterest’s OAuth consent screen (authorization-code flow).' },
+    { at: 2.2, n: '2', t: 'Tokens stored server-side', d: 'access_token + refresh_token live in a local .env — never hard-coded, never shared.' },
+    { at: 3.4, n: '3', t: 'Automatic refresh', d: 'Before each run the script refreshes the token via POST /v5/oauth/token.' },
+  ];
+  const termLines = [
+    { at: 5.0,  text: '$ python scripts/pinterest_api.py status', typed: true, color: '#7FD1A8' },
+    { at: 6.6,  text: '· refreshing access token — POST /v5/oauth/token (grant_type=refresh_token)', color: '#9AA0AA' },
+    { at: 7.8,  text: '→ 200 OK · token valid, expires in 30 days', color: '#7FD1A8' },
+    { at: 9.2,  text: '' },
+    { at: 9.2,  text: '· verifying account — GET /v5/user_account', color: '#9AA0AA' },
+    { at: 10.4, text: '→ 200 OK', color: '#7FD1A8' },
+    { at: 11.2, text: '{' },
+    { at: 11.4, text: '  "username":     "wooffy_official",' },
+    { at: 11.6, text: '  "account_type": "BUSINESS",' },
+    { at: 11.8, text: '  "pin_count":    1033,' },
+    { at: 12.0, text: '  "board_count":  43' },
+    { at: 12.2, text: '}' },
+  ];
+  return (
+    <SceneFade>
+      <Kicker step="STEP 1 / 3" label="Authentication — OAuth 2.0" />
+      <div style={{ position: 'absolute', top: 190, left: 96, right: 96, bottom: 90, display: 'flex', gap: 64 }}>
+        <div style={{ width: 620, display: 'flex', flexDirection: 'column', gap: 40, paddingTop: 30 }}>
+          {steps.map(s => {
+            const p = interpolate(elapsed, [s.at, s.at + 0.7], [0, 1], Easing.expoOut);
+            return (
+              <div key={s.n} style={{ opacity: p, transform: `translateY(${(1 - p) * 20}px)`, display: 'flex', gap: 26 }}>
+                <div style={{ width: 56, height: 56, border: `2.5px solid ${INK}`, display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: SERIF, fontSize: 30, fontWeight: 700, color: INK, flexShrink: 0 }}>{s.n}</div>
+                <div>
+                  <div style={{ fontFamily: SANS, fontSize: 29, fontWeight: 700, color: INK }}>{s.t}</div>
+                  <div style={{ fontFamily: SANS, fontSize: 23, color: '#5A554E', lineHeight: 1.55, marginTop: 8 }}>{s.d}</div>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+        <div style={{ flex: 1, paddingTop: 30 }}>
+          <Rise at={4.4} style={{ height: '100%' }}>
+            <Terminal title="wooffy-dog-breeds — live API trace · api.pinterest.com/v5" lines={termLines} height={640} />
+          </Rise>
+        </div>
+      </div>
+    </SceneFade>
+  );
+}
+
+/* ── Scene 3 · Publishing flow (34–64s) ─────────────────── */
+function S3() {
+  const { elapsed } = useSprite();
+  const termLines = [
+    { at: 0.8,  text: '$ python scripts/pinterest_api.py status', typed: true, color: '#7FD1A8' },
+    { at: 2.4,  text: 'Pins posted:  0 / 40' },
+    { at: 2.7,  text: 'Pins pending: 40' },
+    { at: 3.6,  text: '' },
+    { at: 3.6,  text: '$ python scripts/pinterest_api.py publish --batch=3', typed: true, color: '#7FD1A8' },
+    { at: 5.8,  text: 'Posting 3 of 40 pending (batch=3)', color: '#9AA0AA' },
+    { at: 6.6,  text: '' },
+    { at: 6.6,  text: 'POST /v5/pins   alaskan-malamute-grooming-guide-a', color: '#E8C36B' },
+    { at: 7.4,  text: "  board: 'Dog Care & Grooming'  (925982442074840409)" },
+    { at: 8.2,  text: "  title: 'Alaskan Malamute Grooming: How to Manage Heavy…'" },
+    { at: 9.0,  text: '  link:  thewooffy.com/blogs/dog-breeds/alaskan-malamute-grooming-guide' },
+    { at: 9.8,  text: '  media: article hero image (our own CDN)' },
+    { at: 11.6, text: '' },
+    { at: 11.6, text: '→ HTTP 403  {"code": 29, "message": "Apps with Trial access', color: '#F08A8A' },
+    { at: 11.6, text: '   may not create Pins in production — use API Sandbox"}', color: '#F08A8A' },
+    { at: 13.4, text: '' },
+    { at: 13.4, text: 'Summary: ok=0  failed=3  — blocked by Trial access', color: '#9AA0AA' },
+  ];
+  const stampP = interpolate(elapsed, [12.4, 13.0], [0, 1], Easing.expoOut);
+  return (
+    <SceneFade>
+      <Kicker step="STEP 2 / 3" label="Creating Pins — POST /v5/pins" />
+      <div style={{ position: 'absolute', top: 190, left: 96, right: 96, bottom: 90, display: 'flex', gap: 60 }}>
+        <div style={{ flex: 1.35, paddingTop: 20 }}>
+          <Rise at={0.3} style={{ height: '100%' }}>
+            <Terminal title="wooffy-dog-breeds — actual script run · 2026-07-11" lines={termLines} height={710} fontSize={21} />
+          </Rise>
+          <Rise at={15.2}>
+            <div style={{ fontFamily: SANS, fontSize: 24, color: INK, marginTop: 26, lineHeight: 1.6 }}>
+              Everything is built and working — this <b>one blocked call</b> is why we are requesting Standard access.
+            </div>
+          </Rise>
+        </div>
+        <div style={{ width: 560, paddingTop: 20, position: 'relative' }}>
+          <Rise at={6.8}>
+            <div style={{ fontFamily: MONO, fontSize: 18, letterSpacing: '0.16em', color: MUTED, marginBottom: 14 }}>THE PIN THIS PAYLOAD CREATES</div>
+            <div style={{ background: '#fff', borderRadius: 18, overflow: 'hidden', boxShadow: '0 18px 50px rgba(30,25,20,0.16)' }}>
+              <img src="assets/pin-hero-1.png" style={{ width: '100%', height: 400, objectFit: 'cover', display: 'block' }} />
+              <div style={{ padding: '22px 26px 26px' }}>
+                <div style={{ fontFamily: SANS, fontSize: 24, fontWeight: 700, color: INK, lineHeight: 1.35 }}>
+                  Alaskan Malamute Grooming: How to Manage Heavy Double-Coat Shedding
+                </div>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginTop: 16 }}>
+                  <span style={{ fontFamily: SANS, fontSize: 19, fontWeight: 600, color: '#fff', background: ACCENT, borderRadius: 999, padding: '6px 16px' }}>Dog Care & Grooming</span>
+                  <span style={{ fontFamily: MONO, fontSize: 17, color: MUTED }}>→ thewooffy.com</span>
+                </div>
+              </div>
+            </div>
+          </Rise>
+          {stampP > 0 && (
+            <div style={{ position: 'absolute', top: 300, left: 60, transform: `rotate(-9deg) scale(${0.7 + 0.3 * stampP})`, opacity: stampP, border: `5px solid ${ACCENT}`, color: ACCENT, fontFamily: MONO, fontSize: 34, fontWeight: 700, letterSpacing: '0.12em', padding: '14px 30px', background: 'rgba(251,249,245,0.88)', borderRadius: 8 }}>
+              BLOCKED · TRIAL ACCESS
+            </div>
+          )}
+        </div>
+      </div>
+    </SceneFade>
+  );
+}
+
+/* ── Scene 4 · Boards (64–80s) ──────────────────────────── */
+function S4() {
+  const { elapsed } = useSprite();
+  return (
+    <SceneFade>
+      <Kicker step="STEP 3 / 3" label="Organizing — boards on our account" />
+      <div style={{ position: 'absolute', top: 210, left: 96, right: 96 }}>
+        <Rise at={0.5}>
+          <div style={{ fontFamily: SANS, fontSize: 28, color: INK, lineHeight: 1.6, maxWidth: 1500 }}>
+            The app already created these <b>8 public boards</b> via <span style={{ fontFamily: MONO, fontSize: 25 }}>POST /v5/boards</span> — live on <span style={{ fontFamily: MONO, fontSize: 25, color: ACCENT }}>@wooffy_official</span>, waiting for their first Pins.
+          </div>
+        </Rise>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 26, marginTop: 48 }}>
+          {BOARDS.map((b, i) => {
+            const at = 1.6 + i * 0.22;
+            const p = interpolate(elapsed, [at, at + 0.6], [0, 1], Easing.expoOut);
+            return (
+              <div key={b.id} style={{ opacity: p, transform: `translateY(${(1 - p) * 26}px)`, background: '#fff', borderRadius: 14, padding: '28px 28px 24px', boxShadow: '0 10px 30px rgba(30,25,20,0.10)', borderTop: `4px solid ${ACCENT}` }}>
+                <div style={{ fontFamily: SANS, fontSize: 26, fontWeight: 700, color: INK, minHeight: 72 }}>{b.name}</div>
+                <div style={{ fontFamily: MONO, fontSize: 16, color: MUTED, marginTop: 14 }}>PUBLIC · id {b.id.slice(-6)}</div>
+              </div>
+            );
+          })}
+        </div>
+        <Rise at={4.2}>
+          <div style={{ fontFamily: MONO, fontSize: 20, color: MUTED, marginTop: 44, letterSpacing: '0.06em' }}>
+            Cadence once approved: ~5 Pins/day across boards · every Pin links back to its full article on thewooffy.com
+          </div>
+        </Rise>
+      </div>
+    </SceneFade>
+  );
+}
+
+/* ── Scene 5 · Recap (80–90s) ───────────────────────────── */
+function S5() {
+  return (
+    <SceneFade fadeOut={0}>
+      <div style={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', textAlign: 'center' }}>
+        <Rise at={0.3}>
+          <div style={{ fontFamily: SERIF, fontSize: 62, fontWeight: 700, color: INK, maxWidth: 1300, lineHeight: 1.25 }}>
+            One account. Our own content.<br />Nothing else.
+          </div>
+        </Rise>
+        <Rise at={1.4}>
+          <div style={{ display: 'flex', gap: 18, marginTop: 60, flexWrap: 'wrap', justifyContent: 'center' }}>
+            {['boards:read', 'boards:write', 'pins:read', 'pins:write', 'user_accounts:read'].map(s => (
+              <span key={s} style={{ fontFamily: MONO, fontSize: 24, color: INK, border: `2px solid ${INK}`, padding: '12px 26px', borderRadius: 8 }}>{s}</span>
+            ))}
+          </div>
+        </Rise>
+        <Rise at={2.6}>
+          <div style={{ fontFamily: SANS, fontSize: 27, color: '#5A554E', marginTop: 60, lineHeight: 1.8 }}>
+            No third-party users · no data collection · no external distribution<br />
+            Thank you for reviewing.
+          </div>
+        </Rise>
+        <Rise at={3.4}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 18, marginTop: 56 }}>
+            <img src="assets/avatar.jpg" style={{ width: 60, height: 60, borderRadius: '50%', border: `2px solid ${INK}` }} />
+            <span style={{ fontFamily: MONO, fontSize: 24, color: ACCENT }}>@wooffy_official</span>
+            <span style={{ fontFamily: MONO, fontSize: 24, color: MUTED }}>· thewooffy.com</span>
+          </div>
+        </Rise>
+      </div>
+    </SceneFade>
+  );
+}
+
+/* ── Root ───────────────────────────────────────────────── */
+function App() {
+  return (
+    <Stage duration={90} width={1920} height={1080} bgColor={PAPER}>
+      <Sprite start={0}    end={12.5}><S1 /></Sprite>
+      <Sprite start={12}   end={34.5}><S2 /></Sprite>
+      <Sprite start={34}   end={64.5}><S3 /></Sprite>
+      <Sprite start={64}   end={80.5}><S4 /></Sprite>
+      <Sprite start={80}   end={90}  ><S5 /></Sprite>
+    </Stage>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+</script>
+</body>
+</html>
