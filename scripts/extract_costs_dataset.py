@@ -71,7 +71,8 @@ Field definitions:
 - vet_year1: first-year routine vet incl. vaccine series (NOT emergencies)
 - food_monthly / insurance_monthly: monthly; if the article only gives annual, divide by 12 and round
 - grooming_annual: annual grooming spend (pro visits x rate; a low-end 0 is fine for pure-DIY coats)
-- setup_onetime: crate + bowls/collar/leash + grooming tools + puppy class, component lows summed and highs summed
+- setup_onetime: ONLY these four items - crate + bowls/collar/leash + grooming tools + puppy class - component lows summed and highs summed. Never fold food, fencing, furniture, or training beyond one puppy class into setup; if the article gives one big combined 'setup' figure, decompose to just those four items.
+- spay_neuter: if the article mentions the procedure without its own price (e.g. folded into a vet bundle), return null - never [0,0]
 - total_year1: the article's stated first-year total (with insurance if stated)
 - annual_ongoing: stated ongoing annual cost after year one
 
@@ -257,6 +258,15 @@ def cmd_emit() -> int:
                      if d["bucket"] == bucket and _pair_ok(d.get(f))]
             if pairs:
                 bucket_medians[bucket][f] = med(pairs)
+
+    # outlier guards: absurd setup or zeroed spay fall back to bucket medians
+    for slug, d in dataset.items():
+        bm = bucket_medians[d["bucket"]]
+        su = d.get("setup_onetime")
+        if _pair_ok(su) and "setup_onetime" in bm and su[1] > bm["setup_onetime"][1] * 2:
+            d["setup_onetime"] = None  # forces median fill + est flag below
+        if d.get("spay_neuter") == [0, 0]:
+            d["spay_neuter"] = None
 
     filled_total = 0
     for slug, d in dataset.items():

@@ -3350,54 +3350,6 @@
   },
   "ts": "2026-08-05T20:43:31+00:00"
  },
- "golden-retriever": {
-  "status": "done",
-  "data": {
-   "puppy": [
-    1500,
-    3500
-   ],
-   "rescue": [
-    200,
-    500
-   ],
-   "vet_year1": [
-    350,
-    1300
-   ],
-   "spay_neuter": [
-    0,
-    0
-   ],
-   "food_monthly": [
-    50,
-    83
-   ],
-   "insurance_monthly": [
-    35,
-    65
-   ],
-   "grooming_annual": [
-    300,
-    600
-   ],
-   "setup_onetime": [
-    1900,
-    4650
-   ],
-   "total_year1": [
-    4000,
-    8000
-   ],
-   "annual_ongoing": [
-    1700,
-    3100
-   ],
-   "citable_stat": "A Golden Retriever costs $4,000–$8,000 in the first year, with food for a 55–75 lb adult running $600–$1,000 annually for quality kibble, professional grooming every 8–12 weeks at $300–$600 per year, and insurance premiums of $35–$65 monthly.",
-   "missing": []
-  },
-  "ts": "2026-08-05T20:43:34+00:00"
- },
  "goldendoodle": {
   "status": "done",
   "data": {
@@ -4955,54 +4907,6 @@
   },
   "ts": "2026-08-05T20:45:45+00:00"
  },
- "norfolk-terrier": {
-  "status": "done",
-  "data": {
-   "puppy": [
-    1500,
-    2500
-   ],
-   "rescue": [
-    150,
-    400
-   ],
-   "vet_year1": [
-    250,
-    500
-   ],
-   "spay_neuter": [
-    200,
-    500
-   ],
-   "food_monthly": [
-    30,
-    50
-   ],
-   "insurance_monthly": [
-    30,
-    55
-   ],
-   "grooming_annual": [
-    200,
-    480
-   ],
-   "setup_onetime": [
-    625,
-    1550
-   ],
-   "total_year1": [
-    3000,
-    5500
-   ],
-   "annual_ongoing": [
-    1400,
-    2400
-   ],
-   "citable_stat": "A Norfolk Terrier puppy from a breeder costs $1,500–$2,500, with rescue adoption running $150–$400. First-year total is $3,000–$5,500 including purchase, gear, spay/neuter, vaccines, food ($30–$50/month), grooming ($200–$480/year for clipping), and optional pet insurance ($30–$55/month). Annual ongoing costs after year one are $1,400–$2,400.",
-   "missing": []
-  },
-  "ts": "2026-08-05T20:45:48+00:00"
- },
  "norwegian-elkhound": {
   "status": "done",
   "data": {
@@ -5187,51 +5091,6 @@
    ]
   },
   "ts": "2026-08-05T20:46:04+00:00"
- },
- "otterhound": {
-  "status": "done",
-  "data": {
-   "puppy": [
-    1500,
-    3000
-   ],
-   "rescue": null,
-   "vet_year1": [
-    700,
-    1250
-   ],
-   "spay_neuter": [
-    500,
-    900
-   ],
-   "food_monthly": [
-    50,
-    75
-   ],
-   "insurance_monthly": [
-    42,
-    83
-   ],
-   "grooming_annual": [
-    0,
-    700
-   ],
-   "setup_onetime": [
-    1080,
-    3700
-   ],
-   "total_year1": [
-    4100,
-    9300
-   ],
-   "annual_ongoing": [
-    1600,
-    2800
-   ],
-   "citable_stat": "An Otterhound puppy from a health-tested breeder costs $1,500–$3,000, with first-year total spanning $4,100–$9,300 including food ($600–$900 annual), vet care and spay/neuter ($500–$900), pet insurance ($500–$1,000 annual), and secure 6-ft fencing ($500–$2,500+), while ongoing annual costs settle to $1,600–$2,800.",
-   "missing": []
-  },
-  "ts": "2026-08-05T20:46:08+00:00"
  },
  "papillon": {
   "status": "done",
@@ -5828,51 +5687,6 @@
    "missing": []
   },
   "ts": "2026-08-05T20:49:21+00:00"
- },
- "russell-terrier": {
-  "status": "done",
-  "data": {
-   "puppy": [
-    800,
-    2000
-   ],
-   "rescue": null,
-   "vet_year1": [
-    200,
-    400
-   ],
-   "spay_neuter": [
-    200,
-    400
-   ],
-   "food_monthly": [
-    20,
-    40
-   ],
-   "insurance_monthly": [
-    20,
-    35
-   ],
-   "grooming_annual": [
-    0,
-    350
-   ],
-   "setup_onetime": [
-    1290,
-    2970
-   ],
-   "total_year1": [
-    1800,
-    3500
-   ],
-   "annual_ongoing": [
-    300,
-    500
-   ],
-   "citable_stat": "A Russell Terrier costs $1,800–$3,500 in the first year depending on coat type and training choices, with food running only $240–$480 annually due to the breed's small 9–15 lb size, while professional grooming for rough coats runs $150–$350/year versus $0–$40/year for smooth coats maintained at home.",
-   "missing": []
-  },
-  "ts": "2026-08-05T20:49:24+00:00"
  },
  "saint-bernard": {
   "status": "done",
@@ -6805,51 +6619,6 @@
   },
   "ts": "2026-08-05T20:50:38+00:00"
  },
- "tibetan-mastiff": {
-  "status": "done",
-  "data": {
-   "puppy": [
-    1500,
-    5000
-   ],
-   "rescue": [
-    300,
-    800
-   ],
-   "vet_year1": [
-    200,
-    475
-   ],
-   "spay_neuter": [
-    300,
-    600
-   ],
-   "food_monthly": [
-    100,
-    150
-   ],
-   "insurance_monthly": null,
-   "grooming_annual": [
-    300,
-    600
-   ],
-   "setup_onetime": [
-    2430,
-    5755
-   ],
-   "total_year1": null,
-   "annual_ongoing": [
-    400,
-    700
-   ],
-   "citable_stat": "A Tibetan Mastiff puppy costs $1,500–$5,000 from a reputable breeder; rescue/adoption routes run $300–$800. First-year food costs $100–$150/month ($1,200–$1,800/year), grooming runs $300–$600/year, and routine veterinary care averages $400–$700/year.",
-   "missing": [
-    "insurance_monthly",
-    "total_year1"
-   ]
-  },
-  "ts": "2026-08-05T20:50:42+00:00"
- },
  "tibetan-spaniel": {
   "status": "done",
   "data": {
@@ -7595,5 +7364,230 @@
    ]
   },
   "ts": "2026-08-05T20:52:16+00:00"
+ },
+ "golden-retriever": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": null,
+   "spay_neuter": null,
+   "food_monthly": [
+    50,
+    83
+   ],
+   "insurance_monthly": [
+    35,
+    65
+   ],
+   "grooming_annual": [
+    0,
+    600
+   ],
+   "setup_onetime": [
+    1900,
+    4650
+   ],
+   "total_year1": [
+    4000,
+    8000
+   ],
+   "annual_ongoing": [
+    1700,
+    3100
+   ],
+   "citable_stat": "A Golden Retriever costs $4,000–$8,000 in the first year from a health-tested breeder, with food for a 55–75 lb adult running $600–$1,000 annually on kibble, and professional grooming every 8–12 weeks costing $300–$600 a year; insurance premiums run $35–$65 monthly.",
+   "missing": [
+    "vet_year1",
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T21:55:44+00:00"
+ },
+ "norfolk-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": [
+    150,
+    400
+   ],
+   "vet_year1": [
+    250,
+    500
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    30,
+    50
+   ],
+   "insurance_monthly": [
+    30,
+    55
+   ],
+   "grooming_annual": [
+    200,
+    480
+   ],
+   "setup_onetime": [
+    525,
+    1130
+   ],
+   "total_year1": [
+    3000,
+    5500
+   ],
+   "annual_ongoing": [
+    1400,
+    2400
+   ],
+   "citable_stat": "A Norfolk Terrier costs $3,000–$5,500 in the first year including purchase price, with food running $360–$600 annually and professional grooming (clipping) $200–$480 per year.",
+   "missing": []
+  },
+  "ts": "2026-08-05T21:55:47+00:00"
+ },
+ "otterhound": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    700,
+    1250
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    50,
+    75
+   ],
+   "insurance_monthly": [
+    42,
+    83
+   ],
+   "grooming_annual": [
+    0,
+    700
+   ],
+   "setup_onetime": [
+    1080,
+    3700
+   ],
+   "total_year1": [
+    4100,
+    9300
+   ],
+   "annual_ongoing": [
+    1600,
+    2800
+   ],
+   "citable_stat": "An Otterhound puppy from a health-tested breeder costs $1,500–$3,000, with first-year total expenses spanning $4,100–$9,300 depending on setup costs; an 80–115 lb adult eats roughly 4–6.5 cups of quality large-breed kibble daily, totaling $600–$900 annually.",
+   "missing": []
+  },
+  "ts": "2026-08-05T21:55:51+00:00"
+ },
+ "russell-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    2000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    200,
+    400
+   ],
+   "spay_neuter": [
+    200,
+    400
+   ],
+   "food_monthly": [
+    20,
+    40
+   ],
+   "insurance_monthly": [
+    20,
+    35
+   ],
+   "grooming_annual": [
+    0,
+    350
+   ],
+   "setup_onetime": [
+    290,
+    570
+   ],
+   "total_year1": [
+    1800,
+    3500
+   ],
+   "annual_ongoing": [
+    300,
+    500
+   ],
+   "citable_stat": "A Russell Terrier costs $1,800–$3,500 in the first year, with food running $20–$40/month and grooming ranging from $0/year for DIY smooth-coat care to $150–$350/year for professional hand-stripping of rough or broken coats.",
+   "missing": []
+  },
+  "ts": "2026-08-05T21:55:54+00:00"
+ },
+ "tibetan-mastiff": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    5000
+   ],
+   "rescue": [
+    300,
+    800
+   ],
+   "vet_year1": [
+    425,
+    1025
+   ],
+   "spay_neuter": [
+    300,
+    600
+   ],
+   "food_monthly": [
+    100,
+    150
+   ],
+   "insurance_monthly": null,
+   "grooming_annual": [
+    300,
+    600
+   ],
+   "setup_onetime": [
+    630,
+    1255
+   ],
+   "total_year1": null,
+   "annual_ongoing": [
+    400,
+    700
+   ],
+   "citable_stat": "A Tibetan Mastiff puppy costs $1,500–$5,000 from a breeder, with rescue adoption at $300–$800 (typically including spay/neuter and vaccines). First-year food runs $1,200–$1,800 annually, grooming $300–$600 per year, and routine veterinary care $400–$700 annually for an adult weighing 70–150 pounds.",
+   "missing": [
+    "total_year1",
+    "insurance_monthly"
+   ]
+  },
+  "ts": "2026-08-05T21:55:58+00:00"
  }
 }

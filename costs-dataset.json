@@ -170,7 +170,7 @@
   ],
   "spay_neuter": [
    300,
-   700
+   600
   ],
   "food_monthly": [
    50,
@@ -685,8 +685,8 @@
    400
   ],
   "setup_onetime": [
-   635,
-   1285
+   250,
+   510
   ],
   "total_year1": [
    2000,
@@ -702,7 +702,9 @@
   "weight": "15–20 lbs",
   "bucket": "small",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/australian-terrier-first-year-costs",
-  "est": []
+  "est": [
+   "setup_onetime"
+  ]
  },
  "basenji": {
   "puppy": [
@@ -1219,7 +1221,7 @@
   ],
   "spay_neuter": [
    300,
-   700
+   600
   ],
   "food_monthly": [
    58,
@@ -3090,8 +3092,8 @@
    540
   ],
   "setup_onetime": [
-   600,
-   1400
+   300,
+   650
   ],
   "total_year1": [
    2800,
@@ -3107,7 +3109,9 @@
   "weight": "40–50 lbs",
   "bucket": "medium",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/english-springer-spaniel-first-year-costs",
-  "est": []
+  "est": [
+   "setup_onetime"
+  ]
  },
  "entlebucher-mountain-dog": {
   "puppy": [
@@ -3665,12 +3669,12 @@
    500
   ],
   "vet_year1": [
-   350,
-   1300
+   500,
+   900
   ],
   "spay_neuter": [
-   0,
-   0
+   300,
+   500
   ],
   "food_monthly": [
    50,
@@ -3681,12 +3685,12 @@
    65
   ],
   "grooming_annual": [
-   300,
+   0,
    600
   ],
   "setup_onetime": [
-   1900,
-   4650
+   370,
+   750
   ],
   "total_year1": [
    4000,
@@ -3696,13 +3700,20 @@
    1700,
    3100
   ],
-  "citable_stat": "A Golden Retriever costs $4,000–$8,000 in the first year, with food for a 55–75 lb adult running $600–$1,000 annually for quality kibble, professional grooming every 8–12 weeks at $300–$600 per year, and insurance premiums of $35–$65 monthly.",
-  "missing": [],
+  "citable_stat": "A Golden Retriever costs $4,000–$8,000 in the first year from a health-tested breeder, with food for a 55–75 lb adult running $600–$1,000 annually on kibble, and professional grooming every 8–12 weeks costing $300–$600 a year; insurance premiums run $35–$65 monthly.",
+  "missing": [
+   "vet_year1",
+   "spay_neuter"
+  ],
   "name": "Golden Retriever",
   "weight": "55–75 lbs",
   "bucket": "large",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/golden-retriever-first-year-costs",
-  "est": []
+  "est": [
+   "vet_year1",
+   "spay_neuter",
+   "setup_onetime"
+  ]
  },
  "goldendoodle": {
   "puppy": [
@@ -3860,7 +3871,7 @@
   ],
   "spay_neuter": [
    300,
-   700
+   600
   ],
   "food_monthly": [
    58,
@@ -4084,8 +4095,8 @@
    750
   ],
   "setup_onetime": [
-   580,
-   1180
+   200,
+   460
   ],
   "total_year1": [
    2500,
@@ -4101,7 +4112,9 @@
   "weight": "7–13 lbs",
   "bucket": "toy",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/havanese-first-year-costs",
-  "est": []
+  "est": [
+   "setup_onetime"
+  ]
  },
  "ibizan-hound": {
   "puppy": [
@@ -5412,7 +5425,7 @@
   ],
   "spay_neuter": [
    300,
-   700
+   600
   ],
   "food_monthly": [
    100,
@@ -5480,8 +5493,8 @@
    480
   ],
   "setup_onetime": [
-   625,
-   1550
+   200,
+   460
   ],
   "total_year1": [
    3000,
@@ -5491,13 +5504,15 @@
    1400,
    2400
   ],
-  "citable_stat": "A Norfolk Terrier puppy from a breeder costs $1,500–$2,500, with rescue adoption running $150–$400. First-year total is $3,000–$5,500 including purchase, gear, spay/neuter, vaccines, food ($30–$50/month), grooming ($200–$480/year for clipping), and optional pet insurance ($30–$55/month). Annual ongoing costs after year one are $1,400–$2,400.",
+  "citable_stat": "A Norfolk Terrier costs $3,000–$5,500 in the first year including purchase price, with food running $360–$600 annually and professional grooming (clipping) $200–$480 per year.",
   "missing": [],
   "name": "Norfolk Terrier",
   "weight": "11–12 lbs",
   "bucket": "toy",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/norfolk-terrier-first-year-costs",
-  "est": []
+  "est": [
+   "setup_onetime"
+  ]
  },
  "norwegian-elkhound": {
   "puppy": [
@@ -5709,8 +5724,8 @@
    1250
   ],
   "spay_neuter": [
-   500,
-   900
+   300,
+   600
   ],
   "food_monthly": [
    50,
@@ -5725,8 +5740,8 @@
    700
   ],
   "setup_onetime": [
-   1080,
-   3700
+   560,
+   1020
   ],
   "total_year1": [
    4100,
@@ -5736,13 +5751,16 @@
    1600,
    2800
   ],
-  "citable_stat": "An Otterhound puppy from a health-tested breeder costs $1,500–$3,000, with first-year total spanning $4,100–$9,300 including food ($600–$900 annual), vet care and spay/neuter ($500–$900), pet insurance ($500–$1,000 annual), and secure 6-ft fencing ($500–$2,500+), while ongoing annual costs settle to $1,600–$2,800.",
+  "citable_stat": "An Otterhound puppy from a health-tested breeder costs $1,500–$3,000, with first-year total expenses spanning $4,100–$9,300 depending on setup costs; an 80–115 lb adult eats roughly 4–6.5 cups of quality large-breed kibble daily, totaling $600–$900 annually.",
   "missing": [],
   "name": "Otterhound",
   "weight": "80–115 lbs",
   "bucket": "giant",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/otterhound-first-year-costs",
-  "est": []
+  "est": [
+   "spay_neuter",
+   "setup_onetime"
+  ]
  },
  "papillon": {
   "puppy": [
@@ -6117,8 +6135,8 @@
    640
   ],
   "setup_onetime": [
-   550,
-   1150
+   200,
+   460
   ],
   "total_year1": [
    2250,
@@ -6134,7 +6152,9 @@
   "weight": "3–7 lbs",
   "bucket": "toy",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/pomeranian-first-year-costs",
-  "est": []
+  "est": [
+   "setup_onetime"
+  ]
  },
  "portuguese-water-dog": {
   "puppy": [
@@ -6163,8 +6183,8 @@
    800
   ],
   "setup_onetime": [
-   650,
-   1350
+   300,
+   650
   ],
   "total_year1": [
    3750,
@@ -6180,7 +6200,9 @@
   "weight": "35–60 lbs",
   "bucket": "medium",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/portuguese-water-dog-first-year-costs",
-  "est": []
+  "est": [
+   "setup_onetime"
+  ]
  },
  "pug": {
   "puppy": [
@@ -6465,8 +6487,8 @@
    350
   ],
   "setup_onetime": [
-   1290,
-   2970
+   290,
+   570
   ],
   "total_year1": [
    1800,
@@ -6476,7 +6498,7 @@
    300,
    500
   ],
-  "citable_stat": "A Russell Terrier costs $1,800–$3,500 in the first year depending on coat type and training choices, with food running only $240–$480 annually due to the breed's small 9–15 lb size, while professional grooming for rough coats runs $150–$350/year versus $0–$40/year for smooth coats maintained at home.",
+  "citable_stat": "A Russell Terrier costs $1,800–$3,500 in the first year, with food running $20–$40/month and grooming ranging from $0/year for DIY smooth-coat care to $150–$350/year for professional hand-stripping of rough or broken coats.",
   "missing": [],
   "name": "Russell Terrier",
   "weight": "9–15 lbs",
@@ -6903,8 +6925,8 @@
    300
   ],
   "setup_onetime": [
-   490,
-   1030
+   250,
+   510
   ],
   "total_year1": [
    3300,
@@ -6923,7 +6945,8 @@
   "bucket": "small",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/shiba-inu-first-year-costs",
   "est": [
-   "spay_neuter"
+   "spay_neuter",
+   "setup_onetime"
   ]
  },
  "shih-tzu": {
@@ -7484,8 +7507,8 @@
    800
   ],
   "vet_year1": [
-   200,
-   475
+   425,
+   1025
   ],
   "spay_neuter": [
    300,
@@ -7504,21 +7527,21 @@
    600
   ],
   "setup_onetime": [
-   2430,
-   5755
+   630,
+   1255
   ],
   "total_year1": [
-   6734,
-   15730
+   5159,
+   11780
   ],
   "annual_ongoing": [
    400,
    700
   ],
-  "citable_stat": "A Tibetan Mastiff puppy costs $1,500–$5,000 from a reputable breeder; rescue/adoption routes run $300–$800. First-year food costs $100–$150/month ($1,200–$1,800/year), grooming runs $300–$600/year, and routine veterinary care averages $400–$700/year.",
+  "citable_stat": "A Tibetan Mastiff puppy costs $1,500–$5,000 from a breeder, with rescue adoption at $300–$800 (typically including spay/neuter and vaccines). First-year food runs $1,200–$1,800 annually, grooming $300–$600 per year, and routine veterinary care $400–$700 annually for an adult weighing 70–150 pounds.",
   "missing": [
-   "insurance_monthly",
-   "total_year1"
+   "total_year1",
+   "insurance_monthly"
   ],
   "name": "Tibetan Mastiff",
   "weight": "70–150 lbs",
@@ -8154,8 +8177,8 @@
    640
   ],
   "setup_onetime": [
-   360,
-   1050
+   200,
+   460
   ],
   "total_year1": [
    2400,
@@ -8171,6 +8194,8 @@
   "weight": "Up to 7 lbs",
   "bucket": "toy",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/yorkshire-terrier-first-year-costs",
-  "est": []
+  "est": [
+   "setup_onetime"
+  ]
  }
 }

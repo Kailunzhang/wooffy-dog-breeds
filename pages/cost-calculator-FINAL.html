@@ -1,0 +1,214 @@
+<!-- Wooffy First-Year Puppy Cost Calculator - Shopify Page body.
+     Site-native style: white cards, 12px radius, rgba(0,0,0,0.08) borders,
+     #1a1a1a / #6b7177 text, #108474 teal accent, cream section bg.
+     The DATA placeholder in the script below is replaced at build time. -->
+<div id="wf-calc" style="max-width:760px;margin:0 auto;padding:8px 4px 40px 4px;color:#1a1a1a;">
+
+  <p style="font-size:1.05em;line-height:1.7;color:#6b7177;margin:0 0 6px 0;">
+    Every number below comes from our breed-by-breed cost guides &mdash; real ranges for
+    <strong style="color:#1a1a1a;">164 breeds</strong>, not one-size-fits-all averages.
+  </p>
+
+  <!-- CONTROLS -->
+  <div style="background:#faf7f2;border:1px solid rgba(0,0,0,0.06);border-radius:16px;padding:20px;margin:18px 0;">
+    <label for="wf-breed" style="display:block;font-weight:700;font-size:0.95em;margin:0 0 8px 0;">Your breed</label>
+    <select id="wf-breed" style="width:100%;padding:12px 14px;font-size:1em;border:1px solid rgba(0,0,0,0.15);border-radius:10px;background:#ffffff;color:#1a1a1a;margin-bottom:18px;"></select>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;">
+      <div>
+        <span style="display:block;font-weight:700;font-size:0.95em;margin-bottom:8px;">Where you live</span>
+        <div id="wf-region" class="wf-seg">
+          <button data-v="0.85">Small town</button>
+          <button data-v="1" class="on">Suburb</button>
+          <button data-v="1.3">Big city</button>
+        </div>
+      </div>
+      <div>
+        <span style="display:block;font-weight:700;font-size:0.95em;margin-bottom:8px;">Puppy from</span>
+        <div id="wf-source" class="wf-seg">
+          <button data-v="breeder" class="on">Breeder</button>
+          <button data-v="rescue">Rescue</button>
+        </div>
+      </div>
+      <div>
+        <span style="display:block;font-weight:700;font-size:0.95em;margin-bottom:8px;">Pet insurance</span>
+        <div id="wf-ins" class="wf-seg">
+          <button data-v="yes" class="on">Yes</button>
+          <button data-v="no">No</button>
+        </div>
+      </div>
+      <div>
+        <span style="display:block;font-weight:700;font-size:0.95em;margin-bottom:8px;">Grooming</span>
+        <div id="wf-groom" class="wf-seg">
+          <button data-v="pro" class="on">Professional</button>
+          <button data-v="diy">I'll DIY</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- RESULTS -->
+  <div id="wf-results" style="background:#ffffff;border:1px solid rgba(0,0,0,0.08);border-radius:16px;overflow:hidden;margin:18px 0;">
+    <div style="padding:22px 22px 6px 22px;">
+      <div style="font-size:0.85em;font-weight:600;color:#108474;letter-spacing:0.3px;text-transform:uppercase;">First-year estimate</div>
+      <div id="wf-total" style="font-size:2.1em;font-weight:800;line-height:1.15;margin:6px 0 2px 0;">$&mdash;</div>
+      <div id="wf-monthly" style="font-size:0.95em;color:#6b7177;margin-bottom:10px;"></div>
+    </div>
+    <div id="wf-rows" style="padding:0 22px 8px 22px;"></div>
+    <div id="wf-notes" style="padding:0 22px 16px 22px;font-size:0.85em;color:#6b7177;line-height:1.6;"></div>
+    <div id="wf-compare" style="background:#faf7f2;padding:14px 22px;font-size:0.9em;color:#6b7177;line-height:1.6;"></div>
+  </div>
+
+  <!-- INSURANCE CTA (affiliate slot) -->
+  <div id="wf-ins-cta" data-slot="insurance-cta" style="display:none;background:#0d5f53;border-radius:16px;padding:20px 22px;margin:18px 0;color:#ffffff;">
+    <div style="font-weight:700;font-size:1.05em;margin-bottom:6px;">Insurance is the biggest &ldquo;maybe&rdquo; in this budget</div>
+    <div style="font-size:0.92em;line-height:1.65;opacity:0.9;margin-bottom:14px;">
+      One emergency visit runs $300&ndash;$1,500+. Locking a policy in while your puppy is young
+      keeps hereditary conditions coverable &mdash; compare quotes before the first vet visit notes anything.
+    </div>
+    <a data-slot="insurance-link" href="#" onclick="return false;"
+       style="display:inline-block;background:#ffffff;color:#0d5f53;font-weight:700;padding:11px 20px;border-radius:10px;text-decoration:none;font-size:0.95em;opacity:0.55;cursor:default;">
+      Compare quotes for your breed &rarr; <span style="font-weight:400;font-size:0.85em;">(coming soon)</span>
+    </a>
+  </div>
+
+  <!-- EMAIL CAPTURE (slot) -->
+  <div data-slot="email-capture" style="background:#ffffff;border:1px solid rgba(0,0,0,0.08);border-radius:16px;padding:20px 22px;margin:18px 0;">
+    <div style="font-weight:700;font-size:1.05em;margin-bottom:6px;">Want this as a month-by-month budget?</div>
+    <div style="font-size:0.92em;color:#6b7177;line-height:1.65;margin-bottom:14px;">
+      Get your breed&rsquo;s full first-year timeline &mdash; what you&rsquo;ll spend in months 0&ndash;2, 3&ndash;6, and 7&ndash;12 &mdash; as a printable PDF.
+    </div>
+    <form data-slot="email-form" onsubmit="return false;" style="display:flex;gap:10px;flex-wrap:wrap;">
+      <input type="email" placeholder="you@email.com" required
+             style="flex:1;min-width:200px;padding:11px 14px;border:1px solid rgba(0,0,0,0.15);border-radius:10px;font-size:0.95em;">
+      <button type="submit" style="background:#1a1a1a;color:#ffffff;font-weight:700;border:none;padding:11px 22px;border-radius:10px;font-size:0.95em;cursor:pointer;">
+        Send it
+      </button>
+    </form>
+  </div>
+
+  <p id="wf-article-link" style="font-size:0.95em;line-height:1.7;color:#6b7177;"></p>
+  <p style="font-size:0.8em;color:#9aa0a5;line-height:1.6;margin-top:26px;">
+    Ranges reflect typical US pricing from Wooffy&rsquo;s breed cost guides; a few line items for some breeds
+    are estimated from similar-sized breeds. Your actual costs vary with region, breeder, and luck.
+    This is planning guidance, not a quote.
+  </p>
+</div>
+
+<style>
+#wf-calc .wf-seg{display:flex;background:#ffffff;border:1px solid rgba(0,0,0,0.12);border-radius:10px;overflow:hidden;}
+#wf-calc .wf-seg button{flex:1;padding:10px 6px;font-size:0.88em;border:none;background:transparent;color:#6b7177;cursor:pointer;font-weight:600;}
+#wf-calc .wf-seg button.on{background:#108474;color:#ffffff;}
+#wf-calc .wf-row{display:flex;justify-content:space-between;align-items:baseline;padding:9px 0;border-bottom:1px solid rgba(0,0,0,0.06);}
+#wf-calc .wf-row:last-child{border-bottom:none;}
+#wf-calc .wf-row .l{font-size:0.95em;color:#1a1a1a;}
+#wf-calc .wf-row .l small{display:block;color:#9aa0a5;font-size:0.82em;}
+#wf-calc .wf-row .v{font-weight:700;font-size:0.98em;white-space:nowrap;margin-left:12px;}
+@media (max-width:560px){ #wf-calc [style*="grid-template-columns:1fr 1fr"]{grid-template-columns:1fr !important;} }
+</style>
+
+<script>
+(function(){
+var DATA = {"affenpinscher":{"n":"Affenpinscher","p":[1500,3000],"r":[300,800],"v":[400,700],"s":[200,500],"f":[13,25],"i":[21,42],"g":[350,600],"u":[150,300],"t":[2800,5400],"a":[1050,1900]},"afghan-hound":{"n":"Afghan Hound","p":[3500,7000],"r":[200,600],"v":[500,900],"s":[200,500],"f":[33,58],"i":[33,75],"g":[300,1200],"u":[300,550],"t":[5592,11746],"a":[1490,2700]},"airedale-terrier":{"n":"Airedale Terrier","p":[800,1800],"r":null,"v":[400,800],"s":[200,500],"f":[33,58],"i":[33,67],"g":[300,600],"u":[450,1000],"t":[2750,5700],"a":[1400,2600]},"akita":{"n":"Akita","p":[1000,2000],"r":[250,600],"v":[500,900],"s":[300,600],"f":[50,75],"i":[50,100],"g":[150,350],"u":[610,1220],"t":[3750,8100],"a":[1800,3200]},"alaskan-malamute":{"n":"Alaskan Malamute","p":[1200,3000],"r":null,"v":[300,600],"s":[300,700],"f":[50,100],"i":[40,75],"g":[160,300],"u":[530,1100],"t":[4010,9800],"a":[1360,2600]},"american-eskimo-dog":{"n":"American Eskimo Dog","p":[1000,2500],"r":[150,400],"v":[610,1200],"s":[200,500],"f":[13,50],"i":[25,55],"g":[60,880],"u":[275,610],"t":[2645,7350],"a":[610,2640]},"american-foxhound":{"n":"American Foxhound","p":[500,1500],"r":[150,600],"v":[500,900],"s":[200,500],"f":[50,75],"i":[33,75],"g":[0,40],"u":[500,900],"t":[3000,7600],"a":[1500,2700]},"american-staffordshire-terrier":{"n":"American Staffordshire Terrier","p":[800,2000],"r":[150,400],"v":[500,900],"s":[200,500],"f":[33,58],"i":[42,83],"g":[0,50],"u":[250,450],"t":[2650,5450],"a":[1400,2600]},"american-water-spaniel":{"n":"American Water Spaniel","p":[800,1500],"r":null,"v":[450,800],"s":[200,500],"f":[29,50],"i":[29,67],"g":[0,300],"u":[260,500],"t":[2300,4450],"a":[1000,1900]},"anatolian-shepherd-dog":{"n":"Anatolian Shepherd Dog","p":[1000,2000],"r":null,"v":[500,900],"s":[300,600],"f":[80,140],"i":[50,90],"g":[0,0],"u":[410,820],"t":[4300,7700],"a":[2050,2580]},"aussiedoodle":{"n":"Aussiedoodle","p":[1800,4500],"r":[200,600],"v":[500,900],"s":[200,500],"f":[42,75],"i":[42,100],"g":[600,1200],"u":[300,700],"t":[4300,9500],"a":[1950,3800]},"australian-cattle-dog":{"n":"Australian Cattle Dog","p":[600,1500],"r":null,"v":[400,800],"s":[200,500],"f":[33,58],"i":[33,67],"g":[0,60],"u":[300,500],"t":[2400,5000],"a":[1300,2500]},"australian-shepherd":{"n":"Australian Shepherd","p":[800,1800],"r":null,"v":[500,1000],"s":[200,500],"f":[33,58],"i":[29,54],"g":[150,350],"u":[420,650],"t":[3280,6650],"a":[1550,3000]},"australian-terrier":{"n":"Australian Terrier","p":[1000,2500],"r":[250,600],"v":[200,400],"s":[200,400],"f":[30,50],"i":[25,45],"g":[240,400],"u":[250,510],"t":[2000,4000],"a":[300,500]},"basenji":{"n":"Basenji","p":[2800,5500],"r":[150,400],"v":[400,800],"s":[150,400],"f":[20,40],"i":[25,50],"g":[30,80],"u":[300,900],"t":[4050,8050],"a":[600,1130]},"basset-hound":{"n":"Basset Hound","p":[800,1800],"r":[150,400],"v":[300,500],"s":[200,500],"f":[33,58],"i":[33,58],"g":[0,0],"u":[235,510],"t":[2500,4500],"a":[1200,2100]},"beagle":{"n":"Beagle","p":[500,1200],"r":null,"v":[400,800],"s":[200,500],"f":[33,50],"i":[40,70],"g":[0,0],"u":[250,450],"t":[2200,5500],"a":[1300,2200]},"bearded-collie":{"n":"Bearded Collie","p":[1500,2500],"r":[200,500],"v":[225,450],"s":[250,600],"f":[50,75],"i":[40,80],"g":[480,900],"u":[310,660],"t":[3500,5500],"a":[2000,3500]},"beauceron":{"n":"Beauceron","p":[1500,2500],"r":[200,500],"v":[700,1500],"s":[300,700],"f":[75,117],"i":[50,85],"g":[30,60],"u":[380,770],"t":[3500,6000],"a":[1400,2200]},"bedlington-terrier":{"n":"Bedlington Terrier","p":[1500,2500],"r":[250,600],"v":[400,700],"s":[200,500],"f":[25,42],"i":[33,67],"g":[500,800],"u":[240,480],"t":[3300,5700],"a":[1500,2600]},"belgian-malinois":{"n":"Belgian Malinois","p":[1500,3500],"r":null,"v":[400,800],"s":[200,500],"f":[42,67],"i":[42,83],"g":[0,0],"u":[440,770],"t":[5300,11800],"a":[1800,3800]},"belgian-sheepdog":{"n":"Belgian Sheepdog","p":[1200,2500],"r":[200,500],"v":[425,950],"s":[250,600],"f":[58,92],"i":[40,75],"g":[0,780],"u":[300,650],"t":[3200,6000],"a":[2000,3500]},"belgian-tervuren":{"n":"Belgian Tervuren","p":[1200,2500],"r":[200,500],"v":[335,675],"s":[250,600],"f":[58,92],"i":[40,75],"g":[375,780],"u":[445,840],"t":[3200,6000],"a":[2000,3500]},"bernedoodle":{"n":"Bernedoodle","p":[2500,5500],"r":[200,600],"v":[500,900],"s":[200,500],"f":[50,83],"i":[58,117],"g":[600,1200],"u":[300,700],"t":[5200,10500],"a":[2250,4400]},"bernese-mountain-dog":{"n":"Bernese Mountain Dog","p":[1500,3000],"r":[250,600],"v":[500,900],"s":[300,600],"f":[58,92],"i":[67,125],"g":[50,150],"u":[630,1100],"t":[4130,7750],"a":[2100,3700]},"bichon-frise":{"n":"Bichon Frise","p":[1000,2500],"r":[200,500],"v":[250,400],"s":[200,500],"f":[21,38],"i":[30,50],"g":[350,650],"u":[230,500],"t":[2500,5000],"a":[1300,2200]},"black-and-tan-coonhound":{"n":"Black and Tan Coonhound","p":[600,1200],"r":[250,600],"v":[400,800],"s":[300,500],"f":[50,75],"i":[42,75],"g":[0,200],"u":[490,970],"t":[2550,4700],"a":[1600,2800]},"bloodhound":{"n":"Bloodhound","p":[3500,7000],"r":[200,500],"v":[500,900],"s":[200,500],"f":[50,75],"i":[50,100],"g":[40,70],"u":[350,600],"t":[5550,10600],"a":[2200,4200]},"bluetick-coonhound":{"n":"Bluetick Coonhound","p":[600,1200],"r":[null],"v":[400,800],"s":[300,500],"f":[42,67],"i":[42,75],"g":[0,300],"u":[340,570],"t":[2300,4200],"a":[1500,2700]},"border-collie":{"n":"Border Collie","p":[800,1800],"r":null,"v":[400,800],"s":[200,500],"f":[33,58],"i":[33,67],"g":[0,280],"u":[250,450],"t":[2650,5450],"a":[1400,2700]},"border-terrier":{"n":"Border Terrier","p":[800,1500],"r":null,"v":[350,700],"s":[200,500],"f":[21,38],"i":[25,50],"g":[100,200],"u":[150,350],"t":[2100,4100],"a":[900,1700]},"borzoi":{"n":"Borzoi","p":[1500,3000],"r":[150,400],"v":[500,900],"s":[200,500],"f":[50,80],"i":[50,100],"g":[0,400],"u":[300,550],"t":[4000,9550],"a":[1600,2800]},"boston-terrier":{"n":"Boston Terrier","p":[800,2000],"r":[250,600],"v":[200,400],"s":[200,500],"f":[17,33],"i":[25,50],"g":[0,0],"u":[190,370],"t":[2500,5500],"a":[1250,2500]},"bouvier-des-flandres":{"n":"Bouvier des Flandres","p":[1500,3000],"r":[200,500],"v":[500,960],"s":[300,700],"f":[75,120],"i":[50,90],"g":[500,1050],"u":[370,750],"t":[4000,7000],"a":[2500,4000]},"boxer":{"n":"Boxer","p":[800,2000],"r":[250,600],"v":[500,900],"s":[300,600],"f":[42,67],"i":[50,100],"g":[0,70],"u":[540,970],"t":[2900,5800],"a":[1600,2900]},"briard":{"n":"Briard","p":[1500,2500],"r":[200,500],"v":[500,1000],"s":[300,700],"f":[75,117],"i":[50,85],"g":[450,960],"u":[500,1000],"t":[3800,6500],"a":[2200,3800]},"brittany":{"n":"Brittany","p":[800,2500],"r":[150,400],"v":[400,800],"s":[150,400],"f":[40,65],"i":[33,75],"g":[40,200],"u":[250,500],"t":[2800,6000],"a":[1490,2700]},"brussels-griffon":{"n":"Brussels Griffon","p":[1500,3000],"r":[250,600],"v":[150,300],"s":[200,400],"f":[30,60],"i":[25,50],"g":[0,720],"u":[280,800],"t":[3600,7310],"a":[1540,3090]},"bull-terrier":{"n":"Bull Terrier","p":[1500,3000],"r":[250,600],"v":[500,900],"s":[200,500],"f":[33,58],"i":[42,83],"g":[120,360],"u":[540,1000],"t":[3400,6600],"a":[1400,2700]},"bulldog":{"n":"Bulldog","p":[1500,4000],"r":null,"v":[250,500],"s":[300,800],"f":[25,42],"i":[42,100],"g":[0,480],"u":[200,400],"t":[3700,11700],"a":[1700,5500]},"bullmastiff":{"n":"Bullmastiff","p":[1500,3000],"r":null,"v":[200,400],"s":[400,700],"f":[100,150],"i":[60,100],"g":[0,360],"u":[640,1030],"t":[5360,9430],"a":[2670,4640]},"cairn-terrier":{"n":"Cairn Terrier","p":[1200,2500],"r":null,"v":[425,875],"s":[250,450],"f":[30,50],"i":[20,40],"g":[180,400],"u":[225,495],"t":[2500,4500],"a":[1010,2030]},"cane-corso":{"n":"Cane Corso","p":[1500,4000],"r":null,"v":[300,600],"s":[300,800],"f":[50,100],"i":[50,100],"g":[0,70],"u":[250,500],"t":[4450,11500],"a":[2100,4500]},"cardigan-welsh-corgi":{"n":"Cardigan Welsh Corgi","p":[1500,3000],"r":null,"v":[400,800],"s":[200,500],"f":[25,42],"i":[33,67],"g":[0,300],"u":[640,1220],"t":[3200,6350],"a":[1000,1800]},"cavalier-king-charles-spaniel":{"n":"Cavalier King Charles Spaniel","p":[1500,3500],"r":[300,600],"v":[400,700],"s":[200,400],"f":[25,42],"i":[33,58],"g":[240,480],"u":[180,405],"t":[3000,6000],"a":[1200,2200]},"cavapoo":{"n":"Cavapoo","p":[2000,4500],"r":[200,600],"v":[230,590],"s":[200,500],"f":[25,42],"i":[33,75],"g":[500,1000],"u":[300,700],"t":[3800,8200],"a":[1200,2440]},"chesapeake-bay-retriever":{"n":"Chesapeake Bay Retriever","p":[800,1500],"r":null,"v":[500,900],"s":[300,500],"f":[46,75],"i":[42,100],"g":[0,0],"u":[300,500],"t":[2850,5500],"a":[1400,2700]},"chihuahua":{"n":"Chihuahua","p":[500,1500],"r":null,"v":[400,900],"s":[200,500],"f":[8,17],"i":[17,38],"g":[30,150],"u":[150,300],"t":[1680,4200],"a":[800,1700]},"chinese-crested":{"n":"Chinese Crested","p":[1200,2500],"r":null,"v":[250,450],"s":[200,400],"f":[30,60],"i":[25,50],"g":[240,480],"u":[180,450],"t":[3223,6895],"a":[360,720]},"chinese-shar-pei":{"n":"Chinese Shar-Pei","p":[1500,3500],"r":[150,450],"v":[1110,2610],"s":[250,600],"f":[42,100],"i":[40,70],"g":[60,150],"u":[330,660],"t":[1950,10850],"a":[500,1200]},"chow-chow":{"n":"Chow Chow","p":[1000,3000],"r":null,"v":[500,900],"s":[200,500],"f":[42,67],"i":[50,100],"g":[400,800],"u":[350,600],"t":[3550,7800],"a":[1850,3400]},"clumber-spaniel":{"n":"Clumber Spaniel","p":[1500,3500],"r":[200,500],"v":[500,900],"s":[200,450],"f":[45,75],"i":[42,92],"g":[100,500],"u":[300,550],"t":[4000,8000],"a":[1600,2800]},"cocker-spaniel":{"n":"Cocker Spaniel","p":[1000,2000],"r":[150,500],"v":[500,1000],"s":[200,500],"f":[29,50],"i":[29,50],"g":[420,770],"u":[350,600],"t":[3470,6570],"a":[1670,2970]},"collie":{"n":"Collie (Rough Collie)","p":[1000,2500],"r":null,"v":[400,800],"s":[300,500],"f":[42,67],"i":[42,83],"g":[500,1200],"u":[560,1070],"t":[3400,6950],"a":[1800,3300]},"coton-de-tulear":{"n":"Coton de Tulear","p":[1500,2500],"r":[250,600],"v":[250,450],"s":[200,400],"f":[40,70],"i":[25,45],"g":[350,640],"u":[250,520],"t":[3800,6910],"a":[1610,3330]},"dachshund":{"n":"Dachshund","p":[600,1500],"r":null,"v":[500,1000],"s":[200,500],"f":[17,33],"i":[25,50],"g":[50,300],"u":[440,950],"t":[2350,5200],"a":[900,2150]},"dalmatian":{"n":"Dalmatian","p":[600,1200],"r":[0,0],"v":[500,900],"s":[100,200],"f":[42,75],"i":[42,83],"g":[0,300],"u":[500,1000],"t":[2600,5000],"a":[1350,2500]},"doberman-pinscher":{"n":"Doberman Pinscher","p":[1500,3000],"r":null,"v":[600,1200],"s":[300,500],"f":[50,83],"i":[42,75],"g":[50,100],"u":[300,600],"t":[4350,8400],"a":[2150,3950]},"dogue-de-bordeaux":{"n":"Dogue de Bordeaux","p":[1800,3500],"r":[250,600],"v":[550,1000],"s":[500,900],"f":[120,180],"i":[70,120],"g":[50,100],"u":[620,1200],"t":[6340,11250],"a":[3030,4600]},"english-cocker-spaniel":{"n":"English Cocker Spaniel","p":[800,2000],"r":null,"v":[450,800],"s":[200,500],"f":[29,50],"i":[29,67],"g":[400,700],"u":[200,400],"t":[2700,5650],"a":[1400,2600]},"english-setter":{"n":"English Setter","p":[800,1500],"r":null,"v":[400,800],"s":[300,500],"f":[42,67],"i":[33,75],"g":[300,600],"u":[450,900],"t":[2850,5500],"a":[1500,2800]},"english-springer-spaniel":{"n":"English Springer Spaniel","p":[1200,2500],"r":[700,700],"v":[300,600],"s":[250,600],"f":[33,58],"i":[30,50],"g":[240,540],"u":[300,650],"t":[2800,5500],"a":[1490,2790]},"entlebucher-mountain-dog":{"n":"Entlebucher Mountain Dog","p":[1200,2000],"r":null,"v":[150,350],"s":[250,500],"f":[60,100],"i":[35,60],"g":[0,0],"u":[285,590],"t":[3655,6770],"a":[1640,3200]},"field-spaniel":{"n":"Field Spaniel","p":[1000,2000],"r":[250,600],"v":[450,800],"s":[200,500],"f":[29,50],"i":[25,58],"g":[300,600],"u":[410,870],"t":[2750,5450],"a":[1250,2400]},"finnish-lapphund":{"n":"Finnish Lapphund","p":[1500,2500],"r":null,"v":[150,350],"s":[250,500],"f":[60,100],"i":[35,60],"g":[120,400],"u":[375,810],"t":[3985,7290],"a":[1660,3200]},"finnish-spitz":{"n":"Finnish Spitz","p":[1200,2000],"r":[250,600],"v":[400,700],"s":[200,500],"f":[45,65],"i":[35,60],"g":[100,160],"u":[480,850],"t":[3000,5500],"a":[1500,2500]},"flat-coated-retriever":{"n":"Flat-Coated Retriever","p":[1000,2500],"r":null,"v":[500,900],"s":[300,500],"f":[42,67],"i":[50,100],"g":[0,0],"u":[300,500],"t":[3100,6300],"a":[1650,2800]},"french-bulldog":{"n":"French Bulldog","p":[2500,5000],"r":null,"v":[700,1300],"s":[300,700],"f":[33,58],"i":[90,200],"g":[0,70],"u":[230,510],"t":[4900,8500],"a":[2180,4000]},"german-pinscher":{"n":"German Pinscher","p":[1500,3500],"r":[200,500],"v":[200,400],"s":[250,500],"f":[50,80],"i":[30,60],"g":[0,0],"u":[195,445],"t":[3500,6500],"a":[1560,3080]},"german-shepherd-dog":{"n":"German Shepherd Dog","p":[800,2500],"r":null,"v":[500,900],"s":[300,500],"f":[58,92],"i":[70,120],"g":[0,0],"u":[420,910],"t":[3500,7200],"a":[1600,2800]},"german-shorthaired-pointer":{"n":"German Shorthaired Pointer","p":[800,1500],"r":[150,600],"v":[600,1200],"s":[200,500],"f":[40,85],"i":[33,58],"g":[50,100],"u":[200,400],"t":[3150,5900],"a":[1600,2900]},"german-wirehaired-pointer":{"n":"German Wirehaired Pointer","p":[800,1800],"r":null,"v":[500,900],"s":[200,500],"f":[42,67],"i":[42,83],"g":[0,480],"u":[430,700],"t":[2850,5600],"a":[1400,2500]},"giant-schnauzer":{"n":"Giant Schnauzer","p":[2000,5000],"r":[200,500],"v":[500,950],"s":[200,500],"f":[60,95],"i":[50,100],"g":[600,1300],"u":[350,650],"t":[5000,10000],"a":[1600,2800]},"golden-retriever":{"n":"Golden Retriever","p":[1500,3500],"r":[200,500],"v":[500,900],"s":[300,500],"f":[50,83],"i":[35,65],"g":[0,600],"u":[370,750],"t":[4000,8000],"a":[1700,3100]},"goldendoodle":{"n":"Goldendoodle","p":[2000,5000],"r":[200,600],"v":[500,900],"s":[200,500],"f":[42,75],"i":[50,100],"g":[600,1200],"u":[300,700],"t":[4500,8800],"a":[1550,2900]},"gordon-setter":{"n":"Gordon Setter","p":[800,1500],"r":[250,600],"v":[400,800],"s":[300,500],"f":[42,67],"i":[33,75],"g":[300,600],"u":[430,900],"t":[2850,5500],"a":[1500,2800]},"great-dane":{"n":"Great Dane","p":[1000,2500],"r":null,"v":[900,1800],"s":[300,600],"f":[83,125],"i":[83,150],"g":[0,0],"u":[560,1020],"t":[4650,9100],"a":[2700,4800]},"great-pyrenees":{"n":"Great Pyrenees","p":[1000,2500],"r":null,"v":[500,900],"s":[300,600],"f":[58,100],"i":[58,117],"g":[160,600],"u":[550,1100],"t":[3500,7000],"a":[2000,3500]},"greater-swiss-mountain-dog":{"n":"Greater Swiss Mountain Dog","p":[2000,4500],"r":[200,500],"v":[500,1000],"s":[200,500],"f":[60,95],"i":[58,117],"g":[50,200],"u":[350,650],"t":[4500,9000],"a":[2200,4200]},"greyhound":{"n":"Greyhound","p":[1500,2500],"r":[250,450],"v":[350,500],"s":[300,500],"f":[50,75],"i":[42,67],"g":[0,0],"u":[260,590],"t":[2000,3500],"a":[1600,2700]},"harrier":{"n":"Harrier","p":[800,1500],"r":null,"v":[400,700],"s":[200,500],"f":[33,58],"i":[33,58],"g":[0,180],"u":[250,450],"t":[2250,4050],"a":[1300,2200]},"havanese":{"n":"Havanese","p":[1000,2500],"r":[250,600],"v":[200,400],"s":[200,500],"f":[13,25],"i":[21,42],"g":[400,750],"u":[200,460],"t":[2500,5600],"a":[1400,2900]},"ibizan-hound":{"n":"Ibizan Hound","p":[1200,2000],"r":[250,600],"v":[400,700],"s":[200,500],"f":[33,58],"i":[33,67],"g":[0,70],"u":[300,550],"t":[2740,4850],"a":[1400,2500]},"icelandic-sheepdog":{"n":"Icelandic Sheepdog","p":[1500,2500],"r":null,"v":[150,350],"s":[250,500],"f":[70,140],"i":[30,55],"g":[120,200],"u":[350,710],"t":[3810,6810],"a":[1560,2750]},"irish-setter":{"n":"Irish Setter","p":[3000,6000],"r":[250,600],"v":[500,900],"s":[200,500],"f":[42,67],"i":[42,83],"g":[0,650],"u":[360,650],"t":[4800,9250],"a":[1350,2400]},"irish-terrier":{"n":"Irish Terrier","p":[1200,2000],"r":null,"v":[400,700],"s":[200,500],"f":[33,50],"i":[33,58],"g":[200,400],"u":[200,400],"t":[3000,5200],"a":[1300,2200]},"irish-water-spaniel":{"n":"Irish Water Spaniel","p":[1000,2000],"r":[250,600],"v":[450,800],"s":[200,500],"f":[38,63],"i":[33,75],"g":[400,700],"u":[450,850],"t":[3150,6000],"a":[1550,2900]},"irish-wolfhound":{"n":"Irish Wolfhound","p":[1500,3500],"r":null,"v":[600,1000],"s":[400,800],"f":[75,117],"i":[100,200],"g":[0,360],"u":[710,1370],"t":[5250,10350],"a":[2800,5200]},"italian-greyhound":{"n":"Italian Greyhound","p":[1500,3500],"r":null,"v":[250,500],"s":[200,500],"f":[17,33],"i":[29,58],"g":[0,0],"u":[380,850],"t":[3150,7000],"a":[850,1700]},"japanese-chin":{"n":"Japanese Chin","p":[1500,3000],"r":[150,400],"v":[760,1600],"s":[250,500],"f":[17,32],"i":[28,55],"g":[40,530],"u":[260,520],"t":[3286,7050],"a":[1200,2200]},"keeshond":{"n":"Keeshond","p":[1500,2500],"r":null,"v":[400,700],"s":[200,500],"f":[29,46],"i":[33,58],"g":[200,400],"u":[250,400],"t":[3200,5550],"a":[1280,2230]},"kerry-blue-terrier":{"n":"Kerry Blue Terrier","p":[1500,3500],"r":[200,500],"v":[400,800],"s":[150,400],"f":[40,65],"i":[33,75],"g":[550,1000],"u":[300,550],"t":[2000,4500],"a":[1490,2700]},"komondor":{"n":"Komondor","p":[1000,2000],"r":null,"v":[500,900],"s":[400,800],"f":[50,75],"i":[50,100],"g":[300,600],"u":[350,600],"t":[4650,9800],"a":[1950,3500]},"labradoodle":{"n":"Labradoodle","p":[2000,4500],"r":[200,600],"v":[500,900],"s":[200,500],"f":[42,75],"i":[42,92],"g":[500,1100],"u":[300,700],"t":[4300,9100],"a":[1490,2700]},"labrador-retriever":{"n":"Labrador Retriever","p":[800,1500],"r":null,"v":[500,900],"s":[300,500],"f":[50,83],"i":[60,120],"g":[0,0],"u":[380,800],"t":[2300,4400],"a":[1600,2800]},"lagotto-romagnolo":{"n":"Lagotto Romagnolo","p":[1500,3000],"r":[250,600],"v":[450,800],"s":[200,500],"f":[29,50],"i":[29,67],"g":[350,650],"u":[200,400],"t":[3350,6600],"a":[1350,2550]},"lakeland-terrier":{"n":"Lakeland Terrier","p":[1200,2000],"r":null,"v":[150,300],"s":[200,400],"f":[30,60],"i":[25,45],"g":[300,640],"u":[240,480],"t":[3170,5900],"a":[1320,2660]},"leonberger":{"n":"Leonberger","p":[2500,5000],"r":[200,500],"v":[600,1100],"s":[250,600],"f":[75,120],"i":[67,150],"g":[200,800],"u":[400,750],"t":[6000,12000],"a":[2400,4450]},"lhasa-apso":{"n":"Lhasa Apso","p":[1000,2000],"r":null,"v":[400,700],"s":[200,500],"f":[21,33],"i":[25,50],"g":[400,800],"u":[250,520],"t":[2600,5020],"a":[1270,2350]},"lowchen":{"n":"Lowchen","p":[2000,4000],"r":null,"v":[519,1050],"s":[250,550],"f":[25,45],"i":[25,45],"g":[340,600],"u":[182,375],"t":[3741,7285],"a":[1294,2430]},"maltese":{"n":"Maltese","p":[1000,3000],"r":[200,500],"v":[300,500],"s":[200,500],"f":[13,25],"i":[25,46],"g":[350,600],"u":[163,360],"t":[2500,5500],"a":[1200,2400]},"mastiff":{"n":"Mastiff","p":[1500,2500],"r":[250,600],"v":[1000,2000],"s":[300,700],"f":[100,150],"i":[83,167],"g":[300,600],"u":[560,1000],"t":[5450,9800],"a":[2900,5200]},"miniature-american-shepherd":{"n":"Miniature American Shepherd","p":[800,2000],"r":null,"v":[400,800],"s":[200,500],"f":[25,42],"i":[29,58],"g":[0,300],"u":[200,400],"t":[2350,5100],"a":[1150,2200]},"miniature-bull-terrier":{"n":"Miniature Bull Terrier","p":[1500,3500],"r":null,"v":[200,400],"s":[250,450],"f":[40,60],"i":[25,50],"g":[25,150],"u":[125,230],"t":[3110,6600],"a":[900,1700]},"miniature-pinscher":{"n":"Miniature Pinscher","p":[1000,2500],"r":[75,400],"v":[200,400],"s":[200,500],"f":[21,38],"i":[25,50],"g":[0,0],"u":[180,435],"t":[2132,4891],"a":[250,450]},"miniature-poodle":{"n":"Miniature Poodle","p":[1200,3000],"r":[200,500],"v":[300,500],"s":[200,500],"f":[21,38],"i":[29,50],"g":[360,650],"u":[195,425],"t":[2700,5500],"a":[1300,2200]},"miniature-schnauzer":{"n":"Miniature Schnauzer","p":[800,1800],"r":null,"v":[500,1000],"s":[200,500],"f":[17,33],"i":[21,42],"g":[360,700],"u":[250,450],"t":[2760,5650],"a":[1210,2350]},"neapolitan-mastiff":{"n":"Neapolitan Mastiff","p":[2500,5000],"r":[200,500],"v":[600,1100],"s":[300,700],"f":[85,140],"i":[75,167],"g":[40,80],"u":[400,750],"t":[5500,11000],"a":[2200,4200]},"newfoundland":{"n":"Newfoundland","p":[1500,3000],"r":null,"v":[700,1200],"s":[300,600],"f":[100,150],"i":[67,133],"g":[160,300],"u":[560,1020],"t":[4000,8000],"a":[2200,4000]},"norfolk-terrier":{"n":"Norfolk Terrier","p":[1500,2500],"r":[150,400],"v":[250,500],"s":[200,500],"f":[30,50],"i":[30,55],"g":[200,480],"u":[200,460],"t":[3000,5500],"a":[1400,2400]},"norwegian-elkhound":{"n":"Norwegian Elkhound","p":[1000,2000],"r":null,"v":[400,700],"s":[200,500],"f":[33,58],"i":[33,67],"g":[80,180],"u":[300,500],"t":[2580,4880],"a":[1400,2500]},"norwich-terrier":{"n":"Norwich Terrier","p":[1500,2800],"r":[150,400],"v":[250,500],"s":[200,500],"f":[30,50],"i":[30,55],"g":[200,480],"u":[175,300],"t":[3000,5500],"a":[1400,2400]},"nova-scotia-duck-tolling-retriever":{"n":"Nova Scotia Duck Tolling Retriever","p":[1500,3000],"r":[250,3000],"v":[500,900],"s":[300,500],"f":[33,58],"i":[33,75],"g":[0,250],"u":[290,520],"t":[3250,6350],"a":[1100,2150]},"old-english-sheepdog":{"n":"Old English Sheepdog","p":[1500,3500],"r":null,"v":[400,900],"s":[300,500],"f":[50,75],"i":[50,100],"g":[800,1800],"u":[630,1100],"t":[4450,9400],"a":[2400,4700]},"otterhound":{"n":"Otterhound","p":[1500,3000],"r":null,"v":[700,1250],"s":[300,600],"f":[50,75],"i":[42,83],"g":[0,700],"u":[560,1020],"t":[4100,9300],"a":[1600,2800]},"papillon":{"n":"Papillon","p":[1200,2500],"r":[100,400],"v":[390,750],"s":[200,400],"f":[15,29],"i":[20,45],"g":[0,330],"u":[240,495],"t":[2450,5363],"a":[1200,2200]},"parson-russell-terrier":{"n":"Parson Russell Terrier","p":[1000,2500],"r":null,"v":[200,400],"s":[200,400],"f":[25,45],"i":[20,40],"g":[50,150],"u":[115,230],"t":[2000,4000],"a":[1040,1620]},"pekingese":{"n":"Pekingese","p":[1000,3000],"r":[100,350],"v":[660,1300],"s":[250,500],"f":[17,29],"i":[30,60],"g":[330,800],"u":[270,565],"t":[1530,3165],"a":[890,1570]},"pembroke-welsh-corgi":{"n":"Pembroke Welsh Corgi","p":[1000,2500],"r":null,"v":[400,800],"s":[200,500],"f":[33,58],"i":[50,80],"g":[0,600],"u":[250,450],"t":[2700,5500],"a":[1500,2500]},"pharaoh-hound":{"n":"Pharaoh Hound","p":[1500,2500],"r":[200,500],"v":[400,800],"s":[200,600],"f":[33,58],"i":[33,67],"g":[0,0],"u":[440,850],"t":[3600,8150],"a":[1300,2200]},"pointer":{"n":"Pointer","p":[800,3000],"r":[150,400],"v":[400,800],"s":[150,400],"f":[45,75],"i":[33,75],"g":[0,180],"u":[250,500],"t":[2536,6680],"a":[1490,2700]},"polish-lowland-sheepdog":{"n":"Polish Lowland Sheepdog","p":[1500,2500],"r":null,"v":[150,350],"s":[250,500],"f":[65,100],"i":[35,60],"g":[360,800],"u":[380,780],"t":[4290,7700],"a":[2010,3570]},"pomeranian":{"n":"Pomeranian","p":[800,2000],"r":null,"v":[200,400],"s":[200,500],"f":[12,25],"i":[20,37],"g":[300,640],"u":[200,460],"t":[2250,5040],"a":[1300,2590]},"portuguese-water-dog":{"n":"Portuguese Water Dog","p":[1500,3500],"r":null,"v":[300,600],"s":[250,600],"f":[33,58],"i":[33,58],"g":[450,800],"u":[300,650],"t":[3750,7850],"a":[1750,3150]},"pug":{"n":"Pug","p":[800,2000],"r":[250,600],"v":[200,400],"s":[200,500],"f":[20,35],"i":[35,65],"g":[0,0],"u":[250,500],"t":[3500,7500],"a":[1400,2800]},"puli":{"n":"Puli","p":[1200,2000],"r":[250,2000],"v":[400,800],"s":[250,500],"f":[60,90],"i":[30,55],"g":[50,100],"u":[510,890],"t":[3540,6340],"a":[1160,1810]},"redbone-coonhound":{"n":"Redbone Coonhound","p":[500,1500],"r":[150,400],"v":[400,800],"s":[150,400],"f":[45,75],"i":[33,75],"g":[20,40],"u":[250,500],"t":[2500,5500],"a":[1490,2700]},"rhodesian-ridgeback":{"n":"Rhodesian Ridgeback","p":[1500,3500],"r":[200,500],"v":[500,950],"s":[200,500],"f":[55,85],"i":[42,92],"g":[30,60],"u":[300,600],"t":[3694,7734],"a":[1600,2800]},"rottweiler":{"n":"Rottweiler","p":[1000,2500],"r":null,"v":[500,900],"s":[200,600],"f":[67,117],"i":[80,150],"g":[0,0],"u":[400,800],"t":[4000,8000],"a":[2200,4200]},"russell-terrier":{"n":"Russell Terrier","p":[800,2000],"r":null,"v":[200,400],"s":[200,400],"f":[20,40],"i":[20,35],"g":[0,350],"u":[290,570],"t":[1800,3500],"a":[300,500]},"saint-bernard":{"n":"Saint Bernard","p":[1500,3500],"r":[300,600],"v":[500,900],"s":[400,800],"f":[130,175],"i":[75,150],"g":[0,700],"u":[560,1020],"t":[5000,9500],"a":[2500,4500]},"saluki":{"n":"Saluki","p":[1500,3000],"r":null,"v":[500,900],"s":[200,600],"f":[42,67],"i":[42,83],"g":[0,100],"u":[300,500],"t":[3450,8100],"a":[1500,2800]},"samoyed":{"n":"Samoyed","p":[3200,6500],"r":[null],"v":[500,900],"s":[200,500],"f":[33,58],"i":[42,83],"g":[400,800],"u":[550,1100],"t":[5550,11000],"a":[1650,3100]},"schipperke":{"n":"Schipperke","p":[800,1600],"r":[150,350],"v":[519,1050],"s":[250,550],"f":[25,40],"i":[25,45],"g":[0,260],"u":[187,385],"t":[2326,4495],"a":[1500,2500]},"scottish-deerhound":{"n":"Scottish Deerhound","p":[1500,3500],"r":[200,500],"v":[400,700],"s":[200,500],"f":[65,100],"i":[58,125],"g":[50,200],"u":[350,650],"t":[4500,9500],"a":[1900,3500]},"scottish-terrier":{"n":"Scottish Terrier","p":[1200,2000],"r":null,"v":[150,300],"s":[200,400],"f":[35,65],"i":[25,50],"g":[300,680],"u":[300,580],"t":[3230,6060],"a":[1480,3280]},"sheepadoodle":{"n":"Sheepadoodle","p":[2000,4500],"r":[200,600],"v":[350,850],"s":[200,500],"f":[50,83],"i":[50,100],"g":[400,1400],"u":[300,700],"t":[4700,9400],"a":[1950,3600]},"shetland-sheepdog":{"n":"Shetland Sheepdog","p":[1000,2500],"r":null,"v":[400,800],"s":[200,500],"f":[17,33],"i":[25,50],"g":[200,400],"u":[200,400],"t":[2600,5700],"a":[1150,2300]},"shiba-inu":{"n":"Shiba Inu","p":[1200,2500],"r":null,"v":[400,800],"s":[200,500],"f":[29,50],"i":[33,67],"g":[0,300],"u":[250,510],"t":[3300,7650],"a":[1050,1900]},"shih-tzu":{"n":"Shih Tzu","p":[1000,2500],"r":[200,500],"v":[300,600],"s":[200,400],"f":[17,33],"i":[29,50],"g":[360,720],"u":[175,460],"t":[2500,5000],"a":[1200,2200]},"siberian-husky":{"n":"Siberian Husky","p":[600,1500],"r":[250,600],"v":[400,800],"s":[200,500],"f":[42,67],"i":[50,90],"g":[0,0],"u":[380,780],"t":[2500,6800],"a":[1500,2600]},"silky-terrier":{"n":"Silky Terrier","p":[1200,2500],"r":[150,400],"v":[250,450],"s":[200,500],"f":[30,55],"i":[30,60],"g":[150,780],"u":[200,400],"t":[3000,6000],"a":[1540,3550]},"skye-terrier":{"n":"Skye Terrier","p":[1800,3000],"r":null,"v":[300,550],"s":[250,550],"f":[50,70],"i":[35,65],"g":[300,720],"u":[220,350],"t":[3500,6500],"a":[1800,3000]},"soft-coated-wheaten-terrier":{"n":"Soft Coated Wheaten Terrier","p":[3000,6500],"r":[0,0],"v":[500,900],"s":[200,500],"f":[29,50],"i":[33,75],"g":[400,700],"u":[410,870],"t":[5160,10670],"a":[1600,3000]},"spanish-water-dog":{"n":"Spanish Water Dog","p":[1500,2500],"r":[250,600],"v":[400,800],"s":[200,500],"f":[33,58],"i":[33,67],"g":[200,400],"u":[200,400],"t":[3300,6100],"a":[1500,2800]},"spinone-italiano":{"n":"Spinone Italiano","p":[1500,2500],"r":null,"v":[500,900],"s":[200,500],"f":[46,75],"i":[42,92],"g":[0,300],"u":[300,500],"t":[3550,6400],"a":[1400,2600]},"staffordshire-bull-terrier":{"n":"Staffordshire Bull Terrier","p":[2500,5000],"r":null,"v":[500,900],"s":[300,600],"f":[29,46],"i":[29,58],"g":[20,40],"u":[200,400],"t":[4090,7980],"a":[1070,1840]},"standard-poodle":{"n":"Standard Poodle","p":[1500,4000],"r":[200,500],"v":[500,950],"s":[200,500],"f":[50,80],"i":[42,92],"g":[600,1200],"u":[350,650],"t":[4500,9500],"a":[1280,2230]},"standard-schnauzer":{"n":"Standard Schnauzer","p":[1500,3500],"r":[200,500],"v":[400,800],"s":[150,400],"f":[40,70],"i":[33,75],"g":[550,1000],"u":[300,550],"t":[3776,7990],"a":[1490,2700]},"swedish-vallhund":{"n":"Swedish Vallhund","p":[1200,2200],"r":[150,350],"v":[555,1165],"s":[300,650],"f":[35,55],"i":[30,55],"g":[0,140],"u":[267,547],"t":[3142,5872],"a":[420,660]},"tibetan-mastiff":{"n":"Tibetan Mastiff","p":[1500,5000],"r":[300,800],"v":[425,1025],"s":[300,600],"f":[100,150],"i":[67,125],"g":[300,600],"u":[630,1255],"t":[5159,11780],"a":[400,700]},"tibetan-spaniel":{"n":"Tibetan Spaniel","p":[1200,2200],"r":[150,350],"v":[250,450],"s":[250,550],"f":[25,40],"i":[25,45],"g":[0,390],"u":[172,365],"t":[2751,5205],"a":[744,1410]},"tibetan-terrier":{"n":"Tibetan Terrier","p":[1500,2500],"r":null,"v":[400,700],"s":[200,500],"f":[33,50],"i":[33,58],"g":[400,700],"u":[310,570],"t":[3310,5670],"a":[1520,2550]},"toy-fox-terrier":{"n":"Toy Fox Terrier","p":[1000,2000],"r":[150,350],"v":[250,450],"s":[200,450],"f":[25,45],"i":[25,50],"g":[0,0],"u":[150,280],"t":[2500,4500],"a":[350,600]},"vizsla":{"n":"Vizsla","p":[1000,2500],"r":null,"v":[300,600],"s":[250,600],"f":[33,58],"i":[29,50],"g":[0,100],"u":[450,850],"t":[2700,6100],"a":[1350,2650]},"weimaraner":{"n":"Weimaraner","p":[1000,2500],"r":null,"v":[300,600],"s":[300,700],"f":[50,75],"i":[33,58],"g":[0,50],"u":[200,450],"t":[3300,7650],"a":[1550,3000]},"welsh-springer-spaniel":{"n":"Welsh Springer Spaniel","p":[1000,2000],"r":null,"v":[450,800],"s":[200,500],"f":[29,50],"i":[25,58],"g":[0,0],"u":[200,400],"t":[2450,4850],"a":[950,1800]},"welsh-terrier":{"n":"Welsh Terrier","p":[1200,2200],"r":[150,400],"v":[445,1010],"s":[250,600],"f":[35,55],"i":[30,55],"g":[250,700],"u":[225,460],"t":[3150,6290],"a":[1250,2440]},"west-highland-white-terrier":{"n":"West Highland White Terrier","p":[2800,5500],"r":null,"v":[400,800],"s":[200,500],"f":[17,33],"i":[29,58],"g":[350,650],"u":[350,750],"t":[4450,8800],"a":[1200,2250]},"whippet":{"n":"Whippet","p":[1200,2500],"r":[200,500],"v":[400,800],"s":[200,500],"f":[33,50],"i":[29,55],"g":[0,0],"u":[205,430],"t":[2500,4500],"a":[1100,1800]},"wire-fox-terrier":{"n":"Wire Fox Terrier","p":[1500,2500],"r":[150,400],"v":[530,1065],"s":[250,650],"f":[35,55],"i":[35,60],"g":[360,960],"u":[237,502],"t":[3717,7057],"a":[1170,1695]},"wirehaired-pointing-griffon":{"n":"Wirehaired Pointing Griffon","p":[1000,2500],"r":null,"v":[450,800],"s":[200,500],"f":[38,63],"i":[33,75],"g":[0,300],"u":[510,1070],"t":[2750,5900],"a":[1150,2200]},"xoloitzcuintli":{"n":"Xoloitzcuintli","p":[2000,4000],"r":null,"v":[400,700],"s":[200,500],"f":[17,50],"i":[17,42],"g":[0,0],"u":[200,450],"t":[3200,6700],"a":[850,1900]},"yorkshire-terrier":{"n":"Yorkshire Terrier","p":[1000,2500],"r":null,"v":[200,400],"s":[200,500],"f":[13,25],"i":[21,42],"g":[300,640],"u":[200,460],"t":[2400,5540],"a":[1300,2640]}};
+var $ = function(id){ return document.getElementById(id); };
+var fmt = function(n){ return '$' + Math.round(n).toLocaleString('en-US'); };
+var rng = function(p){ return fmt(p[0]) + ' – ' + fmt(p[1]); };
+
+var state = { breed:null, region:1, source:'breeder', ins:'yes', groom:'pro' };
+
+var slugs = Object.keys(DATA).sort(function(a,b){ return DATA[a].n < DATA[b].n ? -1 : 1; });
+var sel = $('wf-breed');
+slugs.forEach(function(s){
+  var o = document.createElement('option'); o.value = s; o.textContent = DATA[s].n; sel.appendChild(o);
+});
+state.breed = DATA['golden-retriever'] ? 'golden-retriever' : slugs[0];
+sel.value = state.breed;
+
+function seg(id, key){
+  var box = $(id);
+  box.addEventListener('click', function(e){
+    var b = e.target.closest('button'); if(!b) return;
+    box.querySelectorAll('button').forEach(function(x){ x.classList.remove('on'); });
+    b.classList.add('on');
+    state[key] = key === 'region' ? parseFloat(b.dataset.v) : b.dataset.v;
+    render();
+  });
+}
+seg('wf-region','region'); seg('wf-source','source'); seg('wf-ins','ins'); seg('wf-groom','groom');
+sel.addEventListener('change', function(){ state.breed = sel.value; render(); });
+
+function scaled(p, m){ return [p[0]*m, p[1]*m]; }
+function add(a, b){ return [a[0]+b[0], a[1]+b[1]]; }
+
+function render(){
+  var d = DATA[state.breed];
+  var m = state.region;
+  var rows = [], notes = [];
+
+  var acq, acqLabel;
+  if(state.source === 'rescue'){
+    acq = d.r || [300, 600];
+    acqLabel = 'Adoption fee';
+    if(!d.r) notes.push('Typical US rescue fee shown — this breed’s guide doesn’t list one.');
+    notes.push('Adoption fees usually include initial vaccines and spay/neuter.');
+  } else {
+    acq = d.p; acqLabel = 'Puppy (reputable breeder)';
+  }
+  rows.push([acqLabel, '', acq]);
+
+  var vet = scaled(d.v, m);
+  rows.push(['Vet, year one', 'vaccines + routine visits', vet]);
+
+  var spay = [0,0];
+  if(state.source === 'breeder'){ spay = scaled(d.s, m); rows.push(['Spay / neuter', '', spay]); }
+
+  var food = [d.f[0]*12, d.f[1]*12];
+  rows.push(['Food', fmt(d.f[0]) + '–' + fmt(d.f[1]) + ' / month', food]);
+
+  var ins = [0,0];
+  if(state.ins === 'yes'){
+    ins = [d.i[0]*12, d.i[1]*12];
+    rows.push(['Pet insurance', fmt(d.i[0]) + '–' + fmt(d.i[1]) + ' / month', ins]);
+  } else {
+    notes.push('Skipping insurance? Vets recommend a $1,500–$3,000 emergency fund instead.');
+  }
+
+  var groom = [0,0];
+  if(state.groom === 'pro'){ groom = scaled(d.g, m); if(groom[1] > 0) rows.push(['Professional grooming', 'per year', groom]); }
+  else { notes.push('DIY grooming: tools are already in your setup cost below.'); }
+
+  var setup = d.u;
+  rows.push(['Setup & training', 'crate, gear, puppy class', setup]);
+
+  if(m !== 1) notes.push('Region adjusts services (vet, grooming) — puppy prices are a national market.');
+
+  var total = [0,0];
+  [acq, vet, spay, food, ins, groom, setup].forEach(function(p){ total = add(total, p); });
+
+  $('wf-total').textContent = rng(total);
+  var ongoingMo = (d.a[0] + d.a[1]) / 2 / 12;
+  $('wf-monthly').textContent = 'Year two and beyond: about ' + rng(d.a) + ' per year (≈ ' + fmt(ongoingMo) + '/month)';
+
+  $('wf-rows').innerHTML = rows.map(function(r){
+    return '<div class="wf-row"><span class="l">' + r[0] + (r[1] ? '<small>' + r[1] + '</small>' : '') +
+           '</span><span class="v">' + rng(r[2]) + '</span></div>';
+  }).join('');
+
+  $('wf-notes').innerHTML = notes.map(function(n){ return '• ' + n; }).join('<br>');
+
+  var chi = DATA['chihuahua'], dane = DATA['great-dane'];
+  if(chi && dane){
+    $('wf-compare').innerHTML = '<strong style="color:#1a1a1a;">Size is the budget:</strong> the same first year runs ' +
+      rng(chi.t) + ' for a Chihuahua and ' + rng(dane.t) + ' for a Great Dane. ' +
+      d.n + ' sits ' + (total[0] < 3200 ? 'toward the lighter end.' : (total[0] > 4800 ? 'in the heavyweight bracket.' : 'in the middle of the pack.'));
+  }
+
+  $('wf-ins-cta').style.display = state.ins === 'yes' ? 'block' : 'none';
+
+  var artUrl = 'https://thewooffy.com/blogs/dog-breeds/' + state.breed + '-first-year-costs';
+  $('wf-article-link').innerHTML = 'Want the reasoning behind every number? Read the full ' +
+    '<a href="' + artUrl + '" style="color:#108474;font-weight:700;">' + d.n + ' first-year cost guide</a>.';
+}
+render();
+})();
+</script>

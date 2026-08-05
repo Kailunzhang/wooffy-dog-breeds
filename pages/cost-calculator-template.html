@@ -1,0 +1,214 @@
+<!-- Wooffy First-Year Puppy Cost Calculator - Shopify Page body.
+     Site-native style: white cards, 12px radius, rgba(0,0,0,0.08) borders,
+     #1a1a1a / #6b7177 text, #108474 teal accent, cream section bg.
+     The DATA placeholder in the script below is replaced at build time. -->
+<div id="wf-calc" style="max-width:760px;margin:0 auto;padding:8px 4px 40px 4px;color:#1a1a1a;">
+
+  <p style="font-size:1.05em;line-height:1.7;color:#6b7177;margin:0 0 6px 0;">
+    Every number below comes from our breed-by-breed cost guides &mdash; real ranges for
+    <strong style="color:#1a1a1a;">164 breeds</strong>, not one-size-fits-all averages.
+  </p>
+
+  <!-- CONTROLS -->
+  <div style="background:#faf7f2;border:1px solid rgba(0,0,0,0.06);border-radius:16px;padding:20px;margin:18px 0;">
+    <label for="wf-breed" style="display:block;font-weight:700;font-size:0.95em;margin:0 0 8px 0;">Your breed</label>
+    <select id="wf-breed" style="width:100%;padding:12px 14px;font-size:1em;border:1px solid rgba(0,0,0,0.15);border-radius:10px;background:#ffffff;color:#1a1a1a;margin-bottom:18px;"></select>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;">
+      <div>
+        <span style="display:block;font-weight:700;font-size:0.95em;margin-bottom:8px;">Where you live</span>
+        <div id="wf-region" class="wf-seg">
+          <button data-v="0.85">Small town</button>
+          <button data-v="1" class="on">Suburb</button>
+          <button data-v="1.3">Big city</button>
+        </div>
+      </div>
+      <div>
+        <span style="display:block;font-weight:700;font-size:0.95em;margin-bottom:8px;">Puppy from</span>
+        <div id="wf-source" class="wf-seg">
+          <button data-v="breeder" class="on">Breeder</button>
+          <button data-v="rescue">Rescue</button>
+        </div>
+      </div>
+      <div>
+        <span style="display:block;font-weight:700;font-size:0.95em;margin-bottom:8px;">Pet insurance</span>
+        <div id="wf-ins" class="wf-seg">
+          <button data-v="yes" class="on">Yes</button>
+          <button data-v="no">No</button>
+        </div>
+      </div>
+      <div>
+        <span style="display:block;font-weight:700;font-size:0.95em;margin-bottom:8px;">Grooming</span>
+        <div id="wf-groom" class="wf-seg">
+          <button data-v="pro" class="on">Professional</button>
+          <button data-v="diy">I'll DIY</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- RESULTS -->
+  <div id="wf-results" style="background:#ffffff;border:1px solid rgba(0,0,0,0.08);border-radius:16px;overflow:hidden;margin:18px 0;">
+    <div style="padding:22px 22px 6px 22px;">
+      <div style="font-size:0.85em;font-weight:600;color:#108474;letter-spacing:0.3px;text-transform:uppercase;">First-year estimate</div>
+      <div id="wf-total" style="font-size:2.1em;font-weight:800;line-height:1.15;margin:6px 0 2px 0;">$&mdash;</div>
+      <div id="wf-monthly" style="font-size:0.95em;color:#6b7177;margin-bottom:10px;"></div>
+    </div>
+    <div id="wf-rows" style="padding:0 22px 8px 22px;"></div>
+    <div id="wf-notes" style="padding:0 22px 16px 22px;font-size:0.85em;color:#6b7177;line-height:1.6;"></div>
+    <div id="wf-compare" style="background:#faf7f2;padding:14px 22px;font-size:0.9em;color:#6b7177;line-height:1.6;"></div>
+  </div>
+
+  <!-- INSURANCE CTA (affiliate slot) -->
+  <div id="wf-ins-cta" data-slot="insurance-cta" style="display:none;background:#0d5f53;border-radius:16px;padding:20px 22px;margin:18px 0;color:#ffffff;">
+    <div style="font-weight:700;font-size:1.05em;margin-bottom:6px;">Insurance is the biggest &ldquo;maybe&rdquo; in this budget</div>
+    <div style="font-size:0.92em;line-height:1.65;opacity:0.9;margin-bottom:14px;">
+      One emergency visit runs $300&ndash;$1,500+. Locking a policy in while your puppy is young
+      keeps hereditary conditions coverable &mdash; compare quotes before the first vet visit notes anything.
+    </div>
+    <a data-slot="insurance-link" href="#" onclick="return false;"
+       style="display:inline-block;background:#ffffff;color:#0d5f53;font-weight:700;padding:11px 20px;border-radius:10px;text-decoration:none;font-size:0.95em;opacity:0.55;cursor:default;">
+      Compare quotes for your breed &rarr; <span style="font-weight:400;font-size:0.85em;">(coming soon)</span>
+    </a>
+  </div>
+
+  <!-- EMAIL CAPTURE (slot) -->
+  <div data-slot="email-capture" style="background:#ffffff;border:1px solid rgba(0,0,0,0.08);border-radius:16px;padding:20px 22px;margin:18px 0;">
+    <div style="font-weight:700;font-size:1.05em;margin-bottom:6px;">Want this as a month-by-month budget?</div>
+    <div style="font-size:0.92em;color:#6b7177;line-height:1.65;margin-bottom:14px;">
+      Get your breed&rsquo;s full first-year timeline &mdash; what you&rsquo;ll spend in months 0&ndash;2, 3&ndash;6, and 7&ndash;12 &mdash; as a printable PDF.
+    </div>
+    <form data-slot="email-form" onsubmit="return false;" style="display:flex;gap:10px;flex-wrap:wrap;">
+      <input type="email" placeholder="you@email.com" required
+             style="flex:1;min-width:200px;padding:11px 14px;border:1px solid rgba(0,0,0,0.15);border-radius:10px;font-size:0.95em;">
+      <button type="submit" style="background:#1a1a1a;color:#ffffff;font-weight:700;border:none;padding:11px 22px;border-radius:10px;font-size:0.95em;cursor:pointer;">
+        Send it
+      </button>
+    </form>
+  </div>
+
+  <p id="wf-article-link" style="font-size:0.95em;line-height:1.7;color:#6b7177;"></p>
+  <p style="font-size:0.8em;color:#9aa0a5;line-height:1.6;margin-top:26px;">
+    Ranges reflect typical US pricing from Wooffy&rsquo;s breed cost guides; a few line items for some breeds
+    are estimated from similar-sized breeds. Your actual costs vary with region, breeder, and luck.
+    This is planning guidance, not a quote.
+  </p>
+</div>
+
+<style>
+#wf-calc .wf-seg{display:flex;background:#ffffff;border:1px solid rgba(0,0,0,0.12);border-radius:10px;overflow:hidden;}
+#wf-calc .wf-seg button{flex:1;padding:10px 6px;font-size:0.88em;border:none;background:transparent;color:#6b7177;cursor:pointer;font-weight:600;}
+#wf-calc .wf-seg button.on{background:#108474;color:#ffffff;}
+#wf-calc .wf-row{display:flex;justify-content:space-between;align-items:baseline;padding:9px 0;border-bottom:1px solid rgba(0,0,0,0.06);}
+#wf-calc .wf-row:last-child{border-bottom:none;}
+#wf-calc .wf-row .l{font-size:0.95em;color:#1a1a1a;}
+#wf-calc .wf-row .l small{display:block;color:#9aa0a5;font-size:0.82em;}
+#wf-calc .wf-row .v{font-weight:700;font-size:0.98em;white-space:nowrap;margin-left:12px;}
+@media (max-width:560px){ #wf-calc [style*="grid-template-columns:1fr 1fr"]{grid-template-columns:1fr !important;} }
+</style>
+
+<script>
+(function(){
+var DATA = __CALC_DATA__;
+var $ = function(id){ return document.getElementById(id); };
+var fmt = function(n){ return '$' + Math.round(n).toLocaleString('en-US'); };
+var rng = function(p){ return fmt(p[0]) + ' – ' + fmt(p[1]); };
+
+var state = { breed:null, region:1, source:'breeder', ins:'yes', groom:'pro' };
+
+var slugs = Object.keys(DATA).sort(function(a,b){ return DATA[a].n < DATA[b].n ? -1 : 1; });
+var sel = $('wf-breed');
+slugs.forEach(function(s){
+  var o = document.createElement('option'); o.value = s; o.textContent = DATA[s].n; sel.appendChild(o);
+});
+state.breed = DATA['golden-retriever'] ? 'golden-retriever' : slugs[0];
+sel.value = state.breed;
+
+function seg(id, key){
+  var box = $(id);
+  box.addEventListener('click', function(e){
+    var b = e.target.closest('button'); if(!b) return;
+    box.querySelectorAll('button').forEach(function(x){ x.classList.remove('on'); });
+    b.classList.add('on');
+    state[key] = key === 'region' ? parseFloat(b.dataset.v) : b.dataset.v;
+    render();
+  });
+}
+seg('wf-region','region'); seg('wf-source','source'); seg('wf-ins','ins'); seg('wf-groom','groom');
+sel.addEventListener('change', function(){ state.breed = sel.value; render(); });
+
+function scaled(p, m){ return [p[0]*m, p[1]*m]; }
+function add(a, b){ return [a[0]+b[0], a[1]+b[1]]; }
+
+function render(){
+  var d = DATA[state.breed];
+  var m = state.region;
+  var rows = [], notes = [];
+
+  var acq, acqLabel;
+  if(state.source === 'rescue'){
+    acq = d.r || [300, 600];
+    acqLabel = 'Adoption fee';
+    if(!d.r) notes.push('Typical US rescue fee shown — this breed’s guide doesn’t list one.');
+    notes.push('Adoption fees usually include initial vaccines and spay/neuter.');
+  } else {
+    acq = d.p; acqLabel = 'Puppy (reputable breeder)';
+  }
+  rows.push([acqLabel, '', acq]);
+
+  var vet = scaled(d.v, m);
+  rows.push(['Vet, year one', 'vaccines + routine visits', vet]);
+
+  var spay = [0,0];
+  if(state.source === 'breeder'){ spay = scaled(d.s, m); rows.push(['Spay / neuter', '', spay]); }
+
+  var food = [d.f[0]*12, d.f[1]*12];
+  rows.push(['Food', fmt(d.f[0]) + '–' + fmt(d.f[1]) + ' / month', food]);
+
+  var ins = [0,0];
+  if(state.ins === 'yes'){
+    ins = [d.i[0]*12, d.i[1]*12];
+    rows.push(['Pet insurance', fmt(d.i[0]) + '–' + fmt(d.i[1]) + ' / month', ins]);
+  } else {
+    notes.push('Skipping insurance? Vets recommend a $1,500–$3,000 emergency fund instead.');
+  }
+
+  var groom = [0,0];
+  if(state.groom === 'pro'){ groom = scaled(d.g, m); if(groom[1] > 0) rows.push(['Professional grooming', 'per year', groom]); }
+  else { notes.push('DIY grooming: tools are already in your setup cost below.'); }
+
+  var setup = d.u;
+  rows.push(['Setup & training', 'crate, gear, puppy class', setup]);
+
+  if(m !== 1) notes.push('Region adjusts services (vet, grooming) — puppy prices are a national market.');
+
+  var total = [0,0];
+  [acq, vet, spay, food, ins, groom, setup].forEach(function(p){ total = add(total, p); });
+
+  $('wf-total').textContent = rng(total);
+  var ongoingMo = (d.a[0] + d.a[1]) / 2 / 12;
+  $('wf-monthly').textContent = 'Year two and beyond: about ' + rng(d.a) + ' per year (≈ ' + fmt(ongoingMo) + '/month)';
+
+  $('wf-rows').innerHTML = rows.map(function(r){
+    return '<div class="wf-row"><span class="l">' + r[0] + (r[1] ? '<small>' + r[1] + '</small>' : '') +
+           '</span><span class="v">' + rng(r[2]) + '</span></div>';
+  }).join('');
+
+  $('wf-notes').innerHTML = notes.map(function(n){ return '• ' + n; }).join('<br>');
+
+  var chi = DATA['chihuahua'], dane = DATA['great-dane'];
+  if(chi && dane){
+    $('wf-compare').innerHTML = '<strong style="color:#1a1a1a;">Size is the budget:</strong> the same first year runs ' +
+      rng(chi.t) + ' for a Chihuahua and ' + rng(dane.t) + ' for a Great Dane. ' +
+      d.n + ' sits ' + (total[0] < 3200 ? 'toward the lighter end.' : (total[0] > 4800 ? 'in the heavyweight bracket.' : 'in the middle of the pack.'));
+  }
+
+  $('wf-ins-cta').style.display = state.ins === 'yes' ? 'block' : 'none';
+
+  var artUrl = 'https://thewooffy.com/blogs/dog-breeds/' + state.breed + '-first-year-costs';
+  $('wf-article-link').innerHTML = 'Want the reasoning behind every number? Read the full ' +
+    '<a href="' + artUrl + '" style="color:#108474;font-weight:700;">' + d.n + ' first-year cost guide</a>.';
+}
+render();
+})();
+</script>
