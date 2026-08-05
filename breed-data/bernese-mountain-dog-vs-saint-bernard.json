@@ -19,7 +19,7 @@
     "published_at": null,
     "excerpt": "Bernese Mountain Dog vs Saint Bernard compared: size (70 vs 150 lbs), drool, cancer risk vs orthopedic, energy, family fit. Which Swiss giant is right?",
     "meta_description": "Bernese vs Saint Bernard side-by-side: 90 vs 140 lb, 8-10 yr lifespan, drool levels, shedding, cost. Pick the right gentle giant for your family.",
-    "title_tag": "Bernese Mountain Dog vs St Bernard: 90 vs 140 lb, Cost, Drool"
+    "title_tag": "Bernese Mountain Dog vs St Bernard: Which Fits"
   },
   "stats": {
     "size": {
@@ -104,11 +104,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Bernese Mountain Dog if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a moderately active companion who enjoys hiking, swimming, and outdoor family time. Don't want to deal with daily drool cleanup. Have a yard or access to outdoor space. Live in a cool to moderate climate. Are emotionally prepared for the breed's cancer risk and shorter lifespan. Have the budget for Bernese puppy prices and lifetime insurance.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Saint Bernard if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want the calmest possible giant dog. Have space for a 150-180 lb dog (furniture, vehicle, vet office). Tolerate drool as a daily reality. Prefer a lower-energy household pet. Want a notably patient breed with children. Live in a cool climate (Saints overheat in summer).</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose neither if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Are emotionally unprepared for the 7-10 year typical lifespan. Live in a warm or tropical climate. Are a first-time owner without prior large-dog experience. Want a long-lived breed. Consider <a href=\"/blogs/dog-breeds/golden-retriever\">Golden Retriever</a> or <a href=\"/blogs/dog-breeds/labrador-retriever\">Labrador Retriever</a> for family-friendly large dogs with longer expected lifespans, or <a href=\"/blogs/dog-breeds/bernedoodle\">Bernedoodle</a> for a Bernese-look with hybrid vigor that partially extends lifespan.</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v3 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/bernese-mountain-dog\" style=\"color:#000;font-weight:600;\">Bernese Mountain Dog full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/saint-bernard\" style=\"color:#000;font-weight:600;\">Saint Bernard full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/newfoundland-vs-saint-bernard\" style=\"color:#000;font-weight:600;\">Newfoundland vs Saint Bernard: the water specialist alternative</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/bernedoodle\" style=\"color:#000;font-weight:600;\">Bernedoodle (the longer-lived Bernese cross)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-large-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Large Dog Breeds (full roundup)</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/bernese-mountain-dog\">Bernese Mountain Dog</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/saint-bernard\">Saint Bernard</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/mastiff-vs-cane-corso\">Mastiff vs Cane Corso</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/vizsla-vs-german-shorthaired-pointer\">Vizsla vs German Shorthaired Pointer</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/most-loyal-dog-breeds\">Most Loyal Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -131,6 +126,33 @@
     {
       "q": "What about Bernedoodle as an alternative?",
       "a": "Worth strong consideration. The Bernedoodle (Bernese x Poodle) typically offers a 12-15 year expected lifespan (vs 7-10 for purebred Bernese), retained gentle temperament, low-to-no shedding in F1B/multigen versions, and similar appearance. The trade-offs: less predictable adult appearance, higher puppy cost ($3,000-$5,500), and a still-young breeding pool. For families specifically seeking Bernese temperament with longer expected lifespan, Bernedoodle is the practical answer."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "bernese-mountain-dog",
+      "name": "Bernese Mountain Dog full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "saint-bernard",
+      "name": "Saint Bernard full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "newfoundland-vs-saint-bernard",
+      "name": "Newfoundland vs Saint Bernard: the water specialist alternative",
+      "note": ""
+    },
+    {
+      "slug": "bernedoodle",
+      "name": "Bernedoodle (the longer-lived Bernese cross)",
+      "note": ""
+    },
+    {
+      "slug": "best-large-dog-breeds",
+      "name": "Best Large Dog Breeds (full roundup)",
+      "note": ""
     }
   ]
 }

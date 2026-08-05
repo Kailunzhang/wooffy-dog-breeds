@@ -18,7 +18,8 @@
     "published": true,
     "published_at": null,
     "excerpt": "Border Collie vs Australian Shepherd compared: intelligence, drive intensity, family fit, health (MDR1, CEA, merle), and which one fits your home.",
-    "meta_description": "Border Collie vs Australian Shepherd: drive intensity, family fit, MDR1, merle concerns, cost, and which herding breed is right."
+    "meta_description": "Border Collie vs Australian Shepherd: drive intensity, family fit, MDR1, merle concerns, cost, and which herding breed is right.",
+    "title_tag": "Border Collie vs Australian Shepherd: Drive, MDR1"
   },
   "stats": {
     "size": {
@@ -103,11 +104,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Border Collie if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Have actual livestock to work. Are committed to advanced dog sports (agility, herding trials, flyball, frisbee) and will compete. Have time for 2-3 hours of structured work daily. Don't have young children, OR your children are mature enough to handle a reserved + intense dog. Want the highest-trainability dog in existence.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Australian Shepherd if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want an intelligent, active family dog. Have school-age or older children. Live on acreage or have access to off-leash spaces. Like the visual appeal of merle coats and varied eye colors. Want a working-dog mindset without Border Collie-level intensity. Are willing to commit 60-90 minutes daily of exercise + training.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose neither if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Are a first-time dog owner without herding-breed experience. Live in an apartment without daily access to large open spaces. Want a 'chill' dog. Have very young children prone to running and screaming (will trigger herding instinct). Consider a <a href=\"/blogs/dog-breeds/golden-retriever\">Golden Retriever</a> or <a href=\"/blogs/dog-breeds/labrador-retriever\">Labrador</a> for active-family without the herding-intensity overhead.</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v2 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/border-collie\" style=\"color:#000;font-weight:600;\">Border Collie full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/australian-shepherd\" style=\"color:#000;font-weight:600;\">Australian Shepherd full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-herding-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Herding Dog Breeds (full roundup)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/easiest-dogs-to-train\" style=\"color:#000;font-weight:600;\">Easiest Dogs to Train (both rank highly)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/most-intelligent-dog-breeds\" style=\"color:#000;font-weight:600;\">Most Intelligent Dog Breeds</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/border-collie\">Border Collie</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/australian-shepherd\">Australian Shepherd</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/vizsla-vs-german-shorthaired-pointer\">Vizsla vs German Shorthaired Pointer</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/cane-corso-vs-presa-canario\">Cane Corso vs Presa Canario</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/best-therapy-dog-breeds\">Best Therapy Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -130,6 +126,33 @@
     {
       "q": "Is one a better hiking partner than the other?",
       "a": "Both are excellent. Australian Shepherd may have a slight edge for hiking with kids because of the better child tolerance. Border Collie may be a better trail running partner because of the higher endurance ceiling. Both will hike all day and want more when you get home. Neither will be tired after a 10-mile day."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "border-collie",
+      "name": "Border Collie full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "australian-shepherd",
+      "name": "Australian Shepherd full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "best-herding-dog-breeds",
+      "name": "Best Herding Dog Breeds (full roundup)",
+      "note": ""
+    },
+    {
+      "slug": "easiest-dogs-to-train",
+      "name": "Easiest Dogs to Train (both rank highly)",
+      "note": ""
+    },
+    {
+      "slug": "most-intelligent-dog-breeds",
+      "name": "Most Intelligent Dog Breeds",
+      "note": ""
     }
   ]
 }

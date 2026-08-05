@@ -18,7 +18,8 @@
     "published": true,
     "published_at": null,
     "excerpt": "Rottweiler vs Cane Corso compared: temperament, family fit, prey drive, training difficulty, health risks, lifespan, and cost. A data-driven side-by-side guide.",
-    "meta_description": "Rottweiler vs Cane Corso: temperament, family fit, prey drive, training (Corso requires expert), health, lifespan. Which guardian breed is right?"
+    "meta_description": "Rottweiler vs Cane Corso: temperament, family fit, prey drive, training (Corso requires expert), health, lifespan. Which guardian breed is right?",
+    "title_tag": "Rottweiler vs Cane Corso: Prey Drive, Trainability"
   },
   "stats": {
     "size": {
@@ -103,11 +104,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Rottweiler if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a powerful guard breed that integrates into family life. Have children or other pets in the household. Are willing to commit to training but aren't an expert. Live in a moderate climate (Rotts handle heat poorly). Want a more food-motivated, trainable dog. Can budget for cancer-screening and treatment.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Cane Corso if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Are an experienced dog owner with prior large-breed or working-breed experience. Want the more serious working guardian temperament. Have no small pets and limited expectations of off-leash dog parks. Have a secure yard and dedicated training time daily. Live in a moderate-to-cool climate. Want the longer expected lifespan of the two.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose neither if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Are a first-time dog owner. Live in an apartment without daily off-property exercise. Can't commit 60-90 minutes daily to exercise plus structured training. Have small children too young to learn proper dog handling. Consider <a href=\"/blogs/dog-breeds/golden-retriever\">Golden Retriever</a>, <a href=\"/blogs/dog-breeds/labrador-retriever\">Labrador</a>, or <a href=\"/blogs/dog-breeds/standard-poodle\">Standard Poodle</a> for family-protective without the working-line intensity.</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v2 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/rottweiler\" style=\"color:#000;font-weight:600;\">Rottweiler full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/cane-corso\" style=\"color:#000;font-weight:600;\">Cane Corso full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/rottweiler-vs-doberman-pinscher\" style=\"color:#000;font-weight:600;\">Rottweiler vs Doberman: family-friendly alternative</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/cane-corso-vs-presa-canario\" style=\"color:#000;font-weight:600;\">Cane Corso vs Presa Canario: the Iberian mastiff option</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-guard-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Guard Dog Breeds (full roundup)</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/rottweiler\">Rottweiler</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/cane-corso\">Cane Corso</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/cane-corso-vs-presa-canario\">Cane Corso vs Presa Canario</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/labrador-retriever-vs-golden-retriever\">Labrador vs Golden Retriever</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/best-non-sporting-dog-breeds\">Best Non-Sporting Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -130,6 +126,33 @@
     {
       "q": "Are Cane Corsos legal everywhere?",
       "a": "In the US, Cane Corsos are legal in most jurisdictions but face breed-specific restrictions in some homeowners insurance policies, rental contracts, and certain cities. Same applies to Rottweilers - many landlords and insurers will not cover either breed. Check local laws and insurance availability before committing. Some apartment complexes specifically prohibit both. Other countries (UK, parts of Europe) have stricter regulations or outright bans."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "rottweiler",
+      "name": "Rottweiler full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "cane-corso",
+      "name": "Cane Corso full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "rottweiler-vs-doberman-pinscher",
+      "name": "Rottweiler vs Doberman: family-friendly alternative",
+      "note": ""
+    },
+    {
+      "slug": "cane-corso-vs-presa-canario",
+      "name": "Cane Corso vs Presa Canario: the Iberian mastiff option",
+      "note": ""
+    },
+    {
+      "slug": "best-guard-dog-breeds",
+      "name": "Best Guard Dog Breeds (full roundup)",
+      "note": ""
     }
   ]
 }

@@ -19,7 +19,7 @@
     "published_at": "2026-06-21T12:00:00Z",
     "excerpt": "Belgian Malinois vs German Shepherd: same family lineage, dramatically different drive. Mal is the K9/military choice; GSD is the family-compatible working dog. Compare drive, exercise, training.",
     "meta_description": "Mal vs GSD: 60 lb vs 75 lb, same 10-13 yr lifespan. Compare drive intensity, family fit, exercise demands, and why most owners should choose the GSD.",
-    "title_tag": "Belgian Malinois vs German Shepherd: Drive, Family Fit, Cost"
+    "title_tag": "Belgian Malinois vs German Shepherd: Which?"
   },
   "stats": {
     "size": {
@@ -99,11 +99,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Belgian Malinois if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Have prior experience with working-line German Shepherds, Dutch Shepherds, or other high-drive breeds. Compete in or train for dog sports (IPO/IGP, French Ring, Mondio, agility). Work in K9 or protection. Can commit 2-3 hours of structured exercise + 30-60 min mental work daily. Live somewhere with secure outdoor space and no nearby small pets/free-roaming cats. Are emotionally and physically capable of handling a 60-80 lb intense working dog through adolescence.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose German Shepherd if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a loyal working-line companion that is also a family dog. Are committed to daily exercise and training but cannot do 2+ hours of structured work daily. Want watchdog presence without the intensity of a Malinois. Are a mid-to-experienced owner (not a first-time owner). Choose show-line over working-line breeders if family compatibility is the priority.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose neither if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Are a first-time dog owner. Live in an apartment without secure outdoor exercise access. Cannot commit to daily training. Want a low-shedding breed. Want a more universally social temperament. Consider the <strong>Labrador Retriever</strong> (more social, more forgiving), <strong>Golden Retriever</strong> (similar size, friendlier), or <strong>Standard Poodle</strong> (intelligent, lower-shedding, family-friendly).</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0 0 20px 0;padding-left:20px;\"><li><a href=\"/blogs/dog-breeds/belgian-malinois\" style=\"color:#000;font-weight:600;\">Belgian Malinois full breed guide</a></li><li><a href=\"/blogs/dog-breeds/german-shepherd-dog\" style=\"color:#000;font-weight:600;\">German Shepherd full breed guide</a></li><li><a href=\"/blogs/dog-breeds/labrador-retriever-vs-german-shepherd\" style=\"color:#000;font-weight:600;\">Labrador vs German Shepherd</a></li><li><a href=\"/blogs/dog-breeds/german-shepherd-vs-doberman\" style=\"color:#000;font-weight:600;\">German Shepherd vs Doberman</a></li><li><a href=\"/blogs/dog-breeds/best-guard-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Guard Dog Breeds</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/belgian-malinois\">Belgian Malinois</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/german-shepherd-dog\">German Shepherd</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/german-shepherd-vs-doberman\">German Shepherd vs Doberman</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/labrador-retriever-vs-german-shepherd\">Labrador vs German Shepherd</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/best-guard-dog-breeds\">Best Guard Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -126,6 +121,33 @@
     {
       "q": "Can I have a Malinois without doing dog sports?",
       "a": "Possible but difficult. Without a sport outlet, you need to provide equivalent daily structured work: 2 hours of varied exercise (running, hiking, swimming), 30-60 minutes of obedience or scent work, and regular novelty (new environments, training challenges). Owners who succeed without competing in a sport typically have a profession (police K9, military, search & rescue) that supplies the structured work. Pet-only Mals frequently develop anxiety or destructive behaviors by age 2."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "belgian-malinois",
+      "name": "Belgian Malinois full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "german-shepherd-dog",
+      "name": "German Shepherd full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "labrador-retriever-vs-german-shepherd",
+      "name": "Labrador vs German Shepherd",
+      "note": ""
+    },
+    {
+      "slug": "german-shepherd-vs-doberman",
+      "name": "German Shepherd vs Doberman",
+      "note": ""
+    },
+    {
+      "slug": "best-guard-dog-breeds",
+      "name": "Best Guard Dog Breeds",
+      "note": ""
     }
   ]
 }

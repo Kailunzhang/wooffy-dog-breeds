@@ -18,7 +18,8 @@
     "published": true,
     "published_at": null,
     "excerpt": "Rottweiler vs Doberman compared: build, temperament, family fit, health (cancer vs DCM), lifespan, and which is right for your home.",
-    "meta_description": "Rottweiler vs Doberman: build, family fit, health (osteosarcoma vs DCM), lifespan, cost. Which guard breed is right?"
+    "meta_description": "Rottweiler vs Doberman: build, family fit, health (osteosarcoma vs DCM), lifespan, cost. Which guard breed is right?",
+    "title_tag": "Rottweiler vs Doberman Pinscher: Build, Lifespan"
   },
   "stats": {
     "size": {
@@ -103,11 +104,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Rottweiler if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want maximum visual deterrent + calm family demeanor. Have space for a large dog. Are physically able to handle 130+ lbs of dog on leash. Are willing to monitor for early cancer signs as the dog ages. Live in a cool or moderate climate.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Doberman if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a more agile, athletic working partner. Live in a smaller space (Doberman handles smaller homes better). Are willing to commit to annual cardiac screening from age 3. Want a slightly longer expected lifespan. Don't mind the more reactive alert style.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose neither if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Are a first-time owner. Don't have time for daily structured exercise + training. Have very young children without supervision capacity. Want a beginner-friendly family dog - consider <a href=\"/blogs/dog-breeds/labrador-retriever\">Labrador</a>, <a href=\"/blogs/dog-breeds/golden-retriever\">Golden Retriever</a>, or <a href=\"/blogs/dog-breeds/standard-poodle\">Standard Poodle</a> instead.</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v2 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/rottweiler\" style=\"color:#000;font-weight:600;\">Rottweiler full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/doberman-pinscher\" style=\"color:#000;font-weight:600;\">Doberman Pinscher full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/rottweiler-vs-cane-corso\" style=\"color:#000;font-weight:600;\">Rottweiler vs Cane Corso: the larger guardian option</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/german-shepherd-vs-doberman\" style=\"color:#000;font-weight:600;\">German Shepherd vs Doberman: heavier alternative</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-guard-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Guard Dog Breeds</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/rottweiler\">Rottweiler</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/doberman-pinscher\">Doberman Pinscher</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/goldendoodle-vs-labradoodle\">Goldendoodle vs Labradoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/sheepadoodle-vs-bernedoodle\">Sheepadoodle vs Bernedoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/best-service-dog-breeds\">Best Service Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -130,6 +126,33 @@
     {
       "q": "Which is better as a 'first guard dog'?",
       "a": "Rottweiler. The calmer default temperament makes them more forgiving of new-owner mistakes than Dobermans. A Doberman's more reactive nature means inexperienced handling produces more behavioral issues. That said, neither is genuinely first-time-owner friendly - both need experienced training. If you've never owned a powerful breed before, consider a year-long training course commitment before bringing either home."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "rottweiler",
+      "name": "Rottweiler full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "doberman-pinscher",
+      "name": "Doberman Pinscher full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "rottweiler-vs-cane-corso",
+      "name": "Rottweiler vs Cane Corso: the larger guardian option",
+      "note": ""
+    },
+    {
+      "slug": "german-shepherd-vs-doberman",
+      "name": "German Shepherd vs Doberman: heavier alternative",
+      "note": ""
+    },
+    {
+      "slug": "best-guard-dog-breeds",
+      "name": "Best Guard Dog Breeds",
+      "note": ""
     }
   ]
 }

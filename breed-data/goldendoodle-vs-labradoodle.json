@@ -18,7 +18,8 @@
     "published": true,
     "published_at": null,
     "excerpt": "Goldendoodle vs Labradoodle: which is right for your household? Both are Poodle crosses with similar size and trainability, but they diverge on energy, coat predictability, and health risks. A side-by-side guide from a first-time dog owner.",
-    "meta_description": "Goldendoodle vs Labradoodle compared: energy, coat shedding (F1 vs F1B), cancer vs hip risk, cost, family fit. Which Doodle is right for you?"
+    "meta_description": "Goldendoodle vs Labradoodle compared: energy, coat shedding (F1 vs F1B), cancer vs hip risk, cost, family fit. Which Doodle is right for you?",
+    "title_tag": "Goldendoodle vs Labradoodle: Shedding, Energy, Cost"
   },
   "stats": {
     "size": {
@@ -103,11 +104,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Goldendoodle if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a calm, child-oriented family dog. Prefer moderate (not high) energy. Plan to be home most of the day or arrange midday companionship. Value the GANA Blue Ribbon ecosystem of tested breeders. Are comfortable monitoring for cancer signs as the dog ages.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Labradoodle if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Have an active outdoor household (hiking, running, swimming). Want a more playful-bouncy personality. Prioritize coat predictability (and can afford Australian Labradoodle pricing). Are interested in service-dog or therapy-dog work. Want slightly better tolerance of being home alone.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Standard Poodle instead if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Need guaranteed minimal shedding (no Doodle is guaranteed; Standard Poodle is). Want the most predictable temperament outcome. Are willing to look past the show-clip appearance (a sporting clip looks similar to a Doodle anyway).</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v1 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/goldendoodle\" style=\"color:#000;font-weight:600;\">Goldendoodle full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/labradoodle\" style=\"color:#000;font-weight:600;\">Labradoodle full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/standard-poodle-vs-goldendoodle\" style=\"color:#000;font-weight:600;\">Standard Poodle vs Goldendoodle: which is more reliably low-shedding</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/bernedoodle-vs-goldendoodle\" style=\"color:#000;font-weight:600;\">Bernedoodle vs Goldendoodle: gentler temperament option</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-doodle-breeds-for-families\" style=\"color:#000;font-weight:600;\">Best Doodle Breeds for Families (full roundup)</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/goldendoodle\">Goldendoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/labradoodle\">Labradoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/newfoundland-vs-saint-bernard\">Newfoundland vs Saint Bernard</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/vizsla-vs-weimaraner\">Vizsla vs Weimaraner</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/irish-dog-breeds\">Irish Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -130,6 +126,33 @@
     {
       "q": "Is a Bernedoodle a better alternative to both?",
       "a": "If you want a calmer, gentler personality and don't mind a larger dog, the Bernedoodle (Bernese Mountain Dog x Poodle) is worth considering. Bernedoodles are typically less energetic than both Goldendoodles and Labradoodles, with a particularly gentle temperament. The trade-off: Bernese Mountain Dogs have shorter lifespans, which Bernedoodles partially but don't fully escape."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "goldendoodle",
+      "name": "Goldendoodle full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "labradoodle",
+      "name": "Labradoodle full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "standard-poodle-vs-goldendoodle",
+      "name": "Standard Poodle vs Goldendoodle: which is more reliably low-shedding",
+      "note": ""
+    },
+    {
+      "slug": "bernedoodle-vs-goldendoodle",
+      "name": "Bernedoodle vs Goldendoodle: gentler temperament option",
+      "note": ""
+    },
+    {
+      "slug": "best-doodle-breeds-for-families",
+      "name": "Best Doodle Breeds for Families (full roundup)",
+      "note": ""
     }
   ]
 }

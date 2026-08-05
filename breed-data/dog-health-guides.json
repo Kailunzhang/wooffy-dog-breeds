@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "blog_handle": "dog-health",
+    "shopify_handle": "dog-health-guides",
+    "slug": "dog-health-guides",
+    "name": "Dog Health Guides: Start Here",
+    "title_tag": "Dog Health Guides: Care, Puppies & More",
+    "excerpt": "All Wooffy dog health guides in one place — a growing library on keeping your dog healthy.",
+    "meta_description": "Browse every Wooffy dog health guide in one place — daily care, puppy health, and more. A growing, vet-informed library.",
+    "tags": [
+      "directory"
+    ],
+    "published": true,
+    "published_at": "2026-07-16T12:00:00Z"
+  },
+  "images": {
+    "hero": {
+      "url": "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/dog-health-hub-hero.png?v=1784241967",
+      "alt": "Healthy happy dog in a sunlit room — Wooffy dog health guides"
+    }
+  },
+  "body_html": "<meta charset=\"utf-8\">\n<style>\n.wfy-intro { background:#141412; color:#EDEAE2; text-align:center; padding:32px 22px 36px; margin:0 0 24px; }\n.wfy-intro .wfy-count { font-size:13px; letter-spacing:.14em; text-transform:uppercase; color:#CFCBC2; margin:0 auto 14px; }\n.wfy-intro p { max-width:62ch; margin:0 auto; font-size:15.5px; line-height:1.65; color:#EDEAE2; }\n.wfy-letter { border-top:1px solid #E6E2D8; padding-top:22px; margin:24px 0 10px; }\n.wfy-secn { font-size:12px; color:#6F6A61; margin-left:6px; }\n.wfy-grid { display:grid; grid-template-columns:1fr 1fr; gap:0 30px; }\n.wfy-breed { display:flex; padding:10px 2px; border-bottom:1px solid #E6E2D8;\n  text-decoration:none; color:#1A1A1A; transition:color .13s ease; }\n.wfy-breed:hover { color:#E4572E; }\n.wfy-bname { font-size:15.5px; line-height:1.45; text-decoration:underline;\n  text-decoration-color:#D9D4C8; text-underline-offset:3px; text-decoration-thickness:1px;\n  transition:text-decoration-color .13s ease; }\n.wfy-breed:hover .wfy-bname { text-decoration-color:#E4572E; }\n@media (max-width:700px) { .wfy-grid { grid-template-columns:1fr; } }\n</style>\n<div class=\"wfy-intro\">\n<p class=\"wfy-count\">2 guides &middot; growing library</p>\n<p>Everything we have published on keeping your dog healthy, in one place. This library is growing &mdash; check back for new guides.</p>\n</div>\n<h2 class=\"wfy-letter\">All Health Guides <span class=\"wfy-secn\">2</span></h2><div class=\"wfy-grid\"><a class=\"wfy-breed\" href=\"/blogs/dog-health/new-puppy-parents-guide\"><span class=\"wfy-bname\">New puppy health guide</span></a><a class=\"wfy-breed\" href=\"/blogs/dog-health/the-ultimate-guide-to-dog-care-tips-for-keeping-your-furry-friend-happy-and-healthy\"><span class=\"wfy-bname\">The Ultimate Guide to Dog Care: Tips for Keeping Your Furry Friend Happy and Healthy</span></a></div>\n<p style=\"margin-top:32px;\">You may also like the\n<a href=\"/blogs/dog-breeds/dog-breeds-a-z\">Dog Breeds A&ndash;Z directory</a> and the\n<a href=\"/blogs/dog-nutrition/what-can-dogs-eat\">What Can Dogs Eat? food guide</a>.</p>\n"
+}

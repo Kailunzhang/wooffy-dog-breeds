@@ -19,7 +19,8 @@
     "published": true,
     "published_at": null,
     "excerpt": "Mastiff vs Cane Corso compared: size (200 vs 100 lbs), temperament, family fit, lifespan, cost. Which Molosser guardian is right for your home?",
-    "meta_description": "English Mastiff vs Cane Corso: size, energy, family fit, lifespan, cost. Which Molosser is right for you?"
+    "meta_description": "English Mastiff vs Cane Corso: size, energy, family fit, lifespan, cost. Which Molosser is right for you?",
+    "title_tag": "Mastiff vs Cane Corso: Size, Energy, Lifespan"
   },
   "stats": {
     "size": {
@@ -104,11 +105,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose English Mastiff if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a low-energy gentle giant for family life. Have space for a 200-lb dog. Are emotionally prepared for the 6-10 year lifespan reality. Live in a cool to moderate climate. Want a deterrent-presence dog without active working drive. Have young children and want maximum patient breed.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Cane Corso if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Are an experienced owner with previous large-breed or working-breed background. Want an active guardian capable of physical work. Don't have small pets (high prey drive issue). Have a secure yard. Are interested in serious dog training as an ongoing commitment. Want the longer expected lifespan of the two.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Compare with related guardian breeds</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Both Mastiff and Cane Corso compete with <a href=\"/blogs/dog-breeds/rottweiler-vs-cane-corso\">Rottweiler vs Cane Corso</a> and <a href=\"/blogs/dog-breeds/cane-corso-vs-presa-canario\">Cane Corso vs Presa Canario</a> for many guardian-breed buyers. See those comparisons for further refinement.</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v3 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/mastiff\" style=\"color:#000;font-weight:600;\">English Mastiff full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/cane-corso\" style=\"color:#000;font-weight:600;\">Cane Corso full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/rottweiler-vs-cane-corso\" style=\"color:#000;font-weight:600;\">Rottweiler vs Cane Corso: family-friendlier guardian</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/cane-corso-vs-presa-canario\" style=\"color:#000;font-weight:600;\">Cane Corso vs Presa Canario: Mediterranean mastiff sibling</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/bullmastiff\" style=\"color:#000;font-weight:600;\">Bullmastiff (the middle-ground option)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-guard-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Guard Dog Breeds</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/mastiff\">Mastiff</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/cane-corso\">Cane Corso</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/standard-poodle-vs-goldendoodle\">Standard Poodle vs Goldendoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/border-collie-vs-australian-shepherd\">Border Collie vs Australian Shepherd</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/long-haired-dog-breeds\">Long-Haired Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -131,6 +127,38 @@
     {
       "q": "What about Bullmastiff as an alternative?",
       "a": "Worth strong consideration. The Bullmastiff is a Mastiff x Bulldog cross developed in 19th-century England specifically as a gamekeeper's anti-poacher dog. It splits the difference between English Mastiff (size, gentleness) and Cane Corso (athleticism, working capability). Bullmastiffs are typically 100-130 lbs (smaller than English Mastiff, larger than Cane Corso), have moderate energy, and shorter snout than Mastiff. Lifespan is similarly short (8-10 years) due to size, but is the most family-integrable of the three breeds for active suburban households."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "mastiff",
+      "name": "English Mastiff full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "cane-corso",
+      "name": "Cane Corso full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "rottweiler-vs-cane-corso",
+      "name": "Rottweiler vs Cane Corso: family-friendlier guardian",
+      "note": ""
+    },
+    {
+      "slug": "cane-corso-vs-presa-canario",
+      "name": "Cane Corso vs Presa Canario: Mediterranean mastiff sibling",
+      "note": ""
+    },
+    {
+      "slug": "bullmastiff",
+      "name": "Bullmastiff (the middle-ground option)",
+      "note": ""
+    },
+    {
+      "slug": "best-guard-dog-breeds",
+      "name": "Best Guard Dog Breeds",
+      "note": ""
     }
   ]
 }

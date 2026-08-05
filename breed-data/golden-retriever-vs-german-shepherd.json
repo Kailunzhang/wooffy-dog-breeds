@@ -17,7 +17,8 @@
     "published": true,
     "published_at": null,
     "excerpt": "Golden Retriever vs German Shepherd compared: temperament, cancer (60% Golden) vs orthopedic GSD risk, training, family fit, mistakes to avoid.",
-    "meta_description": "Golden vs GSD: friendly vs protective, cancer (60%) vs hip/DM risk, training, family fit. Which is right?"
+    "meta_description": "Golden vs GSD: friendly vs protective, cancer (60%) vs hip/DM risk, training, family fit. Which is right?",
+    "title_tag": "Golden Retriever vs German Shepherd: Cancer, Hips"
   },
   "stats": {
     "size": {
@@ -117,11 +118,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Golden Retriever if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Have frequent visitors or social children. Are a first-time dog owner. Prefer a softer temperament. Have access to a GANA-style breeder ecosystem. Can budget for cancer monitoring and treatment.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose German Shepherd if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a protective companion. Are committed to early socialization and consistent training. Have prior experience with intelligent working breeds.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose neither if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a low-shedding dog. Live in an apartment. Want a low-energy companion. Consider <a href=\"/blogs/dog-breeds/standard-poodle\">Standard Poodle</a>, <a href=\"/blogs/dog-breeds/goldendoodle\">Goldendoodle</a>, or <a href=\"/blogs/dog-breeds/labrador-retriever\">Labrador</a>.</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v4 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/golden-retriever\" style=\"color:#000;font-weight:600;\">Golden Retriever full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/german-shepherd-dog\" style=\"color:#000;font-weight:600;\">German Shepherd full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/labrador-retriever-vs-golden-retriever\" style=\"color:#000;font-weight:600;\">Lab vs Golden Retriever: the friendlier alternative</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/german-shepherd-vs-doberman\" style=\"color:#000;font-weight:600;\">German Shepherd vs Doberman: working breed comparison</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-family-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Family Dog Breeds (full roundup)</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/golden-retriever\">Golden Retriever</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/labrador-retriever-vs-golden-retriever\">Labrador vs Golden Retriever</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/standard-poodle-vs-goldendoodle\">Standard Poodle vs Goldendoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/best-hypoallergenic-dog-breeds\">Best Hypoallergenic Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -144,6 +140,33 @@
     {
       "q": "What about Goldendoodle as an alternative?",
       "a": "Worth considering. Goldendoodle offers Golden temperament with reduced shedding and partially reduced cancer risk via hybrid vigor."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "golden-retriever",
+      "name": "Golden Retriever full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "german-shepherd-dog",
+      "name": "German Shepherd full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "labrador-retriever-vs-golden-retriever",
+      "name": "Lab vs Golden Retriever: the friendlier alternative",
+      "note": ""
+    },
+    {
+      "slug": "german-shepherd-vs-doberman",
+      "name": "German Shepherd vs Doberman: working breed comparison",
+      "note": ""
+    },
+    {
+      "slug": "best-family-dog-breeds",
+      "name": "Best Family Dog Breeds (full roundup)",
+      "note": ""
     }
   ]
 }

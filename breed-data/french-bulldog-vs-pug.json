@@ -19,7 +19,7 @@
     "published_at": "2026-06-21T12:00:00Z",
     "excerpt": "French Bulldog (22-28 lb, premium-priced, brachy-heavy) vs Pug (14-18 lb, older breed, eye/skin issues). Health, cost, personality compared.",
     "meta_description": "Frenchie vs Pug: 25 lb vs 16 lb, both 10-14 yr. Compare brachycephalic health risks, cost ($3,500-$8,000 vs $800-$2,000), and family fit.",
-    "title_tag": "French Bulldog vs Pug: Size, Health, Cost, Family Fit"
+    "title_tag": "French Bulldog vs Pug: Size, Health & Cost"
   },
   "stats": {
     "size": {
@@ -99,11 +99,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose French Bulldog if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Have the budget for premium puppy purchase ($3,500-$8,000) and ongoing care ($2,200-$4,200/year). Want a quieter, calmer companion. Live in air conditioning year-round (essential). Are prepared for the higher likelihood of surgical intervention. Prefer less shedding (relatively) than a Pug.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Pug if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a brachycephalic companion on a more accessible budget. Don&rsquo;t mind heavy shedding. Want a social, playful, family-oriented temperament. Are willing to commit to daily wrinkle cleaning and weight monitoring (Pugs gain weight easily). Live somewhere with cool weather access.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose neither if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Live in a hot climate without reliable air conditioning. Want a hiking or running companion. Cannot tolerate snoring. Need a dog that can swim safely (both breeds sink &mdash; front-heavy body shape, short snouts). Are unable to budget for surgical contingencies. Consider the <strong>Boston Terrier</strong> (less extreme brachy), <strong>Cavalier King Charles Spaniel</strong> (similar size and temperament without the airway issues), or the <strong>Bichon Frise</strong> (hypoallergenic companion).</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0 0 20px 0;padding-left:20px;\"><li><a href=\"/blogs/dog-breeds/french-bulldog\" style=\"color:#000;font-weight:600;\">French Bulldog full breed guide</a></li><li><a href=\"/blogs/dog-breeds/pug\" style=\"color:#000;font-weight:600;\">Pug full breed guide</a></li><li><a href=\"/blogs/dog-breeds/boston-terrier\" style=\"color:#000;font-weight:600;\">Boston Terrier &mdash; less extreme brachy alternative</a></li><li><a href=\"/blogs/dog-breeds/cavalier-king-charles-spaniel\" style=\"color:#000;font-weight:600;\">Cavalier King Charles Spaniel &mdash; similar temperament without brachy issues</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/french-bulldog\">French Bulldog</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/pug\">Pug</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/boston-terrier\">Boston Terrier</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/cavalier-king-charles-spaniel\">Cavalier King Charles Spaniel</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/best-small-dog-breeds\">Best Small Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -126,6 +121,28 @@
     {
       "q": "Which is better for first-time owners?",
       "a": "Both can work for first-time owners with the right expectations, but the Pug is slightly more forgiving given lower upfront cost, longer lifespan, and easier training. The most important first-time-owner consideration for either breed is climate — neither belongs in a household without reliable summer air conditioning. Brachycephalic dogs cannot regulate heat the way other breeds can; overheating is the leading preventable cause of premature death."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "french-bulldog",
+      "name": "French Bulldog full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "pug",
+      "name": "Pug full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "boston-terrier",
+      "name": "Boston Terrier &mdash; less extreme brachy alternative",
+      "note": ""
+    },
+    {
+      "slug": "cavalier-king-charles-spaniel",
+      "name": "Cavalier King Charles Spaniel &mdash; similar temperament without brachy issues",
+      "note": ""
     }
   ]
 }

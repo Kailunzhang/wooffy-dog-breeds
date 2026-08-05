@@ -18,7 +18,8 @@
     "published": true,
     "published_at": null,
     "excerpt": "Sheepadoodle vs Bernedoodle compared: energy, color patterns, coat density, health, cost, and which doodle fits your household.",
-    "meta_description": "Sheepadoodle vs Bernedoodle: playful vs calm, panda vs tri-color, lifespan, cost. Which large doodle is right?"
+    "meta_description": "Sheepadoodle vs Bernedoodle: playful vs calm, panda vs tri-color, lifespan, cost. Which large doodle is right?",
+    "title_tag": "Sheepadoodle vs Bernedoodle: Playful vs Calm, Cost"
   },
   "stats": {
     "size": {
@@ -103,11 +104,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Sheepadoodle if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a more energetic, playful family dog. Have active children who want a play partner. Love the panda look. Can commit to 60-90 minutes daily exercise. Prefer the lower puppy price. Want a more engaged, less independent companion.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Bernedoodle if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want the calmest, gentlest of the Doodles. Have young children who'd benefit from a patient breed. Love the tri-color look. Prefer less daily exercise. Are willing to invest in the higher puppy price. Want a slightly easier-to-groom coat day-to-day.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Compare with other doodles</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Both Sheepadoodle and Bernedoodle compete with <a href=\"/blogs/dog-breeds/goldendoodle\">Goldendoodle</a> and <a href=\"/blogs/dog-breeds/labradoodle\">Labradoodle</a> for many family-doodle buyers. See <a href=\"/blogs/dog-breeds/best-doodle-breeds-for-families\">Best Doodle Breeds for Families</a> for the full comparison across all six.</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v3 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/sheepadoodle\" style=\"color:#000;font-weight:600;\">Sheepadoodle full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/bernedoodle\" style=\"color:#000;font-weight:600;\">Bernedoodle full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/bernedoodle-vs-goldendoodle\" style=\"color:#000;font-weight:600;\">Bernedoodle vs Goldendoodle: the most popular Doodle comparison</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/goldendoodle-vs-labradoodle\" style=\"color:#000;font-weight:600;\">Goldendoodle vs Labradoodle: the original Doodle showdown</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-doodle-breeds-for-families\" style=\"color:#000;font-weight:600;\">Best Doodle Breeds for Families (full roundup)</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/sheepadoodle\">Sheepadoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/bernedoodle\">Bernedoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/cane-corso-vs-presa-canario\">Cane Corso vs Presa Canario</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/labrador-retriever-vs-golden-retriever\">Labrador vs Golden Retriever</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/best-terrier-breeds\">Best Terrier Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -130,6 +126,33 @@
     {
       "q": "What about Aussiedoodle or Goldendoodle for similar look?",
       "a": "Both are valid alternatives in the Doodle family. Aussiedoodle (Australian Shepherd x Poodle) tends toward higher energy than either Sheepadoodle or Bernedoodle - good for very active families. Goldendoodle is the most popular Doodle overall with a famously friendly temperament. See the full doodle breed comparison for context."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "sheepadoodle",
+      "name": "Sheepadoodle full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "bernedoodle",
+      "name": "Bernedoodle full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "bernedoodle-vs-goldendoodle",
+      "name": "Bernedoodle vs Goldendoodle: the most popular Doodle comparison",
+      "note": ""
+    },
+    {
+      "slug": "goldendoodle-vs-labradoodle",
+      "name": "Goldendoodle vs Labradoodle: the original Doodle showdown",
+      "note": ""
+    },
+    {
+      "slug": "best-doodle-breeds-for-families",
+      "name": "Best Doodle Breeds for Families (full roundup)",
+      "note": ""
     }
   ]
 }

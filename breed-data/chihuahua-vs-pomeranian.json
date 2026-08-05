@@ -19,7 +19,7 @@
     "published_at": "2026-06-21T12:00:00Z",
     "excerpt": "Chihuahua (3-6 lb, single/long coat, one-person bond) vs Pomeranian (4-7 lb, dense double coat, social outgoing). Compare grooming, temperament, training, cost.",
     "meta_description": "Chihuahua vs Pomeranian: 3-6 lb vs 4-7 lb, both 12-16 yr. Compare coat (short vs fluffy double), grooming, temperament (aloof vs social), and family fit.",
-    "title_tag": "Chihuahua vs Pomeranian: Size, Coat, Temperament Compared"
+    "title_tag": "Chihuahua vs Pomeranian: Size, Coat & Temper"
   },
   "stats": {
     "size": {
@@ -104,11 +104,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Chihuahua if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a deeply bonded one-person companion. Have an adult-only or older-child household. Want the lowest possible grooming commitment. Are on a budget for both purchase and ongoing care. Live in a warm climate or are willing to provide winter sweaters. Don&rsquo;t mind alert barking.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Pomeranian if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a more social, outgoing toy breed. Have a multi-person household where the dog should bond with everyone. Are willing to commit to regular brushing and 6-8 week professional grooming. Want a more striking visual breed for showing or display purposes. Have older children who can interact gently.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose neither if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Have very young children (both breeds are fragile). Cannot commit to dental care or won&rsquo;t budget for annual dental cleanings. Want a dog that travels comfortably or hikes (both breeds are toy-sized and limited for outdoor adventure). Want a quiet household (both bark). Consider the <strong>Cavalier King Charles Spaniel</strong> (slightly larger but more social and family-friendly) or the <strong>Maltese</strong> (similar size, gentler temperament).</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0 0 20px 0;padding-left:20px;\"><li><a href=\"/blogs/dog-breeds/chihuahua\" style=\"color:#000;font-weight:600;\">Chihuahua full breed guide</a></li><li><a href=\"/blogs/dog-breeds/pomeranian\" style=\"color:#000;font-weight:600;\">Pomeranian full breed guide</a></li><li><a href=\"/blogs/dog-breeds/best-small-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Small Dog Breeds (full roundup)</a></li><li><a href=\"/blogs/dog-breeds/best-toy-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Toy Dog Breeds</a></li><li><a href=\"/blogs/dog-breeds/longest-living-dog-breeds\" style=\"color:#000;font-weight:600;\">Longest-Living Dog Breeds</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/chihuahua\">Chihuahua</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/pomeranian\">Pomeranian</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/best-toy-dog-breeds\">Best Toy Dog Breeds</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/best-small-dog-breeds\">Best Small Dog Breeds</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/longest-living-dog-breeds\">Longest-Living Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -131,6 +126,33 @@
     {
       "q": "Which is easier for first-time owners?",
       "a": "Both are reasonable for first-time owners with the right expectations. The Chihuahua is slightly easier on the budget and grooming side. The Pomeranian is slightly easier socially but harder on grooming. Both require active socialization in puppyhood (toy breeds frequently develop 'small dog syndrome' if behaviors that would never be tolerated in a Lab are excused in a 5-pound dog) and regular dental care. Avoid first-time-owner Chihuahuas in households with young children."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "chihuahua",
+      "name": "Chihuahua full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "pomeranian",
+      "name": "Pomeranian full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "best-small-dog-breeds",
+      "name": "Best Small Dog Breeds (full roundup)",
+      "note": ""
+    },
+    {
+      "slug": "best-toy-dog-breeds",
+      "name": "Best Toy Dog Breeds",
+      "note": ""
+    },
+    {
+      "slug": "longest-living-dog-breeds",
+      "name": "Longest-Living Dog Breeds",
+      "note": ""
     }
   ]
 }

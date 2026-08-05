@@ -18,7 +18,8 @@
     "published": true,
     "published_at": null,
     "excerpt": "Bernedoodle vs Goldendoodle compared: temperament (calm vs eager), tri-color vs solid, lifespan, cost, separation anxiety. Which Doodle fits your family.",
-    "meta_description": "Bernedoodle vs Goldendoodle: calm-gentle vs eager-friendly, tri-color vs cream, lifespan, cancer risk, and which fits your household."
+    "meta_description": "Bernedoodle vs Goldendoodle: calm-gentle vs eager-friendly, tri-color vs cream, lifespan, cancer risk, and which fits your household.",
+    "title_tag": "Bernedoodle vs Goldendoodle: Calm vs Eager, Colors"
   },
   "stats": {
     "size": {
@@ -103,11 +104,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Bernedoodle if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a calmer, gentler dog with lower energy demands. Have space for a larger dog (or pick the Mini). Love the tri-color pattern. Tolerate some training stubbornness. Have a household where someone is occasionally away for a few hours (Bernedoodles handle this better).</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Goldendoodle if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want higher trainability and faster learning. Have an active outdoor household. Can be home most of the day or arrange midday companionship. Want access to the GANA Blue Ribbon breeder ecosystem. Prefer warm solid colors over patterns.</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v1 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/bernedoodle\" style=\"color:#000;font-weight:600;\">Bernedoodle full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/goldendoodle\" style=\"color:#000;font-weight:600;\">Goldendoodle full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/goldendoodle-vs-labradoodle\" style=\"color:#000;font-weight:600;\">Goldendoodle vs Labradoodle (the other top doodle comparison)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-doodle-breeds-for-families\" style=\"color:#000;font-weight:600;\">Best Doodle Breeds for Families</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-large-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Large Dog Breeds (for the Standard Bernedoodle)</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/bernedoodle\">Bernedoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/goldendoodle\">Goldendoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/vizsla-vs-weimaraner\">Vizsla vs Weimaraner</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/cavapoo-vs-cockapoo\">Cavapoo vs Cockapoo</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/short-haired-dog-breeds\">Short-Haired Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -126,6 +122,33 @@
     {
       "q": "Why do Bernedoodles live longer than Bernese Mountain Dogs?",
       "a": "Hybrid vigor partially offsets the genetic burden Bernese carry from a small founding population. Bernese have one of the shortest lifespans of any breed (7-10 years average). Bernedoodles average 12-15 years for Standards and 14-17 for Minis - a substantial improvement, though still shorter than many smaller purebreds."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "bernedoodle",
+      "name": "Bernedoodle full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "goldendoodle",
+      "name": "Goldendoodle full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "goldendoodle-vs-labradoodle",
+      "name": "Goldendoodle vs Labradoodle (the other top doodle comparison)",
+      "note": ""
+    },
+    {
+      "slug": "best-doodle-breeds-for-families",
+      "name": "Best Doodle Breeds for Families",
+      "note": ""
+    },
+    {
+      "slug": "best-large-dog-breeds",
+      "name": "Best Large Dog Breeds (for the Standard Bernedoodle)",
+      "note": ""
     }
   ]
 }

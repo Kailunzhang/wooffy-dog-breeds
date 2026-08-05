@@ -18,7 +18,8 @@
     "published": true,
     "published_at": null,
     "excerpt": "Vizsla vs Weimaraner compared: size, color, temperament (both velcro), bloat risk, exercise needs, and which sporting breed is right.",
-    "meta_description": "Vizsla vs Weimaraner: size, color, separation anxiety, bloat (Weim) risk, exercise. Which pointing breed is right?"
+    "meta_description": "Vizsla vs Weimaraner: size, color, separation anxiety, bloat (Weim) risk, exercise. Which pointing breed is right?",
+    "title_tag": "Vizsla vs Weimaraner: Size, Anxiety, Bloat Risk"
   },
   "stats": {
     "size": {
@@ -108,11 +109,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Vizsla if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a slightly smaller, gentler athletic companion. Prefer the rust-golden uniform color. Have very young children or sensory-sensitive household members (Vizsla's softer temperament integrates better). Are sensitive to harsh training methods. Want a longer expected lifespan.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Weimaraner if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a larger, more substantial athletic companion. Are drawn to the distinctive silver-gray look. Have school-age children or older - the breed's exuberance fits active kids. Are interested in versatile hunting work (Weimaraners are more historically versatile than Vizslas). Can commit to GDV emergency-readiness.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose neither if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Are gone 8+ hours daily without midday companionship for the dog. Want a 'chill' dog. Live in an apartment without daily intense outdoor access. Want a beginner-friendly family dog - consider <a href=\"/blogs/dog-breeds/labrador-retriever\">Labrador</a> or <a href=\"/blogs/dog-breeds/golden-retriever\">Golden Retriever</a> for active-family without the velcro-and-anxiety burden.</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v3 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/vizsla\" style=\"color:#000;font-weight:600;\">Vizsla full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/weimaraner\" style=\"color:#000;font-weight:600;\">Weimaraner full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/german-shorthaired-pointer\" style=\"color:#000;font-weight:600;\">German Shorthaired Pointer (a related sporting comparison)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-sporting-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Sporting Dog Breeds (full roundup)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-hunting-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Hunting Dog Breeds</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/vizsla\">Vizsla</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/weimaraner\">Weimaraner</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/sheepadoodle-vs-bernedoodle\">Sheepadoodle vs Bernedoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/border-collie-vs-australian-shepherd\">Border Collie vs Australian Shepherd</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/best-gun-dog-breeds\">Best Gun Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -135,6 +131,33 @@
     {
       "q": "What about Vizsla vs German Shorthaired Pointer?",
       "a": "That's a closer comparison than Vizsla vs Weimaraner. The German Shorthaired Pointer (GSP) is similar size to Vizsla (45-70 lbs) with similar pointing-and-retrieving heritage. GSPs tend to be slightly more energetic and harder-driving than Vizslas, with a distinctive liver-and-white ticked coat. For purely active family-dog purposes, GSP and Vizsla are very close - GSP is slightly more independent, Vizsla is slightly more velcro."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "vizsla",
+      "name": "Vizsla full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "weimaraner",
+      "name": "Weimaraner full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "german-shorthaired-pointer",
+      "name": "German Shorthaired Pointer (a related sporting comparison)",
+      "note": ""
+    },
+    {
+      "slug": "best-sporting-dog-breeds",
+      "name": "Best Sporting Dog Breeds (full roundup)",
+      "note": ""
+    },
+    {
+      "slug": "best-hunting-dog-breeds",
+      "name": "Best Hunting Dog Breeds",
+      "note": ""
     }
   ]
 }

@@ -17,7 +17,8 @@
     "published": true,
     "published_at": null,
     "excerpt": "Vizsla vs GSP compared: coat shedding, velcro intensity, separation anxiety, working orientation, family fit, mistakes to avoid.",
-    "meta_description": "Vizsla vs GSP: coat, velcro, separation anxiety, hunting drive. Which sporting breed is right?"
+    "meta_description": "Vizsla vs GSP: coat, velcro, separation anxiety, hunting drive. Which sporting breed is right?",
+    "title_tag": "Vizsla vs German Shorthaired Pointer: Coat, Drive"
   },
   "stats": {
     "size": {
@@ -117,11 +118,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Vizsla if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Are home most of the day. Prefer minimal shedding. Sensitive to harsh training. Don't hunt.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose GSP if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Active outdoor family. Hunt or want versatile working dog. Have older children. Need slightly more independent breed.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Compare with Vizsla vs Weimaraner</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Also see <a href=\"/blogs/dog-breeds/vizsla-vs-weimaraner\">Vizsla vs Weimaraner</a> for related sporting comparison.</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v4 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/vizsla\" style=\"color:#000;font-weight:600;\">Vizsla full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/german-shorthaired-pointer\" style=\"color:#000;font-weight:600;\">German Shorthaired Pointer full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/vizsla-vs-weimaraner\" style=\"color:#000;font-weight:600;\">Vizsla vs Weimaraner: gray ghost alternative</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-sporting-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Sporting Dog Breeds (full roundup)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-hunting-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Hunting Dog Breeds</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/vizsla\">Vizsla</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/german-shorthaired-pointer\">German Shorthaired Pointer</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/golden-retriever-vs-german-shepherd\">Golden Retriever vs German Shepherd</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/rottweiler-vs-cane-corso\">Rottweiler vs Cane Corso</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/german-dog-breeds\">German Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -144,6 +140,33 @@
     {
       "q": "What about Weimaraner as an alternative?",
       "a": "Worth considering. See Vizsla vs Weimaraner."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "vizsla",
+      "name": "Vizsla full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "german-shorthaired-pointer",
+      "name": "German Shorthaired Pointer full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "vizsla-vs-weimaraner",
+      "name": "Vizsla vs Weimaraner: gray ghost alternative",
+      "note": ""
+    },
+    {
+      "slug": "best-sporting-dog-breeds",
+      "name": "Best Sporting Dog Breeds (full roundup)",
+      "note": ""
+    },
+    {
+      "slug": "best-hunting-dog-breeds",
+      "name": "Best Hunting Dog Breeds",
+      "note": ""
     }
   ]
 }

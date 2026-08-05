@@ -18,7 +18,8 @@
     "published": true,
     "published_at": null,
     "excerpt": "Newfoundland vs Saint Bernard compared: swimming ability, drool, size, family fit, health risks, and which giant breed is right.",
-    "meta_description": "Newfoundland vs Saint Bernard: water rescue vs snow rescue, drool, size, family fit. Which gentle giant is right?"
+    "meta_description": "Newfoundland vs Saint Bernard: water rescue vs snow rescue, drool, size, family fit. Which gentle giant is right?",
+    "title_tag": "Newfoundland vs Saint Bernard: Size, Drool, Rescue"
   },
   "stats": {
     "size": {
@@ -108,11 +109,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Newfoundland if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Live near water (lake, ocean, river) and want a dog who will enjoy it with you. Want an eager-to-please, highly trainable giant breed. Tolerate heavy shedding but want less drool than Saint Bernard. Have older children or are willing to wait until your youngest is over 5. Live in a cool to moderate climate.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Saint Bernard if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want the calmest possible giant dog. Don't need a swimming companion. Tolerate heavy drool as part of breed ownership. Have a household that prefers indoor calm over outdoor adventure. Live in a cool climate (Saints overheat readily in summer).</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose neither if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Live in a hot climate. Can't accommodate the size (vehicle, indoor space, vet costs scale with weight). Are emotionally unprepared for 8-10 year lifespans. Consider <a href=\"/blogs/dog-breeds/bernese-mountain-dog\">Bernese Mountain Dog</a> (similarly gentle but smaller), <a href=\"/blogs/dog-breeds/labrador-retriever\">Labrador</a> for a water-loving family dog in a more manageable size, or <a href=\"/blogs/dog-breeds/golden-retriever\">Golden Retriever</a> for family gentle temperament without giant-breed costs.</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v3 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/newfoundland\" style=\"color:#000;font-weight:600;\">Newfoundland full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/saint-bernard\" style=\"color:#000;font-weight:600;\">Saint Bernard full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/bernese-mountain-dog-vs-saint-bernard\" style=\"color:#000;font-weight:600;\">Bernese vs Saint Bernard: the more active Swiss giant</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-large-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Large Dog Breeds</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-family-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Family Dog Breeds (both rank highly as nanny dogs)</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/newfoundland\">Newfoundland</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/saint-bernard\">Saint Bernard</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/goldendoodle-vs-labradoodle\">Goldendoodle vs Labradoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/sheepadoodle-vs-bernedoodle\">Sheepadoodle vs Bernedoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/medium-sized-dog-breeds\">Medium-Sized Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -135,6 +131,33 @@
     {
       "q": "What about Leonberger as a related alternative?",
       "a": "Worth considering. The Leonberger was deliberately bred (in Germany) to combine traits of Newfoundland, Saint Bernard, and Great Pyrenees - so it offers a middle-ground temperament between Newfie's water orientation and Saint's calm. Leonbergers are similar size, have a similar 'gentle giant' reputation, and live 8-10 years similarly. The downside: rarer breed, fewer reputable breeders in North America, higher puppy cost."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "newfoundland",
+      "name": "Newfoundland full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "saint-bernard",
+      "name": "Saint Bernard full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "bernese-mountain-dog-vs-saint-bernard",
+      "name": "Bernese vs Saint Bernard: the more active Swiss giant",
+      "note": ""
+    },
+    {
+      "slug": "best-large-dog-breeds",
+      "name": "Best Large Dog Breeds",
+      "note": ""
+    },
+    {
+      "slug": "best-family-dog-breeds",
+      "name": "Best Family Dog Breeds (both rank highly as nanny dogs)",
+      "note": ""
     }
   ]
 }

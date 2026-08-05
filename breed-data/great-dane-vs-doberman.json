@@ -18,7 +18,8 @@
     "published": true,
     "published_at": null,
     "excerpt": "Great Dane vs Doberman compared: 150 vs 70 lbs, gentle giant vs protective athlete, DCM risk, family fit, mistakes to avoid.",
-    "meta_description": "Great Dane vs Doberman: size, temperament, DCM risk, family fit. Which is right?"
+    "meta_description": "Great Dane vs Doberman: size, temperament, DCM risk, family fit. Which is right?",
+    "title_tag": "Great Dane vs Doberman: Size, DCM Risk, Family Fit"
   },
   "stats": {
     "size": {
@@ -118,11 +119,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Great Dane if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a low-energy gentle giant. Have space for 150-200 lb dog. Emotionally prepared for 7-10 year lifespan. Cool climate.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Doberman if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a protective partner. Active outdoor lifestyle. Can commit to annual cardiac screening. Moderate/warm climate (indoor primary).</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Compare with related options</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">See <a href=\"/blogs/dog-breeds/rottweiler-vs-doberman-pinscher\">Rottweiler vs Doberman</a>, <a href=\"/blogs/dog-breeds/cane-corso-vs-great-dane\">Cane Corso vs Great Dane</a>, or <a href=\"/blogs/dog-breeds/german-shepherd-vs-doberman\">German Shepherd vs Doberman</a>.</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v4 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/great-dane\" style=\"color:#000;font-weight:600;\">Great Dane full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/doberman-pinscher\" style=\"color:#000;font-weight:600;\">Doberman Pinscher full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/cane-corso-vs-great-dane\" style=\"color:#000;font-weight:600;\">Cane Corso vs Great Dane: guardian comparison</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/rottweiler-vs-doberman-pinscher\" style=\"color:#000;font-weight:600;\">Rottweiler vs Doberman: the bigger alternative</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/german-shepherd-vs-doberman\" style=\"color:#000;font-weight:600;\">German Shepherd vs Doberman: working breed comparison</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-guard-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Guard Dog Breeds</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/great-dane\">Great Dane</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/cavapoo-vs-cockapoo\">Cavapoo vs Cockapoo</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/newfoundland-vs-saint-bernard\">Newfoundland vs Saint Bernard</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/best-dog-breeds-for-anxiety\">Best Dog Breeds for Anxiety</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -145,6 +141,38 @@
     {
       "q": "What about Rottweiler as an alternative?",
       "a": "Worth considering. Rottweiler sits between the two - calmer than Doberman, more protective than Dane."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "great-dane",
+      "name": "Great Dane full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "doberman-pinscher",
+      "name": "Doberman Pinscher full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "cane-corso-vs-great-dane",
+      "name": "Cane Corso vs Great Dane: guardian comparison",
+      "note": ""
+    },
+    {
+      "slug": "rottweiler-vs-doberman-pinscher",
+      "name": "Rottweiler vs Doberman: the bigger alternative",
+      "note": ""
+    },
+    {
+      "slug": "german-shepherd-vs-doberman",
+      "name": "German Shepherd vs Doberman: working breed comparison",
+      "note": ""
+    },
+    {
+      "slug": "best-guard-dog-breeds",
+      "name": "Best Guard Dog Breeds",
+      "note": ""
     }
   ]
 }

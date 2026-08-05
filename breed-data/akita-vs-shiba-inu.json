@@ -104,11 +104,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Akita if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a powerful, loyal guardian for your family. Have experience with large, independent breeds. Can commit to extensive socialization from puppyhood. Want a quiet dog (Akitas rarely bark). Are okay with a one-dog household or careful pair selection. Live somewhere with space for a 70-130 lb dog.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Shiba Inu if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Appreciate cat-like dog temperament &mdash; independent, fastidious, not clingy. Are physically capable of secure handling (the Shiba scream and squirm during nail trims is real). Have a securely fenced yard or are comfortable always using a leash. Don&rsquo;t have free-roaming small pets. Want a small breed with a strong personality.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose neither if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a friendly, social, family-pleasing dog. Have free-roaming cats or small pets. Want a dog that can be off-leash reliably. Are a first-time dog owner. Want an affectionate companion that craves cuddles. Consider the <strong>Samoyed</strong> (friendlier spitz alternative) or the <strong>Golden Retriever</strong> (family-friendly large breed).</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0 0 20px 0;padding-left:20px;\"><li><a href=\"/blogs/dog-breeds/akita\" style=\"color:#000;font-weight:600;\">Akita full breed guide</a></li><li><a href=\"/blogs/dog-breeds/shiba-inu\" style=\"color:#000;font-weight:600;\">Shiba Inu full breed guide</a></li><li><a href=\"/blogs/dog-breeds/samoyed\" style=\"color:#000;font-weight:600;\">Samoyed &mdash; friendlier spitz alternative</a></li><li><a href=\"/blogs/dog-breeds/most-loyal-dog-breeds\" style=\"color:#000;font-weight:600;\">Most Loyal Dog Breeds</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/akita\">Akita</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/shiba-inu\">Shiba Inu</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/samoyed\">Samoyed</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/most-loyal-dog-breeds\">Most Loyal Dog Breeds</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/keep-double-coated-dogs-cool-in-summer\">Keeping Double-Coated Dogs Cool in Summer</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -131,6 +126,28 @@
     {
       "q": "Which sheds more, Akita or Shiba Inu?",
       "a": "Per-dog basis: Akitas shed more total volume because of size. Per-pound basis: Shibas shed the same amount or slightly more. Both have heavy double coats that blow twice yearly in dramatic 2-4 week shedding events. Daily brushing is required during blow-outs; 2-3 times per week year-round. Both breeds shed too much for households that cannot tolerate visible dog hair on every surface."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "akita",
+      "name": "Akita full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "shiba-inu",
+      "name": "Shiba Inu full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "samoyed",
+      "name": "Samoyed &mdash; friendlier spitz alternative",
+      "note": ""
+    },
+    {
+      "slug": "most-loyal-dog-breeds",
+      "name": "Most Loyal Dog Breeds",
+      "note": ""
     }
   ]
 }

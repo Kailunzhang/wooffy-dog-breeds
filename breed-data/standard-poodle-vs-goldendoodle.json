@@ -19,7 +19,8 @@
     "published": true,
     "published_at": null,
     "excerpt": "Standard Poodle vs Goldendoodle compared: coat predictability, temperament, cancer risk, cost, and which is genuinely low-allergen.",
-    "meta_description": "Standard Poodle vs Goldendoodle: which is actually low-shedding, temperament differences, cancer risk gap, cost, and how to choose."
+    "meta_description": "Standard Poodle vs Goldendoodle: which is actually low-shedding, temperament differences, cancer risk gap, cost, and how to choose.",
+    "title_tag": "Standard Poodle vs Goldendoodle: Shedding, Cost"
   },
   "stats": {
     "size": {
@@ -104,11 +105,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Standard Poodle if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Need guaranteed minimal shedding. Want the most predictable temperament and health outcomes. Are comfortable with a slightly more reserved-with-strangers personality. Want lower lifetime cancer risk than Goldendoodle. Can find a reputable Poodle breeder (there's no AKC tracking equivalent to GANA for Doodles, but the OFA database is reliable).</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Goldendoodle if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a notably friendly, child-oriented temperament. Accept the coat-variability risk of F1, OR are willing to invest in F1B/multigen from a tested breeder. Have access to the GANA Blue Ribbon ecosystem. Don't mind slightly higher lifetime health costs.</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v1 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/standard-poodle\" style=\"color:#000;font-weight:600;\">Standard Poodle full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/goldendoodle\" style=\"color:#000;font-weight:600;\">Goldendoodle full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/goldendoodle-vs-labradoodle\" style=\"color:#000;font-weight:600;\">Goldendoodle vs Labradoodle</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-hypoallergenic-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Hypoallergenic Dog Breeds (both feature here)</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/standard-poodle\">Standard Poodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/goldendoodle\">Goldendoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/cavapoo-vs-cockapoo\">Cavapoo vs Cockapoo</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/mastiff-vs-cane-corso\">Mastiff vs Cane Corso</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/fluffy-dog-breeds\">Fluffy Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -127,6 +123,28 @@
     {
       "q": "Can I get the Goldendoodle temperament in a Poodle?",
       "a": "Partially. Some Standard Poodle breeders deliberately select for friendlier, more child-oriented temperaments. The result is a Poodle that behaves more like a Goldendoodle socially but retains the guaranteed coat. Ask breeders about temperament selection priorities and meet adult dogs from their lines."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "standard-poodle",
+      "name": "Standard Poodle full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "goldendoodle",
+      "name": "Goldendoodle full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "goldendoodle-vs-labradoodle",
+      "name": "Goldendoodle vs Labradoodle",
+      "note": ""
+    },
+    {
+      "slug": "best-hypoallergenic-dog-breeds",
+      "name": "Best Hypoallergenic Dog Breeds (both feature here)",
+      "note": ""
     }
   ]
 }

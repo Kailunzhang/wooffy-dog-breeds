@@ -18,7 +18,8 @@
     "published": true,
     "published_at": null,
     "excerpt": "German Shepherd vs Doberman compared: coat, shedding, temperament style, climate fit, DCM heart disease vs DM spine, cost, and which is right.",
-    "meta_description": "GSD vs Doberman: coat shedding, climate, DCM (50-60%) vs DM, temperament, apartment fit. Which working breed is right?"
+    "meta_description": "GSD vs Doberman: coat shedding, climate, DCM (50-60%) vs DM, temperament, apartment fit. Which working breed is right?",
+    "title_tag": "German Shepherd vs Doberman: Shedding, DCM, Climate"
   },
   "stats": {
     "size": {
@@ -103,11 +104,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose German Shepherd if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Live in a cool or moderate climate. Have a yard and space for a large dog. Want a calmer 'family-integrated' protective temperament. Don't mind heavy shedding. Want a versatile working breed (service, SAR, light protection, therapy). Are comfortable monitoring for orthopedic and DM signs in older age.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Doberman if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Live in a moderate or warm climate (indoor living). Want minimal shedding. Prefer an athletic, elegant build over substantial bone. Want a more vocally alert protective style. Live in a smaller home or apartment. Commit to annual cardiac screening from age 3.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose neither if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Are a first-time owner without experience handling powerful, intelligent working breeds. Don't have time for daily structured exercise + training (60+ minutes). Want a beginner-friendly family dog - consider <a href=\"/blogs/dog-breeds/labrador-retriever\">Labrador</a>, <a href=\"/blogs/dog-breeds/golden-retriever\">Golden Retriever</a>, or <a href=\"/blogs/dog-breeds/standard-poodle\">Standard Poodle</a> instead, all of which are trainable family-protective without the working-line intensity.</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v2 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/german-shepherd-dog\" style=\"color:#000;font-weight:600;\">German Shepherd full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/doberman-pinscher\" style=\"color:#000;font-weight:600;\">Doberman Pinscher full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/rottweiler-vs-doberman-pinscher\" style=\"color:#000;font-weight:600;\">Rottweiler vs Doberman: the heavier alternative</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-watchdog-breeds\" style=\"color:#000;font-weight:600;\">Best Watchdog Breeds</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/most-loyal-dog-breeds\" style=\"color:#000;font-weight:600;\">Most Loyal Dog Breeds</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/vizsla-vs-weimaraner\">Vizsla vs Weimaraner</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/cane-corso-vs-presa-canario\">Cane Corso vs Presa Canario</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/best-guard-dog-breeds\">Best Guard Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -130,6 +126,33 @@
     {
       "q": "Should I crop ears or dock tails on either breed?",
       "a": "Both breeds traditionally have cropped ears and docked tails in the US, though both practices are declining. Cropping is purely cosmetic and is banned or restricted in many countries (UK, Australia, much of Europe). Modern AKC standards permit either cropped or natural ears for both breeds. Health-wise, cropping carries minor surgical risk and recovery time; natural ears are perfectly functional. The decision is aesthetic - choose what matches your preference."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "german-shepherd-dog",
+      "name": "German Shepherd full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "doberman-pinscher",
+      "name": "Doberman Pinscher full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "rottweiler-vs-doberman-pinscher",
+      "name": "Rottweiler vs Doberman: the heavier alternative",
+      "note": ""
+    },
+    {
+      "slug": "best-watchdog-breeds",
+      "name": "Best Watchdog Breeds",
+      "note": ""
+    },
+    {
+      "slug": "most-loyal-dog-breeds",
+      "name": "Most Loyal Dog Breeds",
+      "note": ""
     }
   ]
 }

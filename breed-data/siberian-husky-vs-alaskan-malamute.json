@@ -18,7 +18,7 @@
     "published_at": "2026-06-21T12:00:00Z",
     "excerpt": "Siberian Husky (45-60 lb sled-team sprinter) vs Alaskan Malamute (75-100 lb heavy freight hauler). Size, energy, independence, exercise needs compared.",
     "meta_description": "Husky vs Malamute: 45-60 lb vs 75-100 lb, both 11-14 yr lifespan. Compare energy, exercise, escape-artistry, and family fit before choosing.",
-    "title_tag": "Husky vs Malamute: Size, Energy, Exercise, Family Fit"
+    "title_tag": "Husky vs Malamute: Size, Energy & Exercise"
   },
   "stats": {
     "size": {
@@ -108,11 +108,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Siberian Husky if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Are a runner, cyclist, or skier who wants a sustained-energy partner. Live in a cool to cold climate. Have a securely fenced yard (Houdini-grade). Tolerate vocal dogs. Want a more social and goofy temperament. Are prepared for a dog that cannot reliably be off-leash in unsecured areas.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Alaskan Malamute if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a larger, calmer, more dignified arctic dog. Are physically strong enough to leash-handle 90+ pounds with attitude. Enjoy backpack hiking or pulling sports. Have space for a large dog. Are firm but consistent in training. Prefer a quieter house than a Husky provides.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose neither if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Live in a warm climate (above 70&deg;F average summer). Have cats or small pets that cannot be safely separated. Are a first-time dog owner. Cannot commit 60-120 minutes daily to exercise. Want a dog that walks calmly on leash. Consider the <strong>Samoyed</strong> (smaller, friendlier, similar look) or the <strong>Bernese Mountain Dog</strong> (calmer, equally striking).</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0 0 20px 0;padding-left:20px;\"><li><a href=\"/blogs/dog-breeds/siberian-husky\" style=\"color:#000;font-weight:600;\">Siberian Husky full breed guide</a></li><li><a href=\"/blogs/dog-breeds/alaskan-malamute\" style=\"color:#000;font-weight:600;\">Alaskan Malamute full breed guide</a></li><li><a href=\"/blogs/dog-breeds/samoyed\" style=\"color:#000;font-weight:600;\">Samoyed &mdash; smaller arctic alternative</a></li><li><a href=\"/blogs/dog-breeds/best-dogs-for-cold-climates\" style=\"color:#000;font-weight:600;\">Best Dogs for Cold Climates (full roundup)</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/siberian-husky\">Siberian Husky</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/alaskan-malamute\">Alaskan Malamute</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/samoyed\">Samoyed</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/best-dogs-for-cold-climates\">Best Dogs for Cold Climates</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/keep-double-coated-dogs-cool-in-summer\">Keeping Double-Coated Dogs Cool in Summer</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -135,6 +130,28 @@
     {
       "q": "How much do Huskies and Malamutes shed?",
       "a": "An enormous amount, year-round, with two dramatic seasonal coat blows where loose undercoat comes out in clumps for 2-4 weeks. Daily brushing is required during blow-outs; 3-4 times per week otherwise. Plan to vacuum every 1-2 days. Robot vacuums struggle with this volume of hair; a Dyson or comparable shop vac is the realistic baseline."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "siberian-husky",
+      "name": "Siberian Husky full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "alaskan-malamute",
+      "name": "Alaskan Malamute full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "samoyed",
+      "name": "Samoyed &mdash; smaller arctic alternative",
+      "note": ""
+    },
+    {
+      "slug": "best-dogs-for-cold-climates",
+      "name": "Best Dogs for Cold Climates (full roundup)",
+      "note": ""
     }
   ]
 }

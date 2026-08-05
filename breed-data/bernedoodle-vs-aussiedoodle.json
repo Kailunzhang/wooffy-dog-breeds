@@ -18,7 +18,8 @@
     "published": true,
     "published_at": null,
     "excerpt": "Bernedoodle vs Aussiedoodle compared: energy, family fit, merle risk, MDR1, cost. Which Doodle fits your household?",
-    "meta_description": "Bernedoodle vs Aussiedoodle: energy, family fit, merle risk. Which doodle is right?"
+    "meta_description": "Bernedoodle vs Aussiedoodle: energy, family fit, merle risk. Which doodle is right?",
+    "title_tag": "Bernedoodle vs Aussiedoodle: Energy, Merle Risk"
   },
   "stats": {
     "size": {
@@ -118,11 +119,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Bernedoodle if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a calmer Doodle. Have young children. Prefer tri-color look. Live in cool climate.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Aussiedoodle if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want smart, agile companion for active outdoor life. Have school-age children. Love merle look. Can commit to 60-120 min daily exercise + mental work.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Compare with related options</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">See also <a href=\"/blogs/dog-breeds/sheepadoodle-vs-bernedoodle\">Sheepadoodle vs Bernedoodle</a>, <a href=\"/blogs/dog-breeds/bernedoodle-vs-goldendoodle\">Bernedoodle vs Goldendoodle</a>, or <a href=\"/blogs/dog-breeds/best-doodle-breeds-for-families\">Best Doodle Breeds for Families</a>.</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v4 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/bernedoodle\" style=\"color:#000;font-weight:600;\">Bernedoodle full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/aussiedoodle\" style=\"color:#000;font-weight:600;\">Aussiedoodle full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/sheepadoodle-vs-bernedoodle\" style=\"color:#000;font-weight:600;\">Sheepadoodle vs Bernedoodle: doodle comparison</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/bernedoodle-vs-goldendoodle\" style=\"color:#000;font-weight:600;\">Bernedoodle vs Goldendoodle: the most popular doodle pairing</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-doodle-breeds-for-families\" style=\"color:#000;font-weight:600;\">Best Doodle Breeds for Families (full roundup)</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/bernedoodle\">Bernedoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/aussiedoodle\">Aussiedoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/vizsla-vs-german-shorthaired-pointer\">Vizsla vs German Shorthaired Pointer</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/cane-corso-vs-presa-canario\">Cane Corso vs Presa Canario</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/most-popular-dog-breeds\">Most Popular Dog Breeds</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -145,6 +141,33 @@
     {
       "q": "What about Sheepadoodle or Goldendoodle instead?",
       "a": "Both worth considering. See Sheepadoodle vs Bernedoodle and doodle comparison."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "bernedoodle",
+      "name": "Bernedoodle full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "aussiedoodle",
+      "name": "Aussiedoodle full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "sheepadoodle-vs-bernedoodle",
+      "name": "Sheepadoodle vs Bernedoodle: doodle comparison",
+      "note": ""
+    },
+    {
+      "slug": "bernedoodle-vs-goldendoodle",
+      "name": "Bernedoodle vs Goldendoodle: the most popular doodle pairing",
+      "note": ""
+    },
+    {
+      "slug": "best-doodle-breeds-for-families",
+      "name": "Best Doodle Breeds for Families (full roundup)",
+      "note": ""
     }
   ]
 }
