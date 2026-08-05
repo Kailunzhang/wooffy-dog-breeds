@@ -216,9 +216,10 @@ def post_pin(token: str, board_id: str, pin_key: str, slug: str,
     }
     r = api("POST", "/pins", token, json=body)
     if r.status_code == 201:
-        return r.json()
-    print(f"    ERROR (HTTP {r.status_code}): {r.text[:300]}", file=sys.stderr)
-    return None
+        return r.json(), None
+    err = f"HTTP {r.status_code}: {r.text[:300]}"
+    print(f"    ERROR ({err})", file=sys.stderr)
+    return None, err
 
 
 def cmd_publish(env: dict[str, str], batch: int, dry_run: bool) -> int:
@@ -236,6 +237,7 @@ def cmd_publish(env: dict[str, str], batch: int, dry_run: bool) -> int:
 
     success = 0
     failed = 0
+    trial_blocked = 0
     for pin_key, slug, variant_cfg in to_post:
         loaded = load_article(slug)
         if loaded is None:
@@ -254,9 +256,15 @@ def cmd_publish(env: dict[str, str], batch: int, dry_run: bool) -> int:
             print(f"    DRY-RUN  would POST: title='{variant_cfg['title'][:60]}...'")
             success += 1
             continue
-        result = post_pin(token, board_id, pin_key, slug, variant_cfg,
-                          display_name, hero_url, blog_handle)
+        result, err = post_pin(token, board_id, pin_key, slug, variant_cfg,
+                               display_name, hero_url, blog_handle)
         if result is None:
+            if err and '"code":29' in err:
+                # Trial-tier apps may not create production pins. This is
+                # the expected state while Standard approval is pending -
+                # stop probing (every pin would hit the same wall).
+                trial_blocked += 1
+                break
             failed += 1
             continue
         published[pin_key] = {
@@ -271,7 +279,16 @@ def cmd_publish(env: dict[str, str], batch: int, dry_run: bool) -> int:
         print(f"    OK  pin_id={result.get('id')}")
         time.sleep(1.0)
 
-    print(f"\nSummary: ok={success}  failed={failed}  remaining={len(pending) - success}")
+    print(f"\nSummary: ok={success}  failed={failed}  trial_blocked={trial_blocked}  "
+          f"remaining={len(pending) - success}")
+    if trial_blocked and failed == 0:
+        print(
+            "Standard access still pending - Pinterest Trial tier blocks "
+            "production pins (error 29). This run exits clean; the daily "
+            "cron doubles as an approval probe and pins will start flowing "
+            "automatically once Standard is granted."
+        )
+        return 0
     return 0 if failed == 0 else 1
 
 
