@@ -1,4 +1,10 @@
 {%- comment -%}
+  DEPRECATED 2026-07-14 (audit fix #03). Superseded by seo_schema_snippet.liquid,
+  which emits a SINGLE Article node already carrying updated_at as dateModified.
+  Remove the `{% render 'seo-article-freshness' %}` line from theme.liquid — this
+  snippet only exists to add the second Article node the audit flagged as a
+  duplicate. See scripts/SEO_SCHEMA_INSTALL.md.
+
   Optional override snippet: emits a second Article JSON-LD with the
   REAL updated_at timestamp from Shopify.
 
