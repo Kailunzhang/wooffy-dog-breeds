@@ -19,7 +19,8 @@
     "published": true,
     "published_at": null,
     "excerpt": "Cavapoo vs Cockapoo compared: small Doodle temperament, coat, health risks (mitral valve vs ear infections), cost, and apartment fit.",
-    "meta_description": "Cavapoo vs Cockapoo: small Doodle comparison covering temperament, coat, health risks, cost, and apartment-friendliness."
+    "meta_description": "Cockapoo or Cavapoo? Small doodle face-off: adult size, coat and shedding, health risks (MVD vs ear issues), price, and apartment fit.",
+    "title_tag": "Cavapoo vs Cockapoo: Size, Coat, Price, Health"
   },
   "stats": {
     "size": {
@@ -104,11 +105,6 @@
       "label": "Decision",
       "heading": "Which Should You Choose?",
       "html": "<h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Cavapoo if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a notably calm, lap-oriented small dog. Live in an apartment with thin walls (quieter). Are willing to invest in cardiac monitoring. Want one of the gentlest small Doodles.</p><h3 style=\"font-size:1.15em;font-weight:700;color:#1a1a1a;margin:24px 0 12px 0;\">Choose Cockapoo if you...</h3><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">Want a more playful, slightly more active small dog. Are comfortable with daily ear-cleaning routine. Prefer slightly lower upfront cost. Have school-age children who want a more interactive playmate.</p>"
-    },
-    "related": {
-      "label": "Related Reading",
-      "heading": "Compare More Breeds",
-      "html": "<!-- comparison-related-section v1 --><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 16px 0;\">Other Wooffy guides that help refine this decision:</p><ul style=\"font-size:0.95em;line-height:1.8;color:#6b7177;margin:0;padding-left:20px;\"><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/cavapoo\" style=\"color:#000;font-weight:600;\">Cavapoo full breed guide</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/cavalier-king-charles-spaniel\" style=\"color:#000;font-weight:600;\">Cavalier King Charles Spaniel (the purebred parent)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/cocker-spaniel\" style=\"color:#000;font-weight:600;\">Cocker Spaniel (the Cockapoo's purebred parent)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/standard-poodle\" style=\"color:#000;font-weight:600;\">Standard Poodle (the shared parent breed)</a></li><li style=\"margin-bottom:6px;\"><a href=\"/blogs/dog-breeds/best-small-dog-breeds\" style=\"color:#000;font-weight:600;\">Best Small Dog Breeds (full roundup)</a></li></ul>\n<!-- WOOFFY_INTERNAL_LINKS_v1 -->\n<section class=\"related-reading\">\n<h2>Related Reading</h2>\n<ul><li><a href=\"https://thewooffy.com/blogs/dog-breeds/cavapoo\">Cavapoo</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/standard-poodle-vs-goldendoodle\">Standard Poodle vs Goldendoodle</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/border-collie-vs-australian-shepherd\">Border Collie vs Australian Shepherd</a></li><li><a href=\"https://thewooffy.com/blogs/dog-breeds/dog-breeds-good-with-cats\">Dog Breeds Good with Cats</a></li></ul>\n</section>"
     }
   },
   "faq": [
@@ -127,6 +123,33 @@
     {
       "q": "Which is better with kids?",
       "a": "Both are excellent with kids when properly socialized. Cavapoos prefer gentle older children; Cockapoos handle more active play. Either is a good first family dog - the bigger factors are individual temperament and proper socialization, not breed."
+    }
+  ],
+  "related_breeds": [
+    {
+      "slug": "cavapoo",
+      "name": "Cavapoo full breed guide",
+      "note": ""
+    },
+    {
+      "slug": "cavalier-king-charles-spaniel",
+      "name": "Cavalier King Charles Spaniel (the purebred parent)",
+      "note": ""
+    },
+    {
+      "slug": "cocker-spaniel",
+      "name": "Cocker Spaniel (the Cockapoo's purebred parent)",
+      "note": ""
+    },
+    {
+      "slug": "standard-poodle",
+      "name": "Standard Poodle (the shared parent breed)",
+      "note": ""
+    },
+    {
+      "slug": "best-small-dog-breeds",
+      "name": "Best Small Dog Breeds (full roundup)",
+      "note": ""
     }
   ]
 }

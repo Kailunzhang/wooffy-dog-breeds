@@ -26,6 +26,11 @@ INTERNAL_LINK_RE = re.compile(
     re.IGNORECASE,
 )
 
+# Blogs whose articles are NOT managed in breed-data/ (no local JSON), so
+# slug-existence can't be checked locally. Links to them are skipped rather
+# than reported as TARGET_NOT_EXIST. Verified live 200 on 2026-08-04.
+EXTERNAL_BLOG_HANDLES = {"dog-training", "life-with-dogs"}
+
 
 def collect_html_blobs(data: dict) -> list[str]:
     blobs: list[str] = []
@@ -59,6 +64,8 @@ def main() -> int:
                 total_links += 1
                 correct = canonical.get(target_slug)
                 if correct is None:
+                    if used_blog in EXTERNAL_BLOG_HANDLES:
+                        continue  # managed outside breed-data; slug not checkable
                     reason = "TARGET_NOT_EXIST"
                 elif used_blog != correct:
                     reason = f"WRONG_BLOG (should be {correct!r})"
