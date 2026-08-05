@@ -53,8 +53,9 @@ def breed_card_html(breed_slug: str, description: str) -> str:
     return (
         '<div style="background:#ffffff;border:1px solid rgba(0,0,0,0.08);'
         'border-radius:12px;overflow:hidden;">'
+        f'<a href="/blogs/dog-breeds/{breed_slug}" class="wf-card-img" style="display:block;">'
         f'<img src="{img}" alt="{name}" '
-        'style="width:100%;height:200px;object-fit:cover;display:block;">'
+        'style="width:100%;aspect-ratio:3/2;height:auto;object-fit:cover;display:block;"></a>'
         '<div style="padding:16px;">'
         f'<h3 style="font-size:1em;font-weight:700;color:#1a1a1a;margin:0 0 8px 0;">{name}</h3>'
         '<div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px;">'
@@ -73,7 +74,7 @@ def breed_card_html(breed_slug: str, description: str) -> str:
 def grid_html(breed_pairs):
     cards = "".join(breed_card_html(s, d) for s, d in breed_pairs)
     return (
-        '<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">'
+        '<style>@media (max-width:640px){.wf-breed-grid{grid-template-columns:1fr !important;}}</style><div class="wf-breed-grid" style="display:grid;grid-template-columns:repeat(2,1fr);gap:20px;">'
         + cards
         + "</div>"
     )
