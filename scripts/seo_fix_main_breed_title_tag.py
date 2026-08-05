@@ -17,14 +17,22 @@ Toy Breed). Supporting articles use `meta.size_category = "Guide"`,
 roundups use "Roundup", comparisons "Comparison", hubs "Guide". So
 the " Breed" suffix uniquely identifies main breed pages.
 
-Template (in priority order, picks first that fits in 65 chars):
+Template (in priority order, picks first that fits the budget):
     1. `{name}: Temperament, Care, Health, Cost`     (preferred)
     2. `{name}: Temperament, Health, Cost`           (drops "Care")
     3. `{name}: Temperament, Health`                 (drops "Cost")
     4. `{name} Breed Guide`                          (fallback)
 
+2026-07-14 audit fix: the theme appends " - Wooffy" (9 chars) to every
+title_tag, so the budget is 51 (not 65) to keep the rendered <title>
+<=60. Long breed names now correctly fall back to a shorter template
+instead of rendering an over-length title. This script also RECOMPUTES
+and overwrites any main-breed title_tag that differs from the target
+(it no longer skips pages that already have one).
+
 Run:
-    python3 scripts/seo_fix_main_breed_title_tag.py
+    python3 scripts/seo_fix_main_breed_title_tag.py --dry-run   # preview only
+    python3 scripts/seo_fix_main_breed_title_tag.py             # write local JSON
     echo YES | python3 scripts/generate.py <list_of_changed_slugs> --update
 """
 from __future__ import annotations
@@ -36,7 +44,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 BREED_DATA = ROOT / "breed-data"
 
-MAX_TITLE_LEN = 65
+# The theme appends " - Wooffy" (9 chars) to every title_tag, so budget the
+# tag at <=51 to keep the rendered <title> at or under 60 chars.
+BRAND_SUFFIX_LEN = 9
+MAX_TITLE_LEN = 60 - BRAND_SUFFIX_LEN  # 51
 
 TEMPLATES = [
     "{name}: Temperament, Care, Health, Cost",
@@ -60,8 +71,9 @@ def is_main_breed_page(meta: dict) -> bool:
 
 
 def main() -> int:
-    changed: list[tuple[str, str]] = []
-    skipped_has_title = 0
+    dry_run = "--dry-run" in sys.argv[1:]
+    changed: list[tuple[str, str, str]] = []  # (stem, old, new)
+    already_ok = 0
     skipped_not_main = 0
 
     for path in sorted(BREED_DATA.glob("*.json")):
@@ -76,39 +88,46 @@ def main() -> int:
             skipped_not_main += 1
             continue
 
-        if (meta.get("title_tag") or "").strip():
-            skipped_has_title += 1
-            continue
-
         breed_name = (meta.get("name") or "").strip()
         if not breed_name:
             print(f"  [skip] {path.stem}: no meta.name", file=sys.stderr)
             continue
 
         new_title = pick_title(breed_name)
-        meta["title_tag"] = new_title
-        data["meta"] = meta
+        old_title = (meta.get("title_tag") or "").strip()
+        if old_title == new_title:
+            already_ok += 1
+            continue
 
-        path.write_text(
-            json.dumps(data, ensure_ascii=False, indent=2),
-            encoding="utf-8",
-            newline="\n",
-        )
-        changed.append((path.stem, new_title))
+        changed.append((path.stem, old_title, new_title))
+        if not dry_run:
+            meta["title_tag"] = new_title
+            data["meta"] = meta
+            path.write_text(
+                json.dumps(data, ensure_ascii=False, indent=2),
+                encoding="utf-8",
+                newline="\n",
+            )
 
-    print("=== Summary ===", file=sys.stderr)
-    print(f"  Changed:                  {len(changed)}", file=sys.stderr)
-    print(f"  Skipped (had title_tag):  {skipped_has_title}", file=sys.stderr)
+    mode = "DRY-RUN (no files written)" if dry_run else "WROTE local JSON"
+    print(f"=== Summary [{mode}] ===", file=sys.stderr)
+    print(f"  Would change / changed:   {len(changed)}", file=sys.stderr)
+    print(f"  Already correct:          {already_ok}", file=sys.stderr)
     print(f"  Skipped (not main breed): {skipped_not_main}", file=sys.stderr)
     print(file=sys.stderr)
-    print("=== Changed pages ===", file=sys.stderr)
-    for slug, title in changed:
-        print(f"  {slug:48s}  -> {title}", file=sys.stderr)
+    print("=== Changes (old -> new) ===", file=sys.stderr)
+    for slug, old, new in changed:
+        shown_old = old if old else "(empty)"
+        print(
+            f"  {slug:46s}\n      {len(old):>2}  {shown_old}"
+            f"\n      {len(new):>2}  {new}",
+            file=sys.stderr,
+        )
 
-    if changed:
+    if changed and not dry_run:
         print(file=sys.stderr)
         print("Slugs to push:", file=sys.stderr)
-        print(" ".join(s for s, _ in changed))
+        print(" ".join(s for s, _, _ in changed))
     return 0
 
 

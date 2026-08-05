@@ -4,15 +4,15 @@ Scanned: 768 breed-data JSON files
 
 ## Summary
 
-Total findings: **698**
+Total findings: **695**
 - CRITICAL: 0
 - HIGH: 0
-- MEDIUM: 698
+- MEDIUM: 695
 - LOW: 0
 
 ## MEDIUM
 
-### missing_title_tag (698)
+### missing_title_tag (695)
 
 - affenpinscher-first-year-costs
 - affenpinscher-grooming-guide
@@ -44,4 +44,4 @@ Total findings: **698**
 - american-staffordshire-terrier-first-year-costs
 - american-staffordshire-terrier-grooming-guide
 - american-staffordshire-terrier-puppy-checklist
-- ... (668 more)
+- ... (665 more)
