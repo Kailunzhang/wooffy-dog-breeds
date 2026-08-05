@@ -1,0 +1,7599 @@
+{
+ "affenpinscher": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3000
+   ],
+   "rescue": [
+    300,
+    800
+   ],
+   "vet_year1": [
+    400,
+    700
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    13,
+    25
+   ],
+   "insurance_monthly": [
+    21,
+    42
+   ],
+   "grooming_annual": [
+    350,
+    600
+   ],
+   "setup_onetime": [
+    150,
+    300
+   ],
+   "total_year1": [
+    2800,
+    5400
+   ],
+   "annual_ongoing": [
+    1050,
+    1900
+   ],
+   "citable_stat": "An Affenpinscher from a reputable breeder costs $1,500–$3,000, with total first-year expenses running $2,800–$5,400; food for a 7–10 lb adult runs $150–$300 annually, and professional grooming every 8–10 weeks costs $350–$600 per year.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:38:39+00:00"
+ },
+ "afghan-hound": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    3500,
+    7000
+   ],
+   "rescue": [
+    200,
+    600
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    33,
+    75
+   ],
+   "grooming_annual": [
+    300,
+    1200
+   ],
+   "setup_onetime": [
+    300,
+    550
+   ],
+   "total_year1": null,
+   "annual_ongoing": null,
+   "citable_stat": "A well-bred Afghan Hound puppy costs $3,500–$7,000 from a reputable breeder, with professional grooming running $300–$1,200 annually depending on coat length preference, and first-year food costs of $400–$700.",
+   "missing": [
+    "total_year1",
+    "annual_ongoing"
+   ]
+  },
+  "ts": "2026-08-05T20:38:42+00:00"
+ },
+ "airedale-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    1800
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    33,
+    67
+   ],
+   "grooming_annual": [
+    300,
+    600
+   ],
+   "setup_onetime": [
+    450,
+    1000
+   ],
+   "total_year1": [
+    2750,
+    5700
+   ],
+   "annual_ongoing": [
+    1400,
+    2600
+   ],
+   "citable_stat": "An Airedale Terrier costs $2,750–$5,700 in the first year including a $800–$1,800 puppy, $400–$700 annual food (2.5–3.5 cups daily for a 40–65 lb dog), $300–$600 annual professional hand-stripping (4–5x yearly at $75–$150 per session), and $400–$800 annual pet insurance, with ongoing annual costs of $1,400–$2,600 after the first year.",
+   "missing": [
+    "spay_neuter (mentioned but no standalone cost; likely included in vet_year1)"
+   ]
+  },
+  "ts": "2026-08-05T20:38:47+00:00"
+ },
+ "akita": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2000
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    50,
+    75
+   ],
+   "insurance_monthly": [
+    50,
+    100
+   ],
+   "grooming_annual": [
+    150,
+    350
+   ],
+   "setup_onetime": [
+    610,
+    1220
+   ],
+   "total_year1": [
+    3750,
+    8100
+   ],
+   "annual_ongoing": [
+    1800,
+    3200
+   ],
+   "citable_stat": "An Akita costs $3,750–$8,100 in the first year, with food for a 70–130 lb dog running $600–$900 annually, and secure fencing (if needed) ranging $500–$2,000+, making infrastructure and health risk profile the primary cost drivers for this large working breed.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:38:50+00:00"
+ },
+ "alaskan-malamute": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    3000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    300,
+    600
+   ],
+   "spay_neuter": [
+    300,
+    700
+   ],
+   "food_monthly": [
+    50,
+    100
+   ],
+   "insurance_monthly": [
+    40,
+    75
+   ],
+   "grooming_annual": [
+    160,
+    300
+   ],
+   "setup_onetime": [
+    530,
+    1100
+   ],
+   "total_year1": [
+    4010,
+    9800
+   ],
+   "annual_ongoing": [
+    1360,
+    2600
+   ],
+   "citable_stat": "An Alaskan Malamute costs $3,500–$7,500 in the first year for most families, with the range driven by breed-specific factors like containment upgrades ($500–$2,000 for 6-foot fencing with dig guards) and professional coat management during seasonal blow-outs ($160–$300 annually for 1–2 professional deshedding sessions); an adult Malamute eats 4–6 cups daily of large-breed kibble, budgeted at $600–$1,200 in year one and $700–$1,400 annually thereafter.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:38:54+00:00"
+ },
+ "american-eskimo-dog": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": [
+    150,
+    400
+   ],
+   "vet_year1": [
+    610,
+    1200
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    13,
+    50
+   ],
+   "insurance_monthly": [
+    25,
+    55
+   ],
+   "grooming_annual": [
+    60,
+    880
+   ],
+   "setup_onetime": [
+    275,
+    610
+   ],
+   "total_year1": [
+    2645,
+    7350
+   ],
+   "annual_ongoing": [
+    610,
+    2640
+   ],
+   "citable_stat": "American Eskimo Dogs from reputable breeders cost $1,000–$2,500, with first-year total investment ranging from $2,645–$7,350 including supplies, vet care, food ($150–$600 annually depending on size), and grooming ($60–$880 annually), with the wide range driven by grooming choice and insurance enrollment.",
+   "missing": [
+    "total_year1 for rescue adoption path (article gives pre-adoption vet inclusions but not full first-year total with rescue adoption)"
+   ]
+  },
+  "ts": "2026-08-05T20:39:11+00:00"
+ },
+ "american-foxhound": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    500,
+    1500
+   ],
+   "rescue": [
+    150,
+    600
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    50,
+    75
+   ],
+   "insurance_monthly": [
+    33,
+    75
+   ],
+   "grooming_annual": [
+    0,
+    40
+   ],
+   "setup_onetime": [
+    500,
+    900
+   ],
+   "total_year1": [
+    3000,
+    7600
+   ],
+   "annual_ongoing": [
+    1500,
+    2700
+   ],
+   "citable_stat": "An American Foxhound costs $3,000–$7,600 in the first year including a $500–$1,500 breeder puppy, $500–$2,500+ for secure fencing if needed, $600–$900 annual food for a 60–70 lb dog, and $500–$900 first-year routine vet care plus vaccines; adoption from a breed rescue runs $150–$600 and typically includes spay/neuter and vaccines already completed.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:39:15+00:00"
+ },
+ "american-staffordshire-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    2000
+   ],
+   "rescue": [
+    150,
+    400
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    42,
+    83
+   ],
+   "grooming_annual": [
+    0,
+    50
+   ],
+   "setup_onetime": [
+    250,
+    450
+   ],
+   "total_year1": [
+    2650,
+    5450
+   ],
+   "annual_ongoing": [
+    1400,
+    2600
+   ],
+   "citable_stat": "An American Staffordshire Terrier costs $2,650–$5,450 in the first year including a $800–$2,000 breeder puppy, $500–$900 in routine vet care and vaccines, $500–$1,000 annual pet insurance, and $400–$700 annually for food for a 40–70 lb adult, with grooming costs as low as $0 for DIY care using a $40–$70 tool kit.",
+   "missing": [
+    "spay_neuter as isolated line item"
+   ]
+  },
+  "ts": "2026-08-05T20:39:19+00:00"
+ },
+ "american-water-spaniel": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    1500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    450,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    29,
+    50
+   ],
+   "insurance_monthly": [
+    29,
+    67
+   ],
+   "grooming_annual": [
+    0,
+    300
+   ],
+   "setup_onetime": [
+    260,
+    500
+   ],
+   "total_year1": [
+    2300,
+    4450
+   ],
+   "annual_ongoing": [
+    1000,
+    1900
+   ],
+   "citable_stat": "An American Water Spaniel costs $2,300–$4,450 in the first year including a $800–$1,500 puppy, $350–$600 annual food, $450–$800 routine vet care, and $350–$800 pet insurance, with ongoing annual costs of $1,000–$1,900.",
+   "missing": [
+    "rescue",
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:39:22+00:00"
+ },
+ "anatolian-shepherd-dog": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    300,
+    600
+   ],
+   "food_monthly": [
+    80,
+    140
+   ],
+   "insurance_monthly": [
+    50,
+    90
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    410,
+    820
+   ],
+   "total_year1": [
+    4300,
+    7700
+   ],
+   "annual_ongoing": [
+    2050,
+    2580
+   ],
+   "citable_stat": "An Anatolian Shepherd Dog puppy from a health-tested breeder costs $1,000–$2,000, but the real first-year expense is six-foot fencing ($1,500–$8,000+), which is the breed's baseline requirement; with fencing in place and insurance, first-year costs run $4,300–$7,700, while food for a growing giant breed averages $80–$140 monthly ($1,000–$1,700 annually).",
+   "missing": [
+    "rescue"
+   ]
+  },
+  "ts": "2026-08-05T20:39:26+00:00"
+ },
+ "aussiedoodle": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1800,
+    4500
+   ],
+   "rescue": [
+    200,
+    600
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    42,
+    75
+   ],
+   "insurance_monthly": [
+    42,
+    100
+   ],
+   "grooming_annual": [
+    600,
+    1200
+   ],
+   "setup_onetime": [
+    300,
+    700
+   ],
+   "total_year1": [
+    4300,
+    9500
+   ],
+   "annual_ongoing": [
+    1950,
+    3800
+   ],
+   "citable_stat": "An Aussiedoodle from a reputable breeder costs $1,800–$4,500, with first-year total estimated at $4,300–$9,500 including purchase price, setup, vet care, food ($500–$900 first year), insurance ($500–$1,200/year), and professional grooming ($600–$1,200/year); rescue adoption runs $200–$600 with lower first-year costs of $1,700–$3,300.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:39:30+00:00"
+ },
+ "australian-cattle-dog": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    600,
+    1500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    33,
+    67
+   ],
+   "grooming_annual": [
+    0,
+    60
+   ],
+   "setup_onetime": [
+    300,
+    500
+   ],
+   "total_year1": [
+    2400,
+    5000
+   ],
+   "annual_ongoing": [
+    1300,
+    2500
+   ],
+   "citable_stat": "An Australian Cattle Dog costs $2,400–$5,000 in the first year, with food for a 35–50 lb dog running $400–$700 annually; the budget skews heavily toward training, sport participation, and enrichment ($300–$700 year one, $200–$500 ongoing) rather than luxury, because the breed requires 90–120+ minutes of daily physical exercise plus mental stimulation to prevent behavioral problems.",
+   "missing": [
+    "rescue"
+   ]
+  },
+  "ts": "2026-08-05T20:39:34+00:00"
+ },
+ "australian-shepherd": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    1800
+   ],
+   "rescue": null,
+   "vet_year1": [
+    500,
+    1000
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    29,
+    54
+   ],
+   "grooming_annual": [
+    150,
+    350
+   ],
+   "setup_onetime": [
+    420,
+    650
+   ],
+   "total_year1": [
+    3280,
+    6650
+   ],
+   "annual_ongoing": [
+    1550,
+    3000
+   ],
+   "citable_stat": "An Australian Shepherd costs $3,280–$6,650 in the first year, with food for a 40–65 lb adult running $400–$700 annually and professional deshedding treatments (2x/year) at $100–$250 annually.",
+   "missing": [
+    "spay_neuter (included in vet_year1 total)"
+   ]
+  },
+  "ts": "2026-08-05T20:39:37+00:00"
+ },
+ "australian-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    200,
+    400
+   ],
+   "spay_neuter": [
+    200,
+    400
+   ],
+   "food_monthly": [
+    30,
+    50
+   ],
+   "insurance_monthly": [
+    25,
+    45
+   ],
+   "grooming_annual": [
+    240,
+    400
+   ],
+   "setup_onetime": [
+    635,
+    1285
+   ],
+   "total_year1": [
+    2000,
+    4000
+   ],
+   "annual_ongoing": [
+    300,
+    500
+   ],
+   "citable_stat": "An Australian Terrier puppy from a breeder costs $1,000–$2,500, while a rescue adult runs $250–$600. First-year costs range from $2,000–$2,600 (budget path with adopted adult and DIY grooming) to $3,400–$4,000 (premium path with breeder puppy and professional grooming every 3 months), with monthly food around $30–$50 and insurance $25–$45/month.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:39:41+00:00"
+ },
+ "basenji": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    2800,
+    5500
+   ],
+   "rescue": [
+    150,
+    400
+   ],
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": [
+    150,
+    400
+   ],
+   "food_monthly": [
+    20,
+    40
+   ],
+   "insurance_monthly": [
+    25,
+    50
+   ],
+   "grooming_annual": [
+    30,
+    80
+   ],
+   "setup_onetime": [
+    300,
+    900
+   ],
+   "total_year1": [
+    4050,
+    8050
+   ],
+   "annual_ongoing": [
+    600,
+    1130
+   ],
+   "citable_stat": "A Basenji puppy from a reputable breeder costs $2,800–$5,500, with first-year total costs of $4,050–$8,050 including purchase, vet care, insurance, and setup; adoption through rescue runs $150–$400 as an alternative route.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:39:44+00:00"
+ },
+ "basset-hound": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    1800
+   ],
+   "rescue": [
+    150,
+    400
+   ],
+   "vet_year1": [
+    300,
+    500
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    33,
+    58
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    235,
+    510
+   ],
+   "total_year1": [
+    2500,
+    4500
+   ],
+   "annual_ongoing": [
+    1200,
+    2100
+   ],
+   "citable_stat": "A Basset Hound from a reputable breeder costs $2,500–$4,500 in the first year, while rescue adoption runs $1,800–$3,200; the short coat requires no professional grooming, but the breed's elongated spine and short legs create elevated risk for intervertebral disc disease and bloat, making preventive care (ramps, weight control, ear maintenance) essential rather than optional.",
+   "missing": [
+    "spay_neuter (article states rescue dogs often arrive already spayed/neutered but does not price the surgery separately for breeder puppies)"
+   ]
+  },
+  "ts": "2026-08-05T20:39:48+00:00"
+ },
+ "beagle": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    500,
+    1200
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    33,
+    50
+   ],
+   "insurance_monthly": [
+    40,
+    70
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    250,
+    450
+   ],
+   "total_year1": [
+    2200,
+    5500
+   ],
+   "annual_ongoing": [
+    1300,
+    2200
+   ],
+   "citable_stat": "A Beagle costs $2,200–$5,500+ in the first year including puppy price ($500–$1,200), food ($400–$600 annually), routine vet care ($400–$800), pet insurance ($480–$840), setup supplies ($250–$450), and fencing/containment upgrades ($0–$1,500); ongoing annual costs are $1,300–$2,200.",
+   "missing": [
+    "spay_neuter (included in vet_year1 estimate but not separately itemized)"
+   ]
+  },
+  "ts": "2026-08-05T20:39:52+00:00"
+ },
+ "bearded-collie": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    225,
+    450
+   ],
+   "spay_neuter": [
+    250,
+    600
+   ],
+   "food_monthly": [
+    50,
+    75
+   ],
+   "insurance_monthly": [
+    40,
+    80
+   ],
+   "grooming_annual": [
+    480,
+    900
+   ],
+   "setup_onetime": [
+    310,
+    660
+   ],
+   "total_year1": [
+    3500,
+    5500
+   ],
+   "annual_ongoing": [
+    2000,
+    3500
+   ],
+   "citable_stat": "A Bearded Collie puppy from a reputable breeder costs $1,500–$2,500, with first-year expenses totaling $3,500–$5,500 including food at $50–$75/month, professional grooming every 8–10 weeks at $480–$900/year, and pet insurance at $40–$80/month; rescue adoption runs $200–$500 and can save $400–$900 in recurring costs by including spay/neuter and vaccines.",
+   "missing": [
+    "training_classes (mentioned $150–$400 but not separated in recurring cost structure)",
+    "toys_enrichment_annual (mentioned but not isolated as standalone line item in cost summaries)"
+   ]
+  },
+  "ts": "2026-08-05T20:39:56+00:00"
+ },
+ "beauceron": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    700,
+    1500
+   ],
+   "spay_neuter": [
+    300,
+    700
+   ],
+   "food_monthly": [
+    75,
+    117
+   ],
+   "insurance_monthly": [
+    50,
+    85
+   ],
+   "grooming_annual": [
+    30,
+    60
+   ],
+   "setup_onetime": [
+    380,
+    770
+   ],
+   "total_year1": [
+    3500,
+    6000
+   ],
+   "annual_ongoing": [
+    1400,
+    2200
+   ],
+   "citable_stat": "A domestically sourced Beauceron costs $3,500–$6,000 in the first year, with an adult eating roughly 4–5.5 cups of quality large-breed kibble daily for an annual food cost of $900–$1,400, and professional grooming largely unnecessary due to the breed's short, dense double coat requiring only DIY maintenance ($30–$60/year).",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:40:03+00:00"
+ },
+ "bedlington-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    400,
+    700
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    25,
+    42
+   ],
+   "insurance_monthly": [
+    33,
+    67
+   ],
+   "grooming_annual": [
+    500,
+    800
+   ],
+   "setup_onetime": [
+    240,
+    480
+   ],
+   "total_year1": [
+    3300,
+    5700
+   ],
+   "annual_ongoing": [
+    1500,
+    2600
+   ],
+   "citable_stat": "A Bedlington Terrier costs $3,300–$5,700 in the first year, with professional grooming every 6–8 weeks at $500–$800 annually being the primary driver of ongoing expenses after the puppy price.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:40:06+00:00"
+ },
+ "belgian-malinois": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    42,
+    67
+   ],
+   "insurance_monthly": [
+    42,
+    83
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    440,
+    770
+   ],
+   "total_year1": [
+    5300,
+    11800
+   ],
+   "annual_ongoing": [
+    1800,
+    3800
+   ],
+   "citable_stat": "A Belgian Malinois costs $5,300–$11,800 in the first year including professional training ($2,000–$5,000), with ongoing annual costs of $1,800–$3,800; food for a 40–80 lb adult runs $500–$800 annually, and professional training continues at $500–$1,500 yearly throughout the dog's life due to the breed's high engagement needs.",
+   "missing": [
+    "rescue",
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:40:10+00:00"
+ },
+ "belgian-sheepdog": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    425,
+    950
+   ],
+   "spay_neuter": [
+    250,
+    600
+   ],
+   "food_monthly": [
+    58,
+    92
+   ],
+   "insurance_monthly": [
+    40,
+    75
+   ],
+   "grooming_annual": [
+    0,
+    780
+   ],
+   "setup_onetime": [
+    300,
+    650
+   ],
+   "total_year1": [
+    3200,
+    6000
+   ],
+   "annual_ongoing": [
+    2000,
+    3500
+   ],
+   "citable_stat": "A Belgian Sheepdog puppy from a health-tested breeder costs $1,200–$2,500, with first-year total costs of $3,200–$6,000 including vaccination series ($175–$350), spay/neuter ($250–$600), food ($700–$1,100 annually), and professional grooming ranging from $0–$780 depending on DIY versus professional approach.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:40:14+00:00"
+ },
+ "belgian-tervuren": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    335,
+    675
+   ],
+   "spay_neuter": [
+    250,
+    600
+   ],
+   "food_monthly": [
+    58,
+    92
+   ],
+   "insurance_monthly": [
+    40,
+    75
+   ],
+   "grooming_annual": [
+    375,
+    780
+   ],
+   "setup_onetime": [
+    445,
+    840
+   ],
+   "total_year1": [
+    3200,
+    6000
+   ],
+   "annual_ongoing": [
+    2000,
+    3500
+   ],
+   "citable_stat": "A Belgian Tervuren puppy from a reputable breeder costs $1,200–$2,500, with first-year food running $700–$1,100 annually and professional grooming (5–6 visits/year) totaling $375–$780; total first-year cost is $3,200–$6,000, settling to $2,000–$3,500 annually thereafter.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:40:18+00:00"
+ },
+ "bernedoodle": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    2500,
+    5500
+   ],
+   "rescue": [
+    200,
+    600
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    50,
+    83
+   ],
+   "insurance_monthly": [
+    58,
+    117
+   ],
+   "grooming_annual": [
+    600,
+    1200
+   ],
+   "setup_onetime": [
+    300,
+    700
+   ],
+   "total_year1": [
+    5200,
+    10500
+   ],
+   "annual_ongoing": [
+    2250,
+    4400
+   ],
+   "citable_stat": "A Bernedoodle puppy from a reputable breeder costs $2,500–$5,500, with first-year costs (including purchase, setup, vet care, insurance, food, and grooming) totaling $5,200–$10,500; rescue adoption runs $200–$600, and professional grooming costs $600–$1,200/year at $80–$150 per session every 6–8 weeks.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:40:21+00:00"
+ },
+ "bernese-mountain-dog": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3000
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    58,
+    92
+   ],
+   "insurance_monthly": [
+    67,
+    125
+   ],
+   "grooming_annual": [
+    50,
+    150
+   ],
+   "setup_onetime": [
+    630,
+    1100
+   ],
+   "total_year1": [
+    4130,
+    7750
+   ],
+   "annual_ongoing": [
+    2100,
+    3700
+   ],
+   "citable_stat": "A Bernese Mountain Dog costs $4,130–$7,750 in the first year from a reputable breeder, with food for a 70–115 lb adult running $700–$1,100 annually, and pet insurance (essential for this cancer-prone breed) at $800–$1,500 annually.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:40:24+00:00"
+ },
+ "bichon-frise": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    250,
+    400
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    21,
+    38
+   ],
+   "insurance_monthly": [
+    30,
+    50
+   ],
+   "grooming_annual": [
+    350,
+    650
+   ],
+   "setup_onetime": [
+    230,
+    500
+   ],
+   "total_year1": [
+    2500,
+    5000
+   ],
+   "annual_ongoing": [
+    1300,
+    2200
+   ],
+   "citable_stat": "Plan on $2,500–$5,000 for the first twelve months if bringing home a Bichon Frise from a reputable breeder, with professional grooming costing $350–$650 annually and food for a 12–18 pound adult running $250–$450 per year.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:40:28+00:00"
+ },
+ "black-and-tan-coonhound": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    600,
+    1200
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    50,
+    75
+   ],
+   "insurance_monthly": [
+    42,
+    75
+   ],
+   "grooming_annual": [
+    0,
+    200
+   ],
+   "setup_onetime": [
+    490,
+    970
+   ],
+   "total_year1": [
+    2550,
+    4700
+   ],
+   "annual_ongoing": [
+    1600,
+    2800
+   ],
+   "citable_stat": "A Black and Tan Coonhound costs $2,550–$4,700 in the first year (breeder puppy path), with food for a 65–110 lb dog running $600–$900 annually and insurance $500–$900 annually; routine vet care including puppy vaccines runs $400–$800 in year one.",
+   "missing": [
+    "spay_neuter (included in vet_year1 and monthly budgets but not isolated)"
+   ]
+  },
+  "ts": "2026-08-05T20:40:32+00:00"
+ },
+ "bloodhound": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    3500,
+    7000
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    50,
+    75
+   ],
+   "insurance_monthly": [
+    50,
+    100
+   ],
+   "grooming_annual": [
+    40,
+    70
+   ],
+   "setup_onetime": [
+    350,
+    600
+   ],
+   "total_year1": [
+    5550,
+    10600
+   ],
+   "annual_ongoing": null,
+   "citable_stat": "A Bloodhound from a reputable breeder costs $3,500–$7,000, with first-year total expenses of $5,550–$10,600 including setup, food ($600–$900 annually), veterinary care ($500–$900 with spay/neuter and prophylactic gastropexy), and insurance ($600–$1,200/year); rescue adoption costs $200–$500 as an alternative acquisition route.",
+   "missing": [
+    "annual_ongoing"
+   ]
+  },
+  "ts": "2026-08-05T20:40:35+00:00"
+ },
+ "bluetick-coonhound": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    600,
+    1200
+   ],
+   "rescue": [
+    null
+   ],
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    42,
+    67
+   ],
+   "insurance_monthly": [
+    42,
+    75
+   ],
+   "grooming_annual": [
+    0,
+    300
+   ],
+   "setup_onetime": [
+    340,
+    570
+   ],
+   "total_year1": [
+    2300,
+    4200
+   ],
+   "annual_ongoing": [
+    1500,
+    2700
+   ],
+   "citable_stat": "A Bluetick Coonhound from a reputable breeder costs $2,300–$4,200 in the first year, with food for a 45–80 lb adult running $500–$800 annually and professional grooming optional at $150–$300 per year.",
+   "missing": [
+    "rescue adoption fee (article notes breed rescue fees run lower but provides no specific range)",
+    "spay_neuter (mentioned at 6 months but no standalone cost given)"
+   ]
+  },
+  "ts": "2026-08-05T20:40:39+00:00"
+ },
+ "border-collie": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    1800
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    33,
+    67
+   ],
+   "grooming_annual": [
+    0,
+    280
+   ],
+   "setup_onetime": [
+    250,
+    450
+   ],
+   "total_year1": [
+    2650,
+    5450
+   ],
+   "annual_ongoing": [
+    1400,
+    2700
+   ],
+   "citable_stat": "A Border Collie costs $2,650–$5,450 in the first year including puppy purchase ($800–$1,800), food ($400–$700 annually), routine vet care ($400–$800), pet insurance ($400–$800), and training/dog sports ($400–$900), with an ongoing annual cost of $1,400–$2,700 after the puppy year.",
+   "missing": [
+    "rescue adoption fee",
+    "spay_neuter cost (article mentions scheduling around month 5–6 but gives no price)"
+   ]
+  },
+  "ts": "2026-08-05T20:40:43+00:00"
+ },
+ "border-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    1500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    350,
+    700
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    21,
+    38
+   ],
+   "insurance_monthly": [
+    25,
+    50
+   ],
+   "grooming_annual": [
+    100,
+    200
+   ],
+   "setup_onetime": [
+    150,
+    350
+   ],
+   "total_year1": [
+    2100,
+    4100
+   ],
+   "annual_ongoing": [
+    900,
+    1700
+   ],
+   "citable_stat": "A Border Terrier from a reputable breeder costs $800–$1,500, with first-year total expenses of $2,100–$4,100 including setup, vaccines, spay/neuter, food ($250–$450 annually for standard kibble), insurance ($300–$600 annually), and grooming ($100–$200 annually with 1–2 professional visits), with ongoing annual costs of $900–$1,700.",
+   "missing": [
+    "rescue adoption fee"
+   ]
+  },
+  "ts": "2026-08-05T20:40:46+00:00"
+ },
+ "borzoi": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3000
+   ],
+   "rescue": [
+    150,
+    400
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    50,
+    80
+   ],
+   "insurance_monthly": [
+    50,
+    100
+   ],
+   "grooming_annual": [
+    0,
+    400
+   ],
+   "setup_onetime": [
+    300,
+    550
+   ],
+   "total_year1": [
+    4000,
+    9550
+   ],
+   "annual_ongoing": null,
+   "citable_stat": "A Borzoi puppy from a health-tested breeder typically costs $1,500–$3,000, with first-year food running $600–$900 ($50–$80/month), veterinary care $500–$900, pet insurance $600–$1,200/year, and total first-year costs (including purchase) of $4,000–$9,550 depending largely on fencing requirements.",
+   "missing": [
+    "annual_ongoing"
+   ]
+  },
+  "ts": "2026-08-05T20:40:50+00:00"
+ },
+ "boston-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    2000
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    200,
+    400
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    17,
+    33
+   ],
+   "insurance_monthly": [
+    25,
+    50
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    190,
+    370
+   ],
+   "total_year1": [
+    2500,
+    5500
+   ],
+   "annual_ongoing": [
+    1250,
+    2500
+   ],
+   "citable_stat": "Boston Terriers cost $2,500–$5,500 in the first year due to brachycephalic-related vet expenses, with potential BOAS airway surgery running $1,000–$3,000; food costs $200–$400 annually for a 12–25 lb adult, and pet insurance at $25–$50/month is strongly recommended.",
+   "missing": [
+    "boas_evaluation"
+   ]
+  },
+  "ts": "2026-08-05T20:40:54+00:00"
+ },
+ "bouvier-des-flandres": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3000
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    500,
+    960
+   ],
+   "spay_neuter": [
+    300,
+    700
+   ],
+   "food_monthly": [
+    75,
+    120
+   ],
+   "insurance_monthly": [
+    50,
+    90
+   ],
+   "grooming_annual": [
+    500,
+    1050
+   ],
+   "setup_onetime": [
+    370,
+    750
+   ],
+   "total_year1": [
+    4000,
+    7000
+   ],
+   "annual_ongoing": [
+    2500,
+    4000
+   ],
+   "citable_stat": "A Bouvier des Flandres puppy from a reputable breeder costs $1,500–$3,000, with first-year recurring costs of $3,750–$7,280 including food at $75–$120/month, professional grooming at $500–$1,050 annually, and pet insurance at $50–$90/month, bringing the total first-year estimate to $4,000–$7,000+.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:41:01+00:00"
+ },
+ "boxer": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    2000
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    300,
+    600
+   ],
+   "food_monthly": [
+    42,
+    67
+   ],
+   "insurance_monthly": [
+    50,
+    100
+   ],
+   "grooming_annual": [
+    0,
+    70
+   ],
+   "setup_onetime": [
+    540,
+    970
+   ],
+   "total_year1": [
+    2900,
+    5800
+   ],
+   "annual_ongoing": [
+    1600,
+    2900
+   ],
+   "citable_stat": "A Boxer costs $2,900–$5,800 in the first year with a reputable breeder ($800–$2,000), routine vet care and vaccines ($500–$900), food at $500–$800 annually, and cancer/ARVC-specific pet insurance ($600–$1,200 annually), with ongoing annual costs of $1,600–$2,900 thereafter.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:41:05+00:00"
+ },
+ "briard": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    500,
+    1000
+   ],
+   "spay_neuter": [
+    300,
+    700
+   ],
+   "food_monthly": [
+    75,
+    117
+   ],
+   "insurance_monthly": [
+    50,
+    85
+   ],
+   "grooming_annual": [
+    450,
+    960
+   ],
+   "setup_onetime": [
+    500,
+    1000
+   ],
+   "total_year1": [
+    3800,
+    6500
+   ],
+   "annual_ongoing": [
+    2200,
+    3800
+   ],
+   "citable_stat": "A Briard puppy from a reputable breeder costs $1,500–$2,500, with rescue adoption running $200–$500. First-year total including vaccines, spay/neuter, large-breed food ($900–$1,400 annually), and professional grooming (5–6 visits at $450–$960/year) totals $3,800–$6,500; ongoing annual costs settle to $2,200–$3,800 after year one.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:41:08+00:00"
+ },
+ "brittany": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    2500
+   ],
+   "rescue": [
+    150,
+    400
+   ],
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": [
+    150,
+    400
+   ],
+   "food_monthly": [
+    40,
+    65
+   ],
+   "insurance_monthly": [
+    33,
+    75
+   ],
+   "grooming_annual": [
+    40,
+    200
+   ],
+   "setup_onetime": [
+    250,
+    500
+   ],
+   "total_year1": [
+    2800,
+    6000
+   ],
+   "annual_ongoing": [
+    1200,
+    null
+   ],
+   "citable_stat": "A Brittany costs $2,800–$6,000 in the first year with purchase price included, driven by whether you choose a field-line or show-line puppy, fencing needs, and formal training. Food runs $40–$65 per month for a 30–40 lb dog eating 1.5–2.5 cups of quality kibble daily.",
+   "missing": [
+    "annual_ongoing high value (article cuts off mid-sentence)"
+   ]
+  },
+  "ts": "2026-08-05T20:41:12+00:00"
+ },
+ "brussels-griffon": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3000
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    150,
+    300
+   ],
+   "spay_neuter": [
+    200,
+    400
+   ],
+   "food_monthly": [
+    30,
+    60
+   ],
+   "insurance_monthly": [
+    25,
+    50
+   ],
+   "grooming_annual": [
+    0,
+    720
+   ],
+   "setup_onetime": [
+    280,
+    800
+   ],
+   "total_year1": [
+    3600,
+    7310
+   ],
+   "annual_ongoing": [
+    1540,
+    3090
+   ],
+   "citable_stat": "A Brussels Griffon costs $3,600–$7,310 in the first year with insurance, with food running $30–$60/month for an 8–10 lb dog, and professional rough-coat grooming ranging $300–$720 annually depending on coat type.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:41:15+00:00"
+ },
+ "bull-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3000
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    42,
+    83
+   ],
+   "grooming_annual": [
+    120,
+    360
+   ],
+   "setup_onetime": [
+    540,
+    1000
+   ],
+   "total_year1": [
+    3400,
+    6600
+   ],
+   "annual_ongoing": [
+    1400,
+    2700
+   ],
+   "citable_stat": "A Bull Terrier costs $3,400–$6,600 in the first year from a breeder or $250–$600 from rescue, with food for a 50–70 lb adult running $400–$700 annually and routine vet care $500–$900 in year one.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:41:18+00:00"
+ },
+ "bulldog": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    4000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    250,
+    500
+   ],
+   "spay_neuter": [
+    300,
+    800
+   ],
+   "food_monthly": [
+    25,
+    42
+   ],
+   "insurance_monthly": [
+    42,
+    100
+   ],
+   "grooming_annual": [
+    0,
+    480
+   ],
+   "setup_onetime": [
+    200,
+    400
+   ],
+   "total_year1": [
+    3700,
+    11700
+   ],
+   "annual_ongoing": [
+    1700,
+    5500
+   ],
+   "citable_stat": "A Bulldog costs $3,700–$11,700 in the first year with a realistic range of $5,000–$10,000 when accounting for at least one health-related procedure, with monthly food costs of $300–$500 annually for a 40–50 lb adult and BOAS airway surgery typically running $1,500–$4,000 as a probable early-year expense.",
+   "missing": [
+    "rescue adoption fee (article does not mention rescue route)",
+    "detailed grooming annual breakdown (article notes fold care supplies $150–$300 but does not quantify total annual professional grooming visits or rates)"
+   ]
+  },
+  "ts": "2026-08-05T20:41:23+00:00"
+ },
+ "bullmastiff": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    200,
+    400
+   ],
+   "spay_neuter": [
+    400,
+    700
+   ],
+   "food_monthly": [
+    100,
+    150
+   ],
+   "insurance_monthly": [
+    60,
+    100
+   ],
+   "grooming_annual": [
+    0,
+    360
+   ],
+   "setup_onetime": [
+    640,
+    1030
+   ],
+   "total_year1": [
+    5360,
+    9430
+   ],
+   "annual_ongoing": [
+    2670,
+    4640
+   ],
+   "citable_stat": "A Bullmastiff puppy from health-tested parents costs $1,500–$3,000, with first-year food budgeted at $100–$150/month ($1,200–$1,800 annually), pet insurance at $60–$100/month, and total first-year costs ranging $5,360–$9,430 depending on insurance and professional grooming choices.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:41:26+00:00"
+ },
+ "cairn-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    425,
+    875
+   ],
+   "spay_neuter": [
+    250,
+    450
+   ],
+   "food_monthly": [
+    30,
+    50
+   ],
+   "insurance_monthly": [
+    20,
+    40
+   ],
+   "grooming_annual": [
+    180,
+    400
+   ],
+   "setup_onetime": [
+    225,
+    495
+   ],
+   "total_year1": [
+    2500,
+    4500
+   ],
+   "annual_ongoing": [
+    1010,
+    2030
+   ],
+   "citable_stat": "A Cairn Terrier's first-year cost ranges from $2,500–$4,500, including the puppy purchase ($1,200–$2,500), with food running $30–$50/month and grooming $180–$400/year depending on hand-stripping versus clipping.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:41:29+00:00"
+ },
+ "cane-corso": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    4000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    300,
+    600
+   ],
+   "spay_neuter": [
+    300,
+    800
+   ],
+   "food_monthly": [
+    50,
+    100
+   ],
+   "insurance_monthly": [
+    50,
+    100
+   ],
+   "grooming_annual": [
+    0,
+    70
+   ],
+   "setup_onetime": [
+    250,
+    500
+   ],
+   "total_year1": [
+    4450,
+    11500
+   ],
+   "annual_ongoing": [
+    2100,
+    4500
+   ],
+   "citable_stat": "A Cane Corso costs $4,450–$11,500 in the first year, with most owners landing between $5,000–$10,000; food runs $600–$1,200 for large-breed puppy formula across month 1–12, and insurance premiums are $50–$100 monthly.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:41:33+00:00"
+ },
+ "cardigan-welsh-corgi": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    25,
+    42
+   ],
+   "insurance_monthly": [
+    33,
+    67
+   ],
+   "grooming_annual": [
+    0,
+    300
+   ],
+   "setup_onetime": [
+    640,
+    1220
+   ],
+   "total_year1": [
+    3200,
+    6350
+   ],
+   "annual_ongoing": [
+    1000,
+    1800
+   ],
+   "citable_stat": "A Cardigan Welsh Corgi costs $3,200–$6,350 in the first year, with food running $300–$500 annually and insurance $400–$800 annually, but the breed's susceptibility to intervertebral disc disease (IVDD) makes prevention—such as $150–$400 in ramps and gates—a critical budget priority.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:41:36+00:00"
+ },
+ "cavalier-king-charles-spaniel": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": [
+    300,
+    600
+   ],
+   "vet_year1": [
+    400,
+    700
+   ],
+   "spay_neuter": [
+    200,
+    400
+   ],
+   "food_monthly": [
+    25,
+    42
+   ],
+   "insurance_monthly": [
+    33,
+    58
+   ],
+   "grooming_annual": [
+    240,
+    480
+   ],
+   "setup_onetime": [
+    180,
+    405
+   ],
+   "total_year1": [
+    3000,
+    6000
+   ],
+   "annual_ongoing": null,
+   "citable_stat": "A Cavalier King Charles Spaniel costs $3,000–$6,000 in the first year when purchased from a health-tested breeder ($1,500–$3,500), or $2,000–$3,500 via rescue adoption; food runs $300–$500 annually for a 15–18 lb adult, and professional grooming costs $240–$480 yearly ($60–$80 per session every 8–12 weeks).",
+   "missing": [
+    "annual_ongoing"
+   ]
+  },
+  "ts": "2026-08-05T20:41:40+00:00"
+ },
+ "cavapoo": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    2000,
+    4500
+   ],
+   "rescue": [
+    200,
+    600
+   ],
+   "vet_year1": [
+    230,
+    590
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    25,
+    42
+   ],
+   "insurance_monthly": [
+    33,
+    75
+   ],
+   "grooming_annual": [
+    500,
+    1000
+   ],
+   "setup_onetime": [
+    300,
+    700
+   ],
+   "total_year1": [
+    3800,
+    8200
+   ],
+   "annual_ongoing": [
+    1200,
+    2440
+   ],
+   "citable_stat": "A Cavapoo from a reputable breeder costs $2,000–$4,500, with professional grooming running $500–$1,000 annually and pet insurance $400–$900 yearly; first-year total is $3,800–$8,200, or roughly $2,800–$4,200 via rescue adoption.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:41:43+00:00"
+ },
+ "chesapeake-bay-retriever": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    1500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    46,
+    75
+   ],
+   "insurance_monthly": [
+    42,
+    100
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    300,
+    500
+   ],
+   "total_year1": [
+    2850,
+    5500
+   ],
+   "annual_ongoing": [
+    1400,
+    2700
+   ],
+   "citable_stat": "A Chesapeake Bay Retriever from a health-tested breeder costs $800–$1,500, with first-year expenses totaling $2,850–$5,500 including food ($550–$900), routine vet care plus puppy series ($500–$900), pet insurance ($500–$1,200), setup ($300–$500), and training ($200–$500); the breed saves money on grooming with almost no professional visits needed due to its natural oily coat.",
+   "missing": [
+    "spay_neuter (incorporated into vet_year1 one-time costs shown in table as $350–$650 for puppy vaccine series, spay/neuter, and microchip)"
+   ]
+  },
+  "ts": "2026-08-05T20:41:50+00:00"
+ },
+ "chihuahua": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    500,
+    1500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    900
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    8,
+    17
+   ],
+   "insurance_monthly": [
+    17,
+    38
+   ],
+   "grooming_annual": [
+    30,
+    150
+   ],
+   "setup_onetime": [
+    150,
+    300
+   ],
+   "total_year1": [
+    1680,
+    4200
+   ],
+   "annual_ongoing": [
+    800,
+    1700
+   ],
+   "citable_stat": "A Chihuahua costs $1,680–$4,200 in the first year, with food for a 2–6 lb dog running $100–$200 annually and first-year vet care including vaccines and spay/neuter ranging $400–$900.",
+   "missing": [
+    "spay_neuter (included in vet_year1)",
+    "training (tracked separately in article, $200–$400, not itemized in JSON structure)"
+   ]
+  },
+  "ts": "2026-08-05T20:41:54+00:00"
+ },
+ "chinese-crested": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    250,
+    450
+   ],
+   "spay_neuter": [
+    200,
+    400
+   ],
+   "food_monthly": [
+    30,
+    60
+   ],
+   "insurance_monthly": [
+    25,
+    50
+   ],
+   "grooming_annual": [
+    240,
+    480
+   ],
+   "setup_onetime": [
+    180,
+    450
+   ],
+   "total_year1": [
+    3223,
+    6895
+   ],
+   "annual_ongoing": [
+    360,
+    720
+   ],
+   "citable_stat": "A Chinese Crested from a health-tested breeder costs $1,200–$2,500, with first-year totals ranging $3,223–$6,895 (Powder Puff) to $3,423–$6,895 (Hairless) including insurance; monthly food runs $30–$60 for an 8–12 lb adult on quality kibble.",
+   "missing": [
+    "rescue adoption fee (article does not provide)",
+    "annual_ongoing (article gives detailed category breakdowns but no single consolidated recurring figure; used food+preventives+insurance range)"
+   ]
+  },
+  "ts": "2026-08-05T20:41:59+00:00"
+ },
+ "chinese-shar-pei": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": [
+    150,
+    450
+   ],
+   "vet_year1": [
+    1110,
+    2610
+   ],
+   "spay_neuter": [
+    250,
+    600
+   ],
+   "food_monthly": [
+    42,
+    100
+   ],
+   "insurance_monthly": [
+    40,
+    70
+   ],
+   "grooming_annual": [
+    60,
+    150
+   ],
+   "setup_onetime": [
+    330,
+    660
+   ],
+   "total_year1": [
+    1950,
+    10850
+   ],
+   "annual_ongoing": [
+    500,
+    1200
+   ],
+   "citable_stat": "A Chinese Shar-Pei from a health-tested breeder costs $1,500–$3,500, with rescue adoption at $150–$450; first-year food runs $500–$1,200 annually for a 45–60 lb adult, and entropion surgery (if needed) can reach $400–$1,500 per eye, making this breed's year-one costs highly variable depending on health outcomes.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:42:03+00:00"
+ },
+ "chow-chow": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    3000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    42,
+    67
+   ],
+   "insurance_monthly": [
+    50,
+    100
+   ],
+   "grooming_annual": [
+    400,
+    800
+   ],
+   "setup_onetime": [
+    350,
+    600
+   ],
+   "total_year1": [
+    3550,
+    7800
+   ],
+   "annual_ongoing": [
+    1850,
+    3400
+   ],
+   "citable_stat": "A Chow Chow costs $3,550–$7,800 in the first year due to the breed's grooming needs and high insurance costs; food for a 45–70 lb adult runs $500–$800 annually, and professional grooming every 6–8 weeks adds $400–$800 per year.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:42:06+00:00"
+ },
+ "clumber-spaniel": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    200,
+    450
+   ],
+   "food_monthly": [
+    45,
+    75
+   ],
+   "insurance_monthly": [
+    42,
+    92
+   ],
+   "grooming_annual": [
+    100,
+    500
+   ],
+   "setup_onetime": [
+    300,
+    550
+   ],
+   "total_year1": [
+    4000,
+    8000
+   ],
+   "annual_ongoing": null,
+   "citable_stat": "A Clumber Spaniel from a reputable breeder costs $1,500–$3,500, with first-year total costs of $4,000–$8,000 including food at $550–$850 annually and routine vet care at $350–$650 annually; rescue adoption runs $200–$500.",
+   "missing": [
+    "annual_ongoing"
+   ]
+  },
+  "ts": "2026-08-05T20:42:10+00:00"
+ },
+ "cocker-spaniel": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2000
+   ],
+   "rescue": [
+    150,
+    500
+   ],
+   "vet_year1": [
+    500,
+    1000
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    29,
+    50
+   ],
+   "insurance_monthly": [
+    29,
+    50
+   ],
+   "grooming_annual": [
+    420,
+    770
+   ],
+   "setup_onetime": [
+    350,
+    600
+   ],
+   "total_year1": [
+    3470,
+    6570
+   ],
+   "annual_ongoing": [
+    1670,
+    2970
+   ],
+   "citable_stat": "A Cocker Spaniel costs $1,000–$2,000 from a breeder (or $150–$500 through rescue), with first-year total expenses of $3,470–$6,570 including $420–$770 annually for professional grooming every 6–8 weeks, which is baseline maintenance for the breed's silky double coat.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:42:13+00:00"
+ },
+ "collie": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    42,
+    67
+   ],
+   "insurance_monthly": [
+    42,
+    83
+   ],
+   "grooming_annual": [
+    500,
+    1200
+   ],
+   "setup_onetime": [
+    560,
+    1070
+   ],
+   "total_year1": [
+    3400,
+    6950
+   ],
+   "annual_ongoing": [
+    1800,
+    3300
+   ],
+   "citable_stat": "A Rough Collie costs $3,400–$6,950 in the first year, with professional grooming every 6–8 weeks running $500–$1,200 annually, making the grooming line item what sharply diverges this breed's cost profile from similarly-sized short-coated dogs.",
+   "missing": [
+    "rescue"
+   ]
+  },
+  "ts": "2026-08-05T20:42:16+00:00"
+ },
+ "coton-de-tulear": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    250,
+    450
+   ],
+   "spay_neuter": [
+    200,
+    400
+   ],
+   "food_monthly": [
+    40,
+    70
+   ],
+   "insurance_monthly": [
+    25,
+    45
+   ],
+   "grooming_annual": [
+    350,
+    640
+   ],
+   "setup_onetime": [
+    250,
+    520
+   ],
+   "total_year1": [
+    3800,
+    6910
+   ],
+   "annual_ongoing": [
+    1610,
+    3330
+   ],
+   "citable_stat": "A Coton de Tulear from a reputable breeder costs $1,500–$2,500, with first-year total expenses (including insurance) of $3,800–$6,910; professional grooming runs $350–$640 annually and food costs $40–$70/month for an 8–13 pound dog.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:42:20+00:00"
+ },
+ "dachshund": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    600,
+    1500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    500,
+    1000
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    17,
+    33
+   ],
+   "insurance_monthly": [
+    25,
+    50
+   ],
+   "grooming_annual": [
+    50,
+    300
+   ],
+   "setup_onetime": [
+    440,
+    950
+   ],
+   "total_year1": [
+    2350,
+    5200
+   ],
+   "annual_ongoing": [
+    900,
+    2150
+   ],
+   "citable_stat": "Dachshund first-year costs range $2,350–$5,200 depending on whether you adopt a rescue adult or buy a rare-coat puppy; roughly 1 in 4 to 1 in 5 Dachshunds will experience intervertebral disc disease requiring $5,500–$12,000 in treatment, making accident-and-illness insurance at $300–$600 annually a structural part of ownership for this breed.",
+   "missing": [
+    "rescue (article mentions rescue path exists but gives no adoption fee)",
+    "spay_neuter (bundled into vet_year1)"
+   ]
+  },
+  "ts": "2026-08-05T20:42:24+00:00"
+ },
+ "doberman-pinscher": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    600,
+    1200
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    50,
+    83
+   ],
+   "insurance_monthly": [
+    42,
+    75
+   ],
+   "grooming_annual": [
+    50,
+    100
+   ],
+   "setup_onetime": [
+    300,
+    600
+   ],
+   "total_year1": [
+    4350,
+    8400
+   ],
+   "annual_ongoing": [
+    2150,
+    3950
+   ],
+   "citable_stat": "A Doberman Pinscher costs $4,350–$8,400 in the first year, including a $1,500–$3,000 puppy, $600–$1,000 annual food for a 60–100 lb adult, and $500–$900 first-year pet insurance, with ongoing annual costs of $2,150–$3,950 including mandatory cardiac screening at $450–$950/year starting at age 2–3.",
+   "missing": [
+    "spay_neuter (bundled into vet_year1)"
+   ]
+  },
+  "ts": "2026-08-05T20:42:38+00:00"
+ },
+ "dogue-de-bordeaux": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1800,
+    3500
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    550,
+    1000
+   ],
+   "spay_neuter": [
+    500,
+    900
+   ],
+   "food_monthly": [
+    120,
+    180
+   ],
+   "insurance_monthly": [
+    70,
+    120
+   ],
+   "grooming_annual": [
+    50,
+    100
+   ],
+   "setup_onetime": [
+    620,
+    1200
+   ],
+   "total_year1": [
+    6340,
+    11250
+   ],
+   "annual_ongoing": [
+    3030,
+    4600
+   ],
+   "citable_stat": "A Dogue de Bordeaux costs $6,340–$11,250 in the first year including insurance, with a 110+ pound adult eating giant-breed kibble at $120–$180/month and pet insurance at $70–$120/month being close to essential financial planning for a breed prone to bloat, cardiac disease, and joint issues.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:42:42+00:00"
+ },
+ "english-cocker-spaniel": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    2000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    450,
+    800
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    29,
+    50
+   ],
+   "insurance_monthly": [
+    29,
+    67
+   ],
+   "grooming_annual": [
+    400,
+    700
+   ],
+   "setup_onetime": [
+    200,
+    400
+   ],
+   "total_year1": [
+    2700,
+    5650
+   ],
+   "annual_ongoing": [
+    1400,
+    2600
+   ],
+   "citable_stat": "An English Cocker Spaniel costs $2,700–$5,650 in the first year including puppy purchase ($800–$2,000), routine vet care ($450–$800), professional grooming every 6–8 weeks ($400–$700), and insurance ($350–$800), with ongoing annual costs of $1,400–$2,600 for food, grooming, vet care, and insurance combined.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:42:45+00:00"
+ },
+ "english-setter": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    1500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    42,
+    67
+   ],
+   "insurance_monthly": [
+    33,
+    75
+   ],
+   "grooming_annual": [
+    300,
+    600
+   ],
+   "setup_onetime": [
+    450,
+    900
+   ],
+   "total_year1": [
+    2850,
+    5500
+   ],
+   "annual_ongoing": [
+    1500,
+    2800
+   ],
+   "citable_stat": "English Setter first-year costs range from $2,850–$5,500 including a $800–$1,500 puppy, $500–$800 annually in food for a 45–80 lb dog, $400–$900 annual pet insurance, and $300–$600 yearly professional grooming every 6–8 weeks.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:42:48+00:00"
+ },
+ "english-springer-spaniel": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2500
+   ],
+   "rescue": [
+    700,
+    700
+   ],
+   "vet_year1": [
+    300,
+    600
+   ],
+   "spay_neuter": [
+    250,
+    600
+   ],
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    30,
+    50
+   ],
+   "grooming_annual": [
+    240,
+    540
+   ],
+   "setup_onetime": [
+    600,
+    1400
+   ],
+   "total_year1": [
+    2800,
+    5500
+   ],
+   "annual_ongoing": [
+    1490,
+    2790
+   ],
+   "citable_stat": "An English Springer Spaniel costs $2,800–$5,500 in the first year with insurance, with a health-tested puppy from a reputable breeder priced at $1,200–$2,500 and monthly food costs of $45–$65 for an adult on quality kibble.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:42:51+00:00"
+ },
+ "entlebucher-mountain-dog": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    150,
+    350
+   ],
+   "spay_neuter": [
+    250,
+    500
+   ],
+   "food_monthly": [
+    60,
+    100
+   ],
+   "insurance_monthly": [
+    35,
+    60
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    285,
+    590
+   ],
+   "total_year1": [
+    3655,
+    6770
+   ],
+   "annual_ongoing": [
+    1640,
+    3200
+   ],
+   "citable_stat": "An Entlebucher Mountain Dog from a health-tested breeder costs $1,200–$2,000, with first-year total costs of $3,655–$6,770 (including insurance), and adult food costs running $60–$100 per month ($720–$1,200 annually).",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:42:55+00:00"
+ },
+ "field-spaniel": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2000
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    450,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    29,
+    50
+   ],
+   "insurance_monthly": [
+    25,
+    58
+   ],
+   "grooming_annual": [
+    300,
+    600
+   ],
+   "setup_onetime": [
+    410,
+    870
+   ],
+   "total_year1": [
+    2750,
+    5450
+   ],
+   "annual_ongoing": [
+    1250,
+    2400
+   ],
+   "citable_stat": "A Field Spaniel costs $2,750–$5,450 in the first year including puppy purchase ($1,000–$2,000), routine vet care ($450–$800), professional grooming every 6–8 weeks ($300–$600 annually), and pet insurance ($300–$700), with monthly food costs for a 35–50 lb adult running $29–$50.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:42:58+00:00"
+ },
+ "finnish-lapphund": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    150,
+    350
+   ],
+   "spay_neuter": [
+    250,
+    500
+   ],
+   "food_monthly": [
+    60,
+    100
+   ],
+   "insurance_monthly": [
+    35,
+    60
+   ],
+   "grooming_annual": [
+    120,
+    400
+   ],
+   "setup_onetime": [
+    375,
+    810
+   ],
+   "total_year1": [
+    3985,
+    7290
+   ],
+   "annual_ongoing": [
+    1660,
+    3200
+   ],
+   "citable_stat": "A Finnish Lapphund costs $3,985–$7,290 in the first year (with insurance), with food running $60–$100/month for a 33–53 lb active dog; ongoing annual costs are $1,660–$3,200, with professional deshedding sessions at $60–$100 per session, 2–4 times per year ($120–$400 annually).",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:43:01+00:00"
+ },
+ "finnish-spitz": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2000
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    400,
+    700
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    45,
+    65
+   ],
+   "insurance_monthly": [
+    35,
+    60
+   ],
+   "grooming_annual": [
+    100,
+    160
+   ],
+   "setup_onetime": [
+    480,
+    850
+   ],
+   "total_year1": [
+    3000,
+    5500
+   ],
+   "annual_ongoing": [
+    1500,
+    2500
+   ],
+   "citable_stat": "Finnish Spitz puppies from reputable breeders cost $1,200–$2,000, with a first-year total of $3,000–$5,500 including food at $45–$65/month and twice-yearly professional de-shedding sessions at $50–$80 per visit; rescue adoption ranges $250–$600 with often-included spay/neuter and vaccines.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:43:05+00:00"
+ },
+ "flat-coated-retriever": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    42,
+    67
+   ],
+   "insurance_monthly": [
+    50,
+    100
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    300,
+    500
+   ],
+   "total_year1": [
+    3100,
+    6300
+   ],
+   "annual_ongoing": [
+    1650,
+    2800
+   ],
+   "citable_stat": "A Flat-Coated Retriever costs $3,100–$6,300 in the first year including food ($500–$800 annually), routine vet care ($500–$900), pet insurance ($600–$1,200), and setup ($300–$500), with ongoing annual costs of $1,650–$2,800.",
+   "missing": [
+    "spay_neuter (covered under vet_year1 routine costs)",
+    "grooming_annual (article states weekly brush + feathering trim but provides no dollar amount)"
+   ]
+  },
+  "ts": "2026-08-05T20:43:09+00:00"
+ },
+ "french-bulldog": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    2500,
+    5000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    700,
+    1300
+   ],
+   "spay_neuter": [
+    300,
+    700
+   ],
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    90,
+    200
+   ],
+   "grooming_annual": [
+    0,
+    70
+   ],
+   "setup_onetime": [
+    230,
+    510
+   ],
+   "total_year1": [
+    4900,
+    8500
+   ],
+   "annual_ongoing": [
+    2180,
+    4000
+   ],
+   "citable_stat": "A French Bulldog costs $2,500–$5,000+ from a reputable breeder, with first-year ownership expenses (excluding puppy) ranging from $2,300–$4,700 on a budget path or $5,500–$8,500 on a premium path; food runs $33–$58/month for a 20–28 lb adult, and spay/neuter typically costs $300–$700.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:43:12+00:00"
+ },
+ "german-pinscher": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    200,
+    400
+   ],
+   "spay_neuter": [
+    250,
+    500
+   ],
+   "food_monthly": [
+    50,
+    80
+   ],
+   "insurance_monthly": [
+    30,
+    60
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    195,
+    445
+   ],
+   "total_year1": [
+    3500,
+    6500
+   ],
+   "annual_ongoing": [
+    1560,
+    3080
+   ],
+   "citable_stat": "A German Pinscher costs $1,500–$3,500 from a reputable breeder or $200–$500 from rescue, with first-year total expenses of $3,500–$6,500 including food at $50–$80/month, routine veterinary care at $300–$500/year, and essential training and dog sports at $400–$1,200/year combined.",
+   "missing": [
+    "grooming_annual (breed requires no professional grooming)"
+   ]
+  },
+  "ts": "2026-08-05T20:43:16+00:00"
+ },
+ "german-shepherd-dog": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    58,
+    92
+   ],
+   "insurance_monthly": [
+    70,
+    120
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    420,
+    910
+   ],
+   "total_year1": [
+    3500,
+    7200
+   ],
+   "annual_ongoing": null,
+   "citable_stat": "A German Shepherd costs $3,500–$7,200 in the first year (puppy included), with food running $700–$1,100 annually for a 50–90 lb dog, insurance $840–$1,440/year, and training (puppy classes plus obedience) a mandatory $300–$500.",
+   "missing": [
+    "spay_neuter (subsumed in vet_year1)",
+    "annual_ongoing (article states year one is disproportionately expensive but gives no years 2+ total)"
+   ]
+  },
+  "ts": "2026-08-05T20:43:20+00:00"
+ },
+ "german-shorthaired-pointer": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    1500
+   ],
+   "rescue": [
+    150,
+    600
+   ],
+   "vet_year1": [
+    600,
+    1200
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    40,
+    85
+   ],
+   "insurance_monthly": [
+    33,
+    58
+   ],
+   "grooming_annual": [
+    50,
+    100
+   ],
+   "setup_onetime": [
+    200,
+    400
+   ],
+   "total_year1": [
+    3150,
+    5900
+   ],
+   "annual_ongoing": [
+    1600,
+    2900
+   ],
+   "citable_stat": "A German Shorthaired Pointer costs $3,150–$5,900 in the first year, with food for a 45–70 lb athletic dog running $40–$85/month depending on activity level, and training (puppy class and obedience) budgeted at $400–$800 as a foundational expense for this high-drive breed.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:43:23+00:00"
+ },
+ "german-wirehaired-pointer": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    1800
+   ],
+   "rescue": null,
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    42,
+    67
+   ],
+   "insurance_monthly": [
+    42,
+    83
+   ],
+   "grooming_annual": [
+    0,
+    480
+   ],
+   "setup_onetime": [
+    430,
+    700
+   ],
+   "total_year1": [
+    2850,
+    5600
+   ],
+   "annual_ongoing": [
+    1400,
+    2500
+   ],
+   "citable_stat": "A German Wirehaired Pointer costs $2,850–$5,600 in the first year, with food for a 50–70 lb adult running $500–$800 annually ($42–$67 monthly), and routine vet care including the puppy vaccine series ranging $500–$900.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:43:28+00:00"
+ },
+ "giant-schnauzer": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    2000,
+    5000
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    500,
+    950
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    60,
+    95
+   ],
+   "insurance_monthly": [
+    50,
+    100
+   ],
+   "grooming_annual": [
+    600,
+    1300
+   ],
+   "setup_onetime": [
+    350,
+    650
+   ],
+   "total_year1": [
+    5000,
+    10000
+   ],
+   "annual_ongoing": [
+    2300,
+    null
+   ],
+   "citable_stat": "Giant Schnauzer first-year costs range from $5,000–$10,000 including purchase price, with professional grooming ($600–$1,300/year) and training ($400–$1,200) accounting for most of the spread; food runs $60–$95/month for a 55–85 lb dog, and veterinary care costs $500–$950 before unplanned expenses.",
+   "missing": [
+    "annual_ongoing high end (text cuts off mid-sentence)"
+   ]
+  },
+  "ts": "2026-08-05T20:43:31+00:00"
+ },
+ "golden-retriever": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    350,
+    1300
+   ],
+   "spay_neuter": [
+    0,
+    0
+   ],
+   "food_monthly": [
+    50,
+    83
+   ],
+   "insurance_monthly": [
+    35,
+    65
+   ],
+   "grooming_annual": [
+    300,
+    600
+   ],
+   "setup_onetime": [
+    1900,
+    4650
+   ],
+   "total_year1": [
+    4000,
+    8000
+   ],
+   "annual_ongoing": [
+    1700,
+    3100
+   ],
+   "citable_stat": "A Golden Retriever costs $4,000–$8,000 in the first year, with food for a 55–75 lb adult running $600–$1,000 annually for quality kibble, professional grooming every 8–12 weeks at $300–$600 per year, and insurance premiums of $35–$65 monthly.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:43:34+00:00"
+ },
+ "goldendoodle": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    2000,
+    5000
+   ],
+   "rescue": [
+    200,
+    600
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    42,
+    75
+   ],
+   "insurance_monthly": [
+    50,
+    100
+   ],
+   "grooming_annual": [
+    600,
+    1200
+   ],
+   "setup_onetime": [
+    300,
+    700
+   ],
+   "total_year1": [
+    4500,
+    8800
+   ],
+   "annual_ongoing": [
+    1550,
+    2900
+   ],
+   "citable_stat": "A Goldendoodle puppy from a reputable breeder costs $2,000–$5,000, with rescue adoption at $200–$600; first-year total is $4,500–$8,800 including setup, vet care ($500–$900), spay/neuter ($200–$500), food ($500–$900), insurance ($600–$1,200/year), and professional grooming ($600–$1,200/year).",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:43:38+00:00"
+ },
+ "gordon-setter": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    1500
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": [
+    300,
+    500
+   ],
+   "food_monthly": [
+    42,
+    67
+   ],
+   "insurance_monthly": [
+    33,
+    75
+   ],
+   "grooming_annual": [
+    300,
+    600
+   ],
+   "setup_onetime": [
+    430,
+    900
+   ],
+   "total_year1": [
+    2850,
+    5500
+   ],
+   "annual_ongoing": [
+    1500,
+    2800
+   ],
+   "citable_stat": "A Gordon Setter costs $2,850–$5,500 in the first year from a breeder, with food for a 45–80 lb adult running $50–$70 per month, and professional grooming (6–7 visits annually) at $300–$600 per year; the breed faces elevated bloat/GDV risk requiring preventive gastropexy ($300–$500 additional) and comprehensive insurance ($400–$900 annually).",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:43:41+00:00"
+ },
+ "great-dane": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    900,
+    1800
+   ],
+   "spay_neuter": [
+    300,
+    600
+   ],
+   "food_monthly": [
+    83,
+    125
+   ],
+   "insurance_monthly": [
+    83,
+    150
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    560,
+    1020
+   ],
+   "total_year1": [
+    4650,
+    9100
+   ],
+   "annual_ongoing": [
+    2700,
+    4800
+   ],
+   "citable_stat": "A Great Dane costs $4,650–$9,100 in the first year including food (8–12 cups/day at $1,000–$1,500/year), routine vet care with prophylactic gastropexy ($900–$1,800), and pet insurance ($1,000–$1,800/year), with ongoing annual costs of $2,700–$4,800 after year one.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:43:45+00:00"
+ },
+ "great-pyrenees": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    58,
+    100
+   ],
+   "insurance_monthly": [
+    58,
+    117
+   ],
+   "grooming_annual": [
+    160,
+    600
+   ],
+   "setup_onetime": [
+    550,
+    1100
+   ],
+   "total_year1": [
+    3500,
+    7000
+   ],
+   "annual_ongoing": [
+    2000,
+    3500
+   ],
+   "citable_stat": "A Great Pyrenees costs $3,500–$7,000+ in the first year including puppy purchase ($1,000–$2,500), routine vet care ($500–$900), pet insurance ($700–$1,400 annually), giant-breed kibble ($700–$1,200 annually), and fencing ($500–$2,000+) if not already in place; ongoing annual costs run $2,000–$3,500 after year one.",
+   "missing": [
+    "spay_neuter (included in vet_year1 estimate but not broken out separately)"
+   ]
+  },
+  "ts": "2026-08-05T20:43:50+00:00"
+ },
+ "greater-swiss-mountain-dog": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    2000,
+    4500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    500,
+    1000
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    60,
+    95
+   ],
+   "insurance_monthly": [
+    58,
+    117
+   ],
+   "grooming_annual": [
+    50,
+    200
+   ],
+   "setup_onetime": [
+    350,
+    650
+   ],
+   "total_year1": [
+    4500,
+    9000
+   ],
+   "annual_ongoing": null,
+   "citable_stat": "A Greater Swiss Mountain Dog puppy from a health-tested breeder typically costs $2,000–$4,500, with rescue adoption running $200–$500, and the first year totaling $4,500–$9,000 including food ($60–$95/month), veterinary care ($500–$1,000), pet insurance ($700–$1,400/year), and grooming ($50–$200/year).",
+   "missing": [
+    "annual_ongoing"
+   ]
+  },
+  "ts": "2026-08-05T20:43:53+00:00"
+ },
+ "greyhound": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": [
+    250,
+    450
+   ],
+   "vet_year1": [
+    350,
+    500
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    50,
+    75
+   ],
+   "insurance_monthly": [
+    42,
+    67
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    260,
+    590
+   ],
+   "total_year1": [
+    2000,
+    3500
+   ],
+   "annual_ongoing": [
+    1600,
+    2700
+   ],
+   "citable_stat": "Adopted Greyhounds cost $2,000–$3,500 in the first year, with adoption fees of $250–$450 bundling spay/neuter, vaccines, and heartworm testing, while food for a 60–70 lb dog runs $600–$900 annually (3–4 cups daily), and professional dental cleanings at $400–$800 every 12–24 months average $200–$400 per year.",
+   "missing": [
+    "spay_neuter (included in rescue adoption fee, separate cost not stated for breeders)"
+   ]
+  },
+  "ts": "2026-08-05T20:43:57+00:00"
+ },
+ "harrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    1500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    700
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    33,
+    58
+   ],
+   "grooming_annual": [
+    0,
+    180
+   ],
+   "setup_onetime": [
+    250,
+    450
+   ],
+   "total_year1": [
+    2250,
+    4050
+   ],
+   "annual_ongoing": [
+    1300,
+    2200
+   ],
+   "citable_stat": "A Harrier costs $2,250–$4,050 in the first year including a $800–$1,500 puppy, $400–$700 annual food, $400–$700 routine vet and vaccines, $400–$700 pet insurance, and $250–$450 in setup supplies, with ongoing annual costs of $1,300–$2,200.",
+   "missing": [
+    "spay_neuter (mentioned as months 4-6 expense but no dollar range given)"
+   ]
+  },
+  "ts": "2026-08-05T20:44:01+00:00"
+ },
+ "havanese": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    200,
+    400
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    13,
+    25
+   ],
+   "insurance_monthly": [
+    21,
+    42
+   ],
+   "grooming_annual": [
+    400,
+    750
+   ],
+   "setup_onetime": [
+    580,
+    1180
+   ],
+   "total_year1": [
+    2500,
+    5600
+   ],
+   "annual_ongoing": [
+    1400,
+    2900
+   ],
+   "citable_stat": "Budget $2,500 to $5,500 for a Havanese's first twelve months, with professional grooming every 4–6 weeks at $50–$75 per visit costing $400–$900 annually, and monthly food costs of $15–$30 for a 7–13 lb dog.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:44:05+00:00"
+ },
+ "ibizan-hound": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2000
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    400,
+    700
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    33,
+    67
+   ],
+   "grooming_annual": [
+    0,
+    70
+   ],
+   "setup_onetime": [
+    300,
+    550
+   ],
+   "total_year1": [
+    2740,
+    4850
+   ],
+   "annual_ongoing": [
+    1400,
+    2500
+   ],
+   "citable_stat": "An Ibizan Hound costs $2,740–$4,850 in the first year (including $1,200–$2,000 for a breeder puppy, $400–$700 annual food for a lean 45–50 lb frame, and $400–$800 pet insurance), or $250–$600 through rescue adoption.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:44:08+00:00"
+ },
+ "icelandic-sheepdog": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    150,
+    350
+   ],
+   "spay_neuter": [
+    250,
+    500
+   ],
+   "food_monthly": [
+    70,
+    140
+   ],
+   "insurance_monthly": [
+    30,
+    55
+   ],
+   "grooming_annual": [
+    120,
+    200
+   ],
+   "setup_onetime": [
+    350,
+    710
+   ],
+   "total_year1": [
+    3810,
+    6810
+   ],
+   "annual_ongoing": [
+    1560,
+    2750
+   ],
+   "citable_stat": "A responsibly bred Icelandic Sheepdog puppy costs $1,500–$2,500, with first-year food for a 25–30 lb adult running $55–$90 monthly, and pet insurance priced at $30–$55 monthly for this breed.",
+   "missing": [
+    "rescue adoption fee amount"
+   ]
+  },
+  "ts": "2026-08-05T20:44:11+00:00"
+ },
+ "irish-setter": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    3000,
+    6000
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    42,
+    67
+   ],
+   "insurance_monthly": [
+    42,
+    83
+   ],
+   "grooming_annual": [
+    0,
+    650
+   ],
+   "setup_onetime": [
+    360,
+    650
+   ],
+   "total_year1": [
+    4800,
+    9250
+   ],
+   "annual_ongoing": [
+    1350,
+    2400
+   ],
+   "citable_stat": "An Irish Setter from a reputable CLAD- and PRA-tested breeder costs $3,000–$6,000, with total first-year costs of $4,800–$9,250 including food ($500–$800 annually), routine vet care plus puppy series ($500–$900), pet insurance ($500–$1,000), and setup ($300–$550); food for a 60–70 lb adult runs approximately $500–$800 annually or $42–$67 monthly on a quality large-breed kibble.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:44:15+00:00"
+ },
+ "irish-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    700
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    33,
+    50
+   ],
+   "insurance_monthly": [
+    33,
+    58
+   ],
+   "grooming_annual": [
+    200,
+    400
+   ],
+   "setup_onetime": [
+    200,
+    400
+   ],
+   "total_year1": [
+    3000,
+    5200
+   ],
+   "annual_ongoing": [
+    1300,
+    2200
+   ],
+   "citable_stat": "An Irish Terrier costs $3,000–$5,200 in the first year, with food for a 25–27 lb adult running $400–$600 annually, and professional grooming (2x/year hand-stripping) at $200–$400 annually.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:44:18+00:00"
+ },
+ "irish-water-spaniel": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2000
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    450,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    38,
+    63
+   ],
+   "insurance_monthly": [
+    33,
+    75
+   ],
+   "grooming_annual": [
+    400,
+    700
+   ],
+   "setup_onetime": [
+    450,
+    850
+   ],
+   "total_year1": [
+    3150,
+    6000
+   ],
+   "annual_ongoing": [
+    1550,
+    2900
+   ],
+   "citable_stat": "An Irish Water Spaniel costs $3,150–$6,000 in the first year including acquisition, food ($450–$750 annually for large-breed portions), professional grooming every 8–10 weeks ($400–$700 annually), vet care ($450–$800), and insurance ($400–$900), with ongoing annual costs of $1,550–$2,900 after year one.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:44:22+00:00"
+ },
+ "irish-wolfhound": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    600,
+    1000
+   ],
+   "spay_neuter": [
+    400,
+    800
+   ],
+   "food_monthly": [
+    75,
+    117
+   ],
+   "insurance_monthly": [
+    100,
+    200
+   ],
+   "grooming_annual": [
+    0,
+    360
+   ],
+   "setup_onetime": [
+    710,
+    1370
+   ],
+   "total_year1": [
+    5250,
+    10350
+   ],
+   "annual_ongoing": [
+    2800,
+    5200
+   ],
+   "citable_stat": "An Irish Wolfhound costs $5,250–$10,350 in the first year including a $1,500–$3,500 puppy, $900–$1,400 annual food for a 105–180+ lb dog, $1,200–$2,400 annual pet insurance, and a mandatory $400–$800 prophylactic gastropexy to prevent fatal GDV, with ongoing annual costs of $2,800–$5,200 thereafter.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:44:26+00:00"
+ },
+ "japanese-chin": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3000
+   ],
+   "rescue": [
+    150,
+    400
+   ],
+   "vet_year1": [
+    760,
+    1600
+   ],
+   "spay_neuter": [
+    250,
+    500
+   ],
+   "food_monthly": [
+    17,
+    32
+   ],
+   "insurance_monthly": [
+    28,
+    55
+   ],
+   "grooming_annual": [
+    40,
+    530
+   ],
+   "setup_onetime": [
+    260,
+    520
+   ],
+   "total_year1": [
+    3286,
+    7050
+   ],
+   "annual_ongoing": null,
+   "citable_stat": "A Japanese Chin puppy costs $1,500–$3,000 from a reputable breeder, with first-year expenses totaling $3,286–$7,050 including supplies, vaccines, spay/neuter, food ($200–$380 annually), and pet insurance ($336–$660 annually); rescue adoption runs $150–$400 and typically includes vaccines and spay/neuter.",
+   "missing": [
+    "annual_ongoing"
+   ]
+  },
+  "ts": "2026-08-05T20:44:38+00:00"
+ },
+ "keeshond": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    700
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    29,
+    46
+   ],
+   "insurance_monthly": [
+    33,
+    58
+   ],
+   "grooming_annual": [
+    200,
+    400
+   ],
+   "setup_onetime": [
+    250,
+    400
+   ],
+   "total_year1": [
+    3200,
+    5550
+   ],
+   "annual_ongoing": [
+    1280,
+    2230
+   ],
+   "citable_stat": "A Keeshond costs $3,200–$5,550 in the first year including puppy purchase ($1,500–$2,500), food for a 35–45 lb adult ($350–$550 annually), routine vet care with cardiac screening ($400–$700), pet insurance ($400–$700), and grooming tools and professional deshedding ($200–$400 annually), with ongoing annual costs of $1,280–$2,230 thereafter.",
+   "missing": [
+    "spay_neuter (included in vet_year1 total but not separately itemized)"
+   ]
+  },
+  "ts": "2026-08-05T20:44:42+00:00"
+ },
+ "kerry-blue-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": [
+    150,
+    400
+   ],
+   "food_monthly": [
+    40,
+    65
+   ],
+   "insurance_monthly": [
+    33,
+    75
+   ],
+   "grooming_annual": [
+    550,
+    1000
+   ],
+   "setup_onetime": [
+    300,
+    550
+   ],
+   "total_year1": [
+    2000,
+    4500
+   ],
+   "annual_ongoing": null,
+   "citable_stat": "A Kerry Blue Terrier puppy from a reputable breeder typically runs $1,500–$3,500, with professional grooming costing $550–$1,000 annually and food budgeted at $40–$65 per month for a 33–40 lb medium breed.",
+   "missing": [
+    "annual_ongoing"
+   ]
+  },
+  "ts": "2026-08-05T20:44:45+00:00"
+ },
+ "komondor": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    400,
+    800
+   ],
+   "food_monthly": [
+    50,
+    75
+   ],
+   "insurance_monthly": [
+    50,
+    100
+   ],
+   "grooming_annual": [
+    300,
+    600
+   ],
+   "setup_onetime": [
+    350,
+    600
+   ],
+   "total_year1": [
+    4650,
+    9800
+   ],
+   "annual_ongoing": [
+    1950,
+    3500
+   ],
+   "citable_stat": "A Komondor costs $4,650–$9,800 in the first year depending on breeder choice, insurance enrollment, and grooming approach (DIY dryer vs. professional), with food for an 80–100+ lb growing puppy running $600–$900 annually and preventive gastropexy (to eliminate fatal bloat-twist risk) adding $400–$800 during the spay/neuter procedure.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:44:49+00:00"
+ },
+ "labradoodle": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    2000,
+    4500
+   ],
+   "rescue": [
+    200,
+    600
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    42,
+    75
+   ],
+   "insurance_monthly": [
+    42,
+    92
+   ],
+   "grooming_annual": [
+    500,
+    1100
+   ],
+   "setup_onetime": [
+    300,
+    700
+   ],
+   "total_year1": [
+    4300,
+    9100
+   ],
+   "annual_ongoing": null,
+   "citable_stat": "A Labradoodle from a reputable breeder costs $2,000–$4,500, with first-year total expenses of $4,300–$9,100 including setup, food ($500–$900 year one), routine vet care ($500–$900), spay/neuter ($200–$500), insurance ($500–$1,100/year), and professional grooming ($500–$1,100/year for wool and fleece coats requiring clipping every 6–8 weeks.",
+   "missing": [
+    "annual_ongoing"
+   ]
+  },
+  "ts": "2026-08-05T20:44:53+00:00"
+ },
+ "labrador-retriever": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    1500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    50,
+    83
+   ],
+   "insurance_monthly": [
+    60,
+    120
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    380,
+    800
+   ],
+   "total_year1": [
+    2300,
+    4400
+   ],
+   "annual_ongoing": null,
+   "citable_stat": "A Labrador Retriever puppy from a health-tested breeder costs $800–$1,500, with year-one recurring costs of $2,300–$4,400 beyond the puppy purchase price, and food for a 55–80 lb adult running $600–$1,000 annually.",
+   "missing": [
+    "spay_neuter (included in vet_year1)",
+    "annual_ongoing (article does not state post-year-one recurring costs separately)"
+   ]
+  },
+  "ts": "2026-08-05T20:44:57+00:00"
+ },
+ "lagotto-romagnolo": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3000
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    450,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    29,
+    50
+   ],
+   "insurance_monthly": [
+    29,
+    67
+   ],
+   "grooming_annual": [
+    350,
+    650
+   ],
+   "setup_onetime": [
+    200,
+    400
+   ],
+   "total_year1": [
+    3350,
+    6600
+   ],
+   "annual_ongoing": [
+    1350,
+    2550
+   ],
+   "citable_stat": "A Lagotto Romagnolo costs $3,350–$6,600 in the first year from a reputable breeder, with professional grooming every 6–8 weeks running $350–$650 annually for life, and food for a 24–35 lb adult running $350–$600 per year.",
+   "missing": [
+    "spay_neuter (mentioned as part of months 4–6 but no specific price range given)"
+   ]
+  },
+  "ts": "2026-08-05T20:45:01+00:00"
+ },
+ "lakeland-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    150,
+    300
+   ],
+   "spay_neuter": [
+    200,
+    400
+   ],
+   "food_monthly": [
+    30,
+    60
+   ],
+   "insurance_monthly": [
+    25,
+    45
+   ],
+   "grooming_annual": [
+    300,
+    640
+   ],
+   "setup_onetime": [
+    240,
+    480
+   ],
+   "total_year1": [
+    3170,
+    5900
+   ],
+   "annual_ongoing": [
+    1320,
+    2660
+   ],
+   "citable_stat": "A Lakeland Terrier costs $3,170–$5,900 in the first year with insurance, with adult food running $30–$60/month and professional grooming (clipping every 6–8 weeks) at $300–$640 annually, though hand-stripping can cost considerably more per session.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:45:04+00:00"
+ },
+ "leonberger": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    2500,
+    5000
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    600,
+    1100
+   ],
+   "spay_neuter": [
+    250,
+    600
+   ],
+   "food_monthly": [
+    75,
+    120
+   ],
+   "insurance_monthly": [
+    67,
+    150
+   ],
+   "grooming_annual": [
+    200,
+    800
+   ],
+   "setup_onetime": [
+    400,
+    750
+   ],
+   "total_year1": [
+    6000,
+    12000
+   ],
+   "annual_ongoing": [
+    2400,
+    4450
+   ],
+   "citable_stat": "A Leonberger from a health-tested breeder costs $2,500–$5,000, with first-year total spending of $6,000–$12,000 including purchase price, and food running $75–$120 monthly for an adult dog eating 6–10 cups of large-breed formula daily.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:45:07+00:00"
+ },
+ "lhasa-apso": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    700
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    21,
+    33
+   ],
+   "insurance_monthly": [
+    25,
+    50
+   ],
+   "grooming_annual": [
+    400,
+    800
+   ],
+   "setup_onetime": [
+    250,
+    520
+   ],
+   "total_year1": [
+    2600,
+    5020
+   ],
+   "annual_ongoing": [
+    1270,
+    2350
+   ],
+   "citable_stat": "A Lhasa Apso costs $2,600–$5,020 in the first year, with professional grooming every 6–8 weeks running $400–$800 annually and food for a 12–18 lb adult at $250–$400 per year, plus $300–$600 annually for pet insurance due to documented renal dysplasia risk in the breed.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:45:11+00:00"
+ },
+ "lowchen": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    2000,
+    4000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    519,
+    1050
+   ],
+   "spay_neuter": [
+    250,
+    550
+   ],
+   "food_monthly": [
+    25,
+    45
+   ],
+   "insurance_monthly": [
+    25,
+    45
+   ],
+   "grooming_annual": [
+    340,
+    600
+   ],
+   "setup_onetime": [
+    182,
+    375
+   ],
+   "total_year1": [
+    3741,
+    7285
+   ],
+   "annual_ongoing": [
+    1294,
+    2430
+   ],
+   "citable_stat": "A Lowchen costs $2,000–$4,000 from a breeder, with first-year total expenses of $3,741–$7,285 including puppy purchase, setup supplies, veterinary care, food at $25–$45 monthly, grooming at $340–$600 annually for the lion clip, and pet insurance at $25–$45 monthly.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:45:14+00:00"
+ },
+ "maltese": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    3000
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    300,
+    500
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    13,
+    25
+   ],
+   "insurance_monthly": [
+    25,
+    46
+   ],
+   "grooming_annual": [
+    350,
+    600
+   ],
+   "setup_onetime": [
+    163,
+    360
+   ],
+   "total_year1": [
+    2500,
+    5500
+   ],
+   "annual_ongoing": [
+    1200,
+    2400
+   ],
+   "citable_stat": "A Maltese costs $2,500–$5,500 in the first year from a health-testing breeder, with grooming every 6–8 weeks at $350–$600 annually and food costs of only $150–$300 per year due to eating ½–¾ cup daily, but ongoing annual costs remain $1,200–$2,400 due to recurring grooming and dental care demands.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:45:18+00:00"
+ },
+ "mastiff": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    1000,
+    2000
+   ],
+   "spay_neuter": [
+    300,
+    700
+   ],
+   "food_monthly": [
+    100,
+    150
+   ],
+   "insurance_monthly": [
+    83,
+    167
+   ],
+   "grooming_annual": [
+    300,
+    600
+   ],
+   "setup_onetime": [
+    560,
+    1000
+   ],
+   "total_year1": [
+    5450,
+    9800
+   ],
+   "annual_ongoing": [
+    2900,
+    5200
+   ],
+   "citable_stat": "A Mastiff weighing 120–230+ lbs costs $5,450–$9,800 in the first year, with food for an adult consuming 10–15 cups daily running $1,200–$1,800 annually, and pet insurance adding $1,000–$2,000 per year.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:45:21+00:00"
+ },
+ "miniature-american-shepherd": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    2000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    25,
+    42
+   ],
+   "insurance_monthly": [
+    29,
+    58
+   ],
+   "grooming_annual": [
+    0,
+    300
+   ],
+   "setup_onetime": [
+    200,
+    400
+   ],
+   "total_year1": [
+    2350,
+    5100
+   ],
+   "annual_ongoing": [
+    1150,
+    2200
+   ],
+   "citable_stat": "A Miniature American Shepherd costs $2,350–$5,100 in the first year including food at $300–$500 annually, routine vet care plus puppy vaccines at $400–$800, pet insurance at $350–$700 annually, and training/enrichment classes at $300–$700, with grooming for seasonal blow-outs running $45–$75 per visit, 3–4 times yearly for professional care or $40–$70 one-time for DIY tools.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:45:25+00:00"
+ },
+ "miniature-bull-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    200,
+    400
+   ],
+   "spay_neuter": [
+    250,
+    450
+   ],
+   "food_monthly": [
+    40,
+    60
+   ],
+   "insurance_monthly": [
+    25,
+    50
+   ],
+   "grooming_annual": [
+    25,
+    150
+   ],
+   "setup_onetime": [
+    125,
+    230
+   ],
+   "total_year1": [
+    3110,
+    6600
+   ],
+   "annual_ongoing": [
+    900,
+    1700
+   ],
+   "citable_stat": "A Miniature Bull Terrier costs $3,110–$6,600 in the first year (budget to premium path), with food running $40–$60/month and pet insurance $25–$50/month, while the short coat requires only $25–$150 annually in grooming.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:45:28+00:00"
+ },
+ "miniature-pinscher": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": [
+    75,
+    400
+   ],
+   "vet_year1": [
+    200,
+    400
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    21,
+    38
+   ],
+   "insurance_monthly": [
+    25,
+    50
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    180,
+    435
+   ],
+   "total_year1": null,
+   "annual_ongoing": [
+    250,
+    450
+   ],
+   "citable_stat": "A reputable Miniature Pinscher from a health-testing AKC breeder costs $1,000 to $2,500, with adoption fees running $75 to $400. First-year setup costs total $180–$435, and annual food runs $250–$450 for a dog eating 3/4 to 1 cup per day of quality small-breed kibble.",
+   "missing": [
+    "total_year1"
+   ]
+  },
+  "ts": "2026-08-05T20:45:31+00:00"
+ },
+ "miniature-poodle": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    3000
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    300,
+    500
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    21,
+    38
+   ],
+   "insurance_monthly": [
+    29,
+    50
+   ],
+   "grooming_annual": [
+    360,
+    650
+   ],
+   "setup_onetime": [
+    195,
+    425
+   ],
+   "total_year1": [
+    2700,
+    5500
+   ],
+   "annual_ongoing": [
+    1300,
+    2200
+   ],
+   "citable_stat": "A Miniature Poodle costs $2,700–$5,500 in the first year from a breeder or $1,800–$3,200 from rescue, with professional grooming running $360–$650 annually (every 6–8 weeks) and food costs only $250–$450 yearly due to the breed's small 10–15 lb size eating ¾ to 1 cup of kibble per day.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:45:35+00:00"
+ },
+ "miniature-schnauzer": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    1800
+   ],
+   "rescue": null,
+   "vet_year1": [
+    500,
+    1000
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    17,
+    33
+   ],
+   "insurance_monthly": [
+    21,
+    42
+   ],
+   "grooming_annual": [
+    360,
+    700
+   ],
+   "setup_onetime": [
+    250,
+    450
+   ],
+   "total_year1": [
+    2760,
+    5650
+   ],
+   "annual_ongoing": [
+    1210,
+    2350
+   ],
+   "citable_stat": "A Miniature Schnauzer costs $2,760–$5,650 in the first year, with professional grooming every 6–8 weeks at $60–$100 per visit adding $360–$700 annually due to the breed's wiry coat requiring mandatory clipping to prevent matting.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:45:38+00:00"
+ },
+ "neapolitan-mastiff": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    2500,
+    5000
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    600,
+    1100
+   ],
+   "spay_neuter": [
+    300,
+    700
+   ],
+   "food_monthly": [
+    85,
+    140
+   ],
+   "insurance_monthly": [
+    75,
+    167
+   ],
+   "grooming_annual": [
+    40,
+    80
+   ],
+   "setup_onetime": [
+    400,
+    750
+   ],
+   "total_year1": [
+    5500,
+    11000
+   ],
+   "annual_ongoing": null,
+   "citable_stat": "A Neapolitan Mastiff costs $2,500–$5,000 from a reputable breeder or $200–$500 through rescue adoption, with first-year veterinary care running $600–$1,100, food budgeted at $85–$140 per month for a 110–150 lb giant breed, and pet insurance at $900–$2,000 annually, bringing the total first year to $5,500–$11,000 depending on the breeder versus rescue path and diagnostic extent.",
+   "missing": [
+    "annual_ongoing"
+   ]
+  },
+  "ts": "2026-08-05T20:45:42+00:00"
+ },
+ "newfoundland": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    700,
+    1200
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    100,
+    150
+   ],
+   "insurance_monthly": [
+    67,
+    133
+   ],
+   "grooming_annual": [
+    160,
+    300
+   ],
+   "setup_onetime": [
+    560,
+    1020
+   ],
+   "total_year1": [
+    4000,
+    8000
+   ],
+   "annual_ongoing": [
+    2200,
+    4000
+   ],
+   "citable_stat": "A Newfoundland costs $4,000–$8,000 in the first year, with food for a 100–150 lb adult running $100–$150/month, and pet insurance premiums of $800–$1,600 annually; ongoing annual costs thereafter are $2,200–$4,000.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:45:45+00:00"
+ },
+ "norfolk-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": [
+    150,
+    400
+   ],
+   "vet_year1": [
+    250,
+    500
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    30,
+    50
+   ],
+   "insurance_monthly": [
+    30,
+    55
+   ],
+   "grooming_annual": [
+    200,
+    480
+   ],
+   "setup_onetime": [
+    625,
+    1550
+   ],
+   "total_year1": [
+    3000,
+    5500
+   ],
+   "annual_ongoing": [
+    1400,
+    2400
+   ],
+   "citable_stat": "A Norfolk Terrier puppy from a breeder costs $1,500–$2,500, with rescue adoption running $150–$400. First-year total is $3,000–$5,500 including purchase, gear, spay/neuter, vaccines, food ($30–$50/month), grooming ($200–$480/year for clipping), and optional pet insurance ($30–$55/month). Annual ongoing costs after year one are $1,400–$2,400.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:45:48+00:00"
+ },
+ "norwegian-elkhound": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    700
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    33,
+    67
+   ],
+   "grooming_annual": [
+    80,
+    180
+   ],
+   "setup_onetime": [
+    300,
+    500
+   ],
+   "total_year1": [
+    2580,
+    4880
+   ],
+   "annual_ongoing": [
+    1400,
+    2500
+   ],
+   "citable_stat": "A Norwegian Elkhound costs $2,580–$4,880 in the first year including puppy purchase, routine vet care, and food; an adult 48–55 lb Elkhound eats roughly 2–2.5 cups of quality kibble per day, with a 30-pound bag ($55–$75) lasting 6–8 weeks.",
+   "missing": [
+    "rescue",
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:45:52+00:00"
+ },
+ "norwich-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2800
+   ],
+   "rescue": [
+    150,
+    400
+   ],
+   "vet_year1": [
+    250,
+    500
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    30,
+    50
+   ],
+   "insurance_monthly": [
+    30,
+    55
+   ],
+   "grooming_annual": [
+    200,
+    480
+   ],
+   "setup_onetime": [
+    175,
+    300
+   ],
+   "total_year1": [
+    3000,
+    5500
+   ],
+   "annual_ongoing": [
+    1400,
+    2400
+   ],
+   "citable_stat": "A Norwich Terrier puppy from a breeder costs $1,500–$2,800, or $150–$400 via rescue adoption; first-year total including all expenses is $3,000–$5,500, with adult food running $30–$50 per month for a 12-pound dog.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:45:56+00:00"
+ },
+ "nova-scotia-duck-tolling-retriever": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3000
+   ],
+   "rescue": [
+    250,
+    3000
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    300,
+    500
+   ],
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    33,
+    75
+   ],
+   "grooming_annual": [
+    0,
+    250
+   ],
+   "setup_onetime": [
+    290,
+    520
+   ],
+   "total_year1": [
+    3250,
+    6350
+   ],
+   "annual_ongoing": [
+    1100,
+    2150
+   ],
+   "citable_stat": "A Nova Scotia Duck Tolling Retriever costs $3,250–$6,350 in the first year (puppy route) or $2,600–$3,600 (budget rescue route), with food for a 35–50 lb adult running $400–$700 annually ($33–$58/month) and pet insurance $400–$900 annually ($33–$75/month).",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:46:00+00:00"
+ },
+ "old-english-sheepdog": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    900
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    50,
+    75
+   ],
+   "insurance_monthly": [
+    50,
+    100
+   ],
+   "grooming_annual": [
+    800,
+    1800
+   ],
+   "setup_onetime": [
+    630,
+    1100
+   ],
+   "total_year1": [
+    4450,
+    9400
+   ],
+   "annual_ongoing": [
+    2400,
+    4700
+   ],
+   "citable_stat": "An Old English Sheepdog costs $4,450–$9,400 in the first year, with professional grooming every 6–8 weeks at $150–$300+ per session totaling $900–$2,000+ annually for the dog's entire life, making grooming the primary cost driver that outpaces food, vet care, and insurance combined.",
+   "missing": [
+    "spay_neuter (included in setup but not itemized separately)"
+   ]
+  },
+  "ts": "2026-08-05T20:46:04+00:00"
+ },
+ "otterhound": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    700,
+    1250
+   ],
+   "spay_neuter": [
+    500,
+    900
+   ],
+   "food_monthly": [
+    50,
+    75
+   ],
+   "insurance_monthly": [
+    42,
+    83
+   ],
+   "grooming_annual": [
+    0,
+    700
+   ],
+   "setup_onetime": [
+    1080,
+    3700
+   ],
+   "total_year1": [
+    4100,
+    9300
+   ],
+   "annual_ongoing": [
+    1600,
+    2800
+   ],
+   "citable_stat": "An Otterhound puppy from a health-tested breeder costs $1,500–$3,000, with first-year total spanning $4,100–$9,300 including food ($600–$900 annual), vet care and spay/neuter ($500–$900), pet insurance ($500–$1,000 annual), and secure 6-ft fencing ($500–$2,500+), while ongoing annual costs settle to $1,600–$2,800.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:46:08+00:00"
+ },
+ "papillon": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2500
+   ],
+   "rescue": [
+    100,
+    400
+   ],
+   "vet_year1": [
+    390,
+    750
+   ],
+   "spay_neuter": [
+    200,
+    400
+   ],
+   "food_monthly": [
+    15,
+    29
+   ],
+   "insurance_monthly": [
+    20,
+    45
+   ],
+   "grooming_annual": [
+    0,
+    330
+   ],
+   "setup_onetime": [
+    240,
+    495
+   ],
+   "total_year1": null,
+   "annual_ongoing": null,
+   "citable_stat": "A Papillon puppy from a reputable breeder costs $1,200–$2,500, with annual food costs of $180–$350 due to the breed's tiny 5–10 pound frame requiring only 1/4 to 1/2 cup of kibble daily; rescue adoption fees run $100–$400 and typically include spay/neuter and vaccination history.",
+   "missing": [
+    "total_year1",
+    "annual_ongoing"
+   ]
+  },
+  "ts": "2026-08-05T20:46:11+00:00"
+ },
+ "parson-russell-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    200,
+    400
+   ],
+   "spay_neuter": [
+    200,
+    400
+   ],
+   "food_monthly": [
+    25,
+    45
+   ],
+   "insurance_monthly": [
+    20,
+    40
+   ],
+   "grooming_annual": [
+    50,
+    150
+   ],
+   "setup_onetime": [
+    115,
+    230
+   ],
+   "total_year1": [
+    2000,
+    4000
+   ],
+   "annual_ongoing": [
+    1040,
+    1620
+   ],
+   "citable_stat": "A Parson Russell Terrier costs $1,000–$2,500 from a reputable breeder with health testing for PLL and Late Onset Ataxia, with an estimated first-year total of $2,000–$4,000 including purchase price and all recurring costs, and a 13–17 lb adult typically eats $25–$45/month.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:46:15+00:00"
+ },
+ "pekingese": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    3000
+   ],
+   "rescue": [
+    100,
+    350
+   ],
+   "vet_year1": [
+    660,
+    1300
+   ],
+   "spay_neuter": [
+    250,
+    500
+   ],
+   "food_monthly": [
+    17,
+    29
+   ],
+   "insurance_monthly": [
+    30,
+    60
+   ],
+   "grooming_annual": [
+    330,
+    800
+   ],
+   "setup_onetime": [
+    270,
+    565
+   ],
+   "total_year1": [
+    1530,
+    3165
+   ],
+   "annual_ongoing": [
+    890,
+    1570
+   ],
+   "citable_stat": "A well-bred Pekingese puppy costs $1,000–$3,000, with rescue adoption running $100–$350; first-year total is $1,530–$3,165 including spay/neuter, vaccinations, food ($200–$350 annually for a 14 lb dog), professional grooming ($330–$800 annually for the breed's demanding double coat), and optional insurance ($360–$720 annually).",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:46:19+00:00"
+ },
+ "pembroke-welsh-corgi": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    50,
+    80
+   ],
+   "grooming_annual": [
+    0,
+    600
+   ],
+   "setup_onetime": [
+    250,
+    450
+   ],
+   "total_year1": [
+    2700,
+    5500
+   ],
+   "annual_ongoing": [
+    1500,
+    2500
+   ],
+   "citable_stat": "A Pembroke Welsh Corgi puppy from a reputable breeder costs $1,000–$2,500, with realistic first-year totals landing at roughly $2,700–$5,500+, and ongoing annual costs settling to about $1,500–$2,500 once puppy-only expenses are behind you.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:46:23+00:00"
+ },
+ "pharaoh-hound": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": [
+    200,
+    600
+   ],
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    33,
+    67
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    440,
+    850
+   ],
+   "total_year1": [
+    3600,
+    8150
+   ],
+   "annual_ongoing": [
+    1300,
+    2200
+   ],
+   "citable_stat": "A Pharaoh Hound costs $3,600–$8,150 in the first year including a $1,500–$2,500 puppy, $400–$700 annual food for a 45–55 lb dog, and $500–$2,500+ for secure 6-foot fencing, with ongoing annual costs of $1,300–$2,200.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:46:26+00:00"
+ },
+ "pointer": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    3000
+   ],
+   "rescue": [
+    150,
+    400
+   ],
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": [
+    150,
+    400
+   ],
+   "food_monthly": [
+    45,
+    75
+   ],
+   "insurance_monthly": [
+    33,
+    75
+   ],
+   "grooming_annual": [
+    0,
+    180
+   ],
+   "setup_onetime": [
+    250,
+    500
+   ],
+   "total_year1": null,
+   "annual_ongoing": null,
+   "citable_stat": "Pointer puppies from reputable breeders run $800–$3,000, with rescue adoption at $150–$400; first-year food costs run $550–$850 ($45–$75 per month) for a 45–75 lb dog, and veterinary care in year one runs $400–$800 covering vaccination series, spay/neuter, and prevention.",
+   "missing": [
+    "total_year1",
+    "annual_ongoing"
+   ]
+  },
+  "ts": "2026-08-05T20:46:30+00:00"
+ },
+ "polish-lowland-sheepdog": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    150,
+    350
+   ],
+   "spay_neuter": [
+    250,
+    500
+   ],
+   "food_monthly": [
+    65,
+    100
+   ],
+   "insurance_monthly": [
+    35,
+    60
+   ],
+   "grooming_annual": [
+    360,
+    800
+   ],
+   "setup_onetime": [
+    380,
+    780
+   ],
+   "total_year1": [
+    4290,
+    7700
+   ],
+   "annual_ongoing": [
+    2010,
+    3570
+   ],
+   "citable_stat": "A Polish Lowland Sheepdog from a health-tested breeder costs $1,500–$2,500, with first-year total costs of $4,290–$7,700 including insurance, and adult food running $65–$100/month with professional grooming at $360–$800 annually (or $240–$480 with DIY brushing).",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:46:33+00:00"
+ },
+ "pomeranian": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    2000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    200,
+    400
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    12,
+    25
+   ],
+   "insurance_monthly": [
+    20,
+    37
+   ],
+   "grooming_annual": [
+    300,
+    640
+   ],
+   "setup_onetime": [
+    550,
+    1150
+   ],
+   "total_year1": [
+    2250,
+    5040
+   ],
+   "annual_ongoing": [
+    1300,
+    2590
+   ],
+   "citable_stat": "A Pomeranian costs $2,250–$5,040 in the first year, with food for a 3–7 lb adult running $150–$300 annually and professional grooming at $300–$640 yearly due to the breed's double coat maintenance requirements.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:46:37+00:00"
+ },
+ "portuguese-water-dog": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    300,
+    600
+   ],
+   "spay_neuter": [
+    250,
+    600
+   ],
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    33,
+    58
+   ],
+   "grooming_annual": [
+    450,
+    800
+   ],
+   "setup_onetime": [
+    650,
+    1350
+   ],
+   "total_year1": [
+    3750,
+    7850
+   ],
+   "annual_ongoing": [
+    1750,
+    3150
+   ],
+   "citable_stat": "A Portuguese Water Dog costs $3,750–$7,850 in the first year, with professional grooming every 6–8 weeks at $450–$800 annually being the dominant recurring expense, and food for a 35–60 lb adult running $400–$700 in year one.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:46:40+00:00"
+ },
+ "puli": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2000
+   ],
+   "rescue": [
+    250,
+    2000
+   ],
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": [
+    250,
+    500
+   ],
+   "food_monthly": [
+    60,
+    90
+   ],
+   "insurance_monthly": [
+    30,
+    55
+   ],
+   "grooming_annual": [
+    50,
+    100
+   ],
+   "setup_onetime": [
+    510,
+    890
+   ],
+   "total_year1": [
+    3540,
+    6340
+   ],
+   "annual_ongoing": [
+    1160,
+    1810
+   ],
+   "citable_stat": "A Puli costs $3,540–$6,340 in the first year with insurance, with food running $60–$90 per month for an active 25–35 lb dog, and a high-velocity dryer ($80–$200) required for cord maintenance starting around 9 months of age.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:49:10+00:00"
+ },
+ "redbone-coonhound": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    500,
+    1500
+   ],
+   "rescue": [
+    150,
+    400
+   ],
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": [
+    150,
+    400
+   ],
+   "food_monthly": [
+    45,
+    75
+   ],
+   "insurance_monthly": [
+    33,
+    75
+   ],
+   "grooming_annual": [
+    20,
+    40
+   ],
+   "setup_onetime": [
+    250,
+    500
+   ],
+   "total_year1": [
+    2500,
+    5500
+   ],
+   "annual_ongoing": null,
+   "citable_stat": "A Redbone Coonhound costs $2,500–$5,500 in the first year depending on whether you adopt or buy from a breeder and whether fencing is needed; food runs $45–$75/month for a 45–70 lb adult on a large-breed formula.",
+   "missing": [
+    "annual_ongoing"
+   ]
+  },
+  "ts": "2026-08-05T20:49:14+00:00"
+ },
+ "rhodesian-ridgeback": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    500,
+    950
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    55,
+    85
+   ],
+   "insurance_monthly": [
+    42,
+    92
+   ],
+   "grooming_annual": [
+    30,
+    60
+   ],
+   "setup_onetime": [
+    300,
+    600
+   ],
+   "total_year1": null,
+   "annual_ongoing": null,
+   "citable_stat": "A Rhodesian Ridgeback puppy from a reputable breeder costs $1,500–$3,500, with first-year veterinary care running $500–$950, food budgeted at $55–$85 monthly, and pet insurance at $500–$1,100 annually; rescue adoption runs $200–$500 through breed-specific networks.",
+   "missing": [
+    "total_year1",
+    "annual_ongoing"
+   ]
+  },
+  "ts": "2026-08-05T20:49:17+00:00"
+ },
+ "rottweiler": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    200,
+    600
+   ],
+   "food_monthly": [
+    67,
+    117
+   ],
+   "insurance_monthly": [
+    80,
+    150
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    400,
+    800
+   ],
+   "total_year1": [
+    4000,
+    8000
+   ],
+   "annual_ongoing": [
+    2200,
+    4200
+   ],
+   "citable_stat": "A Rottweiler's first-year costs range from $4,000–$8,000+, with food for an 80–135 lb dog running $800–$1,400 annually and pet insurance $960–$1,800 annually due to the breed's elevated cancer, hip dysplasia, and bloat/GDV risk.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:49:21+00:00"
+ },
+ "russell-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    2000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    200,
+    400
+   ],
+   "spay_neuter": [
+    200,
+    400
+   ],
+   "food_monthly": [
+    20,
+    40
+   ],
+   "insurance_monthly": [
+    20,
+    35
+   ],
+   "grooming_annual": [
+    0,
+    350
+   ],
+   "setup_onetime": [
+    1290,
+    2970
+   ],
+   "total_year1": [
+    1800,
+    3500
+   ],
+   "annual_ongoing": [
+    300,
+    500
+   ],
+   "citable_stat": "A Russell Terrier costs $1,800–$3,500 in the first year depending on coat type and training choices, with food running only $240–$480 annually due to the breed's small 9–15 lb size, while professional grooming for rough coats runs $150–$350/year versus $0–$40/year for smooth coats maintained at home.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:49:24+00:00"
+ },
+ "saint-bernard": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": [
+    300,
+    600
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    400,
+    800
+   ],
+   "food_monthly": [
+    130,
+    175
+   ],
+   "insurance_monthly": [
+    75,
+    150
+   ],
+   "grooming_annual": [
+    0,
+    700
+   ],
+   "setup_onetime": [
+    560,
+    1020
+   ],
+   "total_year1": [
+    5000,
+    9500
+   ],
+   "annual_ongoing": [
+    2500,
+    4500
+   ],
+   "citable_stat": "A Saint Bernard puppy from a reputable breeder costs $1,500–$3,500, with first-year total expenses of $5,000–$9,500 including food ($1,000–$1,800 annually), routine vet care ($500–$900), prophylactic gastropexy ($400–$800), and pet insurance ($900–$1,800); ongoing annual costs after year one run $2,500–$4,500.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:49:28+00:00"
+ },
+ "saluki": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    200,
+    600
+   ],
+   "food_monthly": [
+    42,
+    67
+   ],
+   "insurance_monthly": [
+    42,
+    83
+   ],
+   "grooming_annual": [
+    0,
+    100
+   ],
+   "setup_onetime": [
+    300,
+    500
+   ],
+   "total_year1": [
+    3450,
+    8100
+   ],
+   "annual_ongoing": [
+    1500,
+    2800
+   ],
+   "citable_stat": "A Saluki costs $3,450–$8,100 in the first year (with food for a lean 40–65 lb adult running $500–$800 annually, or about $42–$67/month), with secure 5–6 foot fencing ($500–$2,500+) and health-tested puppy acquisition ($1,500–$3,000) representing the primary first-year expenses.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:49:31+00:00"
+ },
+ "samoyed": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    3200,
+    6500
+   ],
+   "rescue": [
+    null
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    42,
+    83
+   ],
+   "grooming_annual": [
+    400,
+    800
+   ],
+   "setup_onetime": [
+    550,
+    1100
+   ],
+   "total_year1": [
+    5550,
+    11000
+   ],
+   "annual_ongoing": [
+    1650,
+    3100
+   ],
+   "citable_stat": "A Samoyed costs $5,550–$11,000 in the first year including a $3,200–$6,500 breeder puppy, routine vet care and vaccine series ($500–$900), pet insurance ($500–$1,000/year), professional grooming 3–4 sessions ($400–$800), food for a 35–65 lb adult ($400–$700), and setup costs ($550–$1,100); ongoing annual costs run $1,650–$3,100 after year one.",
+   "missing": [
+    "spay_neuter (mentioned in timeline but not priced separately)"
+   ]
+  },
+  "ts": "2026-08-05T20:49:36+00:00"
+ },
+ "schipperke": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    1600
+   ],
+   "rescue": [
+    150,
+    350
+   ],
+   "vet_year1": [
+    519,
+    1050
+   ],
+   "spay_neuter": [
+    250,
+    550
+   ],
+   "food_monthly": [
+    25,
+    40
+   ],
+   "insurance_monthly": [
+    25,
+    45
+   ],
+   "grooming_annual": [
+    0,
+    260
+   ],
+   "setup_onetime": [
+    187,
+    385
+   ],
+   "total_year1": [
+    2326,
+    4495
+   ],
+   "annual_ongoing": [
+    1500,
+    2500
+   ],
+   "citable_stat": "A Schipperke puppy from a health-testing breeder costs $800–$1,600, with first-year total costs including puppy ranging from $2,326–$4,495; rescue adoption runs $150–$350 and typically includes vetting and spay/neuter, while an adult Schipperke eats around ¾ to 1 cup of quality kibble daily for $25–$40 monthly, and ongoing annual costs from year two forward typically run $1,500–$2,500.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:49:39+00:00"
+ },
+ "scottish-deerhound": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    400,
+    700
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    65,
+    100
+   ],
+   "insurance_monthly": [
+    58,
+    125
+   ],
+   "grooming_annual": [
+    50,
+    200
+   ],
+   "setup_onetime": [
+    350,
+    650
+   ],
+   "total_year1": [
+    4500,
+    9500
+   ],
+   "annual_ongoing": [
+    1900,
+    3500
+   ],
+   "citable_stat": "A Scottish Deerhound costs $4,500–$9,500 in the first year (breeder puppy path), with food budgeted at $65–$100/month and pet insurance at $700–$1,500/year due to documented cardiac disease and bloat risk.",
+   "missing": [
+    "travel_to_breeder"
+   ]
+  },
+  "ts": "2026-08-05T20:49:43+00:00"
+ },
+ "scottish-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    150,
+    300
+   ],
+   "spay_neuter": [
+    200,
+    400
+   ],
+   "food_monthly": [
+    35,
+    65
+   ],
+   "insurance_monthly": [
+    25,
+    50
+   ],
+   "grooming_annual": [
+    300,
+    680
+   ],
+   "setup_onetime": [
+    300,
+    580
+   ],
+   "total_year1": [
+    3230,
+    6060
+   ],
+   "annual_ongoing": [
+    1480,
+    3280
+   ],
+   "citable_stat": "A Scottish Terrier puppy from a health-testing breeder costs $1,200–$2,000, with first-year total expenses of $3,230–$6,060 including insurance, food at $35–$65/month, and professional grooming at $300–$680 annually for clipped pet coats.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:49:46+00:00"
+ },
+ "sheepadoodle": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    2000,
+    4500
+   ],
+   "rescue": [
+    200,
+    600
+   ],
+   "vet_year1": [
+    350,
+    850
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    50,
+    83
+   ],
+   "insurance_monthly": [
+    50,
+    100
+   ],
+   "grooming_annual": [
+    400,
+    1400
+   ],
+   "setup_onetime": [
+    300,
+    700
+   ],
+   "total_year1": [
+    4700,
+    9400
+   ],
+   "annual_ongoing": [
+    1950,
+    3600
+   ],
+   "citable_stat": "Sheepadoodle first-year costs range from $4,700–$9,400 including acquisition, with professional grooming running $700–$1,400 annually and pet insurance $600–$1,200 per year; food costs $600–$1,000 in the first year depending on whether the dog is a Mini (30–55 lbs) or Standard (55–85 lbs).",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:49:49+00:00"
+ },
+ "shetland-sheepdog": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    17,
+    33
+   ],
+   "insurance_monthly": [
+    25,
+    50
+   ],
+   "grooming_annual": [
+    200,
+    400
+   ],
+   "setup_onetime": [
+    200,
+    400
+   ],
+   "total_year1": [
+    2600,
+    5700
+   ],
+   "annual_ongoing": [
+    1150,
+    2300
+   ],
+   "citable_stat": "A Shetland Sheepdog costs $2,600–$5,700 in the first year, with food running $200–$400 annually and professional deshedding (2x/year) plus home coat supplies at $200–$400, while ongoing annual costs settle to $1,150–$2,300.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:49:53+00:00"
+ },
+ "shiba-inu": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    29,
+    50
+   ],
+   "insurance_monthly": [
+    33,
+    67
+   ],
+   "grooming_annual": [
+    0,
+    300
+   ],
+   "setup_onetime": [
+    490,
+    1030
+   ],
+   "total_year1": [
+    3300,
+    7650
+   ],
+   "annual_ongoing": [
+    1050,
+    1900
+   ],
+   "citable_stat": "A Shiba Inu costs $3,300–$7,650 in the first year including puppy purchase ($1,200–$2,500), routine vet and vaccines ($400–$800), food ($350–$600 annual), pet insurance ($400–$800 annual), secure fencing ($500–$2,000+), and one-time setup and training ($450–$950), with ongoing annual costs of $1,050–$1,900 thereafter.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:49:56+00:00"
+ },
+ "shih-tzu": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    300,
+    600
+   ],
+   "spay_neuter": [
+    200,
+    400
+   ],
+   "food_monthly": [
+    17,
+    33
+   ],
+   "insurance_monthly": [
+    29,
+    50
+   ],
+   "grooming_annual": [
+    360,
+    720
+   ],
+   "setup_onetime": [
+    175,
+    460
+   ],
+   "total_year1": [
+    2500,
+    5000
+   ],
+   "annual_ongoing": [
+    1200,
+    2200
+   ],
+   "citable_stat": "A Shih Tzu from a health-tested breeder costs $2,500–$5,000 in the first year with the puppy price at $1,000–$2,500, while rescue adoption runs $200–$500 plus $1,800–$3,200 total; professional grooming every 6–8 weeks at $55–$90 per visit adds $360–$720 annually and becomes a lifetime expense, with pet insurance running $350–$600 yearly due to breed-specific eye and airway risk.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:50:00+00:00"
+ },
+ "siberian-husky": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    600,
+    1500
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    42,
+    67
+   ],
+   "insurance_monthly": [
+    50,
+    90
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    380,
+    780
+   ],
+   "total_year1": [
+    2500,
+    6800
+   ],
+   "annual_ongoing": [
+    1500,
+    2600
+   ],
+   "citable_stat": "A Siberian Husky's first-year cost ranges from $2,500 to $6,800+ depending on containment needs, with food for a 35–60 lb adult running $500–$800 annually and a critical fencing upgrade potentially adding $0–$2,000+; ongoing annual costs settle to $1,500–$2,600 after the puppy phase.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:50:04+00:00"
+ },
+ "silky-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2500
+   ],
+   "rescue": [
+    150,
+    400
+   ],
+   "vet_year1": [
+    250,
+    450
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    30,
+    55
+   ],
+   "insurance_monthly": [
+    30,
+    60
+   ],
+   "grooming_annual": [
+    150,
+    780
+   ],
+   "setup_onetime": [
+    200,
+    400
+   ],
+   "total_year1": [
+    3000,
+    6000
+   ],
+   "annual_ongoing": [
+    1540,
+    3550
+   ],
+   "citable_stat": "A Silky Terrier's first year costs $3,000–$6,000 including puppy price ($1,200–$2,500), with monthly food costs of $30–$55 and annual grooming ranging from $150 (DIY-heavy) to $780 (professional every 6–8 weeks), making grooming the dominant ongoing cost for this breed rather than food.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:50:08+00:00"
+ },
+ "skye-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1800,
+    3000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    300,
+    550
+   ],
+   "spay_neuter": [
+    250,
+    550
+   ],
+   "food_monthly": [
+    50,
+    70
+   ],
+   "insurance_monthly": [
+    35,
+    65
+   ],
+   "grooming_annual": [
+    300,
+    720
+   ],
+   "setup_onetime": [
+    220,
+    350
+   ],
+   "total_year1": [
+    3500,
+    6500
+   ],
+   "annual_ongoing": [
+    1800,
+    3000
+   ],
+   "citable_stat": "A Skye Terrier puppy from a reputable breeder costs $1,800–$3,000, with first-year total expenses of $3,500–$6,500 including supplies, vet care, spay/neuter, and grooming; food runs $50–$70 monthly for a 35–45 lb adult, and professional grooming every 8–12 weeks totals $300–$600 annually for the long coat.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:50:11+00:00"
+ },
+ "soft-coated-wheaten-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    3000,
+    6500
+   ],
+   "rescue": [
+    0,
+    0
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    29,
+    50
+   ],
+   "insurance_monthly": [
+    33,
+    75
+   ],
+   "grooming_annual": [
+    400,
+    700
+   ],
+   "setup_onetime": [
+    410,
+    870
+   ],
+   "total_year1": [
+    5160,
+    10670
+   ],
+   "annual_ongoing": [
+    1600,
+    3000
+   ],
+   "citable_stat": "A Soft Coated Wheaten Terrier costs $5,160–$10,670 in the first year including a $3,000–$6,500 puppy, professional grooming at $400–$700 annually (6–7 sessions at $65–$100 each), mandatory PLN/PLE monitoring at $100–$200, and pet insurance at $400–$900, with ongoing annual costs of $1,600–$3,000.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:50:15+00:00"
+ },
+ "spanish-water-dog": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    33,
+    67
+   ],
+   "grooming_annual": [
+    200,
+    400
+   ],
+   "setup_onetime": [
+    200,
+    400
+   ],
+   "total_year1": [
+    3300,
+    6100
+   ],
+   "annual_ongoing": [
+    1500,
+    2800
+   ],
+   "citable_stat": "A Spanish Water Dog costs $3,300–$6,100 in the first year including puppy price, food for a 31–49 lb adult at $400–$700 annually, vet care at $400–$800, and pet insurance at $400–$800, with ongoing annual costs of $1,500–$2,800 thereafter; breed rescue placements run $250–$600 as an alternative to breeder puppies.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:50:18+00:00"
+ },
+ "spinone-italiano": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    46,
+    75
+   ],
+   "insurance_monthly": [
+    42,
+    92
+   ],
+   "grooming_annual": [
+    0,
+    300
+   ],
+   "setup_onetime": [
+    300,
+    500
+   ],
+   "total_year1": [
+    3550,
+    6400
+   ],
+   "annual_ongoing": [
+    1400,
+    2600
+   ],
+   "citable_stat": "A Spinone Italiano puppy costs $1,500–$2,500 from a reputable breeder, with first-year total expenses of $3,550–$6,400 including food ($550–$900 annually), routine vet care ($500–$900), and pet insurance ($500–$1,100); the breed's 62–85 lb size pushes most categories toward the upper end of mid-size breed costs.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:50:22+00:00"
+ },
+ "staffordshire-bull-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    2500,
+    5000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    300,
+    600
+   ],
+   "food_monthly": [
+    29,
+    46
+   ],
+   "insurance_monthly": [
+    29,
+    58
+   ],
+   "grooming_annual": [
+    20,
+    40
+   ],
+   "setup_onetime": [
+    200,
+    400
+   ],
+   "total_year1": [
+    4090,
+    7980
+   ],
+   "annual_ongoing": [
+    1070,
+    1840
+   ],
+   "citable_stat": "A Staffordshire Bull Terrier from a DNA-tested breeder costs $2,500–$5,000 for the puppy alone, with first-year total costs of $4,090–$7,980 including food at $350–$550 annually and pet insurance at $350–$700 annually; the compact 24–38 lb frame keeps food costs moderate at roughly 1.5–2.5 cups of kibble daily.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:50:26+00:00"
+ },
+ "standard-poodle": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    4000
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    500,
+    950
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    50,
+    80
+   ],
+   "insurance_monthly": [
+    42,
+    92
+   ],
+   "grooming_annual": [
+    600,
+    1200
+   ],
+   "setup_onetime": [
+    350,
+    650
+   ],
+   "total_year1": [
+    4500,
+    9500
+   ],
+   "annual_ongoing": [
+    1280,
+    2230
+   ],
+   "citable_stat": "A Standard Poodle costs $4,500–$9,500 in the first year including puppy price, with professional grooming running $600–$1,200 annually and food approximately $50–$80 per month; first-year vet care including spay/neuter and breed-specific screening (hips, eyes, thyroid) runs $500–$950.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:50:29+00:00"
+ },
+ "standard-schnauzer": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": [
+    150,
+    400
+   ],
+   "food_monthly": [
+    40,
+    70
+   ],
+   "insurance_monthly": [
+    33,
+    75
+   ],
+   "grooming_annual": [
+    550,
+    1000
+   ],
+   "setup_onetime": [
+    300,
+    550
+   ],
+   "total_year1": null,
+   "annual_ongoing": null,
+   "citable_stat": "A Standard Schnauzer puppy from a reputable breeder costs $1,500–$3,500, with rescue adoption at $200–$500; first-year costs including food ($500–$800), veterinary care ($400–$800), grooming ($550–$1,000 professional or $120–$250 for DIY clippers), and pet insurance ($400–$900) vary significantly based on geography and grooming method chosen.",
+   "missing": [
+    "total_year1",
+    "annual_ongoing"
+   ]
+  },
+  "ts": "2026-08-05T20:50:34+00:00"
+ },
+ "swedish-vallhund": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2200
+   ],
+   "rescue": [
+    150,
+    350
+   ],
+   "vet_year1": [
+    555,
+    1165
+   ],
+   "spay_neuter": [
+    300,
+    650
+   ],
+   "food_monthly": [
+    35,
+    55
+   ],
+   "insurance_monthly": [
+    30,
+    55
+   ],
+   "grooming_annual": [
+    0,
+    140
+   ],
+   "setup_onetime": [
+    267,
+    547
+   ],
+   "total_year1": [
+    3142,
+    5872
+   ],
+   "annual_ongoing": [
+    420,
+    660
+   ],
+   "citable_stat": "A Swedish Vallhund puppy from a reputable breeder costs $1,200–$2,200, with first-year total expenses (including puppy price) ranging from $3,142–$5,872, while rescue adults typically cost $150–$350 and food runs $35–$55/month for a 20–35 lb dog.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:50:38+00:00"
+ },
+ "tibetan-mastiff": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    5000
+   ],
+   "rescue": [
+    300,
+    800
+   ],
+   "vet_year1": [
+    200,
+    475
+   ],
+   "spay_neuter": [
+    300,
+    600
+   ],
+   "food_monthly": [
+    100,
+    150
+   ],
+   "insurance_monthly": null,
+   "grooming_annual": [
+    300,
+    600
+   ],
+   "setup_onetime": [
+    2430,
+    5755
+   ],
+   "total_year1": null,
+   "annual_ongoing": [
+    400,
+    700
+   ],
+   "citable_stat": "A Tibetan Mastiff puppy costs $1,500–$5,000 from a reputable breeder; rescue/adoption routes run $300–$800. First-year food costs $100–$150/month ($1,200–$1,800/year), grooming runs $300–$600/year, and routine veterinary care averages $400–$700/year.",
+   "missing": [
+    "insurance_monthly",
+    "total_year1"
+   ]
+  },
+  "ts": "2026-08-05T20:50:42+00:00"
+ },
+ "tibetan-spaniel": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2200
+   ],
+   "rescue": [
+    150,
+    350
+   ],
+   "vet_year1": [
+    250,
+    450
+   ],
+   "spay_neuter": [
+    250,
+    550
+   ],
+   "food_monthly": [
+    25,
+    40
+   ],
+   "insurance_monthly": [
+    25,
+    45
+   ],
+   "grooming_annual": [
+    0,
+    390
+   ],
+   "setup_onetime": [
+    172,
+    365
+   ],
+   "total_year1": [
+    2751,
+    5205
+   ],
+   "annual_ongoing": [
+    744,
+    1410
+   ],
+   "citable_stat": "A Tibetan Spaniel costs $2,751–$5,205 in the first year including puppy purchase, with food running $25–$40/month and grooming ranging from $0 (DIY) to $160–$390 annually (professional).",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:50:45+00:00"
+ },
+ "tibetan-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    700
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    33,
+    50
+   ],
+   "insurance_monthly": [
+    33,
+    58
+   ],
+   "grooming_annual": [
+    400,
+    700
+   ],
+   "setup_onetime": [
+    310,
+    570
+   ],
+   "total_year1": [
+    3310,
+    5670
+   ],
+   "annual_ongoing": [
+    1520,
+    2550
+   ],
+   "citable_stat": "A Tibetan Terrier costs $3,310–$5,670 in the first year, with professional grooming every 6–8 weeks at $75–$120 per session forming a lifelong recurring expense, and pet insurance at $400–$700 annually recommended due to hereditary eye conditions like Primary Lens Luxation.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:50:49+00:00"
+ },
+ "toy-fox-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2000
+   ],
+   "rescue": [
+    150,
+    350
+   ],
+   "vet_year1": [
+    250,
+    450
+   ],
+   "spay_neuter": [
+    200,
+    450
+   ],
+   "food_monthly": [
+    25,
+    45
+   ],
+   "insurance_monthly": [
+    25,
+    50
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    150,
+    280
+   ],
+   "total_year1": [
+    2500,
+    4500
+   ],
+   "annual_ongoing": [
+    350,
+    600
+   ],
+   "citable_stat": "A Toy Fox Terrier costs $2,500–$4,500 in the first year including acquisition, with food running $25–$45 per month and pet insurance $25–$50 per month if enrolled; rescue adoption runs $150–$350 versus breeder puppies at $1,000–$2,000.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:50:52+00:00"
+ },
+ "vizsla": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    300,
+    600
+   ],
+   "spay_neuter": [
+    250,
+    600
+   ],
+   "food_monthly": [
+    33,
+    58
+   ],
+   "insurance_monthly": [
+    29,
+    50
+   ],
+   "grooming_annual": [
+    0,
+    100
+   ],
+   "setup_onetime": [
+    450,
+    850
+   ],
+   "total_year1": [
+    2700,
+    6100
+   ],
+   "annual_ongoing": [
+    1350,
+    2650
+   ],
+   "citable_stat": "A Vizsla's first year typically runs $2,800 to $5,500, with food for a 44–65 lb dog costing roughly $40–$60 per month for quality kibble, and professional grooming being genuinely optional due to the breed's short, single-layer coat.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:50:56+00:00"
+ },
+ "weimaraner": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    300,
+    600
+   ],
+   "spay_neuter": [
+    300,
+    700
+   ],
+   "food_monthly": [
+    50,
+    75
+   ],
+   "insurance_monthly": [
+    33,
+    58
+   ],
+   "grooming_annual": [
+    0,
+    50
+   ],
+   "setup_onetime": [
+    200,
+    450
+   ],
+   "total_year1": [
+    3300,
+    7650
+   ],
+   "annual_ongoing": [
+    1550,
+    3000
+   ],
+   "citable_stat": "A Weimaraner costs $3,200–$6,500 in the first year including acquisition, preventive care, and gastropexy (a prophylactic surgery for deep-chested breeds); large-breed food runs $60–$80 monthly, and the short coat requires minimal grooming at under $50 annually.",
+   "missing": [
+    "gastropexy explicitly separated in article but included in spay_neuter range per typical surgical bundling; fence upgrade ($500–$2,000) is breed-specific one-time but excluded per rules on non-emergency unplanned costs"
+   ]
+  },
+  "ts": "2026-08-05T20:51:00+00:00"
+ },
+ "welsh-springer-spaniel": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    450,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    29,
+    50
+   ],
+   "insurance_monthly": [
+    25,
+    58
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    200,
+    400
+   ],
+   "total_year1": [
+    2450,
+    4850
+   ],
+   "annual_ongoing": [
+    950,
+    1800
+   ],
+   "citable_stat": "A Welsh Springer Spaniel costs $2,450–$4,850 in the first year, with food for a 35–55 lb adult running $350–$600 annually and pet insurance at $300–$700 annually, though the breed's elevated risk for glaucoma and hip dysplasia makes early insurance enrollment the highest-leverage financial decision.",
+   "missing": [
+    "rescue",
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:51:04+00:00"
+ },
+ "welsh-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2200
+   ],
+   "rescue": [
+    150,
+    400
+   ],
+   "vet_year1": [
+    445,
+    1010
+   ],
+   "spay_neuter": [
+    250,
+    600
+   ],
+   "food_monthly": [
+    35,
+    55
+   ],
+   "insurance_monthly": [
+    30,
+    55
+   ],
+   "grooming_annual": [
+    250,
+    700
+   ],
+   "setup_onetime": [
+    225,
+    460
+   ],
+   "total_year1": null,
+   "annual_ongoing": null,
+   "citable_stat": "A Welsh Terrier puppy from a reputable breeder costs $1,200–$2,200, with rescue alternatives at $150–$400; the wiry coat requires professional grooming every 8–12 weeks at $55–$150 per session ($250–$700+ annually), and food costs run $35–$55/month for this 20-pound breed.",
+   "missing": [
+    "total_year1",
+    "annual_ongoing"
+   ]
+  },
+  "ts": "2026-08-05T20:51:07+00:00"
+ },
+ "west-highland-white-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    2800,
+    5500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    800
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    17,
+    33
+   ],
+   "insurance_monthly": [
+    29,
+    58
+   ],
+   "grooming_annual": [
+    350,
+    650
+   ],
+   "setup_onetime": [
+    350,
+    750
+   ],
+   "total_year1": [
+    4450,
+    8800
+   ],
+   "annual_ongoing": [
+    1200,
+    2250
+   ],
+   "citable_stat": "A West Highland White Terrier costs $4,450–$8,800 in the first year, with food for a 15–22 lb terrier running $200–$400 annually, but professional grooming every 6–8 weeks and pet insurance ($350–$700 annually) dominate the budget due to the breed's double coat and predisposition to atopic dermatitis.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:51:10+00:00"
+ },
+ "whippet": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1200,
+    2500
+   ],
+   "rescue": [
+    200,
+    500
+   ],
+   "vet_year1": [
+    null,
+    null
+   ],
+   "spay_neuter": [
+    null,
+    null
+   ],
+   "food_monthly": [
+    33,
+    50
+   ],
+   "insurance_monthly": [
+    29,
+    55
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    205,
+    430
+   ],
+   "total_year1": [
+    2500,
+    4500
+   ],
+   "annual_ongoing": [
+    1100,
+    1800
+   ],
+   "citable_stat": "A Whippet from a reputable breeder runs $2,500–$4,500 for the first twelve months, with food costs roughly $400–$600 a year for a grown dog eating 1.5–2.5 cups of quality kibble daily, and no professional grooming needed due to the smooth single coat.",
+   "missing": [
+    "vet_year1",
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:51:14+00:00"
+ },
+ "wire-fox-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    2500
+   ],
+   "rescue": [
+    150,
+    400
+   ],
+   "vet_year1": [
+    530,
+    1065
+   ],
+   "spay_neuter": [
+    250,
+    650
+   ],
+   "food_monthly": [
+    35,
+    55
+   ],
+   "insurance_monthly": [
+    35,
+    60
+   ],
+   "grooming_annual": [
+    360,
+    960
+   ],
+   "setup_onetime": [
+    237,
+    502
+   ],
+   "total_year1": null,
+   "annual_ongoing": [
+    1170,
+    1695
+   ],
+   "citable_stat": "A Wire Fox Terrier puppy from a reputable breeder costs $1,500–$2,500, with rescue adoption fees running $150–$400; food costs $35–$55 monthly for an 18-pound adult, and professional grooming every 8–10 weeks ranges from $360–$540 annually for clipping to $600–$960+ for hand-stripping.",
+   "missing": [
+    "total_year1"
+   ]
+  },
+  "ts": "2026-08-05T20:51:17+00:00"
+ },
+ "wirehaired-pointing-griffon": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    450,
+    800
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    38,
+    63
+   ],
+   "insurance_monthly": [
+    33,
+    75
+   ],
+   "grooming_annual": [
+    0,
+    300
+   ],
+   "setup_onetime": [
+    510,
+    1070
+   ],
+   "total_year1": [
+    2750,
+    5900
+   ],
+   "annual_ongoing": [
+    1150,
+    2200
+   ],
+   "citable_stat": "A Wirehaired Pointing Griffon costs $2,750–$5,900 in the first year including a $1,000–$2,500 puppy, $450–$750 annually for food, $450–$800 routine vet care, and $400–$900 in pet insurance; ongoing annual costs thereafter run $1,150–$2,200.",
+   "missing": [
+    "spay_neuter (mentioned in timeline context but no specific cost given)"
+   ]
+  },
+  "ts": "2026-08-05T20:51:21+00:00"
+ },
+ "xoloitzcuintli": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    2000,
+    4000
+   ],
+   "rescue": null,
+   "vet_year1": [
+    400,
+    700
+   ],
+   "spay_neuter": null,
+   "food_monthly": [
+    17,
+    50
+   ],
+   "insurance_monthly": [
+    17,
+    42
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    200,
+    450
+   ],
+   "total_year1": [
+    3200,
+    6700
+   ],
+   "annual_ongoing": [
+    850,
+    1900
+   ],
+   "citable_stat": "A Xoloitzcuintli puppy from a reputable breeder costs $2,000–$4,000, with first-year total costs of $3,200–$6,700 for a hairless variety, but ongoing annual costs drop to just $850–$1,900 due to minimal grooming needs and a primitive genetic background free of many hereditary conditions.",
+   "missing": [
+    "spay_neuter"
+   ]
+  },
+  "ts": "2026-08-05T20:51:25+00:00"
+ },
+ "yorkshire-terrier": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1000,
+    2500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    200,
+    400
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    13,
+    25
+   ],
+   "insurance_monthly": [
+    21,
+    42
+   ],
+   "grooming_annual": [
+    300,
+    640
+   ],
+   "setup_onetime": [
+    360,
+    1050
+   ],
+   "total_year1": [
+    2400,
+    5540
+   ],
+   "annual_ongoing": [
+    1300,
+    2640
+   ],
+   "citable_stat": "Most new Yorkshire Terrier owners land between $2,500 and $5,500 in the first twelve months, with professional grooming every 6–8 weeks running $300–$640 annually and food for a 4–7 lb dog costing $150–$300 in the first year.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:51:28+00:00"
+ },
+ "dalmatian": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    600,
+    1200
+   ],
+   "rescue": [
+    0,
+    0
+   ],
+   "vet_year1": [
+    500,
+    900
+   ],
+   "spay_neuter": [
+    100,
+    200
+   ],
+   "food_monthly": [
+    42,
+    75
+   ],
+   "insurance_monthly": [
+    42,
+    83
+   ],
+   "grooming_annual": [
+    0,
+    300
+   ],
+   "setup_onetime": [
+    500,
+    1000
+   ],
+   "total_year1": [
+    2600,
+    5000
+   ],
+   "annual_ongoing": [
+    1350,
+    2500
+   ],
+   "citable_stat": "A Dalmatian costs $2,600–$5,000 in the first year (including $600–$1,200 puppy purchase, $500–$900 low-purine food annually, and $500–$900 vet care), with ongoing annual costs of $1,350–$2,500 driven by the breed's unique uric-acid metabolism requiring lifelong low-purine diet management.",
+   "missing": [
+    "rescue adoption fee (article mentions rescue route exists but does not state a specific fee)"
+   ]
+  },
+  "ts": "2026-08-05T20:52:08+00:00"
+ },
+ "italian-greyhound": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    1500,
+    3500
+   ],
+   "rescue": null,
+   "vet_year1": [
+    250,
+    500
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    17,
+    33
+   ],
+   "insurance_monthly": [
+    29,
+    58
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    380,
+    850
+   ],
+   "total_year1": [
+    3150,
+    7000
+   ],
+   "annual_ongoing": [
+    850,
+    1700
+   ],
+   "citable_stat": "Italian Greyhound first-year costs range from $3,150 to $7,000, with one-time expenses (puppy, initial vet, spay/neuter, starter wardrobe, training) accounting for $2,300–$5,300, and recurring costs (food $200–$400 annually, insurance $350–$700 annually) making up $850–$1,700.",
+   "missing": []
+  },
+  "ts": "2026-08-05T20:52:12+00:00"
+ },
+ "pug": {
+  "status": "done",
+  "data": {
+   "puppy": [
+    800,
+    2000
+   ],
+   "rescue": [
+    250,
+    600
+   ],
+   "vet_year1": [
+    200,
+    400
+   ],
+   "spay_neuter": [
+    200,
+    500
+   ],
+   "food_monthly": [
+    20,
+    35
+   ],
+   "insurance_monthly": [
+    35,
+    65
+   ],
+   "grooming_annual": [
+    0,
+    0
+   ],
+   "setup_onetime": [
+    250,
+    500
+   ],
+   "total_year1": [
+    3500,
+    7500
+   ],
+   "annual_ongoing": [
+    1400,
+    2800
+   ],
+   "citable_stat": "Pugs cost $3,500–$7,500 in the first year despite weighing only 14–18 lbs, with the difference driven by breed-specific anatomy: BOAS airway surgery ($1,000–$3,000), daily skin fold maintenance ($100–$200/year), and pet insurance ($400–$800/year, strongly recommended); ongoing annual costs thereafter stay elevated at $1,400–$2,800 relative to similarly sized breeds.",
+   "missing": [
+    "grooming_annual (no professional grooming cited for the breed)",
+    "full component breakdown for setup_onetime (crate, harness, collar, supplies cited as $150–$300 but other setup items distributed across timeline)",
+    "BOAS evaluation as standalone from surgery cost in total"
+   ]
+  },
+  "ts": "2026-08-05T20:52:16+00:00"
+ }
+}
