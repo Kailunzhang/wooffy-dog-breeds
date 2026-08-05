@@ -1,3 +1,10 @@
 .env
 output/
 published_log.json
+__pycache__/
+*.log
+*.mp4
+retry_*.txt
+_breed_index.json
+sample-images/
+pinterest-assets/sprint1/
