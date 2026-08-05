@@ -55,6 +55,9 @@ SHOPIFY_DOG_NUTRITION_BLOG_ID = int(
 BLOG_IDS = {
     "dog-breeds":    SHOPIFY_BLOG_ID,
     "dog-nutrition": SHOPIFY_DOG_NUTRITION_BLOG_ID,
+    "dog-health":    int(_env.get("SHOPIFY_DOG_HEALTH_BLOG_ID", "0") or "0"),
+    "dog-training":  int(_env.get("SHOPIFY_DOG_TRAINING_BLOG_ID", "0") or "0"),
+    "life-with-dogs": int(_env.get("SHOPIFY_LIFE_WITH_DOGS_BLOG_ID", "0") or "0"),
 }
 
 
@@ -246,7 +249,9 @@ def build_faq(faqs):
 def build_related(breeds):
     items = ""
     for b in breeds:
-        items += f'    <li><a href="{BLOG_BASE}/{b["slug"]}" style="color:#1a1a1a;font-weight:700;text-decoration:underline;text-underline-offset:3px;">{b["name"]}</a> — {b["note"]}</li>\n'
+        note = b.get("note", "")
+        note_html = f" — {note}" if note else ""
+        items += f'    <li><a href="{BLOG_BASE}/{b["slug"]}" style="color:#1a1a1a;font-weight:700;text-decoration:underline;text-underline-offset:3px;">{b["name"]}</a>{note_html}</li>\n'
     return f"""<div style="margin-bottom:48px;padding-top:32px;border-top:1px solid #e8e8e8;">
   <p style="font-family:'figmaMono','SF Mono',monospace;font-size:0.7em;font-weight:400;letter-spacing:0.54px;text-transform:uppercase;color:rgba(0,0,0,0.45);margin:0 0 8px 0;">Explore More</p>
   <h2 style="font-size:1.5em;font-weight:700;color:#1a1a1a;margin:0 0 16px 0;line-height:1.2;">Similar Breeds</h2>
