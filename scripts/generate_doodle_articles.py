@@ -790,7 +790,7 @@ def build_roundup():
     for name, slug, size, exercise, lifespan, desc in breeds_for_roundup:
         cards.append(
             f'<div style="background:#ffffff;border:1px solid rgba(0,0,0,0.08);border-radius:12px;overflow:hidden;">'
-            f'<img src="{PLACEHOLDER_IMG}" alt="{name}" style="width:100%;height:200px;object-fit:cover;display:block;">'
+            f'<a href="/blogs/dog-breeds/{slug}" class="wf-card-img" style="display:block;"><img src="{PLACEHOLDER_IMG}" alt="{name}" style="width:100%;aspect-ratio:3/2;height:auto;object-fit:cover;display:block;"></a>'
             f'<div style="padding:16px;">'
             f'<h3 style="font-size:1em;font-weight:700;color:#1a1a1a;margin:0 0 8px 0;">{name}</h3>'
             f'<div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px;">'
@@ -802,7 +802,7 @@ def build_roundup():
             f'<a href="/blogs/dog-breeds/{slug}" style="font-size:0.8em;font-weight:600;color:#000000;text-decoration:underline;text-underline-offset:3px;">Full guide →</a>'
             f'</div></div>'
         )
-    cards_html = '<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">' + "".join(cards) + '</div>'
+    cards_html = '<style>@media (max-width:640px){.wf-breed-grid{grid-template-columns:1fr !important;}}</style><div class="wf-breed-grid" style="display:grid;grid-template-columns:repeat(2,1fr);gap:20px;">' + "".join(cards) + '</div>'
 
     return {
         "meta": {

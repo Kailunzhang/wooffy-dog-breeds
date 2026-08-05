@@ -4,7 +4,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 BREED_DATA = 'breed-data'
 
 CARD_STYLE = 'background:#ffffff;border:1px solid rgba(0,0,0,0.08);border-radius:12px;overflow:hidden;'
-IMG_STYLE = 'width:100%;height:200px;object-fit:cover;display:block;'
+IMG_STYLE = 'width:100%;aspect-ratio:3/2;height:auto;object-fit:cover;display:block;'
 PAD_STYLE = 'padding:16px;'
 H3_STYLE = 'font-size:1em;font-weight:700;color:#1a1a1a;margin:0 0 8px 0;'
 TAGS_STYLE = 'display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px;'
@@ -51,7 +51,7 @@ def make_card(breed_name, slug, desc):
         lifespan_tag = lifespan_tag + ' lifespan'
 
     c = f'<div style="{CARD_STYLE}">'
-    c += f'<img src="{img_url}" alt="{breed_name}" style="{IMG_STYLE}">'
+    c += f'<a href="/blogs/dog-breeds/{slug}" class="wf-card-img" style="display:block;"><img src="{img_url}" alt="{breed_name}" style="{IMG_STYLE}"></a>'
     c += f'<div style="{PAD_STYLE}">'
     c += f'<h3 style="{H3_STYLE}">{breed_name}</h3>'
     c += f'<div style="{TAGS_STYLE}">'
@@ -65,7 +65,7 @@ def make_card(breed_name, slug, desc):
     return c
 
 def make_grid(cards):
-    return '<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">' + ''.join(cards) + '</div>'
+    return '<style>@media (max-width:640px){.wf-breed-grid{grid-template-columns:1fr !important;}}</style><div class="wf-breed-grid" style="display:grid;grid-template-columns:repeat(2,1fr);gap:20px;">' + ''.join(cards) + '</div>'
 
 ROUNDUPS = {
 'best-dogs-for-cold-climates': [
