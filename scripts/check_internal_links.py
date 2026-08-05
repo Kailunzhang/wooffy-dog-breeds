@@ -29,7 +29,7 @@ INTERNAL_LINK_RE = re.compile(
 # Blogs whose articles are NOT managed in breed-data/ (no local JSON), so
 # slug-existence can't be checked locally. Links to them are skipped rather
 # than reported as TARGET_NOT_EXIST. Verified live 200 on 2026-08-04.
-EXTERNAL_BLOG_HANDLES = {"dog-training", "life-with-dogs"}
+EXTERNAL_BLOG_HANDLES = {"dog-training", "life-with-dogs", "dog-health"}
 
 
 def collect_html_blobs(data: dict) -> list[str]:
