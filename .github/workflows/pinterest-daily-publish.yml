@@ -15,9 +15,16 @@ name: Wooffy Pinterest Daily Publish
 # State file (committed back to main):
 #   pinterest-published.json
 
+# PAUSED 2026-08-26 per user decision: Pinterest on hold until Standard
+# access is approved (pending since 2026-07-11). The daily schedule is
+# disabled to stop the failure-email noise; workflow_dispatch remains for
+# manual runs. TO REVIVE after approval: (1) re-run
+# scripts/pinterest_oauth_setup.py (refresh token expired ~2026-09-09),
+# (2) set GitHub Secrets PINTEREST_APP_ID / _APP_SECRET / _REFRESH_TOKEN
+# (never configured), (3) uncomment the schedule block below.
 on:
-  schedule:
-    - cron: '0 21 * * *'
+  # schedule:
+  #   - cron: '0 21 * * *'
   workflow_dispatch:
     inputs:
       batch:
