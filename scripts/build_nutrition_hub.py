@@ -22,6 +22,11 @@ import sys
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 BD = os.path.join(ROOT, "breed-data")
 HUB_SLUG = "what-can-dogs-eat"
+# Seasonal pointer shown under the NEVER FEED box; swap per holiday or set to "".
+SEASONAL_NOTE = ('<p class="wfy-seasonal" style="margin:-10px 0 26px;font-size:15px;line-height:1.6;">'
+                 '<strong>Halloween:</strong> candy bowls, sugar-free treats and decorations bring '
+                 'their own risks &mdash; see <a href="/blogs/dog-health/halloween-dog-safety">'
+                 'Halloween dog safety: what&rsquo;s dangerous and what to do</a>.</p>')
 HERO_SEED = os.path.join(
     "C:/Users/kailu/AppData/Local/Temp/claude/C--Users-kailu",
     "e909ce54-ab0a-40e7-acc8-539b75b3b0c8/scratchpad/hub_heroes.json",
@@ -211,12 +216,13 @@ def main() -> int:
 @media (max-width:700px) {{ .wfy-foodgrid {{ grid-template-columns:1fr; }} }}
 </style>
 <div class="wfy-intro">
-<p class="wfy-count"><span>{total} foods</span><span>vet-fact-checked</span><span>&#9989; {counts[SAFE]} safe</span><span>&#9888;&#65039; {counts[LIMIT]} limit</span><span>&#128683; {counts[AVOID]} avoid</span></p>
+<p class="wfy-count"><span>{total} foods</span><span>AKC &amp; ASPCA sourced</span><span>&#9989; {counts[SAFE]} safe</span><span>&#9888;&#65039; {counts[LIMIT]} limit</span><span>&#128683; {counts[AVOID]} avoid</span></p>
 <p>Every &ldquo;can dogs eat&hellip;?&rdquo; question we have answered, in one place. Each verdict below
 comes straight from the full guide &mdash; tap any food for serving sizes, risks, and preparation.</p>
 </div>
 <div class="wfy-toxic"><strong>&#128683; NEVER FEED:</strong> {toxic_links}.
 If your dog eats any of these, contact your veterinarian or an animal poison control center right away.</div>
+{SEASONAL_NOTE}
 <nav class="wfy-chips" aria-label="Jump to category">{"".join(chips)}</nav>
 {"".join(sections)}
 <p style="margin-top:34px;">These are general guidelines &mdash; check with your vet for your dog's needs.
@@ -238,7 +244,7 @@ Looking for your dog's breed instead? Browse the
             "title_tag": f"What Can Dogs Eat? {total} Foods, AKC & ASPCA Sourced",
             "excerpt": f"Every food verdict in one place — {total} human foods rated safe, limit, or avoid for dogs.",
             "meta_description": (f"Can dogs eat that? {total} human foods rated safe, limit or avoid — "
-                                 "vet-fact-checked verdicts with serving guidance, from apples to walnuts."),
+                                 "sourced verdicts with serving guidance, from apples to walnuts."),
             "tags": ["diet", "directory"],
             "published": True,
             "published_at": "2026-07-16T12:00:00Z",
