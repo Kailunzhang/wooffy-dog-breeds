@@ -45,7 +45,7 @@ HUBS = {
         "title_tag": "Dog Health Guides: Care, Puppies & More",
         "excerpt": "All Wooffy dog health guides in one place — a growing library on keeping your dog healthy.",
         "meta_description": ("Browse every Wooffy dog health guide in one place — daily care, "
-                             "puppy health, and more. A growing, vet-informed library."),
+                             "puppy health, holiday safety, and more — sourced from AKC, ASPCA, VCA and Merck."),
         "intro": ("Everything we have published on keeping your dog healthy, in one place. "
                   "This library is growing &mdash; check back for new guides."),
         "groups": [("All Health Guides", [])],
