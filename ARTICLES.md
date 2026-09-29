@@ -7,10 +7,10 @@
 
 | Type | Count |
 |------|-------|
-| Breed guides | 276 |
+| Breed guides | 277 |
 | Supporting articles | 493 |
 | Roundup articles | 61 |
-| **Total** | **830** |
+| **Total** | **831** |
 
 ---
 
@@ -1194,6 +1194,11 @@
 | Greyhound First-Year Costs | ✅ Live | [/blogs/dog-breeds/greyhound-first-year-costs](https://thewooffy.com/blogs/dog-breeds/greyhound-first-year-costs) |
 | Greyhound Grooming Guide | ✅ Live | [/blogs/dog-breeds/greyhound-grooming-guide](https://thewooffy.com/blogs/dog-breeds/greyhound-grooming-guide) |
 | Greyhound Puppy Checklist | ✅ Live | [/blogs/dog-breeds/greyhound-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/greyhound-puppy-checklist) |
+
+### Halloween Dog Safety: What's Actually Dangerous and What to Do *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Halloween Dog Safety: What's Actually Dangerous and What to Do | ✅ Live | [/blogs/dog-breeds/halloween-dog-safety](https://thewooffy.com/blogs/dog-breeds/halloween-dog-safety) |
 
 ### Harrier *(Hound Group · Medium Breed)*
 | Article | Status | URL |
