@@ -235,7 +235,7 @@ Looking for your dog's breed instead? Browse the
             "blog_handle": "dog-nutrition",
             "shopify_handle": HUB_SLUG, "slug": HUB_SLUG,
             "name": "What Can Dogs Eat? The Complete Food Safety Guide",
-            "title_tag": f"What Can Dogs Eat? {total} Foods, Vet-Checked",
+            "title_tag": f"What Can Dogs Eat? {total} Foods, AKC & ASPCA Sourced",
             "excerpt": f"Every food verdict in one place — {total} human foods rated safe, limit, or avoid for dogs.",
             "meta_description": (f"Can dogs eat that? {total} human foods rated safe, limit or avoid — "
                                  "vet-fact-checked verdicts with serving guidance, from apples to walnuts."),

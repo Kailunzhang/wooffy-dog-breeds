@@ -91,6 +91,13 @@ def _exp_ctr(pos):
     return CTR_BY_POS.get(int(round(pos)), 0.012 if pos > 10 else 0.05)
 
 
+def _drop_fragments(rows, page_idx):
+    """GSC reports Google's section deep links (e.g. /keeshond#temperament) as
+    separate 'pages'. They get impressions but ~0 clicks and are not separately
+    optimizable, so they only produce duplicate/noisy to-dos. Drop them."""
+    return [r for r in rows if "#" not in r["keys"][page_idx]]
+
+
 def fetch(token):
     end = date.today() - timedelta(days=DATA_LAG_DAYS)
     r_start = end - timedelta(days=RECENT_DAYS - 1)
@@ -110,12 +117,12 @@ def fetch(token):
         "tot_prior": tot(p_start, p_end),
         "tot_ctx": tot(ctx_start, end),
         "daily": _q(token, end - timedelta(days=29), end, ["date"], 100),
-        "pq_ctx": _q(token, ctx_start, end, ["query", "page"], 5000),
-        "page_recent": _q(token, r_start, end, ["page"], 2000),
-        "page_prior": _q(token, p_start, p_end, ["page"], 2000),
+        "pq_ctx": _drop_fragments(_q(token, ctx_start, end, ["query", "page"], 5000), 1),
+        "page_recent": _drop_fragments(_q(token, r_start, end, ["page"], 2000), 0),
+        "page_prior": _drop_fragments(_q(token, p_start, p_end, ["page"], 2000), 0),
         "q_recent": _q(token, r_start, end, ["query"], 2000),
         "q_prior": _q(token, p_start, p_end, ["query"], 2000),
-        "page_14": _q(token, nc_start, end, ["page"], 5000),
+        "page_14": _drop_fragments(_q(token, nc_start, end, ["page"], 5000), 0),
     }
 
 

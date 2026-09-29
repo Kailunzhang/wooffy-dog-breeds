@@ -25,7 +25,7 @@ ROUNDUP_PREFIXES = ("best-", "most-", "easiest-", "quietest-", "longest-", "rare
 SUFFIXES = ("-grooming-guide", "-first-year-costs", "-puppy-checklist")
 
 HERO_TEMPLATES = {
-    "main":               "Adult {name} with {coat}, professional pet photograph",
+    "main":               "Adult {name} with {coat}, AI-generated illustration",
     "-grooming-guide":    "{name} being groomed, showing the {coat} texture",
     "-first-year-costs":  "Adult {name} relaxing at home in a family setting",
     "-puppy-checklist":   "Eight-week-old {name} puppy with {puppy_coat}",

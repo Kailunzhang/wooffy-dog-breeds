@@ -29,6 +29,8 @@ try:
     from google.analytics.data_v1beta.types import (
         DateRange,
         Dimension,
+        Filter,
+        FilterExpression,
         Metric,
         OrderBy,
         RunReportRequest,
@@ -125,13 +127,15 @@ def _client_and_property():
 
 
 def _run(client, prop, dimensions, metrics, start, end, order_metric=None,
-         limit=None):
+         limit=None, dim_filter=None):
     req = RunReportRequest(
         property=f"properties/{prop}",
         dimensions=[Dimension(name=d) for d in dimensions],
         metrics=[Metric(name=m) for m in metrics],
         date_ranges=[DateRange(start_date=start, end_date=end)],
     )
+    if dim_filter is not None:
+        req.dimension_filter = dim_filter
     if order_metric:
         req.order_bys = [
             OrderBy(metric=OrderBy.MetricOrderBy(metric_name=order_metric),
@@ -189,7 +193,18 @@ def fetch(client, prop):
         return _run(client, prop, ["sessionSource"], ["sessions"],
                     start, end, order_metric="sessions", limit=200)
 
+    # Content -> product funnel: product page views and where they came from.
+    product_only = FilterExpression(filter=Filter(
+        field_name="pagePath",
+        string_filter=Filter.StringFilter(
+            match_type=Filter.StringFilter.MatchType.BEGINS_WITH,
+            value="/products/")))
+    product_refs = _run(client, prop, ["pagePath", "pageReferrer"],
+                        ["screenPageViews"], "7daysAgo", "yesterday",
+                        limit=2000, dim_filter=product_only)
+
     return {
+        "product_refs": [(r[0], r[1], int(r[2])) for r in product_refs],
         "series": series,
         "channels_now": channels_now,
         "channels_prev": channels_prev,
@@ -276,6 +291,13 @@ def analyze(data):
         f"自然搜索：{org_now} 次（占总流量 {org_share*100:.0f}%）· "
         f"环比 {org_growth*100:+.0f}%",
     ]
+    refs = data.get("product_refs", [])
+    product_views = sum(v for _, _, v in refs)
+    from_blog = sum(v for _, ref, v in refs if "/blogs/" in ref)
+    lines.append(
+        f"内容→产品：近 7 天产品页浏览 {product_views} 次，"
+        f"其中从博客文章点进来 {from_blog} 次"
+    )
 
     recs = []
     if day_state == "SPIKE" and data["yest_landing"]:
