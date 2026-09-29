@@ -1,0 +1,2896 @@
+{
+ "meta": {
+  "store_tag": "wooffy-20",
+  "link_rel": "sponsored nofollow noopener",
+  "fit_semantics": "Weights are adult lb; null = open. Types in contain_types need the breed's whole range inside [wmin,wmax] and skip multi_size_breeds; all other types need the breed's midpoint inside [wmin,wmax]. Non-breed pages (no weight) pass. life_stage 'adult' never goes on checklist pages (all are puppy checklists). coat keys come from breed_traits.json category via coat_map; 'any' disables the check. exclude_slugs removes pages outright.",
+  "text_normalization": "html.unescape(text + ' ' + faq_text) before matching; anchors/excludes are case-insensitive regex. samoyed-grooming-guide: pilot link text stripped before matching (see existing_links).",
+  "counts": {
+   "entries": 71,
+   "skipped": 20,
+   "placeable": 51
+  },
+  "disclosure": "As an Amazon Associate, Wooffy earns from qualifying purchases.",
+  "disclosure_rule": "Must appear on every page that carries a link, before the first link.",
+  "contain_types": [
+   "chews",
+   "collar",
+   "dental_chew",
+   "deshedding_tool",
+   "dry_food",
+   "flea_tick_collar",
+   "flea_tick_topical",
+   "harness",
+   "joint_supplement",
+   "orthopedic_bed"
+  ],
+  "multi_size_breeds": [
+   "american-eskimo-dog",
+   "aussiedoodle",
+   "bernedoodle",
+   "cavapoo",
+   "dachshund",
+   "goldendoodle",
+   "labradoodle",
+   "sheepadoodle",
+   "xoloitzcuintli"
+  ],
+  "extra_slug_rule": "An extra slug is kept only if one of the entry's anchors matches it and it is not in exclude_slugs. exclude_if is written for breed pages; hits on a hand-read extra are reviewed by hand, not auto-dropped.",
+  "existing_links": {
+   "samoyed-grooming-guide": {
+    "asin": "B00KAKFR7Q",
+    "note": "Repo breed-data/samoyed-grooming-guide.json (== sam_backup.json) still carries the pilot Big G link plus a disclosure; pages.json was extracted from it. Remove or reuse that link before placing, never add a second."
+   }
+  },
+  "verification_rules_applied": "2026-09-29 placement verification R03-R22, T1-T5 (see scripts/inject_amazon_links.py)"
+ },
+ "coat_map": {
+  "long_silky": "long",
+  "wheaten_silky": "long",
+  "thick_double": "double",
+  "feathered_medium": "feathered",
+  "smooth_short": "short",
+  "curly_poodle": "curly",
+  "wirehaired_sporting": "wire",
+  "wiry_terrier": "wire",
+  "hairless": "hairless",
+  "corded": "corded"
+ },
+ "entries": [
+  {
+   "asin": "B00KAKFR7Q",
+   "name": "Chris Christensen Big G Slicker Brush",
+   "type": "slicker_brush",
+   "fit": {
+    "wmin": 12,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "double",
+     "feathered",
+     "long",
+     "curly",
+     "wire"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\bslicker brush(es)?\\b",
+    "\\bslickers?\\b"
+   ],
+   "exclude_if": [
+    "skip the slicker",
+    "(do not|don't) need (an undercoat rake or )?a slicker",
+    "small slicker brush",
+    "harshness of a slicker",
+    "slicker brush(es)? (work but )?can break",
+    "slicker brush\\s*\\(\\$\\s?\\d{1,2}\\s?[–-]\\s?\\$?(1\\d|2[0-5])\\b"
+   ],
+   "extra_slugs": [
+    "keep-double-coated-dogs-cool-in-summer"
+   ],
+   "blurb": "The Big G has long, angled pins set in a flexible cushioned pad, built for working through double, long and curly coats.",
+   "caveat": "Use light strokes; slicker pins can scratch skin if pressed hard.",
+   "priority": 1,
+   "skip": false,
+   "notes": "Medium size; toy breeds (<10 lb) excluded via wmin. Yorkie page asks for a small slicker (excluded). Rake-first pages (pembroke-welsh-corgi-G, siberian-husky-G, labrador-retriever-G, polish-lowland-sheepdog-$, shiba-inu-$): link the undercoat rake there, not this brush.",
+   "short": "https://amzn.to/4yidgUx",
+   "title_raw": "Chris Christensen Big G Dog Slicker Brush, Groom Like a Professional, Fluff Detangle Style, Saves Time Energy, Made in Germany, Coral, Medium",
+   "extra_slug_priority": {
+    "keep-double-coated-dogs-cool-in-summer": 1
+   },
+   "exclude_slugs": [],
+   "element_exclude": [
+    "slicker( brush(es)?)? alone|slicker( brush(es)?)? won.?t|cheap[^.]{0,20}slicker|not just (a )?(basic )?slicker|(instead of|rather than)( relying on)? (a |the )?(basic )?slicker"
+   ],
+   "blurb_by_coat": {
+    "wire": "Long angled pins in a flexible cushioned pad that lift dead hair and work through leg and beard furnishings."
+   }
+  },
+  {
+   "asin": "B07P2N8HQH",
+   "name": "Maxpower Planet Undercoat Rake",
+   "type": "undercoat_rake",
+   "fit": {
+    "wmin": 20,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "undercoat rakes?"
+   ],
+   "exclude_if": [
+    "(do not|don't) need an undercoat rake",
+    "undercoat rakes? (is|are) (unnecessary|not needed)",
+    "\\bno (slicker brush(es)?,? )?(no )?undercoat rakes?",
+    "reaching for (an? )?(undercoat |de-?shedding )?rakes?",
+    "undercoat rakes?[^.]{0,100}(nothing to grab|nick|irritat|save your money|unnecessary)"
+   ],
+   "extra_slugs": [
+    "keep-double-coated-dogs-cool-in-summer"
+   ],
+   "blurb": "A dual-sided rake: the 9-tooth side works through tangles and the 17-tooth side thins out loose undercoat in dense double coats.",
+   "caveat": "Work in the direction of hair growth and ease off over bony areas.",
+   "priority": 1,
+   "skip": false,
+   "notes": "Coat left 'any' on purpose: short-coated double breeds (Lab, Anatolian) recommend rakes in their own text.",
+   "short": "https://amzn.to/4xUD4Fr",
+   "title_raw": "Maxpower Planet Dog Grooming Rake, Deshedding Undercoat Brush, Dogs & Cats",
+   "extra_slug_priority": {
+    "keep-double-coated-dogs-cool-in-summer": 1
+   },
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B07MZDTG76",
+   "name": "FURminator Undercoat deShedding Tool (Large, Long Hair)",
+   "type": "deshedding_tool",
+   "fit": {
+    "wmin": 50,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "double",
+     "feathered",
+     "long"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "costs"
+   ],
+   "anchors": [
+    "furminator",
+    "de-?shedding (tool|comb)"
+   ],
+   "exclude_if": [
+    "(skip|avoid) (the )?furminator",
+    "furminator[^.]{0,40}not appropriate",
+    "avoid furminator",
+    "furminator gets marketed",
+    "de-?shedding tools?[^.]{0,80}(damage|not appropriate)",
+    "(avoid|skip) (the furminator and similar )?de-?shedding tools?",
+    "(doesn't|does not|don't|do not) (require|need)[^.]{0,40}de-?shedding tools?"
+   ],
+   "extra_slugs": [],
+   "blurb": "Made for dogs over 50 pounds with long hair, it reaches through the topcoat to lift loose undercoat, and a button releases the collected hair.",
+   "caveat": "Use light pressure and only during heavy shedding; bearing down can thin the topcoat.",
+   "priority": 2,
+   "skip": false,
+   "notes": "Long-hair version: do not use for short-coated breeds (FURminator sells a separate short-hair model). Golden page argues for a rake instead (excluded).",
+   "short": "https://amzn.to/46SUKpO",
+   "title_raw": "FURminator Large Dog Undercoat deShedding Tool for Long Hair",
+   "extra_slug_priority": {},
+   "exclude_slugs": [
+    "greater-swiss-mountain-dog",
+    "greater-swiss-mountain-dog-first-year-costs",
+    "greater-swiss-mountain-dog-grooming-guide",
+    "greater-swiss-mountain-dog-puppy-checklist",
+    "labrador-retriever",
+    "labrador-retriever-first-year-costs",
+    "labrador-retriever-grooming-guide",
+    "labrador-retriever-puppy-checklist",
+    "rottweiler",
+    "rottweiler-first-year-costs",
+    "rottweiler-grooming-guide",
+    "rottweiler-puppy-checklist"
+   ]
+  },
+  {
+   "asin": "B0C72S38F3",
+   "name": "LOPSIC Rechargeable Dog Nail Grinder",
+   "type": "nail_grinder",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\bgrinders?\\b",
+    "\\bdremel\\b"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A rechargeable three-speed nail grinder with an LED light and three grinding bits, and the kit includes a pair of nail clippers.",
+   "caveat": "Grind in short passes and keep long hair away from the spinning bit.",
+   "priority": 1,
+   "skip": false,
+   "short": "https://amzn.to/3TgAVpn",
+   "title_raw": "Whisper Quiet Dog Nail Grinder Safe & Stress-Free for Sensitive Dogs Cats",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B075N83693",
+   "name": "gonicc Nail Clippers (Medium & Large Dogs)",
+   "type": "nail_clipper",
+   "fit": {
+    "wmin": 25,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "nail (clippers?|trimmers?)",
+    "heavy-duty clippers",
+    "clippers or (a )?(rotary )?grinder"
+   ],
+   "exclude_if": [
+    "guillotine[- ]style nail clippers"
+   ],
+   "extra_slugs": [],
+   "blurb": "Scissor-style clippers for medium and large dogs, with a safety stop that limits how much nail passes the blade and a small file hidden in the handle.",
+   "caveat": "Trim a little at a time; the safety stop doesn't show you where the quick is.",
+   "priority": 1,
+   "skip": false,
+   "short": "https://amzn.to/4rHRS8T",
+   "title_raw": "gonicc Professional Dog & Cat, Small Animals Nail Clippers & Trimmers",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B01HRSZRXM",
+   "name": "oneisall Dog Clipper Kit",
+   "type": "clipper_kit",
+   "fit": {
+    "wmin": null,
+    "wmax": 50,
+    "life_stage": "any",
+    "coat": [
+     "curly",
+     "long",
+     "wire",
+     "feathered"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist"
+   ],
+   "anchors": [
+    "clipper kit",
+    "electric clippers?",
+    "clippers? with (the )?(correct )?(blade |guide )?(guards?|guard combs?)",
+    "(blade|guide) guards?",
+    "clip(ping)? (the coat )?(yourself|at home)"
+   ],
+   "exclude_if": [
+    "(never|do not|don't) (shave|clip) (a |the |this )?(double|coat)",
+    "professional grooming is (a )?required|cannot maintain its appearance without professional"
+   ],
+   "extra_slugs": [],
+   "blurb": "A clipper kit with six guide combs from 3 to 18 mm and a cutter head that pops off for rinsing; the maker says it runs below 50 dB.",
+   "caveat": "Start with the longest guide comb and go slowly around thin skin at the armpits and belly.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/47oBd0D",
+   "title_raw": "oneisall Low Noise Dog Clippers Grooming Kit for Dogs Cats Pets",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B0DBDXHYTK",
+   "name": "TINMARDA 4-Piece Dog Grooming Scissors Kit",
+   "type": "grooming_scissors",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "long",
+     "feathered",
+     "curly",
+     "wire",
+     "double"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "thinning shears",
+    "curved shears",
+    "grooming (scissors|shears)",
+    "(straight|curved) scissors"
+   ],
+   "exclude_if": [
+    "(don't|do not|doesn't) need[^.]{0,40}scissors",
+    "never needs a scissor",
+    "blunt[- ]?tip"
+   ],
+   "extra_slugs": [],
+   "blurb": "A four-piece set of straight, curved and thinning shears plus a steel comb for tidying feet, ears and feathering between groomer visits.",
+   "caveat": "The blades are sharp; keep the points angled away from the skin.",
+   "priority": 2,
+   "skip": false,
+   "notes": "Blades are sharp, not blunt-tipped: any page that asks for blunt-tip scissors is excluded.",
+   "short": "https://amzn.to/4jBnYkq",
+   "title_raw": "TINMARDA Dog Grooming Kit, Titanium Black Stainless Steel Dog Grooming Scissors with Curved Shears, Black Finger Rings - 4 Piece Sharp Durable Pet Shears for Dogs Cats At Home Salon-Quality Grooming",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "element_exclude": [
+    "hand-?strip|stripping knife"
+   ]
+  },
+  {
+   "asin": "B0BHYZV3HY",
+   "name": "oneisall 7-in-1 Grooming Vacuum Kit",
+   "type": "grooming_vacuum_kit",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "double",
+     "feathered",
+     "long",
+     "short",
+     "curly"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "vacuum attachment",
+    "grooming vacuum"
+   ],
+   "exclude_if": [
+    "lint roller and a good vacuum attachment"
+   ],
+   "extra_slugs": [],
+   "blurb": "A grooming vacuum the maker rates at 59 dB, with a deshedding brush, clipper, paw trimmer and nail grinder; loose hair goes into a canister, not onto the floor.",
+   "caveat": "Introduce the vacuum sound gradually; some dogs need a few sessions to accept it. Don't use the clipper to shave a double coat.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/4jw4VIg",
+   "title_raw": "oneisall Dog Grooming Vacuum,7 in 1 Grooming kit Tools with Low Noise",
+   "extra_slug_priority": {},
+   "exclude_slugs": [
+    "schipperke-first-year-costs"
+   ]
+  },
+  {
+   "asin": "B0DG2W9JHV",
+   "name": "Augwind Rubber Grooming Gloves & Bath Brush Set",
+   "type": "bath_gloves",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "short",
+     "double",
+     "hairless",
+     "feathered"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "rubber curry( brush| comb| mitt)?",
+    "curry (brush|comb|mitt)",
+    "grooming (mitt|gloves?)",
+    "rubber (grooming )?mitt",
+    "hound glove",
+    "bath(ing)? (mitt|gloves?|brush)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Silicone grooming gloves and rubber bath brushes that lift shed hair and work shampoo into a short coat, plus two finger toothbrushes.",
+   "caveat": "",
+   "priority": 1,
+   "skip": false,
+   "short": "https://amzn.to/4xPSE4U",
+   "title_raw": "6PCS Grooming & Bath Supplies for Dogs, Cats | Dog Washing Gloves | Dog Bath Brush | Dog Shower Brush | Pet Grooming Gloves | Dog Grooming kit | Pet Supplies for Showerhead & Sprayer (Navy Blue)",
+   "extra_slug_priority": {},
+   "exclude_slugs": [
+    "irish-setter-grooming-guide"
+   ]
+  },
+  {
+   "asin": "B0BRDG1638",
+   "name": "Happy Hoodie ear band (M/L)",
+   "type": "calming_band",
+   "fit": {
+    "wmin": 20,
+    "wmax": 90,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming"
+   ],
+   "anchors": [
+    "high[- ]velocity (pet |dog |force[- ]air )?dryer",
+    "force[- ]dr(y|yer|ying)"
+   ],
+   "exclude_if": [
+    "(don't|do not) (own|have) a high-velocity dryer"
+   ],
+   "extra_slugs": [],
+   "blurb": "Created by groomers for force-drying, this snug, stretchy band holds the ears down to muffle dryer noise.",
+   "caveat": "Measure head girth (this size is 13–18 in), and use it only during the noisy step, not all day. Remove it after drying; don't leave your dog unattended in it.",
+   "priority": 3,
+   "skip": true,
+   "notes": "Complementary accessory: articles recommend the dryer, not the band. Keep it to 1 link per page and only where no priority-1/2 item is placed.",
+   "short": "https://amzn.to/4hgBys8",
+   "title_raw": "Happy Hoodie The Original Dog & Cat Calming Band for Noise & Anxiety Relief",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "skip_reason": "No article recommends an ear band (dryer anchor only); several placements are groomer-run blow-outs; listing sells on anxiety/homeopathic/hematoma claims. Name, caveat and F12 exclude kept in case it is revived."
+  },
+  {
+   "asin": "B005CUTW8O",
+   "name": "Wahl 4-in-1 Lavender Chamomile Dog Shampoo (24 oz)",
+   "type": "shampoo",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "double",
+     "feathered",
+     "long",
+     "curly",
+     "short"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "costs"
+   ],
+   "anchors": [
+    "dog[- ](safe )?shampoo",
+    "gentle (dog )?shampoo",
+    "shampoo and (a )?(coat )?conditioner",
+    "conditioning shampoo",
+    "moisturizing (dog )?shampoo",
+    "detangling (dog )?shampoo"
+   ],
+   "exclude_if": [
+    "(hypoallergenic|fragrance[- ]free|unscented|medicated|oatmeal|whitening|chlorhexidine|antiseptic|anti-?fungal|texturi[sz]ing|sensitive[- ]skin) (dog )?shampoo",
+    "formulated for sensitive skin",
+    "shampoo (formulated |suitable |appropriate )?for (harsh|wiry|wire|curly)",
+    "puppy shampoo",
+    "avoid heavy conditioners",
+    "avoid[^.]{0,40}(softening|moisturi[sz]ing|heavy moisturi[sz]ers?|conditioners?)",
+    "oatmeal[- ]based",
+    "formulated for sensitive",
+    "(has|have) sensitive skin|skin can be sensitive",
+    "\\bfragranced\\b",
+    "skin allerg|\\batop(y|ic)\\b|allergic dermatitis|medicated (bath|shampoo)|deshedding shampoo"
+   ],
+   "extra_slugs": [],
+   "blurb": "Wahl's 4-in-1 formula cleans and conditions in one step; it's pH balanced and paraben free, with a lavender-chamomile scent.",
+   "caveat": "It's scented; choose an unscented formula if your vet has flagged sensitive skin.",
+   "priority": 1,
+   "skip": false,
+   "notes": "Wire/hairless coats excluded (conditioner softens wire; hairless skin guidance differs). Pages that ask for hypoallergenic/medicated/whitening/puppy shampoo are excluded. Listing gives no minimum age: confirm the label before placing on puppy checklists.",
+   "short": "https://amzn.to/3VmhZWP",
+   "title_raw": "Wahl USA 4-in-1 Calming Dog Shampoo with Lavender Chamomile Scent – Cleans, Conditions, Detangles, & Moisturizes - Pet Friendly Formula - 24 Oz - Model 820000A",
+   "extra_slug_priority": {},
+   "exclude_slugs": [
+    "basset-hound-first-year-costs",
+    "basset-hound-grooming-guide",
+    "basset-hound-puppy-checklist",
+    "bloodhound-first-year-costs",
+    "bloodhound-grooming-guide",
+    "bloodhound-puppy-checklist",
+    "boston-terrier-first-year-costs",
+    "boston-terrier-grooming-guide",
+    "boston-terrier-puppy-checklist",
+    "boxer-first-year-costs",
+    "boxer-grooming-guide",
+    "boxer-puppy-checklist",
+    "bulldog-first-year-costs",
+    "bulldog-grooming-guide",
+    "bulldog-puppy-checklist",
+    "bullmastiff-first-year-costs",
+    "bullmastiff-grooming-guide",
+    "bullmastiff-puppy-checklist",
+    "cane-corso-first-year-costs",
+    "cane-corso-grooming-guide",
+    "cane-corso-puppy-checklist",
+    "chinese-shar-pei-first-year-costs",
+    "chinese-shar-pei-grooming-guide",
+    "chinese-shar-pei-puppy-checklist",
+    "dogue-de-bordeaux-first-year-costs",
+    "dogue-de-bordeaux-grooming-guide",
+    "dogue-de-bordeaux-puppy-checklist",
+    "french-bulldog-first-year-costs",
+    "french-bulldog-grooming-guide",
+    "french-bulldog-puppy-checklist",
+    "japanese-chin-first-year-costs",
+    "japanese-chin-grooming-guide",
+    "japanese-chin-puppy-checklist",
+    "mastiff-first-year-costs",
+    "mastiff-grooming-guide",
+    "mastiff-puppy-checklist",
+    "neapolitan-mastiff-first-year-costs",
+    "neapolitan-mastiff-grooming-guide",
+    "neapolitan-mastiff-puppy-checklist",
+    "pekingese-first-year-costs",
+    "pekingese-grooming-guide",
+    "pekingese-puppy-checklist",
+    "pug-first-year-costs",
+    "pug-grooming-guide",
+    "pug-puppy-checklist",
+    "saint-bernard-first-year-costs",
+    "saint-bernard-grooming-guide",
+    "saint-bernard-puppy-checklist"
+   ]
+  },
+  {
+   "asin": "B0DMPM1Q3X",
+   "name": "WOUSEDO Microfiber Dog Towels (2-Pack)",
+   "type": "towel",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "towel[- ]dr(y|ied|ying)",
+    "towel (off|them|him|her|the (dog|coat))",
+    "(absorbent|microfiber|bath|drying|dog|chamois) towels?",
+    "towels? (first|to (blot|soak|remove|squeeze))",
+    "use a (dry )?towel",
+    "towel (and|then)",
+    "pack a towel"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [
+    "best-dog-parks-san-francisco"
+   ],
+   "blurb": "Two quick-drying microfiber towels that soak water out of a wet coat and wash easily between baths.",
+   "caveat": "",
+   "priority": 1,
+   "skip": false,
+   "short": "https://amzn.to/46SUGq4",
+   "title_raw": "2 Pack Microfiber Dog Towels for Drying Dogs, Super Absorbent and Soft",
+   "extra_slug_priority": {
+    "best-dog-parks-san-francisco": 1
+   },
+   "exclude_slugs": [],
+   "element_exclude": [
+    "rather than towel|towel-?dr(y|ying) alone|toweling alone|towel-dry in any|just towel-dry|during a towel-dry",
+    "\\bdrool"
+   ],
+   "element_exclude_unless_last": [
+    "high-velocity|force[- ]?(air )?dryer|forced-air"
+   ]
+  },
+  {
+   "asin": "B07NHL31CC",
+   "name": "Earth Rated Unscented Dog Wipes (100 ct)",
+   "type": "wipes",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\b(pet|dog|grooming|paw|unscented|body|fold|deodorizing|pet-safe) wipes",
+    "wipes (for|after) (paws|walks)",
+    "wipe (down )?(the |muddy )?paws"
+   ],
+   "exclude_if": [
+    "wipes?[^.]{0,50}\\beye"
+   ],
+   "extra_slugs": [],
+   "blurb": "Thick, unscented wipes with aloe and baking soda for cleaning paws, body and rear after walks.",
+   "caveat": "Not for eyes or inside the ears.",
+   "priority": 1,
+   "skip": false,
+   "short": "https://amzn.to/4yrnDpg",
+   "title_raw": "Earth Rated Dog Wipes for Paws & Butt, Deodorizing, Unscented, 100ct",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "element_exclude_with_prev": [
+    "\\b(folds?|face|facial|beard|muzzle|jowls?|eyes?|wrinkles?|tear[- ]?stains?)\\b"
+   ]
+  },
+  {
+   "asin": "B00RZDXA7K",
+   "name": "Virbac C.E.T. Enzymatic Toothpaste, Poultry (2.5 oz)",
+   "type": "toothpaste",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "(?<!human )toothpaste"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A poultry-flavored enzymatic toothpaste made without foaming agents, so it's meant to be swallowed rather than rinsed.",
+   "caveat": "Use it with a soft-bristled or finger toothbrush.",
+   "priority": 1,
+   "skip": false,
+   "short": "https://amzn.to/4ygvoOG",
+   "title_raw": "C.E.T. Enzymatic Toothpaste for Dogs and Cats, Poultry, 2.5oz",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B000KAHPZ8",
+   "name": "Greenies Teenie Dental Treats (5–15 lb, 43 ct)",
+   "type": "dental_chew",
+   "fit": {
+    "wmin": 5,
+    "wmax": 15,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "dental chews?\\b",
+    "dental treats?\\b",
+    "dental sticks?\\b"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Teenie-size Greenies dental chews, labeled for dogs 5 to 15 pounds, with a chewy texture made for a daily dental routine.",
+   "caveat": "Check the pack's minimum age and weight before giving one to a puppy; supervise so it's chewed, not gulped; use alongside brushing.",
+   "priority": 1,
+   "skip": false,
+   "short": "https://amzn.to/3VjNdxO",
+   "title_raw": "Greenies Teenie Original Natural Dental Dog Treats, Chicken, 43 Count",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B006W6YHHI",
+   "name": "Greenies Regular Dental Treats (25–50 lb, 36 ct)",
+   "type": "dental_chew",
+   "fit": {
+    "wmin": 25,
+    "wmax": 50,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "dental chews?\\b",
+    "dental treats?\\b",
+    "dental sticks?\\b"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Regular-size Greenies dental chews, labeled for dogs 25 to 50 pounds, with a chewy texture made for a daily dental routine.",
+   "caveat": "Check the pack's minimum age and weight before giving one to a puppy; supervise so it's chewed, not gulped; use alongside brushing.",
+   "priority": 1,
+   "skip": false,
+   "short": "https://amzn.to/4AFPBPE",
+   "title_raw": "Greenies Regular Dental Dog Treats, Original Chicken Flavor, 36 Count",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B00CU2CMOI",
+   "name": "Pedigree Dentastix Large Breed (40+ lb, 51 ct)",
+   "type": "dental_chew",
+   "fit": {
+    "wmin": 40,
+    "wmax": null,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "dental chews?\\b",
+    "dental treats?\\b",
+    "dental sticks?\\b"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "X-shaped daily dental chews labeled for dogs 40 pounds and up, in a variety pack of original, beef and fresh flavors.",
+   "caveat": "Check the pack's minimum age and weight before giving one to a puppy; supervise so it's chewed, not gulped; use alongside brushing.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/3Vk0c2y",
+   "title_raw": "Pedigree Dentastix Large Breed Dental Dog Treats, Variety, 51 Count",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B0CLB4ZBWF",
+   "name": "Ruffwear Front Range Harness (Medium)",
+   "type": "harness",
+   "fit": {
+    "wmin": 30,
+    "wmax": 65,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "costs"
+   ],
+   "anchors": [
+    "front[- ]clip harness",
+    "no[- ]pull harness",
+    "\\bharness(es)?\\b"
+   ],
+   "exclude_if": [
+    "harness[^.]{0,40}(not recommended|avoid)",
+    "sized for a puppy"
+   ],
+   "extra_slugs": [],
+   "blurb": "A foam-padded everyday harness with two leash points: a back ring and a chest attachment for redirecting dogs that pull.",
+   "caveat": "Measure chest girth against Ruffwear's chart; this is Medium, and puppies usually need a smaller size first.",
+   "priority": 1,
+   "skip": false,
+   "notes": "Front-clip/no-pull anchors are the strong case; generic 'harness' is a weaker fallback. Weight band is an approximation of the Medium girth range.",
+   "short": "https://amzn.to/47wKBzf",
+   "title_raw": "Ruffwear, Front Range Dog Chest Harness, River Rock Green, Medium",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "element_exclude": [
+    "canicross|bikejoring|skijoring|\\bsled|mushing"
+   ]
+  },
+  {
+   "asin": "B09MSKV26K",
+   "name": "Ruffwear Flagline Harness (L/XL)",
+   "type": "harness",
+   "fit": {
+    "wmin": 55,
+    "wmax": 120,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "costs"
+   ],
+   "anchors": [
+    "harness (with|that has) a (lift |top )?handle",
+    "lift(ing)? (harness|assist)",
+    "support harness",
+    "hiking harness",
+    "(padded|sturdy|heavy-duty|well-fitted|properly fitted)[^.]{0,15}harness"
+   ],
+   "exclude_if": [
+    "harness[^.]{0,40}(not recommended|avoid)"
+   ],
+   "extra_slugs": [],
+   "blurb": "A lightweight harness with a padded top handle for lifting over rocks or into the car, plus three leash points, including a chest loop.",
+   "caveat": "Measure chest girth against Ruffwear's size chart; this listing is L/XL.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/46QtyrW",
+   "title_raw": "Ruffwear, Flagline Dog Body Harness, Lichen Green, Large/X-Large",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "element_exclude": [
+    "canicross|bikejoring|skijoring|\\bsled|mushing"
+   ]
+  },
+  {
+   "asin": "B0DQ2RWKT2",
+   "name": "Ruffwear Front Range Collar (14–20 in)",
+   "type": "collar",
+   "fit": {
+    "wmin": 20,
+    "wmax": 70,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "costs"
+   ],
+   "anchors": [
+    "flat collar",
+    "(adjustable|buckle|quick-release|side-release) collar",
+    "collar,? (harness|leash)",
+    "collar and (an )?(id )?tag"
+   ],
+   "exclude_if": [
+    "martingale",
+    "use a harness, not a collar",
+    "sized for a puppy neck",
+    "never a collar",
+    "not a (flat )?collar",
+    "sized for a puppy"
+   ],
+   "extra_slugs": [],
+   "blurb": "A side-release buckle collar with an aluminum leash ring, a silicone tag silencer and a separate loop for ID tags.",
+   "caveat": "It fits a 14–20 inch neck, so most young puppies need a smaller collar first.",
+   "priority": 2,
+   "skip": false,
+   "notes": "Sighthound pages (martingale) and brachy guidance excluded.",
+   "short": "https://amzn.to/4hsP5vy",
+   "title_raw": "Ruffwear, Front Range Dog Collar, Blaze Orange, 14\"-20\"",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "element_exclude": [
+    "\\$\\d{1,2}\\s*[–-]\\s*\\$[1-5]\\d\\b"
+   ]
+  },
+  {
+   "asin": "B0C2PTSL6H",
+   "name": "Joytale Double-Handle Leash (6 ft)",
+   "type": "leash_heavy_duty",
+   "fit": {
+    "wmin": 40,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\b(6|six)[- ]?(foot|ft\\.?|feet)\\s(leash|lead)",
+    "\\b(4|four)\\s?[–-]\\s?(6|six)[- ]?(foot|ft\\.?|feet)\\s(sturdy\\s)?(leash|lead)",
+    "heavy[- ]duty leash",
+    "sturdy[^.]{0,12}leash",
+    "traffic handle"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [
+    "best-off-leash-dog-parks-east-bay"
+   ],
+   "blurb": "A 6-foot nylon leash with a padded second handle near the clip for close control, plus reflective stitching for dark walks.",
+   "caveat": "The 1-inch webbing suits medium and large dogs.",
+   "priority": 1,
+   "skip": false,
+   "short": "https://amzn.to/46TfLAN",
+   "title_raw": "Joytale Dog Leash for Large Dogs that Pull, Double Handle, 6FT, Black",
+   "extra_slug_priority": {
+    "best-off-leash-dog-parks-east-bay": 2
+   },
+   "exclude_slugs": [],
+   "caveat_by_kind": {
+    "checklist": "The 1-inch webbing suits medium and large dogs; it can feel heavy on a young puppy."
+   }
+  },
+  {
+   "asin": "B08S3MZ5SR",
+   "name": "Fida Heavy-Duty Leash, Dual Padded Handles (4 ft)",
+   "type": "leash_heavy_duty",
+   "fit": {
+    "wmin": 30,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\b(4|four)[- ]?(foot|ft\\.?|feet)\\s(leash|lead)",
+    "\\b(4|four)\\s?[–-]\\s?(6|six)[- ]?(foot|ft\\.?|feet)\\s(sturdy\\s)?(leash|lead)",
+    "heavy[- ]duty leash"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A 4-foot, 1-inch-wide nylon leash with a padded handle, a second traffic handle near the clip, and reflective threads.",
+   "caveat": "",
+   "priority": 2,
+   "skip": false,
+   "notes": "Alternative to Joytale where the page says 4 ft or 4–6 ft.",
+   "short": "https://amzn.to/3VoAObS",
+   "title_raw": "Fida Heavy Duty Dog Leash for Medium Large Dogs, 4 FT, Dual Padded Handles",
+   "extra_slug_priority": {},
+   "exclude_slugs": [
+    "german-pinscher-first-year-costs"
+   ]
+  },
+  {
+   "asin": "B098TT3KCJ",
+   "name": "Wild One Adjustable Leash (5.5 ft) + Poop Bag Carrier",
+   "type": "leash_standard",
+   "fit": {
+    "wmin": 16,
+    "wmax": 40,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist"
+   ],
+   "anchors": [
+    "\\b(4|four)\\s?[–-]\\s?(6|six)[- ]?(foot|ft\\.?|feet)\\s(sturdy\\s)?(leash|lead)",
+    "standard leash",
+    "collar,? (harness,? )?(and )?leash",
+    "leash,? (collar|harness)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "An adjustable 5.5-foot leash that clips shorter for city walks, with a clip-on poop-bag carrier and a starter roll of bags.",
+   "caveat": "",
+   "priority": 2,
+   "skip": false,
+   "notes": "Default leash for dogs under ~40 lb, where the two heavy-duty leashes don't fit. Generic list anchors are weak: when placing, prefer a 4-6 ft / standard-leash sentence if the page has one.",
+   "short": "https://amzn.to/4jt88ID",
+   "title_raw": "Wild One Nylon Adjustable Length Leash 5.5 Feet and Poop Bag Carrier Set, Waterproof, Odor Resistant, Lilac",
+   "extra_slug_priority": {},
+   "exclude_slugs": [
+    "schipperke-first-year-costs",
+    "tibetan-spaniel-first-year-costs",
+    "wire-fox-terrier-first-year-costs"
+   ]
+  },
+  {
+   "asin": "B07R56CBWX",
+   "name": "iYoShop Hands-Free Leash with Zipper Pouch (Large, 25–120 lb)",
+   "type": "leash_hands_free",
+   "fit": {
+    "wmin": 25,
+    "wmax": 120,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "costs"
+   ],
+   "anchors": [
+    "canicross",
+    "bikejor",
+    "skijor",
+    "hands[- ]free"
+   ],
+   "exclude_if": [
+    "no jogging",
+    "jogging[^.]{0,40}(waits|until)"
+   ],
+   "extra_slugs": [
+    "best-dogs-for-active-people"
+   ],
+   "blurb": "A waist-belt leash sized for 25–120 lb dogs, with two shock-absorbing sections, a traffic handle and a zip pouch for keys and bags.",
+   "caveat": "For adult dogs that already walk on a loose leash; ask your vet before running a young dog, and a hard lunge can pull you off balance.",
+   "priority": 1,
+   "skip": false,
+   "short": "https://amzn.to/4yyOKP2",
+   "title_raw": "iYoShop Hands Free Dog Leash with Zipper Pouch, Large, 25-120 lbs, Black",
+   "extra_slug_priority": {
+    "best-dogs-for-active-people": 1
+   },
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B076F7HM8T",
+   "name": "TUG Retractable Leash, 16 ft (Medium, under 55 lb)",
+   "type": "leash_retractable",
+   "fit": {
+    "wmin": null,
+    "wmax": 55,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "retractable"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A 16-foot tape retractable leash with a thumb lock.",
+   "caveat": "",
+   "priority": 2,
+   "skip": true,
+   "skip_reason": "Every article that mentions retractable leashes (13 checklists/costs pages, plus 'never a flexi-lead') tells readers to avoid them; no honest placement.",
+   "short": "https://amzn.to/3VaU6BB",
+   "title_raw": "TUG Original Retractable Dog Leash, 16 ft (Medium, White)",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B0CW73SD9F",
+   "name": "Earth Rated Dog-Walking Bundle (Dispenser + Lavender Bags)",
+   "type": "poop_bags",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "poop bags?",
+    "waste bags?",
+    "(bag|poop[- ]bag|waste[- ]bag) (holder|dispenser)",
+    "pick(ing)? up after"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [
+    "dog-friendly-hikes-east-bay",
+    "best-off-leash-dog-parks-east-bay",
+    "best-dog-parks-san-francisco",
+    "best-dog-parks-south-bay"
+   ],
+   "blurb": "A bag dispenser with lavender-scented, leak-proof bags made with 65% post-consumer recycled plastic.",
+   "caveat": "",
+   "priority": 1,
+   "skip": false,
+   "short": "https://amzn.to/3VkIFY3",
+   "title_raw": "Earth Rated Perfect Dog-Walking Bundle - Includes 1 Poop Bag Dispenser and 270 Leak-Proof Extra Thick Waste Bags, Lavender-Scented",
+   "extra_slug_priority": {
+    "dog-friendly-hikes-east-bay": 1,
+    "best-off-leash-dog-parks-east-bay": 1,
+    "best-dog-parks-san-francisco": 1,
+    "best-dog-parks-south-bay": 1
+   },
+   "exclude_slugs": [],
+   "element_exclude": [
+    "stocked|free[^.]{0,25}(poop |waste )?bags|bags (are )?(provided|supplied)"
+   ],
+   "element_require_extra": [
+    "(bring|carry|pack)[^.]{0,40}bags|pick(ing)? up after|always pick up"
+   ]
+  },
+  {
+   "asin": "B0727Y5ZD7",
+   "name": "URPOWER Waterproof Back-Seat Hammock Cover",
+   "type": "car_seat_cover",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\b(hair|fur)\\b[^.]{0,60}car seats?",
+    "car seat covers?",
+    "car hammock"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A waterproof back-seat hammock with side flaps, seat anchors and a nonslip backing that keeps sand, mud and hair off the upholstery.",
+   "caveat": "Check that your back seat is close to 54 inches wide. It protects the seat; it isn't a crash restraint.",
+   "priority": 1,
+   "skip": true,
+   "short": "https://amzn.to/4yGfKfX",
+   "title_raw": "URPOWER Dog Car Seat Cover for Back Seat, 100% Waterproof Hammock for Car",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "skip_reason": "After fixing the 'furniture' regex bug there are 0 breed-page anchors, and none of the 6 outdoor extras mention seat covers."
+  },
+  {
+   "asin": "B00008DFGY",
+   "name": "FRONTLINE Plus for Small Dogs 5–22 lb (3 doses)",
+   "type": "flea_tick_topical",
+   "fit": {
+    "wmin": 5,
+    "wmax": 22,
+    "life_stage": "any",
+    "coat": [
+     "double",
+     "feathered",
+     "long",
+     "short",
+     "curly",
+     "wire",
+     "corded"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "flea\\s?(,|/|and|&)\\s?tick\\s(prevention|preventives?|protection|control|treatment|medication)",
+    "tick\\s(and|&|/)\\s?flea\\s(prevention|preventives?|protection|control)",
+    "(heartworm|parasite)\\s?(,|/|and|&)\\s?(and\\s)?flea",
+    "\\bflea prevention",
+    "\\btick prevention"
+   ],
+   "exclude_if": [
+    "(avoid|skip|don't use|do not use)[^.]{0,30}(flea|tick) (collar|topical|spot-on)"
+   ],
+   "extra_slugs": [],
+   "blurb": "A monthly spot-on that kills adult fleas, flea eggs and larvae, ticks and chewing lice; this pack is for dogs 5–22 lb.",
+   "caveat": "Match the box to your dog's current weight (this one is 5–22 lb) and check the minimum age for puppies. Ask your vet which preventive fits your dog; it doesn't prevent heartworm.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/3Tq49Cd",
+   "title_raw": "FRONTLINE Plus Flea & Tick Spot Treatment for Small Breed Dogs 5-22 lbs. (Orange) Count of 3",
+   "extra_slug_priority": {
+    "dog-tick-prevention-lyme-disease-guide": 2
+   },
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B0002J1FN0",
+   "name": "FRONTLINE Plus for Medium Dogs 23–44 lb (3 doses)",
+   "type": "flea_tick_topical",
+   "fit": {
+    "wmin": 23,
+    "wmax": 44,
+    "life_stage": "any",
+    "coat": [
+     "double",
+     "feathered",
+     "long",
+     "short",
+     "curly",
+     "wire",
+     "corded"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "flea\\s?(,|/|and|&)\\s?tick\\s(prevention|preventives?|protection|control|treatment|medication)",
+    "tick\\s(and|&|/)\\s?flea\\s(prevention|preventives?|protection|control)",
+    "(heartworm|parasite)\\s?(,|/|and|&)\\s?(and\\s)?flea",
+    "\\bflea prevention",
+    "\\btick prevention"
+   ],
+   "exclude_if": [
+    "(avoid|skip|don't use|do not use)[^.]{0,30}(flea|tick) (collar|topical|spot-on)"
+   ],
+   "extra_slugs": [],
+   "blurb": "A monthly spot-on that kills adult fleas, flea eggs and larvae, ticks and chewing lice; this pack is for dogs 23–44 lb.",
+   "caveat": "Match the box to your dog's current weight (this one is 23–44 lb) and check the minimum age for puppies. Ask your vet which preventive fits your dog; it doesn't prevent heartworm.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/47mXJHg",
+   "title_raw": "FRONTLINE Plus Flea & Tick Spot Treatment for Medium Breed Dogs 23-44 lbs. (Blue) Count of 3",
+   "extra_slug_priority": {
+    "dog-tick-prevention-lyme-disease-guide": 1
+   },
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B0002J1FOE",
+   "name": "FRONTLINE Plus for Large Dogs 45–88 lb (3 doses)",
+   "type": "flea_tick_topical",
+   "fit": {
+    "wmin": 45,
+    "wmax": 88,
+    "life_stage": "any",
+    "coat": [
+     "double",
+     "feathered",
+     "long",
+     "short",
+     "curly",
+     "wire",
+     "corded"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "flea\\s?(,|/|and|&)\\s?tick\\s(prevention|preventives?|protection|control|treatment|medication)",
+    "tick\\s(and|&|/)\\s?flea\\s(prevention|preventives?|protection|control)",
+    "(heartworm|parasite)\\s?(,|/|and|&)\\s?(and\\s)?flea",
+    "\\bflea prevention",
+    "\\btick prevention"
+   ],
+   "exclude_if": [
+    "(avoid|skip|don't use|do not use)[^.]{0,30}(flea|tick) (collar|topical|spot-on)"
+   ],
+   "extra_slugs": [],
+   "blurb": "A monthly spot-on that kills adult fleas, flea eggs and larvae, ticks and chewing lice; this pack is for dogs 45–88 lb.",
+   "caveat": "Match the box to your dog's current weight (this one is 45–88 lb) and check the minimum age for puppies. Ask your vet which preventive fits your dog; it doesn't prevent heartworm.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/3Va1qNQ",
+   "title_raw": "FRONTLINE Plus Flea & Tick Spot Treatment for Large Breed Dogs 45-88 lbs. (Purple) Count of 3",
+   "extra_slug_priority": {
+    "dog-tick-prevention-lyme-disease-guide": 2
+   },
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B0002J1FP8",
+   "name": "FRONTLINE Plus for X-Large Dogs 89–132 lb (3 doses)",
+   "type": "flea_tick_topical",
+   "fit": {
+    "wmin": 89,
+    "wmax": 132,
+    "life_stage": "any",
+    "coat": [
+     "double",
+     "feathered",
+     "long",
+     "short",
+     "curly",
+     "wire",
+     "corded"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "flea\\s?(,|/|and|&)\\s?tick\\s(prevention|preventives?|protection|control|treatment|medication)",
+    "tick\\s(and|&|/)\\s?flea\\s(prevention|preventives?|protection|control)",
+    "(heartworm|parasite)\\s?(,|/|and|&)\\s?(and\\s)?flea",
+    "\\bflea prevention",
+    "\\btick prevention"
+   ],
+   "exclude_if": [
+    "(avoid|skip|don't use|do not use)[^.]{0,30}(flea|tick) (collar|topical|spot-on)"
+   ],
+   "extra_slugs": [],
+   "blurb": "A monthly spot-on that kills adult fleas, flea eggs and larvae, ticks and chewing lice; this pack is for dogs 89–132 lb.",
+   "caveat": "Match the box to your dog's current weight (this one is 89–132 lb) and check the minimum age for puppies. Ask your vet which preventive fits your dog; it doesn't prevent heartworm.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/3VXkQ8M",
+   "title_raw": "FRONTLINE Plus Flea & Tick Spot Treatment for X-Large Breed Dogs 89-132 lbs. (Red) Count of 3",
+   "extra_slug_priority": {
+    "dog-tick-prevention-lyme-disease-guide": 3
+   },
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B00B8CG602",
+   "name": "Seresto 8-Month Flea & Tick Collar (Large Dogs over 18 lb)",
+   "type": "flea_tick_collar",
+   "fit": {
+    "wmin": 18,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "flea\\s?(,|/|and|&)\\s?tick\\s(prevention|preventives?|protection|control|treatment|medication)",
+    "tick\\s(and|&|/)\\s?flea\\s(prevention|preventives?|protection|control)",
+    "(heartworm|parasite)\\s?(,|/|and|&)\\s?(and\\s)?flea",
+    "\\bflea prevention",
+    "\\btick prevention"
+   ],
+   "exclude_if": [
+    "(avoid|skip|don't use|do not use)[^.]{0,30}(flea|tick) (collar|topical|spot-on)"
+   ],
+   "extra_slugs": [
+    "best-dogs-for-hiking"
+   ],
+   "blurb": "An 8-month flea and tick collar for dogs over 18 pounds that works on contact, so fleas don't have to bite to be killed.",
+   "caveat": "This size is for dogs over 18 lb; check the minimum age for puppies and keep children from handling it. Ask your vet which preventive fits your dog; it doesn't prevent heartworm.",
+   "priority": 2,
+   "skip": false,
+   "notes": "Tick guide names Seresto as the collar option; it also lists collar downsides, so keep the blurb neutral.",
+   "short": "https://amzn.to/4hRKpRc",
+   "title_raw": "Seresto 8-Month Flea & Tick Collar for Large Dogs Over 18 lbs., 1ct",
+   "extra_slug_priority": {
+    "dog-tick-prevention-lyme-disease-guide": 1,
+    "best-dogs-for-hiking": 3
+   },
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B071W6CQ7S",
+   "name": "Nature's Miracle Dog Stain & Odor Remover (32 oz)",
+   "type": "enzymatic_cleaner",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "enzym(e|atic)[- ](based )?cleaners?",
+    "enzymatic (spray|stain)",
+    "enzyme (spray|stain)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "An enzymatic stain and odor cleaner that keeps breaking down urine and other organic messes after you apply it.",
+   "caveat": "Spot-test on carpet or upholstery first.",
+   "priority": 1,
+   "skip": false,
+   "short": "https://amzn.to/4xPS7Qs",
+   "title_raw": "Nature’s Miracle Dog Stain & Odor Remover, Enzymatic Cleaner, 32 oz",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B00CKFL93K",
+   "name": "Rocco & Roxie Enzyme Stain & Odor Eliminator (32 oz)",
+   "type": "enzymatic_cleaner",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "enzym(e|atic)[- ](based )?cleaners?",
+    "enzymatic (spray|stain)",
+    "enzyme (spray|stain)"
+   ],
+   "exclude_if": [
+    "nature[’']?s miracle"
+   ],
+   "extra_slugs": [],
+   "blurb": "An enzyme stain and odor eliminator for urine, feces and vomit, carrying the Carpet and Rug Institute's seal for carpets.",
+   "caveat": "Spot-test on delicate fabrics first.",
+   "priority": 2,
+   "skip": false,
+   "notes": "Alternate to Nature's Miracle; rotate for variety.",
+   "short": "https://amzn.to/3VexjEZ",
+   "title_raw": "Rocco & Roxie Enzyme Stain & Odor Eliminator, 32 Fl Oz",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B00MW8G62E",
+   "name": "Amazon Basics Puppy Pee Pads (22 x 22 in, 100 ct)",
+   "type": "pee_pads",
+   "fit": {
+    "wmin": null,
+    "wmax": 30,
+    "life_stage": "puppy",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\b(puppy|pee|potty|training) pads?\\b"
+   ],
+   "exclude_if": [
+    "(avoid|skip|don't use|no) (puppy |pee |potty )?pads"
+   ],
+   "extra_slugs": [],
+   "blurb": "Five-layer 22 x 22 inch pads with a leakproof backing and a built-in attractant for indoor potty training.",
+   "caveat": "Phase the pads out once your puppy reliably goes outside.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/47qMQUL",
+   "title_raw": "Amazon Basics Leak-Proof Dog and Puppy Potty Training Pee Pads with Quick-Dry 5-Layer Super Absorbent Design, Regular Size 22 x 22 inch, Blue & White, 100 Count",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B07C22NTL4",
+   "name": "HONEY CARE All-Absorb Male Wraps (Small, 12–19 in waist, 50 ct)",
+   "type": "male_wrap",
+   "fit": {
+    "wmin": 8,
+    "wmax": 25,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "belly bands?",
+    "male (dog )?wraps?",
+    "dog diapers?"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Disposable male wraps for a 12–19 inch waist, with a gel-forming absorbent core, refastenable tabs and a wetness indicator.",
+   "caveat": "A wrap contains marking; it doesn't replace housetraining.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/3VmiqjV",
+   "title_raw": "HONEY CARE All-Absorb A26 Male Dog Wrap, 50 Count, Small",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B071HPBSHV",
+   "name": "Amazon Basics Male Dog Wraps (Small, 11.3–13.1 in waist, 30 ct)",
+   "type": "male_wrap",
+   "fit": {
+    "wmin": null,
+    "wmax": 12,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "belly bands?",
+    "male (dog )?wraps?",
+    "dog diapers?"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Disposable male wraps for an 11.3–13.1 inch waist, with a color-changing wetness indicator and fur-safe fasteners.",
+   "caveat": "",
+   "priority": 2,
+   "skip": true,
+   "skip_reason": "Only one article mentions belly bands (Shih Tzu costs), and this 11–13 in waist is too small for a Shih Tzu; HONEY CARE covers that slot.",
+   "short": "https://amzn.to/4jpE94o",
+   "title_raw": "Amazon Basics Leak-Proof, Super Absorbent Male Dog Diapers with Wetness Indicator, Comfortable Design, Breathable Disposable Wrap, Secure Fit, Small, 30 Count",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B089RGDQBB",
+   "name": "Bedsure Orthopedic Bolster Dog Bed (35 x 25 x 6.5 in)",
+   "type": "orthopedic_bed",
+   "fit": {
+    "wmin": 20,
+    "wmax": 50,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "orthopedic (dog |puppy )?beds?",
+    "supportive (dog )?bed(ding)?"
+   ],
+   "exclude_if": [
+    "not (for )?need(ing)? orthopedic",
+    "\\bXL (orthopedic )?(dog )?bed",
+    "chew-resistant (orthopedic )?bed"
+   ],
+   "extra_slugs": [],
+   "blurb": "A bolstered bed with egg-crate foam, a low entry, and a removable machine-washable cover with a waterproof layer.",
+   "caveat": "Check the size chart (this is the 35 x 25 in size); it's egg-crate foam rather than memory foam.",
+   "priority": 1,
+   "skip": false,
+   "notes": "Weight band is an estimate for this bed size; confirm against Bedsure's chart before going live.",
+   "short": "https://amzn.to/3Vnslpl",
+   "title_raw": "Bedsure Orthopedic Dog Beds Large Sized Dog Washable Original Design",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B0B6GLQJMV",
+   "name": "Ring Indoor Cam (1080p, Plug-In)",
+   "type": "pet_camera",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "breed-main",
+    "other"
+   ],
+   "anchors": [
+    "pet camera",
+    "dog camera",
+    "webcam"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A plug-in 1080p indoor camera with Live View, color night vision and motion alerts, so you can see how your dog settles while you're out.",
+   "caveat": "Saved video history needs a Ring Protect subscription.",
+   "priority": 1,
+   "skip": false,
+   "notes": "Anchored on 'webcam' (doodle puppy checklists say to monitor with a webcam); left-alone page dropped (no camera text).",
+   "short": "https://amzn.to/4z4nAzu",
+   "title_raw": "Ring Indoor Cam (newest model) — Home or business security in 1080p HD video, White",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B09B2SBHQK",
+   "name": "Amazon Echo Show 5 (Smart Display with Camera)",
+   "type": "smart_display",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "pet camera",
+    "dog camera"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A 5.5-inch smart display with a built-in camera you can drop in on from the Alexa app to check on your dog.",
+   "caveat": "Needs Wi-Fi and the Alexa app; the Ring camera is the more direct pick for watching a dog.",
+   "priority": 3,
+   "skip": true,
+   "short": "https://amzn.to/46NY8T1",
+   "title_raw": "Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound, Charcoal",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "skip_reason": "Its only page has no camera/monitoring text; the Ring camera covers the webcam pages."
+  },
+  {
+   "asin": "B0DC91H3JK",
+   "name": "Amazon Echo Show 11 (Smart Display)",
+   "type": "smart_display",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "pet camera"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "An 11-inch smart display with a camera and live view of compatible cameras.",
+   "caveat": "",
+   "priority": 2,
+   "skip": true,
+   "skip_reason": "The only fitting page (left-alone) is already served by Ring Indoor Cam and Echo Show 5; an 11-inch kitchen display isn't a dog product and would read as filler.",
+   "short": "https://amzn.to/3TU1iSd",
+   "title_raw": "Amazon Echo Show 11 (newest model), Vibrant Full-HD 11\" display with more viewing area and spatial audio, Designed for Alexa+, Graphite",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B07NLD18RW",
+   "name": "Natural Farm Bully Sticks (6 in)",
+   "type": "chews",
+   "fit": {
+    "wmin": 15,
+    "wmax": 60,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "bully sticks?"
+   ],
+   "exclude_if": [
+    "bully sticks?[^.]{0,40}(high in fat|run high)",
+    "skip rawhide and high-fat chews",
+    "pancreatitis"
+   ],
+   "extra_slugs": [],
+   "blurb": "Six-inch bully sticks made only from beef, giving a dog something acceptable to chew.",
+   "caveat": "Supervise, pick a stick too long to fit whole in your dog's mouth, take it away once it's short enough to swallow, and count it as a calorie-dense treat.",
+   "priority": 1,
+   "skip": false,
+   "short": "https://amzn.to/4ygv4zs",
+   "title_raw": "Natural Farm Odor-Free Bully Sticks for All Breeds, 6 Inch, 25 Count",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B098CCHTYZ",
+   "name": "Natural Farm Bully Sticks for Small Dogs & Puppies (4 in)",
+   "type": "chews",
+   "fit": {
+    "wmin": null,
+    "wmax": 25,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "bully sticks?"
+   ],
+   "exclude_if": [
+    "bully sticks?[^.]{0,40}(high in fat|run high)",
+    "skip rawhide and high-fat chews",
+    "pancreatitis"
+   ],
+   "extra_slugs": [],
+   "blurb": "Four-inch bully sticks sized for small dogs and puppies, made only from beef.",
+   "caveat": "Supervise, pick a stick too long to fit whole in your dog's mouth, take it away once it's short enough to swallow, and count it as a calorie-dense treat.",
+   "priority": 1,
+   "skip": false,
+   "short": "https://amzn.to/4rEMgw9",
+   "title_raw": "Natural Farm 4 Inch Bully Sticks for Small Dogs & Puppies, 10 Count",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B0718YFR4K",
+   "name": "DreamBone Twist Sticks, Rawhide-Free (50 ct)",
+   "type": "chews",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "rawhide-free",
+    "instead of rawhide"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Rawhide-free twist chews made with chicken and vegetables.",
+   "caveat": "",
+   "priority": 2,
+   "skip": true,
+   "skip_reason": "No article recommends rawhide-style chews; the one rawhide mention is a pancreatitis warning (Miniature Schnauzer). Bully sticks already fill the chew slot.",
+   "short": "https://amzn.to/4ymPHtJ",
+   "title_raw": "DreamBone Twist Sticks Rawhide-Free Dog Treats With Real Protein, 50 Count",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B07BVL8TQF",
+   "name": "Good 'n' Fun Triple Flavor Kabobs (24 oz)",
+   "type": "chews",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "rawhide"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Beef-hide and pork-hide chews wrapped in chicken.",
+   "caveat": "",
+   "priority": 2,
+   "skip": true,
+   "skip_reason": "Rawhide-based; the site's only rawhide mention says to skip it, and checklists steer readers to bully sticks/Nylabone.",
+   "short": "https://amzn.to/4hmu5Yv",
+   "title_raw": "Good 'n' Fun Kabobs Long-Lasting Dog Treat Made With Real Protein, 24 oz",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B0CL3WC4MT",
+   "name": "Crinkle Plush Squeaky Toy",
+   "type": "toy",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "plush toys?",
+    "soft toys?",
+    "squeaky toys?",
+    "\\bsqueak(y|er|ers)\\b"
+   ],
+   "exclude_if": [
+    "skip the plush",
+    "plush toys? rarely survive",
+    "destroys soft toys",
+    "soft toys? (quickly|won't last|rarely)",
+    "shelf of squeaky toys",
+    "genuinely tough",
+    "skip (soft )?plush"
+   ],
+   "extra_slugs": [],
+   "blurb": "A plush toy with crinkle material in the legs and a squeaker in the head, for carrying, tossing and gentle play.",
+   "caveat": "Supervise play and take it away once seams start to tear.",
+   "priority": 2,
+   "skip": false,
+   "notes": "Listing title says 'Crinkle Chicken' but bullets describe an octopus; confirm the variant before going live.",
+   "short": "https://amzn.to/47qWjLS",
+   "title_raw": "Best Pet Supplies Interactive Squeaky Dog Toy - Crinkle Chicken, Brown",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B0C15N2QB5",
+   "name": "WOOF Pupsicle Refill Pops, Peanut Butter & Beef (Large, 7 ct)",
+   "type": "lick_refill",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "pupsicle"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Shelf-stable refill pops for the Pupsicle toy.",
+   "caveat": "",
+   "priority": 2,
+   "skip": true,
+   "skip_reason": "Refill only works with the WOOF Pupsicle toy, which no article mentions and which isn't in the link list; recommending it would force readers to buy a second item.",
+   "short": "https://amzn.to/4yi68Yk",
+   "title_raw": "WOOF Pupsicle Peanut Butter & Beef Refill Pops Dog Treats, Large, 7 Count",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B08XY6CFFW",
+   "name": "Blue Buffalo Bits Soft Training Treats, Beef (19 oz)",
+   "type": "training_treats",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "training treats?",
+    "\\bsoft treats\\b",
+    "small,? soft (pieces|treats)",
+    "high-value (soft )?treats"
+   ],
+   "exclude_if": [
+    "high-fat training treats"
+   ],
+   "extra_slugs": [],
+   "blurb": "Soft, bite-size training treats with real beef as the first ingredient, small enough for rapid repetitions.",
+   "caveat": "Keep treats to about 10% of daily calories.",
+   "priority": 1,
+   "skip": false,
+   "short": "https://amzn.to/4z5Iyya",
+   "title_raw": "Blue Buffalo Bits Beef Training Treats, 19 oz",
+   "extra_slug_priority": {},
+   "exclude_slugs": [
+    "japanese-chin-first-year-costs"
+   ]
+  },
+  {
+   "asin": "B0CM6SCSZ9",
+   "name": "Milk-Bone Soft & Chewy Mini's Training Treats (18 oz)",
+   "type": "training_treats",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "training treats?",
+    "\\bsoft treats\\b",
+    "small,? soft (pieces|treats)",
+    "high-value (soft )?treats"
+   ],
+   "exclude_if": [
+    "high-fat training treats"
+   ],
+   "extra_slugs": [],
+   "blurb": "Mini, soft chicken treats sized for frequent rewards during training sessions.",
+   "caveat": "Keep treats to about 10% of daily calories.",
+   "priority": 2,
+   "skip": false,
+   "notes": "Alternate to Blue Buffalo Bits.",
+   "short": "https://amzn.to/47qW9Eg",
+   "title_raw": "Milk-Bone Soft & Chewy Mini's Dog Training Treats, 18 oz Canister",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B08P2D95G8",
+   "name": "Pur Luv Chicken Jerky Treats (16 oz)",
+   "type": "jerky",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "chicken jerky"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Jerky made from real chicken breast with a short ingredient list, a shelf-stable stand-in for the diced-chicken training treats described above.",
+   "caveat": "Break it into small pieces, supervise chewing, and skip it if your dog has a poultry allergy.",
+   "priority": 2,
+   "skip": true,
+   "notes": "Extra-slug only; country of manufacture isn't on the listing, so avoid any 'made in USA' or safety claims.",
+   "short": "https://amzn.to/4AXR18r",
+   "title_raw": "Pur Luv Chicken Jerky Dog Treats,100% Real Chicken Breast, 16 Ounces",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "skip_reason": "can-dogs-eat-chicken-breast never mentions jerky (it recommends homemade diced chicken); 'shelf-stable' and country of origin are not on the listing."
+  },
+  {
+   "asin": "B003PMQMK2",
+   "name": "Milk-Bone MaroSnacks Small (40 oz)",
+   "type": "biscuits",
+   "fit": {
+    "wmin": null,
+    "wmax": 25,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\bbiscuits?\\b",
+    "crunchy treats?"
+   ],
+   "exclude_if": [
+    "rather than commercial biscuits"
+   ],
+   "extra_slugs": [],
+   "blurb": "Small crunchy biscuits with a bone-marrow center, at about 10 calories each.",
+   "caveat": "Keep treats to about 10% of daily calories.",
+   "priority": 3,
+   "skip": true,
+   "short": "https://amzn.to/4e4kljo",
+   "title_raw": "Milk-Bone MaroSnacks Small Dog Treats with Real Bone Marrow, 40 Oz.",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "skip_reason": "The only breed-page anchor is counter-advice (affenpinscher-$ 'rather than commercial biscuits'); elsewhere 'biscuit' is a coat colour."
+  },
+  {
+   "asin": "B0114BNXQ6",
+   "name": "Milk-Bone Flavor Snacks Mini's (36 oz)",
+   "type": "biscuits",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\bbiscuits?\\b",
+    "crunchy treats?"
+   ],
+   "exclude_if": [
+    "rather than commercial biscuits"
+   ],
+   "extra_slugs": [],
+   "blurb": "Mini crunchy biscuits in beef, chicken and bacon flavors at about five calories each, small enough for dogs of any size.",
+   "caveat": "Keep treats to about 10% of daily calories.",
+   "priority": 3,
+   "skip": true,
+   "short": "https://amzn.to/4d8Am7Q",
+   "title_raw": "Milk-Bone Flavor Snacks Mini’s Dog Treats, 36 Oz.",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "skip_reason": "The only breed-page anchor is counter-advice (affenpinscher-$ 'rather than commercial biscuits'); elsewhere 'biscuit' is a coat colour."
+  },
+  {
+   "asin": "B007V9VQ06",
+   "name": "Milk-Bone Original Biscuits, Medium (24 oz)",
+   "type": "biscuits",
+   "fit": {
+    "wmin": 20,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\bbiscuits?\\b",
+    "crunchy treats?"
+   ],
+   "exclude_if": [
+    "rather than commercial biscuits"
+   ],
+   "extra_slugs": [],
+   "blurb": "Classic crunchy biscuits in the medium size, labeled for dogs over 20 pounds.",
+   "caveat": "Keep treats to about 10% of daily calories.",
+   "priority": 3,
+   "skip": true,
+   "short": "https://amzn.to/3VkIfRt",
+   "title_raw": "Milk-Bone Original Biscuits Medium Dog Treats, 24 Oz.",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "skip_reason": "The only breed-page anchor is counter-advice (affenpinscher-$ 'rather than commercial biscuits'); elsewhere 'biscuit' is a coat colour."
+  },
+  {
+   "asin": "B003P9XG68",
+   "name": "Blue Buffalo Health Bars, Pumpkin & Cinnamon (16 oz)",
+   "type": "biscuits",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\bbiscuits?\\b",
+    "crunchy treats?"
+   ],
+   "exclude_if": [
+    "rather than commercial biscuits"
+   ],
+   "extra_slugs": [],
+   "blurb": "Oven-baked crunchy biscuits made with real pumpkin, cinnamon and whole grains.",
+   "caveat": "Keep treats to about 10% of daily calories.",
+   "priority": 3,
+   "skip": true,
+   "short": "https://amzn.to/3TgJ8Ke",
+   "title_raw": "Blue Buffalo Health Bars Pumpkin & Cinnamon Dog Biscuits, 16 oz",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "skip_reason": "The only breed-page anchor is counter-advice (affenpinscher-$ 'rather than commercial biscuits'); elsewhere 'biscuit' is a coat colour."
+  },
+  {
+   "asin": "B001QCKS4O",
+   "name": "Purina Pro Plan Complete Essentials Chicken & Rice (35 lb)",
+   "type": "dry_food",
+   "fit": {
+    "wmin": 25,
+    "wmax": 55,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "costs"
+   ],
+   "anchors": [
+    "Purina Pro Plan is typically",
+    "\\b(25[–-])?(30|35)[- ]?(lb|pound) bag"
+   ],
+   "exclude_if": [
+    "\\bpurines?\\b",
+    "\\burates?\\b",
+    "prescription diet",
+    "low-fat",
+    "rather than transitioning early to adult food",
+    "pupp(y|ies)[^.]{0,60}(formula|food)[^.]{0,40}(until|through)",
+    "performance[- ]formula|working-breed formula|sport(ing)? formula"
+   ],
+   "extra_slugs": [
+    "dog-food-on-a-budget-2026"
+   ],
+   "blurb": "A chicken-first dry dog food mixed with tender shredded pieces and added live probiotics, sold in a 35-lb bag.",
+   "caveat": "Switch foods gradually over 7–10 days.",
+   "priority": 3,
+   "skip": false,
+   "notes": "Priority 1 on dog-food-on-a-budget-2026 (the page names Pro Plan and recommends the largest bag). On breed cost pages it's a weak fit; large/giant breeds excluded because pages call for large-breed formulas. Listing title/bullets never say 'Adult': confirm on the bag before going live.",
+   "short": "https://amzn.to/4hUjEM0",
+   "title_raw": "Purina Pro Plan Complete Essentials Chicken & Rice Dry Dog Food, 35 lb Bag",
+   "extra_slug_priority": {
+    "dog-food-on-a-budget-2026": 1
+   },
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B073PCGRR2",
+   "name": "Purina ONE Chicken & Rice Formula",
+   "type": "dry_food",
+   "fit": {
+    "wmin": 25,
+    "wmax": 55,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "adult (food|kibble|formula)",
+    "mid-tier Purina"
+   ],
+   "exclude_if": [
+    "\\bpurines?\\b",
+    "\\burates?\\b",
+    "prescription diet",
+    "low-fat"
+   ],
+   "extra_slugs": [
+    "dog-food-on-a-budget-2026"
+   ],
+   "blurb": "A real-meat-first dry food that mixes crunchy kibble with tender morsels, with added glucosamine and prebiotic fiber.",
+   "caveat": "Switch foods gradually over 7–10 days.",
+   "priority": 3,
+   "skip": false,
+   "notes": "Budget page only, and only when Pro Plan is not placed there ('mid-tier Purina/Royal Canin/Hill's line').",
+   "short": "https://amzn.to/4hzfAzk",
+   "title_raw": "Purina ONE Chicken and Rice Formula Natural Dog Food",
+   "extra_slug_priority": {
+    "dog-food-on-a-budget-2026": 3
+   },
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B009IOCCD2",
+   "name": "Purina ONE Lamb & Rice Formula",
+   "type": "dry_food",
+   "fit": {
+    "wmin": 25,
+    "wmax": 55,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "adult (food|kibble|formula)"
+   ],
+   "exclude_if": [
+    "\\bpurines?\\b",
+    "\\burates?\\b",
+    "prescription diet",
+    "low-fat"
+   ],
+   "extra_slugs": [],
+   "blurb": "A lamb-first dry food with crunchy kibble and tender morsels, for dogs that do better on a non-chicken protein.",
+   "caveat": "Switch foods gradually over 7–10 days.",
+   "priority": 3,
+   "skip": true,
+   "notes": "Overlaps Purina ONE Chicken & Rice; no article anchors lamb specifically (Dalmatian pages mention lamb only in a low-purine medical context, excluded).",
+   "short": "https://amzn.to/47pvzvb",
+   "title_raw": "Purina ONE Lamb and Rice Formula Dry Dog Food for Digestive Support",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "skip_reason": "No lamb anchor anywhere; 'non-chicken protein' is unsupported (published ingredients include chicken meal) and 'lamb-first' is not in the listing."
+  },
+  {
+   "asin": "B003CL3PTM",
+   "name": "Hill's Science Diet Adult 1–6 Small & Mini",
+   "type": "dry_food",
+   "fit": {
+    "wmin": null,
+    "wmax": 25,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "costs"
+   ],
+   "anchors": [
+    "small[- ]breed (adult )?(kibble|food(?! and water| bowls)|formula|dry food)",
+    "adult small-breed formula"
+   ],
+   "exclude_if": [
+    "\\bpurines?\\b",
+    "\\burates?\\b",
+    "prescription diet"
+   ],
+   "extra_slugs": [],
+   "blurb": "An adult dry food for small and mini breeds, made with ingredients that include pumpkin.",
+   "caveat": "Switch foods gradually over 7–10 days.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/3TYXsHp",
+   "title_raw": "Hill's Science Diet Adult 1-6 Small & Mini Dry Dog Food",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B09K9FDLFN",
+   "name": "Blue Buffalo Life Protection Small Breed Adult, Chicken (5 lb)",
+   "type": "dry_food",
+   "fit": {
+    "wmin": null,
+    "wmax": 25,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "costs"
+   ],
+   "anchors": [
+    "small[- ]breed (adult )?(kibble|food(?! and water| bowls)|formula|dry food)",
+    "adult small-breed formula"
+   ],
+   "exclude_if": [
+    "\\bpurines?\\b",
+    "\\burates?\\b",
+    "prescription diet"
+   ],
+   "extra_slugs": [],
+   "blurb": "A chicken-first small-breed adult formula with brown rice, barley and oatmeal, sold in a 5-lb bag.",
+   "caveat": "Switch foods gradually over 7–10 days.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/3VewX17",
+   "title_raw": "Blue Buffalo Life Protection Formula Chicken Small Breed Dry Dog Food, 5 lb",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B09K8YYVWV",
+   "name": "Blue Buffalo Life Protection Adult, Chicken (5 lb)",
+   "type": "dry_food",
+   "fit": {
+    "wmin": 25,
+    "wmax": 55,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "adult (food|kibble|formula)"
+   ],
+   "exclude_if": [
+    "\\bpurines?\\b",
+    "\\burates?\\b",
+    "prescription diet",
+    "low-fat"
+   ],
+   "extra_slugs": [],
+   "blurb": "A chicken-first adult dry food with brown rice, barley and oatmeal, sold in a 5-lb bag.",
+   "caveat": "Switch foods gradually over 7–10 days.",
+   "priority": 3,
+   "skip": true,
+   "notes": "5-lb bag is a trial size for a medium dog; weakest of the foods.",
+   "short": "https://amzn.to/4AzWi5D",
+   "title_raw": "Blue Buffalo Life Protection Formula Chicken Adult Dry Dog Food, 5 lb",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "skip_reason": "page_types [] per review and it has no extra page, so there is nowhere left to place it."
+  },
+  {
+   "asin": "B08294GHXY",
+   "name": "Pedigree Choice Cuts in Gravy Pouches, Variety (30 ct)",
+   "type": "wet_food",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "(kong|toy)[^.]{0,40}(stuffed|filled) with[^.]{0,30}wet food"
+   ],
+   "exclude_if": [
+    "avoid (soft or )?wet food",
+    "wet food is the worst"
+   ],
+   "extra_slugs": [],
+   "blurb": "Complete-and-balanced wet food pouches for adult dogs that also work as a topper or a Kong filling.",
+   "caveat": "Puppies need a food labeled for growth.",
+   "priority": 3,
+   "skip": true,
+   "notes": "Only 1 honest anchor (German Pinscher checklist: Kong stuffed with wet food). Other wet-food mentions discourage it.",
+   "short": "https://amzn.to/3VaUxvJ",
+   "title_raw": "Pedigree Choice Cuts Wet Dog Food Pouch, Protein Variety, 3.5 oz, 30 Count",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "skip_reason": "Only placement was a puppy Kong on german-pinscher-CK, and the product is complete and balanced for adult dogs."
+  },
+  {
+   "asin": "B071J1BFTX",
+   "name": "Cesar Classic Loaf in Sauce, Meaty Selects (36 ct)",
+   "type": "wet_food",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "wet food"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Single-serve wet food trays for adult dogs.",
+   "caveat": "",
+   "priority": 2,
+   "skip": true,
+   "skip_reason": "No article recommends wet food (the two mentions discourage it), and it's marketed as formulated without grains, which sits awkwardly with the site's grain-inclusive guidance on dog-food-on-a-budget-2026.",
+   "short": "https://amzn.to/4xTnnhA",
+   "title_raw": "Cesar Classic Loaf in Sauce Wet Dog Food, Meaty Selects, 3.5 oz, 36 Count",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B003ULL1NQ",
+   "name": "Nutramax Cosequin Chewable Tablets (132 ct)",
+   "type": "joint_supplement",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "(start(ing)?|begin(ning)?|add(ing)?|giv(e|ing))[^.]{0,30}joint supplements?(?![^.]{0,80}(NSAID|anti-?inflammator|surgery|surgical|physical therapy|a year|per year|/year))",
+    "long-term joint supplement"
+   ],
+   "exclude_if": [
+    "no giant-breed joint supplement"
+   ],
+   "extra_slugs": [],
+   "blurb": "Chewable tablets combining glucosamine, chondroitin and MSM, labeled for dogs of any breed or size.",
+   "caveat": "A supplement, not a treatment for hip dysplasia or arthritis; ask your vet whether it fits your dog's plan, especially alongside NSAIDs or other medication.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/4d6PXEU",
+   "title_raw": "Nutramax Cosequin Joint Supplement for Dogs, Chewable Tablets, 132ct",
+   "extra_slug_priority": {},
+   "exclude_slugs": [
+    "dachshund-first-year-costs"
+   ]
+  },
+  {
+   "asin": "B0081KTPQQ",
+   "name": "Nutramax Dasuquin with MSM, Large Dogs (150 soft chews)",
+   "type": "joint_supplement",
+   "fit": {
+    "wmin": 60,
+    "wmax": null,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "(start(ing)?|begin(ning)?|add(ing)?|giv(e|ing))[^.]{0,30}joint supplements?(?![^.]{0,80}(NSAID|anti-?inflammator|surgery|surgical|physical therapy|a year|per year|/year))",
+    "long-term joint supplement"
+   ],
+   "exclude_if": [
+    "no giant-breed joint supplement"
+   ],
+   "extra_slugs": [],
+   "blurb": "Soft chews for large dogs that pair glucosamine, chondroitin and MSM with ASU, boswellia and green tea extract.",
+   "caveat": "A supplement, not a treatment for hip dysplasia or arthritis; ask your vet whether it fits your dog's plan, especially alongside NSAIDs or other medication. Follow the label's dosing by weight.",
+   "priority": 2,
+   "skip": false,
+   "notes": "wmin 60 reflects Nutramax's usual large-dog cutoff; the scraped bullets only say 'Large Dogs'. Confirm on the box.",
+   "short": "https://amzn.to/4hz0NES",
+   "title_raw": "Nutramax Dasuquin MSM Joint Supplement for Large Dogs, Soft Chews, 150ct",
+   "extra_slug_priority": {},
+   "exclude_slugs": [
+    "dachshund-first-year-costs"
+   ]
+  },
+  {
+   "asin": "B0C1HG6XC8",
+   "name": "Wuffes Advanced Hip & Joint Chews, Small & Medium Breeds (60 ct)",
+   "type": "joint_supplement",
+   "fit": {
+    "wmin": null,
+    "wmax": 50,
+    "life_stage": "adult",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "(start(ing)?|begin(ning)?|add(ing)?|giv(e|ing))[^.]{0,30}joint supplements?(?![^.]{0,80}(NSAID|anti-?inflammator|surgery|surgical|physical therapy|a year|per year|/year))",
+    "long-term joint supplement"
+   ],
+   "exclude_if": [
+    "no giant-breed joint supplement"
+   ],
+   "extra_slugs": [],
+   "blurb": "Chews for small and medium breeds with glucosamine, chondroitin, MSM, green-lipped mussel and hyaluronic acid.",
+   "caveat": "A supplement, not a treatment for hip dysplasia or arthritis; ask your vet whether it fits your dog's plan, especially alongside NSAIDs or other medication. Follow the label's dosing by weight. Contains green-lipped mussel (shellfish) and pork.",
+   "priority": 2,
+   "skip": false,
+   "notes": "wmax 50 is an estimate of 'small & medium'; the listing gives no number.",
+   "short": "https://amzn.to/3TrKlOU",
+   "title_raw": "Wuffes Advanced Hip & Joint Chews for Small & Medium Breed Dogs, Vet Recommended, Glucosamine, Chondroitin, MSM, Green-Lipped Mussel & Hyaluronic Acid Supplement, Supports Mobility, 60 Pork Chews",
+   "extra_slug_priority": {},
+   "exclude_slugs": [
+    "dachshund-first-year-costs"
+   ]
+  },
+  {
+   "asin": "B0CXKNLKMX",
+   "name": "Zesty Paws Wild Alaskan Salmon Oil (8.5 oz)",
+   "type": "fish_oil",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming"
+   ],
+   "anchors": [
+    "fish oil",
+    "salmon oil",
+    "omega-3 (and omega-6 )?(fatty acid )?supplement(s|ation)?"
+   ],
+   "exclude_if": [
+    "folliculitis"
+   ],
+   "extra_slugs": [
+    "can-dogs-eat-salmon"
+   ],
+   "blurb": "A pump-bottle salmon oil that adds EPA and DHA omega-3s to your dog's regular food.",
+   "caveat": "Ask your vet how much to give for your dog's weight.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/4hlAMdn",
+   "title_raw": "Zesty Paws Salmon Oil for Dogs & Cats - Omega 3 for Dogs 8.5oz",
+   "extra_slug_priority": {
+    "can-dogs-eat-salmon": 2,
+    "can-dogs-eat-coconut": 3
+   },
+   "exclude_slugs": [
+    "doberman-pinscher-grooming-guide"
+   ]
+  },
+  {
+   "asin": "B08R589VZ2",
+   "name": "Native Pet Omega-3 Fish Oil (8 oz)",
+   "type": "fish_oil",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming"
+   ],
+   "anchors": [
+    "fish oil",
+    "salmon oil",
+    "omega-3 (and omega-6 )?(fatty acid )?supplement(s|ation)?"
+   ],
+   "exclude_if": [
+    "folliculitis"
+   ],
+   "extra_slugs": [
+    "can-dogs-eat-salmon"
+   ],
+   "blurb": "A pump-bottle blend of wild Alaskan salmon and pollock oil that you add to your dog's food.",
+   "caveat": "Ask your vet how much to give, especially for puppies or nursing dogs.",
+   "priority": 2,
+   "skip": false,
+   "notes": "Alternate to Zesty Paws salmon oil.",
+   "short": "https://amzn.to/4jv8JJU",
+   "title_raw": "Native Pet Omega 3 Fish Oil for Dogs & Cats – Wild Alaskan Salmon Oil for Dogs Skin and Coat, Supports Joints, Heart & Shedding – Fast-Absorbing Omega 3 6 9 Liquid Supplement – 8oz",
+   "extra_slug_priority": {
+    "can-dogs-eat-salmon": 2
+   },
+   "exclude_slugs": [
+    "doberman-pinscher-grooming-guide"
+   ]
+  },
+  {
+   "asin": "B001650NNW",
+   "name": "Purina Pro Plan Veterinary Supplements FortiFlora",
+   "type": "probiotic",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "probiotic (supplement|supplementation|powder)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [
+    "can-dogs-eat-yogurt"
+   ],
+   "blurb": "A probiotic powder from Purina's veterinary line, labeled for the dietary management of puppies and adult dogs with diarrhea.",
+   "caveat": "Call your vet if diarrhea lasts more than a day or two, or comes with vomiting, blood or lethargy.",
+   "priority": 3,
+   "skip": false,
+   "short": "https://amzn.to/4AUIQJY",
+   "title_raw": "Purina Pro Plan Veterinary Supplements FortiFlora Dog Probiotic Supplement",
+   "extra_slug_priority": {
+    "can-dogs-eat-yogurt": 3
+   },
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B0050JM626",
+   "name": "Nutramax Proviable Probiotic Sprinkle Capsules (30 ct)",
+   "type": "probiotic",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "probiotic (supplement|supplementation|powder)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [
+    "can-dogs-eat-yogurt"
+   ],
+   "blurb": "Sprinkle capsules with multiple probiotic strains plus prebiotics; open one and mix the powder into food.",
+   "caveat": "Ask your vet before starting, especially if your dog has a diagnosed condition or takes other medication.",
+   "priority": 3,
+   "skip": false,
+   "notes": "Alternate to FortiFlora.",
+   "short": "https://amzn.to/4AGy4qn",
+   "title_raw": "Nutramax Proviable Probiotics for Dogs & Cats, Sprinkle Capsules, 30ct",
+   "extra_slug_priority": {
+    "can-dogs-eat-yogurt": 3
+   },
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B071WCV19B",
+   "name": "Zesty Paws Allergy Immune Chews, Lamb (90 ct)",
+   "type": "allergy_supplement",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "allergy supplement"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Chews with EpiCor, colostrum, salmon oil and probiotics.",
+   "caveat": "",
+   "priority": 2,
+   "skip": true,
+   "skip_reason": "Sold on 'allergy relief' and itch-relief claims we can't support; no article recommends an OTC allergy supplement (0 anchor hits), and the site routes itchy or allergic dogs to the vet.",
+   "short": "https://amzn.to/4rNAKyv",
+   "title_raw": "Zesty Paws Dog Allergy Chews - Dog Allergy Relief, Lamb, 90 Ct",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B07121B839",
+   "name": "Zesty Paws 8-in-1 Multivitamin Bites, Chicken (90 ct)",
+   "type": "multivitamin",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "multivitamin"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Multifunction supplement chews.",
+   "caveat": "",
+   "priority": 2,
+   "skip": true,
+   "skip_reason": "0 anchor hits; dog-food-on-a-budget-2026 says any complete-and-balanced food already meets requirements, and the listing's 8-in-1 health claims (heart, liver, immune) aren't something we can back.",
+   "short": "https://amzn.to/3Vm3xhw",
+   "title_raw": "Zesty Paws Dog Vitamins - Dog Multivitamin Chews, Chicken, 90 Ct",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  }
+ ],
+ "size_variants": [
+  {
+   "group": "frontline_plus",
+   "type": "flea_tick_topical",
+   "pick": "band that fully contains the breed's weight range (costs pages only)",
+   "members": [
+    {
+     "asin": "B00008DFGY",
+     "wmin": 5,
+     "wmax": 22
+    },
+    {
+     "asin": "B0002J1FN0",
+     "wmin": 23,
+     "wmax": 44
+    },
+    {
+     "asin": "B0002J1FOE",
+     "wmin": 45,
+     "wmax": 88
+    },
+    {
+     "asin": "B0002J1FP8",
+     "wmin": 89,
+     "wmax": 132
+    }
+   ],
+   "non_breed_default": "B0002J1FN0",
+   "note": "Breeds whose range spans two bands, multi-size breeds and hairless breeds get no FRONTLINE link."
+  },
+  {
+   "group": "dental_chews",
+   "type": "dental_chew",
+   "pick": "band that fully contains the breed's weight range; multi-size breeds skipped",
+   "members": [
+    {
+     "asin": "B000KAHPZ8",
+     "wmin": 5,
+     "wmax": 15
+    },
+    {
+     "asin": "B006W6YHHI",
+     "wmin": 25,
+     "wmax": 50
+    },
+    {
+     "asin": "B00CU2CMOI",
+     "wmin": 40,
+     "wmax": null
+    }
+   ],
+   "gap": "15–25 lb dogs have no correct size (Greenies Petite missing); dogs under 5 lb also uncovered."
+  },
+  {
+   "group": "bully_sticks",
+   "type": "chews",
+   "pick": "4 in when the breed's whole range is <=25 lb, 6 in when it sits within 15-60 lb",
+   "members": [
+    {
+     "asin": "B098CCHTYZ",
+     "wmin": null,
+     "wmax": 25
+    },
+    {
+     "asin": "B07NLD18RW",
+     "wmin": 15,
+     "wmax": 60
+    }
+   ]
+  },
+  {
+   "group": "joint_supplements",
+   "type": "joint_supplement",
+   "pick": "costs pages only; Wuffes if the breed range is within <=50 lb, Dasuquin if within >=60 lb, Cosequin otherwise",
+   "members": [
+    {
+     "asin": "B0C1HG6XC8",
+     "wmin": null,
+     "wmax": 50
+    },
+    {
+     "asin": "B0081KTPQQ",
+     "wmin": 60,
+     "wmax": null
+    },
+    {
+     "asin": "B003ULL1NQ",
+     "wmin": null,
+     "wmax": null
+    }
+   ]
+  },
+  {
+   "group": "ruffwear_harness",
+   "type": "harness",
+   "pick": "costs pages only; Front Range M if the breed range is within 30-65 lb, Flagline L/XL within 55-120 lb (lift/support/sturdy-harness anchors only)",
+   "members": [
+    {
+     "asin": "B0CLB4ZBWF",
+     "wmin": 30,
+     "wmax": 65
+    },
+    {
+     "asin": "B09MSKV26K",
+     "wmin": 55,
+     "wmax": 120
+    }
+   ],
+   "gap": "No harness for dogs under ~30 lb (many toy/small checklists ask for one)."
+  },
+  {
+   "group": "male_wraps",
+   "type": "male_wrap",
+   "pick": "by waist size",
+   "members": [
+    {
+     "asin": "B071HPBSHV",
+     "waist_in": "11.3–13.1",
+     "skipped": true
+    },
+    {
+     "asin": "B07C22NTL4",
+     "waist_in": "12–19"
+    }
+   ]
+  },
+  {
+   "group": "small_breed_food",
+   "type": "dry_food",
+   "pick": "costs pages only; rotate; breed range must be within <=25 lb",
+   "members": [
+    {
+     "asin": "B003CL3PTM"
+    },
+    {
+     "asin": "B09K9FDLFN"
+    }
+   ]
+  }
+ ],
+ "alternatives": [
+  {
+   "type": "enzymatic_cleaner",
+   "asins": [
+    "B071W6CQ7S",
+    "B00CKFL93K"
+   ],
+   "rule": "one per page; rotate, except pages naming Nature's Miracle get B071W6CQ7S (Rocco & Roxie excludes them)"
+  },
+  {
+   "type": "training_treats",
+   "asins": [
+    "B08XY6CFFW",
+    "B0CM6SCSZ9"
+   ],
+   "rule": "one per page; puppy checklists get Blue Buffalo Bits only (Milk-Bone Soft & Chewy is adult-only until the label confirms puppies)"
+  },
+  {
+   "type": "fish_oil",
+   "asins": [
+    "B0CXKNLKMX",
+    "B08R589VZ2"
+   ],
+   "rule": "one per page; rotate"
+  },
+  {
+   "type": "probiotic",
+   "asins": [
+    "B001650NNW",
+    "B0050JM626"
+   ],
+   "rule": "can-dogs-eat-yogurt only: FortiFlora first, Proviable as the alternate"
+  },
+  {
+   "type": "leash",
+   "asins": [
+    "B0C2PTSL6H",
+    "B08S3MZ5SR",
+    "B098TT3KCJ"
+   ],
+   "rule": "Joytale >=40 lb (6 ft pages), Fida >=30 lb (4 ft pages), Wild One otherwise"
+  },
+  {
+   "type": "flea_tick",
+   "asins": [
+    "B00B8CG602",
+    "frontline_plus group"
+   ],
+   "rule": "one per page; costs pages only; Seresto only when the breed's whole range is over 18 lb"
+  },
+  {
+   "type": "dry_food_adult",
+   "asins": [
+    "B001QCKS4O",
+    "B073PCGRR2"
+   ],
+   "rule": "at most one food per page; Purina ONE only on dog-food-on-a-budget-2026 and only if Pro Plan is not placed there"
+  },
+  {
+   "type": "brush_order",
+   "asins": [
+    "B07P2N8HQH",
+    "B00KAKFR7Q"
+   ],
+   "rule": "on rake-first pages link the rake, not the slicker",
+   "slugs": [
+    "pembroke-welsh-corgi-grooming-guide",
+    "siberian-husky-grooming-guide",
+    "labrador-retriever-grooming-guide",
+    "polish-lowland-sheepdog-first-year-costs",
+    "shiba-inu-first-year-costs"
+   ]
+  }
+ ]
+}

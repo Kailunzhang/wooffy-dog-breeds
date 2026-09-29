@@ -7,10 +7,10 @@
 
 | Type | Count |
 |------|-------|
-| Breed guides | 277 |
+| Breed guides | 279 |
 | Supporting articles | 493 |
 | Roundup articles | 61 |
-| **Total** | **831** |
+| **Total** | **833** |
 
 ---
 
@@ -901,6 +901,11 @@
 | Chow Chow First Year Costs | ✅ Live | [/blogs/dog-breeds/chow-chow-first-year-costs](https://thewooffy.com/blogs/dog-breeds/chow-chow-first-year-costs) |
 | Chow Chow Grooming Guide | ✅ Live | [/blogs/dog-breeds/chow-chow-grooming-guide](https://thewooffy.com/blogs/dog-breeds/chow-chow-grooming-guide) |
 | Chow Chow Puppy Checklist | ✅ Live | [/blogs/dog-breeds/chow-chow-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/chow-chow-puppy-checklist) |
+
+### Christmas Dog Safety: What's Actually Dangerous and What to Do *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Christmas Dog Safety: What's Actually Dangerous and What to Do | ✅ Live | [/blogs/dog-breeds/christmas-dog-safety](https://thewooffy.com/blogs/dog-breeds/christmas-dog-safety) |
 
 ### Clumber Spaniel *(Sporting Group · Large Breed)*
 | Article | Status | URL |
@@ -1819,6 +1824,11 @@
 | Swedish Vallhund First Year Costs | ✅ Live | [/blogs/dog-breeds/swedish-vallhund-first-year-costs](https://thewooffy.com/blogs/dog-breeds/swedish-vallhund-first-year-costs) |
 | Swedish Vallhund Grooming Guide | ✅ Live | [/blogs/dog-breeds/swedish-vallhund-grooming-guide](https://thewooffy.com/blogs/dog-breeds/swedish-vallhund-grooming-guide) |
 | Swedish Vallhund Puppy Checklist | ✅ Live | [/blogs/dog-breeds/swedish-vallhund-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/swedish-vallhund-puppy-checklist) |
+
+### Thanksgiving Dog Safety: What Dogs Can Eat, What's Dangerous and What to Do *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Thanksgiving Dog Safety: What Dogs Can Eat, What's Dangerous and What to Do | ✅ Live | [/blogs/dog-breeds/thanksgiving-dog-safety](https://thewooffy.com/blogs/dog-breeds/thanksgiving-dog-safety) |
 
 ### Tibetan Mastiff *(Working · Giant)*
 | Article | Status | URL |
