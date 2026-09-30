@@ -7,10 +7,10 @@
 
 | Type | Count |
 |------|-------|
-| Breed guides | 282 |
+| Breed guides | 285 |
 | Supporting articles | 493 |
 | Roundup articles | 61 |
-| **Total** | **836** |
+| **Total** | **839** |
 
 ---
 
@@ -173,6 +173,11 @@
 | Anatolian Shepherd Dog First Year Costs | ✅ Live | [/blogs/dog-breeds/anatolian-shepherd-dog-first-year-costs](https://thewooffy.com/blogs/dog-breeds/anatolian-shepherd-dog-first-year-costs) |
 | Anatolian Shepherd Grooming: Brush Daily + Trim Every 6–8 Weeks | ✅ Live | [/blogs/dog-breeds/anatolian-shepherd-dog-grooming-guide](https://thewooffy.com/blogs/dog-breeds/anatolian-shepherd-dog-grooming-guide) |
 | Anatolian Shepherd Dog Puppy Checklist | ✅ Live | [/blogs/dog-breeds/anatolian-shepherd-dog-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/anatolian-shepherd-dog-puppy-checklist) |
+
+### How to Help a Dog With Arthritis at Home: A Room-by-Room Setup *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| How to Help a Dog With Arthritis at Home: A Room-by-Room Setup | ✅ Live | [/blogs/dog-breeds/arthritis-in-dogs-home-setup](https://thewooffy.com/blogs/dog-breeds/arthritis-in-dogs-home-setup) |
 
 ### Aussiedoodle *(Designer Crossbreed · Medium to Large Breed)*
 | Article | Status | URL |
@@ -968,10 +973,20 @@
 | Doberman Pinscher Grooming Guide | ✅ Live | [/blogs/dog-breeds/doberman-pinscher-grooming-guide](https://thewooffy.com/blogs/dog-breeds/doberman-pinscher-grooming-guide) |
 | Doberman Pinscher Puppy Checklist | ✅ Live | [/blogs/dog-breeds/doberman-pinscher-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/doberman-pinscher-puppy-checklist) |
 
+### Dog Years to Human Years: A Chart by Size, and What the Number Means *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Dog Years to Human Years: A Chart by Size, and What the Number Means | ✅ Live | [/blogs/dog-breeds/dog-age-in-human-years](https://thewooffy.com/blogs/dog-breeds/dog-age-in-human-years) |
+
 ### Every Dog Breed We Cover: A–Z Directory *( · )*
 | Article | Status | URL |
 |---------|--------|-----|
 | Every Dog Breed We Cover: A–Z Directory | ✅ Live | [/blogs/dog-breeds/dog-breeds-a-z](https://thewooffy.com/blogs/dog-breeds/dog-breeds-a-z) |
+
+### Dog Dementia (Canine Cognitive Dysfunction): Signs, Stages and How to Help *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Dog Dementia (Canine Cognitive Dysfunction): Signs, Stages and How to Help | ✅ Live | [/blogs/dog-breeds/dog-dementia-cognitive-dysfunction](https://thewooffy.com/blogs/dog-breeds/dog-dementia-cognitive-dysfunction) |
 
 ### Dog Food on a Budget 2026: How to Feed Well for Less Without Cutting Corners *(Dog Nutrition & Budget · Guide)*
 | Article | Status | URL |
