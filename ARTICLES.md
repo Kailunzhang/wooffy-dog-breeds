@@ -7,10 +7,10 @@
 
 | Type | Count |
 |------|-------|
-| Breed guides | 285 |
+| Breed guides | 289 |
 | Supporting articles | 493 |
 | Roundup articles | 61 |
-| **Total** | **839** |
+| **Total** | **843** |
 
 ---
 
@@ -941,6 +941,11 @@
 | Collie Grooming Guide | ✅ Live | [/blogs/dog-breeds/collie-grooming-guide](https://thewooffy.com/blogs/dog-breeds/collie-grooming-guide) |
 | Collie Puppy Checklist | ✅ Live | [/blogs/dog-breeds/collie-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/collie-puppy-checklist) |
 
+### Coping With the Loss of a Dog: What Grief Looks Like and What Helps *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Coping With the Loss of a Dog: What Grief Looks Like and What Helps | ✅ Live | [/blogs/dog-breeds/coping-with-the-loss-of-a-dog](https://thewooffy.com/blogs/dog-breeds/coping-with-the-loss-of-a-dog) |
+
 ### Coton de Tulear *(Non-Sporting · Small)*
 | Article | Status | URL |
 |---------|--------|-----|
@@ -1002,6 +1007,11 @@
 | Article | Status | URL |
 |---------|--------|-----|
 | Dog Health Guides: Start Here | ✅ Live | [/blogs/dog-breeds/dog-health-guides](https://thewooffy.com/blogs/dog-breeds/dog-health-guides) |
+
+### Dog Quality of Life Scale (HHHHHMM): Printable Scoring Guide *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Dog Quality of Life Scale (HHHHHMM): Printable Scoring Guide | ✅ Live | [/blogs/dog-breeds/dog-quality-of-life-scale](https://thewooffy.com/blogs/dog-breeds/dog-quality-of-life-scale) |
 
 ### Dog Tick Prevention & Lyme Disease Guide 2026 *(Dog Health & Prevention · Guide)*
 | Article | Status | URL |
@@ -1139,6 +1149,11 @@
 | German Wirehaired Pointer First Year Costs | ✅ Live | [/blogs/dog-breeds/german-wirehaired-pointer-first-year-costs](https://thewooffy.com/blogs/dog-breeds/german-wirehaired-pointer-first-year-costs) |
 | German Wirehaired Pointer Grooming Guide | ✅ Live | [/blogs/dog-breeds/german-wirehaired-pointer-grooming-guide](https://thewooffy.com/blogs/dog-breeds/german-wirehaired-pointer-grooming-guide) |
 | German Wirehaired Pointer Puppy Checklist | ✅ Live | [/blogs/dog-breeds/german-wirehaired-pointer-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/german-wirehaired-pointer-puppy-checklist) |
+
+### Getting Another Dog After a Loss: How to Know You're Ready *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| Getting Another Dog After a Loss: How to Know You're Ready | ✅ Live | [/blogs/dog-breeds/getting-another-dog-after-loss](https://thewooffy.com/blogs/dog-breeds/getting-another-dog-after-loss) |
 
 ### Giant Schnauzer *(Working Group · Large Breed)*
 | Article | Status | URL |
@@ -1956,6 +1971,11 @@
 | Article | Status | URL |
 |---------|--------|-----|
 | When Is Pavement Too Hot for Dog Paws? The 7-Second Test + Safety Guide | ✅ Live | [/blogs/dog-breeds/when-is-pavement-too-hot-for-dogs](https://thewooffy.com/blogs/dog-breeds/when-is-pavement-too-hot-for-dogs) |
+
+### When to Euthanize a Dog: Signs It May Be Time, and What Happens *( · )*
+| Article | Status | URL |
+|---------|--------|-----|
+| When to Euthanize a Dog: Signs It May Be Time, and What Happens | ✅ Live | [/blogs/dog-breeds/when-to-euthanize-a-dog](https://thewooffy.com/blogs/dog-breeds/when-to-euthanize-a-dog) |
 
 ### Whippet *(Hound Group · Medium Breed)*
 | Article | Status | URL |
