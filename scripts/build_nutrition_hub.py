@@ -22,11 +22,14 @@ import sys
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 BD = os.path.join(ROOT, "breed-data")
 HUB_SLUG = "what-can-dogs-eat"
-# Seasonal pointer shown under the NEVER FEED box; swap per holiday or set to "".
+# Holiday pointer shown under the NEVER FEED box (covers all three holiday guides, so it
+# doesn't need swapping per season); set to "" to hide it.
 SEASONAL_NOTE = ('<p class="wfy-seasonal" style="margin:-10px 0 26px;font-size:15px;line-height:1.6;">'
-                 '<strong>Halloween:</strong> candy bowls, sugar-free treats and decorations bring '
-                 'their own risks &mdash; see <a href="/blogs/dog-health/halloween-dog-safety">'
-                 'Halloween dog safety: what&rsquo;s dangerous and what to do</a>.</p>')
+                 '<strong>Holiday safety guides:</strong> '
+                 '<a href="/blogs/dog-health/halloween-dog-safety">Halloween</a> &middot; '
+                 '<a href="/blogs/dog-health/thanksgiving-dog-safety">Thanksgiving</a> &middot; '
+                 '<a href="/blogs/dog-health/christmas-dog-safety">Christmas</a> &mdash; '
+                 'the foods, decorations and busy-house risks that come with each.</p>')
 HERO_SEED = os.path.join(
     "C:/Users/kailu/AppData/Local/Temp/claude/C--Users-kailu",
     "e909ce54-ab0a-40e7-acc8-539b75b3b0c8/scratchpad/hub_heroes.json",
