@@ -98,7 +98,7 @@
     "intro": {
       "label": "Overview",
       "heading": "What Is a Staffordshire Bull Terrier?",
-      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Staffordshire Bull Terrier is a compact, muscular terrier from the English Midlands, developed in the 19th century from Bulldog and terrier crosses. The breed's working origins are in bull-baiting and later dog fighting — but the temperament that emerged from those uses was the opposite of aggression toward people: a dog that had to be handled, broken apart in fights, and managed closely by humans developed an intense bond with people and particular gentleness toward children.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The \"nanny dog\" nickname isn't marketing — it's a long-standing description in the UK that reflects the Stafford's genuine character with family, especially children. They are energetic, devoted, and physically enthusiastic in their affection in a way that can knock over small children simply from joy.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Two important practical notes: First, all Staffords should be DNA tested for Hereditary Cataracts (HC) and L-2-Hydroxyglutaric Aciduria (L2HGA) — both parents must be clear. Second, Breed Specific Legislation (BSL) applies to Staffords or similar-looking dogs in certain jurisdictions, including some countries outright. Check your local laws before purchasing.</p>"
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The Staffordshire Bull Terrier is a compact, muscular terrier from the English Midlands, developed in the 19th century from Bulldog and terrier crosses. The breed's working origins are in bull-baiting and later dog fighting — but the temperament that emerged from those uses was the opposite of aggression toward people: a dog that had to be handled, broken apart in fights, and managed closely by humans developed an intense bond with people and particular gentleness toward children.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">The \"nanny dog\" nickname is a popular one in the UK, earned by the breed's well-documented love of children (<a href=\"https://www.bluecross.org.uk/story/do-staffordshire-bull-terriers-make-good-family-pets\" target=\"_blank\" rel=\"noopener\" style=\"color:#1a1a1a;font-weight:600;text-decoration:underline;text-underline-offset:3px;\">Blue Cross</a>) — but it's a nickname, not a job description: no dog of any breed should be left in charge of children. They are energetic, devoted, and physically enthusiastic in their affection in a way that can knock over small children simply from joy.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">Two important practical notes: First, all Staffords should be DNA tested for Hereditary Cataracts (HC) and L-2-Hydroxyglutaric Aciduria (L2HGA) — both parents must be clear. Second, Breed Specific Legislation (BSL) applies to Staffords or similar-looking dogs in certain jurisdictions, including some countries outright. Check your local laws before purchasing.</p>"
     },
     "appearance": {
       "label": "Physical",
@@ -108,7 +108,7 @@
     "temperament": {
       "label": "Personality",
       "heading": "Temperament",
-      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family: intensely devoted, physically affectionate, and socially hungry. Staffords want to be with their people at all times. They are not aloof, not independent in the spitz or sighthound sense — they are actively oriented toward human contact and suffer genuinely from extended isolation.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With children: the nanny dog reputation holds. Well-socialized Staffords are typically patient, gentle, and playful with children in their family. Supervision is always appropriate with any dog and any child, but Staffords are among the breeds specifically noted for tolerance of child handling.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With other dogs: this is where caution is required. Adult Staffords — particularly intact males — can be dog-selective or dog-aggressive. Early socialization helps but does not eliminate the tendency entirely. They are often fine with dogs they know well and trickier with unfamiliar dogs. Dog parks are a managed risk with this breed, not a given.</p>"
+      "html": "<p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With family: intensely devoted, physically affectionate, and socially hungry. Staffords want to be with their people at all times. They are not aloof, not independent in the spitz or sighthound sense — they are actively oriented toward human contact and suffer genuinely from extended isolation.</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;\">With children: the UK Kennel Club breed standard describes the Stafford as \"affectionate especially with children\" (<a href=\"https://www.royalkennelclub.com/breed-standards/terrier/staffordshire-bull-terrier/\" target=\"_blank\" rel=\"noopener\" style=\"color:#1a1a1a;font-weight:600;text-decoration:underline;text-underline-offset:3px;\">Kennel Club breed standard</a>), and well-socialized Staffords are typically patient, gentle, and playful with children in their family. That is where the \"nanny dog\" nickname comes from, but it is not a reason to relax: supervision is essential, and dogs of all breeds and children should not be left alone together when you can't actively supervise (<a href=\"https://www.bluecross.org.uk/advice/dog/keeping-your-family-dog-and-visiting-children-safe\" target=\"_blank\" rel=\"noopener\" style=\"color:#1a1a1a;font-weight:600;text-decoration:underline;text-underline-offset:3px;\">Blue Cross</a>).</p><p style=\"font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;\">With other dogs: this is where caution is required. Adult Staffords — particularly intact males — can be dog-selective or dog-aggressive. Early socialization helps but does not eliminate the tendency entirely. They are often fine with dogs they know well and trickier with unfamiliar dogs. Dog parks are a managed risk with this breed, not a given.</p>"
     },
     "mikes_take": {
       "label": "A Realistic Take",
@@ -141,12 +141,11 @@
         "Owners who want a low-maintenance coat with a highly social personality"
       ],
       "not_fit": [
-        "You travel often or have unpredictable hours — Staffordshire Bull Terriers do best with consistent 45–60 min of daily exercise from the same handler",
+        "You travel often, have unpredictable hours, or want a dog comfortable being left alone for long hours — Staffordshire Bull Terriers are intensely people-oriented and do best with consistent 45–60 min of daily exercise from the same handler",
         "You're getting your first dog without doing breed-specific research — Staffordshire Bull Terriers have quirks that catch unprepared owners off-guard",
         "Households in jurisdictions with BSL that restricts or prohibits this breed type",
         "Multi-dog households expecting the dogs to manage themselves without supervision",
-        "People buying from breeders who cannot provide HC and L2HGA DNA clearances",
-        "Owners who want an independent dog comfortable being left alone for long hours"
+        "People buying from breeders who cannot provide HC and L2HGA DNA clearances"
       ]
     },
     "finding": {
@@ -158,7 +157,7 @@
   "faq": [
     {
       "q": "Are Staffordshire Bull Terriers dangerous?",
-      "a": "To humans — no, and the characterization is inaccurate. The breed was historically handled closely by humans and is noted for human-directed affection, not aggression. To other dogs — adult Staffords can be dog-selective or dog-aggressive, which requires management. BSL is based on physical appearance, not behavioral data. Well-bred, well-socialized Staffords are among the more reliably human-friendly terrier breeds."
+      "a": "Toward people, aggression is not typical of the breed — the Royal Kennel Club standard describes Staffords as \"highly intelligent and affectionate especially with children\" — but, as Blue Cross notes, any dog of any breed can become troubled or aggressive after poor handling or a bad experience. To other dogs — adult Staffords can be dog-selective or dog-aggressive, which requires management. BSL is based on physical appearance, not behavioral data. Well-bred, well-socialized Staffords are among the more reliably human-friendly terrier breeds."
     },
     {
       "q": "What is L2HGA and can it be prevented?",
@@ -170,7 +169,7 @@
     },
     {
       "q": "How are Staffords with small children?",
-      "a": "Generally excellent — the nanny dog nickname reflects a real trait. Staffords are typically patient, tolerant, and playful with children in their household. Supervision is always appropriate with any dog and young children. The main physical risk is the dog's enthusiasm and energy knocking over a toddler — not aggression, just exuberance at 35+ lbs."
+      "a": "Generally excellent — the UK Kennel Club breed standard describes Staffords as \"affectionate especially with children,\" and the breed's love of children earned it the popular nickname \"nanny dog\" (Blue Cross). Staffords are typically patient, tolerant, and playful with children in their household. But the nickname is not a job description: supervision is essential, and no dog of any breed should be left alone with young children. A Stafford's enthusiasm and energy can also knock over a toddler."
     }
   ],
   "related_breeds": [
