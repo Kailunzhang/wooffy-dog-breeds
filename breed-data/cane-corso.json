@@ -192,6 +192,11 @@
       "name": "German Shepherd Dog",
       "slug": "german-shepherd-dog",
       "note": "More versatile and trainable, less guarding instinct, longer lifespan"
+    },
+    {
+      "name": "Dogo Argentino",
+      "slug": "dogo-argentino",
+      "note": "another large guardian breed best suited to experienced owners"
     }
   ]
 }

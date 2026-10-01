@@ -192,6 +192,11 @@
       "name": "Golden Retriever",
       "slug": "golden-retriever",
       "note": "The other purebred parent — friendly family dog with heavy shedding and elevated cancer risk"
+    },
+    {
+      "name": "Mini Goldendoodle",
+      "slug": "mini-goldendoodle",
+      "note": "the smaller Golden Retriever × Miniature Poodle version"
     }
   ]
 }

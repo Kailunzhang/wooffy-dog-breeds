@@ -187,6 +187,11 @@
       "name": "Cavalier King Charles Spaniel",
       "slug": "cavalier-king-charles-spaniel",
       "note": "Larger, more robust, similar devotion to owners"
+    },
+    {
+      "name": "Maltipoo",
+      "slug": "maltipoo",
+      "note": "Maltese × Toy or Miniature Poodle cross"
     }
   ]
 }

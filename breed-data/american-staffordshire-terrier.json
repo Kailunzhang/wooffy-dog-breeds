@@ -192,6 +192,11 @@
       "name": "Labrador Retriever",
       "slug": "labrador-retriever",
       "note": "No BSL concerns, similar family energy, easier first-time owner breed"
+    },
+    {
+      "name": "American Pit Bull Terrier",
+      "slug": "american-pit-bull-terrier",
+      "note": "closely related UKC-registered breed that is often confused with the AmStaff"
     }
   ]
 }

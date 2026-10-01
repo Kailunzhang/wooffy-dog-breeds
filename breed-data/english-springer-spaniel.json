@@ -192,6 +192,11 @@
       "name": "Brittany",
       "slug": "brittany",
       "note": "Compact sporting dog, comparable energy and trainability, lighter coat"
+    },
+    {
+      "name": "Boykin Spaniel",
+      "slug": "boykin-spaniel",
+      "note": "a smaller American flushing and retrieving spaniel"
     }
   ]
 }

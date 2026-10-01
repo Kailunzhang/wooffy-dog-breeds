@@ -191,6 +191,11 @@
       "name": "Golden Retriever",
       "slug": "golden-retriever",
       "note": "Larger, same gentle family temperament, higher exercise needs"
+    },
+    {
+      "name": "Cockapoo",
+      "slug": "cockapoo",
+      "note": "Cocker Spaniel × Poodle cross; adult size depends on the Poodle parent"
     }
   ]
 }

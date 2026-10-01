@@ -184,6 +184,16 @@
       "name": "Cavalier King Charles Spaniel",
       "slug": "cavalier-king-charles-spaniel",
       "note": "Similar size, calmer, less trainable but equally devoted"
+    },
+    {
+      "name": "Cockapoo",
+      "slug": "cockapoo",
+      "note": "Poodle × Cocker Spaniel cross"
+    },
+    {
+      "name": "Mini Goldendoodle",
+      "slug": "mini-goldendoodle",
+      "note": "Golden Retriever × Miniature Poodle cross"
     }
   ]
 }
