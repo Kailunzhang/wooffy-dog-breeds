@@ -56,13 +56,16 @@ HUBS = {
         "hero_key": "dog-training-hub",
         "name": "Dog Training Guides: Start Here",
         "title_tag": "Dog Training Guides: Crates, Puppies & More",
-        "excerpt": "All Wooffy dog training guides in one place — crate training, puppy behavior, and enrichment.",
-        "meta_description": ("Browse every Wooffy dog training guide — crate training from 101 to "
-                             "separation anxiety, puppy behavior fixes, and indoor enrichment ideas."),
+        "excerpt": ("All Wooffy dog training guides in one place — crate training, puppy behavior, "
+                    "the teenage phase, recall and leash reactivity."),
+        "meta_description": ("Browse every Wooffy dog training guide — crate training, separation "
+                             "anxiety, puppy behavior, the teenage phase, recall and leash reactivity."),
         "intro": ("Every training guide we have published, organized so you can start in the "
-                  "right place &mdash; from crate training basics to puppy behavior fixes."),
+                  "right place &mdash; from crate training basics and puppy behavior to the "
+                  "teenage phase, recall and leash reactivity."),
         "groups": [
             ("Crate Training", ["crate"]),
+            ("Adolescence, Recall & Reactivity", ["teenage", "recall", "reactive"]),
             ("Puppy & Behavior", ["puppy", "potty", "peeing", "behavior", "anxiety"]),
             ("Activities & Enrichment", []),
         ],
