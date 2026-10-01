@@ -329,6 +329,59 @@ def build_email_capture(variant):
 </div>"""
 
 
+STANDARD_SECTIONS = ("appearance", "temperament", "mikes_take", "care", "health",
+                     "special", "cost", "right_for_you", "finding")
+IMAGE_BEFORE = {"temperament": "before_temperament", "care": "before_care",
+                "finding": "before_finding"}
+
+
+def build_standard_sections(s, secondary, name):
+    """Fixed breed-page order, with secondary images at their placements."""
+    content = ""
+    if s.get("appearance"):
+        content += build_section("appearance", s["appearance"], name)
+    if "before_temperament" in secondary:
+        content += build_image(secondary["before_temperament"])
+    if s.get("temperament"):
+        content += build_section("temperament", s["temperament"], name)
+    if s.get("mikes_take"):
+        content += build_section("mikes_take", s["mikes_take"], name)
+    if "before_care" in secondary:
+        content += build_image(secondary["before_care"])
+    if s.get("care"):
+        content += build_section("care",    s["care"],    name)
+    if s.get("health"):
+        content += build_section("health",  s["health"],  name)
+    if s.get("special"):
+        content += build_section("special", s["special"], name)
+    if s.get("cost"):
+        content += build_section("cost",    s["cost"],    name)
+    if s.get("right_for_you"):
+        content += build_right_for_you(s["right_for_you"])
+    if "before_finding" in secondary:
+        content += build_image(secondary["before_finding"])
+    if s.get("finding"):
+        content += build_section("finding", s["finding"], name)
+    return content
+
+
+def build_sections_in_order(s, secondary, name):
+    """Every non-intro section in stored order (matches build_toc)."""
+    content = ""
+    for key, sec in s.items():
+        if key == "intro" or not isinstance(sec, dict):
+            continue
+        placement = IMAGE_BEFORE.get(key)
+        if placement and placement in secondary:
+            content += build_image(secondary[placement])
+        if key == "right_for_you":
+            if sec.get("good_fit") or sec.get("not_fit"):
+                content += build_right_for_you(sec)
+        elif sec.get("html"):
+            content += build_section(key, sec, name)
+    return content
+
+
 def generate_html(breed):
     m   = breed["meta"]
     s   = breed["sections"]
@@ -356,40 +409,13 @@ def generate_html(breed):
   {stats_html}
 </div>"""
 
-    if s.get("appearance"):
-        content += build_section("appearance", s["appearance"], name)
-
-    # secondary image before temperament
-    if "before_temperament" in secondary:
-        content += build_image(secondary["before_temperament"])
-
-    if s.get("temperament"):
-        content += build_section("temperament", s["temperament"], name)
-
-    if s.get("mikes_take"):
-        content += build_section("mikes_take", s["mikes_take"], name)
-
-    # secondary image before care
-    if "before_care" in secondary:
-        content += build_image(secondary["before_care"])
-
-    if s.get("care"):
-        content += build_section("care",    s["care"],    name)
-    if s.get("health"):
-        content += build_section("health",  s["health"],  name)
-    if s.get("special"):
-        content += build_section("special", s["special"], name)
-    if s.get("cost"):
-        content += build_section("cost",    s["cost"],    name)
-    if s.get("right_for_you"):
-        content += build_right_for_you(s["right_for_you"])
-
-    # secondary image before finding
-    if "before_finding" in secondary:
-        content += build_image(secondary["before_finding"])
-
-    if s.get("finding"):
-        content += build_section("finding", s["finding"], name)
+    if any(k not in STANDARD_SECTIONS for k in s if k != "intro"):
+        # Comparison-style articles carry their own keys (side_by_side, decision, ...).
+        # Render every section in stored order — the same order build_toc lists —
+        # instead of the fixed breed-page sequence, which silently skipped them.
+        content += build_sections_in_order(s, secondary, name)
+    else:
+        content += build_standard_sections(s, secondary, name)
     content += build_faq(breed.get("faq", []))
     if breed.get("related_breeds"):
         content += build_related(breed["related_breeds"])

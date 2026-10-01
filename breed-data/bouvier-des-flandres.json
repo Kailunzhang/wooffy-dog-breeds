@@ -35,7 +35,7 @@
     "exercise": {
       "emoji": "🏃",
       "label": "Exercise",
-      "value": "90+ min"
+      "value": "2+ hrs/day"
     },
     "grooming": {
       "emoji": "✂️",
@@ -114,7 +114,7 @@
     "care": {
       "label": "Care",
       "heading": "Exercise, Training, and Management",
-      "html": "<p>The Bouvier des Flandres requires significant daily exercise — at least 60–90 minutes of vigorous activity. This breed was built to work all day, and they need an outlet for that energy. Long runs, hikes, cycling alongside the dog, or participation in dog sports are all excellent options. A Bouvier that doesn't get enough exercise will become restless, destructive, and difficult to manage.</p><p>Training should begin as soon as the puppy arrives home. Bouviers are among the most trainable dogs in the world — they pick up commands quickly and retain them well. However, they need clear, consistent leadership. Training should be firm but fair and always based on positive reinforcement. Harsh corrections or inconsistent handling will not produce the responsive, willing partner this breed can be. Puppy obedience classes followed by intermediate and advanced training are strongly recommended.</p><p>Early and extensive socialization is critical. Expose your Bouvier puppy to as many different people, environments, sounds, and other animals as possible during the first year. A well-socialized Bouvier is confident and adaptable; an under-socialized one can become over-reactive or overly suspicious.</p><p>Grooming demands are high — the thick double coat requires regular brushing and professional trimming (see the grooming guide for full detail). The beard and mustache tend to collect food and water and should be wiped clean regularly to prevent odor and skin irritation.</p>"
+      "html": "<p>The Bouvier des Flandres requires significant daily exercise — at least two hours a day. This breed was built to work all day, and they need an outlet for that energy. Long runs, hikes, cycling alongside the dog, or participation in dog sports are all excellent options. A Bouvier that doesn't get enough exercise will become restless, destructive, and difficult to manage.</p><p>Training should begin as soon as the puppy arrives home. Bouviers are among the most trainable dogs in the world — they pick up commands quickly and retain them well. However, they need clear, consistent leadership. Training should be firm but fair and always based on positive reinforcement. Harsh corrections or inconsistent handling will not produce the responsive, willing partner this breed can be. Puppy obedience classes followed by intermediate and advanced training are strongly recommended.</p><p>Early and extensive socialization is critical. Expose your Bouvier puppy to as many different people, environments, sounds, and other animals as possible during the first year. A well-socialized Bouvier is confident and adaptable; an under-socialized one can become over-reactive or overly suspicious.</p><p>Grooming demands are high — the thick double coat requires regular brushing and professional trimming (see the grooming guide for full detail). The beard and mustache tend to collect food and water and should be wiped clean regularly to prevent odor and skin irritation.</p>"
     },
     "health": {
       "label": "Health",
@@ -137,8 +137,8 @@
         "Can keep up with regular brushing and professional trimming every 8–12 weeks"
       ],
       "not_fit": [
-        "You work full-time with 8+ hours away from home or have limited time for exercise and training — Bouviers need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
-        "You live in a small apartment, studio, or rental with weight limits, or a very small space with no outdoor access — Bouviers reach 70–110 lbs and many leases cap dogs at 25-50 lbs",
+        "You work full-time with 8+ hours away from home or have limited time for exercise and training — Bouviers need at least two hours of daily exercise, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You live in a small apartment, studio, or rental with weight limits, or a very small space with no outdoor access — Bouviers reach 70–110 lbs, and apartment weight limits around 40–50 lbs are not uncommon",
         "Are a first-time dog owner",
         "Prefer a low-maintenance coat",
         "Want an easygoing, laid-back companion"
@@ -161,7 +161,7 @@
     },
     {
       "q": "How much exercise does a Bouvier des Flandres need?",
-      "a": "Adult Bouviers need 60–90 minutes of vigorous exercise daily. This is a breed built for a full day of farm work, and they require real outlets for their energy — not just leash walks. Dog sports, hiking, running, and fetch are all excellent options."
+      "a": "Adult Bouviers need at least two hours of exercise daily. This is a breed built for a full day of farm work, and they require real outlets for their energy — not just leash walks. Dog sports, hiking, running, and fetch are all excellent options."
     },
     {
       "q": "Are Bouvier des Flandres good for first-time owners?",

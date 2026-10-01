@@ -35,7 +35,7 @@
     "exercise": {
       "emoji": "🏃",
       "label": "Exercise",
-      "value": "90+ min"
+      "value": "60+ min"
     },
     "grooming": {
       "emoji": "✂️",
@@ -94,7 +94,7 @@
     "intro": {
       "label": "Overview",
       "heading": "The Little Swiss Driver with a Big Engine",
-      "html": "<p>The Entlebucher Mountain Dog — full name Entlebucher Sennenhund — is the smallest of Switzerland's four Sennenhund (drover's dog) breeds, which also include the Appenzeller, Bernese Mountain Dog, and Greater Swiss Mountain Dog. Originating in the Entlebuch valley of central Switzerland, the breed was developed by alpine farmers as a versatile working dog: driving cattle, pulling small carts, and guarding the farm. Despite its modest size relative to its Swiss cousins, the Entlebucher has a working drive and energy level that would embarrass most breeds twice its size.</p><p>The breed is compact and muscular, with the distinctive tricolor coat — black base with symmetrical rust and white markings — that characterizes all four Swiss Sennenhund breeds. The Entlebucher stands 16–21 inches and weighs 45–65 pounds, making it a medium-sized dog that carries itself with the confident, assertive bearing of a dog that knows it has a job to do. The tail is naturally short (bobbed) in many individuals, and docking where it occurs creates the characteristically stub-tailed appearance.</p><p>In temperament, the Entlebucher is everything a working herding breed should be: intelligent, quick to learn, intensely focused, and assertive. It is also everything that challenges unprepared owners: demanding, independent-minded, easily bored, and apt to find its own outlets for energy if not properly channeled. This is emphatically not a couch dog. Entlebuchers thrive with highly active owners who can provide hours of daily exercise, structured training, and a working purpose. They do exceptionally well in dog sports — agility, herding trials, obedience, and rally — and need that level of engagement to be their best selves.</p>"
+      "html": "<p>The Entlebucher Mountain Dog — full name Entlebucher Sennenhund — is the smallest of Switzerland's four Sennenhund (drover's dog) breeds, which also include the Appenzeller, Bernese Mountain Dog, and Greater Swiss Mountain Dog. Originating in the Entlebuch valley of central Switzerland, the breed was developed by alpine farmers as a versatile working dog: driving cattle, pulling small carts, and guarding the farm. Despite its modest size relative to its Swiss cousins, the Entlebucher has a working drive and energy level that would embarrass most breeds twice its size.</p><p>The breed is compact and muscular, with the distinctive tricolor coat — black base with symmetrical rust and white markings — that characterizes all four Swiss Sennenhund breeds. The Entlebucher stands 16–21 inches and weighs 45–65 pounds, making it a medium-sized dog that carries itself with the confident, assertive bearing of a dog that knows it has a job to do. The tail is naturally short (bobbed) in many individuals, and docking where it occurs creates the characteristically stub-tailed appearance.</p><p>In temperament, the Entlebucher is everything a working herding breed should be: intelligent, quick to learn, intensely focused, and assertive. It is also everything that challenges unprepared owners: demanding, independent-minded, easily bored, and apt to find its own outlets for energy if not properly channeled. This is emphatically not a couch dog. Entlebuchers thrive with highly active owners who can provide at least an hour of daily exercise, structured training, and a working purpose. They do exceptionally well in dog sports — agility, herding trials, obedience, and rally — and need that level of engagement to be their best selves.</p>"
     },
     "appearance": {
       "label": "Appearance",
@@ -114,7 +114,7 @@
     "care": {
       "label": "Care",
       "heading": "Intense Exercise and Consistent Mental Engagement",
-      "html": "<p>The Entlebucher needs a minimum of 1–2 hours of vigorous exercise daily — not a stroll, but running, hiking, playing fetch, or participating in dog sports. Without this, the breed becomes anxious, destructive, and vocal. A securely fenced yard is important for safe off-leash play. Mental stimulation through training, puzzle feeders, and sports is equally important. Plan to spend at least 30 minutes daily on structured activity beyond just exercise.</p><p>The short coat needs only weekly brushing and is very low-maintenance. Moderate seasonal shedding can be managed with increased brushing frequency. Bathing every month or two is sufficient. Nails should be trimmed monthly and teeth brushed regularly.</p>"
+      "html": "<p>The Entlebucher needs at least an hour of vigorous exercise daily — not a stroll, but running, hiking, playing fetch, or participating in dog sports. Without this, the breed becomes anxious, destructive, and vocal. A securely fenced yard is important for safe off-leash play. Mental stimulation through training, puzzle feeders, and sports is equally important. Plan to spend at least 30 minutes daily on structured activity beyond just exercise.</p><p>The short coat needs only weekly brushing and is very low-maintenance. Moderate seasonal shedding can be managed with increased brushing frequency. Bathing every month or two is sufficient. Nails should be trimmed monthly and teeth brushed regularly.</p>"
     },
     "health": {
       "label": "Health",
@@ -136,7 +136,7 @@
         "People who enjoy training as a hobby, not a chore — including dog sports like agility, herding trials, obedience, and rally"
       ],
       "not_fit": [
-        "You work full-time with 8+ hours away from home — Entlebucher Mountain Dogs need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You work full-time with 8+ hours away from home — Entlebucher Mountain Dogs need at least an hour of daily exercise, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
         "Sedentary owners, or anyone who wants a dog that will be happy with walks around the block — this is emphatically not a couch dog",
         "You have a small apartment without nearby outdoor space and no active routine — at 45–65 lbs, Entlebucher Mountain Dogs need room to stretch and a routine of off-property exercise",
         "First-time owners who underestimate the herding breed work ethic — Entlebuchers are confident to the point of stubbornness and will test boundaries without consistent structure"
@@ -151,7 +151,7 @@
   "faq": [
     {
       "q": "How much exercise does an Entlebucher Mountain Dog need?",
-      "a": "At least 1–2 hours of vigorous exercise daily, plus mental stimulation through training or dog sports. This is a high-energy working breed that genuinely needs this level of activity to be a calm, well-adjusted household companion."
+      "a": "At least an hour of vigorous exercise daily, plus mental stimulation through training or dog sports. This is a high-energy working breed that genuinely needs this level of activity to be a calm, well-adjusted household companion."
     },
     {
       "q": "Is the Entlebucher Mountain Dog a good family dog?",
