@@ -137,13 +137,11 @@
         "You don't have cats or small animals"
       ],
       "not_fit": [
-        "You work full-time with 8+ hours away from home — Kerry Blue Terriers need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
-        "You can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Kerry Blue Terrier coats matt fast without consistent care",
+        "You work full-time with 8+ hours away from home, or are regularly away for long hours — Kerry Blue Terriers need 90+ min of vigorous daily activity, and under-exercised dogs of this breed often develop destructive chewing, barking, or separation anxiety",
+        "You want minimal grooming expenses, or can't commit 15-30 minutes daily to brushing or budget $80-150/month for professional grooming — Kerry Blue Terrier coats mat fast without consistent care",
         "You are a first-time dog owner",
         "You want a dog that's reliably friendly with all other dogs",
-        "You have cats or small pets",
-        "You want minimal grooming expenses",
-        "You are away from home for long hours regularly"
+        "You have cats or small pets"
       ]
     },
     "finding": {

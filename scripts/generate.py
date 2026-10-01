@@ -165,10 +165,13 @@ def build_section(key, data, breed_name):
 
 
 def build_right_for_you(data):
+    # One row per item of the LONGER list; a shorter list leaves blank cells
+    # (looping over good_fit alone silently dropped extra not_fit warnings).
+    good, bad = data.get("good_fit") or [], data.get("not_fit") or []
     good_rows = "".join(
-        f'<tr style="border-bottom:1px solid #e8e8e8;"><td style="padding:10px 14px;color:#6b7177;background:#f8f8f8;">{item}</td>'
-        f'<td style="padding:10px 14px;color:#6b7177;background:#f8f8f8;">{data["not_fit"][i] if i < len(data["not_fit"]) else ""}</td></tr>'
-        for i, item in enumerate(data["good_fit"])
+        f'<tr style="border-bottom:1px solid #e8e8e8;"><td style="padding:10px 14px;color:#6b7177;background:#f8f8f8;">{good[i] if i < len(good) else ""}</td>'
+        f'<td style="padding:10px 14px;color:#6b7177;background:#f8f8f8;">{bad[i] if i < len(bad) else ""}</td></tr>'
+        for i in range(max(len(good), len(bad)))
     )
     return f"""<div style="margin-bottom:48px;padding-top:32px;border-top:1px solid #e8e8e8;">
   <p style="font-family:'figmaMono','SF Mono',monospace;font-size:0.7em;font-weight:400;letter-spacing:0.54px;text-transform:uppercase;color:rgba(0,0,0,0.45);margin:0 0 8px 0;">{data.get('label','Fit Assessment')}</p>
