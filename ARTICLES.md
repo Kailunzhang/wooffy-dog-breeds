@@ -7,10 +7,10 @@
 
 | Type | Count |
 |------|-------|
-| Breed guides | 293 |
+| Breed guides | 301 |
 | Supporting articles | 493 |
 | Roundup articles | 61 |
-| **Total** | **847** |
+| **Total** | **855** |
 
 ---
 
@@ -149,6 +149,11 @@
 | American Foxhound First Year Costs | ✅ Live | [/blogs/dog-breeds/american-foxhound-first-year-costs](https://thewooffy.com/blogs/dog-breeds/american-foxhound-first-year-costs) |
 | American Foxhound Grooming Guide | ✅ Live | [/blogs/dog-breeds/american-foxhound-grooming-guide](https://thewooffy.com/blogs/dog-breeds/american-foxhound-grooming-guide) |
 | American Foxhound Puppy Checklist | ✅ Live | [/blogs/dog-breeds/american-foxhound-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/american-foxhound-puppy-checklist) |
+
+### American Pit Bull Terrier *(Terrier (UKC) · Medium Breed)*
+| Article | Status | URL |
+|---------|--------|-----|
+| American Pit Bull Terrier | ✅ Live | [/blogs/dog-breeds/american-pit-bull-terrier](https://thewooffy.com/blogs/dog-breeds/american-pit-bull-terrier) |
 
 ### American Staffordshire Terrier *(Terrier Group · Medium Breed)*
 | Article | Status | URL |
@@ -418,6 +423,11 @@
 | Boxer Puppy Cost Year 1: $2,700–$5,400 (Real Breakdown) | ✅ Live | [/blogs/dog-breeds/boxer-first-year-costs](https://thewooffy.com/blogs/dog-breeds/boxer-first-year-costs) |
 | Boxer Grooming Guide | ✅ Live | [/blogs/dog-breeds/boxer-grooming-guide](https://thewooffy.com/blogs/dog-breeds/boxer-grooming-guide) |
 | Boxer Puppy Checks: Complete Pre-Arrival Checklist | ✅ Live | [/blogs/dog-breeds/boxer-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/boxer-puppy-checklist) |
+
+### Boykin Spaniel *(Sporting Group · Medium Breed)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Boykin Spaniel | ✅ Live | [/blogs/dog-breeds/boykin-spaniel](https://thewooffy.com/blogs/dog-breeds/boykin-spaniel) |
 
 ### Brachycephalic Dogs & BOAS: The 2026 Buyer Guide *(Brachycephalic Breed Health · Guide)*
 | Article | Status | URL |
@@ -925,6 +935,11 @@
 | Clumber Spaniel Grooming Guide | ✅ Live | [/blogs/dog-breeds/clumber-spaniel-grooming-guide](https://thewooffy.com/blogs/dog-breeds/clumber-spaniel-grooming-guide) |
 | Clumber Spaniel Puppy Checklist | ✅ Live | [/blogs/dog-breeds/clumber-spaniel-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/clumber-spaniel-puppy-checklist) |
 
+### Cockapoo *(Designer Crossbreed · Small to Medium Breed)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Cockapoo | ✅ Live | [/blogs/dog-breeds/cockapoo](https://thewooffy.com/blogs/dog-breeds/cockapoo) |
+
 ### Cocker Spaniel *(Sporting Group · Medium Breed)*
 | Article | Status | URL |
 |---------|--------|-----|
@@ -1027,6 +1042,11 @@
 | Article | Status | URL |
 |---------|--------|-----|
 | Dog Training Guides: Start Here | ✅ Live | [/blogs/dog-breeds/dog-training-guides](https://thewooffy.com/blogs/dog-breeds/dog-training-guides) |
+
+### Dogo Argentino *(Working Group · Large Breed)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Dogo Argentino | ✅ Live | [/blogs/dog-breeds/dogo-argentino](https://thewooffy.com/blogs/dog-breeds/dogo-argentino) |
 
 ### Dogue de Bordeaux *(Working · Giant)*
 | Article | Status | URL |
@@ -1448,6 +1468,11 @@
 | Maltese Grooming Guide | ✅ Live | [/blogs/dog-breeds/maltese-grooming-guide](https://thewooffy.com/blogs/dog-breeds/maltese-grooming-guide) |
 | Maltese Puppy Checklist | ✅ Live | [/blogs/dog-breeds/maltese-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/maltese-puppy-checklist) |
 
+### Maltipoo *(Designer Crossbreed · Small Breed)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Maltipoo | ✅ Live | [/blogs/dog-breeds/maltipoo](https://thewooffy.com/blogs/dog-breeds/maltipoo) |
+
 ### Mastiff *(Working Group · Giant Breed)*
 | Article | Status | URL |
 |---------|--------|-----|
@@ -1460,6 +1485,11 @@
 | Article | Status | URL |
 |---------|--------|-----|
 | Mastiff vs Cane Corso | ✅ Live | [/blogs/dog-breeds/mastiff-vs-cane-corso](https://thewooffy.com/blogs/dog-breeds/mastiff-vs-cane-corso) |
+
+### Mini Goldendoodle *(Designer Crossbreed · Small to Medium Breed)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Mini Goldendoodle | ✅ Live | [/blogs/dog-breeds/mini-goldendoodle](https://thewooffy.com/blogs/dog-breeds/mini-goldendoodle) |
 
 ### Miniature American Shepherd *(Herding Group · Small-Medium Breed)*
 | Article | Status | URL |
@@ -1500,6 +1530,11 @@
 | Miniature Schnauzer First Year Costs | ✅ Live | [/blogs/dog-breeds/miniature-schnauzer-first-year-costs](https://thewooffy.com/blogs/dog-breeds/miniature-schnauzer-first-year-costs) |
 | Miniature Schnauzer Grooming Guide | ✅ Live | [/blogs/dog-breeds/miniature-schnauzer-grooming-guide](https://thewooffy.com/blogs/dog-breeds/miniature-schnauzer-grooming-guide) |
 | Miniature Schnauzer Puppy Checklist | ✅ Live | [/blogs/dog-breeds/miniature-schnauzer-puppy-checklist](https://thewooffy.com/blogs/dog-breeds/miniature-schnauzer-puppy-checklist) |
+
+### Mixed-Breed Dogs *(Mixed Breed · Small to Large Breed)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Mixed-Breed Dogs | ✅ Live | [/blogs/dog-breeds/mixed-breed-dogs](https://thewooffy.com/blogs/dog-breeds/mixed-breed-dogs) |
 
 ### Neapolitan Mastiff *(Working Group · Giant Breed)*
 | Article | Status | URL |
@@ -1662,6 +1697,11 @@
 | Article | Status | URL |
 |---------|--------|-----|
 | Puppy Scams: How to Spot a Fake Seller Before You Pay | ✅ Live | [/blogs/dog-breeds/puppy-scams](https://thewooffy.com/blogs/dog-breeds/puppy-scams) |
+
+### Rat Terrier *(Terrier Group · Small Breed)*
+| Article | Status | URL |
+|---------|--------|-----|
+| Rat Terrier | ✅ Live | [/blogs/dog-breeds/rat-terrier](https://thewooffy.com/blogs/dog-breeds/rat-terrier) |
 
 ### Redbone Coonhound *(Hound Group · Large Breed)*
 | Article | Status | URL |
