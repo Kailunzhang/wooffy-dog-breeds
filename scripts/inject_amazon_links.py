@@ -118,6 +118,7 @@ class Rules:
         cmap = catalog.get("coat_map") or {}
         self.coat = {slug: cmap.get(cat) for slug, cat in coats.items()}
         self.rake_first: set[str] = set()
+        self.roundup_gear: dict = catalog.get("roundup_gear") or {}
         for alt in catalog.get("alternatives") or []:
             if alt.get("type") == "brush_order":
                 self.rake_first |= set(alt.get("slugs") or [])
@@ -302,10 +303,45 @@ def process(path: str, catalog: list[dict], weights: dict, extra: set[str],
             fields[i] = (fields[i][0], new_html)
             placed.append({"asin": p["asin"], "name": p["name"], "type": p["type"], "where": where})
             break
+    gear = rules.roundup_gear.get(slug) if kind == "roundup" else None
+    if gear:
+        fams = {FAMILY.get(x["type"], x["type"]) for x in placed}
+        items = []
+        for t in gear["types"]:
+            fam = FAMILY.get(t, t)
+            if fam in fams:
+                continue
+            opts = [p for p in catalog if not p.get("skip") and p["type"] == t
+                    and fits(p, "roundup", None, page_w, rules)]
+            opts.sort(key=lambda p: (p.get("priority", 3), p["asin"]))
+            if opts:
+                items.append(opts[0])
+                fams.add(fam)
+            if len(items) == 3:
+                break
+        if items:
+            fields[-1] = (fields[-1][0], fields[-1][1] + gear_block(gear["lead"], items, rules))
+            placed += [{"asin": p["asin"], "name": p["name"], "type": p["type"], "where": "gear block"}
+                       for p in items]
     if not placed:
         return {"slug": slug, "kind": kind, "placed": [], "fields": fields, "doc": d}
     fields[0] = (fields[0][0], with_disclosure(fields[0][1]))
     return {"slug": slug, "kind": kind, "placed": placed, "fields": fields, "doc": d}
+
+
+GEAR_H3 = ('<h3 style="font-size:1em;font-weight:700;color:#1a1a1a;margin:24px 0 8px 0;">'
+           'Gear worth having</h3>')
+
+
+def gear_block(lead: str, items: list[dict], rules: "Rules") -> str:
+    """Roundup-only block (owner-approved 2026-10-08): a short lead plus one line per product."""
+    lis = []
+    for p in items:
+        cav = (p.get("caveat") or "").strip()
+        lis.append(f'<li class="wfy-aff"><a href="{product_url(p, "roundup", rules)}" '
+                   f'rel="sponsored nofollow noopener" target="_blank">{html.escape(p["name"])} on Amazon</a>. '
+                   f'{html.escape(p["blurb"].strip())}' + (f" {html.escape(cav)}" if cav else "") + "</li>")
+    return f"{MARK}{GEAR_H3}<p>{html.escape(lead)}</p><ul>{''.join(lis)}</ul>{END}"
 
 
 def roundup_weight(fields, weights: dict) -> tuple[float, float] | None:

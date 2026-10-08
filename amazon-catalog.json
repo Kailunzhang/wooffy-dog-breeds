@@ -51,7 +51,8 @@
     "note": "Repo breed-data/samoyed-grooming-guide.json (== sam_backup.json) still carries the pilot Big G link plus a disclosure; pages.json was extracted from it. Remove or reuse that link before placing, never add a second."
    }
   },
-  "verification_rules_applied": "2026-09-29 placement verification R03-R22, T1-T5 (see scripts/inject_amazon_links.py)"
+  "verification_rules_applied": "2026-09-29 placement verification R03-R22, T1-T5 (see scripts/inject_amazon_links.py)",
+  "roundup_gear_rule": "Roundup pages (meta.size_category == Roundup) get one 'Gear worth having' block appended to the last section (owner-approved 2026-10-08): a theme lead sentence + up to 3 products whose type is listed, chosen by the page's median breed weight; families already linked inline on the page are skipped. dog-breeds-by-size / by-group excluded."
  },
  "coat_map": {
   "long_silky": "long",
@@ -6004,5 +6005,552 @@
     "shiba-inu-first-year-costs"
    ]
   }
- ]
+ ],
+ "roundup_gear": {
+  "best-dogs-for-hiking": {
+   "theme": "hike",
+   "lead": "If one of these breeds is joining you on the trail, the gear that earns its place is a harness with a front clip, a long line for recall practice before any off-leash freedom, and tick prevention that stays current all season.",
+   "types": [
+    "harness",
+    "long_line",
+    "flea_tick_collar"
+   ]
+  },
+  "best-dogs-for-active-people": {
+   "theme": "hike",
+   "lead": "If one of these breeds is joining you on the trail, the gear that earns its place is a harness with a front clip, a long line for recall practice before any off-leash freedom, and tick prevention that stays current all season.",
+   "types": [
+    "harness",
+    "long_line",
+    "flea_tick_collar"
+   ]
+  },
+  "best-dogs-for-cold-climates": {
+   "theme": "cold",
+   "lead": "Cold-weather breeds mostly need less from you, not more, but two things still help: a sweater or coat for the shorter-coated dogs on this list, and paw wipes for road salt after winter walks.",
+   "types": [
+    "dog_sweater",
+    "wipes"
+   ]
+  },
+  "best-dogs-for-hot-climates": {
+   "theme": "hot",
+   "lead": "For heat the gear is simple: a cooling mat in a shaded spot, and a water bowl that doesn't tip when a hot dog drinks fast.",
+   "types": [
+    "cooling_mat",
+    "bowls"
+   ]
+  },
+  "dog-breeds-that-can-be-left-alone": {
+   "theme": "alone",
+   "lead": "Independent breeds still need something to do while you're out. A camera tells you what actually happens after the door closes, and a food puzzle or a stuffed, frozen toy turns the first half hour alone into a job.",
+   "types": [
+    "pet_camera",
+    "puzzle_feeder",
+    "stuffable_toy"
+   ]
+  },
+  "best-dogs-for-small-apartments": {
+   "theme": "alone",
+   "lead": "Independent breeds still need something to do while you're out. A camera tells you what actually happens after the door closes, and a food puzzle or a stuffed, frozen toy turns the first half hour alone into a job.",
+   "types": [
+    "pet_camera",
+    "puzzle_feeder",
+    "stuffable_toy"
+   ]
+  },
+  "best-dog-breeds-for-anxiety": {
+   "theme": "alone",
+   "lead": "Independent breeds still need something to do while you're out. A camera tells you what actually happens after the door closes, and a food puzzle or a stuffed, frozen toy turns the first half hour alone into a job.",
+   "types": [
+    "pet_camera",
+    "puzzle_feeder",
+    "stuffable_toy"
+   ]
+  },
+  "calmest-dog-breeds": {
+   "theme": "alone",
+   "lead": "Independent breeds still need something to do while you're out. A camera tells you what actually happens after the door closes, and a food puzzle or a stuffed, frozen toy turns the first half hour alone into a job.",
+   "types": [
+    "pet_camera",
+    "puzzle_feeder",
+    "stuffable_toy"
+   ]
+  },
+  "quietest-dog-breeds": {
+   "theme": "alone",
+   "lead": "Independent breeds still need something to do while you're out. A camera tells you what actually happens after the door closes, and a food puzzle or a stuffed, frozen toy turns the first half hour alone into a job.",
+   "types": [
+    "pet_camera",
+    "puzzle_feeder",
+    "stuffable_toy"
+   ]
+  },
+  "dog-breeds-that-dont-bark": {
+   "theme": "alone",
+   "lead": "Independent breeds still need something to do while you're out. A camera tells you what actually happens after the door closes, and a food puzzle or a stuffed, frozen toy turns the first half hour alone into a job.",
+   "types": [
+    "pet_camera",
+    "puzzle_feeder",
+    "stuffable_toy"
+   ]
+  },
+  "best-dogs-for-first-time-owners": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "best-dogs-for-kids": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "best-family-dog-breeds": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "best-dogs-for-seniors": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "friendliest-dog-breeds": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "most-affectionate-dog-breeds": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "most-loyal-dog-breeds": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "most-popular-dog-breeds": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "best-therapy-dog-breeds": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "best-service-dog-breeds": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "best-non-sporting-dog-breeds": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "chinese-dog-breeds": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "german-dog-breeds": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "irish-dog-breeds": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "japanese-dog-breeds": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "rarest-dog-breeds": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "most-expensive-dog-breeds": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "medium-sized-dog-breeds": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "dog-breeds-with-blue-eyes": {
+   "theme": "starter",
+   "lead": "Whichever breed you land on, the first-week shopping list is the same: bowls that don't slide, an engraved ID tag, a collar sized for the neck you actually have, and one food puzzle to make dinner last longer than nine seconds.",
+   "types": [
+    "bowls",
+    "id_tag",
+    "collar",
+    "puzzle_feeder"
+   ]
+  },
+  "most-intelligent-dog-breeds": {
+   "theme": "brain",
+   "lead": "Breeds this driven need their brains worked as hard as their legs. A food puzzle, a stuffable toy you can freeze, and a long line for recall practice cover most of it.",
+   "types": [
+    "puzzle_feeder",
+    "stuffable_toy",
+    "long_line"
+   ]
+  },
+  "easiest-dogs-to-train": {
+   "theme": "brain",
+   "lead": "Breeds this driven need their brains worked as hard as their legs. A food puzzle, a stuffable toy you can freeze, and a long line for recall practice cover most of it.",
+   "types": [
+    "puzzle_feeder",
+    "stuffable_toy",
+    "long_line"
+   ]
+  },
+  "best-herding-dog-breeds": {
+   "theme": "brain",
+   "lead": "Breeds this driven need their brains worked as hard as their legs. A food puzzle, a stuffable toy you can freeze, and a long line for recall practice cover most of it.",
+   "types": [
+    "puzzle_feeder",
+    "stuffable_toy",
+    "long_line"
+   ]
+  },
+  "best-working-dog-breeds": {
+   "theme": "brain",
+   "lead": "Breeds this driven need their brains worked as hard as their legs. A food puzzle, a stuffable toy you can freeze, and a long line for recall practice cover most of it.",
+   "types": [
+    "puzzle_feeder",
+    "stuffable_toy",
+    "long_line"
+   ]
+  },
+  "best-watchdog-breeds": {
+   "theme": "brain",
+   "lead": "Breeds this driven need their brains worked as hard as their legs. A food puzzle, a stuffable toy you can freeze, and a long line for recall practice cover most of it.",
+   "types": [
+    "puzzle_feeder",
+    "stuffable_toy",
+    "long_line"
+   ]
+  },
+  "best-guard-dog-breeds": {
+   "theme": "brain",
+   "lead": "Breeds this driven need their brains worked as hard as their legs. A food puzzle, a stuffable toy you can freeze, and a long line for recall practice cover most of it.",
+   "types": [
+    "puzzle_feeder",
+    "stuffable_toy",
+    "long_line"
+   ]
+  },
+  "most-protective-dog-breeds": {
+   "theme": "brain",
+   "lead": "Breeds this driven need their brains worked as hard as their legs. A food puzzle, a stuffable toy you can freeze, and a long line for recall practice cover most of it.",
+   "types": [
+    "puzzle_feeder",
+    "stuffable_toy",
+    "long_line"
+   ]
+  },
+  "best-sporting-dog-breeds": {
+   "theme": "sport",
+   "lead": "Scent and prey drive make recall the long project with these breeds. A long line for training, a harness with a front clip, and tick prevention for field and woodland time are the three items owners reach for most.",
+   "types": [
+    "long_line",
+    "harness",
+    "flea_tick_collar"
+   ]
+  },
+  "best-gun-dog-breeds": {
+   "theme": "sport",
+   "lead": "Scent and prey drive make recall the long project with these breeds. A long line for training, a harness with a front clip, and tick prevention for field and woodland time are the three items owners reach for most.",
+   "types": [
+    "long_line",
+    "harness",
+    "flea_tick_collar"
+   ]
+  },
+  "best-hunting-dog-breeds": {
+   "theme": "sport",
+   "lead": "Scent and prey drive make recall the long project with these breeds. A long line for training, a harness with a front clip, and tick prevention for field and woodland time are the three items owners reach for most.",
+   "types": [
+    "long_line",
+    "harness",
+    "flea_tick_collar"
+   ]
+  },
+  "best-hound-dog-breeds": {
+   "theme": "sport",
+   "lead": "Scent and prey drive make recall the long project with these breeds. A long line for training, a harness with a front clip, and tick prevention for field and woodland time are the three items owners reach for most.",
+   "types": [
+    "long_line",
+    "harness",
+    "flea_tick_collar"
+   ]
+  },
+  "best-terrier-breeds": {
+   "theme": "sport",
+   "lead": "Scent and prey drive make recall the long project with these breeds. A long line for training, a harness with a front clip, and tick prevention for field and woodland time are the three items owners reach for most.",
+   "types": [
+    "long_line",
+    "harness",
+    "flea_tick_collar"
+   ]
+  },
+  "low-shedding-dog-breeds": {
+   "theme": "groom_long",
+   "lead": "Low-shedding and long-coated breeds trade vacuuming for brushing. The home kit that keeps professional grooms from turning into shave-downs is a pin brush, a steel comb to check down to the skin, and a detangling spray used before brushing.",
+   "types": [
+    "pin_brush",
+    "metal_comb",
+    "detangling_spray"
+   ]
+  },
+  "best-hypoallergenic-dog-breeds": {
+   "theme": "groom_long",
+   "lead": "Low-shedding and long-coated breeds trade vacuuming for brushing. The home kit that keeps professional grooms from turning into shave-downs is a pin brush, a steel comb to check down to the skin, and a detangling spray used before brushing.",
+   "types": [
+    "pin_brush",
+    "metal_comb",
+    "detangling_spray"
+   ]
+  },
+  "curly-haired-dog-breeds": {
+   "theme": "groom_long",
+   "lead": "Low-shedding and long-coated breeds trade vacuuming for brushing. The home kit that keeps professional grooms from turning into shave-downs is a pin brush, a steel comb to check down to the skin, and a detangling spray used before brushing.",
+   "types": [
+    "pin_brush",
+    "metal_comb",
+    "detangling_spray"
+   ]
+  },
+  "best-doodle-breeds-for-families": {
+   "theme": "groom_long",
+   "lead": "Low-shedding and long-coated breeds trade vacuuming for brushing. The home kit that keeps professional grooms from turning into shave-downs is a pin brush, a steel comb to check down to the skin, and a detangling spray used before brushing.",
+   "types": [
+    "pin_brush",
+    "metal_comb",
+    "detangling_spray"
+   ]
+  },
+  "long-haired-dog-breeds": {
+   "theme": "groom_long",
+   "lead": "Low-shedding and long-coated breeds trade vacuuming for brushing. The home kit that keeps professional grooms from turning into shave-downs is a pin brush, a steel comb to check down to the skin, and a detangling spray used before brushing.",
+   "types": [
+    "pin_brush",
+    "metal_comb",
+    "detangling_spray"
+   ]
+  },
+  "fluffy-dog-breeds": {
+   "theme": "groom_long",
+   "lead": "Low-shedding and long-coated breeds trade vacuuming for brushing. The home kit that keeps professional grooms from turning into shave-downs is a pin brush, a steel comb to check down to the skin, and a detangling spray used before brushing.",
+   "types": [
+    "pin_brush",
+    "metal_comb",
+    "detangling_spray"
+   ]
+  },
+  "white-dog-breeds": {
+   "theme": "white",
+   "lead": "White coats show everything. Owners of these breeds keep a whitening shampoo for bath day, eye wipes for daily tear-stain cleaning, and a pin brush for the coat between baths.",
+   "types": [
+    "whitening_shampoo",
+    "eye_wipes",
+    "pin_brush"
+   ]
+  },
+  "short-haired-dog-breeds": {
+   "theme": "short",
+   "lead": "Short coats are low effort, not no effort. A rubber grooming glove for weekly shedding, a lint roller for the furniture, and wipes for muddy paws cover it.",
+   "types": [
+    "bath_gloves",
+    "hair_roller",
+    "wipes"
+   ]
+  },
+  "low-maintenance-dog-breeds": {
+   "theme": "short",
+   "lead": "Short coats are low effort, not no effort. A rubber grooming glove for weekly shedding, a lint roller for the furniture, and wipes for muddy paws cover it.",
+   "types": [
+    "bath_gloves",
+    "hair_roller",
+    "wipes"
+   ]
+  },
+  "black-dog-breeds": {
+   "theme": "short",
+   "lead": "Short coats are low effort, not no effort. A rubber grooming glove for weekly shedding, a lint roller for the furniture, and wipes for muddy paws cover it.",
+   "types": [
+    "bath_gloves",
+    "hair_roller",
+    "wipes"
+   ]
+  },
+  "healthiest-dog-breeds": {
+   "theme": "health",
+   "lead": "Longevity is mostly genetics and weight. A DNA kit flags the inherited risks worth discussing with your vet, and a toothbrush kit started early matters because dental disease is the most common problem vets see in older dogs.",
+   "types": [
+    "dna_kit",
+    "toothbrush"
+   ]
+  },
+  "longest-living-dog-breeds": {
+   "theme": "health",
+   "lead": "Longevity is mostly genetics and weight. A DNA kit flags the inherited risks worth discussing with your vet, and a toothbrush kit started early matters because dental disease is the most common problem vets see in older dogs.",
+   "types": [
+    "dna_kit",
+    "toothbrush"
+   ]
+  },
+  "best-small-dog-breeds": {
+   "theme": "small",
+   "lead": "Small dogs need small-dog gear: a harness instead of a collar for walking, so pressure stays off the trachea; a collar sized for a narrow neck to carry the ID tag; and bowls that hold a small meal without tipping.",
+   "types": [
+    "harness",
+    "collar",
+    "bowls"
+   ]
+  },
+  "best-toy-dog-breeds": {
+   "theme": "small",
+   "lead": "Small dogs need small-dog gear: a harness instead of a collar for walking, so pressure stays off the trachea; a collar sized for a narrow neck to carry the ID tag; and bowls that hold a small meal without tipping.",
+   "types": [
+    "harness",
+    "collar",
+    "bowls"
+   ]
+  },
+  "best-large-dog-breeds": {
+   "theme": "large",
+   "lead": "Big dogs cost more in gear because everything has to be rated for them: an orthopedic bed with real foam, a harness built for pulling strength, and deep bowls that aren't refilled four times a day.",
+   "types": [
+    "orthopedic_bed",
+    "harness",
+    "bowls"
+   ]
+  },
+  "giant-dog-breeds": {
+   "theme": "large",
+   "lead": "Big dogs cost more in gear because everything has to be rated for them: an orthopedic bed with real foam, a harness built for pulling strength, and deep bowls that aren't refilled four times a day.",
+   "types": [
+    "orthopedic_bed",
+    "harness",
+    "bowls"
+   ]
+  },
+  "best-gentle-giant-dog-breeds": {
+   "theme": "large",
+   "lead": "Big dogs cost more in gear because everything has to be rated for them: an orthopedic bed with real foam, a harness built for pulling strength, and deep bowls that aren't refilled four times a day.",
+   "types": [
+    "orthopedic_bed",
+    "harness",
+    "bowls"
+   ]
+  },
+  "dog-breeds-good-with-cats": {
+   "theme": "cats",
+   "lead": "Introductions go better with management than hope: a walk-through gate gives the cat a dog-free room, and a food puzzle keeps the dog busy during the first supervised sessions.",
+   "types": [
+    "pet_gate",
+    "puzzle_feeder"
+   ]
+  }
+ }
 }
