@@ -1,0 +1,53 @@
+name: GEO Citation URL Verify
+
+# Checks every candidate citation URL for scripts/geo_breed_citations.py
+# from a runner with internet access, writes geo/citation-urls.json and
+# commits it back to the branch the workflow ran on. Manual trigger only.
+# See GEO_PLAN.md 2.5.
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Re-check URLs already in the cache (true/false)'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Verify citation URLs
+        run: |
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            python3 scripts/geo_breed_citations.py --verify --force
+          else
+            python3 scripts/geo_breed_citations.py --verify
+          fi
+
+      - name: Report unverified URLs
+        run: python3 scripts/geo_breed_citations.py --report
+
+      - name: Commit URL cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add geo/citation-urls.json
+          if git diff --cached --quiet; then
+            echo "no cache changes to commit"
+          else
+            git commit -m "chore(geo): verify citation URLs $(date -u +%F) [skip ci]"
+            git push
+          fi
