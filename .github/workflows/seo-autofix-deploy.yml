@@ -66,5 +66,7 @@ jobs:
             echo "no stamp changes to commit"
           else
             git commit -m "chore: stamp content_updated after deploy [skip ci]"
+            # main may have moved during a long deploy; rebase our stamp commit on top
+            git pull --rebase origin main
             git push
           fi
