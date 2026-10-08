@@ -19,7 +19,7 @@
 #wq-root a:hover{color:var(--wq-ink);}
 #wq-root :focus{outline:none;}
 #wq-root :focus-visible{outline:3px solid #1a1a1a;outline-offset:2px;border-radius:10px;}
-#wq-root [tabindex="-1"]:focus,#wq-root [tabindex="-1"]:focus-visible{outline:none;}
+#wq-root [tabindex="-1"]:focus,#wq-root [tabindex="-1"]:focus-visible{outline:none;box-shadow:none;} /* Dawn adds a focus glow via box-shadow */
 #wq-root .wq-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;}
 #wq-root .wq-lede{font-size:17px;line-height:1.7;color:var(--wq-muted);margin:0 0 18px;}
 #wq-root .wq-lede strong{color:var(--wq-ink);}
