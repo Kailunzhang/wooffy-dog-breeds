@@ -584,6 +584,9 @@
     "saint-bernard-first-year-costs",
     "saint-bernard-grooming-guide",
     "saint-bernard-puppy-checklist"
+   ],
+   "element_exclude": [
+    "waterless"
    ]
   },
   {
@@ -3036,7 +3039,8 @@
    "notes": "Added 2026-10-08 (batch 2: sizes + gaps).",
    "element_exclude": [
     "entropion|surg(ery|ical)|wrinkling around",
-    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "markings|spectacles|personality|companions"
    ]
   },
   {
@@ -4076,7 +4080,8 @@
    "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
    "element_exclude": [
     "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
-    "hand-?strip|groomer"
+    "hand-?strip|groomer",
+    "virtually no hair|no hair on|little hair|don't shed|doesn't shed"
    ],
    "last_sentence_only": true
   },
@@ -5323,7 +5328,8 @@
     "breeder[^.]{0,60}(test|clear|result|screen)|(ask|request|see)[^.]{0,40}breeder|\\bOFA\\b|\\bCHIC\\b",
     "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
     "insurance|enroll",
-    "point of purchase|box was checked|checked at"
+    "point of purchase|box was checked|checked at",
+    "screened by|by (responsible |reputable |good )?breeders"
    ],
    "last_sentence_only": true
   },

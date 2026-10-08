@@ -40,9 +40,10 @@ CATALOG = os.path.join(ROOT, "amazon-catalog.json")
 MARK = "<!-- WOOFFY_AMZ_v1 -->"
 END = "<!-- /WOOFFY_AMZ_v1 -->"
 BLOCK_RE = re.compile(re.escape(MARK) + r".*?" + re.escape(END), re.DOTALL)
-MAX_PER_PAGE = {"grooming": 4, "checklist": 6, "costs": 4, "extra": 3}  # raised 2026-10-08 (was 3/4/3/3)
+MAX_PER_PAGE = {"grooming": 4, "checklist": 6, "costs": 4, "extra": 3, "roundup": 4}  # raised 2026-10-08 (was 3/4/3/3)
 STAGES = {"checklist": {"puppy", "any"}, "grooming": {"adult", "any"},
-          "costs": {"any", "puppy"}, "extra": {"adult", "any", "puppy", "senior"}}
+          "costs": {"any", "puppy"}, "extra": {"adult", "any", "puppy", "senior"},
+          "roundup": {"adult", "any"}}  # roundups (meta.size_category == "Roundup") added 2026-10-08
 DISCLOSURE = (f'{MARK}<p class="wfy-aff-note" style="font-size:13px;color:#6b6b6b;margin:0 0 16px;">'
               "<em>This guide contains affiliate links. As an Amazon Associate, Wooffy earns "
               f"from qualifying purchases.</em></p>{END}")
@@ -153,6 +154,11 @@ def candidates(slug: str, kind: str, text: str, catalog: list[dict], breed, weig
         if kind == "extra":
             if slug not in (p.get("extra_slugs") or []):
                 continue
+        elif kind == "roundup":
+            if not (p.get("page_types") or slug in (p.get("extra_slugs") or [])):
+                continue
+            if weights is None and ((p.get("fit") or {}).get("wmin") is not None or (p.get("fit") or {}).get("wmax") is not None):
+                continue  # no representative breed weight: skip size-specific variants
         elif kind not in (p.get("page_types") or []):
             continue
         if not fits(p, kind, breed, weights, rules):
@@ -237,7 +243,7 @@ def element_ok(p: dict, kind: str, text: str, prev: str, rules: "Rules") -> bool
         return False
     if p.get("last_sentence_only") and len(text) > 200 and not tail_has_anchor:
         return False  # long element: the link lands at its end, so the end must be about the product
-    if kind == "costs":
+    if kind in ("costs", "roundup"):
         if len(text) > 200 and not tail_has_anchor:
             return False
         if p["type"] in rules.contain_types and TIMELINE_RE.search(text):
@@ -263,10 +269,14 @@ def place(fields: list[tuple[list, str]], p: dict, kind: str, coat: str | None,
 def process(path: str, catalog: list[dict], weights: dict, extra: set[str],
             rules: Rules, keep: dict[str, list[str]] | None = None) -> dict | None:
     slug = os.path.basename(path)[:-5]
-    kind = page_kind(slug) or ("extra" if slug in extra else None)
+    d = json.load(open(path, encoding="utf-8"))
+    kind = page_kind(slug)
+    if kind is None and (d.get("meta") or {}).get("size_category") == "Roundup":
+        kind = "roundup"
+    if kind is None and slug in extra:
+        kind = "extra"
     if kind is None:
         return None
-    d = json.load(open(path, encoding="utf-8"))
     if (d.get("meta") or {}).get("published", True) is False:
         return None
     fields = [(pth, BLOCK_RE.sub("", h)) for pth, h in html_fields(d)]
@@ -274,7 +284,10 @@ def process(path: str, catalog: list[dict], weights: dict, extra: set[str],
     text = html.unescape(" ".join(plain(h) for _, h in fields) + " " + faq)
     base = re.sub(r"-(grooming-guide|puppy-checklist|first-year-costs)$", "", slug)
     breed = base if base in weights else None
-    families = candidates(slug, kind, text, catalog, breed, weights.get(base), rules,
+    page_w = weights.get(base)
+    if kind == "roundup":
+        page_w = roundup_weight(fields, weights)
+    families = candidates(slug, kind, text, catalog, breed, page_w, rules,
                           (keep or {}).get(slug))
     coat = rules.coat.get(breed) if breed else None
     placed = []
@@ -293,6 +306,21 @@ def process(path: str, catalog: list[dict], weights: dict, extra: set[str],
         return {"slug": slug, "kind": kind, "placed": [], "fields": fields, "doc": d}
     fields[0] = (fields[0][0], with_disclosure(fields[0][1]))
     return {"slug": slug, "kind": kind, "placed": placed, "fields": fields, "doc": d}
+
+
+def roundup_weight(fields, weights: dict) -> tuple[float, float] | None:
+    """Median mid-weight of the breeds a roundup links to, as a point range, so size variants fit sensibly."""
+    mids = []
+    for _, h in fields:
+        for m in re.finditer(r"/blogs/dog-breeds/([a-z0-9-]+)", h):
+            w = weights.get(m.group(1))
+            if w:
+                mids.append(sum(w) / 2)
+    if not mids:
+        return None
+    mids.sort()
+    mid = mids[len(mids) // 2]
+    return (mid, mid)
 
 
 def with_disclosure(h: str) -> str:
