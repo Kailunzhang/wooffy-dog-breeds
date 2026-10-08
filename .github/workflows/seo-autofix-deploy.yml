@@ -15,6 +15,9 @@ on:
     paths:
       - 'breed-data/**'
 
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -49,4 +52,19 @@ jobs:
             echo "No breed-data slugs changed; nothing to deploy."
             exit 0
           fi
-          echo YES | python3 scripts/generate.py $SLUGS --update
+          # --touch-updated stamps meta.content_updated (visible "Last updated"
+          # line + custom.content_updated metafield -> schema dateModified) and
+          # writes it back to the JSON, committed below so main stays in sync.
+          echo YES | python3 scripts/generate.py $SLUGS --update --touch-updated
+
+      - name: Commit content_updated stamps
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add breed-data
+          if git diff --cached --quiet; then
+            echo "no stamp changes to commit"
+          else
+            git commit -m "chore: stamp content_updated after deploy [skip ci]"
+            git push
+          fi

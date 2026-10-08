@@ -5,10 +5,17 @@ Usage:
   python generate.py --all                      # generate all breed-data/*.json
   python generate.py golden-retriever --publish # generate + publish to Shopify
   python generate.py golden-retriever --update  # update existing article (by handle)
+  python generate.py golden-retriever --update --touch-updated
+                                                # also stamp meta.content_updated = today
+                                                # (visible "Last updated" line + the
+                                                # custom.content_updated metafield that
+                                                # the theme uses for schema dateModified)
   python generate.py --get-blog-id              # list all blogs to find SHOPIFY_BLOG_ID
   python generate.py --update-articles-md       # regenerate ARTICLES.md from breed-data/
 """
 
+import datetime as _dt
+import html as html_lib
 import json
 import os
 import re
@@ -97,16 +104,88 @@ def load_breed(slug):
         return json.load(f)
 
 
-def build_stats_grid(stats):
-    cards = ""
-    for key, s in stats.items():
-        cards += f"""
-    <div style="background:#ffffff;border-radius:8px;padding:14px 10px;text-align:center;border:1px solid rgba(0,0,0,0.1);">
-      <div style="font-size:1.2em;margin-bottom:6px;">{s['emoji']}</div>
-      <div style="font-family:'figmaMono','SF Mono',monospace;font-size:0.58em;font-weight:400;letter-spacing:0.54px;text-transform:uppercase;color:rgba(0,0,0,0.5);margin-bottom:4px;">{s['label']}</div>
-      <div style="font-size:0.85em;font-weight:700;color:#000000;letter-spacing:-0.14px;">{s['value']}</div>
-    </div>"""
-    return f'<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px;">{cards}\n  </div>'
+def save_breed(slug, breed):
+    """Write a breed JSON back in the repo's canonical style (indent 2, utf-8)."""
+    path = os.path.join(BREED_DATA_DIR, f"{slug}.json")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(breed, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+
+
+def build_stats_grid(stats, name=""):
+    """At-a-glance stats as a semantic <table> (GEO_PLAN W2.2).
+
+    Two label/value pairs per row so it stays four cells wide on phones.
+    <th scope="row"> labels + <td> values extract cleanly for answer engines;
+    border-spacing keeps the card look of the old div grid.
+    """
+    th = ("font-family:'figmaMono','SF Mono',monospace;font-size:0.62em;font-weight:400;"
+          "letter-spacing:0.54px;text-transform:uppercase;color:rgba(0,0,0,0.5);"
+          "text-align:left;padding:12px 10px;background:#ffffff;border:1px solid rgba(0,0,0,0.1);"
+          "border-right:0;border-radius:8px 0 0 8px;white-space:nowrap;width:22%;vertical-align:middle;")
+    td = ("font-size:0.9em;font-weight:700;color:#000000;letter-spacing:-0.14px;padding:12px 10px;"
+          "background:#ffffff;border:1px solid rgba(0,0,0,0.1);border-left:0;border-radius:0 8px 8px 0;"
+          "vertical-align:middle;width:28%;")
+    items = list(stats.items())
+    rows = ""
+    for i in range(0, len(items), 2):
+        cells = ""
+        for key, st in items[i:i + 2]:
+            emoji = f'<span aria-hidden="true" style="font-size:1.1em;margin-right:6px;">{st.get("emoji", "")}</span>' if st.get("emoji") else ""
+            cells += f'<th scope="row" style="{th}">{emoji}{st.get("label", key)}</th><td style="{td}">{st.get("value", "")}</td>'
+        rows += f"\n    <tr>{cells}</tr>"
+    caption = f"{name} at a glance" if name else "At a glance"
+    return f"""<table class="wooffy-stats" style="width:100%;border-collapse:separate;border-spacing:0 8px;margin:0;">
+  <caption style="caption-side:top;text-align:left;font-family:'figmaMono','SF Mono',monospace;font-size:0.7em;font-weight:400;letter-spacing:0.54px;text-transform:uppercase;color:rgba(0,0,0,0.45);padding:0 0 2px 0;">{caption}</caption>
+  <tbody>{rows}
+  </tbody>
+</table>"""
+
+
+def build_updated_line(breed):
+    """Visible "Last updated <Month D, YYYY>" line from meta.content_updated.
+
+    The same date is pushed as the custom.content_updated metafield, which
+    the theme's seo-schema snippet uses for BlogPosting.dateModified, so the
+    text people (and answer engines) read matches the structured data.
+    Set it with `generate.py <slug> --update --touch-updated`.
+    """
+    raw = (breed.get("meta", {}).get("content_updated") or "").strip()
+    if not raw:
+        return ""
+    try:
+        d = _dt.date.fromisoformat(raw)
+        pretty = f"{d:%B} {d.day}, {d.year}"  # no %-d: must also run on Windows
+    except ValueError:
+        return ""
+    return (f'<p class="wooffy-updated" style="font-family:\'figmaMono\',\'SF Mono\',monospace;font-size:0.72em;'
+            f'letter-spacing:0.3px;color:rgba(0,0,0,0.5);margin:-8px 0 14px 0;">'
+            f'Last updated <time datetime="{raw}">{pretty}</time></p>\n')
+
+
+QUICK_ANSWER_MARKER = "<!-- WOOFFY_QUICK_ANSWER_v2 -->"
+
+
+def build_quick_answer(breed):
+    """Direct-answer box rendered right under the intro heading (GEO_PLAN W2.1).
+
+    Reads meta.quick_answer (plain text, 50-80 words, set by
+    scripts/geo_quick_answers.py or by hand). Skipped when empty or when the
+    intro already carries a hand-built quick answer (the v1 marker), so a
+    page never shows two boxes.
+    """
+    text = (breed.get("meta", {}).get("quick_answer") or "").strip()
+    if not text:
+        return ""
+    intro_html = (breed.get("sections", {}).get("intro") or {}).get("html", "")
+    if "WOOFFY_QUICK_ANSWER" in intro_html:
+        return ""
+    safe = html_lib.escape(text, quote=False)
+    return f"""{QUICK_ANSWER_MARKER}
+<div class="quick-answer" style="background:#f8f8f8;padding:16px 22px;border-left:4px solid #1a1a1a;margin:0 0 24px 0;border-radius:6px;">
+  <p style="margin:0;font-size:1.05em;line-height:1.6;color:#1a1a1a;"><strong>Quick Answer:</strong> {safe}</p>
+</div>
+"""
 
 
 def build_toc(sections, breed):
@@ -138,6 +217,12 @@ def build_toc(sections, breed):
                 continue
         anchor = key.replace("_", "-")
         heading = sec.get("heading", "") if isinstance(sec, dict) else ""
+        # Question headings (GEO_PLAN W2.3) are long; the sidebar shows the
+        # short section label instead, e.g. "Wellness" for
+        # "What health problems are common in the Akita?".
+        short = sec.get("label", "") if isinstance(sec, dict) else ""
+        if heading.rstrip().endswith("?") and short and short.lower() != "overview":
+            heading = short
         label = heading or fallbacks.get(key, key)
         label = label.replace("<br>", " ").replace("<br/>", " ")
         items += f'    <li><a href="#{anchor}">{label}</a></li>\n'
@@ -401,11 +486,11 @@ def generate_html(breed):
 
     # intro (no border-top on first section)
     intro = s.get("intro", {})
-    stats_html = f'<div style="margin-top:24px;">{build_stats_grid(breed["stats"])}</div>' if breed.get("stats") else ""
+    stats_html = f'<div style="margin-top:24px;">{build_stats_grid(breed["stats"], name)}</div>' if breed.get("stats") else ""
     content += f"""<div style="margin-bottom:48px;">
   <p style="font-family:'figmaMono','SF Mono',monospace;font-size:0.7em;font-weight:400;letter-spacing:0.54px;text-transform:uppercase;color:rgba(0,0,0,0.45);margin:0 0 8px 0;">{intro.get('label','')}</p>
   <h2 id="intro" style="font-size:1.5em;font-weight:700;color:#1a1a1a;margin:0 0 16px 0;line-height:1.2;">{intro.get('heading','')}</h2>
-  {intro.get('html','')}
+  {build_updated_line(breed)}{build_quick_answer(breed)}{intro.get('html','')}
   {stats_html}
 </div>"""
 
@@ -932,6 +1017,15 @@ def publish_to_shopify(breed, html, force_update=False):
                     "type":      "single_line_text_field",
                     "namespace": "global"
                 } if title_tag else None),
+                # Theme reads this for BlogPosting.dateModified (definition
+                # custom.content_updated, type date). Sent whenever the JSON
+                # carries a date, so Shopify stays in sync with the source.
+                ({
+                    "key":       "content_updated",
+                    "value":     m["content_updated"],
+                    "type":      "date",
+                    "namespace": "custom"
+                } if m.get("content_updated") else None),
             ] if mf is not None
         ]
     }
@@ -992,7 +1086,11 @@ if __name__ == "__main__":
 
     do_publish = "--publish" in args
     do_update  = "--update"  in args
+    touch_updated = "--touch-updated" in args
     slugs      = [a for a in args if not a.startswith("--")]
+    if touch_updated and not (do_publish or do_update):
+        print("--touch-updated only makes sense together with --publish or --update")
+        sys.exit(1)
 
     if "--all" in args:
         slugs = [os.path.splitext(os.path.basename(f))[0]
@@ -1026,6 +1124,12 @@ if __name__ == "__main__":
         print(f"\n>> {slug}")
         try:
             breed = load_breed(slug)
+            if touch_updated:
+                today = _dt.date.today().isoformat()
+                if breed["meta"].get("content_updated") != today:
+                    breed["meta"]["content_updated"] = today
+                    save_breed(slug, breed)
+                    print(f"  content_updated -> {today}")
             if breed.get("body_html") is not None:
                 # Passthrough mode (imported nutrition / non-wooffy templates):
                 # the JSON carries the article HTML verbatim. Do NOT render the

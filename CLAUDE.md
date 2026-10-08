@@ -312,4 +312,5 @@ Roundup breed cards are in `sections.care.html`. Each card follows the format in
 - `scripts/generate.py` — main publish/update script
 - `published_log.json` — dict of published handles (gitignored)
 - `PUBLISHING_SCHEDULE.md` — full original schedule
+- `GEO_PLAN.md` — 8-week Generative Engine Optimization plan (quick answers, citations, cost index, AI-referral tracking)
 - `fix_roundups.py` — one-time script used to fix roundup breed cards
