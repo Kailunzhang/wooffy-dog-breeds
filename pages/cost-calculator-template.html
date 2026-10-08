@@ -1,214 +1,381 @@
-<!-- Wooffy First-Year Puppy Cost Calculator - Shopify Page body.
-     Site-native style: white cards, 12px radius, rgba(0,0,0,0.08) borders,
-     #1a1a1a / #6b7177 text, #108474 teal accent, cream section bg.
-     The DATA placeholder in the script below is replaced at build time. -->
-<div id="wf-calc" style="max-width:760px;margin:0 auto;padding:8px 4px 40px 4px;color:#1a1a1a;">
+<!-- Wooffy First-Year Dog Cost Calculator - Shopify Page body (HTML mode), /pages/dog-cost-calculator.
+     Built by scripts/build_cost_calculator.py: __CALC_*__ placeholders are replaced at build time.
+     Paste pages/cost-calculator-FINAL.html, not this template. All styles are scoped under #wf-calc
+     and reset the Dawn .rte rules (buttons, selects, lists, headings, links) that would otherwise leak in. -->
+<style>
+#wf-calc{max-width:760px;margin:0 auto;padding:4px 0 40px;color:#1a1a1a;font-size:16px;line-height:1.6;letter-spacing:normal;text-align:left;word-break:normal;}
+#wf-calc *,#wf-calc *::before,#wf-calc *::after{box-sizing:border-box;}
+#wf-calc p{margin:0 0 12px;font-size:16px;line-height:1.65;}
+#wf-calc h2{font-size:22px;line-height:1.3;margin:36px 0 12px;color:#1a1a1a;letter-spacing:normal;font-weight:700;}
+#wf-calc h3{font-size:17px;line-height:1.4;margin:22px 0 6px;color:#1a1a1a;letter-spacing:normal;font-weight:700;}
+#wf-calc ul,#wf-calc li{list-style:none;margin:0;padding:0;}
+#wf-calc a{color:#0b6e61;font-weight:600;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:2px;}
+#wf-calc a:hover{color:#08493f;}
+#wf-calc strong{color:#1a1a1a;font-weight:700;}
+#wf-calc button,#wf-calc select,#wf-calc input{font-family:inherit;font-size:16px;line-height:1.3;letter-spacing:normal;text-transform:none;text-shadow:none;box-shadow:none;margin:0;min-width:0;min-height:0;height:auto;}
+#wf-calc button::before,#wf-calc button::after{content:none;display:none;}
+#wf-calc :focus{outline:none;}
+#wf-calc :focus-visible{outline:3px solid #0b6e61;outline-offset:2px;}
+#wf-calc .wf-muted{color:#5c6166;}
+#wf-calc .wf-nw{white-space:nowrap;}
+#wf-calc .wf-intro{font-size:17px;color:#5c6166;margin:0 0 6px;}
+#wf-calc .wf-panel{background:#faf7f2;border:1px solid #e6e1d8;border-radius:16px;padding:20px;margin:18px 0;}
+#wf-calc .wf-label{display:block;font-weight:700;font-size:15px;margin:0 0 8px;color:#1a1a1a;}
+#wf-calc select{display:block;width:100%;padding:12px 14px;border:1px solid #b9b4ab;border-radius:10px;background:#ffffff;color:#1a1a1a;cursor:pointer;margin-bottom:18px;}
+#wf-calc .wf-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px;}
+#wf-calc .wf-seg{display:flex;background:#ffffff;border:1px solid #b9b4ab;border-radius:10px;overflow:hidden;}
+#wf-calc .wf-seg button{flex:1 1 0;padding:10px 6px;font-size:15px;font-weight:600;border:0;border-radius:0;background:transparent;color:#3d4246;cursor:pointer;-webkit-appearance:none;appearance:none;}
+#wf-calc .wf-seg button+button{border-left:1px solid #e6e1d8;}
+#wf-calc .wf-seg button:hover{background:#f1efe9;}
+#wf-calc .wf-seg button[aria-pressed="true"]{background:#0b6e61;color:#ffffff;}
+#wf-calc .wf-seg button:focus-visible{outline-offset:-3px;outline-color:#1a1a1a;}
+#wf-calc .wf-results{background:#ffffff;border:1px solid #e0ddd6;border-radius:16px;overflow:hidden;margin:18px 0;}
+#wf-calc .wf-summary{padding:22px 22px 6px;}
+#wf-calc .wf-kicker{font-size:13px;font-weight:700;color:#0b6e61;letter-spacing:0.4px;text-transform:uppercase;}
+#wf-calc .wf-total{font-size:34px;font-weight:800;line-height:1.15;margin:6px 0 4px;color:#1a1a1a;}
+#wf-calc .wf-small{font-size:14px;line-height:1.55;color:#5c6166;margin:0 0 6px;}
+#wf-calc .wf-rows{padding:4px 22px 8px;}
+#wf-calc .wf-row{display:flex;justify-content:space-between;align-items:baseline;gap:12px;padding:10px 0;border-bottom:1px solid #ece9e3;}
+#wf-calc .wf-row:last-child{border-bottom:0;}
+#wf-calc .wf-row .l{font-size:16px;color:#1a1a1a;}
+#wf-calc .wf-row .l small{display:block;color:#5c6166;font-size:13px;line-height:1.4;}
+#wf-calc .wf-row .v{font-weight:700;font-size:16px;white-space:nowrap;}
+#wf-calc .wf-est{font-size:13px;font-weight:600;color:#8a4b08;white-space:nowrap;}
+#wf-calc .wf-notes{padding:0 22px 16px;}
+#wf-calc .wf-notes li{position:relative;padding-left:14px;margin:0 0 6px;font-size:14px;line-height:1.55;color:#5c6166;}
+#wf-calc .wf-notes li::before{content:"";position:absolute;left:0;top:0.62em;width:5px;height:5px;border-radius:50%;background:#8b9196;}
+#wf-calc .wf-compare{background:#faf7f2;padding:14px 22px;font-size:15px;line-height:1.6;color:#3d4246;}
+#wf-calc .wf-compare p{font-size:15px;margin:0 0 4px;}
+#wf-calc .wf-compare p:last-child{margin:0;}
+#wf-calc .wf-ins{background:#eef6f4;border-left:4px solid #0b6e61;border-radius:12px;padding:16px 20px;margin:18px 0;}
+#wf-calc .wf-ins p{font-size:15px;margin:0;color:#1a1a1a;}
+#wf-calc .wf-ins .wf-ins-title{font-weight:700;margin:0 0 4px;}
+#wf-calc .wf-ins .wf-src{font-size:13px;color:#3d4246;margin-top:8px;}
+#wf-calc .wf-faq p{color:#3d4246;}
+#wf-calc .wf-foot{font-size:13px;line-height:1.6;color:#5c6166;margin-top:28px;border-top:1px solid #ece9e3;padding-top:14px;}
+@media (max-width:480px){
+  #wf-calc .wf-panel{padding:16px;}
+  #wf-calc .wf-summary{padding:18px 16px 6px;}
+  #wf-calc .wf-rows{padding:4px 16px 8px;}
+  #wf-calc .wf-notes{padding:0 16px 14px;}
+  #wf-calc .wf-compare{padding:14px 16px;}
+  #wf-calc .wf-total{font-size:30px;}
+  #wf-calc .wf-seg button{font-size:14px;padding:10px 4px;}
+}
+</style>
 
-  <p style="font-size:1.05em;line-height:1.7;color:#6b7177;margin:0 0 6px 0;">
-    Every number below comes from our breed-by-breed cost guides &mdash; real ranges for
-    <strong style="color:#1a1a1a;">164 breeds</strong>, not one-size-fits-all averages.
+<div id="wf-calc">
+
+  <p class="wf-intro">
+    Built from our first-year cost guides for <strong>__CALC_COUNT__ breeds and doodle mixes</strong>.
+    Where a guide skips an item, we use the typical figure for dogs of the same size.
   </p>
 
   <!-- CONTROLS -->
-  <div style="background:#faf7f2;border:1px solid rgba(0,0,0,0.06);border-radius:16px;padding:20px;margin:18px 0;">
-    <label for="wf-breed" style="display:block;font-weight:700;font-size:0.95em;margin:0 0 8px 0;">Your breed</label>
-    <select id="wf-breed" style="width:100%;padding:12px 14px;font-size:1em;border:1px solid rgba(0,0,0,0.15);border-radius:10px;background:#ffffff;color:#1a1a1a;margin-bottom:18px;"></select>
+  <div class="wf-panel">
+    <label class="wf-label" for="wf-breed">Your breed</label>
+    <select id="wf-breed"></select>
 
-    <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;">
+    <div class="wf-grid">
       <div>
-        <span style="display:block;font-weight:700;font-size:0.95em;margin-bottom:8px;">Where you live</span>
-        <div id="wf-region" class="wf-seg">
-          <button data-v="0.85">Small town</button>
-          <button data-v="1" class="on">Suburb</button>
-          <button data-v="1.3">Big city</button>
+        <span class="wf-label" id="wf-region-label">Where you live</span>
+        <div id="wf-region" class="wf-seg" role="group" aria-labelledby="wf-region-label">
+          <button type="button" data-v="town" aria-pressed="false">Small town</button>
+          <button type="button" data-v="suburb" aria-pressed="true">Suburb</button>
+          <button type="button" data-v="city" aria-pressed="false">Big city</button>
         </div>
       </div>
       <div>
-        <span style="display:block;font-weight:700;font-size:0.95em;margin-bottom:8px;">Puppy from</span>
-        <div id="wf-source" class="wf-seg">
-          <button data-v="breeder" class="on">Breeder</button>
-          <button data-v="rescue">Rescue</button>
+        <span class="wf-label" id="wf-source-label">Getting your dog from</span>
+        <div id="wf-source" class="wf-seg" role="group" aria-labelledby="wf-source-label">
+          <button type="button" data-v="breeder" aria-pressed="true">Breeder</button>
+          <button type="button" data-v="rescue" aria-pressed="false">Rescue</button>
         </div>
       </div>
       <div>
-        <span style="display:block;font-weight:700;font-size:0.95em;margin-bottom:8px;">Pet insurance</span>
-        <div id="wf-ins" class="wf-seg">
-          <button data-v="yes" class="on">Yes</button>
-          <button data-v="no">No</button>
+        <span class="wf-label" id="wf-ins-label">Pet insurance</span>
+        <div id="wf-ins" class="wf-seg" role="group" aria-labelledby="wf-ins-label">
+          <button type="button" data-v="yes" aria-pressed="true">Yes</button>
+          <button type="button" data-v="no" aria-pressed="false">No</button>
         </div>
       </div>
       <div>
-        <span style="display:block;font-weight:700;font-size:0.95em;margin-bottom:8px;">Grooming</span>
-        <div id="wf-groom" class="wf-seg">
-          <button data-v="pro" class="on">Professional</button>
-          <button data-v="diy">I'll DIY</button>
+        <span class="wf-label" id="wf-groom-label">Grooming</span>
+        <div id="wf-groom" class="wf-seg" role="group" aria-labelledby="wf-groom-label">
+          <button type="button" data-v="pro" aria-pressed="true">Professional</button>
+          <button type="button" data-v="diy" aria-pressed="false">I&rsquo;ll DIY</button>
         </div>
       </div>
     </div>
   </div>
 
   <!-- RESULTS -->
-  <div id="wf-results" style="background:#ffffff;border:1px solid rgba(0,0,0,0.08);border-radius:16px;overflow:hidden;margin:18px 0;">
-    <div style="padding:22px 22px 6px 22px;">
-      <div style="font-size:0.85em;font-weight:600;color:#108474;letter-spacing:0.3px;text-transform:uppercase;">First-year estimate</div>
-      <div id="wf-total" style="font-size:2.1em;font-weight:800;line-height:1.15;margin:6px 0 2px 0;">$&mdash;</div>
-      <div id="wf-monthly" style="font-size:0.95em;color:#6b7177;margin-bottom:10px;"></div>
+  <section class="wf-results" id="wf-results" aria-labelledby="wf-kicker">
+    <div class="wf-summary" aria-live="polite" aria-atomic="true">
+      <div class="wf-kicker" id="wf-kicker">First-year estimate</div>
+      <div class="wf-total" id="wf-total">$&mdash;</div>
+      <p class="wf-small" id="wf-sum-note"></p>
+      <p class="wf-small" id="wf-ongoing"></p>
     </div>
-    <div id="wf-rows" style="padding:0 22px 8px 22px;"></div>
-    <div id="wf-notes" style="padding:0 22px 16px 22px;font-size:0.85em;color:#6b7177;line-height:1.6;"></div>
-    <div id="wf-compare" style="background:#faf7f2;padding:14px 22px;font-size:0.9em;color:#6b7177;line-height:1.6;"></div>
+    <div class="wf-rows" id="wf-rows"></div>
+    <ul class="wf-notes" id="wf-notes"></ul>
+    <div class="wf-compare" id="wf-compare"></div>
+  </section>
+
+  <!-- INSURANCE NOTE. Affiliate slot stays hidden until a real link exists; when it goes live,
+       add an affiliate disclosure right next to it (FTC Endorsement Guides). -->
+  <div class="wf-ins" id="wf-ins-cta" data-slot="insurance-cta">
+    <p class="wf-ins-title">Insurance is one of the biggest choices in this budget</p>
+    <p>Insurance won&rsquo;t cover conditions that show signs before you enroll or during the waiting period, so if you plan to insure, compare quotes early. Check whether each policy covers hereditary conditions. Some exclude them or charge extra.</p>
+    <p class="wf-src">Source: <a href="https://content.naic.org/sites/default/files/MO633.pdf" rel="noopener" target="_blank">NAIC Pet Insurance Model Act</a></p>
+    <a data-slot="insurance-link" href="#" hidden style="display:none;">Compare quotes for your breed</a>
   </div>
 
-  <!-- INSURANCE CTA (affiliate slot) -->
-  <div id="wf-ins-cta" data-slot="insurance-cta" style="display:none;background:#0d5f53;border-radius:16px;padding:20px 22px;margin:18px 0;color:#ffffff;">
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:6px;">Insurance is the biggest &ldquo;maybe&rdquo; in this budget</div>
-    <div style="font-size:0.92em;line-height:1.65;opacity:0.9;margin-bottom:14px;">
-      One emergency visit runs $300&ndash;$1,500+. Locking a policy in while your puppy is young
-      keeps hereditary conditions coverable &mdash; compare quotes before the first vet visit notes anything.
-    </div>
-    <a data-slot="insurance-link" href="#" onclick="return false;"
-       style="display:inline-block;background:#ffffff;color:#0d5f53;font-weight:700;padding:11px 20px;border-radius:10px;text-decoration:none;font-size:0.95em;opacity:0.55;cursor:default;">
-      Compare quotes for your breed &rarr; <span style="font-weight:400;font-size:0.85em;">(coming soon)</span>
-    </a>
-  </div>
-
-  <!-- EMAIL CAPTURE (slot) -->
-  <div data-slot="email-capture" style="background:#ffffff;border:1px solid rgba(0,0,0,0.08);border-radius:16px;padding:20px 22px;margin:18px 0;">
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:6px;">Want this as a month-by-month budget?</div>
-    <div style="font-size:0.92em;color:#6b7177;line-height:1.65;margin-bottom:14px;">
-      Get your breed&rsquo;s full first-year timeline &mdash; what you&rsquo;ll spend in months 0&ndash;2, 3&ndash;6, and 7&ndash;12 &mdash; as a printable PDF.
-    </div>
-    <form data-slot="email-form" onsubmit="return false;" style="display:flex;gap:10px;flex-wrap:wrap;">
-      <input type="email" placeholder="you@email.com" required
-             style="flex:1;min-width:200px;padding:11px 14px;border:1px solid rgba(0,0,0,0.15);border-radius:10px;font-size:0.95em;">
-      <button type="submit" style="background:#1a1a1a;color:#ffffff;font-weight:700;border:none;padding:11px 22px;border-radius:10px;font-size:0.95em;cursor:pointer;">
-        Send it
-      </button>
+  <!-- EMAIL CAPTURE: dormant slot. Hidden until the PDF and an email service exist.
+       When it goes live: real form action, a privacy line, then remove hidden + display:none. -->
+  <div data-slot="email-capture" hidden style="display:none;">
+    <p><strong>Want this as a month-by-month budget?</strong></p>
+    <form data-slot="email-form" onsubmit="return false;">
+      <label for="wf-email">Email</label>
+      <input id="wf-email" type="email" placeholder="you@email.com" autocomplete="email">
+      <button type="submit">Send it</button>
     </form>
   </div>
 
-  <p id="wf-article-link" style="font-size:0.95em;line-height:1.7;color:#6b7177;"></p>
-  <p style="font-size:0.8em;color:#9aa0a5;line-height:1.6;margin-top:26px;">
-    Ranges reflect typical US pricing from Wooffy&rsquo;s breed cost guides; a few line items for some breeds
-    are estimated from similar-sized breeds. Your actual costs vary with region, breeder, and luck.
-    This is planning guidance, not a quote.
+  <p id="wf-article-link" class="wf-muted"></p>
+
+  <!-- SUPPORTING CONTENT -->
+  <h2>How these numbers work</h2>
+  <p>Each breed&rsquo;s figures come from its Wooffy first-year cost guide. The calculator adds up the line items for the options you pick: the puppy price or adoption fee, year-one vet care, spay/neuter, 12 months of food and insurance, grooming, and setup. Items a guide doesn&rsquo;t list are filled in with the typical figure for dogs of the same size and marked &ldquo;(estimate)&rdquo;. The region setting moves vet, spay/neuter and grooming prices about 10% down or 15% up, a rough guide in line with <a href="https://apps.bea.gov/scb/infographics/2025/0625-scb-infographic-rpp.pdf" rel="noopener" target="_blank">US regional price levels from the BEA</a>, not local pricing. For the full method, read <a href="/pages/how-we-estimate-dog-costs">how we estimate dog costs</a>.</p>
+  <p><strong>Not sure which breed yet?</strong> <a href="/pages/dog-breed-quiz">Take the dog breed quiz</a> to find breeds that fit your home, then come back here to price them.</p>
+
+  <h2>Dog cost FAQ</h2>
+  <!-- WF-FAQ-START -->
+  <div class="wf-faq">
+    <h3>How much does a dog cost in the first year?</h3>
+    <p>It depends most on the breed and the puppy price. At our default settings (suburb, breeder puppy, pet insurance, professional grooming), first-year totals across the __CALC_COUNT__ breeds and doodle mixes here run from __CALC_MIN__ for the __CALC_MIN_NAME__ to __CALC_MAX__ for the __CALC_MAX_NAME__. A Great Dane comes to __CALC_DANE__.</p>
+  </div>
+  <div class="wf-faq">
+    <h3>Is adopting a dog cheaper than buying from a breeder?</h3>
+    <p>Usually. Shelter and rescue fees usually run $50&ndash;$500, with puppies at the high end, according to Petfinder. Adoption fees often cover first vaccines, spay/neuter and a microchip, so ask what&rsquo;s included. The median breeder price range in our guides is __CALC_PUPPY_MED__.</p>
+  </div>
+  <div class="wf-faq">
+    <h3>How much does pet insurance add to the first year?</h3>
+    <p>In our cost guides, premiums average __CALC_INS_AVG__ a month across breeds, or about __CALC_INS_YEAR__ a year. Insurance won&rsquo;t cover conditions that show signs before you enroll or during the waiting period. If you skip it, consider setting money aside for emergencies: a dog ER exam averages about $135 before tests or treatment, and a night in the hospital averages about $619 (CareCredit, 2025).</p>
+  </div>
+  <div class="wf-faq">
+    <h3>How much does a dog cost after the first year?</h3>
+    <p>Less, because the puppy price, spay/neuter and setup are one-time costs. Across our guides, the median for year two and beyond is __CALC_ONGOING_MED__ a year.</p>
+  </div>
+  <div class="wf-faq">
+    <h3>Why doesn&rsquo;t the total match the breed&rsquo;s cost guide?</h3>
+    <p>The calculator adds up every line item for the options you choose. A guide&rsquo;s headline total may be rounded or leave out the puppy price, and items a guide doesn&rsquo;t list are filled in with the typical figure for dogs of the same size.</p>
+  </div>
+  <!-- WF-FAQ-END -->
+
+  <p class="wf-foot">
+    Ranges reflect typical US pricing from Wooffy&rsquo;s first-year cost guides. For about half the breeds,
+    one or more items (most often spay/neuter) are filled in with the typical figure for dogs of the same size.
+    Where a guide lists no rescue fee, we show a general US range. Your actual costs vary with region, breeder,
+    and your dog&rsquo;s health. This is planning guidance, not a quote. Emergency figures:
+    <a href="https://www.carecredit.com/well-u/pet-care/emergency-vet-visit-cost-and-veterinary-financing/" rel="noopener" target="_blank">CareCredit, 2025</a>.
+    Adoption fees: <a href="https://www.petfinder.com/adopt-or-get-involved/adopting-pets/how-to/pet-adoption-faqs/" rel="noopener" target="_blank">Petfinder</a>.
   </p>
 </div>
 
-<style>
-#wf-calc .wf-seg{display:flex;background:#ffffff;border:1px solid rgba(0,0,0,0.12);border-radius:10px;overflow:hidden;}
-#wf-calc .wf-seg button{flex:1;padding:10px 6px;font-size:0.88em;border:none;background:transparent;color:#6b7177;cursor:pointer;font-weight:600;}
-#wf-calc .wf-seg button.on{background:#108474;color:#ffffff;}
-#wf-calc .wf-row{display:flex;justify-content:space-between;align-items:baseline;padding:9px 0;border-bottom:1px solid rgba(0,0,0,0.06);}
-#wf-calc .wf-row:last-child{border-bottom:none;}
-#wf-calc .wf-row .l{font-size:0.95em;color:#1a1a1a;}
-#wf-calc .wf-row .l small{display:block;color:#9aa0a5;font-size:0.82em;}
-#wf-calc .wf-row .v{font-weight:700;font-size:0.98em;white-space:nowrap;margin-left:12px;}
-@media (max-width:560px){ #wf-calc [style*="grid-template-columns:1fr 1fr"]{grid-template-columns:1fr !important;} }
-</style>
+<script type="application/ld+json">__CALC_JSONLD__</script>
 
 <script>
-(function(){
-var DATA = __CALC_DATA__;
-var $ = function(id){ return document.getElementById(id); };
-var fmt = function(n){ return '$' + Math.round(n).toLocaleString('en-US'); };
-var rng = function(p){ return fmt(p[0]) + ' – ' + fmt(p[1]); };
+(function () {
+  'use strict';
+  var DATA = __CALC_DATA__;
+  var root = document.getElementById('wf-calc');
+  if (!root || !DATA) return;
 
-var state = { breed:null, region:1, source:'breeder', ins:'yes', groom:'pro' };
+  var DEFAULT_BREED = 'golden-retriever';
+  var REGION = { town: 0.9, suburb: 1, city: 1.15 };
+  var RESCUE_FALLBACK = [50, 500];
+  var DEFAULTS = { region: 'suburb', source: 'breeder', ins: 'yes', groom: 'pro' };
+  var CARECREDIT = 'https://www.carecredit.com/well-u/pet-care/emergency-vet-visit-cost-and-veterinary-financing/';
+  var COMPARE = ['chihuahua', 'great-dane'];
+  var THIRDS = ['lowest', 'middle', 'highest'];
 
-var slugs = Object.keys(DATA).sort(function(a,b){ return DATA[a].n < DATA[b].n ? -1 : 1; });
-var sel = $('wf-breed');
-slugs.forEach(function(s){
-  var o = document.createElement('option'); o.value = s; o.textContent = DATA[s].n; sel.appendChild(o);
-});
-state.breed = DATA['golden-retriever'] ? 'golden-retriever' : slugs[0];
-sel.value = state.breed;
+  function $(id) { return document.getElementById(id); }
+  function has(obj, k) { return Object.prototype.hasOwnProperty.call(obj, k); }
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+  function fmt(n) { return '$' + Math.round(n).toLocaleString('en-US'); }
+  function rng(p) { return fmt(p[0]) + '–' + fmt(p[1]); }
+  function rngHtml(p) { return '<span class="wf-nw">' + rng(p) + '</span>'; }
+  function isEst(d, key) { return !!(d.e && d.e.indexOf(key) !== -1); }
+  function scaled(p, m) { return [p[0] * m, p[1] * m]; }
+  function yearly(p) { return [p[0] * 12, p[1] * 12]; }
 
-function seg(id, key){
-  var box = $(id);
-  box.addEventListener('click', function(e){
-    var b = e.target.closest('button'); if(!b) return;
-    box.querySelectorAll('button').forEach(function(x){ x.classList.remove('on'); });
-    b.classList.add('on');
-    state[key] = key === 'region' ? parseFloat(b.dataset.v) : b.dataset.v;
-    render();
+  var slugs = Object.keys(DATA).sort(function (a, b) { return DATA[a].n.localeCompare(DATA[b].n); });
+
+  /* One function prices every breed, so the headline total, the size comparison and the
+     thirds ranking always agree with each other. */
+  function compute(d, st) {
+    var m = REGION[st.region] || 1;
+    var rows = [], notes = [];
+    if (st.source === 'rescue') {
+      var generic = !d.r;
+      rows.push({ l: 'Adoption fee', s: generic ? 'general US range' : '', v: d.r || RESCUE_FALLBACK, e: generic });
+      if (generic) notes.push('This breed&rsquo;s guide doesn&rsquo;t list a rescue fee. Shelter and rescue fees usually run $50&ndash;$500, with puppies at the high end.');
+      notes.push('Adoption fees often cover first vaccines, spay/neuter and a microchip. Ask what&rsquo;s included. We still count a full year of vet care, so your vet line may come in lower.');
+    } else {
+      rows.push({ l: 'Puppy (reputable breeder)', s: '', v: d.p, e: false });
+    }
+    /* d.sv: the guide prices spay/neuter inside its vet line, so there is no separate row. */
+    rows.push({ l: 'Vet, year one', s: d.sv ? 'vaccines, routine visits + spay/neuter (not emergencies)' : 'vaccines + routine visits (not emergencies)', v: scaled(d.v, m), e: isEst(d, 'v') });
+    if (st.source !== 'rescue' && !d.sv) rows.push({ l: 'Spay/neuter', s: '', v: scaled(d.s, m), e: isEst(d, 's') });
+    rows.push({ l: 'Food', s: rng(d.f) + ' a month', v: yearly(d.f), e: isEst(d, 'f') });
+    if (st.ins === 'yes') {
+      rows.push({ l: 'Pet insurance', s: rng(d.i) + ' a month', v: yearly(d.i), e: isEst(d, 'i') });
+    } else {
+      notes.push('Skipping insurance? Consider setting money aside for emergencies. A dog ER exam averages about $135 before tests or treatment, and a night in the hospital averages about $619 (<a href="' + CARECREDIT + '" rel="noopener" target="_blank">CareCredit, 2025</a>).');
+    }
+    if (st.groom === 'pro') {
+      if (d.g[1] > 0) rows.push({ l: 'Professional grooming', s: 'per year', v: scaled(d.g, m), e: isEst(d, 'g') });
+      else notes.push('Our guide lists no professional grooming for this breed.');
+    } else {
+      notes.push('DIY grooming: basic tools are already in Setup &amp; training above.');
+    }
+    rows.push({ l: 'Setup &amp; training', s: 'crate, gear, puppy class', v: d.u, e: isEst(d, 'u') });
+    if (m !== 1) notes.push('Region adjusts vet, spay/neuter and grooming costs only, by a rough 10% down or 15% up. It&rsquo;s a planning guess, not local pricing, so call two or three local vets. Puppy prices and insurance premiums also vary by area, but we don&rsquo;t adjust them.');
+    /* d.x: breed-specific items the guide prices but the calculator has no row for. */
+    if (d.x && d.x.length) {
+      notes.push('Not included above, but listed in this breed&rsquo;s guide: ' + d.x.map(function (x) {
+        return esc(x[0]) + ' (' + rng([x[1], x[2]]) + ')';
+      }).join('; ') + '.');
+    }
+    var anyEst = rows.some(function (r) { return r.e; });
+    if (anyEst) notes.push('Items marked (estimate) aren&rsquo;t priced in this breed&rsquo;s guide, so we use the typical figure for dogs of the same size or a general US range.');
+    var total = rows.reduce(function (t, r) { return [t[0] + r.v[0], t[1] + r.v[1]]; }, [0, 0]);
+    return { rows: rows, notes: notes, total: total };
+  }
+
+  /* Rank every breed once, at default settings, by its low-end total. */
+  var thirdOf = (function () {
+    var lows = slugs.map(function (s) { return compute(DATA[s], DEFAULTS).total[0]; });
+    var out = {};
+    slugs.forEach(function (s, i) {
+      var below = lows.filter(function (x) { return x < lows[i]; }).length;
+      out[s] = Math.min(2, Math.floor(below * 3 / slugs.length));
+    });
+    return out;
+  })();
+
+  function readBreedFromUrl() {
+    try {
+      var q = new URLSearchParams(window.location.search).get('breed');
+      if (!q) q = new URLSearchParams(window.location.hash.replace(/^#/, '')).get('breed');
+      q = q ? q.toLowerCase().trim() : '';
+      return has(DATA, q) ? q : null;
+    } catch (e) { return null; }
+  }
+
+  function writeBreedToUrl(slug) {
+    try {
+      if (!window.history || !window.history.replaceState) return;
+      var u = new URL(window.location.href);
+      if (slug === DEFAULT_BREED) u.searchParams.delete('breed'); else u.searchParams.set('breed', slug);
+      if (/(^#|&)breed=/.test(u.hash)) u.hash = '';
+      window.history.replaceState(window.history.state, '', u.toString());
+    } catch (e) { /* sandboxed or very old browser: deep links still work on load */ }
+  }
+
+  function track(name, params) {
+    try { if (typeof window.gtag === 'function') window.gtag('event', name, params); } catch (e) { /* ignore */ }
+    try {
+      var sa = window.Shopify && window.Shopify.analytics;
+      if (sa && typeof sa.publish === 'function') {
+        sa.publish('wooffy_calc_change', { event: name, breed: params.breed, option: params.option || null, value: params.value || null });
+      }
+    } catch (e) { /* ignore */ }
+  }
+
+  var state = { breed: null, region: DEFAULTS.region, source: DEFAULTS.source, ins: DEFAULTS.ins, groom: DEFAULTS.groom };
+  var sel = $('wf-breed');
+  slugs.forEach(function (s) {
+    var o = document.createElement('option');
+    o.value = s; o.textContent = DATA[s].n; sel.appendChild(o);
   });
-}
-seg('wf-region','region'); seg('wf-source','source'); seg('wf-ins','ins'); seg('wf-groom','groom');
-sel.addEventListener('change', function(){ state.breed = sel.value; render(); });
+  state.breed = readBreedFromUrl() || (has(DATA, DEFAULT_BREED) ? DEFAULT_BREED : slugs[0]);
+  sel.value = state.breed;
 
-function scaled(p, m){ return [p[0]*m, p[1]*m]; }
-function add(a, b){ return [a[0]+b[0], a[1]+b[1]]; }
-
-function render(){
-  var d = DATA[state.breed];
-  var m = state.region;
-  var rows = [], notes = [];
-
-  var acq, acqLabel;
-  if(state.source === 'rescue'){
-    acq = d.r || [300, 600];
-    acqLabel = 'Adoption fee';
-    if(!d.r) notes.push('Typical US rescue fee shown — this breed’s guide doesn’t list one.');
-    notes.push('Adoption fees usually include initial vaccines and spay/neuter.');
-  } else {
-    acq = d.p; acqLabel = 'Puppy (reputable breeder)';
+  function bindSeg(id, key) {
+    var box = $(id);
+    box.addEventListener('click', function (e) {
+      var b = e.target.closest ? e.target.closest('button') : null;
+      if (!b || !box.contains(b) || b.getAttribute('data-v') === state[key]) return;
+      Array.prototype.forEach.call(box.querySelectorAll('button'), function (x) {
+        x.setAttribute('aria-pressed', x === b ? 'true' : 'false');
+      });
+      state[key] = b.getAttribute('data-v');
+      render();
+      track('calc_option_change', { breed: state.breed, option: key, value: state[key] });
+    });
   }
-  rows.push([acqLabel, '', acq]);
+  bindSeg('wf-region', 'region');
+  bindSeg('wf-source', 'source');
+  bindSeg('wf-ins', 'ins');
+  bindSeg('wf-groom', 'groom');
 
-  var vet = scaled(d.v, m);
-  rows.push(['Vet, year one', 'vaccines + routine visits', vet]);
+  sel.addEventListener('change', function () {
+    if (!has(DATA, sel.value)) return;
+    state.breed = sel.value;
+    writeBreedToUrl(state.breed);
+    render();
+    track('calc_breed_change', { breed: state.breed });
+  });
 
-  var spay = [0,0];
-  if(state.source === 'breeder'){ spay = scaled(d.s, m); rows.push(['Spay / neuter', '', spay]); }
-
-  var food = [d.f[0]*12, d.f[1]*12];
-  rows.push(['Food', fmt(d.f[0]) + '–' + fmt(d.f[1]) + ' / month', food]);
-
-  var ins = [0,0];
-  if(state.ins === 'yes'){
-    ins = [d.i[0]*12, d.i[1]*12];
-    rows.push(['Pet insurance', fmt(d.i[0]) + '–' + fmt(d.i[1]) + ' / month', ins]);
-  } else {
-    notes.push('Skipping insurance? Vets recommend a $1,500–$3,000 emergency fund instead.');
+  function isDefault() {
+    return state.region === DEFAULTS.region && state.source === DEFAULTS.source &&
+      state.ins === DEFAULTS.ins && state.groom === DEFAULTS.groom;
   }
 
-  var groom = [0,0];
-  if(state.groom === 'pro'){ groom = scaled(d.g, m); if(groom[1] > 0) rows.push(['Professional grooming', 'per year', groom]); }
-  else { notes.push('DIY grooming: tools are already in your setup cost below.'); }
+  function render() {
+    var d = DATA[state.breed];
+    var res = compute(d, state);
+    var name = esc(d.n);
 
-  var setup = d.u;
-  rows.push(['Setup & training', 'crate, gear, puppy class', setup]);
+    $('wf-total').textContent = rng(res.total);
+    $('wf-sum-note').innerHTML = 'This adds up every line item below, so it can differ from the headline total in our ' +
+      name + ' guide. Some guides quote totals without the puppy price.';
+    var perMonth = (d.a[0] + d.a[1]) / 2 / 12;
+    $('wf-ongoing').innerHTML = 'Year two and beyond (typical, from our guide): about ' + rngHtml(d.a) +
+      ' a year (about ' + fmt(perMonth) + ' a month)' + (isEst(d, 'a') ? ' <span class="wf-est">(estimate)</span>' : '');
 
-  if(m !== 1) notes.push('Region adjusts services (vet, grooming) — puppy prices are a national market.');
+    $('wf-rows').innerHTML = res.rows.map(function (r) {
+      return '<div class="wf-row"><span class="l">' + r.l + (r.e ? ' <span class="wf-est">(estimate)</span>' : '') +
+        (r.s ? '<small>' + r.s + '</small>' : '') + '</span><span class="v">' + rng(r.v) + '</span></div>';
+    }).join('');
 
-  var total = [0,0];
-  [acq, vet, spay, food, ins, groom, setup].forEach(function(p){ total = add(total, p); });
+    $('wf-notes').innerHTML = res.notes.map(function (n) { return '<li>' + n + '</li>'; }).join('');
+    $('wf-notes').style.display = res.notes.length ? '' : 'none';
 
-  $('wf-total').textContent = rng(total);
-  var ongoingMo = (d.a[0] + d.a[1]) / 2 / 12;
-  $('wf-monthly').textContent = 'Year two and beyond: about ' + rng(d.a) + ' per year (≈ ' + fmt(ongoingMo) + '/month)';
+    var parts = [];
+    if (has(DATA, COMPARE[0]) && has(DATA, COMPARE[1])) {
+      var a = compute(DATA[COMPARE[0]], state).total, b = compute(DATA[COMPARE[1]], state).total;
+      parts.push('<p><strong>Size drives much of the budget.</strong> ' +
+        (isDefault() ? 'At our default settings' : 'With the settings above') +
+        ', a Chihuahua&rsquo;s first year comes to ' + rngHtml(a) + ' and a Great Dane&rsquo;s ' + rngHtml(b) + '.</p>');
+    }
+    parts.push('<p>At default settings (suburb, breeder, insurance, professional grooming), the ' + name +
+      ' is in the <strong>' + THIRDS[thirdOf[state.breed]] + ' third</strong> of the ' + slugs.length + ' dogs here.</p>');
+    $('wf-compare').innerHTML = parts.join('');
 
-  $('wf-rows').innerHTML = rows.map(function(r){
-    return '<div class="wf-row"><span class="l">' + r[0] + (r[1] ? '<small>' + r[1] + '</small>' : '') +
-           '</span><span class="v">' + rng(r[2]) + '</span></div>';
-  }).join('');
+    $('wf-ins-cta').style.display = state.ins === 'yes' ? '' : 'none';
 
-  $('wf-notes').innerHTML = notes.map(function(n){ return '• ' + n; }).join('<br>');
-
-  var chi = DATA['chihuahua'], dane = DATA['great-dane'];
-  if(chi && dane){
-    $('wf-compare').innerHTML = '<strong style="color:#1a1a1a;">Size is the budget:</strong> the same first year runs ' +
-      rng(chi.t) + ' for a Chihuahua and ' + rng(dane.t) + ' for a Great Dane. ' +
-      d.n + ' sits ' + (total[0] < 3200 ? 'toward the lighter end.' : (total[0] > 4800 ? 'in the heavyweight bracket.' : 'in the middle of the pack.'));
+    var url = '/blogs/dog-breeds/' + encodeURIComponent(state.breed) + '-first-year-costs';
+    $('wf-article-link').innerHTML = 'Want the reasoning behind every number? Read the full <a href="' + url + '">' +
+      name + ' first-year cost guide</a>.';
   }
 
-  $('wf-ins-cta').style.display = state.ins === 'yes' ? 'block' : 'none';
-
-  var artUrl = 'https://thewooffy.com/blogs/dog-breeds/' + state.breed + '-first-year-costs';
-  $('wf-article-link').innerHTML = 'Want the reasoning behind every number? Read the full ' +
-    '<a href="' + artUrl + '" style="color:#108474;font-weight:700;">' + d.n + ' first-year cost guide</a>.';
-}
-render();
+  render();
 })();
 </script>

@@ -1,0 +1,281 @@
+[
+ {
+  "slug": "saint-bernard",
+  "field": "kids",
+  "value": 5,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "leonberger",
+  "field": "kids",
+  "value": 5,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "flat-coated-retriever",
+  "field": "kids",
+  "value": 5,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "english-springer-spaniel",
+  "field": "kids",
+  "value": 4,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "mini-goldendoodle",
+  "field": "kids",
+  "value": 4,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "ibizan-hound",
+  "field": "small_pets",
+  "value": 2,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "lakeland-terrier",
+  "field": "kids",
+  "value": 3,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "australian-terrier",
+  "field": "small_pets",
+  "value": 2,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "giant-schnauzer",
+  "field": "trainability",
+  "value": 3,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "chinese-crested",
+  "field": "energy",
+  "value": 2,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "giant-schnauzer",
+  "field": "allergy_friendly",
+  "value": true,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "spanish-water-dog",
+  "field": "allergy_friendly",
+  "value": true,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "lakeland-terrier",
+  "field": "allergy_friendly",
+  "value": true,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "harrier",
+  "field": "apartment",
+  "value": 2,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "belgian-tervuren",
+  "field": "apartment",
+  "value": 2,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "great-dane",
+  "field": "heavy_drool",
+  "value": true,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "clumber-spaniel",
+  "field": "heavy_drool",
+  "value": true,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "afghan-hound",
+  "field": "allergy_friendly",
+  "value": true,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "lhasa-apso",
+  "field": "allergy_friendly",
+  "value": true,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "maltese",
+  "field": "barking",
+  "value": 3,
+  "reason": "sanity review; both independent verifiers (page fidelity + cross-breed consistency) agreed",
+  "source": "verify-2026-10-08"
+ },
+ {
+  "slug": "sheepadoodle",
+  "field": "kids",
+  "value": 4,
+  "reason": "verifiers split 5/4 on raising from 3; took the lower",
+  "source": "verify-2026-10-08 (split, owner-reviewed rule)"
+ },
+ {
+  "slug": "staffordshire-bull-terrier",
+  "field": "kids",
+  "value": 4,
+  "reason": "verifiers split 5/4 on raising from 3; took the lower",
+  "source": "verify-2026-10-08 (split, owner-reviewed rule)"
+ },
+ {
+  "slug": "miniature-pinscher",
+  "field": "energy",
+  "value": 3,
+  "reason": "page calls it 'Relentlessly Energetic' and not for lapdog seekers; energy 2 made the quiz say 'couch time'",
+  "source": "verify-2026-10-08 (split, owner-reviewed rule)"
+ },
+ {
+  "slug": "ibizan-hound",
+  "field": "energy",
+  "value": 3,
+  "reason": "page gives no minutes; good_fit leads with 'Active households'; page-fidelity verifier",
+  "source": "verify-2026-10-08 (split, owner-reviewed rule)"
+ },
+ {
+  "slug": "ibizan-hound",
+  "field": "exercise_min",
+  "value": [
+   45,
+   60
+  ],
+  "reason": "page gives no minutes; aligned with Saluki; page-fidelity verifier",
+  "source": "verify-2026-10-08 (split, owner-reviewed rule)"
+ },
+ {
+  "slug": "anatolian-shepherd-dog",
+  "field": "alone",
+  "value": 3,
+  "reason": "breed page not_fit says 'You work full-time with 8+ hours away from home'; quiz must not rate it workday-ready",
+  "source": "page-consistency-cap"
+ },
+ {
+  "slug": "chinese-shar-pei",
+  "field": "alone",
+  "value": 3,
+  "reason": "breed page not_fit says 'You work full-time with 8+ hours away from home'; quiz must not rate it workday-ready",
+  "source": "page-consistency-cap"
+ },
+ {
+  "slug": "komondor",
+  "field": "alone",
+  "value": 3,
+  "reason": "breed page not_fit says 'You work full-time with 8+ hours away from home'; quiz must not rate it workday-ready",
+  "source": "page-consistency-cap"
+ },
+ {
+  "slug": "rhodesian-ridgeback",
+  "field": "alone",
+  "value": 3,
+  "reason": "breed page not_fit says 'You work full-time with 8+ hours away from home'; quiz must not rate it workday-ready",
+  "source": "page-consistency-cap"
+ },
+ {
+  "slug": "scottish-terrier",
+  "field": "alone",
+  "value": 3,
+  "reason": "breed page not_fit says 'You work full-time with 8+ hours away from home'; quiz must not rate it workday-ready",
+  "source": "page-consistency-cap"
+ },
+ {
+  "slug": "shiba-inu",
+  "field": "alone",
+  "value": 3,
+  "reason": "breed page not_fit says 'You work full-time with 8+ hours away from home'; quiz must not rate it workday-ready",
+  "source": "page-consistency-cap"
+ },
+ {
+  "slug": "spinone-italiano",
+  "field": "alone",
+  "value": 3,
+  "reason": "breed page not_fit says 'You work full-time with 8+ hours away from home'; quiz must not rate it workday-ready",
+  "source": "page-consistency-cap"
+ },
+ {
+  "slug": "tibetan-mastiff",
+  "field": "alone",
+  "value": 3,
+  "reason": "breed page not_fit says 'You work full-time with 8+ hours away from home'; quiz must not rate it workday-ready",
+  "source": "page-consistency-cap"
+ },
+ {
+  "slug": "tibetan-spaniel",
+  "field": "alone",
+  "value": 3,
+  "reason": "breed page not_fit says 'You work full-time with 8+ hours away from home'; quiz must not rate it workday-ready",
+  "source": "page-consistency-cap"
+ },
+ {
+  "slug": "standard-schnauzer",
+  "field": "apartment",
+  "value": 3,
+  "reason": "breed page not_fit says 'small apartment without nearby outdoor space'",
+  "source": "page-consistency-cap"
+ },
+ {
+  "slug": "xoloitzcuintli",
+  "field": "apartment",
+  "value": 3,
+  "reason": "breed page not_fit says 'small apartment without nearby outdoor space'",
+  "source": "page-consistency-cap"
+ },
+ {
+  "slug": "cavapoo",
+  "field": "kids",
+  "value": 4,
+  "reason": "page not_fit: 'Families with very rough young children — Cavapoos are small and can be injured'",
+  "source": "page-consistency-cap"
+ },
+ {
+  "slug": "norfolk-terrier",
+  "field": "energy",
+  "value": 3,
+  "reason": "page not_fit: owners wanting a calm lap dog 'will be surprised by the Norfolk's energy'",
+  "source": "page-consistency-cap"
+ },
+ {
+  "slug": "chinese-crested",
+  "field": "exercise_min",
+  "value": [
+   30,
+   45
+  ],
+  "reason": "page gives no minutes; align range with energy 2 (verifier note)",
+  "source": "verify-2026-10-08"
+ }
+]

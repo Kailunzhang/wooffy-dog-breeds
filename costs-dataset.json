@@ -213,7 +213,10 @@
    1200,
    3000
   ],
-  "rescue": null,
+  "rescue": [
+   250,
+   600
+  ],
   "vet_year1": [
    300,
    600
@@ -243,8 +246,8 @@
    9800
   ],
   "annual_ongoing": [
-   1360,
-   2600
+   1810,
+   3400
   ],
   "citable_stat": "An Alaskan Malamute costs $3,500–$7,500 in the first year for most families, with the range driven by breed-specific factors like containment upgrades ($500–$2,000 for 6-foot fencing with dig guards) and professional coat management during seasonal blow-outs ($160–$300 annually for 1–2 professional deshedding sessions); an adult Malamute eats 4–6 cups daily of large-breed kibble, budgeted at $600–$1,200 in year one and $700–$1,400 annually thereafter.",
   "missing": [],
@@ -252,6 +255,13 @@
   "weight": "75–100+ lbs",
   "bucket": "large",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/alaskan-malamute-first-year-costs",
+  "extras": [
+   {
+    "label": "Fencing (if upgrade needed)",
+    "low": 500,
+    "high": 2000
+   }
+  ],
   "est": []
  },
  "american-eskimo-dog": {
@@ -352,6 +362,18 @@
   "weight": "60–70 lbs",
   "bucket": "large",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/american-foxhound-first-year-costs",
+  "extras": [
+   {
+    "label": "Secure fencing (if needed)",
+    "low": 500,
+    "high": 2500
+   },
+   {
+    "label": "Pre-surgical clotting panel (if line carries thrombocytopathy)",
+    "low": 50,
+    "high": 150
+   }
+  ],
   "est": []
  },
  "american-staffordshire-terrier": {
@@ -610,14 +632,17 @@
    800,
    1800
   ],
-  "rescue": null,
+  "rescue": [
+   250,
+   600
+  ],
   "vet_year1": [
    500,
    1000
   ],
   "spay_neuter": [
-   200,
-   500
+   0,
+   0
   ],
   "food_monthly": [
    33,
@@ -632,8 +657,8 @@
    350
   ],
   "setup_onetime": [
-   420,
-   650
+   300,
+   500
   ],
   "total_year1": [
    3280,
@@ -651,9 +676,20 @@
   "weight": "40–65 lbs",
   "bucket": "medium",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/australian-shepherd-first-year-costs",
-  "est": [
-   "spay_neuter"
-  ]
+  "spay_in_vet": true,
+  "extras": [
+   {
+    "label": "MDR1/ABCB1 DNA test",
+    "low": 80,
+    "high": 150
+   },
+   {
+    "label": "Training (puppy class + obedience + a canine sport)",
+    "low": 500,
+    "high": 1000
+   }
+  ],
+  "est": []
  },
  "australian-terrier": {
   "puppy": [
@@ -665,8 +701,8 @@
    600
   ],
   "vet_year1": [
-   200,
-   400
+   500,
+   900
   ],
   "spay_neuter": [
    200,
@@ -685,16 +721,16 @@
    400
   ],
   "setup_onetime": [
-   250,
-   510
+   300,
+   650
   ],
   "total_year1": [
    2000,
    4000
   ],
   "annual_ongoing": [
-   300,
-   500
+   1200,
+   2500
   ],
   "citable_stat": "An Australian Terrier puppy from a breeder costs $1,000–$2,500, while a rescue adult runs $250–$600. First-year costs range from $2,000–$2,600 (budget path with adopted adult and DIY grooming) to $3,400–$4,000 (premium path with breeder puppy and professional grooming every 3 months), with monthly food around $30–$50 and insurance $25–$45/month.",
   "missing": [],
@@ -702,9 +738,7 @@
   "weight": "15–20 lbs",
   "bucket": "small",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/australian-terrier-first-year-costs",
-  "est": [
-   "setup_onetime"
-  ]
+  "est": []
  },
  "basenji": {
   "puppy": [
@@ -813,14 +847,17 @@
    500,
    1200
   ],
-  "rescue": null,
+  "rescue": [
+   250,
+   600
+  ],
   "vet_year1": [
    400,
    800
   ],
   "spay_neuter": [
-   200,
-   500
+   0,
+   0
   ],
   "food_monthly": [
    33,
@@ -854,9 +891,15 @@
   "weight": "20–30 lbs",
   "bucket": "small",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/beagle-first-year-costs",
-  "est": [
-   "spay_neuter"
-  ]
+  "spay_in_vet": true,
+  "extras": [
+   {
+    "label": "Fencing/containment upgrade",
+    "low": 0,
+    "high": 1500
+   }
+  ],
+  "est": []
  },
  "bearded-collie": {
   "puppy": [
@@ -868,8 +911,8 @@
    500
   ],
   "vet_year1": [
-   225,
-   450
+   450,
+   900
   ],
   "spay_neuter": [
    250,
@@ -888,8 +931,8 @@
    900
   ],
   "setup_onetime": [
-   310,
-   660
+   460,
+   1060
   ],
   "total_year1": [
    3500,
@@ -920,8 +963,8 @@
    500
   ],
   "vet_year1": [
-   700,
-   1500
+   580,
+   1150
   ],
   "spay_neuter": [
    300,
@@ -948,8 +991,8 @@
    6000
   ],
   "annual_ongoing": [
-   1400,
-   2200
+   2000,
+   3200
   ],
   "citable_stat": "A domestically sourced Beauceron costs $3,500–$6,000 in the first year, with an adult eating roughly 4–5.5 cups of quality large-breed kibble daily for an annual food cost of $900–$1,400, and professional grooming largely unnecessary due to the breed's short, dense double coat requiring only DIY maintenance ($30–$60/year).",
   "missing": [],
@@ -957,6 +1000,13 @@
   "weight": "70–110 lbs",
   "bucket": "large",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/beauceron-first-year-costs",
+  "extras": [
+   {
+    "label": "Prophylactic gastropexy (at spay/neuter)",
+    "low": 400,
+    "high": 600
+   }
+  ],
   "est": []
  },
  "bedlington-terrier": {
@@ -1013,7 +1063,10 @@
    1500,
    3500
   ],
-  "rescue": null,
+  "rescue": [
+   250,
+   600
+  ],
   "vet_year1": [
    400,
    800
@@ -1055,6 +1108,13 @@
   "weight": "40–80 lbs",
   "bucket": "medium",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/belgian-malinois-first-year-costs",
+  "extras": [
+   {
+    "label": "Professional training (foundation through advanced work)",
+    "low": 2000,
+    "high": 5000
+   }
+  ],
   "est": [
    "spay_neuter"
   ]
@@ -1069,8 +1129,8 @@
    500
   ],
   "vet_year1": [
-   425,
-   950
+   515,
+   1025
   ],
   "spay_neuter": [
    250,
@@ -1118,8 +1178,8 @@
    500
   ],
   "vet_year1": [
-   335,
-   675
+   515,
+   1025
   ],
   "spay_neuter": [
    250,
@@ -1138,8 +1198,8 @@
    780
   ],
   "setup_onetime": [
-   445,
-   840
+   570,
+   1040
   ],
   "total_year1": [
    3200,
@@ -1201,7 +1261,7 @@
   "citable_stat": "A Bernedoodle puppy from a reputable breeder costs $2,500–$5,500, with first-year costs (including purchase, setup, vet care, insurance, food, and grooming) totaling $5,200–$10,500; rescue adoption runs $200–$600, and professional grooming costs $600–$1,200/year at $80–$150 per session every 6–8 weeks.",
   "missing": [],
   "name": "Bernedoodle",
-  "weight": "25–90 lbs (Mini, Medium, Standard)",
+  "weight": "26–90 lbs (Mini, Medium, Standard)",
   "bucket": "medium",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/bernedoodle-first-year-costs",
   "est": []
@@ -1359,6 +1419,13 @@
   "weight": "65–110 lbs",
   "bucket": "large",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/black-and-tan-coonhound-first-year-costs",
+  "extras": [
+   {
+    "label": "Fencing (if not already installed)",
+    "low": 500,
+    "high": 3000
+   }
+  ],
   "est": [
    "spay_neuter"
   ]
@@ -1422,7 +1489,8 @@
    1200
   ],
   "rescue": [
-   null
+   150,
+   400
   ],
   "vet_year1": [
    400,
@@ -1465,6 +1533,18 @@
   "weight": "45–80 lbs",
   "bucket": "large",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/bluetick-coonhound-first-year-costs",
+  "extras": [
+   {
+    "label": "Secure fenced yard (if not already fenced)",
+    "low": 1500,
+    "high": 4000
+   },
+   {
+    "label": "Prophylactic gastropexy (standalone)",
+    "low": 800,
+    "high": 1500
+   }
+  ],
   "est": [
    "spay_neuter"
   ]
@@ -1580,8 +1660,8 @@
    400
   ],
   "vet_year1": [
-   500,
-   900
+   300,
+   600
   ],
   "spay_neuter": [
    200,
@@ -1619,6 +1699,18 @@
   "weight": "60–105 lbs",
   "bucket": "large",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/borzoi-first-year-costs",
+  "extras": [
+   {
+    "label": "Fencing (if not already in place)",
+    "low": 500,
+    "high": 3000
+   },
+   {
+    "label": "Gastropexy add-on at spay/neuter",
+    "low": 200,
+    "high": 500
+   }
+  ],
   "est": [
    "annual_ongoing"
   ]
@@ -1657,8 +1749,8 @@
    370
   ],
   "total_year1": [
-   2500,
-   5500
+   2150,
+   7400
   ],
   "annual_ongoing": [
    1250,
@@ -1672,6 +1764,13 @@
   "weight": "12–25 lbs",
   "bucket": "small",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/boston-terrier-first-year-costs",
+  "extras": [
+   {
+    "label": "BOAS evaluation and possible airway surgery",
+    "low": 200,
+    "high": 3000
+   }
+  ],
   "est": []
  },
  "bouvier-des-flandres": {
@@ -1721,6 +1820,18 @@
   "weight": "70–110 lbs",
   "bucket": "large",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/bouvier-des-flandres-first-year-costs",
+  "extras": [
+   {
+    "label": "Prophylactic gastropexy (with spay/neuter)",
+    "low": 400,
+    "high": 600
+   },
+   {
+    "label": "Hip dysplasia screening (OFA or PennHIP X-ray)",
+    "low": 150,
+    "high": 400
+   }
+  ],
   "est": []
  },
  "boxer": {
@@ -1782,8 +1893,8 @@
    500
   ],
   "vet_year1": [
-   500,
-   1000
+   580,
+   1160
   ],
   "spay_neuter": [
    300,
@@ -1802,8 +1913,8 @@
    960
   ],
   "setup_onetime": [
-   500,
-   1000
+   620,
+   1440
   ],
   "total_year1": [
    3800,
@@ -1884,8 +1995,8 @@
    600
   ],
   "vet_year1": [
-   150,
-   300
+   480,
+   900
   ],
   "spay_neuter": [
    200,
@@ -1900,7 +2011,7 @@
    50
   ],
   "grooming_annual": [
-   0,
+   300,
    720
   ],
   "setup_onetime": [
@@ -1981,7 +2092,10 @@
    1500,
    4000
   ],
-  "rescue": null,
+  "rescue": [
+   250,
+   600
+  ],
   "vet_year1": [
    250,
    500
@@ -2000,7 +2114,7 @@
   ],
   "grooming_annual": [
    0,
-   480
+   0
   ],
   "setup_onetime": [
    200,
@@ -2023,6 +2137,18 @@
   "weight": "40–50 lbs",
   "bucket": "medium",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/bulldog-first-year-costs",
+  "extras": [
+   {
+    "label": "BOAS evaluation and, if needed, airway surgery",
+    "low": 500,
+    "high": 4000
+   },
+   {
+    "label": "Skin fold and wrinkle care supplies",
+    "low": 150,
+    "high": 300
+   }
+  ],
   "est": []
  },
  "bullmastiff": {
@@ -2076,10 +2202,13 @@
    1200,
    2500
   ],
-  "rescue": null,
+  "rescue": [
+   200,
+   500
+  ],
   "vet_year1": [
-   425,
-   875
+   525,
+   975
   ],
   "spay_neuter": [
    250,
@@ -2098,16 +2227,16 @@
    400
   ],
   "setup_onetime": [
-   225,
-   495
+   300,
+   675
   ],
   "total_year1": [
    2500,
    4500
   ],
   "annual_ongoing": [
-   1010,
-   2030
+   1200,
+   2200
   ],
   "citable_stat": "A Cairn Terrier's first-year cost ranges from $2,500–$4,500, including the puppy purchase ($1,200–$2,500), with food running $30–$50/month and grooming $180–$400/year depending on hand-stripping versus clipping.",
   "missing": [],
@@ -2122,7 +2251,10 @@
    1500,
    4000
   ],
-  "rescue": null,
+  "rescue": [
+   200,
+   500
+  ],
   "vet_year1": [
    300,
    600
@@ -2161,6 +2293,18 @@
   "weight": "88–110+ lbs",
   "bucket": "giant",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/cane-corso-first-year-costs",
+  "extras": [
+   {
+    "label": "Prophylactic gastropexy",
+    "low": 400,
+    "high": 1200
+   },
+   {
+    "label": "Professional puppy and obedience training",
+    "low": 500,
+    "high": 2000
+   }
+  ],
   "est": []
  },
  "cardigan-welsh-corgi": {
@@ -2417,10 +2561,13 @@
    1200,
    2500
   ],
-  "rescue": null,
-  "vet_year1": [
+  "rescue": [
    250,
-   450
+   600
+  ],
+  "vet_year1": [
+   480,
+   900
   ],
   "spay_neuter": [
    200,
@@ -2439,16 +2586,16 @@
    480
   ],
   "setup_onetime": [
-   180,
-   450
+   250,
+   520
   ],
   "total_year1": [
    3223,
    6895
   ],
   "annual_ongoing": [
-   360,
-   720
+   1400,
+   3020
   ],
   "citable_stat": "A Chinese Crested from a health-tested breeder costs $1,200–$2,500, with first-year totals ranging $3,223–$6,895 (Powder Puff) to $3,423–$6,895 (Hairless) including insurance; monthly food runs $30–$60 for an 8–12 lb adult on quality kibble.",
   "missing": [
@@ -2459,6 +2606,13 @@
   "weight": "8–12 lbs",
   "bucket": "toy",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/chinese-crested-first-year-costs",
+  "extras": [
+   {
+    "label": "Professional dental cleaning",
+    "low": 200,
+    "high": 500
+   }
+  ],
   "est": []
  },
  "chinese-shar-pei": {
@@ -2471,8 +2625,8 @@
    450
   ],
   "vet_year1": [
-   1110,
-   2610
+   410,
+   800
   ],
   "spay_neuter": [
    250,
@@ -2495,12 +2649,12 @@
    660
   ],
   "total_year1": [
-   1950,
-   10850
+   4700,
+   11000
   ],
   "annual_ongoing": [
-   500,
-   1200
+   1840,
+   4590
   ],
   "citable_stat": "A Chinese Shar-Pei from a health-tested breeder costs $1,500–$3,500, with rescue adoption at $150–$450; first-year food runs $500–$1,200 annually for a 45–60 lb adult, and entropion surgery (if needed) can reach $400–$1,500 per eye, making this breed's year-one costs highly variable depending on health outcomes.",
   "missing": [],
@@ -2508,6 +2662,23 @@
   "weight": "45–60 lbs",
   "bucket": "medium",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/chinese-shar-pei-first-year-costs",
+  "extras": [
+   {
+    "label": "Entropion surgery (if needed)",
+    "low": 400,
+    "high": 3000
+   },
+   {
+    "label": "FSF/allergy management (if affected)",
+    "low": 500,
+    "high": 1800
+   },
+   {
+    "label": "Wrinkle care supplies",
+    "low": 60,
+    "high": 150
+   }
+  ],
   "est": []
  },
  "chow-chow": {
@@ -3118,10 +3289,13 @@
    1200,
    2000
   ],
-  "rescue": null,
+  "rescue": [
+   250,
+   600
+  ],
   "vet_year1": [
-   150,
-   350
+   500,
+   1000
   ],
   "spay_neuter": [
    250,
@@ -3363,7 +3537,10 @@
    2500,
    5000
   ],
-  "rescue": null,
+  "rescue": [
+   200,
+   600
+  ],
   "vet_year1": [
    700,
    1300
@@ -3402,6 +3579,23 @@
   "weight": "20–28 lbs",
   "bucket": "small",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/french-bulldog-first-year-costs",
+  "extras": [
+   {
+    "label": "BOAS surgery (soft palate, nares, laryngeal)",
+    "low": 1500,
+    "high": 4000
+   },
+   {
+    "label": "BOAS screening exam",
+    "low": 150,
+    "high": 400
+   },
+   {
+    "label": "Chronic skin fold infections",
+    "low": 200,
+    "high": 600
+   }
+  ],
   "est": []
  },
  "german-pinscher": {
@@ -3725,8 +3919,8 @@
    600
   ],
   "vet_year1": [
-   500,
-   900
+   350,
+   790
   ],
   "spay_neuter": [
    200,
@@ -3759,7 +3953,7 @@
   "citable_stat": "A Goldendoodle puppy from a reputable breeder costs $2,000–$5,000, with rescue adoption at $200–$600; first-year total is $4,500–$8,800 including setup, vet care ($500–$900), spay/neuter ($200–$500), food ($500–$900), insurance ($600–$1,200/year), and professional grooming ($600–$1,200/year).",
   "missing": [],
   "name": "Goldendoodle",
-  "weight": "30–90 lbs (varies by parent size)",
+  "weight": "26–90 lbs (varies by parent size)",
   "bucket": "medium",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/goldendoodle-first-year-costs",
   "est": []
@@ -3864,7 +4058,10 @@
    1000,
    2500
   ],
-  "rescue": null,
+  "rescue": [
+   250,
+   600
+  ],
   "vet_year1": [
    500,
    900
@@ -3905,6 +4102,13 @@
   "weight": "85–160 lbs",
   "bucket": "giant",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/great-pyrenees-first-year-costs",
+  "extras": [
+   {
+    "label": "Secure 6-ft fencing (if not already in place)",
+    "low": 500,
+    "high": 2000
+   }
+  ],
   "est": [
    "spay_neuter"
   ]
@@ -3972,8 +4176,8 @@
    450
   ],
   "vet_year1": [
-   350,
-   500
+   450,
+   750
   ],
   "spay_neuter": [
    300,
@@ -3996,8 +4200,8 @@
    590
   ],
   "total_year1": [
-   2000,
-   3500
+   3500,
+   5500
   ],
   "annual_ongoing": [
    1600,
@@ -4011,6 +4215,13 @@
   "weight": "60–70 lbs",
   "bucket": "large",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/greyhound-first-year-costs",
+  "extras": [
+   {
+    "label": "Professional dental cleaning (every 1–2 yrs)",
+    "low": 400,
+    "high": 800
+   }
+  ],
   "est": [
    "spay_neuter"
   ]
@@ -4020,7 +4231,10 @@
    800,
    1500
   ],
-  "rescue": null,
+  "rescue": [
+   150,
+   400
+  ],
   "vet_year1": [
    400,
    700
@@ -4572,8 +4786,8 @@
    500
   ],
   "vet_year1": [
-   400,
-   800
+   450,
+   900
   ],
   "spay_neuter": [
    150,
@@ -4596,8 +4810,8 @@
    550
   ],
   "total_year1": [
-   2000,
-   4500
+   4000,
+   8000
   ],
   "annual_ongoing": [
    1490,
@@ -4620,7 +4834,10 @@
    1000,
    2000
   ],
-  "rescue": null,
+  "rescue": [
+   200,
+   500
+  ],
   "vet_year1": [
    500,
    900
@@ -4659,6 +4876,23 @@
   "weight": "80–100+ lbs",
   "bucket": "large",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/komondor-first-year-costs",
+  "extras": [
+   {
+    "label": "Preventive gastropexy (at spay/neuter)",
+    "low": 400,
+    "high": 800
+   },
+   {
+    "label": "Training (experienced trainer for guardian breed)",
+    "low": 400,
+    "high": 800
+   },
+   {
+    "label": "Secure fencing (if needed)",
+    "low": 500,
+    "high": 2000
+   }
+  ],
   "est": []
  },
  "labradoodle": {
@@ -4707,7 +4941,7 @@
    "annual_ongoing"
   ],
   "name": "Labradoodle",
-  "weight": "30–85 lbs (varies by Poodle parent size)",
+  "weight": "15–85 lbs (varies by Poodle parent size)",
   "bucket": "medium",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/labradoodle-first-year-costs",
   "est": [
@@ -4719,14 +4953,17 @@
    800,
    1500
   ],
-  "rescue": null,
+  "rescue": [
+   200,
+   500
+  ],
   "vet_year1": [
-   500,
-   900
+   700,
+   1300
   ],
   "spay_neuter": [
-   300,
-   500
+   0,
+   0
   ],
   "food_monthly": [
    50,
@@ -4741,16 +4978,16 @@
    0
   ],
   "setup_onetime": [
-   380,
-   800
+   580,
+   1200
   ],
   "total_year1": [
-   2300,
-   4400
+   3100,
+   5900
   ],
   "annual_ongoing": [
-   1600,
-   2800
+   1800,
+   3200
   ],
   "citable_stat": "A Labrador Retriever puppy from a health-tested breeder costs $800–$1,500, with year-one recurring costs of $2,300–$4,400 beyond the puppy purchase price, and food for a 55–80 lb adult running $600–$1,000 annually.",
   "missing": [
@@ -4761,10 +4998,8 @@
   "weight": "55–80 lbs",
   "bucket": "large",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/labrador-retriever-first-year-costs",
-  "est": [
-   "spay_neuter",
-   "annual_ongoing"
-  ]
+  "spay_in_vet": true,
+  "est": []
  },
  "lagotto-romagnolo": {
   "puppy": [
@@ -5418,7 +5653,10 @@
    1500,
    3000
   ],
-  "rescue": null,
+  "rescue": [
+   250,
+   600
+  ],
   "vet_year1": [
    700,
    1200
@@ -5621,7 +5859,7 @@
   ],
   "rescue": [
    250,
-   3000
+   600
   ],
   "vet_year1": [
    500,
@@ -5822,10 +6060,13 @@
    1000,
    2500
   ],
-  "rescue": null,
+  "rescue": [
+   250,
+   600
+  ],
   "vet_year1": [
-   200,
-   400
+   500,
+   900
   ],
   "spay_neuter": [
    200,
@@ -5852,8 +6093,8 @@
    4000
   ],
   "annual_ongoing": [
-   1040,
-   1620
+   1200,
+   2000
   ],
   "citable_stat": "A Parson Russell Terrier costs $1,000–$2,500 from a reputable breeder with health testing for PLL and Late Onset Ataxia, with an estimated first-year total of $2,000–$4,000 including purchase price and all recurring costs, and a 13–17 lb adult typically eats $25–$45/month.",
   "missing": [],
@@ -5873,8 +6114,8 @@
    350
   ],
   "vet_year1": [
-   660,
-   1300
+   410,
+   800
   ],
   "spay_neuter": [
    250,
@@ -5897,12 +6138,12 @@
    565
   ],
   "total_year1": [
-   1530,
-   3165
+   2960,
+   7015
   ],
   "annual_ongoing": [
-   890,
-   1570
+   1430,
+   3030
   ],
   "citable_stat": "A well-bred Pekingese puppy costs $1,000–$3,000, with rescue adoption running $100–$350; first-year total is $1,530–$3,165 including spay/neuter, vaccinations, food ($200–$350 annually for a 14 lb dog), professional grooming ($330–$800 annually for the breed's demanding double coat), and optional insurance ($360–$720 annually).",
   "missing": [],
@@ -5910,6 +6151,13 @@
   "weight": "Up to 14 lbs",
   "bucket": "toy",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/pekingese-first-year-costs",
+  "extras": [
+   {
+    "label": "BOAS evaluation (if needed)",
+    "low": 100,
+    "high": 500
+   }
+  ],
   "est": []
  },
  "pembroke-welsh-corgi": {
@@ -5917,7 +6165,10 @@
    1000,
    2500
   ],
-  "rescue": null,
+  "rescue": [
+   200,
+   600
+  ],
   "vet_year1": [
    400,
    800
@@ -6005,6 +6256,13 @@
   "weight": "45–55 lbs",
   "bucket": "medium",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/pharaoh-hound-first-year-costs",
+  "extras": [
+   {
+    "label": "Secure fencing (if needed)",
+    "low": 500,
+    "high": 2500
+   }
+  ],
   "est": []
  },
  "pointer": {
@@ -6238,8 +6496,8 @@
    500
   ],
   "total_year1": [
-   3500,
-   7500
+   2250,
+   7600
   ],
   "annual_ongoing": [
    1400,
@@ -6255,6 +6513,18 @@
   "weight": "14–18 lbs",
   "bucket": "small",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/pug-first-year-costs",
+  "extras": [
+   {
+    "label": "BOAS evaluation and possible surgery",
+    "low": 200,
+    "high": 3000
+   },
+   {
+    "label": "Skin fold care supplies (wipes, etc.)",
+    "low": 100,
+    "high": 200
+   }
+  ],
   "est": []
  },
  "puli": {
@@ -6264,7 +6534,7 @@
   ],
   "rescue": [
    250,
-   2000
+   600
   ],
   "vet_year1": [
    400,
@@ -6465,10 +6735,13 @@
    800,
    2000
   ],
-  "rescue": null,
+  "rescue": [
+   250,
+   600
+  ],
   "vet_year1": [
-   200,
-   400
+   500,
+   900
   ],
   "spay_neuter": [
    200,
@@ -6495,8 +6768,8 @@
    3500
   ],
   "annual_ongoing": [
-   300,
-   500
+   1000,
+   1800
   ],
   "citable_stat": "A Russell Terrier costs $1,800–$3,500 in the first year, with food running $20–$40/month and grooming ranging from $0/year for DIY smooth-coat care to $150–$350/year for professional hand-stripping of rough or broken coats.",
   "missing": [],
@@ -6504,6 +6777,13 @@
   "weight": "9–15 lbs",
   "bucket": "toy",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/russell-terrier-first-year-costs",
+  "extras": [
+   {
+    "label": "PLL DNA test (if not included)",
+    "low": 40,
+    "high": 70
+   }
+  ],
   "est": []
  },
  "saint-bernard": {
@@ -6607,7 +6887,8 @@
    6500
   ],
   "rescue": [
-   null
+   250,
+   600
   ],
   "vet_year1": [
    500,
@@ -6903,7 +7184,10 @@
    1200,
    2500
   ],
-  "rescue": null,
+  "rescue": [
+   300,
+   700
+  ],
   "vet_year1": [
    400,
    800
@@ -6925,8 +7209,8 @@
    300
   ],
   "setup_onetime": [
-   250,
-   510
+   450,
+   950
   ],
   "total_year1": [
    3300,
@@ -6944,9 +7228,15 @@
   "weight": "17–23 lbs",
   "bucket": "small",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/shiba-inu-first-year-costs",
+  "extras": [
+   {
+    "label": "Secure fencing (if needed)",
+    "low": 500,
+    "high": 2000
+   }
+  ],
   "est": [
-   "spay_neuter",
-   "setup_onetime"
+   "spay_neuter"
   ]
  },
  "shih-tzu": {
@@ -7047,6 +7337,13 @@
   "weight": "35–60 lbs",
   "bucket": "medium",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/siberian-husky-first-year-costs",
+  "extras": [
+   {
+    "label": "Fencing upgrade (if needed)",
+    "low": 0,
+    "high": 2000
+   }
+  ],
   "est": [
    "spay_neuter"
   ]
@@ -7152,8 +7449,8 @@
    6500
   ],
   "rescue": [
-   0,
-   0
+   250,
+   600
   ],
   "vet_year1": [
    500,
@@ -7737,7 +8034,7 @@
   "citable_stat": "A Vizsla's first year typically runs $2,800 to $5,500, with food for a 44–65 lb dog costing roughly $40–$60 per month for quality kibble, and professional grooming being genuinely optional due to the breed's short, single-layer coat.",
   "missing": [],
   "name": "Vizsla",
-  "weight": "44–65 lbs",
+  "weight": "44–60 lbs",
   "bucket": "medium",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/vizsla-first-year-costs",
   "est": []
@@ -7747,7 +8044,10 @@
    1000,
    2500
   ],
-  "rescue": null,
+  "rescue": [
+   250,
+   600
+  ],
   "vet_year1": [
    300,
    600
@@ -7769,8 +8069,8 @@
    50
   ],
   "setup_onetime": [
-   200,
-   450
+   400,
+   1050
   ],
   "total_year1": [
    3300,
@@ -7788,6 +8088,18 @@
   "weight": "55–90 lbs",
   "bucket": "large",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/weimaraner-first-year-costs",
+  "extras": [
+   {
+    "label": "Gastropexy (recommended, especially for males)",
+    "low": 400,
+    "high": 1200
+   },
+   {
+    "label": "Fence upgrades / secure run",
+    "low": 500,
+    "high": 2000
+   }
+  ],
   "est": []
  },
  "welsh-springer-spaniel": {
@@ -7972,8 +8284,8 @@
    0
   ],
   "setup_onetime": [
-   205,
-   430
+   325,
+   670
   ],
   "total_year1": [
    2500,
@@ -8055,14 +8367,17 @@
    1000,
    2500
   ],
-  "rescue": null,
+  "rescue": [
+   250,
+   600
+  ],
   "vet_year1": [
    450,
    800
   ],
   "spay_neuter": [
-   200,
-   500
+   0,
+   0
   ],
   "food_monthly": [
    38,
@@ -8096,9 +8411,8 @@
   "weight": "35–70 lbs",
   "bucket": "medium",
   "article_url": "https://thewooffy.com/blogs/dog-breeds/wirehaired-pointing-griffon-first-year-costs",
-  "est": [
-   "spay_neuter"
-  ]
+  "spay_in_vet": true,
+  "est": []
  },
  "xoloitzcuintli": {
   "puppy": [

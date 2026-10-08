@@ -45,6 +45,7 @@ BREED_DATA = ROOT / "breed-data"
 STATE_PATH = ROOT / "costs-extract-state.json"
 DATASET_PATH = ROOT / "costs-dataset.json"
 CALC_DATA_PATH = ROOT / "calculator-data.json"
+OVERRIDES_PATH = ROOT / "calculator-overrides.json"  # reviewed corrections, applied at --emit
 
 MODEL = "claude-haiku-4-5-20251001"  # extraction is mechanical; haiku is plenty
 
@@ -220,6 +221,26 @@ FILL_FIELDS = ("puppy", "vet_year1", "spay_neuter", "food_monthly",
                "total_year1", "annual_ongoing")
 
 
+OVERRIDE_FIELDS = FILL_FIELDS + ("rescue", "spay_in_vet", "extras")
+
+
+def load_overrides(known: set[str]) -> dict[str, list[dict]]:
+    """Reviewed corrections to extracted fields, keyed by breed slug.
+
+    Each entry is {slug, field, value, reason}. "spay_in_vet": true means the
+    guide bundles spay/neuter into its vet line (the calculator must not add a
+    separate spay row); "extras" lists guide items with no calculator row.
+    """
+    if not OVERRIDES_PATH.exists():
+        return {}
+    by_slug: dict[str, list[dict]] = {}
+    for o in json.loads(OVERRIDES_PATH.read_text(encoding="utf-8")):
+        if o["slug"] not in known or o["field"] not in OVERRIDE_FIELDS:
+            raise SystemExit(f"bad override: {o['slug']}.{o['field']}")
+        by_slug.setdefault(o["slug"], []).append(o)
+    return by_slug
+
+
 def weight_bucket(weight_str: str) -> str:
     nums = [int(n) for n in re.findall(r"\d+", weight_str or "")]
     if not nums:
@@ -268,6 +289,7 @@ def cmd_emit() -> int:
         if d.get("spay_neuter") == [0, 0]:
             d["spay_neuter"] = None
 
+    overrides = load_overrides(set(dataset))
     filled_total = 0
     for slug, d in dataset.items():
         est = []
@@ -279,6 +301,14 @@ def cmd_emit() -> int:
                     fb = med(pairs) if pairs else [0, 0]
                 d[f] = list(fb)
                 est.append(f)
+        for o in overrides.get(slug, []):
+            d[o["field"]] = o["value"]
+            if o["field"] in est:
+                est.remove(o["field"])
+        if d.get("spay_in_vet"):
+            d["spay_neuter"] = [0, 0]
+            if "spay_neuter" in est:
+                est.remove("spay_neuter")
         # recompute total from parts when it was estimated (more honest than
         # borrowing another breed's stated total)
         if "total_year1" in est:
@@ -305,6 +335,10 @@ def cmd_emit() -> int:
             "g": d.get("grooming_annual"), "u": d.get("setup_onetime"),
             "t": d.get("total_year1"), "a": d.get("annual_ongoing"),
         }
+        if d.get("spay_in_vet"):
+            compact[slug]["sv"] = 1
+        if d.get("extras"):
+            compact[slug]["x"] = [[e["label"], e["low"], e["high"]] for e in d["extras"]]
     CALC_DATA_PATH.write_text(
         json.dumps(compact, ensure_ascii=False, separators=(",", ":")) + "\n",
         encoding="utf-8")

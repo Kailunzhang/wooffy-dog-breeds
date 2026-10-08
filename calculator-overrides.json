@@ -1,0 +1,1193 @@
+[
+ {
+  "slug": "pekingese",
+  "field": "vet_year1",
+  "value": [
+   410,
+   800
+  ],
+  "reason": "two independent passes agree (extraction_error); was [660, 1300]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "pekingese",
+  "field": "annual_ongoing",
+  "value": [
+   1430,
+   3030
+  ],
+  "reason": "two independent passes agree (extraction_error); was [890, 1570]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "pekingese",
+  "field": "total_year1",
+  "value": [
+   2960,
+   7015
+  ],
+  "reason": "guide's stated first-year total; was [1530, 3165]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "pekingese",
+  "field": "extras",
+  "value": [
+   {
+    "label": "BOAS evaluation (if needed)",
+    "low": 100,
+    "high": 500
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "greyhound",
+  "field": "total_year1",
+  "value": [
+   3500,
+   5500
+  ],
+  "reason": "guide's stated first-year total; was [2000, 3500]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "greyhound",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Professional dental cleaning (every 1–2 yrs)",
+    "low": 400,
+    "high": 800
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "belgian-malinois",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "two independent passes agree (extraction_error); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "belgian-malinois",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Professional training (foundation through advanced work)",
+    "low": 2000,
+    "high": 5000
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "bulldog",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "two independent passes agree (mixed); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "bulldog",
+  "field": "grooming_annual",
+  "value": [
+   0,
+   0
+  ],
+  "reason": "two independent passes agree (mixed); was [0, 480]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "bulldog",
+  "field": "extras",
+  "value": [
+   {
+    "label": "BOAS evaluation and, if needed, airway surgery",
+    "low": 500,
+    "high": 4000
+   },
+   {
+    "label": "Skin fold and wrinkle care supplies",
+    "low": 150,
+    "high": 300
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "newfoundland",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "two independent passes agree (mixed); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "bouvier-des-flandres",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Prophylactic gastropexy (with spay/neuter)",
+    "low": 400,
+    "high": 600
+   },
+   {
+    "label": "Hip dysplasia screening (OFA or PennHIP X-ray)",
+    "low": 150,
+    "high": 400
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "american-foxhound",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Secure fencing (if needed)",
+    "low": 500,
+    "high": 2500
+   },
+   {
+    "label": "Pre-surgical clotting panel (if line carries thrombocytopathy)",
+    "low": 50,
+    "high": 150
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "boston-terrier",
+  "field": "total_year1",
+  "value": [
+   2150,
+   7400
+  ],
+  "reason": "guide's stated first-year total; was [2500, 5500]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "boston-terrier",
+  "field": "extras",
+  "value": [
+   {
+    "label": "BOAS evaluation and possible airway surgery",
+    "low": 200,
+    "high": 3000
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "pharaoh-hound",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Secure fencing (if needed)",
+    "low": 500,
+    "high": 2500
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "bluetick-coonhound",
+  "field": "rescue",
+  "value": [
+   150,
+   400
+  ],
+  "reason": "two independent passes agree (mixed); was [None]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "bluetick-coonhound",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Secure fenced yard (if not already fenced)",
+    "low": 1500,
+    "high": 4000
+   },
+   {
+    "label": "Prophylactic gastropexy (standalone)",
+    "low": 800,
+    "high": 1500
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "shiba-inu",
+  "field": "rescue",
+  "value": [
+   300,
+   700
+  ],
+  "reason": "two independent passes agree (mixed); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "shiba-inu",
+  "field": "setup_onetime",
+  "value": [
+   450,
+   950
+  ],
+  "reason": "two independent passes agree (mixed); was [250, 510]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "shiba-inu",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Secure fencing (if needed)",
+    "low": 500,
+    "high": 2000
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "siberian-husky",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Fencing upgrade (if needed)",
+    "low": 0,
+    "high": 2000
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "goldendoodle",
+  "field": "vet_year1",
+  "value": [
+   350,
+   790
+  ],
+  "reason": "two independent passes agree (mixed); was [500, 900]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "parson-russell-terrier",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "two independent passes agree (mixed); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "parson-russell-terrier",
+  "field": "vet_year1",
+  "value": [
+   500,
+   900
+  ],
+  "reason": "two independent passes agree (mixed); was [200, 400]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "parson-russell-terrier",
+  "field": "annual_ongoing",
+  "value": [
+   1200,
+   2000
+  ],
+  "reason": "figure stated in guide (Ongoing Annual Costs (Year 2+): $1,200–$2,000/year); was [1040, 1620]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "australian-shepherd",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "two independent passes agree (extraction_error); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "australian-shepherd",
+  "field": "spay_in_vet",
+  "value": true,
+  "reason": "guide prices spay/neuter inside its vet line (both passes)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "australian-shepherd",
+  "field": "extras",
+  "value": [
+   {
+    "label": "MDR1/ABCB1 DNA test",
+    "low": 80,
+    "high": 150
+   },
+   {
+    "label": "Training (puppy class + obedience + a canine sport)",
+    "low": 500,
+    "high": 1000
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide); training bundle added because the guide gives no basic-class price, so setup excludes classes",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "kerry-blue-terrier",
+  "field": "vet_year1",
+  "value": [
+   450,
+   900
+  ],
+  "reason": "two independent passes agree (extraction_error); was [400, 800]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "kerry-blue-terrier",
+  "field": "total_year1",
+  "value": [
+   4000,
+   8000
+  ],
+  "reason": "guide's stated first-year total; was [2000, 4500]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "pug",
+  "field": "total_year1",
+  "value": [
+   2250,
+   7600
+  ],
+  "reason": "guide's stated first-year total; was [3500, 7500]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "pug",
+  "field": "extras",
+  "value": [
+   {
+    "label": "BOAS evaluation and possible surgery",
+    "low": 200,
+    "high": 3000
+   },
+   {
+    "label": "Skin fold care supplies (wipes, etc.)",
+    "low": 100,
+    "high": 200
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "beauceron",
+  "field": "vet_year1",
+  "value": [
+   580,
+   1150
+  ],
+  "reason": "two independent passes agree (mixed); was [700, 1500]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "beauceron",
+  "field": "annual_ongoing",
+  "value": [
+   2000,
+   3200
+  ],
+  "reason": "figure stated in guide (Ongoing annual costs after the first year typically settle to $2,000–$3,200); was [1400, 2200]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "beauceron",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Prophylactic gastropexy (at spay/neuter)",
+    "low": 400,
+    "high": 600
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "russell-terrier",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "figure stated in guide (Adoption fees typically run $250–$600); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "russell-terrier",
+  "field": "vet_year1",
+  "value": [
+   500,
+   900
+  ],
+  "reason": "two independent passes agree (mixed); was [200, 400]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "russell-terrier",
+  "field": "annual_ongoing",
+  "value": [
+   1000,
+   1800
+  ],
+  "reason": "figure stated in guide (Ongoing Annual Costs (Year 2+): $1,000–$1,800/Year); was [300, 500]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "russell-terrier",
+  "field": "extras",
+  "value": [
+   {
+    "label": "PLL DNA test (if not included)",
+    "low": 40,
+    "high": 70
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "komondor",
+  "field": "rescue",
+  "value": [
+   200,
+   500
+  ],
+  "reason": "figure stated in guide (adoption fees generally run $200–$500); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "komondor",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Preventive gastropexy (at spay/neuter)",
+    "low": 400,
+    "high": 800
+   },
+   {
+    "label": "Training (experienced trainer for guardian breed)",
+    "low": 400,
+    "high": 800
+   },
+   {
+    "label": "Secure fencing (if needed)",
+    "low": 500,
+    "high": 2000
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "cane-corso",
+  "field": "rescue",
+  "value": [
+   200,
+   500
+  ],
+  "reason": "figure stated in guide (usually for adoption fees of $200 to $500); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "cane-corso",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Prophylactic gastropexy",
+    "low": 400,
+    "high": 1200
+   },
+   {
+    "label": "Professional puppy and obedience training",
+    "low": 500,
+    "high": 2000
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "belgian-sheepdog",
+  "field": "vet_year1",
+  "value": [
+   515,
+   1025
+  ],
+  "reason": "two independent passes agree (mixed); was [425, 950]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "brussels-griffon",
+  "field": "vet_year1",
+  "value": [
+   480,
+   900
+  ],
+  "reason": "two independent passes agree (mixed); was [150, 300]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "brussels-griffon",
+  "field": "grooming_annual",
+  "value": [
+   300,
+   720
+  ],
+  "reason": "two independent passes agree (mixed); was [0, 720]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "entlebucher-mountain-dog",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "figure stated in guide (occasionally place an adult Entlebucher, a mismarked dog, or a mixed-breed lookalike for $); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "entlebucher-mountain-dog",
+  "field": "vet_year1",
+  "value": [
+   500,
+   1000
+  ],
+  "reason": "two independent passes agree (mixed); was [150, 350]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "beagle",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "figure stated in guide (adopt an adult from a breed rescue ($250–$600)); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "beagle",
+  "field": "spay_in_vet",
+  "value": true,
+  "reason": "guide prices spay/neuter inside its vet line (both passes)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "beagle",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Fencing/containment upgrade",
+    "low": 0,
+    "high": 1500
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "great-pyrenees",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "figure stated in guide (adoptable adult Pyrs ... are genuinely available for $250–$600); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "great-pyrenees",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Secure 6-ft fencing (if not already in place)",
+    "low": 500,
+    "high": 2000
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "harrier",
+  "field": "rescue",
+  "value": [
+   150,
+   400
+  ],
+  "reason": "figure stated in guide (An adopted adult typically runs $150–$400 in adoption fees); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "wirehaired-pointing-griffon",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "figure stated in guide (Adult Griffons through breed rescue networks typically run $250–$600); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "wirehaired-pointing-griffon",
+  "field": "spay_in_vet",
+  "value": true,
+  "reason": "guide prices spay/neuter inside its vet line (both passes)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "chinese-shar-pei",
+  "field": "vet_year1",
+  "value": [
+   410,
+   800
+  ],
+  "reason": "two independent passes agree (mixed); was [1110, 2610]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "chinese-shar-pei",
+  "field": "annual_ongoing",
+  "value": [
+   1840,
+   4590
+  ],
+  "reason": "figure stated in guide (That puts steady-state ownership at roughly $1,840–$4,590 a year); was [500, 1200]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "chinese-shar-pei",
+  "field": "total_year1",
+  "value": [
+   4700,
+   11000
+  ],
+  "reason": "guide's stated first-year total; was [1950, 10850]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "chinese-shar-pei",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Entropion surgery (if needed)",
+    "low": 400,
+    "high": 3000
+   },
+   {
+    "label": "FSF/allergy management (if affected)",
+    "low": 500,
+    "high": 1800
+   },
+   {
+    "label": "Wrinkle care supplies",
+    "low": 60,
+    "high": 150
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "labrador-retriever",
+  "field": "rescue",
+  "value": [
+   200,
+   500
+  ],
+  "reason": "figure stated in guide (typically runs $200–$500 in adoption fees); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "labrador-retriever",
+  "field": "annual_ongoing",
+  "value": [
+   1800,
+   3200
+  ],
+  "reason": "figure stated in guide (expect $1,800–$3,200 a year); was [1600, 2800]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "labrador-retriever",
+  "field": "total_year1",
+  "value": [
+   3100,
+   5900
+  ],
+  "reason": "guide's stated first-year total; was [2300, 4400]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "labrador-retriever",
+  "field": "spay_in_vet",
+  "value": true,
+  "reason": "guide prices spay/neuter inside its vet line (both passes)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "australian-terrier",
+  "field": "annual_ongoing",
+  "value": [
+   1200,
+   2500
+  ],
+  "reason": "figure stated in guide (Ongoing annual costs from year two onward run $1,200–$2,500); was [300, 500]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "cairn-terrier",
+  "field": "rescue",
+  "value": [
+   200,
+   500
+  ],
+  "reason": "figure stated in guide (adoption fees typically in the $200–$500 range); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "cairn-terrier",
+  "field": "annual_ongoing",
+  "value": [
+   1200,
+   2200
+  ],
+  "reason": "figure stated in guide (Ongoing Annual Costs, Year 2 and Beyond: $1,200–$2,200/Year); was [1010, 2030]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "french-bulldog",
+  "field": "rescue",
+  "value": [
+   200,
+   600
+  ],
+  "reason": "figure stated in guide (adoption fees typically run $200–$600); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "french-bulldog",
+  "field": "extras",
+  "value": [
+   {
+    "label": "BOAS surgery (soft palate, nares, laryngeal)",
+    "low": 1500,
+    "high": 4000
+   },
+   {
+    "label": "BOAS screening exam",
+    "low": 150,
+    "high": 400
+   },
+   {
+    "label": "Chronic skin fold infections",
+    "low": 200,
+    "high": 600
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "weimaraner",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "figure stated in guide (adoption fees typically run $250–$600); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "weimaraner",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Gastropexy (recommended, especially for males)",
+    "low": 400,
+    "high": 1200
+   },
+   {
+    "label": "Fence upgrades / secure run",
+    "low": 500,
+    "high": 2000
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "borzoi",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Fencing (if not already in place)",
+    "low": 500,
+    "high": 3000
+   },
+   {
+    "label": "Gastropexy add-on at spay/neuter",
+    "low": 200,
+    "high": 500
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "alaskan-malamute",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "figure stated in guide (adopted adults typically cost $250–$600); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "alaskan-malamute",
+  "field": "annual_ongoing",
+  "value": [
+   1810,
+   3400
+  ],
+  "reason": "figure stated in guide (Annual total (years 2+) | $1,810 – $3,400); was [1360, 2600]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "alaskan-malamute",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Fencing (if upgrade needed)",
+    "low": 500,
+    "high": 2000
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "chinese-crested",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "figure stated in guide (Adult Chinese Cresteds through rescue typically cost $250–$600); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "chinese-crested",
+  "field": "annual_ongoing",
+  "value": [
+   1400,
+   3020
+  ],
+  "reason": "figure stated in guide (Powder Puff: ... Total: $1,400–$3,020.); was [360, 720]",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "chinese-crested",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Professional dental cleaning",
+    "low": 200,
+    "high": 500
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "pembroke-welsh-corgi",
+  "field": "rescue",
+  "value": [
+   200,
+   600
+  ],
+  "reason": "figure stated in guide (Adoption fees typically run $200–$600); was None",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "black-and-tan-coonhound",
+  "field": "extras",
+  "value": [
+   {
+    "label": "Fencing (if not already installed)",
+    "low": 500,
+    "high": 3000
+   }
+  ],
+  "reason": "guide items with no calculator row (figures found in guide)",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "nova-scotia-duck-tolling-retriever",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "guide: \"An adopted adult Toller through a rescue typically costs $250–$600\"",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "puli",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "guide: \"An adopted adult typically runs $250–$600\"",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "samoyed",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "guide: \"rescue groups place adult dogs ... for $250–$600\"",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "soft-coated-wheaten-terrier",
+  "field": "rescue",
+  "value": [
+   250,
+   600
+  ],
+  "reason": "guide: \"adoption fees of $250–$600 are common\"",
+  "source": "calc-verify-2026-10-08"
+ },
+ {
+  "slug": "greyhound",
+  "field": "vet_year1",
+  "value": [
+   450,
+   750
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "australian-terrier",
+  "field": "vet_year1",
+  "value": [
+   500,
+   900
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "bearded-collie",
+  "field": "vet_year1",
+  "value": [
+   450,
+   900
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "chinese-crested",
+  "field": "vet_year1",
+  "value": [
+   480,
+   900
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "belgian-tervuren",
+  "field": "vet_year1",
+  "value": [
+   515,
+   1025
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "briard",
+  "field": "vet_year1",
+  "value": [
+   580,
+   1160
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "cairn-terrier",
+  "field": "vet_year1",
+  "value": [
+   525,
+   975
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "labrador-retriever",
+  "field": "vet_year1",
+  "value": [
+   700,
+   1300
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "borzoi",
+  "field": "vet_year1",
+  "value": [
+   300,
+   600
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "bearded-collie",
+  "field": "setup_onetime",
+  "value": [
+   460,
+   1060
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "briard",
+  "field": "setup_onetime",
+  "value": [
+   620,
+   1440
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "belgian-tervuren",
+  "field": "setup_onetime",
+  "value": [
+   570,
+   1040
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "weimaraner",
+  "field": "setup_onetime",
+  "value": [
+   400,
+   1050
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "chinese-crested",
+  "field": "setup_onetime",
+  "value": [
+   250,
+   520
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "australian-shepherd",
+  "field": "setup_onetime",
+  "value": [
+   300,
+   500
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "labrador-retriever",
+  "field": "setup_onetime",
+  "value": [
+   580,
+   1200
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "cairn-terrier",
+  "field": "setup_onetime",
+  "value": [
+   300,
+   675
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "whippet",
+  "field": "setup_onetime",
+  "value": [
+   325,
+   670
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ },
+ {
+  "slug": "australian-terrier",
+  "field": "setup_onetime",
+  "value": [
+   300,
+   650
+  ],
+  "reason": "two readers disagreed; third independent read (tie-break) summed the guide's own rows under strict field definitions",
+  "source": "calc-tiebreak-2026-10-08"
+ }
+]

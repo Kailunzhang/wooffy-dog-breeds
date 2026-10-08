@@ -1,0 +1,1441 @@
+<!-- Wooffy Dog Breed Quiz - Shopify Page body (paste in HTML mode).
+     Shopify page title (renders as the H1): Which Dog Breed Is Right for Me? Find Your Best Matches
+     SEO title:        What Dog Should I Get? Dog Breed Quiz (__WQ_COUNT__ Breeds) | Wooffy
+     Meta description: Answer 12 quick questions, plus an optional budget question, about your home, schedule and family. We score __WQ_COUNT__ breeds and show why each fits, trade-offs and first-year costs. No sign-up.
+     Build: py scripts/build_breed_quiz.py  (replaces every __WQ_*__ placeholder). Do not edit the FINAL file by hand. -->
+<div id="wq-root">
+<style>
+#wq-root{--wq-ink:#1a1a1a;--wq-muted:#6b7177;--wq-teal:#108474;--wq-teal-ink:#0d6e61;--wq-cream:#faf7f2;--wq-line:rgba(0,0,0,0.08);--wq-mint:#e8f3f1;--wq-warn-bg:#fdf3e1;--wq-warn-ink:#7a4b00;
+  max-width:780px;margin:0 auto;padding:4px 0 40px;color:var(--wq-ink);font-size:16px;line-height:1.6;text-align:left;-webkit-text-size-adjust:100%;}
+#wq-root *,#wq-root *::before,#wq-root *::after{box-sizing:border-box;}
+#wq-root [hidden]{display:none !important;}
+#wq-root h2,#wq-root h3,#wq-root p,#wq-root ul,#wq-root ol,#wq-root li,#wq-root figure,#wq-root table{margin:0;padding:0;}
+#wq-root h2,#wq-root h3{font-family:inherit;color:var(--wq-ink);letter-spacing:normal;text-transform:none;}
+#wq-root ul,#wq-root ol,#wq-root li{list-style:none;}
+#wq-root img{display:block;width:100%;height:100%;max-width:none;margin:0;border:0;border-radius:0;box-shadow:none;object-fit:cover;}
+#wq-root button,#wq-root select,#wq-root input{font-family:inherit;font-size:16px;letter-spacing:normal;text-transform:none;line-height:1.35;margin:0;box-shadow:none;min-height:0;width:auto;}
+#wq-root button{-webkit-appearance:none;appearance:none;cursor:pointer;background:none;color:inherit;border:0;border-radius:0;padding:0;text-align:inherit;}
+#wq-root a{color:var(--wq-teal-ink);text-decoration:underline;text-underline-offset:3px;font-weight:600;}
+#wq-root a:hover{color:var(--wq-ink);}
+#wq-root :focus{outline:none;}
+#wq-root :focus-visible{outline:3px solid #1a1a1a;outline-offset:2px;border-radius:10px;}
+#wq-root [tabindex="-1"]:focus,#wq-root [tabindex="-1"]:focus-visible{outline:none;}
+#wq-root .wq-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;}
+#wq-root .wq-lede{font-size:17px;line-height:1.7;color:var(--wq-muted);margin:0 0 18px;}
+#wq-root .wq-lede strong{color:var(--wq-ink);}
+#wq-root .wq-app{background:var(--wq-cream);border:1px solid rgba(0,0,0,0.06);border-radius:16px;padding:22px;margin:0 0 36px;scroll-margin-top:96px;}
+#wq-root .wq-step{display:flex;justify-content:space-between;gap:12px;font-size:13px;font-weight:600;color:var(--wq-muted);margin-bottom:8px;}
+#wq-root .wq-step .wq-sec{color:var(--wq-teal-ink);text-transform:uppercase;letter-spacing:0.4px;}
+#wq-root .wq-bar{height:8px;background:#ffffff;border:1px solid rgba(0,0,0,0.08);border-radius:99px;overflow:hidden;margin-bottom:22px;}
+#wq-root .wq-bar span{display:block;height:100%;background:var(--wq-teal);border-radius:99px;transition:width .3s ease;}
+#wq-root .wq-q{font-size:23px;line-height:1.3;font-weight:800;margin:0 0 6px;}
+#wq-root .wq-hint{font-size:15px;color:var(--wq-muted);margin:0 0 16px;}
+#wq-root .wq-opts{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:0 0 18px;}
+#wq-root .wq-opts.wq-one{grid-template-columns:1fr;}
+#wq-root .wq-opt{position:relative;display:flex;flex-direction:column;justify-content:center;min-height:58px;padding:13px 14px 13px 48px;background:#ffffff;border:1.5px solid rgba(0,0,0,0.12);border-radius:12px;color:var(--wq-ink);transition:border-color .15s,background-color .15s,box-shadow .2s;}
+@media (hover:hover){#wq-root .wq-opt:not([aria-disabled="true"]):hover{border-color:var(--wq-teal);}}
+#wq-root .wq-opt-t{font-weight:700;font-size:16px;}
+#wq-root .wq-opt-d{font-size:14px;color:var(--wq-muted);margin-top:2px;}
+#wq-root .wq-tick{position:absolute;left:15px;top:50%;width:20px;height:20px;margin-top:-10px;border:2px solid #8b9196;border-radius:50%;background:#ffffff;}
+#wq-root .wq-opt[role="checkbox"] .wq-tick{border-radius:6px;}
+#wq-root .wq-opt[aria-checked="true"]{border-color:var(--wq-teal);background:var(--wq-mint);}
+#wq-root .wq-opt[aria-checked="true"] .wq-tick{border-color:var(--wq-teal);background:var(--wq-teal);box-shadow:inset 0 0 0 3px #ffffff;}
+#wq-root .wq-opt[role="checkbox"][aria-checked="true"] .wq-tick{box-shadow:none;background:var(--wq-teal) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3.5 8.5l3 3 6-7' fill='none' stroke='%23fff' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/14px no-repeat;}
+#wq-root .wq-opt[aria-disabled="true"]{opacity:0.6;cursor:not-allowed;}
+#wq-root .wq-nav{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+#wq-root .wq-btn{display:inline-flex;align-items:center;justify-content:center;min-height:46px;padding:11px 20px;border-radius:10px;font-weight:700;font-size:15px;text-decoration:none;background:var(--wq-teal);color:#ffffff;border:1.5px solid var(--wq-teal);text-align:center;}
+#wq-root a.wq-btn{color:#ffffff;}
+#wq-root .wq-btn:hover{background:#0d6e61;border-color:#0d6e61;color:#ffffff;}
+#wq-root .wq-btn[disabled]{background:#c9cdd0;border-color:#c9cdd0;color:#3d4247;cursor:not-allowed;}
+#wq-root .wq-btn-ghost{background:#ffffff;color:var(--wq-ink);border:1.5px solid rgba(0,0,0,0.15);}
+#wq-root a.wq-btn-ghost{color:var(--wq-ink);}
+#wq-root .wq-btn-ghost:hover{background:#ffffff;border-color:var(--wq-ink);color:var(--wq-ink);}
+#wq-root .wq-link{font-weight:700;font-size:15px;color:var(--wq-ink);text-decoration:underline;text-underline-offset:3px;padding:10px 4px;min-height:44px;}
+#wq-root .wq-nav .wq-spacer{flex:1;}
+#wq-root .wq-nav [data-act="finish"]{margin-left:auto;}
+/* Live regions must stay in the accessibility tree while empty: Dawn's base.css hides p:empty and div:empty. */
+#wq-root .wq-msg,#wq-root .wq-status,#wq-root .wq-check-out,#wq-root #wq-quiz{display:block;}
+/* Reserve the first question's height so the content below doesn't jump when the quiz renders. */
+#wq-root #wq-quiz:empty{min-height:415px;}
+#wq-root .wq-msg{font-size:15px;font-weight:700;color:var(--wq-warn-ink);margin:-8px 0 14px;}
+#wq-root .wq-msg:empty{margin:0;}
+#wq-root .wq-opt.wq-flash{box-shadow:0 0 0 4px rgba(197,138,26,0.45);}
+/* results */
+#wq-root .wq-eyebrow{font-size:13px;font-weight:700;color:var(--wq-teal-ink);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:4px;}
+#wq-root .wq-res-h{font-size:25px;line-height:1.25;font-weight:800;margin-bottom:6px;}
+#wq-root .wq-sub{color:var(--wq-muted);font-size:15px;}
+#wq-root .wq-chip-hint{font-size:14px;color:var(--wq-muted);margin-top:10px;}
+#wq-root .wq-based{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 18px;}
+#wq-root .wq-based li{display:block;}
+#wq-root button.wq-chip{display:inline-flex;align-items:center;min-height:36px;font-size:14px;font-weight:600;color:var(--wq-ink);background:#ffffff;border:1px solid rgba(0,0,0,0.18);border-radius:99px;padding:6px 12px;}
+@media (hover:hover){#wq-root button.wq-chip:hover{border-color:var(--wq-teal);color:var(--wq-teal-ink);}}
+#wq-root .wq-note{border-radius:12px;padding:14px 16px;margin:0 0 14px;font-size:15px;line-height:1.6;}
+#wq-root .wq-note-warn{background:var(--wq-warn-bg);color:var(--wq-warn-ink);border:1px solid #f0dcb4;}
+#wq-root .wq-note-warn strong{color:#5c3800;}
+#wq-root .wq-note-info{background:#ffffff;border:1px solid var(--wq-line);color:var(--wq-ink);}
+#wq-root .wq-note p+p{margin-top:8px;}
+#wq-root .wq-note a{color:inherit;}
+#wq-root .wq-list-res{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:14px 0;}
+#wq-root .wq-match{background:#ffffff;border:1px solid var(--wq-line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;scroll-margin-top:96px;}
+#wq-root .wq-photo{position:relative;aspect-ratio:4/3;background:#efe9df;overflow:hidden;}
+#wq-root .wq-photo .wq-initial{position:absolute;top:0;left:0;right:0;bottom:0;display:flex;align-items:center;justify-content:center;font-size:40px;font-weight:800;color:#6b7177;}
+#wq-root .wq-photo img{position:relative;}
+#wq-root .wq-body{padding:16px 16px 18px;display:flex;flex-direction:column;gap:10px;flex:1;}
+#wq-root .wq-rank{font-size:13px;font-weight:700;color:var(--wq-muted);}
+#wq-root .wq-name{font-size:20px;line-height:1.25;font-weight:800;}
+#wq-root .wq-score{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;}
+#wq-root .wq-pct{font-size:24px;font-weight:800;color:var(--wq-teal-ink);}
+#wq-root .wq-label{font-size:14px;font-weight:700;color:var(--wq-ink);}
+#wq-root .wq-meter{height:6px;background:#eef0f1;border-radius:99px;overflow:hidden;}
+#wq-root .wq-meter span{display:block;height:100%;background:var(--wq-teal);}
+#wq-root .wq-facts{font-size:14px;color:var(--wq-muted);}
+#wq-root .wq-mini{font-size:13px;font-weight:800;text-transform:uppercase;letter-spacing:0.4px;margin-bottom:4px;}
+#wq-root .wq-mini-good{color:var(--wq-teal-ink);}
+#wq-root .wq-mini-warn{color:var(--wq-warn-ink);}
+#wq-root .wq-why li,#wq-root .wq-warn li{position:relative;padding-left:20px;font-size:15px;line-height:1.5;margin:3px 0;}
+#wq-root .wq-why li::before{content:"";position:absolute;left:3px;top:7px;width:9px;height:5px;border-left:2px solid var(--wq-teal);border-bottom:2px solid var(--wq-teal);transform:rotate(-45deg);}
+#wq-root .wq-warn li::before{content:"";position:absolute;left:4px;top:9px;width:7px;height:7px;border-radius:50%;background:#c58a1a;}
+#wq-root .wq-brachy{font-size:14px;line-height:1.55;background:var(--wq-warn-bg);color:var(--wq-warn-ink);border-radius:10px;padding:10px 12px;}
+#wq-root .wq-brachy a{color:var(--wq-warn-ink);}
+#wq-root .wq-links{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;margin-top:auto;padding-top:4px;}
+#wq-root .wq-links .wq-btn{padding:10px 16px;min-height:44px;font-size:14px;}
+#wq-root .wq-links .wq-cost{font-size:14px;display:inline-block;padding:10px 0;}
+#wq-root .wq-featured{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,6fr);margin:0 0 14px;border:2px solid var(--wq-teal);}
+#wq-root .wq-featured .wq-photo{aspect-ratio:auto;min-height:100%;}
+#wq-root .wq-featured .wq-name{font-size:24px;}
+#wq-root .wq-featured .wq-pct{font-size:30px;}
+#wq-root .wq-more{display:flex;justify-content:center;margin:4px 0 22px;}
+#wq-root .wq-panel{background:#ffffff;border:1px solid var(--wq-line);border-radius:14px;padding:18px;margin:0 0 14px;}
+#wq-root .wq-panel-h{font-size:18px;font-weight:800;margin-bottom:6px;}
+#wq-root .wq-panel p{font-size:15px;line-height:1.6;}
+#wq-root .wq-panel p.wq-sub{color:var(--wq-muted);}
+#wq-root .wq-check-row{margin-top:10px;}
+#wq-root .wq-check-row label{display:block;font-weight:700;font-size:15px;margin-bottom:6px;}
+#wq-root select.wq-select{display:block;width:100%;max-width:420px;height:auto;padding:11px 12px;border:1px solid rgba(0,0,0,0.25);border-radius:10px;background:#ffffff;color:var(--wq-ink);font-size:16px;}
+#wq-root .wq-check-out{margin-top:12px;}
+#wq-root .wq-check-out ul{margin-top:4px;}
+#wq-root .wq-pts{color:var(--wq-muted);font-weight:600;white-space:nowrap;}
+#wq-root .wq-adopt{background:var(--wq-mint);border:1px solid #cfe5e0;}
+#wq-root .wq-actions{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0 6px;}
+#wq-root .wq-status{font-size:14px;color:var(--wq-teal-ink);font-weight:600;min-height:20px;}
+#wq-root .wq-share-url{width:100%;margin-top:8px;padding:10px;border:1px solid rgba(0,0,0,0.2);border-radius:8px;font-size:14px;}
+#wq-root .wq-fine{font-size:13px;color:var(--wq-muted);line-height:1.6;margin-top:12px;}
+#wq-root .wq-email form{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px;}
+#wq-root .wq-email input{flex:1;min-width:200px;padding:11px 14px;border:1px solid rgba(0,0,0,0.2);border-radius:10px;}
+/* supporting content */
+#wq-root .wq-content h2{font-size:24px;line-height:1.3;font-weight:800;margin:34px 0 10px;}
+#wq-root .wq-content h3{font-size:18px;line-height:1.35;font-weight:700;margin:20px 0 6px;}
+#wq-root .wq-content p{font-size:16px;line-height:1.75;margin:0 0 12px;color:var(--wq-ink);}
+#wq-root .wq-content .wq-bul{margin:0 0 14px;}
+#wq-root .wq-content .wq-bul li{position:relative;padding-left:20px;margin:6px 0;line-height:1.65;}
+#wq-root .wq-content .wq-bul li::before{content:"";position:absolute;left:4px;top:11px;width:6px;height:6px;border-radius:50%;background:var(--wq-teal);}
+#wq-root .wq-table-wrap{overflow-x:auto;margin:6px 0 14px;border:1px solid var(--wq-line);border-radius:12px;background:#ffffff;}
+#wq-root .wq-table{width:100%;border-collapse:collapse;table-layout:auto;font-size:15px;border:0;margin:0;}
+#wq-root .wq-table th,#wq-root .wq-table td{padding:10px 14px;text-align:left;border:0;border-bottom:1px solid rgba(0,0,0,0.06);vertical-align:top;background:transparent;}
+#wq-root .wq-table th{white-space:nowrap;font-size:13px;color:var(--wq-muted);font-weight:700;text-transform:uppercase;letter-spacing:0.3px;background:var(--wq-cream);}
+#wq-root .wq-table tr:last-child td{border-bottom:0;}
+#wq-root .wq-faq{border-top:1px solid var(--wq-line);padding:14px 0 4px;}
+#wq-root .wq-content .wq-faq h3{margin-top:0;}
+#wq-root .wq-related{display:grid;grid-template-columns:1fr 1fr;gap:4px 18px;margin:6px 0 0;}
+#wq-root .wq-related li{padding:6px 0;}
+#wq-root .wq-content p.wq-updated{font-size:14px;color:var(--wq-muted);}
+@media (max-width:640px){
+  #wq-root .wq-app{padding:18px 14px;border-radius:14px;}
+  #wq-root .wq-opts{grid-template-columns:1fr;}
+  #wq-root .wq-q{font-size:21px;}
+  #wq-root .wq-list-res{grid-template-columns:1fr;}
+  #wq-root .wq-featured{grid-template-columns:1fr;}
+  #wq-root .wq-featured .wq-photo{aspect-ratio:4/3;min-height:0;}
+  #wq-root .wq-related{grid-template-columns:1fr;}
+  #wq-root .wq-step{flex-direction:column;gap:2px;}
+  #wq-root #wq-quiz:empty{min-height:459px;}
+  #wq-root .wq-table th,#wq-root .wq-table td{padding:9px 10px;font-size:14px;}
+}
+@media (prefers-reduced-motion:reduce){
+  #wq-root *,#wq-root *::before,#wq-root *::after{transition:none !important;animation:none !important;scroll-behavior:auto !important;}
+}
+</style>
+
+<p class="wq-lede">Not sure what dog to get? Answer <strong>12 quick questions</strong>, plus an optional budget question, about your home, schedule and family. It takes about 2 minutes, and there&rsquo;s no sign-up. We compare your answers with <strong>__WQ_COUNT__ breeds</strong> and show why each one fits, what to watch for, and what the first year may cost.</p>
+
+<section id="wq-app" class="wq-app" aria-label="Dog breed quiz">
+  <noscript><p>This quiz needs JavaScript. You can still browse every breed in our <a href="/blogs/dog-breeds/dog-breeds-a-z">A&ndash;Z breed directory</a>.</p></noscript>
+  <div id="wq-quiz"></div>
+  <div id="wq-results" hidden></div>
+</section>
+
+<div class="wq-content">
+  <h2>How the matching works</h2>
+  <p>Every breed has ratings from 1 to 5 for 15 traits, such as energy, shedding, barking, time alone, and how it gets along with kids, dogs and cats. The ratings come from the facts in our __WQ_COUNT__ breed guides. Weight and daily exercise come from the same guides, and first-year costs come from our <a href="/pages/dog-cost-calculator">cost calculator</a>.</p>
+  <p>Your answers work in two ways:</p>
+  <ul class="wq-bul">
+    <li><strong>Must-haves remove breeds.</strong> Allergies, kids under 6, cats or small pets, and your size choices filter the list first. If your sizes leave fewer than 5 breeds, we add the neighboring sizes on both sides, one step at a time, until at least 5 breeds fit, and tell you which sizes we added. Those breeds lose 12 points for each size step away from your pick. We never drop the allergy filter.</li>
+    <li><strong>Everything else adjusts the score.</strong> Each gap between a breed and your answers costs points, and a big gap costs more than a small one. Energy gaps weigh the most: a breed one step more energetic than you planned loses about 12 points, and one that needs far more exercise can drop out of the top results.</li>
+    <li><strong>Breeds that span two sizes count for both.</strong> A 40&ndash;70 lb dog shows up for both medium and large. If part of its weight range falls outside your pick, it takes a small deduction that grows with how much of the range is outside.</li>
+    <li><strong>Two deductions apply whatever your answers.</strong> Flat-faced breeds carry a 5-point deduction for breathing-related health risks (picking &ldquo;Healthy &amp; long-lived&rdquo; adds 10 more). Breeds outside the AKC top 100 lose 3 points because breeders are fewer and waits longer; designer crosses are exempt.</li>
+    <li><strong>Ties go to the more common breed.</strong> When two breeds have exactly the same score, the one in the AKC top 50 is listed first. Apart from this and the 3-point cut above, popularity doesn&rsquo;t affect your results.</li>
+  </ul>
+  <p class="wq-updated">Breed ratings last updated __WQ_UPDATED__.</p>
+
+  <h2>What your match % means, and what it doesn&rsquo;t</h2>
+  <p>The % starts at 100 and drops with each gap between a breed&rsquo;s typical traits and your answers, plus the two fixed deductions above. 85% and up is an excellent fit, 70&ndash;84% is great, and 55&ndash;69% is good. Below that, expect real trade-offs.</p>
+  <p>Breed traits are generalizations, and individual dogs vary a lot, even within one litter. In a <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9675396" rel="noopener" target="_blank">study of over 18,000 dogs</a>, breed explained only about 9% of the differences in individual behavior. Treat your results as a shortlist, not a verdict, and meet the dog before you decide.</p>
+
+  <h2>Before you answer: four things people underestimate</h2>
+  <ul class="wq-bul">
+    <li><strong>Your real routine.</strong> Answer for a typical busy weekday, not a relaxed Saturday.</li>
+    <li><strong>Time alone.</strong> Long days alone are hard on most dogs. A midday walker or doggy daycare a few days a week opens up many more breeds.</li>
+    <li><strong>Kids now and later.</strong> A puppy you bring home today may still be with you in 12 years. If kids are likely, plan for them now.</li>
+    <li><strong>Climate.</strong> Flat-faced breeds can overheat quickly, and thick-coated northern breeds can struggle through long, hot summers.</li>
+  </ul>
+
+  <h2>Allergies: no breed is truly hypoallergenic</h2>
+  <p>All dogs make allergens, mostly in saliva and skin flakes, not just hair. A <a href="https://pubmed.ncbi.nlm.nih.gov/21819763/" rel="noopener" target="_blank">2011 study of 173 homes with dogs</a> found no difference in household allergen levels between so-called hypoallergenic breeds and other dogs. A <a href="https://pubmed.ncbi.nlm.nih.gov/22728082/" rel="noopener" target="_blank">2012 study</a> found that &ldquo;hypoallergenic&rdquo; breeds carried more of the main dog allergen in their coats, and the air in their homes held no less of it. Some people with allergies report fewer symptoms around certain individual dogs, so if someone in your home has allergies, spend time with the specific dog before you commit. Our <a href="/blogs/dog-breeds/best-hypoallergenic-dog-breeds">guide to lower-shedding breeds</a> goes deeper.</p>
+
+  <h2>Plan the first-year budget</h2>
+  <p>Size drives a lot of the first-year cost. Food, medication doses, crates and grooming all scale with the dog. Here is the typical first-year range for each size:</p>
+  <div class="wq-table-wrap">
+    <table class="wq-table">
+      <thead><tr><th scope="col">Size</th><th scope="col">Typical first year</th><th scope="col">Breeds</th></tr></thead>
+      <tbody>__WQ_BUDGET_ROWS__</tbody>
+    </table>
+  </div>
+  <p>Estimates use our cost calculator&rsquo;s default settings: a breeder puppy, suburban prices, pet insurance and professional grooming. Each breed&rsquo;s cost guide covers breed-specific extras. Most results in the quiz link to that breed&rsquo;s estimate in the <a href="/pages/dog-cost-calculator">cost calculator</a>, where you can change the settings and see the breakdown.</p>
+
+  <h2>Mixed breeds and adoption</h2>
+  <p>The quiz scores purebreds and popular crosses, but your answers really describe a dog, not just a breed. Use your matches as a guide to the size, energy and coat that suit you, then look at shelter and rescue dogs with the same traits. Adult rescue dogs often come with a known temperament, which takes some guesswork out. Read our guides to <a href="/blogs/dog-breeds/mixed-breed-dogs">mixed-breed dogs</a> and <a href="/blogs/dog-breeds/adopt-or-shop-dog">whether to adopt or buy</a>.</p>
+
+  <h2>Next steps</h2>
+  <ul class="wq-bul">
+    <li>Read the full guide for your top 2 or 3 matches, especially the health and training sections.</li>
+    <li>Meet adult dogs of those breeds at a breeder, rescue, dog show or meetup.</li>
+    <li>If you buy, learn <a href="/blogs/dog-breeds/how-to-find-a-responsible-breeder">how to find a responsible breeder</a> and which health tests to ask about.</li>
+    <li>Once you&rsquo;ve decided, use the breed&rsquo;s puppy checklist to get ready for the first 90 days.</li>
+  </ul>
+
+  <h2>Dog breed quiz FAQ</h2>
+  <!-- WQ-FAQ-START -->
+  <div class="wq-faq">
+    <h3>How accurate is this dog breed quiz?</h3>
+    <p>It is a starting point, not a final answer. Breed ratings describe typical tendencies, and individual dogs vary a lot. In one large study, breed explained only about 9% of the differences in individual dog behavior. Use your matches as a shortlist, read each breed guide, and meet the dogs before you decide.</p>
+  </div>
+  <div class="wq-faq">
+    <h3>Why isn&rsquo;t my favorite breed in my results?</h3>
+    <p>It may have missed one of your must-haves, such as allergies, kids under 6, cats or size. It may also have scored lower on exercise, time alone or barking. Use &ldquo;Check a specific breed&rdquo; under your results to see its score and what held it back.</p>
+  </div>
+  <div class="wq-faq">
+    <h3>Does the quiz recommend hypoallergenic dogs?</h3>
+    <p>No dog is truly hypoallergenic. If you tell us someone at home has dog allergies, we only show lower-shedding breeds. Studies haven&rsquo;t found lower allergen levels in homes with these breeds, but some people with allergies report fewer symptoms around certain individual dogs. Spend time with the specific dog before you commit.</p>
+  </div>
+  <div class="wq-faq">
+    <h3>What if I live in an apartment or this is my first dog?</h3>
+    <p>Answer honestly and the quiz does the rest. Apartment answers favor breeds that settle well indoors. First-time owner answers favor breeds that are forgiving and easy to train, and push high-drive working breeds down the list.</p>
+  </div>
+  <div class="wq-faq">
+    <h3>Can I use the results to find a mixed-breed or rescue dog?</h3>
+    <p>Yes. Your results describe the size, energy and coat that fit your life. Look for shelter and rescue dogs with those traits, and ask staff how each dog does with kids, other pets and time alone.</p>
+  </div>
+  <div class="wq-faq">
+    <h3>Can I save or share my results?</h3>
+    <p>Yes. Your answers are saved in the page link, not on our servers, and we never ask for your name or email to show results. Use &ldquo;Copy link to results&rdquo; to save them or send them to someone you live with.</p>
+  </div>
+  <!-- WQ-FAQ-END -->
+
+  <h2>Related guides</h2>
+  <ul class="wq-related">
+    <li><a href="/blogs/dog-breeds/choosing-the-perfect-dog-breed-factors-to-consider-before-bringing-a-new-companion-home">How to choose a dog breed</a></li>
+    <li><a href="/blogs/dog-breeds/dog-breeds-a-z">Every breed we cover, A&ndash;Z</a></li>
+    <li><a href="/blogs/dog-breeds/best-dogs-for-first-time-owners">Best dogs for first-time owners</a></li>
+    <li><a href="/blogs/dog-breeds/best-dogs-for-small-apartments">Best dogs for small apartments</a></li>
+    <li><a href="/blogs/dog-breeds/best-small-dog-breeds">Best small dog breeds</a></li>
+    <li><a href="/blogs/dog-breeds/medium-sized-dog-breeds">Medium-sized dog breeds</a></li>
+    <li><a href="/blogs/dog-breeds/best-large-dog-breeds">Best large dog breeds</a></li>
+    <li><a href="/blogs/dog-breeds/giant-dog-breeds">Giant dog breeds</a></li>
+  </ul>
+</div>
+
+<script type="application/json" id="wq-data">__WQ_DATA__</script>
+<script type="application/ld+json">__WQ_JSONLD__</script>
+<script>
+// WQ-SCORING-START
+var WQ = (function () {
+  'use strict';
+  var BANDS = [
+    { id: 'toy', min: 0, max: 12, label: 'Toy' },
+    { id: 'small', min: 12, max: 25, label: 'Small' },
+    { id: 'medium', min: 25, max: 50, label: 'Medium' },
+    { id: 'large', min: 50, max: 90, label: 'Large' },
+    { id: 'giant', min: 90, max: 1000, label: 'Giant' }
+  ];
+  var KEYS = ['home', 'kids', 'pets', 'alone', 'act', 'exp', 'coat', 'groom', 'noise', 'climate', 'size', 'pri', 'budget'];
+  var ALLOWED = {
+    home: ['apt', 'small', 'yard', 'land'],
+    kids: ['young', 'older', 'soon', 'visit', 'none'],
+    pets: ['dogs', 'cats', 'small', 'none'],
+    alone: ['rare', 'short', 'work'],
+    act: ['relaxed', 'moderate', 'active', 'very'],
+    exp: ['first', 'some', 'pro'],
+    coat: ['allergy', 'minimal', 'some', 'any'],
+    groom: ['minimal', 'weekly', 'pro'],
+    noise: ['quiet', 'some', 'any'],
+    climate: ['hot', 'cold', 'mild'],
+    size: ['toy', 'small', 'medium', 'large', 'giant', 'any'],
+    pri: ['train', 'kids', 'lowmaint', 'healthy', 'friendly', 'guardian', 'calm', 'adventure', 'none'],
+    budget: ['3k', '5k', 'more']
+  };
+  var MULTI = { pets: true, climate: true, size: true, pri: true };
+  var EXCLUSIVE = { pets: 'none', climate: 'mild', size: 'any', pri: 'none' };
+  var MAX_PICKS = { pri: 2 };
+  var OPTIONAL = { budget: true };
+  var ENERGY_CAP = { relaxed: 2, moderate: 3, active: 4, very: 5 };
+  var BUDGET_CAP = { '3k': 3000, '5k': 5000 };
+  var MIN_RESULTS = 5;
+  var POPULAR_RANK = 50;
+  var PRI_STEP = 4; // points per level below 5 for a picked trait priority (spec had 'friendly'/'guardian' only, 5 per level below 3)
+  var BRACHY_BASE = 5; // flat-faced breeds carry a health cost for every owner, not only in hot climates (see the BOAS buyer guide)
+  var RARE_NUDGE = 3;  // outside the AKC top 100 (designer crosses excepted): fewer breeders, longer waits (disclosed on the page)
+  var SIZE_STEP = 12;  // per size step away, for breeds let in by widening the size range
+  /* Upper end, in minutes a day, of each activity answer (see the 'act' options). */
+  var USER_MAX_MIN = { relaxed: 30, moderate: 60, active: 120, very: Infinity };
+
+  function has(list, v) { return !!list && list.indexOf(v) !== -1; }
+  function clamp(x, lo, hi) { return Math.max(lo, Math.min(hi, x)); }
+  function pos(x) { return x > 0 ? x : 0; }
+  function bandIndex(id) { for (var i = 0; i < BANDS.length; i++) if (BANDS[i].id === id) return i; return -1; }
+
+  /* Bands a weight range touches. A single weight (w[0] === w[1]) sits in the band where
+     min <= w < max, the same rule fractionInside uses, so 12 lb is Small and never "no band". */
+  function bandsFor(w) {
+    return BANDS.filter(function (b) {
+      return w[0] === w[1] ? (w[0] >= b.min && w[0] < b.max) : (w[0] < b.max && w[1] > b.min);
+    }).map(function (b) { return b.id; });
+  }
+  function selectedBands(a) {
+    return (a.size || []).filter(function (v) { return v !== 'any'; });
+  }
+  /* The chosen bands plus every band within `steps` of one of them (steps 1 = the neighbours). */
+  function widenBands(sel, steps) {
+    var idx = sel.map(bandIndex);
+    return BANDS.filter(function (b, i) {
+      return idx.some(function (j) { return Math.abs(i - j) <= steps; });
+    }).map(function (b) { return b.id; });
+  }
+  /* Size bands a breed must touch: the user's picks, a widened list (array), or every size (true). */
+  function sizeFilterBands(a, relax) {
+    var sel = selectedBands(a);
+    if (!sel.length || relax === true) return null;
+    return Array.isArray(relax) ? relax : sel;
+  }
+  /* Share of a breed's weight range that falls inside the chosen bands (0..1). */
+  function fractionInside(w, bandIds) {
+    var span = w[1] - w[0], inside = 0;
+    BANDS.forEach(function (b) {
+      if (bandIds.indexOf(b.id) === -1) return;
+      if (span === 0) { if (w[0] >= b.min && w[0] < b.max) inside = 1; return; }
+      inside += pos(Math.min(w[1], b.max) - Math.max(w[0], b.min)) / span;
+    });
+    return clamp(inside, 0, 1);
+  }
+  function bandDistance(w, bandIds) {
+    var own = bandsFor(w).map(bandIndex), best = 9;
+    bandIds.forEach(function (id) {
+      var t = bandIndex(id);
+      own.forEach(function (o) { best = Math.min(best, Math.abs(o - t)); });
+    });
+    return best;
+  }
+  function midCost(b) { return b.cost ? (b.cost[0] + b.cost[1]) / 2 : null; }
+
+  /* Hard filters. Returns null when the breed passes, else the reason key.
+     relaxSize: false = the sizes picked, an array = those bands, true = any size. */
+  function filterReason(b, a, relaxSize) {
+    if (a.coat === 'allergy' && !b.f.allergy) return 'allergy';
+    if (a.kids === 'young' && b.sc.kids <= 1) return 'kids';
+    if ((has(a.pets, 'cats') || has(a.pets, 'small')) && b.sc.small_pets <= 1) return 'pets';
+    var bands = sizeFilterBands(a, relaxSize);
+    if (bands && fractionInside(b.w, bands) === 0) return 'size';
+    return null;
+  }
+
+  function priorityPenalty(p, b) {
+    var s = b.sc;
+    switch (p) {
+      case 'train': return (5 - s.trainability) * PRI_STEP;
+      case 'kids': return (5 - s.kids) * PRI_STEP;
+      case 'friendly': return (5 - s.strangers) * PRI_STEP;
+      case 'guardian': return (5 - s.watchdog) * PRI_STEP;
+      case 'lowmaint': return pos(s.grooming - 2) * 3 + pos(s.shedding - 2) * 2 + pos(s.energy - 3) * 3;
+      case 'healthy': return (b.f.brachy ? 10 : 0) + (b.w[1] >= 100 ? 6 : (b.w[1] >= 90 ? 3 : 0));
+      case 'calm': return pos(s.energy - 2) * 4 + pos(s.barking - 3) * 2;
+      case 'adventure': return pos(4 - s.energy) * 5;
+      default: return 0;
+    }
+  }
+
+  /* Penalty breakdown for one breed. pct = clamp(round(100 - total), 0, 99). */
+  function scoreBreed(b, a, relaxedSize) {
+    var s = b.sc, parts = {};
+    var cap = ENERGY_CAP[a.act] || 3;
+    var gap = s.energy - cap;
+    /* Spec change: under-energy costs 6/level for 'very active' (spec: 3) so a 2-hour runner isn't matched with a mellow breed. */
+    parts.energy = gap > 0 ? 12 * gap : (a.act === 'very' ? 6 * -gap : (a.act === 'active' ? 3 * -gap : 0));
+    parts.home = a.home === 'apt' ? (5 - s.apartment) * 5 : (a.home === 'small' ? (5 - s.apartment) * 2 : 0);
+    parts.exp = a.exp === 'first' ? (5 - s.beginner) * 6 + (5 - s.trainability) * 2 : (a.exp === 'some' ? pos(3 - s.beginner) * 6 : 0);
+    parts.kids = a.kids === 'young' ? (5 - s.kids) * 7
+      : a.kids === 'older' ? pos(3 - s.kids) * 7
+      : a.kids === 'soon' ? pos(4 - s.kids) * 5
+      : a.kids === 'visit' ? pos(3 - s.kids) * 5 : 0;
+    parts.dogs = has(a.pets, 'dogs') ? pos(3 - s.dogs) * 6 : 0;
+    parts.smallpets = (has(a.pets, 'cats') || has(a.pets, 'small')) ? pos(4 - s.small_pets) * 6 : 0;
+    /* Spec change: a breed rated 1 for time alone gets +12 more on a 6-9 h workday (distress risk, not just a preference gap). */
+    parts.alone = a.alone === 'work' ? (5 - s.alone) * 5 + (s.alone <= 1 ? 12 : 0) : (a.alone === 'short' ? pos(3 - s.alone) * 5 : 0);
+    parts.coat = (a.coat === 'allergy' || a.coat === 'minimal') ? pos(s.shedding - 2) * 6 : (a.coat === 'some' ? pos(s.shedding - 3) * 4 : 0);
+    /* Weekly brushers: coats rated 4-5 need professional grooming, so each level over costs 7 (a 5 costs 14). */
+    parts.groom = a.groom === 'minimal' ? pos(s.grooming - 2) * 6 : (a.groom === 'weekly' ? pos(s.grooming - 3) * 7 : 0);
+    parts.noise = a.noise === 'quiet' ? pos(s.barking - 2) * 6 : (a.noise === 'some' ? pos(s.barking - 3) * 4 : 0);
+    parts.heat = has(a.climate, 'hot') ? pos(3 - s.heat) * 8 + (b.f.brachy ? 6 : 0) : 0;
+    parts.cold = has(a.climate, 'cold') ? pos(3 - s.cold) * 6 : 0;
+    parts.pri = (a.pri || []).reduce(function (t, p) { return t + priorityPenalty(p, b); }, 0);
+    parts.health = b.f.brachy ? BRACHY_BASE : 0;
+    parts.avail = (!b.akc && b.g !== 'Designer Crossbreed') ? RARE_NUDGE : 0;
+    var mid = midCost(b), capCost = BUDGET_CAP[a.budget];
+    parts.budget = (mid !== null && capCost) ? clamp((mid - capCost) / 1000 * 4, 0, 15) : 0;
+    var bands = selectedBands(a);
+    parts.size = 0;
+    if (bands.length) {
+      /* Partly inside: up to 8 points, scaled by the share of the weight range outside the picks.
+         Wholly outside (only possible after widening): 12 points per size step away. */
+      var inside = fractionInside(b.w, bands);
+      parts.size = inside > 0 ? Math.round((1 - inside) * 8) : (relaxedSize ? SIZE_STEP * bandDistance(b.w, bands) : 0);
+    }
+    var total = 0;
+    for (var k in parts) if (Object.prototype.hasOwnProperty.call(parts, k)) total += parts[k];
+    return { pct: clamp(Math.round(100 - total), 0, 99), pen: total, parts: parts };
+  }
+
+  /* Sort: score, then raw penalty, then AKC top-50 (tie-break only), then name. */
+  function compare(x, y) {
+    if (y.pct !== x.pct) return y.pct - x.pct;
+    if (x.pen !== y.pen) return x.pen - y.pen;
+    var px = x.b.akc && x.b.akc <= POPULAR_RANK ? 0 : 1, py = y.b.akc && y.b.akc <= POPULAR_RANK ? 0 : 1;
+    if (px !== py) return px - py;
+    return x.b.n < y.b.n ? -1 : (x.b.n > y.b.n ? 1 : (x.b.s < y.b.s ? -1 : (x.b.s > y.b.s ? 1 : 0)));
+  }
+
+  /* Full ranking: every breed that passes the hard filters, best first. When the picked sizes
+     leave fewer than MIN_RESULTS breeds, widen one size step at a time (neighbouring bands first)
+     and stop as soon as enough breeds pass; only the last step lets every size in. */
+  function rank(breeds, a) {
+    var sel = selectedBands(a), bands = sel, relaxedSize = false, added = [];
+    var passing = function (relax) { return breeds.filter(function (b) { return !filterReason(b, a, relax); }); };
+    var strict = passing(false), pass = strict;
+    if (strict.length < MIN_RESULTS && sel.length) {
+      for (var steps = 1; steps < BANDS.length; steps++) {
+        var wider = widenBands(sel, steps);
+        var got = passing(wider);
+        bands = wider; pass = got;
+        if (got.length >= MIN_RESULTS) break;
+      }
+      if (pass.length > strict.length) {
+        relaxedSize = true;
+        /* Name only the added sizes that actually brought a breed in. */
+        added = bands.filter(function (id) {
+          return sel.indexOf(id) === -1 && pass.some(function (b) {
+            return fractionInside(b.w, sel) === 0 && fractionInside(b.w, [id]) > 0;
+          });
+        });
+      } else {
+        bands = sel; pass = strict;
+      }
+    }
+    var excluded = {};
+    breeds.forEach(function (b) {
+      var r = filterReason(b, a, relaxedSize ? bands : false);
+      if (r) excluded[b.s] = r;
+    });
+    var list = pass.map(function (b) {
+      var r = scoreBreed(b, a, relaxedSize);
+      return { b: b, pct: r.pct, pen: r.pen, parts: r.parts };
+    }).sort(compare);
+    return { list: list, relaxedSize: relaxedSize, addedSizes: added, sizeBands: bands, excluded: excluded, total: breeds.length };
+  }
+
+  function label(pct) {
+    return pct >= 85 ? 'Excellent fit' : (pct >= 70 ? 'Great fit' : (pct >= 55 ? 'Good fit' : 'Partial fit'));
+  }
+  function sizeLabel(w) {
+    var ids = bandsFor(w);
+    var names = BANDS.filter(function (b) { return ids.indexOf(b.id) !== -1; }).map(function (b) { return b.label; });
+    return names.length > 1 ? names[0] + '–' + names[names.length - 1] : (names[0] || '');
+  }
+  function money(n) { return '$' + Math.round(n).toLocaleString('en-US'); }
+  function moneyRange(r) { return r[0] === r[1] ? money(r[0]) : money(r[0]) + '–' + money(r[1]); }
+  /* "lo–hi unit", or "about lo unit" when both ends are the same. */
+  function span(lo, hi, unit) {
+    var u = unit ? ' ' + unit : '';
+    return lo === hi ? 'about ' + lo + u : lo + '–' + hi + u;
+  }
+  function imgUrl(u, width) {
+    if (!u) return '';
+    if (!/^https:\/\/cdn\.shopify\.com\//.test(u)) return u;
+    return u + (u.indexOf('?') === -1 ? '?' : '&') + 'width=' + (width || 480);
+  }
+
+  /* ---------- topics: a card never says the same thing twice, or the opposite thing ---------- */
+  var TOPIC_RE = {
+    kids: /\b(kids?|child|children|toddlers?|famil(y|ies)|bab(y|ies))\b/,
+    toddler: /\b(toddlers?|young (kids|children)|very young|under [56]|small (kids|children)|running children|children's heels|rough-and-tumble young)\b/,
+    pets: /\b(cats?|small pets?|small animals?|small caged|rabbits?|rodents?|rats?|hamsters?|birds?|guinea pigs?|mice|prey|chase|wildlife|small dogs)\b/,
+    dogs: /\b(dog-aggressive|dog-selective|dog aggression|same-sex|same sex|other dogs|unfamiliar dogs|dog parks?|with dogs|only dog|dog encounter)\b/,
+    alone: /\b(alone|separation|workdays?|home most|home much|home for much|company|velcro|solo)\b/,
+    energy: /\b(exercise|energy|energetic|running|run|stamina|tireless|destructive|hyperactive|restless|couch|walkers|vigorous|active|mental work|job|puppyish|sport|swimming|hikes?|hiking|trail|activity|calm|calmer|lively|livelier|outlet)\b/,
+    train: /\b(train|trains|training|trained|stubborn|independent|strong-willed|strong will|handler|handling|experienced|beginner|first-time|first-timers|first dog|first-dog|dominant|boundaries|consistent|inconsistent|patience|recall|learn|housetrain|housetraining|obeys|handful)\b/,
+    strangers: /\b(strangers?|guard|guardian|protective|protectiveness|territorial|suspicious|wary|aloof|reserved|visitors?|reactive|reactivity|socialization|watchful|new people)\b/,
+    coat: /\b(coats?|groom|grooming|grooms|groomer|brush|brushing|clip|clipping|trims?|trimming|mats?|shed|sheds|shedding|shedder|fur|hair|hand-stripping|cords?|corded|bath|baths|bathing|hairless|hypoallergenic)\b/,
+    noise: /\b(bark|barks|barking|barker|barky|vocal|bay|bays|baying|howl|howling|noise|noisy|quiet|voice|scream|loud|neighbou?rs?|thin walls|shared walls|through walls|apartment walls)\b/,
+    heat: /\b(heat|hot|overheats?|warm|air conditioning|ac|cool hours?|cool-hour|humidity|cool itself|summer)\b/,
+    cold: /\b(cold|winter|snow|snowy|sweater)\b/,
+    home: /\b(apartments?|yard|fence|fenced|fencing|escape|escape-proof|dig|digs|digger|dig-proof|space|roams|off-leash|off leash|jumper)\b/,
+    health: /\b(health|healthy|health-tested|lifespan|cancer|bloat|hip|dysplasia|heart|cardiac|cardiologist|dna|disease|deaf|deafness|eyes?|spine|spinal|ivdd|anesthesia|drugs?|diet|vet|seizure|epilepsy|skin|dental|teeth|tooth|tracheal|surgery|boas|breathing|airway|pancreatitis|kidney|ears?|diabetes|fragile|fracture|flat-faced|gastropexy|long-lived)\b/,
+    brachy: /\b(flat-faced|flat face|boas|breathing|airway|flat muzzle)\b/,
+    cost: /\b(costs?|costly|budget|expense|insurance|insure|insurer|wait lists?|waits?|rare breed|very rare)\b/
+  };
+  /* Topics that matter to every household, whatever the answers. */
+  var ALWAYS_TOPICS = { health: 1, home: 1, strangers: 1, cost: 1, brachy: 1 };
+  /* A caveat about one of these is skipped outright when it doesn't apply (no cat-chase warning for a home with no pets). */
+  var HARD_TOPICS = { kids: 1, toddler: 1, pets: 1, alone: 1, heat: 1, cold: 1 };
+
+  function topicsOf(t) {
+    var s = String(t || '').toLowerCase().replace(/\b(a winter coat|winter coat|a coat in winter)\b/g, 'a sweater');
+    return Object.keys(TOPIC_RE).filter(function (k) { return TOPIC_RE[k].test(s); });
+  }
+  function topicApplies(k, b, a) {
+    var cap = ENERGY_CAP[a.act] || 3;
+    switch (k) {
+      case 'kids': return a.kids !== 'none';
+      case 'toddler': return a.kids === 'young' || a.kids === 'soon' || a.kids === 'visit';
+      case 'pets': return has(a.pets, 'cats') || has(a.pets, 'small');
+      case 'dogs': return has(a.pets, 'dogs');
+      case 'alone': return a.alone !== 'rare';
+      case 'heat': return has(a.climate, 'hot');
+      case 'cold': return has(a.climate, 'cold');
+      case 'energy': return b.sc.energy > cap || (b.sc.energy === cap && (a.act === 'relaxed' || a.act === 'moderate'));
+      case 'train': return a.exp !== 'pro' || has(a.pri, 'train');
+      case 'coat': return a.groom !== 'pro' || a.coat !== 'any';
+      case 'noise': return a.noise !== 'any' || a.home === 'apt';
+      default: return true;
+    }
+  }
+  /* How well a guide caveat speaks to these answers; -1 = don't show it. */
+  function caveatScore(tp, b, a, covered) {
+    if (b.f.brachy && has(tp, 'brachy')) return -1; // the card's flat-face note already says it
+    if (tp.some(function (k) { return covered[k]; })) return -1;
+    if (tp.some(function (k) { return HARD_TOPICS[k] && !topicApplies(k, b, a); })) return -1;
+    if (!tp.length) return 1;
+    var score = 0;
+    tp.forEach(function (k) { if (topicApplies(k, b, a)) score += ALWAYS_TOPICS[k] ? 1 : 2; });
+    return score > 0 ? score : -1;
+  }
+
+  /* ---------- "Why it fits" candidates, strongest first ---------- */
+  function rawReasons(b, a, parts) {
+    var s = b.sc, out = [], pri = a.pri || [];
+    var add = function (ok, w, t, tp) { if (ok) out.push({ w: w, t: t, tp: tp }); };
+    add(a.home === 'apt' && s.apartment >= 4, s.apartment, 'Settles well in an apartment', ['home']);
+    add(a.home === 'small' && s.apartment >= 3, s.apartment - 1, 'Doesn’t need a big yard', ['home']);
+    add((a.home === 'yard' || a.home === 'land') && s.energy >= 4 && !parts.energy, 2, 'Will make good use of the yard', ['home', 'energy']);
+    add(a.kids === 'young' && s.kids >= 4, s.kids + 1, 'Patient with young children', ['kids']);
+    add(a.kids === 'older' && s.kids >= 4, s.kids, 'Good with school-age kids', ['kids']);
+    add(a.kids === 'soon' && s.kids >= 4, s.kids, 'Likely to adjust well when kids come along', ['kids']);
+    add(a.kids === 'visit' && s.kids >= 4, s.kids - 1, 'Usually relaxed with visiting kids', ['kids']);
+    add(has(a.pets, 'dogs') && s.dogs >= 4, s.dogs, 'Usually gets along with other dogs', ['dogs']);
+    add((has(a.pets, 'cats') || has(a.pets, 'small')) && s.small_pets >= 4, s.small_pets, 'Lower chase instinct than many breeds', ['pets']);
+    add(a.alone === 'work' && s.alone >= 4, s.alone + 1, 'Copes better than most with time alone', ['alone']);
+    add(a.alone === 'short' && s.alone >= 3, s.alone - 1, 'Handles a few hours on its own', ['alone']);
+    add(a.act === 'relaxed' && s.energy <= 2, 4, 'Happy with short walks and couch time', ['energy']);
+    add(a.act === 'moderate' && s.energy === 3, 3, 'Content with about an hour of activity a day', ['energy']);
+    add(a.act === 'moderate' && s.energy <= 2, 2, 'Easygoing about exercise', ['energy']);
+    add(a.act === 'active' && s.energy === 4, 4, 'Keeps up on long walks and hikes', ['energy']);
+    add(a.act === 'very' && s.energy === 5, 5, 'Built for running and trail days', ['energy']);
+    add(a.exp === 'first' && s.beginner >= 4, s.beginner + 1, 'Forgiving for a first-time owner', ['train']);
+    add(s.trainability >= 4 && !has(pri, 'train'), s.trainability - 2, 'Picks up training quickly', ['train']);
+    add((a.coat === 'allergy' || a.coat === 'minimal') && s.shedding <= 2, 7 - s.shedding, 'Sheds very little', ['coat']);
+    add(a.coat === 'some' && s.shedding <= 3, 1, 'Moderate shedding at most', ['coat']);
+    add(a.groom === 'minimal' && s.grooming <= 2, 6 - s.grooming, 'Easy coat care', ['coat']);
+    add(a.groom === 'weekly' && s.grooming <= 2, 1, 'Weekly brushing keeps the coat tidy', ['coat']); /* 3 = several brushings a week */
+    add(a.noise === 'quiet' && s.barking <= 2, 6 - s.barking, 'Usually quiet', ['noise']);
+    add(has(a.climate, 'hot') && s.heat >= 4 && !b.f.brachy, s.heat, 'Handles heat better than most', ['heat']);
+    add(has(a.climate, 'cold') && s.cold >= 4, s.cold, 'Comfortable in cold weather', ['cold']);
+    add(has(pri, 'train') && s.trainability >= 4, s.trainability + 3, 'Quick to learn', ['train']);
+    add(has(pri, 'kids') && s.kids >= 4 && a.kids !== 'young', s.kids + 3, 'Known for being great with kids', ['kids']);
+    add(has(pri, 'friendly') && s.strangers >= 4, s.strangers + 3, 'Friendly with new people', ['strangers']);
+    add(has(pri, 'guardian') && s.watchdog >= 4, s.watchdog + 3, 'Alert, watchful guardian', ['strangers']);
+    add(has(pri, 'calm') && s.energy <= 2, 8, 'Calm indoors', ['energy']);
+    add(has(pri, 'adventure') && s.energy >= 4, s.energy + 3, 'Up for outdoor adventures', ['energy']);
+    /* Same test as the low-maintenance heads-up, so "Easy to keep" never sits next to "needs more upkeep". */
+    add(has(pri, 'lowmaint') && s.grooming <= 2 && s.shedding <= 3 && priorityPenalty('lowmaint', b) <= PRI_STEP, 7, 'Easy to keep', ['coat', 'energy']);
+    add(has(pri, 'healthy') && !b.f.brachy && b.w[1] < 90, 6, 'Not flat-faced and not a giant breed', ['health']);
+    var mid = midCost(b), capCost = BUDGET_CAP[a.budget];
+    add(!!capCost && mid !== null && mid <= capCost, 3, 'First-year costs fit your budget', ['cost']);
+    out.sort(function (x, y) { return y.w - x.w; });
+    out.forEach(function (r) { r.tp = r.tp.concat(topicsOf(r.t)); });
+    return out;
+  }
+
+  var PRI_GAP = {
+    train: 'Can be harder to train than you’d like', kids: 'Not the most kid-focused breed',
+    friendly: 'Can be reserved with strangers', guardian: 'More friendly than watchful',
+    healthy: 'Flat-faced or giant breeds tend to have more health problems',
+    calm: 'Livelier indoors than you may want', adventure: 'Not built for long adventures'
+  };
+  var PRI_TOPIC = { train: ['train'], kids: ['kids'], friendly: ['strangers'], guardian: ['strangers'], healthy: ['health'], calm: ['energy'], adventure: ['energy'] };
+  var PRI_NAME = { train: 'easy to train', kids: 'great with kids', lowmaint: 'low-maintenance', healthy: 'healthy & long-lived', friendly: 'loves everyone', guardian: 'watchful guardian', calm: 'calm indoors', adventure: 'adventure buddy' };
+  var KEY_TOPIC = { energy: ['energy'], home: ['home'], exp: ['train'], kids: ['kids'], dogs: ['dogs'], smallpets: ['pets'], alone: ['alone'],
+    coat: ['coat'], groom: ['coat'], noise: ['noise'], heat: ['heat'], cold: ['cold'], budget: ['cost'], size: ['size'], health: ['health', 'brachy'] };
+  var LOW_TOP_PCT = 60;
+  var GAP_MIN = 4; // a penalty part this big gets its own line
+
+  /* Every penalty part of GAP_MIN+ points with its plain-words text, biggest first.
+     On cards, a part only gets a line when the trait is clearly weak, so a card never says the same
+     thing is a reason it fits AND a warning. The breed checker (all = true) lists the milder ones too. */
+  function mismatches(b, a, parts, all) {
+    var s = b.sc, cap = ENERGY_CAP[a.act] || 3;
+    var worstPri = function () {
+      var worst = null, most = 0;
+      (a.pri || []).forEach(function (p) { var v = priorityPenalty(p, b); if (v > most) { most = v; worst = p; } });
+      return worst;
+    };
+    /* What drives the low-maintenance gap most: 'energy', 'shed' or 'groom'. */
+    var lowmaintCause = function () {
+      var en = pos(s.energy - 3) * 3, sh = pos(s.shedding - 2) * 2, gr = pos(s.grooming - 2) * 3;
+      return en >= sh && en >= gr ? 'energy' : (sh >= gr ? 'shed' : 'groom');
+    };
+    var LOWMAINT_GAP = { energy: 'Needs more exercise than a low-maintenance breed', shed: 'Sheds more than a low-maintenance breed', groom: 'Takes more coat care than a low-maintenance breed' };
+    var text = {
+      energy: function () {
+        if (s.energy <= cap) return 'Calmer than you may want for long, active days';
+        var top = USER_MAX_MIN[a.act] || 60;
+        if (b.ex[0] > top) return 'Needs ' + span(b.ex[0], b.ex[1], 'min') + ' of exercise a day, more than you planned';
+        if (b.ex[1] > top) return 'Can need up to ' + b.ex[1] + ' min of exercise a day, more than you planned';
+        return 'High-drive: needs vigorous exercise, not just walks';
+      },
+      home: function () { return a.home === 'apt' ? 'Not an easy fit for apartment life' : 'Happiest with more room than a small yard'; },
+      exp: function () { return a.exp === 'first' ? 'Can be a handful for a first-time owner' : 'Needs a confident, experienced handler'; },
+      kids: function () {
+        return a.kids === 'young' ? 'Best with older, dog-savvy kids'
+          : (a.kids === 'soon' ? 'Plan careful introductions if a baby arrives' : 'Not always relaxed around kids');
+      },
+      dogs: function () { return 'Can be choosy about other dogs'; },
+      smallpets: function () { return 'Chase instinct; supervise around cats and small pets'; },
+      alone: function () {
+        return a.alone === 'work' ? 'Doesn’t like long stretches alone; plan a midday walker'
+          : 'Can struggle even with a few hours alone';
+      },
+      coat: function () { return 'Sheds more than you said you want'; },
+      groom: function () { return 'Coat needs more grooming than you planned'; },
+      noise: function () { return 'Can be vocal'; },
+      heat: function () { return 'Struggles in hot weather'; },
+      cold: function () { return 'Feels the cold; plan on a jacket in winter'; },
+      pri: function () {
+        var worst = worstPri();
+        if (worst === 'lowmaint') return LOWMAINT_GAP[lowmaintCause()];
+        return PRI_GAP[worst] || 'Not the strongest match for what matters most to you';
+      },
+      budget: function () { return 'First-year estimate of ' + moneyRange(b.cost) + ' is over your budget'; },
+      size: function () {
+        var bands = selectedBands(a), maxB = 0;
+        BANDS.forEach(function (x) { if (bands.indexOf(x.id) !== -1) maxB = Math.max(maxB, x.max); });
+        return b.w[1] > maxB ? 'Can grow bigger than the sizes you picked' : 'Can be smaller than the sizes you picked';
+      },
+      health: function () { return 'Flat-faced breed: higher risk of breathing-related health problems'; }
+    };
+    /* Milder wording for the breed checker when the trait is fine but not top-rated. */
+    var mild = {
+      energy: function () { return 'A little calmer than your most active days'; },
+      home: function () { return a.home === 'apt' ? 'Good but not top-rated for apartment life' : 'Good but not top-rated without a big yard'; },
+      exp: function () { return 'Good but not top-rated for first-time owners'; },
+      kids: function () { return 'Good but not top-rated with kids'; },
+      alone: function () { return 'Good but not top-rated for time alone'; },
+      pri: function () { return 'Good but not top-rated for “' + (PRI_NAME[worstPri()] || 'what matters most') + '”'; }
+    };
+    var weak = {
+      energy: function () { return s.energy > cap || cap - s.energy >= 2; },
+      home: function () { return a.home === 'apt' ? s.apartment <= 3 : s.apartment <= 2; },
+      exp: function () { return s.beginner <= 3; },
+      kids: function () { return s.kids <= 3; },
+      dogs: function () { return s.dogs <= 3; },
+      smallpets: function () { return s.small_pets <= 3; },
+      alone: function () { return a.alone === 'work' ? s.alone <= 3 : s.alone <= 2; },
+      pri: function () { return (a.pri || []).some(function (p) { return priorityPenalty(p, b) > PRI_STEP; }); }
+    };
+    var out = [];
+    Object.keys(parts).forEach(function (k) {
+      if (parts[k] < GAP_MIN || !text[k]) return;
+      if (k === 'health' && !all) return; // cards carry their own flat-face note
+      var strong = !weak[k] || weak[k]();
+      if (!strong && !(all && mild[k])) return;
+      var t = strong ? text[k]() : mild[k]();
+      var tp = k === 'pri' ? (worstPri() === 'lowmaint' ? (lowmaintCause() === 'energy' ? ['energy'] : ['coat']) : (PRI_TOPIC[worstPri()] || [])) : (KEY_TOPIC[k] || []);
+      out.push({ k: k, t: t, pts: Math.round(parts[k]), raw: parts[k], tp: tp.concat(topicsOf(t)) });
+    });
+    out.sort(function (x, y) { return (y.raw - x.raw) || (x.k < y.k ? -1 : 1); });
+    return out;
+  }
+
+  /* Reasons that don't share a topic with the chosen caveat, topped up from the guide's highlights
+     (a highlight is skipped when it shares a topic with any heads-up on the card). */
+  function pickReasons(raw, b, covered, cavTp) {
+    var res = [], seen = {};
+    raw.forEach(function (r) {
+      if (res.length >= 3 || seen[r.t]) return;
+      if (r.tp.some(function (k) { return has(cavTp, k); })) return;
+      seen[r.t] = 1; res.push(r.t);
+    });
+    (b.hi || []).forEach(function (h) {
+      if (res.length >= 2 || seen[h]) return;
+      if (topicsOf(h).some(function (k) { return covered[k] || has(cavTp, k); })) return;
+      seen[h] = 1; res.push(h);
+    });
+    return res;
+  }
+  /* The guide caveat (cv[0] or cv[1]) that best fits these answers and repeats nothing already said;
+     null when neither does, or when showing it would leave the card without a single reason. */
+  function chooseCaveat(b, a, raw, covered) {
+    var cands = (b.cv || []).slice(0, 2).map(function (t, i) {
+      var tp = topicsOf(t);
+      return { t: t, i: i, tp: tp, score: caveatScore(tp, b, a, covered) };
+    }).filter(function (c) { return c.score > 0; });
+    cands.sort(function (x, y) { return (y.score - x.score) || (x.i - y.i); });
+    for (var i = 0; i < cands.length; i++) {
+      var why = pickReasons(raw, b, covered, cands[i].tp);
+      if (why.length) return { cav: cands[i], why: why };
+    }
+    return { cav: null, why: pickReasons(raw, b, covered, []) };
+  }
+  function coverOf(list) {
+    var covered = {};
+    list.forEach(function (g) { g.tp.forEach(function (k) { covered[k] = 1; }); });
+    return covered;
+  }
+
+  /* Everything a result card says. Heads-ups: up to 2 answer mismatches (one per topic), then at
+     most one guide caveat that applies to these answers and isn't already covered. */
+  function cardNotes(b, a, parts) {
+    var computed = [], covered = {};
+    mismatches(b, a, parts, false).forEach(function (g) {
+      if (computed.length >= 2 || g.tp.some(function (k) { return covered[k]; })) return;
+      computed.push(g);
+      g.tp.forEach(function (k) { covered[k] = 1; });
+    });
+    var raw = rawReasons(b, a, parts);
+    var pick = chooseCaveat(b, a, raw, covered);
+    var why = pick.why.length ? pick.why : (b.hi || []).slice(0, 1);
+    var warn = computed.map(function (g) { return g.t; });
+    if (pick.cav) warn.push(pick.cav.t);
+    return { why: why, warn: warn, caveat: pick.cav ? pick.cav.t : null };
+  }
+  function reasons(b, a, parts) { return cardNotes(b, a, parts).why; }
+  function headsUps(b, a, parts) { return cardNotes(b, a, parts).warn; }
+
+  /* "Check a specific breed": every deduction of GAP_MIN+ points, plus a caveat that adds something new. */
+  function checkNotes(b, a, parts) {
+    /* One line per topic: e.g. the kids answer and the "Great with kids" priority both
+       charge for the same trait, so show one line with the combined points. */
+    var gaps = [];
+    mismatches(b, a, parts, true).forEach(function (g) {
+      var same = gaps.filter(function (m) { return m.tp.some(function (t) { return g.tp.indexOf(t) !== -1; }); })[0];
+      if (same) same.pts += g.pts;
+      else gaps.push({ k: g.k, t: g.t, pts: g.pts, raw: g.raw, tp: g.tp });
+    });
+    var covered = coverOf(gaps);
+    var raw = rawReasons(b, a, parts);
+    var pick = chooseCaveat(b, a, raw, covered);
+    return { gaps: gaps.map(function (g) { return { t: g.t, pts: g.pts }; }), why: pick.why, caveat: pick.cav ? pick.cav.t : null };
+  }
+
+  /* Answer combinations worth flagging above the results. */
+  function conflicts(a, ranking) {
+    var out = [], bands = selectedBands(a);
+    if ((a.coat === 'allergy' || a.coat === 'minimal') && a.groom === 'minimal') {
+      out.push({ k: 'coat-groom', t: 'Low shedding usually means more grooming.', d: 'Coats that shed little tend to keep growing, so they need brushing a few times a week and a trim every 4–8 weeks. We kept both answers, so easy-care coats are scarce in your list.' });
+    }
+    if (a.exp === 'first' && a.act === 'very') {
+      out.push({ k: 'first-very', t: 'High energy plus a first dog is a big project.', d: 'Many of the most athletic breeds are also demanding to train. We favored breeds that are more forgiving for first-time owners.' });
+    }
+    if (a.alone === 'work') {
+      out.push({ k: 'alone', t: 'Long days alone are hard for most dogs.', d: 'A midday dog walker or daycare a few days a week widens your options a lot, and it helps any breed settle.' });
+    }
+    if (a.kids === 'young' && has(bands, 'giant')) {
+      out.push({ k: 'kids-giant', t: 'Big dogs and small kids need supervision.', d: 'Even gentle giant breeds can knock a toddler over by accident. Plan for supervised play and a calm space for the dog.' });
+    }
+    if (has(a.climate, 'hot') && a.act === 'very') {
+      out.push({ k: 'hot-very', t: 'Hot summers limit hard exercise.', d: 'Plan early-morning or evening runs, and watch any dog for signs of overheating.' });
+    }
+    if (ranking && ranking.list.length && ranking.list[0].pct < LOW_TOP_PCT) {
+      out.push({ k: 'low', t: 'Your answers pull in different directions.', d: 'No breed lines up with all of them, so even your top matches have trade-offs. The heads-ups on each card show where. Changing one answer, like grooming or size, can open up more options.' });
+    }
+    if (ranking && ranking.relaxedSize) {
+      var addedNames = BANDS.filter(function (b) { return has(ranking.addedSizes, b.id); }).map(function (b) { return b.label.toLowerCase(); });
+      var list = addedNames.length > 1 ? addedNames.slice(0, -1).join(', ') + ' and ' + addedNames[addedNames.length - 1] : (addedNames[0] || 'other');
+      out.push({ k: 'size', t: 'We widened your size range.', d: 'Fewer than ' + MIN_RESULTS + ' breeds matched all your must-haves in the sizes you picked, so we added ' + list + ' breeds. They lose ' + SIZE_STEP + ' points for each size step away from your pick.' });
+    }
+    return out;
+  }
+
+  /* Plain-words description of the dog these answers describe, for adopters. */
+  function describeDog(a) {
+    var words = [], bands = selectedBands(a);
+    if (bands.length) {
+      var names = BANDS.filter(function (b) { return bands.indexOf(b.id) !== -1; }).map(function (b) { return b.label.toLowerCase(); });
+      words.push(names.length > 2 ? names.slice(0, -1).join(', ') + ' or ' + names[names.length - 1] : names.join(' or '));
+    } else if (a.home === 'apt') {
+      words.push('small or medium');
+    }
+    words.push({ relaxed: 'low-energy', moderate: 'moderate-energy', active: 'active', very: 'high-energy' }[a.act] || 'moderate-energy');
+    if (a.coat === 'allergy' || a.coat === 'minimal') words.push('low-shedding');
+    if (a.noise === 'quiet') words.push('quiet');
+    var extras = [];
+    if (a.kids === 'young' || a.kids === 'older' || a.kids === 'soon') extras.push('kids');
+    if (has(a.pets, 'cats')) extras.push('cats');
+    if (has(a.pets, 'dogs')) extras.push('other dogs');
+    if (has(a.pets, 'small')) extras.push('small pets');
+    var line = 'a ' + words.join(', ') + ' dog';
+    if (extras.length) line += ' that has done well with ' + (extras.length > 1 ? extras.slice(0, -1).join(', ') + ' and ' + extras[extras.length - 1] : extras[0]);
+    return line.replace(/^a ([aeiou])/i, 'an $1');
+  }
+
+  function isComplete(a) {
+    return KEYS.every(function (k) {
+      if (OPTIONAL[k]) return true;
+      return MULTI[k] ? !!(a[k] && a[k].length) : !!a[k];
+    });
+  }
+  function encode(a) {
+    return KEYS.map(function (k) {
+      if (MULTI[k]) return (a[k] || []).join('_') || '-';
+      return a[k] || '-';
+    }).join('.');
+  }
+  function decode(str) {
+    if (typeof str !== 'string') return null;
+    var vals = str.split('.');
+    if (vals.length !== KEYS.length) return null;
+    var a = {};
+    for (var i = 0; i < KEYS.length; i++) {
+      var k = KEYS[i], v = vals[i];
+      if (v === '-') { if (OPTIONAL[k]) { a[k] = null; continue; } return null; }
+      if (MULTI[k]) {
+        var list = v.split('_');
+        for (var j = 0; j < list.length; j++) if (!has(ALLOWED[k], list[j]) || list.indexOf(list[j]) !== j) return null;
+        if (list.length > 1 && has(list, EXCLUSIVE[k])) return null;
+        if (MAX_PICKS[k] && list.length > MAX_PICKS[k]) return null;
+        a[k] = list;
+      } else {
+        if (!has(ALLOWED[k], v)) return null;
+        a[k] = v;
+      }
+    }
+    return isComplete(a) ? a : null;
+  }
+
+  return {
+    BANDS: BANDS, KEYS: KEYS, ALLOWED: ALLOWED, MULTI: MULTI, EXCLUSIVE: EXCLUSIVE, MAX_PICKS: MAX_PICKS, OPTIONAL: OPTIONAL,
+    MIN_RESULTS: MIN_RESULTS, USER_MAX_MIN: USER_MAX_MIN, ENERGY_CAP: ENERGY_CAP,
+    bandsFor: bandsFor, widenBands: widenBands, fractionInside: fractionInside, filterReason: filterReason,
+    scoreBreed: scoreBreed, rank: rank, label: label, sizeLabel: sizeLabel, money: money, moneyRange: moneyRange, span: span, imgUrl: imgUrl,
+    reasons: reasons, headsUps: headsUps, cardNotes: cardNotes, checkNotes: checkNotes, topicsOf: topicsOf, topicApplies: topicApplies,
+    conflicts: conflicts, describeDog: describeDog,
+    isComplete: isComplete, encode: encode, decode: decode
+  };
+})();
+// WQ-SCORING-END
+
+(function () {
+  'use strict';
+  var root = document.getElementById('wq-root');
+  if (!root || root.getAttribute('data-wq-ready')) return;
+  root.setAttribute('data-wq-ready', '1');
+  var quizEl = document.getElementById('wq-quiz');
+  var resEl = document.getElementById('wq-results');
+  var appEl = document.getElementById('wq-app');
+  var DATA = null;
+  try { DATA = JSON.parse(document.getElementById('wq-data').textContent); } catch (e) { DATA = null; }
+  /* The build embeds scores as arrays (DATA.dims order) and strips the shared CDN prefix; expand both. */
+  function expandBreed(b) {
+    var out = {};
+    for (var k in b) if (Object.prototype.hasOwnProperty.call(b, k)) out[k] = b[k];
+    if (Array.isArray(b.sc) && DATA.dims) {
+      out.sc = {};
+      DATA.dims.forEach(function (d, i) { out.sc[d] = b.sc[i]; });
+    }
+    if (b.img && DATA.img_base && !/^https?:\/\//.test(b.img)) out.img = DATA.img_base + b.img;
+    return out;
+  }
+  if (!DATA || !DATA.breeds || !DATA.breeds.length) {
+    quizEl.innerHTML = '<p>Sorry, the quiz didn’t load. Please refresh the page, or browse the <a href="/blogs/dog-breeds/dog-breeds-a-z">A–Z breed directory</a>.</p>';
+    return;
+  }
+  var BREEDS = DATA.breeds.map(expandBreed);
+  var BY_SLUG = {};
+  BREEDS.forEach(function (b) { BY_SLUG[b.s] = b; });
+  var REDUCED = false;
+  try { REDUCED = window.matchMedia('(prefers-reduced-motion: reduce)').matches; } catch (e) { REDUCED = false; }
+  var HASH_KEY = 'wq=';
+  var STORE_KEY = 'wq-progress-v1';
+  var CALC_URL = '/pages/dog-cost-calculator';
+  var SHOWN_FIRST = 5, SHOWN_MAX = 10, ADVANCE_MS = 220, FLASH_MS = 700;
+
+  var SECTIONS = ['Your home', 'Your routine', 'Your preferences'];
+  /* Each option: [value, label, sub-label, short label for the results summary]. */
+  var QUESTIONS = [
+    { k: 'home', sec: 0, t: 'Where will your dog live?', h: 'A yard is a bonus, but it doesn’t replace daily walks.',
+      o: [['apt', 'Apartment or condo', '', 'Apartment'], ['small', 'House with a small yard or none', '', 'Small or no yard'],
+          ['yard', 'House with a fenced yard', '', 'Fenced yard'], ['land', 'House with a large yard or land', '', 'Large yard or land']] },
+    { k: 'kids', sec: 0, t: 'Do kids live with you, or will they soon?', h: 'Dogs live 10–15 years, so think ahead. If you have kids, pick the youngest.',
+      o: [['young', 'Yes, under 6', '', 'Kids under 6'], ['older', 'Yes, 6 or older', '', 'Kids 6+'],
+          ['soon', 'Not yet, but likely in the next few years', '', 'Kids likely soon'], ['visit', 'No, but kids visit often', '', 'Kids visit'],
+          ['none', 'No kids, no plans', '', 'No kids']] },
+    { k: 'pets', sec: 0, multi: true, t: 'Any other pets at home?', h: 'Pick all that apply.',
+      o: [['dogs', 'Dogs', 'Or regular dog park or daycare visits', 'Other dogs'], ['cats', 'Cats', '', 'Cats'],
+          ['small', 'Small pets', 'Rabbits, birds, rodents', 'Small pets'], ['none', 'No other pets', '', 'No other pets']] },
+    { k: 'alone', sec: 0, t: 'On a typical busy weekday, how long would your dog be alone?', h: 'A midday dog walker or daycare counts as company.',
+      o: [['rare', 'Rarely', 'Someone is usually home', 'Rarely alone'], ['short', '2–5 hours', '', 'Alone 2–5 h'],
+          ['work', '6+ hours', 'A full workday or longer', 'Alone 6+ h']] },
+    { k: 'act', sec: 1, t: 'How active are your days?', h: 'Think about a normal week with your dog, not your best one.',
+      o: [['relaxed', 'Easygoing', 'Short walks, lots of couch time', 'Easygoing'], ['moderate', 'Moderate', '30–60 minutes of walks most days', 'Moderately active'],
+          ['active', 'Active', '1–2 hours: long walks, jogs, hikes', 'Active'], ['very', 'Very active', '2+ hours: running, trails, dog sports', 'Very active']] },
+    { k: 'exp', sec: 1, t: 'How much dog experience do you have?', h: 'Only had a family dog as a kid? That counts as a first dog.',
+      o: [['first', 'This will be my first dog', '', 'First dog'], ['some', 'I’ve raised a dog before', '', 'Raised a dog before'],
+          ['pro', 'I’ve trained strong-willed or working breeds', '', 'Very experienced']] },
+    { k: 'coat', sec: 2, t: 'How do you feel about dog hair?', h: '',
+      o: [['allergy', 'Someone at home has dog allergies', '', 'Allergies at home'], ['minimal', 'As little hair as possible', '', 'Minimal hair'],
+          ['some', 'Some hair is fine', '', 'Some hair OK'], ['any', 'Hair everywhere? No problem', '', 'Hair is fine']] },
+    { k: 'groom', sec: 2, t: 'How much grooming are you up for?', h: 'A professional groomer every 4–8 weeks is a real ongoing cost.',
+      o: [['minimal', 'Minimal', 'A quick brush now and then', 'Minimal grooming'], ['weekly', 'Weekly brushing at home', '', 'Weekly brushing'],
+          ['pro', 'Whatever it takes', 'Frequent brushing or regular pro grooming', 'Any grooming']] },
+    { k: 'noise', sec: 2, t: 'How much barking can you live with?', h: '',
+      o: [['quiet', 'Not much', 'Thin walls or close neighbors', 'Quiet please'], ['some', 'Some is fine', '', 'Some barking OK'],
+          ['any', 'It doesn’t bother me', '', 'Barking is fine']] },
+    { k: 'climate', sec: 2, multi: true, t: 'What’s your weather like?', h: 'Pick both if you get hot summers and cold winters.',
+      o: [['hot', 'Hot summers', '', 'Hot summers'], ['cold', 'Cold, snowy winters', '', 'Cold winters'], ['mild', 'Mild most of the year', '', 'Mild climate']] },
+    { k: 'size', sec: 2, multi: true, t: 'What size are you open to?', h: 'Pick all that work. Breeds that span two sizes count for both.',
+      o: [['toy', 'Toy', 'Under 12 lb', 'Toy'], ['small', 'Small', '12–25 lb', 'Small'], ['medium', 'Medium', '25–50 lb', 'Medium'],
+          ['large', 'Large', '50–90 lb', 'Large'], ['giant', 'Giant', '90+ lb', 'Giant'], ['any', 'No preference', '', 'Any size']] },
+    { k: 'pri', sec: 2, multi: true, max: 2, t: 'What matters most to you?', h: 'Pick up to 2.',
+      o: [['train', 'Easy to train', '', 'Easy to train'], ['kids', 'Great with kids', '', 'Great with kids'],
+          ['lowmaint', 'Low-maintenance', 'Easy coat, moderate energy', 'Low-maintenance'],
+          ['healthy', 'Healthy & long-lived', 'Favors breeds that aren’t flat-faced or giant', 'Healthy & long-lived'],
+          ['friendly', 'Loves everyone', '', 'Loves everyone'], ['guardian', 'Watchful guardian', 'Alert to strangers and visitors', 'Watchful guardian'],
+          ['calm', 'Calm indoors', '', 'Calm indoors'], ['adventure', 'Adventure buddy', '', 'Adventure buddy'],
+          ['none', 'No strong preference', '', 'No top priority']] },
+    { k: 'budget', sec: 2, optional: true, step: 'Optional: first-year budget', none: 'No budget set', t: 'What’s your first-year budget?',
+      h: 'Optional. Covers a breeder puppy, vet care, food, gear, insurance and grooming. Most results link to a cost estimate.',
+      o: [['3k', 'Under $3,000', '', 'Under $3k'], ['5k', '$3,000–$5,000', '', '$3k–$5k'], ['more', 'More than $5,000', '', 'Budget $5k+']] }
+  ];
+  var TOTAL = QUESTIONS.length;
+  /* The counter counts the required questions; the optional budget screen is labelled on its own. */
+  var REQUIRED = QUESTIONS.filter(function (q) { return !q.optional; }).length;
+
+  var state = { i: 0, a: {}, started: false, ranking: null, lastA: null, shown: SHOWN_FIRST, advancing: false, edit: false };
+
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+  function track(name, params) {
+    try { if (typeof window.gtag === 'function') window.gtag('event', name, params || {}); } catch (e) { /* analytics must never break the quiz */ }
+  }
+  function readHash() {
+    var h = (window.location.hash || '').replace(/^#/, '');
+    var i = h.indexOf(HASH_KEY);
+    if (i === -1) return null;
+    try { return WQ.decode(decodeURIComponent(h.slice(i + HASH_KEY.length).split('&')[0])); } catch (e) { return null; }
+  }
+
+  /* ---------- history: each question and the results get their own entry, so the phone's
+     back gesture steps back through the quiz instead of leaving the page ---------- */
+  /* Absolute URLs, so a <base> tag on the theme can't point history at another origin. */
+  function pageUrl() { return window.location.href.split('#')[0]; }
+  function setHistory(push, entry, url) {
+    try {
+      if (push) window.history.pushState(entry, '', url);
+      else if (url) window.history.replaceState(entry, '', url);
+      else window.history.replaceState(entry, '');
+      return true;
+    } catch (e) { return false; }
+  }
+  function qEntry(below) { return { wq: 'q', i: state.i, edit: state.edit, below: below || null }; }
+  function currentEntry() { try { return window.history.state; } catch (e) { return null; } }
+
+  /* ---------- in-progress answers survive a reload or a back-then-forward (sessionStorage) ---------- */
+  function cleanAnswers(raw) {
+    var a = {};
+    if (!raw || typeof raw !== 'object') return a;
+    WQ.KEYS.forEach(function (k) {
+      var v = raw[k], ok = WQ.ALLOWED[k];
+      if (WQ.MULTI[k]) {
+        if (!Array.isArray(v)) return;
+        var list = v.filter(function (x, i) { return ok.indexOf(x) !== -1 && v.indexOf(x) === i; });
+        if (list.length > 1 && list.indexOf(WQ.EXCLUSIVE[k]) !== -1) list = [WQ.EXCLUSIVE[k]];
+        if (WQ.MAX_PICKS[k]) list = list.slice(0, WQ.MAX_PICKS[k]);
+        if (list.length) a[k] = list;
+      } else if (v === null && WQ.OPTIONAL[k]) {
+        a[k] = null;
+      } else if (ok.indexOf(v) !== -1) {
+        a[k] = v;
+      }
+    });
+    return a;
+  }
+  function save() {
+    try { window.sessionStorage.setItem(STORE_KEY, JSON.stringify({ a: state.a, i: state.i })); } catch (e) { /* storage blocked: the quiz still works */ }
+  }
+  function forget() {
+    try { window.sessionStorage.removeItem(STORE_KEY); } catch (e) { /* ignore */ }
+  }
+  function restore() {
+    try {
+      var raw = JSON.parse(window.sessionStorage.getItem(STORE_KEY) || 'null');
+      if (!raw) return null;
+      return { a: cleanAnswers(raw.a), i: typeof raw.i === 'number' ? raw.i : 0 };
+    } catch (e) { return null; }
+  }
+  function answered(q) {
+    var v = state.a[q.k];
+    return q.optional ? v !== undefined : (q.multi ? !!(v && v.length) : !!v);
+  }
+  /* Never show a question past the first unanswered required one. */
+  function safeIndex(i) {
+    i = Math.max(0, Math.min(TOTAL - 1, i | 0));
+    for (var j = 0; j < i; j++) if (!QUESTIONS[j].optional && !answered(QUESTIONS[j])) return j;
+    return i;
+  }
+
+  function scrollToApp() {
+    var r = appEl.getBoundingClientRect();
+    if (r.top < 0 || r.top > window.innerHeight * 0.6) {
+      try { appEl.scrollIntoView({ behavior: REDUCED ? 'auto' : 'smooth', block: 'start' }); } catch (e) { appEl.scrollIntoView(); }
+    }
+  }
+  function focusHeading(el, scroll) {
+    if (!el) return;
+    try { el.focus({ preventScroll: true }); } catch (e) { el.focus(); }
+    if (scroll) scrollToApp();
+  }
+
+  /* ---------- question screen ---------- */
+  function renderQuestion(scroll, noFocus) {
+    var q = QUESTIONS[state.i];
+    var cur = state.a[q.k];
+    var multi = !!q.multi;
+    var n = state.i + 1;
+    var full = multi && q.max && cur && cur.length >= q.max;
+    var opts = q.o.map(function (o) {
+      var on = multi ? (cur || []).indexOf(o[0]) !== -1 : cur === o[0];
+      var dis = full && !on && o[0] !== WQ.EXCLUSIVE[q.k];
+      return '<button type="button" class="wq-opt" role="' + (multi ? 'checkbox' : 'radio') + '" aria-checked="' + on + '"' +
+        (dis ? ' aria-disabled="true"' : '') + ' data-v="' + o[0] + '">' +
+        '<span class="wq-tick" aria-hidden="true"></span><span class="wq-opt-t">' + esc(o[1]) + '</span>' +
+        (o[2] ? '<span class="wq-opt-d">' + esc(o[2]) + '</span>' : '') + '</button>';
+    }).join('');
+    var oneCol = q.o.some(function (o) { return o[1].length > 24 || o[2].length > 30; }) ? ' wq-one' : '';
+    var last = n === TOTAL;
+    var canFinish = state.edit && !last && WQ.isComplete(normalized());
+    var showNext = multi || !!cur;
+    var auto = !multi && !state.edit;
+    var srHint = multi ? '' : (auto
+      ? 'Tapping or clicking an answer moves on to the next question. With a keyboard, choose an answer, then Continue.'
+      : 'Choose an answer, then Continue' + (canFinish ? ' or See my matches.' : '.'));
+    var described = [q.h ? 'wq-q-hint' : '', srHint ? 'wq-q-sr' : ''].filter(Boolean).join(' ');
+    var step = q.optional ? (q.step || 'Optional') : 'Question ' + n + ' of ' + REQUIRED;
+    var done = Math.min(state.i, REQUIRED);
+    quizEl.innerHTML =
+      '<div class="wq-step"><span class="wq-sec">Part ' + (q.sec + 1) + ' of 3 · ' + SECTIONS[q.sec] + '</span>' +
+      '<span>' + esc(step) + '</span></div>' +
+      '<div class="wq-bar" role="progressbar" aria-label="Quiz progress" aria-valuemin="0" aria-valuemax="' + REQUIRED + '" aria-valuenow="' + done + '"><span style="width:' + Math.round((done / REQUIRED) * 100) + '%"></span></div>' +
+      '<h2 class="wq-q" id="wq-q-title" tabindex="-1">' + esc(q.t) + '</h2>' +
+      (q.h ? '<p class="wq-hint" id="wq-q-hint">' + esc(q.h) + '</p>' : '') +
+      '<p class="wq-msg" id="wq-msg" aria-live="polite"></p>' +
+      (srHint ? '<p class="wq-sr" id="wq-q-sr">' + esc(srHint) + '</p>' : '') +
+      '<div class="wq-opts' + oneCol + '" role="' + (multi ? 'group' : 'radiogroup') + '" aria-labelledby="wq-q-title"' + (described ? ' aria-describedby="' + described + '"' : '') + '>' + opts + '</div>' +
+      '<div class="wq-nav">' +
+        (state.i > 0 ? '<button type="button" class="wq-link" data-act="back">← Back</button>' : '') +
+        '<span class="wq-spacer"></span>' +
+        (q.optional ? '<button type="button" class="wq-btn wq-btn-ghost" data-act="skip">Skip</button>' : '') +
+        (showNext ? '<button type="button" class="wq-btn' + (canFinish ? ' wq-btn-ghost' : '') + '" data-act="next"' + (multi && !(cur && cur.length) ? ' disabled' : '') + '>' + (last ? 'See my matches' : 'Continue') + '</button>' : '') +
+        (canFinish ? '<button type="button" class="wq-btn" data-act="finish">See my matches</button>' : '') +
+      '</div>';
+    resEl.hidden = true;
+    quizEl.hidden = false;
+    if (!noFocus) focusHeading(document.getElementById('wq-q-title'), scroll);
+  }
+
+  function say(msg) { var m = document.getElementById('wq-msg'); if (m) m.textContent = msg; }
+  /* Briefly ring the picks the visitor would have to unselect. */
+  function flashPicked() {
+    var on = quizEl.querySelectorAll('.wq-opt[aria-checked="true"]');
+    Array.prototype.forEach.call(on, function (b) { b.classList.add('wq-flash'); });
+    setTimeout(function () { Array.prototype.forEach.call(on, function (b) { b.classList.remove('wq-flash'); }); }, FLASH_MS);
+  }
+  function limitReached(q) {
+    say('You can pick up to ' + q.max + '. Unselect one first.');
+    flashPicked();
+  }
+
+  /* keyboard = activated with Enter/Space: select only, and let Continue move on (no surprise context change). */
+  function pick(v, btn, keyboard) {
+    var q = QUESTIONS[state.i];
+    if (!state.started) { state.started = true; track('quiz_start', { quiz: 'breed_selector' }); }
+    if (!q.multi) {
+      if (state.advancing) return;
+      state.a[q.k] = v;
+      save();
+      if (keyboard || state.edit) {
+        renderQuestion(false, true);
+        var same = quizEl.querySelector('.wq-opt[data-v="' + v + '"]');
+        if (same) same.focus();
+        return;
+      }
+      quizEl.querySelectorAll('.wq-opt').forEach(function (b) { b.setAttribute('aria-checked', b === btn ? 'true' : 'false'); });
+      state.advancing = true;
+      setTimeout(function () { state.advancing = false; next(); }, REDUCED ? 0 : ADVANCE_MS);
+      return;
+    }
+    var cur = (state.a[q.k] || []).slice();
+    var ex = WQ.EXCLUSIVE[q.k];
+    var idx = cur.indexOf(v);
+    if (idx !== -1) cur.splice(idx, 1);
+    else if (v === ex) cur = [v];
+    else {
+      cur = cur.filter(function (x) { return x !== ex; });
+      if (q.max && cur.length >= q.max) { limitReached(q); return; }
+      cur.push(v);
+    }
+    state.a[q.k] = cur;
+    save();
+    renderQuestion(false, true);
+    var again = quizEl.querySelector('.wq-opt[data-v="' + v + '"]');
+    if (again) again.focus();
+  }
+
+  function goTo(i, below) {
+    state.i = i;
+    setHistory(true, qEntry(below), pageUrl());
+    save();
+    renderQuestion(true);
+  }
+  function next() {
+    var q = QUESTIONS[state.i];
+    var v = state.a[q.k];
+    if (!q.optional && (!v || (q.multi && !v.length))) return;
+    if (q.optional && v === undefined) state.a[q.k] = null;
+    if (state.i < TOTAL - 1) goTo(state.i + 1, 'q' + state.i);
+    else finish();
+  }
+  function back() {
+    if (state.i <= 0) return;
+    var cur = currentEntry();
+    /* Use the browser's own entry when the one below is the previous question, so the in-page
+       Back button and the back gesture stay in step. */
+    if (cur && cur.wq === 'q' && cur.i === state.i && cur.below === 'q' + (state.i - 1)) { window.history.back(); return; }
+    state.i -= 1;
+    setHistory(false, qEntry(cur && cur.below), null);
+    save();
+    renderQuestion(true);
+  }
+
+  quizEl.addEventListener('click', function (e) {
+    var t = e.target.closest ? e.target.closest('button') : null;
+    if (!t || !quizEl.contains(t)) return;
+    if (t.classList.contains('wq-opt')) {
+      if (t.getAttribute('aria-disabled') === 'true') { limitReached(QUESTIONS[state.i]); return; }
+      pick(t.getAttribute('data-v'), t, e.detail === 0);
+      return;
+    }
+    var act = t.getAttribute('data-act');
+    if (act === 'back') back();
+    else if (act === 'next') next();
+    else if (act === 'finish') finish();
+    else if (act === 'skip') { state.a[QUESTIONS[state.i].k] = null; next(); }
+  });
+  quizEl.addEventListener('keydown', function (e) {
+    var t = e.target;
+    if (!t.classList || !t.classList.contains('wq-opt')) return;
+    var step = { ArrowDown: 1, ArrowRight: 1, ArrowUp: -1, ArrowLeft: -1 }[e.key];
+    if (!step) return;
+    var all = Array.prototype.slice.call(quizEl.querySelectorAll('.wq-opt'));
+    var nxt = all[(all.indexOf(t) + step + all.length) % all.length];
+    if (nxt) { e.preventDefault(); nxt.focus(); }
+  });
+
+  /* ---------- results ---------- */
+  function normalized() {
+    var a = {};
+    WQ.KEYS.forEach(function (k) {
+      var v = state.a[k];
+      a[k] = WQ.MULTI[k] ? (v || []).slice() : (v || null);
+    });
+    return a;
+  }
+  function finish() {
+    var a = normalized();
+    if (!WQ.isComplete(a)) return;
+    var below = 'q' + state.i;
+    state.edit = false;
+    save();
+    var url = pageUrl() + '#' + HASH_KEY + WQ.encode(a);
+    if (!setHistory(true, { wq: 'r', below: below }, url)) {
+      try { window.location.hash = HASH_KEY + WQ.encode(a); } catch (e) { /* results still render */ }
+    }
+    showResults(a, true);
+  }
+  /* One chip per question: [question index, short label]. */
+  function answerChips(a) {
+    var out = [];
+    QUESTIONS.forEach(function (q, qi) {
+      var v = a[q.k];
+      var vals = q.multi ? (v || []) : (v ? [v] : []);
+      var labels = vals.map(function (x) {
+        for (var i = 0; i < q.o.length; i++) if (q.o[i][0] === x) return q.o[i][3];
+        return '';
+      }).filter(Boolean);
+      if (labels.length) out.push([qi, labels.join(' + ')]);
+      else if (q.optional && q.none) out.push([qi, q.none]);
+    });
+    return out;
+  }
+  var EXCLUDE_TEXT = {
+    allergy: 'It isn’t one of the lower-shedding breeds we suggest when someone has allergies.',
+    kids: 'We rate it a poor match for homes with kids under 6. See its guide’s family section.',
+    pets: 'It has a strong chase instinct around cats and small pets.',
+    size: 'It’s outside the sizes you picked.',
+    sizeWide: 'It’s outside the sizes you picked and the sizes we added.'
+  };
+  var BRACHY_URL = '/blogs/dog-breeds/brachycephalic-dogs-boas-buyer-guide';
+
+  function bullets(cls, items) {
+    return '<ul class="' + cls + '">' + items.map(function (t) { return '<li>' + esc(t) + '</li>'; }).join('') + '</ul>';
+  }
+
+  function card(r, rank, featured) {
+    var b = r.b;
+    var notes = WQ.cardNotes(b, state.lastA, r.parts);
+    var img = WQ.imgUrl(b.img, 480);
+    var group = String(b.g || '').replace(/\s+Group$/, '');
+    var costLinks = (b.cost ? '<a class="wq-cost" data-kind="calc" href="' + CALC_URL + '?breed=' + encodeURIComponent(b.s) + '" data-rank="' + rank + '">First-year estimate: ' + WQ.moneyRange(b.cost) + '</a>' : '') +
+      (b.cost_url ? '<a class="wq-cost" data-kind="guide" href="' + esc(b.cost_url) + '" data-rank="' + rank + '">Full cost guide</a>' : '');
+    return '<article class="wq-match' + (featured ? ' wq-featured' : '') + '" data-slug="' + esc(b.s) + '">' +
+      '<div class="wq-photo"><span class="wq-initial" aria-hidden="true">' + esc((b.n || '?').charAt(0)) + '</span>' +
+        (img ? '<img src="' + esc(img) + '" alt="' + esc(b.n) + '" loading="' + (rank <= 3 ? 'eager' : 'lazy') + '" width="480" height="360" onerror="this.style.display=\'none\'">' : '') + '</div>' +
+      '<div class="wq-body">' +
+        '<p class="wq-rank">#' + rank + (group ? ' · ' + esc(group) : '') + '</p>' +
+        '<h3 class="wq-name" tabindex="-1">' + esc(b.n) + '</h3>' +
+        '<div class="wq-score"><span class="wq-pct">' + r.pct + '% match</span><span class="wq-label">' + WQ.label(r.pct) + '</span></div>' +
+        '<div class="wq-meter" aria-hidden="true"><span style="width:' + r.pct + '%"></span></div>' +
+        '<p class="wq-facts">' + esc(WQ.span(b.w[0], b.w[1], 'lb')) + ' · ' + esc(WQ.sizeLabel(b.w)) + ' · ' + esc(WQ.span(b.ex[0], b.ex[1], 'min')) + ' exercise a day</p>' +
+        (notes.why.length ? '<div><p class="wq-mini wq-mini-good">Why it fits</p>' + bullets('wq-why', notes.why) + '</div>' : '') +
+        (notes.warn.length ? '<div><p class="wq-mini wq-mini-warn">Heads-up</p>' + bullets('wq-warn', notes.warn) + '</div>' : '') +
+        (b.f.brachy ? '<p class="wq-brachy">Flat-faced breed: heat, stress and hard exercise can make breathing hard. Read our <a href="' + BRACHY_URL + '">guide to flat-faced breeds</a> first.</p>' : '') +
+        '<div class="wq-links"><a class="wq-btn" href="' + esc(b.url) + '" data-rank="' + rank + '">Read the ' + esc(b.n) + ' guide</a>' + costLinks + '</div>' +
+      '</div></article>';
+  }
+
+  function showResults(a, fromQuiz) {
+    state.lastA = a;
+    state.edit = false;
+    state.ranking = WQ.rank(BREEDS, a);
+    state.shown = Math.min(SHOWN_FIRST, state.ranking.list.length);
+    var list = state.ranking.list;
+    var notes = WQ.conflicts(a, state.ranking);
+    var html = '<p class="wq-eyebrow">Your results</p>' +
+      '<h2 class="wq-res-h" id="wq-res-title" tabindex="-1">' + (list.length ? 'Your top breed matches' : 'No breeds matched all your must-haves') + '</h2>' +
+      '<p class="wq-sub">We scored ' + BREEDS.length + ' breeds. ' + list.length + (list.length === 1 ? ' breed passes' : ' pass') + ' your must-haves.</p>' +
+      '<p class="wq-chip-hint" id="wq-chip-hint">Your answers. Select one to change it.</p>' +
+      '<ul class="wq-based" aria-labelledby="wq-chip-hint">' + answerChips(a).map(function (c) {
+        return '<li><button type="button" class="wq-chip" data-q="' + c[0] + '"><span class="wq-sr">Change: </span>' + esc(c[1]) + '</button></li>';
+      }).join('') + '</ul>';
+    if (notes.length) {
+      html += '<div class="wq-note wq-note-warn" role="note"><p><strong>Heads-up about your answers</strong></p>' +
+        notes.map(function (n) { return '<p><strong>' + esc(n.t) + '</strong> ' + esc(n.d) + '</p>'; }).join('') + '</div>';
+    }
+    if (a.coat === 'allergy') {
+      html += '<div class="wq-note wq-note-info" role="note"><p><strong>About allergies:</strong> no breed is truly hypoallergenic, and studies haven’t found lower allergen levels in homes with low-shedding breeds. We still show only lower-shedding breeds here, because some people with allergies report fewer symptoms around certain individual dogs. Spend time with the specific dog before you commit.' +
+        (a.groom !== 'pro' ? ' Most low-shedding coats also need a professional trim every 4–8 weeks.' : '') + '</p></div>';
+    }
+    if (list.length) {
+      html += card(list[0], 1, true);
+      html += '<div class="wq-list-res" id="wq-list">' + list.slice(1, SHOWN_FIRST).map(function (r, i) { return card(r, i + 2, false); }).join('') + '</div>';
+      if (list.length > SHOWN_FIRST) html += '<div class="wq-more"><button type="button" class="wq-btn wq-btn-ghost" data-act="more">Show ' + Math.min(SHOWN_MAX - SHOWN_FIRST, list.length - SHOWN_FIRST) + ' more</button></div>';
+    } else {
+      html += '<div class="wq-panel"><p>Try changing one answer, like size or other pets, and we’ll find more breeds.</p></div>';
+    }
+    html += checkPanel();
+    html += '<div class="wq-panel wq-adopt"><h3 class="wq-panel-h">Prefer to adopt?</h3>' +
+      '<p>Your answers describe ' + esc(WQ.describeDog(a)) + '. Shelters and rescues have many mixed-breed dogs like that, and adult dogs often come with a known personality. Ask staff about energy, barking and time alone.</p>' +
+      '<p style="margin-top:8px;"><a href="/blogs/dog-breeds/mixed-breed-dogs">Read our mixed-breed dog guide</a></p></div>';
+    html += '<div class="wq-panel wq-email" data-slot="email-form" hidden><h3 class="wq-panel-h">Email me my shortlist</h3>' +
+      '<p class="wq-sub">Get these matches plus a first-year cost checklist. Optional: your results stay on this page either way.</p>' +
+      '<form onsubmit="return false;"><label class="wq-sr" for="wq-email-in">Email address</label><input id="wq-email-in" type="email" autocomplete="email" placeholder="you@email.com"><button type="submit" class="wq-btn">Send it</button></form></div>';
+    html += '<div class="wq-actions"><button type="button" class="wq-btn" data-act="copy">Copy link to results</button>' +
+      '<button type="button" class="wq-btn wq-btn-ghost" data-act="edit">Change my answers</button>' +
+      '<button type="button" class="wq-btn wq-btn-ghost" data-act="retake">Retake the quiz</button></div>' +
+      '<p class="wq-status" aria-live="polite"></p>' +
+      '<p class="wq-fine">Match scores compare your answers with typical breed traits from our guides. Individual dogs vary. This is a starting point, not professional advice.</p>';
+    resEl.innerHTML = html;
+    quizEl.hidden = true;
+    resEl.hidden = false;
+    focusHeading(document.getElementById('wq-res-title'), true);
+    if (fromQuiz) track('quiz_complete', { quiz: 'breed_selector', top_breed: list[0] ? list[0].b.s : '', result_count: list.length });
+  }
+
+  function checkPanel() {
+    var opts = BREEDS.slice().sort(function (x, y) { return x.n < y.n ? -1 : 1; })
+      .map(function (b) { return '<option value="' + esc(b.s) + '">' + esc(b.n) + '</option>'; }).join('');
+    return '<div class="wq-panel"><h3 class="wq-panel-h">Check a specific breed</h3>' +
+      '<p class="wq-sub">Have a breed in mind? See how it scores against your answers.</p>' +
+      '<div class="wq-check-row"><label for="wq-check">Breed</label><select id="wq-check" class="wq-select"><option value="">Choose a breed…</option>' + opts + '</select></div>' +
+      '<div class="wq-check-out" id="wq-check-out" aria-live="polite"></div></div>';
+  }
+  function renderCheck(slug) {
+    var out = document.getElementById('wq-check-out');
+    var b = BY_SLUG[slug];
+    if (!out) return;
+    if (!b) { out.innerHTML = ''; return; }
+    var rk = state.ranking, reason = rk.excluded[slug];
+    var guide = '<p style="margin-top:8px;"><a href="' + esc(b.url) + '">Read the ' + esc(b.n) + ' guide</a></p>';
+    if (reason) {
+      var why = reason === 'size' && rk.relaxedSize ? EXCLUDE_TEXT.sizeWide : EXCLUDE_TEXT[reason];
+      out.innerHTML = '<p><strong>' + esc(b.n) + '</strong> isn’t in your list. ' + esc(why || '') + '</p>' + guide;
+      return;
+    }
+    var at = -1;
+    for (var i = 0; i < rk.list.length; i++) if (rk.list[i].b.s === slug) { at = i; break; }
+    if (at === -1) { out.innerHTML = guide; return; }
+    var r = rk.list[at];
+    var n = WQ.checkNotes(b, state.lastA, r.parts);
+    var held = n.gaps.map(function (g) { return '<li>' + esc(g.t) + ' <span class="wq-pts">(−' + g.pts + ')</span></li>'; });
+    if (n.caveat) held.push('<li>' + esc(n.caveat) + '</li>');
+    var fitTitle = r.pct < 55 ? 'What does match' : 'Why it fits';
+    out.innerHTML = '<p><strong>' + esc(b.n) + ': ' + r.pct + '% match, ' + WQ.label(r.pct).toLowerCase() + '.</strong> Ranked #' + (at + 1) + ' of ' + rk.list.length + '.</p>' +
+      (n.why.length ? '<p class="wq-mini wq-mini-good" style="margin-top:10px;">' + fitTitle + '</p>' + bullets('wq-why', n.why) : '') +
+      '<p class="wq-mini wq-mini-warn" style="margin-top:10px;">What held it back</p>' +
+      (held.length ? '<ul class="wq-warn">' + held.join('') + '</ul>' : '<p>Nothing major: it lost only a few points here and there.</p>') + guide;
+  }
+
+  resEl.addEventListener('change', function (e) {
+    if (e.target && e.target.id === 'wq-check') renderCheck(e.target.value);
+  });
+  function editAt(i) {
+    state.edit = true;
+    state.i = safeIndex(i);
+    setHistory(true, qEntry('r'), pageUrl());
+    save();
+    renderQuestion(true);
+  }
+  resEl.addEventListener('click', function (e) {
+    var link = e.target.closest ? e.target.closest('a[data-rank]') : null;
+    if (link) {
+      var art = link.closest('.wq-match');
+      var kind = link.getAttribute('data-kind');
+      track('quiz_result_click', { breed_slug: art ? art.getAttribute('data-slug') : '', rank: Number(link.getAttribute('data-rank')), link_type: kind === 'calc' ? 'cost_calculator' : (kind === 'guide' ? 'cost_guide' : 'breed_guide') });
+      return;
+    }
+    var chip = e.target.closest ? e.target.closest('button[data-q]') : null;
+    if (chip) { editAt(Number(chip.getAttribute('data-q'))); return; }
+    var t = e.target.closest ? e.target.closest('button[data-act]') : null;
+    if (!t) return;
+    var act = t.getAttribute('data-act');
+    if (act === 'more') showMore(t);
+    else if (act === 'copy') copyLink();
+    else if (act === 'edit') editAt(0);
+    else if (act === 'retake') {
+      state.a = {}; state.i = 0; state.started = false; state.lastA = null; state.edit = false;
+      forget();
+      setHistory(true, qEntry('r'), pageUrl());
+      renderQuestion(true);
+    }
+  });
+
+  function showMore(btn) {
+    var list = state.ranking.list;
+    var from = state.shown, to = Math.min(SHOWN_MAX, list.length);
+    var box = document.getElementById('wq-list');
+    box.insertAdjacentHTML('beforeend', list.slice(from, to).map(function (r, i) { return card(r, from + i + 1, false); }).join(''));
+    state.shown = to;
+    var wrap = btn.parentNode;
+    wrap.parentNode.removeChild(wrap);
+    /* Land on the first new card's name, with the whole card top in view. */
+    var firstNew = box.querySelectorAll('.wq-match')[from - 1];
+    if (!firstNew) return;
+    var name = firstNew.querySelector('.wq-name');
+    if (name) { try { name.focus({ preventScroll: true }); } catch (e) { name.focus(); } }
+    try { firstNew.scrollIntoView({ behavior: REDUCED ? 'auto' : 'smooth', block: 'start' }); } catch (e) { firstNew.scrollIntoView(); }
+  }
+
+  function copyLink() {
+    var status = resEl.querySelector('.wq-status');
+    var url = window.location.href;
+    var done = function () { status.textContent = 'Link copied. Open it any time to see these results again.'; };
+    var fallback = function () {
+      status.textContent = 'Copy this link:';
+      if (!resEl.querySelector('.wq-share-url')) {
+        status.insertAdjacentHTML('afterend', '<input class="wq-share-url" type="text" readonly aria-label="Link to your results" value="' + esc(url) + '">');
+      }
+      var inp = resEl.querySelector('.wq-share-url');
+      inp.focus(); inp.select();
+    };
+    try {
+      if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(url).then(done, fallback);
+      else fallback();
+    } catch (e) { fallback(); }
+  }
+
+  function loadFromHash(a) {
+    state.a = {};
+    WQ.KEYS.forEach(function (k) { state.a[k] = a[k]; });
+    state.started = true;
+    state.i = TOTAL - 1;
+    save();
+    showResults(a, false);
+  }
+  /* Back/forward between our own entries: questions step back, results come back from the link. */
+  window.addEventListener('popstate', function (e) {
+    var s = e.state;
+    if (s && s.wq === 'q') {
+      state.edit = !!s.edit;
+      state.i = safeIndex(s.i);
+      save();
+      renderQuestion(true);
+      return;
+    }
+    var a = readHash();
+    if (a) loadFromHash(a);
+    else if (s && s.wq === 'r' && state.lastA) showResults(state.lastA, false);
+  });
+  window.addEventListener('hashchange', function () {
+    var a = readHash();
+    if (a && (!state.lastA || WQ.encode(a) !== WQ.encode(state.lastA) || resEl.hidden)) loadFromHash(a);
+  });
+
+  var initial = readHash();
+  if (initial) {
+    var entry = currentEntry();
+    loadFromHash(initial);
+    setHistory(false, { wq: 'r', below: entry && entry.below || null }, null);
+  } else {
+    var saved = restore(), here = currentEntry();
+    /* A fresh visit (no history entry of ours) resumes an unfinished quiz but starts over after a finished one. */
+    if (saved && !(here && here.wq) && WQ.isComplete(cleanAnswers(saved.a))) { forget(); saved = null; }
+    if (saved) {
+      state.a = saved.a;
+      state.started = Object.keys(saved.a).length > 0;
+      state.edit = !!(here && here.wq === 'q' && here.edit);
+      state.i = safeIndex(here && here.wq === 'q' ? here.i : saved.i);
+    }
+    setHistory(false, qEntry(here && here.wq === 'q' ? here.below : null), null);
+    renderQuestion(false, true);
+  }
+})();
+</script>
+</div>
