@@ -14,6 +14,14 @@ on:
     branches: [main]
     paths:
       - 'breed-data/**'
+  # Manual re-deploy of specific slugs, e.g. to retry an article that failed
+  # with a transient Shopify error (image download, 429).
+  workflow_dispatch:
+    inputs:
+      slugs:
+        description: 'Space-separated breed-data slugs to re-push (empty = changed files of the last push)'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -41,13 +49,16 @@ jobs:
 
       - name: Update changed articles on Shopify
         run: |
-          BEFORE='${{ github.event.before }}'
-          if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
-            BEFORE="HEAD^"
+          SLUGS="${{ github.event.inputs.slugs }}"
+          if [ -z "$(echo $SLUGS | tr -d ' ')" ]; then
+            BEFORE='${{ github.event.before }}'
+            if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+              BEFORE="HEAD^"
+            fi
+            SLUGS=$(git diff --name-only "$BEFORE" "${{ github.sha }}" -- 'breed-data/*.json' \
+              | sed 's@^breed-data/@@; s@\.json$@@' | sort -u | tr '\n' ' ')
           fi
-          SLUGS=$(git diff --name-only "$BEFORE" "${{ github.sha }}" -- 'breed-data/*.json' \
-            | sed 's@^breed-data/@@; s@\.json$@@' | sort -u | tr '\n' ' ')
-          echo "Changed slugs: $SLUGS"
+          echo "Slugs to deploy: $SLUGS"
           if [ -z "$(echo $SLUGS | tr -d ' ')" ]; then
             echo "No breed-data slugs changed; nothing to deploy."
             exit 0
