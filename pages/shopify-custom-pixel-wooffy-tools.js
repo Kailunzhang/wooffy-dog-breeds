@@ -28,9 +28,15 @@ function params(name, data) {
   return d;
 }
 
-['wooffy_quiz_start', 'wooffy_quiz_complete', 'wooffy_quiz_result_click', 'wooffy_calc_change'].forEach((name) => {
-  analytics.subscribe(name, (event) => {
+function forward(name) {
+  return (event) => {
     const loc = event.context && event.context.document && event.context.document.location;
     gtag('event', name, Object.assign({}, params(name, event.customData), { page_location: loc ? loc.href : undefined }));
-  });
-});
+  };
+}
+
+// One literal subscribe per event: Shopify only detects subscriptions written out like this.
+analytics.subscribe('wooffy_quiz_start', forward('wooffy_quiz_start'));
+analytics.subscribe('wooffy_quiz_complete', forward('wooffy_quiz_complete'));
+analytics.subscribe('wooffy_quiz_result_click', forward('wooffy_quiz_result_click'));
+analytics.subscribe('wooffy_calc_change', forward('wooffy_calc_change'));
