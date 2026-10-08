@@ -1,0 +1,972 @@
+{
+ "https://ofa.org/chic-programs/browse-by-breed/": {
+  "status": 200,
+  "final_url": "https://ofa.org/chic-programs/browse-by-breed/",
+  "checked": "2026-10-08"
+ },
+ "https://vcahospitals.com/know-your-pet/brachycephalic-airway-syndrome-in-dogs": {
+  "status": 200,
+  "final_url": "https://vcahospitals.com/know-your-pet/brachycephalic-airway-syndrome-in-dogs",
+  "checked": "2026-10-08"
+ },
+ "https://vcahospitals.com/know-your-pet/von-willebrands-disease-in-dogs": {
+  "status": 200,
+  "final_url": "https://vcahospitals.com/know-your-pet/von-willebrands-disease-in-dogs",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/affenpinscher/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/affenpinscher/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/afghan-hound/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/afghan-hound/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/airedale-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/airedale-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/akita/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/akita/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/alaskan-malamute/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/alaskan-malamute/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/american-eskimo-dog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/american-eskimo-dog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/american-foxhound/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/american-foxhound/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/american-staffordshire-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/american-staffordshire-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/american-water-spaniel/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/american-water-spaniel/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/anatolian-shepherd-dog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/anatolian-shepherd-dog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/australian-cattle-dog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/australian-cattle-dog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/australian-shepherd/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/australian-shepherd/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/australian-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/australian-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/basenji/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/basenji/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/basset-hound/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/basset-hound/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/beagle/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/beagle/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/bearded-collie/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/bearded-collie/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/beauceron/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/beauceron/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/bedlington-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/bedlington-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/belgian-malinois/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/belgian-malinois/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/belgian-sheepdog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/belgian-sheepdog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/belgian-tervuren/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/belgian-tervuren/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/bernese-mountain-dog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/bernese-mountain-dog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/bichon-frise/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/bichon-frise/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/black-and-tan-coonhound/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/black-and-tan-coonhound/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/bloodhound/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/bloodhound/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/bluetick-coonhound/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/bluetick-coonhound/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/border-collie/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/border-collie/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/border-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/border-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/borzoi/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/borzoi/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/boston-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/boston-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/bouvier-des-flandres/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/bouvier-des-flandres/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/boxer/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/boxer/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/boykin-spaniel/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/boykin-spaniel/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/briard/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/briard/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/brittany/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/brittany/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/brussels-griffon/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/brussels-griffon/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/bull-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/bull-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/bulldog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/bulldog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/bullmastiff/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/bullmastiff/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/cairn-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/cairn-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/cane-corso/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/cane-corso/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/cardigan-welsh-corgi/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/cardigan-welsh-corgi/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/cavalier-king-charles-spaniel/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/chesapeake-bay-retriever/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/chesapeake-bay-retriever/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/chihuahua/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/chihuahua/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/chinese-crested/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/chinese-crested/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/chinese-shar-pei/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/chinese-shar-pei/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/chow-chow/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/chow-chow/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/clumber-spaniel/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/clumber-spaniel/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/cocker-spaniel/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/cocker-spaniel/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/collie/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/collie/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/coton-de-tulear/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/coton-de-tulear/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/dachshund/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/dachshund/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/dalmatian/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/dalmatian/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/doberman-pinscher/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/doberman-pinscher/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/dogo-argentino/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/dogo-argentino/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/dogue-de-bordeaux/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/dogue-de-bordeaux/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/english-cocker-spaniel/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/english-cocker-spaniel/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/english-setter/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/english-setter/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/english-springer-spaniel/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/english-springer-spaniel/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/entlebucher-mountain-dog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/entlebucher-mountain-dog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/field-spaniel/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/field-spaniel/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/finnish-lapphund/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/finnish-lapphund/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/finnish-spitz/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/finnish-spitz/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/flat-coated-retriever/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/flat-coated-retriever/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/french-bulldog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/french-bulldog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/german-pinscher/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/german-pinscher/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/german-shepherd-dog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/german-shepherd-dog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/german-shorthaired-pointer/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/german-shorthaired-pointer/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/german-wirehaired-pointer/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/german-wirehaired-pointer/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/giant-schnauzer/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/giant-schnauzer/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/golden-retriever/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/golden-retriever/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/gordon-setter/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/gordon-setter/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/great-dane/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/great-dane/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/great-pyrenees/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/great-pyrenees/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/greater-swiss-mountain-dog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/greater-swiss-mountain-dog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/greyhound/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/greyhound/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/harrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/harrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/havanese/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/havanese/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/ibizan-hound/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/ibizan-hound/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/icelandic-sheepdog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/icelandic-sheepdog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/irish-setter/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/irish-setter/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/irish-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/irish-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/irish-water-spaniel/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/irish-water-spaniel/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/irish-wolfhound/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/irish-wolfhound/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/italian-greyhound/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/italian-greyhound/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/japanese-chin/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/japanese-chin/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/keeshond/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/keeshond/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/kerry-blue-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/kerry-blue-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/komondor/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/komondor/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/labrador-retriever/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/labrador-retriever/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/lagotto-romagnolo/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/lagotto-romagnolo/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/lakeland-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/lakeland-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/leonberger/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/leonberger/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/lhasa-apso/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/lhasa-apso/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/lowchen/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/lowchen/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/maltese/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/maltese/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/mastiff/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/mastiff/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/miniature-american-shepherd/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/miniature-american-shepherd/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/miniature-bull-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/miniature-bull-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/miniature-pinscher/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/miniature-pinscher/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/miniature-schnauzer/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/miniature-schnauzer/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/neapolitan-mastiff/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/neapolitan-mastiff/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/newfoundland/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/newfoundland/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/norfolk-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/norfolk-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/norwegian-elkhound/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/norwegian-elkhound/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/norwich-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/norwich-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/nova-scotia-duck-tolling-retriever/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/nova-scotia-duck-tolling-retriever/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/old-english-sheepdog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/old-english-sheepdog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/otterhound/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/otterhound/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/papillon/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/papillon/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/parson-russell-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/parson-russell-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/pekingese/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/pekingese/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/pembroke-welsh-corgi/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/pembroke-welsh-corgi/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/pharaoh-hound/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/pharaoh-hound/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/pointer/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/pointer/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/polish-lowland-sheepdog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/polish-lowland-sheepdog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/pomeranian/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/pomeranian/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/poodle-miniature/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/poodle-miniature/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/poodle-standard/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/poodle-standard/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/poodle-toy/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/poodle-toy/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/portuguese-water-dog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/portuguese-water-dog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/pug/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/pug/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/puli/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/puli/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/rat-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/rat-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/redbone-coonhound/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/redbone-coonhound/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/rhodesian-ridgeback/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/rhodesian-ridgeback/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/rottweiler/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/rottweiler/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/russell-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/russell-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/saint-bernard/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/st-bernard/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/saluki/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/saluki/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/samoyed/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/samoyed/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/schipperke/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/schipperke/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/scottish-deerhound/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/scottish-deerhound/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/scottish-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/scottish-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/shetland-sheepdog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/shetland-sheepdog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/shiba-inu/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/shiba-inu/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/shih-tzu/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/shih-tzu/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/siberian-husky/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/siberian-husky/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/silky-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/silky-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/skye-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/skye-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/soft-coated-wheaten-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/soft-coated-wheaten-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/spanish-water-dog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/spanish-water-dog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/spinone-italiano/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/spinone-italiano/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/st-bernard/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/st-bernard/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/staffordshire-bull-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/staffordshire-bull-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/standard-schnauzer/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/standard-schnauzer/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/swedish-vallhund/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/swedish-vallhund/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/tibetan-mastiff/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/tibetan-mastiff/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/tibetan-spaniel/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/tibetan-spaniel/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/tibetan-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/tibetan-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/toy-fox-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/toy-fox-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/vizsla/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/vizsla/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/weimaraner/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/weimaraner/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/welsh-springer-spaniel/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/welsh-springer-spaniel/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/welsh-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/welsh-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/west-highland-white-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/west-highland-white-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/whippet/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/whippet/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/wire-fox-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/wire-fox-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/wirehaired-pointing-griffon/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/wirehaired-pointing-griffon/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/xoloitzcuintli/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/xoloitzcuintli/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/dog-breeds/yorkshire-terrier/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/dog-breeds/yorkshire-terrier/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/addisons-disease-in-dogs/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/health/addisons-disease-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/bloat-in-dogs/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/health/bloat-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/brachycephalic-syndrome-in-dogs/": {
+  "status": 404,
+  "final_url": "https://www.akc.org/expert-advice/health/brachycephalic-syndrome-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/cataracts-in-dogs-what-to-know/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/health/cataracts-in-dogs-what-to-know/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/cataracts-in-dogs/": {
+  "status": 404,
+  "final_url": "https://www.akc.org/expert-advice/health/cataracts-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/deafness-in-dogs/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/health/deafness-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/degenerative-myelopathy-in-dogs/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/health/degenerative-myelopathy-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/dilated-cardiomyopathy-in-dogs/": {
+  "status": 404,
+  "final_url": "https://www.akc.org/expert-advice/health/dilated-cardiomyopathy-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/dog-allergies-symptoms-treatment/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/health/dog-allergies-symptoms-treatment/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/dog-ear-infections/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/health/dog-ear-infections/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/ear-infections-in-dogs/": {
+  "status": 404,
+  "final_url": "https://www.akc.org/expert-advice/health/ear-infections-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/elbow-dysplasia-in-dogs/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/health/elbow-dysplasia-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/epilepsy-in-dogs/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/health/epilepsy-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/hip-dysplasia-in-dogs/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/health/hip-dysplasia-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/hypothyroidism-in-dogs/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/health/hypothyroidism-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/intervertebral-disc-disease-in-dogs/": {
+  "status": 404,
+  "final_url": "https://www.akc.org/expert-advice/health/intervertebral-disc-disease-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/intervertebral-disk-disease-dogs/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/health/intervertebral-disk-disease-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/luxating-patella-dog/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/health/luxating-patella-dog/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/luxating-patella-in-dogs/": {
+  "status": 404,
+  "final_url": "https://www.akc.org/expert-advice/health/luxating-patella-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/mitral-valve-disease-in-dogs/": {
+  "status": 404,
+  "final_url": "https://www.akc.org/expert-advice/health/mitral-valve-disease-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/osteosarcoma-in-dogs/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/health/osteosarcoma-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/progressive-retinal-atrophy-in-dogs/": {
+  "status": 404,
+  "final_url": "https://www.akc.org/expert-advice/health/progressive-retinal-atrophy-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/progressive-retinal-atrophy/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/health/progressive-retinal-atrophy/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/valvular-disease-in-small-breed-dogs/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/health/valvular-disease-in-small-breed-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/health/von-willebrand-disease-in-dogs/": {
+  "status": 404,
+  "final_url": "https://www.akc.org/expert-advice/health/von-willebrand-disease-in-dogs/",
+  "checked": "2026-10-08"
+ },
+ "https://www.akc.org/expert-advice/nutrition/dilated-cardiomyopathy-dogs-update/": {
+  "status": 200,
+  "final_url": "https://www.akc.org/expert-advice/nutrition/dilated-cardiomyopathy-dogs-update/",
+  "checked": "2026-10-08"
+ },
+ "https://www.merckvetmanual.com/dog-owners": {
+  "status": 200,
+  "final_url": "https://www.merckvetmanual.com/dog-owners",
+  "checked": "2026-10-08"
+ },
+ "https://www.ukcdogs.com/american-pit-bull-terrier": {
+  "status": 200,
+  "final_url": "https://www.ukcdogs.com/american-pit-bull-terrier",
+  "checked": "2026-10-08"
+ }
+}

@@ -11,6 +11,10 @@ on:
     - cron: '0 15 * * *'
   workflow_dispatch:
 
+# contents: write lets the AI-referral step commit its history files.
+permissions:
+  contents: write
+
 jobs:
   daily-digest:
     runs-on: ubuntu-latest
@@ -36,3 +40,27 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: python3 scripts/daily_digest.py
+
+      # GEO KPI: AI answer-engine referrals (GEO_PLAN.md W0.1). Appends one
+      # row per day to geo/ai-referrals.jsonl and refreshes the snapshot.
+      - name: Record AI referrals
+        if: always()
+        env:
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GA4_OAUTH_CLIENT_ID: ${{ secrets.GA4_OAUTH_CLIENT_ID }}
+          GA4_OAUTH_CLIENT_SECRET: ${{ secrets.GA4_OAUTH_CLIENT_SECRET }}
+          GA4_OAUTH_REFRESH_TOKEN: ${{ secrets.GA4_OAUTH_REFRESH_TOKEN }}
+        run: python3 scripts/geo_ai_referrals.py
+
+      - name: Commit AI referral history
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add geo/ai-referrals.jsonl geo/ai-referrals-latest.md
+          if git diff --cached --quiet; then
+            echo "no AI-referral changes to commit"
+          else
+            git commit -m "chore(geo): record AI referrals $(date -u +%F) [skip ci]"
+            git push
+          fi

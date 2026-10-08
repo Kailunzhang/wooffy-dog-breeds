@@ -71,14 +71,25 @@ CHANNEL_CN = {"Direct": "直接访问", "Organic Search": "自然搜索",
               "Display": "展示广告", "Cross-network": "跨网络"}
 
 # AI answer-engine referrers (GA4 sessionSource). Precise on purpose —
-# excludes generic bing/yahoo, which are mostly classic search.
+# excludes generic bing/yahoo/google, which are mostly classic search.
+# Google AI Overviews / AI Mode arrive as plain google referrals and cannot
+# be separated here. scripts/geo_ai_referrals.py imports this table.
 AI_LABEL = {"chatgpt.com": "ChatGPT", "chat.openai.com": "ChatGPT",
             "openai.com": "ChatGPT", "perplexity.ai": "Perplexity",
             "www.perplexity.ai": "Perplexity", "gemini.google.com": "Gemini",
             "copilot.microsoft.com": "Copilot", "copilot.com": "Copilot",
             "you.com": "You.com", "poe.com": "Poe", "claude.ai": "Claude",
-            "phind.com": "Phind"}
-AI_SUFFIXES = (".perplexity.ai", ".openai.com")
+            "phind.com": "Phind", "grok.com": "Grok", "meta.ai": "Meta AI",
+            "chat.mistral.ai": "Mistral", "chat.deepseek.com": "DeepSeek"}
+AI_SUFFIXES = (".perplexity.ai", ".openai.com", ".chatgpt.com", ".grok.com")
+
+# One GA4 PARTIAL_REGEXP over sessionSource that matches every AI source
+# above, so the fetch is filtered server-side and tiny sources are never
+# cut off by a result limit.
+AI_SOURCE_REGEX = "(" + "|".join(
+    sorted({k.replace(".", r"\.") for k in AI_LABEL}
+           | {s.lstrip(".").replace(".", r"\.") for s in AI_SUFFIXES})
+) + ")"
 
 
 def _ai_label(src):
@@ -87,8 +98,18 @@ def _ai_label(src):
         return AI_LABEL[s]
     for suf in AI_SUFFIXES:
         if s.endswith(suf):
-            return "Perplexity" if "perplexity" in suf else "ChatGPT"
+            dom = suf.lstrip(".")
+            return AI_LABEL.get(dom, "ChatGPT" if "openai" in dom else dom)
     return None
+
+
+def ai_source_filter():
+    """GA4 dimension filter: sessionSource matches an AI answer engine."""
+    return FilterExpression(filter=Filter(
+        field_name="sessionSource",
+        string_filter=Filter.StringFilter(
+            match_type=Filter.StringFilter.MatchType.PARTIAL_REGEXP,
+            value=AI_SOURCE_REGEX, case_sensitive=False)))
 
 
 GA4_SCOPES = ["https://www.googleapis.com/auth/analytics.readonly"]
@@ -190,8 +211,17 @@ def fetch(client, prop):
     )
 
     def src_sessions(start, end):
+        # Server-side filtered to AI sources (see AI_SOURCE_REGEX); _ai_label
+        # still decides the engine so a stray regex hit is dropped later.
         return _run(client, prop, ["sessionSource"], ["sessions"],
-                    start, end, order_metric="sessions", limit=200)
+                    start, end, order_metric="sessions", limit=200,
+                    dim_filter=ai_source_filter())
+
+    # Which articles AI engines actually send people to (28 days).
+    ai_pages = _run(client, prop, ["sessionSource", "landingPage"],
+                    ["sessions"], "28daysAgo", "yesterday",
+                    order_metric="sessions", limit=200,
+                    dim_filter=ai_source_filter())
 
     # Content -> product funnel: product page views and where they came from.
     product_only = FilterExpression(filter=Filter(
@@ -213,6 +243,7 @@ def fetch(client, prop):
         "ai_28": src_sessions("28daysAgo", "yesterday"),
         "ai_7": src_sessions("7daysAgo", "yesterday"),
         "ai_prev": src_sessions("14daysAgo", "8daysAgo"),
+        "ai_pages": [(r[0], r[1], int(r[2])) for r in ai_pages],
     }
 
 
@@ -345,11 +376,19 @@ def analyze(data):
 
     ai_eng = _ai_group(data["ai_28"])
     ai_total = sum(ai_eng.values())
-    ai_all = sum(int(r[1]) for r in data["ai_28"]) or 1
+    # Share of ALL sessions in the same 28 days (the AI rows are filtered,
+    # so they cannot serve as the denominator).
+    ai_all = sum(d["sessions"] for d in series[-28:]) or 1
     ai_now7 = sum(_ai_group(data["ai_7"]).values())
     ai_prev7 = sum(_ai_group(data["ai_prev"]).values())
+    page_tot = {}
+    for src, page, n in data.get("ai_pages", []):
+        if _ai_label(src):
+            page_tot[page] = page_tot.get(page, 0) + n
+    ai_pages = sorted(page_tot.items(), key=lambda x: -x[1])[:5]
     ai = {"engines": ai_eng, "total28": ai_total, "share": ai_total / ai_all,
-          "now7": ai_now7, "prev7": ai_prev7, "wow": _pct(ai_now7, ai_prev7)}
+          "now7": ai_now7, "prev7": ai_prev7, "wow": _pct(ai_now7, ai_prev7),
+          "pages": ai_pages}
     if ai_total >= 10 and ai["wow"] >= 0.3:
         recs.append(
             "\U0001F916 AI 引擎转介在增长——开始优化内容的可被引用性"
@@ -394,8 +433,14 @@ def build_report(a):
             f"  • 近 7 天 vs 前 7 天：{ai['prev7']} → {ai['now7']}"
             f"（{ai['wow']*100:+.0f}%）\n"
             f"  • 分引擎：{eng}\n"
-            f"  • 说明：仅含会传 referrer 的 AI（ChatGPT/Perplexity/"
-            f"Copilot 等）；Google AI Overviews 无独立 referrer，无法分离。"
+        )
+        if ai.get("pages"):
+            ai_txt += "  • AI 引擎带来最多流量的页面（28 天）：\n" + "\n".join(
+                f"      {i+1}. {p}  —  {n} 次"
+                for i, (p, n) in enumerate(ai["pages"])) + "\n"
+        ai_txt += (
+            "  • 说明：仅含会传 referrer 的 AI（ChatGPT/Perplexity/"
+            "Copilot 等）；Google AI Overviews 无独立 referrer，无法分离。"
         )
     else:
         ai_txt = ("  • 暂无可追踪的 AI 引擎转介（持续监测中）\n"

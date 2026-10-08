@@ -1,0 +1,368 @@
+{
+ "version": 1,
+ "created": "2026-10-08",
+ "site": "thewooffy.com",
+ "notes": "60 real-user questions across 5 content groups. target = breed-data slug of the page that should be cited. Edit freely; ids are stable keys for history.",
+ "queries": [
+  {
+   "id": "costs-01",
+   "group": "costs",
+   "query": "how much does a goldendoodle cost",
+   "target": "goldendoodle-first-year-costs"
+  },
+  {
+   "id": "costs-02",
+   "group": "costs",
+   "query": "bernedoodle price and first year cost",
+   "target": "bernedoodle-first-year-costs"
+  },
+  {
+   "id": "costs-03",
+   "group": "costs",
+   "query": "how much is a cavapoo puppy",
+   "target": "cavapoo-first-year-costs"
+  },
+  {
+   "id": "costs-04",
+   "group": "costs",
+   "query": "how much does a standard poodle cost per year",
+   "target": "standard-poodle-first-year-costs"
+  },
+  {
+   "id": "costs-05",
+   "group": "costs",
+   "query": "how much does a tibetan mastiff cost",
+   "target": "tibetan-mastiff-first-year-costs"
+  },
+  {
+   "id": "costs-06",
+   "group": "costs",
+   "query": "basset hound price",
+   "target": "basset-hound-first-year-costs"
+  },
+  {
+   "id": "costs-07",
+   "group": "costs",
+   "query": "how much does it cost to own a great pyrenees",
+   "target": "great-pyrenees-first-year-costs"
+  },
+  {
+   "id": "costs-08",
+   "group": "costs",
+   "query": "yorkie first year cost",
+   "target": "yorkshire-terrier-first-year-costs"
+  },
+  {
+   "id": "costs-09",
+   "group": "costs",
+   "query": "how much does a dachshund cost",
+   "target": "dachshund-first-year-costs"
+  },
+  {
+   "id": "costs-10",
+   "group": "costs",
+   "query": "corgi puppy price and yearly cost",
+   "target": "pembroke-welsh-corgi-first-year-costs"
+  },
+  {
+   "id": "costs-11",
+   "group": "costs",
+   "query": "how much does a havanese cost",
+   "target": "havanese-first-year-costs"
+  },
+  {
+   "id": "costs-12",
+   "group": "costs",
+   "query": "cavalier king charles spaniel price",
+   "target": "cavalier-king-charles-spaniel-first-year-costs"
+  },
+  {
+   "id": "costs-13",
+   "group": "costs",
+   "query": "how much does an australian shepherd cost per year",
+   "target": "australian-shepherd-first-year-costs"
+  },
+  {
+   "id": "costs-14",
+   "group": "costs",
+   "query": "labradoodle cost first year",
+   "target": "labradoodle-first-year-costs"
+  },
+  {
+   "id": "costs-15",
+   "group": "costs",
+   "query": "how much does a golden retriever cost per year",
+   "target": "golden-retriever-first-year-costs"
+  },
+  {
+   "id": "grooming-01",
+   "group": "grooming",
+   "query": "how often should a portuguese water dog be groomed",
+   "target": "portuguese-water-dog-grooming-guide"
+  },
+  {
+   "id": "grooming-02",
+   "group": "grooming",
+   "query": "how often do goldendoodles need grooming",
+   "target": "goldendoodle-grooming-guide"
+  },
+  {
+   "id": "grooming-03",
+   "group": "grooming",
+   "query": "how often should you brush a samoyed",
+   "target": "samoyed-grooming-guide"
+  },
+  {
+   "id": "grooming-04",
+   "group": "grooming",
+   "query": "bernese mountain dog grooming schedule",
+   "target": "bernese-mountain-dog-grooming-guide"
+  },
+  {
+   "id": "grooming-05",
+   "group": "grooming",
+   "query": "how often does a shih tzu need professional grooming",
+   "target": "shih-tzu-grooming-guide"
+  },
+  {
+   "id": "grooming-06",
+   "group": "grooming",
+   "query": "cocker spaniel grooming how often",
+   "target": "cocker-spaniel-grooming-guide"
+  },
+  {
+   "id": "grooming-07",
+   "group": "grooming",
+   "query": "how often should a standard poodle be clipped",
+   "target": "standard-poodle-grooming-guide"
+  },
+  {
+   "id": "grooming-08",
+   "group": "grooming",
+   "query": "how to groom an old english sheepdog at home",
+   "target": "old-english-sheepdog-grooming-guide"
+  },
+  {
+   "id": "grooming-09",
+   "group": "grooming",
+   "query": "lagotto romagnolo grooming requirements",
+   "target": "lagotto-romagnolo-grooming-guide"
+  },
+  {
+   "id": "grooming-10",
+   "group": "grooming",
+   "query": "westie grooming schedule",
+   "target": "west-highland-white-terrier-grooming-guide"
+  },
+  {
+   "id": "fit-01",
+   "group": "fit",
+   "query": "is a border collie good for first time owners",
+   "target": "border-collie"
+  },
+  {
+   "id": "fit-02",
+   "group": "fit",
+   "query": "are golden retrievers good apartment dogs",
+   "target": "golden-retriever"
+  },
+  {
+   "id": "fit-03",
+   "group": "fit",
+   "query": "is a great dane good with kids",
+   "target": "great-dane"
+  },
+  {
+   "id": "fit-04",
+   "group": "fit",
+   "query": "is a cane corso a good family dog",
+   "target": "cane-corso"
+  },
+  {
+   "id": "fit-05",
+   "group": "fit",
+   "query": "are shiba inus hard to train",
+   "target": "shiba-inu"
+  },
+  {
+   "id": "fit-06",
+   "group": "fit",
+   "query": "is a vizsla a good dog for runners",
+   "target": "vizsla"
+  },
+  {
+   "id": "fit-07",
+   "group": "fit",
+   "query": "are dalmatians good family dogs",
+   "target": "dalmatian"
+  },
+  {
+   "id": "fit-08",
+   "group": "fit",
+   "query": "is a cavapoo a good dog for seniors",
+   "target": "cavapoo"
+  },
+  {
+   "id": "fit-09",
+   "group": "fit",
+   "query": "is a husky a good first dog",
+   "target": "siberian-husky"
+  },
+  {
+   "id": "fit-10",
+   "group": "fit",
+   "query": "is a belgian malinois a good pet for a normal family",
+   "target": "belgian-malinois"
+  },
+  {
+   "id": "fit-11",
+   "group": "fit",
+   "query": "are french bulldogs good for apartments",
+   "target": "french-bulldog"
+  },
+  {
+   "id": "fit-12",
+   "group": "fit",
+   "query": "how much exercise does a bernese mountain dog need",
+   "target": "bernese-mountain-dog"
+  },
+  {
+   "id": "fit-13",
+   "group": "fit",
+   "query": "is a german shepherd good for first time owners",
+   "target": "german-shepherd-dog"
+  },
+  {
+   "id": "fit-14",
+   "group": "fit",
+   "query": "are beagles easy to train",
+   "target": "beagle"
+  },
+  {
+   "id": "fit-15",
+   "group": "fit",
+   "query": "are dobermans good family dogs",
+   "target": "doberman-pinscher"
+  },
+  {
+   "id": "nutrition-01",
+   "group": "nutrition",
+   "query": "can dogs eat grapes",
+   "target": "can-dogs-eat-grapes"
+  },
+  {
+   "id": "nutrition-02",
+   "group": "nutrition",
+   "query": "can dogs eat quinoa",
+   "target": "can-dogs-eat-quinoa"
+  },
+  {
+   "id": "nutrition-03",
+   "group": "nutrition",
+   "query": "can dogs eat sunflower seeds",
+   "target": "can-dogs-eat-sunflower-seeds"
+  },
+  {
+   "id": "nutrition-04",
+   "group": "nutrition",
+   "query": "can dogs eat eggplant",
+   "target": "can-dogs-eat-eggplant"
+  },
+  {
+   "id": "nutrition-05",
+   "group": "nutrition",
+   "query": "can dogs eat butternut squash",
+   "target": "can-dogs-eat-butternut-squash-a-nutritious-addition-to-your-dogs-diet"
+  },
+  {
+   "id": "nutrition-06",
+   "group": "nutrition",
+   "query": "can dogs have almond butter",
+   "target": "can-dogs-have-almond-butter"
+  },
+  {
+   "id": "nutrition-07",
+   "group": "nutrition",
+   "query": "can dogs eat cantaloupe",
+   "target": "can-dogs-eat-cantaloupe"
+  },
+  {
+   "id": "nutrition-08",
+   "group": "nutrition",
+   "query": "are blueberries safe for dogs",
+   "target": "can-dogs-eat-blueberries"
+  },
+  {
+   "id": "nutrition-09",
+   "group": "nutrition",
+   "query": "can dogs eat shrimp",
+   "target": "can-dogs-eat-shrimp"
+  },
+  {
+   "id": "nutrition-10",
+   "group": "nutrition",
+   "query": "can dogs eat mushrooms",
+   "target": "can-dogs-eat-mushrooms"
+  },
+  {
+   "id": "roundup-01",
+   "group": "roundup",
+   "query": "best dog breeds for first time owners",
+   "target": "best-dogs-for-first-time-owners"
+  },
+  {
+   "id": "roundup-02",
+   "group": "roundup",
+   "query": "best dogs for seniors",
+   "target": "best-dogs-for-seniors"
+  },
+  {
+   "id": "roundup-03",
+   "group": "roundup",
+   "query": "best large dog breeds for families",
+   "target": "best-large-dog-breeds"
+  },
+  {
+   "id": "roundup-04",
+   "group": "roundup",
+   "query": "best dog breeds for cold weather",
+   "target": "best-dogs-for-cold-climates"
+  },
+  {
+   "id": "roundup-05",
+   "group": "roundup",
+   "query": "best hypoallergenic dog breeds",
+   "target": "best-hypoallergenic-dog-breeds"
+  },
+  {
+   "id": "roundup-06",
+   "group": "roundup",
+   "query": "best guard dog breeds for families",
+   "target": "best-guard-dog-breeds"
+  },
+  {
+   "id": "roundup-07",
+   "group": "roundup",
+   "query": "best dog breeds for people with anxiety",
+   "target": "best-dog-breeds-for-anxiety"
+  },
+  {
+   "id": "roundup-08",
+   "group": "roundup",
+   "query": "best dogs for small apartments",
+   "target": "best-dogs-for-small-apartments"
+  },
+  {
+   "id": "roundup-09",
+   "group": "roundup",
+   "query": "most intelligent dog breeds",
+   "target": "most-intelligent-dog-breeds"
+  },
+  {
+   "id": "roundup-10",
+   "group": "roundup",
+   "query": "best doodle breeds for families",
+   "target": "best-doodle-breeds-for-families"
+  }
+ ]
+}

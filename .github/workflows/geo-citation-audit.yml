@@ -1,0 +1,54 @@
+name: GEO Citation Audit
+
+# Monthly: ask the 60-question panel (geo/query_panel.json) to an AI answer
+# engine with web search and record which sources it cites. Results are
+# committed under geo/citations/ so the citation rate can be tracked over
+# time. See GEO_PLAN.md W0.2. Runs on the 2nd of each month at 16:10 UTC;
+# trigger manually with workflow_dispatch for an ad-hoc run.
+
+on:
+  schedule:
+    - cron: '10 16 2 * *'
+  workflow_dispatch:
+    inputs:
+      group:
+        description: 'Panel group only (costs, grooming, fit, nutrition, roundup); empty = all'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  citation-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run citation audit
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -n "${{ github.event.inputs.group }}" ]; then
+            python3 scripts/geo_citation_audit.py --group "${{ github.event.inputs.group }}"
+          else
+            python3 scripts/geo_citation_audit.py
+          fi
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add geo/citations/
+          if git diff --cached --quiet; then
+            echo "no citation-audit changes to commit"
+          else
+            git commit -m "chore(geo): citation audit $(date -u +%F) [skip ci]"
+            git push
+          fi
