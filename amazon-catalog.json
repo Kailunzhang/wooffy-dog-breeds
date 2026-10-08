@@ -1,6 +1,13 @@
 {
  "meta": {
   "store_tag": "wooffy-20",
+  "tags_by_kind": {
+   "grooming": "wooffygroom-20",
+   "checklist": "wooffycheck-20",
+   "costs": "wooffycost-20",
+   "extra": "wooffy-20"
+  },
+  "link_format": "https://www.amazon.com/dp/{asin}/?tag={tags_by_kind[page_kind]} (2026-10-08; amzn.to short links in `short` are the pre-split fallback)",
   "link_rel": "sponsored nofollow noopener",
   "fit_semantics": "Weights are adult lb; null = open. Types in contain_types need the breed's whole range inside [wmin,wmax] and skip multi_size_breeds; all other types need the breed's midpoint inside [wmin,wmax]. Non-breed pages (no weight) pass. life_stage 'adult' never goes on checklist pages (all are puppy checklists). coat keys come from breed_traits.json category via coat_map; 'any' disables the check. exclude_slugs removes pages outright.",
   "text_normalization": "html.unescape(text + ' ' + faq_text) before matching; anchors/excludes are case-insensitive regex. samoyed-grooming-guide: pilot link text stripped before matching (see existing_links).",

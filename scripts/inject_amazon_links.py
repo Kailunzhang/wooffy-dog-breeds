@@ -9,6 +9,9 @@ Placement rules (owner-approved, 2026-09-29):
   - At most MAX_PER_PAGE products per page, one per product type.
   - No crates (none are in the catalog). No prices, ratings or Amazon images.
   - Every changed page gets one disclosure line at the top.
+  - Links are full product URLs (amazon.com/dp/ASIN) carrying the tracking ID for
+    the page type from amazon-catalog.json meta.tags_by_kind (2026-10-08), so the
+    Associates "Tracking ID" report attributes sales to grooming / checklist / costs.
 
 Everything inserted is wrapped in <!-- WOOFFY_AMZ_v1 --> ... <!-- /WOOFFY_AMZ_v1 -->
 so --remove restores the original HTML exactly. Dry-run by default.
@@ -101,6 +104,8 @@ class Rules:
     def __init__(self, catalog: dict, coats: dict[str, str]):
         meta = catalog.get("meta") or {}
         self.contain_types = set(meta.get("contain_types") or [])
+        self.store_tag = meta.get("store_tag") or "wooffy-20"
+        self.tags = dict(meta.get("tags_by_kind") or {})
         self.multi_size = set(meta.get("multi_size_breeds") or [])
         cmap = catalog.get("coat_map") or {}
         self.coat = {slug: cmap.get(cat) for slug, cat in coats.items()}
@@ -170,11 +175,18 @@ def candidates(slug: str, kind: str, text: str, catalog: list[dict], breed, weig
     return families  # each family: options in preference order (fallbacks after the first)
 
 
-def snippet(p: dict, coat: str | None, kind: str) -> str:
+def product_url(p: dict, kind: str, rules: "Rules") -> str:
+    """Full product URL with the page-type tracking ID; amzn.to short link as fallback."""
+    if not p.get("asin"):
+        return p["short"]
+    return f'https://www.amazon.com/dp/{p["asin"]}/?tag={rules.tags.get(kind, rules.store_tag)}'
+
+
+def snippet(p: dict, coat: str | None, kind: str, rules: "Rules") -> str:
     blurb = (p.get("blurb_by_coat") or {}).get(coat or "", p["blurb"]).strip()
     cav = (p.get("caveat_by_kind") or {}).get(kind, p.get("caveat") or "").strip()
     caveat = f" {html.escape(cav)}" if cav else ""
-    return (f'{MARK}<br><span class="wfy-aff">One option: <a href="{p["short"]}" '
+    return (f'{MARK}<br><span class="wfy-aff">One option: <a href="{product_url(p, kind, rules)}" '
             f'rel="sponsored nofollow noopener" target="_blank">{html.escape(p["name"])} on Amazon</a>. '
             f'{html.escape(blurb)}{caveat}</span>{END}')
 
@@ -229,7 +241,7 @@ def place(fields: list[tuple[list, str]], p: dict, kind: str, coat: str | None,
             if m.group(1) in ("li", "p") and MARK not in m.group(0) \
                     and element_ok(p, kind, text, prev, rules):
                 close = m.end() - len(f"</{m.group(1)}>")
-                return i, h[:close] + snippet(p, coat, kind) + h[close:], text[:140]
+                return i, h[:close] + snippet(p, coat, kind, rules) + h[close:], text[:140]
             prev = text
     return None
 
