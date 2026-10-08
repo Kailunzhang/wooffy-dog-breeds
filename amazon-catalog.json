@@ -12,9 +12,9 @@
   "fit_semantics": "Weights are adult lb; null = open. Types in contain_types need the breed's whole range inside [wmin,wmax] and skip multi_size_breeds; all other types need the breed's midpoint inside [wmin,wmax]. Non-breed pages (no weight) pass. life_stage 'adult' never goes on checklist pages (all are puppy checklists). coat keys come from breed_traits.json category via coat_map; 'any' disables the check. exclude_slugs removes pages outright.",
   "text_normalization": "html.unescape(text + ' ' + faq_text) before matching; anchors/excludes are case-insensitive regex. samoyed-grooming-guide: pilot link text stripped before matching (see existing_links).",
   "counts": {
-   "entries": 71,
-   "skipped": 20,
-   "placeable": 51
+   "entries": 88,
+   "skipped": 25,
+   "placeable": 63
   },
   "disclosure": "As an Amazon Associate, Wooffy earns from qualifying purchases.",
   "disclosure_rule": "Must appear on every page that carries a link, before the first link.",
@@ -2684,6 +2684,624 @@
    "title_raw": "Zesty Paws Dog Vitamins - Dog Multivitamin Chews, Chicken, 90 Ct",
    "extra_slug_priority": {},
    "exclude_slugs": []
+  },
+  {
+   "asin": "B0CLB62YBT",
+   "name": "Ruffwear Front Range Collar (11-14 in)",
+   "type": "collar",
+   "fit": {
+    "wmin": null,
+    "wmax": 22,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "costs"
+   ],
+   "anchors": [
+    "flat collar",
+    "(adjustable|buckle|quick-release|side-release) collar",
+    "collar,? (harness|leash)",
+    "collar and (an )?(id )?tag"
+   ],
+   "exclude_if": [
+    "martingale",
+    "use a harness, not a collar",
+    "sized for a puppy neck",
+    "never a collar",
+    "not a (flat )?collar",
+    "sized for a puppy"
+   ],
+   "extra_slugs": [],
+   "blurb": "A side-release buckle collar with an aluminum leash ring, a silicone tag silencer and a separate loop for ID tags.",
+   "caveat": "It fits an 11-14 inch neck, the small size; measure the neck before ordering.",
+   "priority": 2,
+   "skip": false,
+   "notes": "Added 2026-10-08 (batch 2 size variant of B0DQ2RWKT2).",
+   "short": "https://amzn.to/4y6HHMA",
+   "title_raw": "Ruffwear, Front Range Dog Collar, Red Canyon, 11-14",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "element_exclude": [
+    "\\$\\d{1,2}\\s*[–-]\\s*\\$[1-5]\\d\\b",
+    "\\bcrates?\\b[^.]*\\bcrates?\\b"
+   ]
+  },
+  {
+   "asin": "B0CLB58TBT",
+   "name": "Ruffwear Front Range Collar (20-26 in)",
+   "type": "collar",
+   "fit": {
+    "wmin": 60,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "costs"
+   ],
+   "anchors": [
+    "flat collar",
+    "(adjustable|buckle|quick-release|side-release) collar",
+    "collar,? (harness|leash)",
+    "collar and (an )?(id )?tag"
+   ],
+   "exclude_if": [
+    "martingale",
+    "use a harness, not a collar",
+    "sized for a puppy neck",
+    "never a collar",
+    "not a (flat )?collar",
+    "sized for a puppy"
+   ],
+   "extra_slugs": [],
+   "blurb": "A side-release buckle collar with an aluminum leash ring, a silicone tag silencer and a separate loop for ID tags.",
+   "caveat": "It fits a 20-26 inch neck, the large size; puppies need a smaller collar first.",
+   "priority": 2,
+   "skip": false,
+   "notes": "Added 2026-10-08 (batch 2 size variant of B0DQ2RWKT2).",
+   "short": "https://amzn.to/3Vpj54e",
+   "title_raw": "Ruffwear, Front Range Dog Collar, Red Canyon, 20-26",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "element_exclude": [
+    "\\$\\d{1,2}\\s*[–-]\\s*\\$[1-5]\\d\\b",
+    "\\bcrates?\\b[^.]*\\bcrates?\\b"
+   ]
+  },
+  {
+   "asin": "B0CLB3YY5W",
+   "name": "Ruffwear Front Range Harness (X-Small)",
+   "type": "harness",
+   "fit": {
+    "wmin": 8,
+    "wmax": 20,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "costs"
+   ],
+   "anchors": [
+    "front[- ]clip harness",
+    "no[- ]pull harness",
+    "\\bharness(es)?\\b"
+   ],
+   "exclude_if": [
+    "harness[^.]{0,40}(not recommended|avoid)",
+    "sized for a puppy"
+   ],
+   "extra_slugs": [],
+   "blurb": "A foam-padded everyday harness with two leash points: a back ring and a chest attachment for redirecting dogs that pull.",
+   "caveat": "Measure chest girth against Ruffwear's chart; this is X-Small (17-22 in girth).",
+   "priority": 1,
+   "skip": false,
+   "notes": "Added 2026-10-08 (batch 2 size variant of B0CLB4ZBWF).",
+   "short": "https://amzn.to/47DmbnU",
+   "title_raw": "Ruffwear, Front Range Dog Chest Harness, Coastal Mountains, X-Small",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "element_exclude": [
+    "canicross|bikejoring|skijoring|\\bsled|mushing",
+    "\\bcrates?\\b[^.]*\\bcrates?\\b"
+   ]
+  },
+  {
+   "asin": "B0CLB3WLC6",
+   "name": "Ruffwear Front Range Harness (Small)",
+   "type": "harness",
+   "fit": {
+    "wmin": 18,
+    "wmax": 35,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "costs"
+   ],
+   "anchors": [
+    "front[- ]clip harness",
+    "no[- ]pull harness",
+    "\\bharness(es)?\\b"
+   ],
+   "exclude_if": [
+    "harness[^.]{0,40}(not recommended|avoid)",
+    "sized for a puppy"
+   ],
+   "extra_slugs": [],
+   "blurb": "A foam-padded everyday harness with two leash points: a back ring and a chest attachment for redirecting dogs that pull.",
+   "caveat": "Measure chest girth against Ruffwear's chart; this is Small (22-27 in girth).",
+   "priority": 1,
+   "skip": false,
+   "notes": "Added 2026-10-08 (batch 2 size variant of B0CLB4ZBWF).",
+   "short": "https://amzn.to/4ye2vlB",
+   "title_raw": "Ruffwear, Front Range Dog Chest Harness, Coastal Mountains, Small",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "element_exclude": [
+    "canicross|bikejoring|skijoring|\\bsled|mushing",
+    "\\bcrates?\\b[^.]*\\bcrates?\\b"
+   ]
+  },
+  {
+   "asin": "B0B6HMG653",
+   "name": "Bedsure Orthopedic Bolster Dog Bed (Small, 23 x 18 in)",
+   "type": "orthopedic_bed",
+   "fit": {
+    "wmin": null,
+    "wmax": 22,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "orthopedic (dog |puppy )?beds?",
+    "supportive (dog )?bed(ding)?"
+   ],
+   "exclude_if": [
+    "not (for )?need(ing)? orthopedic",
+    "\\bXL (orthopedic )?(dog )?bed",
+    "chew-resistant (orthopedic )?bed"
+   ],
+   "extra_slugs": [],
+   "blurb": "A bolstered bed with egg-crate foam, a low entry, and a removable machine-washable cover with a waterproof layer.",
+   "caveat": "Check the size chart (this is the Small, 23 x 18 in size); it's egg-crate foam rather than memory foam.",
+   "priority": 1,
+   "skip": false,
+   "notes": "Added 2026-10-08 (batch 2 size variant of B089RGDQBB).",
+   "short": "https://amzn.to/476ZY1m",
+   "title_raw": "Bedsure Orthopedic Dog Beds for Small Dogs Washable Original Design",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B089QXMQXK",
+   "name": "Bedsure Orthopedic Bolster Dog Bed (Medium, 28 x 23 in)",
+   "type": "orthopedic_bed",
+   "fit": {
+    "wmin": 12,
+    "wmax": 38,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "orthopedic (dog |puppy )?beds?",
+    "supportive (dog )?bed(ding)?"
+   ],
+   "exclude_if": [
+    "not (for )?need(ing)? orthopedic",
+    "\\bXL (orthopedic )?(dog )?bed",
+    "chew-resistant (orthopedic )?bed"
+   ],
+   "extra_slugs": [],
+   "blurb": "A bolstered bed with egg-crate foam, a low entry, and a removable machine-washable cover with a waterproof layer.",
+   "caveat": "Check the size chart (this is the Medium, 28 x 23 in size); it's egg-crate foam rather than memory foam.",
+   "priority": 1,
+   "skip": false,
+   "notes": "Added 2026-10-08 (batch 2 size variant of B089RGDQBB).",
+   "short": "https://amzn.to/4ydhig1",
+   "title_raw": "Bedsure Orthopedic Dog Bed Medium Washable Original Design, 28 Grey",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B0C7C6WFR1",
+   "name": "Bedsure Orthopedic Bolster Dog Bed (XL, 42 x 32 in)",
+   "type": "orthopedic_bed",
+   "fit": {
+    "wmin": 45,
+    "wmax": 85,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "orthopedic (dog |puppy )?beds?",
+    "supportive (dog )?bed(ding)?"
+   ],
+   "exclude_if": [
+    "not (for )?need(ing)? orthopedic",
+    "chew-resistant (orthopedic )?bed"
+   ],
+   "extra_slugs": [],
+   "blurb": "A bolstered bed with egg-crate foam, a low entry, and a removable machine-washable cover with a waterproof layer.",
+   "caveat": "Check the size chart (this is the XL, 42 x 32 in size); it's egg-crate foam rather than memory foam.",
+   "priority": 1,
+   "skip": false,
+   "notes": "Added 2026-10-08 (batch 2 size variant of B089RGDQBB).",
+   "short": "https://amzn.to/4j54c0G",
+   "title_raw": "Bedsure Orthopedic XL Dog Bed Extra Large Washable Original Design",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B098DZ9YZW",
+   "name": "Bedsure Orthopedic Bolster Dog Bed (XXL, 46 x 36 in)",
+   "type": "orthopedic_bed",
+   "fit": {
+    "wmin": 70,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "orthopedic (dog |puppy )?beds?",
+    "supportive (dog )?bed(ding)?"
+   ],
+   "exclude_if": [
+    "not (for )?need(ing)? orthopedic",
+    "chew-resistant (orthopedic )?bed"
+   ],
+   "extra_slugs": [],
+   "blurb": "A bolstered bed with egg-crate foam, a low entry, and a removable machine-washable cover with a waterproof layer.",
+   "caveat": "Check the size chart (this is the XXL, 46 x 36 in size); it's egg-crate foam rather than memory foam.",
+   "priority": 1,
+   "skip": false,
+   "notes": "Added 2026-10-08 (batch 2 size variant of B089RGDQBB).",
+   "short": "https://amzn.to/4AWK2MP",
+   "title_raw": "Bedsure Orthopedic XXL Dog Bed Extra Large Washable Original Design",
+   "extra_slug_priority": {},
+   "exclude_slugs": []
+  },
+  {
+   "asin": "B0CCBK2QY1",
+   "name": "Earth Rated Dog Eye Wipes, Unscented (70 ct)",
+   "type": "eye_wipes",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "tear[- ]?stains?",
+    "\\beye wipes?",
+    "wip(e|ing)[^.]{0,40}\\b(eyes?|eye area)",
+    "(around|under|beneath) the eyes",
+    "eye[- ]clean(ing|er)",
+    "(clean|wipe)[^.]{0,30}(eye (area|corners?|discharge|gunk)|tear[- ]?stain)"
+   ],
+   "exclude_if": [
+    "(avoid|don't|do not|never)[^.]{0,30}(wipes?|wiping)[^.]{0,30}eyes?"
+   ],
+   "extra_slugs": [],
+   "blurb": "Unscented, vet-developed wipes for cleaning dirt and discharge from the fur around the eyes.",
+   "caveat": "For cleaning only; persistent staining, redness or discharge is a question for your vet.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/4e2DxhB",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Earth Rated Dog Eye Wipes, Vet Developed, Unscented, Removes Dirt, 70ct",
+   "notes": "Added 2026-10-08 (batch 2: sizes + gaps).",
+   "element_exclude": [
+    "entropion|surg(ery|ical)|wrinkling around",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ]
+  },
+  {
+   "asin": "B0CCBHFLVP",
+   "name": "Earth Rated Dog Ear Wipes, Wild Oat (70 ct)",
+   "type": "ear_wipes",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\bear wipes?",
+    "ear[- ]clean(ing|ed)\\b",
+    "clean(ing|ed)? (the |their |your dog's |his |her )?ears\\b",
+    "wip(e|ing)[^.]{0,30}\\bears?\\b",
+    "ear (care|hygiene)\\b"
+   ],
+   "exclude_if": [
+    "(avoid|don't|do not|never)[^.]{0,30}(clean|wipe)[^.]{0,20}ears?"
+   ],
+   "extra_slugs": [],
+   "blurb": "Vet-developed wipes with wild oat for routine cleaning of wax and dirt from the visible outer ear.",
+   "caveat": "Outer ear only; never push anything into the canal. Redness, odor, discharge or head shaking is a vet visit, not a cleaning job.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/4dXnUIe",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Earth Rated Dog Ear Wipes, Vet Developed, Wild Oat, for Dirt & Wax, 70ct",
+   "notes": "Added 2026-10-08 (batch 2: sizes + gaps).",
+   "element_exclude": [
+    "ear[- ]cleaner|cleaning solution|cleanser|cotton (balls?|pads?)|\\bflush|\\bdrops\\b|\\brinse\\b",
+    "infection[^.]{0,30}(treat|medicat)",
+    "\\bsolution\\b|per bottle|slow-feeder|DIY kit|as the dog ages|joint monitoring",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ]
+  },
+  {
+   "asin": "B07HNKFGBT",
+   "name": "Chris Christensen Ice on Ice Detangling Spray (16 oz)",
+   "type": "detangling_spray",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "long",
+     "curly",
+     "feathered",
+     "double",
+     "wire"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "detangl(ing|er)\\s+(spray|product|mist)",
+    "leave[- ]in (conditioner|spray|detangler)",
+    "conditioning (spray|mist)",
+    "(grooming|coat|anti-?static|finishing) spray",
+    "spray (the coat|lightly)[^.]{0,30}(before|while) brush",
+    "detangling spray"
+   ],
+   "exclude_if": [
+    "(avoid|skip|don't|do not)[^.]{0,30}(leave-in|sprays?|detangl)"
+   ],
+   "extra_slugs": [],
+   "blurb": "A leave-in detangling spray with sunscreen, misted on before brushing so the pins slide through the coat instead of tearing it.",
+   "caveat": "Mist the coat lightly, not the skin; it's a finishing spray, not a substitute for a bath.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/4rR5yOK",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Chris Christensen Ice on Ice Detangling Dog Conditioner",
+   "notes": "Added 2026-10-08 (batch 2: sizes + gaps).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "full-body clip|nicks and uneven|clip at home"
+   ]
+  },
+  {
+   "asin": "B004ULZ2PI",
+   "name": "Virbac C.E.T. Oral Hygiene Kit (Toothpaste + Toothbrush + Fingerbrush)",
+   "type": "toothbrush",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\btooth ?brush(es)?\\b",
+    "finger ?brush",
+    "brush(ing)? (their|your dog's|your puppy's|the|his|her) teeth",
+    "teeth brushing",
+    "dental kit"
+   ],
+   "exclude_if": [
+    "human toothpaste is fine"
+   ],
+   "extra_slugs": [],
+   "blurb": "A starter kit with poultry-flavored enzymatic toothpaste, a dual-ended toothbrush and a fingerbrush for getting a puppy used to the routine.",
+   "caveat": "Never use human toothpaste; start with the fingerbrush for a few seconds a day and build up.",
+   "priority": 2,
+   "skip": false,
+   "short": "https://amzn.to/3UerZ48",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "C.E.T. Oral Hygiene Kit for Dogs, Poultry flavor Toothpaste with Toothbrush",
+   "notes": "Added 2026-10-08 (batch 2: sizes + gaps).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ]
+  },
+  {
+   "asin": "B0D7Y9C587",
+   "name": "Ruffwear Front Range Collar 14-20 in (Reef Fish)",
+   "type": "duplicate",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "",
+   "caveat": "",
+   "priority": 9,
+   "skip": true,
+   "skip_reason": "same size as B0DQ2RWKT2, color only",
+   "short": "https://amzn.to/3UcHpG8",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "",
+   "notes": "Added 2026-10-08 (batch 2), skipped."
+  },
+  {
+   "asin": "B0CLB4X3PG",
+   "name": "Ruffwear Front Range Collar 14-20 in (River Rock Green)",
+   "type": "duplicate",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "",
+   "caveat": "",
+   "priority": 9,
+   "skip": true,
+   "skip_reason": "same size as B0DQ2RWKT2, color only",
+   "short": "https://amzn.to/4AWJM0j",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "",
+   "notes": "Added 2026-10-08 (batch 2), skipped."
+  },
+  {
+   "asin": "B0BVWFMSMY",
+   "name": "Bedsure Orthopedic Bed Large (variant)",
+   "type": "duplicate",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "",
+   "caveat": "",
+   "priority": 9,
+   "skip": true,
+   "skip_reason": "same size as B089RGDQBB",
+   "short": "https://amzn.to/479KcTl",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "",
+   "notes": "Added 2026-10-08 (batch 2), skipped."
+  },
+  {
+   "asin": "B0G6KZYJ1Y",
+   "name": "Bedsure Orthopedic XL Pro",
+   "type": "duplicate",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "",
+   "caveat": "",
+   "priority": 9,
+   "skip": true,
+   "skip_reason": "XL covered by B0C7C6WFR1",
+   "short": "https://amzn.to/4y5lApJ",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "",
+   "notes": "Added 2026-10-08 (batch 2), skipped."
+  },
+  {
+   "asin": "B0BVWDXP41",
+   "name": "Bedsure Orthopedic XLPlus",
+   "type": "duplicate",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "",
+   "caveat": "",
+   "priority": 9,
+   "skip": true,
+   "skip_reason": "XL covered by B0C7C6WFR1",
+   "short": "https://amzn.to/4zjdqv5",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "",
+   "notes": "Added 2026-10-08 (batch 2), skipped."
   }
  ],
  "size_variants": [

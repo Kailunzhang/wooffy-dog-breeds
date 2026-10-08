@@ -93,7 +93,8 @@ def set_path(d: dict, path: list, value: str) -> None:
 
 
 # One product per family per page; families rotate between equivalent picks.
-FAMILY = {"leash_heavy_duty": "leash", "leash_standard": "leash", "leash_hands_free": "leash",
+FAMILY = {"toothbrush": "dental_care", "toothpaste": "dental_care",
+          "leash_heavy_duty": "leash", "leash_standard": "leash", "leash_hands_free": "leash",
           "flea_tick_collar": "flea_tick", "flea_tick_topical": "flea_tick"}
 ROTATE = {"enzymatic_cleaner", "fish_oil", "dry_food"}
 
