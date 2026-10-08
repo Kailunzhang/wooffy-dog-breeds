@@ -278,24 +278,12 @@
     } catch (e) { return null; }
   }
 
-  function writeBreedToUrl(slug) {
-    try {
-      if (!window.history || !window.history.replaceState) return;
-      var u = new URL(window.location.href);
-      if (slug === DEFAULT_BREED) u.searchParams.delete('breed'); else u.searchParams.set('breed', slug);
-      if (/(^#|&)breed=/.test(u.hash)) u.hash = '';
-      window.history.replaceState(window.history.state, '', u.toString());
-    } catch (e) { /* sandboxed or very old browser: deep links still work on load */ }
-  }
+  /* The URL is read on load (?breed= deep links) but not rewritten on change: the store's
+     GA4 tag counts every URL change as a page_view, which inflated calculator page views. */
 
+  /* The store's Google tag runs on the page, so gtag events reach GA4 directly. */
   function track(name, params) {
     try { if (typeof window.gtag === 'function') window.gtag('event', name, params); } catch (e) { /* ignore */ }
-    try {
-      var sa = window.Shopify && window.Shopify.analytics;
-      if (sa && typeof sa.publish === 'function') {
-        sa.publish('wooffy_calc_change', { event: name, breed: params.breed, option: params.option || null, value: params.value || null });
-      }
-    } catch (e) { /* ignore */ }
   }
 
   var state = { breed: null, region: DEFAULTS.region, source: DEFAULTS.source, ins: DEFAULTS.ins, groom: DEFAULTS.groom };
@@ -328,7 +316,6 @@
   sel.addEventListener('change', function () {
     if (!has(DATA, sel.value)) return;
     state.breed = sel.value;
-    writeBreedToUrl(state.breed);
     render();
     track('calc_breed_change', { breed: state.breed });
   });
