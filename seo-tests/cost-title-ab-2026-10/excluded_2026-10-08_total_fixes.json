@@ -1,0 +1,98 @@
+{
+ "excluded_on": "2026-10-08",
+ "reason": "First-year totals corrected to equal the page's own line items (body, excerpt and meta_description changed mid-test). Exclusion depends on a pre-existing data error, not on group assignment, so dropping these pages keeps the test-vs-control comparison unbiased.",
+ "pages": [
+  {
+   "handle": "australian-terrier-first-year-costs",
+   "group": "control"
+  },
+  {
+   "handle": "russell-terrier-first-year-costs",
+   "group": "control"
+  },
+  {
+   "handle": "bearded-collie-first-year-costs",
+   "group": "test"
+  },
+  {
+   "handle": "briard-first-year-costs",
+   "group": "control"
+  },
+  {
+   "handle": "cairn-terrier-first-year-costs",
+   "group": "control"
+  },
+  {
+   "handle": "belgian-tervuren-first-year-costs",
+   "group": "test"
+  },
+  {
+   "handle": "newfoundland-first-year-costs",
+   "group": "test"
+  },
+  {
+   "handle": "parson-russell-terrier-first-year-costs",
+   "group": "control"
+  },
+  {
+   "handle": "bouvier-des-flandres-first-year-costs",
+   "group": "test"
+  },
+  {
+   "handle": "beauceron-first-year-costs",
+   "group": "control"
+  },
+  {
+   "handle": "whippet-first-year-costs",
+   "group": "control"
+  },
+  {
+   "handle": "belgian-sheepdog-first-year-costs",
+   "group": "test"
+  },
+  {
+   "handle": "french-bulldog-first-year-costs",
+   "group": "test"
+  },
+  {
+   "handle": "australian-shepherd-first-year-costs",
+   "group": "control"
+  },
+  {
+   "handle": "bluetick-coonhound-first-year-costs",
+   "group": "test"
+  },
+  {
+   "handle": "great-pyrenees-first-year-costs",
+   "group": "control"
+  },
+  {
+   "handle": "pembroke-welsh-corgi-first-year-costs",
+   "group": "control"
+  },
+  {
+   "handle": "goldendoodle-first-year-costs",
+   "group": "test"
+  },
+  {
+   "handle": "harrier-first-year-costs",
+   "group": "control"
+  },
+  {
+   "handle": "black-and-tan-coonhound-first-year-costs",
+   "group": "test"
+  },
+  {
+   "handle": "chinese-shar-pei-first-year-costs",
+   "group": "control"
+  },
+  {
+   "handle": "weimaraner-first-year-costs",
+   "group": "control"
+  }
+ ],
+ "remaining": {
+  "test": 71,
+  "control": 67
+ }
+}

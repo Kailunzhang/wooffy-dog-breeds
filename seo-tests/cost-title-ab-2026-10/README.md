@@ -22,3 +22,12 @@ wins, apply the same pattern to the control group.
   flat-coated-retriever.
 - Read-out window: 28 days ending ~2026-10-29 or later (allow a few days for
   Google to recrawl titles before counting).
+
+## Exclusion (2026-10-08)
+22 pages had their first-year totals corrected mid-test (the stated total was
+below the sum of the page's own line items; body, excerpt and
+meta_description changed, title_tag untouched). They are listed in
+`excluded_2026-10-08_total_fixes.json` (9 test, 13 control). **Drop them from
+both groups at read-out** and compare the remaining 71 test vs 67 control pages.
+The exclusion depends on a pre-existing data error, not on group assignment, so
+the comparison stays unbiased.
