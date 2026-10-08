@@ -945,6 +945,12 @@ var WQ = (function () {
   }
   function track(name, params) {
     try { if (typeof window.gtag === 'function') window.gtag('event', name, params || {}); } catch (e) { /* analytics must never break the quiz */ }
+    /* The store's GA4 runs in Shopify's sandboxed pixel, so window.gtag is usually absent;
+       a custom pixel subscribes to these Shopify events and forwards them to GA4. */
+    try {
+      var sa = window.Shopify && window.Shopify.analytics;
+      if (sa && typeof sa.publish === 'function') sa.publish('wooffy_' + name, params || {});
+    } catch (e) { /* ignore */ }
   }
   function readHash() {
     var h = (window.location.hash || '').replace(/^#/, '');
