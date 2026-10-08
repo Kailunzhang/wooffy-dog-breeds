@@ -40,7 +40,7 @@ CATALOG = os.path.join(ROOT, "amazon-catalog.json")
 MARK = "<!-- WOOFFY_AMZ_v1 -->"
 END = "<!-- /WOOFFY_AMZ_v1 -->"
 BLOCK_RE = re.compile(re.escape(MARK) + r".*?" + re.escape(END), re.DOTALL)
-MAX_PER_PAGE = {"grooming": 3, "checklist": 4, "costs": 3, "extra": 3}
+MAX_PER_PAGE = {"grooming": 4, "checklist": 6, "costs": 4, "extra": 3}  # raised 2026-10-08 (was 3/4/3/3)
 STAGES = {"checklist": {"puppy", "any"}, "grooming": {"adult", "any"},
           "costs": {"any", "puppy"}, "extra": {"adult", "any", "puppy", "senior"}}
 DISCLOSURE = (f'{MARK}<p class="wfy-aff-note" style="font-size:13px;color:#6b6b6b;margin:0 0 16px;">'
@@ -94,6 +94,12 @@ def set_path(d: dict, path: list, value: str) -> None:
 
 # One product per family per page; families rotate between equivalent picks.
 FAMILY = {"toothbrush": "dental_care", "toothpaste": "dental_care",
+          "ear_wipes": "ear_care", "ear_cleaner": "ear_care",
+          "whitening_shampoo": "shampoo", "deshedding_shampoo": "shampoo",
+          "donut_bed": "bed", "orthopedic_bed": "bed",
+          "martingale_collar": "collar", "collar": "collar",
+          "pupsicle_toy": "pupsicle", "lick_refill": "pupsicle",
+          "pet_gate": "containment", "exercise_pen": "containment",
           "leash_heavy_duty": "leash", "leash_standard": "leash", "leash_hands_free": "leash",
           "flea_tick_collar": "flea_tick", "flea_tick_topical": "flea_tick"}
 ROTATE = {"enzymatic_cleaner", "fish_oil", "dry_food"}
@@ -139,7 +145,7 @@ def stable_index(key: str, n: int) -> int:
 
 
 def candidates(slug: str, kind: str, text: str, catalog: list[dict], breed, weights,
-               rules: Rules) -> list[dict]:
+               rules: Rules, keep: list[str] | None = None) -> list[dict]:
     out = []
     for p in catalog:
         if p.get("skip") or slug in (p.get("exclude_slugs") or []):
@@ -173,6 +179,11 @@ def candidates(slug: str, kind: str, text: str, catalog: list[dict], breed, weig
             group = [first] + [p for p in group if p is not first]
         families.append(group)
     families.sort(key=lambda g: (g[0]["_prio"], g[0]["asin"]))
+    if keep:  # --keep: families already placed on this page (previous plan) go first, in their old order
+        rank = {a: i for i, a in enumerate(keep)}
+        for g in families:
+            g.sort(key=lambda p: (rank.get(p["asin"], len(rank)), p["_prio"], p["asin"]))
+        families.sort(key=lambda g: (rank.get(g[0]["asin"], len(rank)), g[0]["_prio"], g[0]["asin"]))
     return families  # each family: options in preference order (fallbacks after the first)
 
 
@@ -224,6 +235,8 @@ def element_ok(p: dict, kind: str, text: str, prev: str, rules: "Rules") -> bool
     if kind == "extra" and p.get("element_require_extra") and \
             not any(re.search(x, text, re.I) for x in p["element_require_extra"]):
         return False
+    if p.get("last_sentence_only") and len(text) > 200 and not tail_has_anchor:
+        return False  # long element: the link lands at its end, so the end must be about the product
     if kind == "costs":
         if len(text) > 200 and not tail_has_anchor:
             return False
@@ -248,7 +261,7 @@ def place(fields: list[tuple[list, str]], p: dict, kind: str, coat: str | None,
 
 
 def process(path: str, catalog: list[dict], weights: dict, extra: set[str],
-            rules: Rules) -> dict | None:
+            rules: Rules, keep: dict[str, list[str]] | None = None) -> dict | None:
     slug = os.path.basename(path)[:-5]
     kind = page_kind(slug) or ("extra" if slug in extra else None)
     if kind is None:
@@ -261,7 +274,8 @@ def process(path: str, catalog: list[dict], weights: dict, extra: set[str],
     text = html.unescape(" ".join(plain(h) for _, h in fields) + " " + faq)
     base = re.sub(r"-(grooming-guide|puppy-checklist|first-year-costs)$", "", slug)
     breed = base if base in weights else None
-    families = candidates(slug, kind, text, catalog, breed, weights.get(base), rules)
+    families = candidates(slug, kind, text, catalog, breed, weights.get(base), rules,
+                          (keep or {}).get(slug))
     coat = rules.coat.get(breed) if breed else None
     placed = []
     for options in families:
@@ -317,6 +331,7 @@ def main(argv: list[str]) -> int:
     ap.add_argument("--remove", action="store_true", help="strip all WOOFFY_AMZ_v1 blocks")
     ap.add_argument("--catalog", default=CATALOG)
     ap.add_argument("--plan", default=os.path.join(ROOT, "output", "amazon_plan.json"))
+    ap.add_argument("--keep", help="previous plan JSON; its placements stay first on each page")
     args = ap.parse_args(argv)
 
     catalog: list[dict] = []
@@ -328,6 +343,10 @@ def main(argv: list[str]) -> int:
         rules = Rules(raw_cat if isinstance(raw_cat, dict) else {},
                       {t["slug"]: t.get("category") for t in traits})
     extra = {s for p in catalog for s in (p.get("extra_slugs") or [])}
+    keep = None
+    if args.keep:
+        keep = {p["slug"]: [x["asin"] for x in p["placed"]]
+                for p in json.load(open(args.keep, encoding="utf-8"))}
     weights = breed_weights()
     changed, plan = [], []
     for path in sorted(glob.glob(os.path.join(DATA_DIR, "*.json"))):
@@ -339,7 +358,7 @@ def main(argv: list[str]) -> int:
                     write(path, d, fields)
                 changed.append(os.path.basename(path)[:-5])
             continue
-        res = process(path, catalog, weights, extra, rules)
+        res = process(path, catalog, weights, extra, rules, keep)
         if res is None:
             continue
         plan.append({k: res[k] for k in ("slug", "kind", "placed")})

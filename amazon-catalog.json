@@ -12,23 +12,26 @@
   "fit_semantics": "Weights are adult lb; null = open. Types in contain_types need the breed's whole range inside [wmin,wmax] and skip multi_size_breeds; all other types need the breed's midpoint inside [wmin,wmax]. Non-breed pages (no weight) pass. life_stage 'adult' never goes on checklist pages (all are puppy checklists). coat keys come from breed_traits.json category via coat_map; 'any' disables the check. exclude_slugs removes pages outright.",
   "text_normalization": "html.unescape(text + ' ' + faq_text) before matching; anchors/excludes are case-insensitive regex. samoyed-grooming-guide: pilot link text stripped before matching (see existing_links).",
   "counts": {
-   "entries": 88,
+   "entries": 148,
    "skipped": 25,
-   "placeable": 63
+   "placeable": 123
   },
   "disclosure": "As an Amazon Associate, Wooffy earns from qualifying purchases.",
   "disclosure_rule": "Must appear on every page that carries a link, before the first link.",
   "contain_types": [
+   "chew_toy",
    "chews",
    "collar",
    "dental_chew",
    "deshedding_tool",
    "dry_food",
+   "exercise_pen",
    "flea_tick_collar",
    "flea_tick_topical",
    "harness",
    "joint_supplement",
-   "orthopedic_bed"
+   "orthopedic_bed",
+   "stuffable_toy"
   ],
   "multi_size_breeds": [
    "american-eskimo-dog",
@@ -3302,6 +3305,2484 @@
    "exclude_slugs": [],
    "title_raw": "",
    "notes": "Added 2026-10-08 (batch 2), skipped."
+  },
+  {
+   "asin": "B0155XV2K8",
+   "name": "Chris Christensen 000 Butter Comb (7.5 in, fine/coarse)",
+   "type": "metal_comb",
+   "fit": {
+    "wmin": 12,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "long",
+     "curly",
+     "feathered",
+     "double",
+     "wire"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\b(greyhound|metal|steel|stainless|wide[- ]tooth(ed)?|fine[- ]tooth(ed)?|combination|grooming|dog|face|flea[- ]free) comb\\b",
+    "\\bcomb(ing)? (through|out|behind|down|the (beard|coat|feathering|furnishings|ears)|to (check|verify|find|confirm))",
+    "follow(ed)? (up )?with a (metal |steel |fine )?comb",
+    "\\bcomb\\b[^.]{0,20}(down to|against) the skin"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A 7.5-inch greyhound-style steel comb with coarse teeth on one half and fine on the other, for checking down to the skin after brushing.",
+   "caveat": "Work in sections and stop at resistance; a comb finds mats, it shouldn't be used to rip them out.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Chris Christensen 000 7.5 in. Greyhound Style Fine/Coarse Colored Butter Comb",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "flea comb",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0155XUWVS",
+   "name": "Chris Christensen Face & Feet Butter Comb (5 in)",
+   "type": "metal_comb",
+   "fit": {
+    "wmin": null,
+    "wmax": 14,
+    "life_stage": "any",
+    "coat": [
+     "long",
+     "curly",
+     "feathered",
+     "double",
+     "wire"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\b(greyhound|metal|steel|stainless|wide[- ]tooth(ed)?|fine[- ]tooth(ed)?|combination|grooming|dog|face|flea[- ]free) comb\\b",
+    "\\bcomb(ing)? (through|out|behind|down|the (beard|coat|feathering|furnishings|ears)|to (check|verify|find|confirm))",
+    "follow(ed)? (up )?with a (metal |steel |fine )?comb",
+    "\\bcomb\\b[^.]{0,20}(down to|against) the skin",
+    "small comb"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A 5-inch fine/coarse steel comb sized for toy breeds and for the face, ears and feet of bigger dogs.",
+   "caveat": "Work in sections and stop at resistance; a comb finds mats, it shouldn't be used to rip them out.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Chris Christensen 5in Face and Feet Fine/Coarse Butter Comb",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "flea comb",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0056EAKUA",
+   "name": "Virbac Epi-Otic Advanced Ear Cleanser",
+   "type": "ear_cleaner",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "ear[- ]?clean(ing|er|ser)? solution",
+    "\\bear (cleaner|cleanser|cleaning solution|wash|rinse|flush)\\b",
+    "(vet|veterinary)[- ](approved|recommended) ear (cleaner|cleanser|solution)",
+    "ear[- ]cleaning (supplies|routine|kit|solution)",
+    "clean(ing|ed)? (the |their |your dog's |his |her )?ears\\b",
+    "ear[- ]clean(ing|ed)\\b"
+   ],
+   "exclude_if": [
+    "(avoid|don't|do not|never)[^.]{0,30}(clean|flush)[^.]{0,20}ears?"
+   ],
+   "extra_slugs": [],
+   "blurb": "A gentle, low-pH, alcohol-free ear cleanser made for routine cleaning and drying of the ear canal.",
+   "caveat": "Routine cleaning only; if the ear is red, smelly or painful, see your vet before putting anything in it.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Epiotic Advanced Ear Cleanser",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "infection[^.]{0,30}(treat|medicat)|prescription|\\bwipes?\\b",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0BDZ8WBG6",
+   "name": "Non-Slip Stainless Steel Bowls, 2 Cup (2-Pack)",
+   "type": "bowls",
+   "fit": {
+    "wmin": null,
+    "wmax": 35,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "(stainless|steel|metal|non[- ]?slip|non[- ]?skid|non[- ]tip) (steel )?(food |water )?bowls?",
+    "food and water bowls?",
+    "\\b(food|water) bowls?\\b",
+    "\\bbowls\\b"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A two-pack of 2-cup stainless bowls with a non-slip rubber base, sized for small dogs' meals and water.",
+   "caveat": "",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Nonslip Stainless Steel Dog Cat Bowls, 2 US Cup Each, 2 Pack",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "slow[- ]feed|elevated|raised|ceramic|puzzle",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B07L3H9D39",
+   "name": "Deep Stainless Steel Bowls, 8 Cup (2-Pack)",
+   "type": "bowls",
+   "fit": {
+    "wmin": 35,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "(stainless|steel|metal|non[- ]?slip|non[- ]?skid|non[- ]tip) (steel )?(food |water )?bowls?",
+    "food and water bowls?",
+    "\\b(food|water) bowls?\\b",
+    "\\bbowls\\b"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A two-pack of deep 8-cup stainless bowls with a non-slip base, sized for large dogs.",
+   "caveat": "",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Deep Stainless Steel Dog Bowls, 8 US Cup Each, 2-Pack",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "slow[- ]feed|elevated|raised|ceramic|puzzle",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B002OY0Q9K",
+   "name": "Purina Pro Plan Large Breed Puppy, Chicken & Rice (34 lb)",
+   "type": "dry_food",
+   "fit": {
+    "wmin": 50,
+    "wmax": null,
+    "life_stage": "puppy",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "puppy (food|kibble|formula|diet)",
+    "(large|small|toy|giant)[- ]breed puppy (food|formula|kibble)",
+    "growth (formula|food|diet)",
+    "(food|kibble|diet) (formulated |labeled |made |designed )?for (puppies|growth)",
+    "\\bAAFCO\\b"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Purina Pro Plan's large-breed puppy formula, with chicken as the first ingredient and growth-rate nutrition for breeds that finish over 50 pounds.",
+   "caveat": "Check that the bag's AAFCO statement covers growth including large-size dogs, and ask your vet about portions and when to move to adult food.",
+   "priority": 1,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Purina Pro Plan Large Breed Dry Puppy Food, Chicken & Rice, 34 lb Bag",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "adult (food|formula|kibble)|switch(ing)? to adult|transition(ing)? to adult|raw (diet|feeding)|home[- ]?cooked",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "small[- ]breed|toy[- ]breed"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B003R0LLA8",
+   "name": "Purina Pro Plan Puppy, Chicken & Rice (34 lb)",
+   "type": "dry_food",
+   "fit": {
+    "wmin": 20,
+    "wmax": 55,
+    "life_stage": "puppy",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "puppy (food|kibble|formula|diet)",
+    "(large|small|toy|giant)[- ]breed puppy (food|formula|kibble)",
+    "growth (formula|food|diet)",
+    "(food|kibble|diet) (formulated |labeled |made |designed )?for (puppies|growth)",
+    "\\bAAFCO\\b"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Purina Pro Plan's standard high-protein puppy formula with chicken as the first ingredient, for breeds that mature in the medium range.",
+   "caveat": "Ask your vet about portions and when to move to adult food.",
+   "priority": 1,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Purina Pro Plan High Protein Dry Puppy Food, Chicken & Rice, 34 lb Bag",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "adult (food|formula|kibble)|switch(ing)? to adult|transition(ing)? to adult|raw (diet|feeding)|home[- ]?cooked",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "small[- ]breed|toy[- ]breed|large[- ]breed|giant[- ]breed"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0018CFN9C",
+   "name": "Purina Pro Plan Small Breed Puppy, Chicken & Rice (6 lb)",
+   "type": "dry_food",
+   "fit": {
+    "wmin": null,
+    "wmax": 22,
+    "life_stage": "puppy",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "puppy (food|kibble|formula|diet)",
+    "(large|small|toy|giant)[- ]breed puppy (food|formula|kibble)",
+    "growth (formula|food|diet)",
+    "(food|kibble|diet) (formulated |labeled |made |designed )?for (puppies|growth)",
+    "\\bAAFCO\\b"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Purina Pro Plan's small-breed puppy formula, with kibble sized for small mouths and chicken as the first ingredient.",
+   "caveat": "Ask your vet about portions and when to move to adult food.",
+   "priority": 1,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Purina Pro Plan Small Breed Puppy Food, Chicken & Rice, 6 lb Bag",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "adult (food|formula|kibble)|switch(ing)? to adult|transition(ing)? to adult|raw (diet|feeding)|home[- ]?cooked",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "large[- ]breed|giant[- ]breed"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B085MH756K",
+   "name": "GoTags Personalized Stainless Steel ID Tag",
+   "type": "id_tag",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\bid tags?\\b",
+    "identification tags?",
+    "(engraved|name|dog|pet) tags?\\b",
+    "tag with (your|a) (phone|number|contact)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "An engraved stainless steel ID tag; you pick the shape and the lines of text at checkout.",
+   "caveat": "Put a phone number that's actually answered on it, and update the engraving if you move.",
+   "priority": 1,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "GoTags Stainless Steel Pet ID Tags, Personalized Dog Tags and Cat Tags",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "tag silencer|rabies tag|license tag",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B000ES6DJ0",
+   "name": "Chris Christensen Oval Pin Brush (27 mm)",
+   "type": "pin_brush",
+   "fit": {
+    "wmin": 12,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "long",
+     "feathered",
+     "double",
+     "curly"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "pin brush(es)?"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Chris Christensen's Original Series oval pin brush: 27 mm stainless pins without ball tips in a cushioned pad, made for long, silky and double coats.",
+   "caveat": "Brush in layers from the skin out; a pin brush is for daily maintenance, not for working out mats.",
+   "priority": 1,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Chris Christensen Dog Brush, 27 mm Oval Pin Brush, Original Series",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B010FEGHFM",
+   "name": "Chris Christensen Oval Pin Brush (20 mm)",
+   "type": "pin_brush",
+   "fit": {
+    "wmin": null,
+    "wmax": 14,
+    "life_stage": "any",
+    "coat": [
+     "long",
+     "feathered",
+     "double",
+     "curly"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "pin brush(es)?"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Chris Christensen's Original Series oval pin brush with 20 mm pins, the size for small and toy breeds.",
+   "caveat": "Brush in layers from the skin out; a pin brush is for daily maintenance, not for working out mats.",
+   "priority": 1,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Chris Christensen 20 mm Oval Pin Dog Brush, Original Series",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B07239T47Y",
+   "name": "Outward Hound Nina Ottosson Dog Tornado Puzzle",
+   "type": "puzzle_feeder",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "puzzle (toys?|feeders?|games?|bowls?)",
+    "food[- ]puzzles?",
+    "treat[- ]dispensing (toys?|balls?|puzzles?)",
+    "interactive (toys?|feeders?|puzzles?)",
+    "enrichment toys?",
+    "brain games?"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A level-2 Nina Ottosson puzzle: treats go into rotating layers the dog has to spin open, with removable bone covers to raise the difficulty.",
+   "caveat": "Supervise and put it away after the session; it's for feeding time, not a chew toy.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Outward Hound Nina Ottosson Dog Tornado Dog Toy Treat Puzzle",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B001OC5UMQ",
+   "name": "Regalo Easy Step Walk-Through Gate (29-38.5 in)",
+   "type": "pet_gate",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "(baby|pet|dog|safety|stair|door) gates?",
+    "gate (off|across)",
+    "block(ing)? off (a |the )?(room|doorway|stairs|kitchen)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A 29 to 38.5 inch pressure-mounted gate with a walk-through door, so you can block a doorway or the bottom of the stairs without drilling.",
+   "caveat": "Pressure-mounted gates belong in doorways or at the bottom of stairs, never at the top of a staircase.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Regalo Safety 29\"-38.5\" Easy Step Baby Gate",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "\\bcrates?\\b[^.]*\\bcrates?\\b|crate[- ]train",
+    "\\bkennels?\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B07584TRXX",
+   "name": "Amazon Basics 8-Panel Exercise Pen (24 in)",
+   "type": "exercise_pen",
+   "fit": {
+    "wmin": null,
+    "wmax": 25,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "(exercise|ex|play|puppy)[- ]?pens?\\b",
+    "\\bx-?pen",
+    "\\bplaypen"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "An 8-panel folding metal pen, 24 inches tall with a step-through door, for a puppy-safe zone in a room or yard.",
+   "caveat": "24 inches suits small breeds and young puppies; a dog that can jump it needs the taller version.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Amazon Basics Foldable Octagonal Metal Exercise Pen for Dogs, 8 Panels, 24 in",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "\\bcrates?\\b[^.]*\\bcrates?\\b|crate[- ]train",
+    "\\bkennels?\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0758FX7MJ",
+   "name": "Amazon Basics 8-Panel Exercise Pen (36 in)",
+   "type": "exercise_pen",
+   "fit": {
+    "wmin": 20,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "(exercise|ex|play|puppy)[- ]?pens?\\b",
+    "\\bx-?pen",
+    "\\bplaypen"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "An 8-panel folding metal pen, 36 inches tall with a step-through door, for a puppy-safe zone in a room or yard.",
+   "caveat": "36 inches is the height for medium and large puppies; anchor it so a leaning dog can't walk it across the floor.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Amazon Basics Foldable Metal Exercise Dog Playpen, 8 Panels, 36 in",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "\\bcrates?\\b[^.]*\\bcrates?\\b|crate[- ]train",
+    "\\bkennels?\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B06WLQPJ58",
+   "name": "SHELANDY High-Velocity Pet Dryer",
+   "type": "hv_dryer",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "double",
+     "long",
+     "curly",
+     "feathered"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "costs"
+   ],
+   "anchors": [
+    "(high[- ]velocity|forced?[- ]air|force|pet|dog|grooming) (hair )?dryer",
+    "blow[- ]?dry(er|ing)",
+    "\\bblower\\b",
+    "\\bdryer\\b"
+   ],
+   "exclude_if": [
+    "(avoid|don't|do not|never)[^.]{0,30}(dryer|blow[- ]?dry)"
+   ],
+   "extra_slugs": [],
+   "blurb": "A home high-velocity dryer with adjustable airflow and heat and interchangeable nozzles, for blowing water out of a thick coat after a bath.",
+   "caveat": "Keep the nozzle moving and away from the face and ears, and introduce the noise gradually.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "SHELANDY Groomer Partner Pet Hair Force Dryer Dog Grooming Blower with Heater",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B002GPEMCE",
+   "name": "TropiClean Detangling & Moisturizing Conditioner",
+   "type": "conditioner",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "long",
+     "curly",
+     "feathered",
+     "double"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\b(rinse[- ]out|moisturi[sz]ing|hydrating|dog|coat|oatmeal|detangling) conditioner",
+    "shampoo and (a )?conditioner",
+    "conditioner after (the |a )?(shampoo|bath)",
+    "conditioning (rinse|treatment)",
+    "\\bconditioner\\b(?![^.]{0,15}(spray|mist))"
+   ],
+   "exclude_if": [
+    "(avoid|skip|don't|do not)[^.]{0,30}(conditioner|softening)",
+    "avoid heavy conditioners"
+   ],
+   "extra_slugs": [],
+   "blurb": "TropiClean's rinse-out conditioner for detangling and moisturizing after a shampoo; the label covers puppies too.",
+   "caveat": "Rinse thoroughly; leftover conditioner attracts dirt.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "TropiClean Dog Conditioner, Easy Detangling & Moisturizing Conditioner, Puppy Safe",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "leave[- ]in|spray|mist",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B09Y7LKFSQ",
+   "name": "FURminator deShedding Ultra Premium Shampoo (16 oz)",
+   "type": "deshedding_shampoo",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "double"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "costs"
+   ],
+   "anchors": [
+    "de-?shedding (shampoo|bath|wash)",
+    "shedding[- ]control shampoo",
+    "shampoo[^.]{0,30}(reduce|loosen)[^.]{0,20}(shedding|undercoat)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "FURminator's deShedding shampoo for double coats, meant to loosen undercoat during the bath so the brush-out afterward takes less of it.",
+   "caveat": "It's a bath-time helper; the rake or deShedding tool after drying does the real work.",
+   "priority": 1,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "FURminator Ultra Premium deShedding Shampoo for Dogs, 16 oz",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B00BAGTNAQ",
+   "name": "ChomChom Roller Pet Hair Remover",
+   "type": "hair_roller",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "costs"
+   ],
+   "anchors": [
+    "lint rollers?",
+    "pet[- ]hair (remover|roller)",
+    "(fur|hair) (on|off) (the |your )?(furniture|couch|sofa|clothes|upholstery)",
+    "hair remover"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A reusable roller that sweeps hair off furniture and bedding into a chamber you empty, with no sticky sheets.",
+   "caveat": "",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "ChomChom Roller Pet Hair Remover",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "hand-?strip|groomer"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0017JBYAS",
+   "name": "Nylabone Puppy Pacifier Teething Chew",
+   "type": "chew_toy",
+   "fit": {
+    "wmin": null,
+    "wmax": 25,
+    "life_stage": "puppy",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "(durable|tough|sturdy|rubber|nylon|safe|appropriate) chew toys?",
+    "chew toys?",
+    "teething toys?",
+    "something (safe |appropriate )?to chew",
+    "chewing outlet",
+    "chew(ing)? (alternatives?|options?)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A softer puppy-formula chew for teething mouths, labeled for puppies up to 25 pounds.",
+   "caveat": "Puppy-formula chews are for baby teeth; move to an adult chew once the adult teeth are in.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Nylabone Puppy Pacifier Chew Toy, Teething Toys for Puppies up to 25 lbs",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\braw ?hide|antlers?|cooked bones?|real bones?|bully stick|edible",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B00MHZTKXY",
+   "name": "Benebone Wishbone Chew, Bacon (Small)",
+   "type": "chew_toy",
+   "fit": {
+    "wmin": null,
+    "wmax": 30,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "(durable|tough|sturdy|rubber|nylon|safe|appropriate) chew toys?",
+    "chew toys?",
+    "teething toys?",
+    "something (safe |appropriate )?to chew",
+    "chewing outlet",
+    "chew(ing)? (alternatives?|options?)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A nylon wishbone-shaped chew with real bacon flavor, shaped so the dog can hold it with its paws; the Small is for dogs up to 30 pounds.",
+   "caveat": "Nylon chews are for gnawing, not eating; replace it once the ends wear down to a size the dog could swallow.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Benebone Wishbone Dog Chew Toy, Real Bacon, Small",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\braw ?hide|antlers?|cooked bones?|real bones?|bully stick|edible",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B00CPDWT2M",
+   "name": "Benebone Wishbone Chew, Bacon (Medium)",
+   "type": "chew_toy",
+   "fit": {
+    "wmin": 25,
+    "wmax": 60,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "(durable|tough|sturdy|rubber|nylon|safe|appropriate) chew toys?",
+    "chew toys?",
+    "teething toys?",
+    "something (safe |appropriate )?to chew",
+    "chewing outlet",
+    "chew(ing)? (alternatives?|options?)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A nylon wishbone-shaped chew with real bacon flavor, shaped so the dog can hold it with its paws; the Medium is for dogs up to 60 pounds.",
+   "caveat": "Nylon chews are for gnawing, not eating; replace it once the ends wear down to a size the dog could swallow.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Benebone Wishbone Dog Chew Toy for Aggressive Chewers, Real Bacon, Medium",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\braw ?hide|antlers?|cooked bones?|real bones?|bully stick|edible",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B014JY9E9U",
+   "name": "Benebone Wishbone Chew, Bacon (Large)",
+   "type": "chew_toy",
+   "fit": {
+    "wmin": 50,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "(durable|tough|sturdy|rubber|nylon|safe|appropriate) chew toys?",
+    "chew toys?",
+    "teething toys?",
+    "something (safe |appropriate )?to chew",
+    "chewing outlet",
+    "chew(ing)? (alternatives?|options?)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A nylon wishbone-shaped chew with real bacon flavor, shaped so the dog can hold it with its paws; the Large is for dogs up to 90 pounds.",
+   "caveat": "Nylon chews are for gnawing, not eating; replace it once the ends wear down to a size the dog could swallow.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Benebone Wishbone Dog Chew Toy for Aggressive Chewers, Real Bacon, Large",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\braw ?hide|antlers?|cooked bones?|real bones?|bully stick|edible",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B073HFC82B",
+   "name": "Squishface Wrinkle Wipes (80 ct)",
+   "type": "wrinkle_wipes",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "(wrinkle|skin[- ]fold|fold) (wipes?|cleaning|care)",
+    "clean(ing)? (the |their |your dog's )?(wrinkles|skin folds|folds|tail pocket|nose rope)",
+    "between the (folds|wrinkles)",
+    "(wipe|dry)[^.]{0,30}(folds|wrinkles|tail pocket)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Alcohol-free wipes made for cleaning between skin folds, under the tail pocket and around tear-stain areas.",
+   "caveat": "Dry the fold after wiping; moisture left behind is what causes the trouble.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Squishface Wrinkle Wipes – Tear Stain & Deodorizing Dog Wipes, 80ct",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B08629589S",
+   "name": "Waterproof Long Line Training Leash (5-50 ft)",
+   "type": "long_line",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "long[- ]line",
+    "(long|recall|training) (lead|leash)",
+    "\\b(15|20|30|50)[- ](foot|ft) (lead|leash|line)",
+    "check cord"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A waterproof, wipe-clean long line sold in lengths from 5 to 50 feet, for recall practice before off-leash freedom.",
+   "caveat": "Let it drag only in open areas, and wear gloves in case the dog bolts.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Waterproof Dog Training Leash 50FT 30FT 15FT 10FT 5FT Heavy Duty Recall Long Leash",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0002AR15U",
+   "name": "KONG Classic (Small)",
+   "type": "stuffable_toy",
+   "fit": {
+    "wmin": null,
+    "wmax": 20,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\bkong\\b",
+    "stuffable (toys?|rubber)",
+    "(stuff|freeze|fill)[^.]{0,30}(toy|kong)",
+    "frozen (kong|toy)",
+    "food[- ]stuffed"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "The classic natural-rubber KONG in size Small, hollow so you can stuff and freeze it to keep a dog busy.",
+   "caveat": "Size up if in doubt; a KONG the dog can get fully in its mouth is a choking risk.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "KONG Classic Stuffable Dog Toy, Natural Rubber Chew, Small",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "(medium|large) kong"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B000AYN7LU",
+   "name": "KONG Classic (Medium)",
+   "type": "stuffable_toy",
+   "fit": {
+    "wmin": 15,
+    "wmax": 35,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\bkong\\b",
+    "stuffable (toys?|rubber)",
+    "(stuff|freeze|fill)[^.]{0,30}(toy|kong)",
+    "frozen (kong|toy)",
+    "food[- ]stuffed"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "The classic natural-rubber KONG in size Medium, hollow so you can stuff and freeze it to keep a dog busy.",
+   "caveat": "Size up if in doubt; a KONG the dog can get fully in its mouth is a choking risk.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "KONG Classic Stuffable Dog Toy, Natural Rubber Chew, Medium",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "small kong"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0002AR0I8",
+   "name": "KONG Classic (Large)",
+   "type": "stuffable_toy",
+   "fit": {
+    "wmin": 30,
+    "wmax": 65,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\bkong\\b",
+    "stuffable (toys?|rubber)",
+    "(stuff|freeze|fill)[^.]{0,30}(toy|kong)",
+    "frozen (kong|toy)",
+    "food[- ]stuffed"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "The classic natural-rubber KONG in size Large, hollow so you can stuff and freeze it to keep a dog busy.",
+   "caveat": "Size up if in doubt; a KONG the dog can get fully in its mouth is a choking risk.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "KONG Classic Stuffable Dog Toy, Natural Rubber Chew, Large",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "(small|medium|x-?large) kong"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0002AR0HO",
+   "name": "KONG Classic (X-Large)",
+   "type": "stuffable_toy",
+   "fit": {
+    "wmin": 60,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\bkong\\b",
+    "stuffable (toys?|rubber)",
+    "(stuff|freeze|fill)[^.]{0,30}(toy|kong)",
+    "frozen (kong|toy)",
+    "food[- ]stuffed"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "The classic natural-rubber KONG in size X-Large, hollow so you can stuff and freeze it to keep a dog busy.",
+   "caveat": "Size up if in doubt; a KONG the dog can get fully in its mouth is a choking risk.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "KONG Classic Stuffable Dog Toy, Natural Rubber Chew, X-Large",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0002ARR2W",
+   "name": "Coastal Safari De-Matting Comb",
+   "type": "dematting_comb",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "long",
+     "curly",
+     "feathered",
+     "double"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "de-?matting (comb|tool|rake)",
+    "mat (splitter|breaker|rake|comb)",
+    "(work|break|tease)(ing)? (out|up|apart) (the |small |any )?mats"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A serrated stainless de-matting comb that cuts through a mat in strips so it can be brushed out instead of shaved.",
+   "caveat": "Blades face away from the skin; hold the mat at the base and work from the tips in. Tight mats on the skin are a groomer job.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Coastal Pet Safari Dog De-Matting Comb",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "scissors|shave|clipper",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "de-?matting (charge|fee|session|appointment|cost)"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B00OGLN6KA",
+   "name": "Mars Stripping Knife (Medium)",
+   "type": "stripping_knife",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "wire"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "costs"
+   ],
+   "anchors": [
+    "stripping (knife|knives|stone|tool)",
+    "hand[- ]strip(ping)? (at home|yourself|your own|the coat yourself)",
+    "learn(ing)? to (hand[- ])?strip",
+    "DIY (hand[- ])?stripping"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A Mars medium slant-tooth stripping knife for pulling dead wire coat from the body.",
+   "caveat": "The knife is a grip aid; the pull comes from the wrist, and the coat has to be ready (dead and loose) or it hurts the dog.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Mars Professional Dog Stripping Knife Grooming Tool, Medium Slant Tooth",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "professional|groomer",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B00OGLN90C",
+   "name": "Mars Stripping Knife (Fine)",
+   "type": "stripping_knife",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "wire"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "costs"
+   ],
+   "anchors": [
+    "stripping (knife|knives|stone|tool)",
+    "hand[- ]strip(ping)? (at home|yourself|your own|the coat yourself)",
+    "learn(ing)? to (hand[- ])?strip",
+    "DIY (hand[- ])?stripping"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A Mars fine slant-tooth stripping knife for the head, ears and finer furnishings.",
+   "caveat": "The knife is a grip aid; the pull comes from the wrist, and the coat has to be ready (dead and loose) or it hurts the dog.",
+   "priority": 3,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Mars Professional Dog Stripping Knife Grooming Tool, Fine Slant Tooth",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "professional|groomer",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0DZC33MRF",
+   "name": "Feandrea 3-Step Foam Dog Stairs",
+   "type": "dog_stairs",
+   "fit": {
+    "wmin": null,
+    "wmax": 30,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "(dog|pet) (stairs|steps)",
+    "\\bramps?\\b",
+    "(stairs|steps) (to|up to|for) the (bed|couch|sofa|car)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Three-step foam dog stairs with a gentle slope and a washable non-slip cover, for getting onto a bed or sofa without jumping.",
+   "caveat": "Set them flush against the furniture so they can't shift, and teach the dog to use them with treats.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Feandrea 3-Step Dog Stairs, Waterproof, Anti-Slip, Gentle Slope",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\bIVDD\\b|prevent",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0002H3RBU",
+   "name": "Kwik Stop Styptic Powder",
+   "type": "styptic",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "styptic",
+    "k?wik ?stop",
+    "(cut|clip|nick|trim)(ting|ped|med)? (into )?(the )?quick\\b",
+    "\\bquick\\b[^.]{0,30}bleed",
+    "nails?[^.]{0,40}bleed"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Kwik Stop styptic powder, pressed onto a nail that's been cut too short to stop the bleeding.",
+   "caveat": "For nails only; keep it away from eyes and off open wounds elsewhere.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Miracle Care Kwik Stop Styptic Powder for Dogs, Cats, and Birds",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B07MZBX5ZW",
+   "name": "FURminator deShedding Tool (Large, Short Hair)",
+   "type": "deshedding_tool",
+   "fit": {
+    "wmin": 51,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "short"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "costs"
+   ],
+   "anchors": [
+    "furminator",
+    "de-?shedding (tool|comb)"
+   ],
+   "exclude_if": [
+    "(skip|avoid) (the )?furminator",
+    "furminator[^.]{0,40}not appropriate",
+    "avoid furminator",
+    "furminator gets marketed",
+    "de-?shedding tools?[^.]{0,80}(damage|not appropriate)",
+    "(avoid|skip) (the furminator and similar )?de-?shedding tools?",
+    "(doesn't|does not|don't|do not) (require|need)[^.]{0,40}de-?shedding tools?",
+    "(\\bno\\b|doesn't need|don't need|not need|never|skip|avoid|unnecessary)[^.]{0,40}(de-?shedding|rake|furminator)"
+   ],
+   "extra_slugs": [],
+   "blurb": "Made for dogs over 50 pounds with long hair, it reaches through the topcoat to lift loose undercoat, and a button releases the collected hair.",
+   "caveat": "Use light pressure and only during heavy shedding; bearing down can thin the topcoat.",
+   "priority": 2,
+   "skip": false,
+   "notes": "Added 2026-10-08 (batch 3 variant of B07MZDTG76).",
+   "short": "",
+   "title_raw": "FURminator deShedding Tool (Large, Short Hair)",
+   "extra_slug_priority": {},
+   "exclude_slugs": [
+    "greater-swiss-mountain-dog",
+    "greater-swiss-mountain-dog-first-year-costs",
+    "greater-swiss-mountain-dog-grooming-guide",
+    "greater-swiss-mountain-dog-puppy-checklist",
+    "labrador-retriever",
+    "labrador-retriever-first-year-costs",
+    "labrador-retriever-grooming-guide",
+    "labrador-retriever-puppy-checklist",
+    "rottweiler",
+    "rottweiler-first-year-costs",
+    "rottweiler-grooming-guide",
+    "rottweiler-puppy-checklist"
+   ],
+   "last_sentence_only": true,
+   "element_exclude": [
+    "(\\bno\\b|doesn't need|don't need|not need|never|skip|avoid|unnecessary)[^.]{0,40}(de-?shedding|rake|furminator)"
+   ]
+  },
+  {
+   "asin": "B07PK5ZCZ6",
+   "name": "FURminator deShedding Tool (Medium, Long Hair)",
+   "type": "deshedding_tool",
+   "fit": {
+    "wmin": 21,
+    "wmax": 50,
+    "life_stage": "any",
+    "coat": [
+     "double",
+     "long",
+     "feathered"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "costs"
+   ],
+   "anchors": [
+    "furminator",
+    "de-?shedding (tool|comb)"
+   ],
+   "exclude_if": [
+    "(skip|avoid) (the )?furminator",
+    "furminator[^.]{0,40}not appropriate",
+    "avoid furminator",
+    "furminator gets marketed",
+    "de-?shedding tools?[^.]{0,80}(damage|not appropriate)",
+    "(avoid|skip) (the furminator and similar )?de-?shedding tools?",
+    "(doesn't|does not|don't|do not) (require|need)[^.]{0,40}de-?shedding tools?",
+    "(\\bno\\b|doesn't need|don't need|not need|never|skip|avoid|unnecessary)[^.]{0,40}(de-?shedding|rake|furminator)"
+   ],
+   "extra_slugs": [],
+   "blurb": "Made for dogs over 50 pounds with long hair, it reaches through the topcoat to lift loose undercoat, and a button releases the collected hair.",
+   "caveat": "Use light pressure and only during heavy shedding; bearing down can thin the topcoat.",
+   "priority": 2,
+   "skip": false,
+   "notes": "Added 2026-10-08 (batch 3 variant of B07MZDTG76).",
+   "short": "",
+   "title_raw": "FURminator deShedding Tool (Medium, Long Hair)",
+   "extra_slug_priority": {},
+   "exclude_slugs": [
+    "greater-swiss-mountain-dog",
+    "greater-swiss-mountain-dog-first-year-costs",
+    "greater-swiss-mountain-dog-grooming-guide",
+    "greater-swiss-mountain-dog-puppy-checklist",
+    "labrador-retriever",
+    "labrador-retriever-first-year-costs",
+    "labrador-retriever-grooming-guide",
+    "labrador-retriever-puppy-checklist",
+    "rottweiler",
+    "rottweiler-first-year-costs",
+    "rottweiler-grooming-guide",
+    "rottweiler-puppy-checklist"
+   ],
+   "last_sentence_only": true,
+   "element_exclude": [
+    "(\\bno\\b|doesn't need|don't need|not need|never|skip|avoid|unnecessary)[^.]{0,40}(de-?shedding|rake|furminator)"
+   ]
+  },
+  {
+   "asin": "B07MZD93QQ",
+   "name": "FURminator deShedding Tool (Medium, Short Hair)",
+   "type": "deshedding_tool",
+   "fit": {
+    "wmin": 21,
+    "wmax": 50,
+    "life_stage": "any",
+    "coat": [
+     "short"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "costs"
+   ],
+   "anchors": [
+    "furminator",
+    "de-?shedding (tool|comb)"
+   ],
+   "exclude_if": [
+    "(skip|avoid) (the )?furminator",
+    "furminator[^.]{0,40}not appropriate",
+    "avoid furminator",
+    "furminator gets marketed",
+    "de-?shedding tools?[^.]{0,80}(damage|not appropriate)",
+    "(avoid|skip) (the furminator and similar )?de-?shedding tools?",
+    "(doesn't|does not|don't|do not) (require|need)[^.]{0,40}de-?shedding tools?",
+    "(\\bno\\b|doesn't need|don't need|not need|never|skip|avoid|unnecessary)[^.]{0,40}(de-?shedding|rake|furminator)"
+   ],
+   "extra_slugs": [],
+   "blurb": "Made for dogs over 50 pounds with long hair, it reaches through the topcoat to lift loose undercoat, and a button releases the collected hair.",
+   "caveat": "Use light pressure and only during heavy shedding; bearing down can thin the topcoat.",
+   "priority": 2,
+   "skip": false,
+   "notes": "Added 2026-10-08 (batch 3 variant of B07MZDTG76).",
+   "short": "",
+   "title_raw": "FURminator deShedding Tool (Medium, Short Hair)",
+   "extra_slug_priority": {},
+   "exclude_slugs": [
+    "greater-swiss-mountain-dog",
+    "greater-swiss-mountain-dog-first-year-costs",
+    "greater-swiss-mountain-dog-grooming-guide",
+    "greater-swiss-mountain-dog-puppy-checklist",
+    "labrador-retriever",
+    "labrador-retriever-first-year-costs",
+    "labrador-retriever-grooming-guide",
+    "labrador-retriever-puppy-checklist",
+    "rottweiler",
+    "rottweiler-first-year-costs",
+    "rottweiler-grooming-guide",
+    "rottweiler-puppy-checklist"
+   ],
+   "last_sentence_only": true,
+   "element_exclude": [
+    "(\\bno\\b|doesn't need|don't need|not need|never|skip|avoid|unnecessary)[^.]{0,40}(de-?shedding|rake|furminator)"
+   ]
+  },
+  {
+   "asin": "B07NV5C3PF",
+   "name": "FURminator deShedding Tool (Small, Long Hair)",
+   "type": "deshedding_tool",
+   "fit": {
+    "wmin": null,
+    "wmax": 20,
+    "life_stage": "any",
+    "coat": [
+     "double",
+     "long",
+     "feathered"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "costs"
+   ],
+   "anchors": [
+    "furminator",
+    "de-?shedding (tool|comb)"
+   ],
+   "exclude_if": [
+    "(skip|avoid) (the )?furminator",
+    "furminator[^.]{0,40}not appropriate",
+    "avoid furminator",
+    "furminator gets marketed",
+    "de-?shedding tools?[^.]{0,80}(damage|not appropriate)",
+    "(avoid|skip) (the furminator and similar )?de-?shedding tools?",
+    "(doesn't|does not|don't|do not) (require|need)[^.]{0,40}de-?shedding tools?",
+    "(\\bno\\b|doesn't need|don't need|not need|never|skip|avoid|unnecessary)[^.]{0,40}(de-?shedding|rake|furminator)"
+   ],
+   "extra_slugs": [],
+   "blurb": "Made for dogs over 50 pounds with long hair, it reaches through the topcoat to lift loose undercoat, and a button releases the collected hair.",
+   "caveat": "Use light pressure and only during heavy shedding; bearing down can thin the topcoat.",
+   "priority": 2,
+   "skip": false,
+   "notes": "Added 2026-10-08 (batch 3 variant of B07MZDTG76).",
+   "short": "",
+   "title_raw": "FURminator deShedding Tool (Small, Long Hair)",
+   "extra_slug_priority": {},
+   "exclude_slugs": [
+    "greater-swiss-mountain-dog",
+    "greater-swiss-mountain-dog-first-year-costs",
+    "greater-swiss-mountain-dog-grooming-guide",
+    "greater-swiss-mountain-dog-puppy-checklist",
+    "labrador-retriever",
+    "labrador-retriever-first-year-costs",
+    "labrador-retriever-grooming-guide",
+    "labrador-retriever-puppy-checklist",
+    "rottweiler",
+    "rottweiler-first-year-costs",
+    "rottweiler-grooming-guide",
+    "rottweiler-puppy-checklist"
+   ],
+   "last_sentence_only": true,
+   "element_exclude": [
+    "(\\bno\\b|doesn't need|don't need|not need|never|skip|avoid|unnecessary)[^.]{0,40}(de-?shedding|rake|furminator)"
+   ]
+  },
+  {
+   "asin": "B07MZDTHPV",
+   "name": "FURminator deShedding Tool (Small, Short Hair)",
+   "type": "deshedding_tool",
+   "fit": {
+    "wmin": null,
+    "wmax": 20,
+    "life_stage": "any",
+    "coat": [
+     "short"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "costs"
+   ],
+   "anchors": [
+    "furminator",
+    "de-?shedding (tool|comb)"
+   ],
+   "exclude_if": [
+    "(skip|avoid) (the )?furminator",
+    "furminator[^.]{0,40}not appropriate",
+    "avoid furminator",
+    "furminator gets marketed",
+    "de-?shedding tools?[^.]{0,80}(damage|not appropriate)",
+    "(avoid|skip) (the furminator and similar )?de-?shedding tools?",
+    "(doesn't|does not|don't|do not) (require|need)[^.]{0,40}de-?shedding tools?",
+    "(\\bno\\b|doesn't need|don't need|not need|never|skip|avoid|unnecessary)[^.]{0,40}(de-?shedding|rake|furminator)"
+   ],
+   "extra_slugs": [],
+   "blurb": "Made for dogs over 50 pounds with long hair, it reaches through the topcoat to lift loose undercoat, and a button releases the collected hair.",
+   "caveat": "Use light pressure and only during heavy shedding; bearing down can thin the topcoat.",
+   "priority": 2,
+   "skip": false,
+   "notes": "Added 2026-10-08 (batch 3 variant of B07MZDTG76).",
+   "short": "",
+   "title_raw": "FURminator deShedding Tool (Small, Short Hair)",
+   "extra_slug_priority": {},
+   "exclude_slugs": [
+    "greater-swiss-mountain-dog",
+    "greater-swiss-mountain-dog-first-year-costs",
+    "greater-swiss-mountain-dog-grooming-guide",
+    "greater-swiss-mountain-dog-puppy-checklist",
+    "labrador-retriever",
+    "labrador-retriever-first-year-costs",
+    "labrador-retriever-grooming-guide",
+    "labrador-retriever-puppy-checklist",
+    "rottweiler",
+    "rottweiler-first-year-costs",
+    "rottweiler-grooming-guide",
+    "rottweiler-puppy-checklist"
+   ],
+   "last_sentence_only": true,
+   "element_exclude": [
+    "(\\bno\\b|doesn't need|don't need|not need|never|skip|avoid|unnecessary)[^.]{0,40}(de-?shedding|rake|furminator)"
+   ]
+  },
+  {
+   "asin": "B00B8CG58U",
+   "name": "Seresto 8-Month Flea & Tick Collar (Small Dogs up to 18 lb)",
+   "type": "flea_tick_collar",
+   "fit": {
+    "wmin": null,
+    "wmax": 18,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [],
+   "anchors": [
+    "flea\\s?(,|/|and|&)\\s?tick\\s(prevention|preventives?|protection|control|treatment|medication)",
+    "tick\\s(and|&|/)\\s?flea\\s(prevention|preventives?|protection|control)",
+    "(heartworm|parasite)\\s?(,|/|and|&)\\s?(and\\s)?flea",
+    "\\bflea prevention",
+    "\\btick prevention"
+   ],
+   "exclude_if": [
+    "(avoid|skip|don't use|do not use)[^.]{0,30}(flea|tick) (collar|topical|spot-on)"
+   ],
+   "extra_slugs": [
+    "best-dogs-for-hiking"
+   ],
+   "blurb": "An 8-month flea and tick collar for dogs up to 18 pounds that works on contact, so fleas don't have to bite to be killed.",
+   "caveat": "This size is for dogs up to 18 lb; check the minimum age for puppies and keep children from handling it. Ask your vet which preventive fits your dog; it doesn't prevent heartworm.",
+   "priority": 2,
+   "skip": false,
+   "notes": "Added 2026-10-08 (batch 3 variant of B00B8CG602).",
+   "short": "",
+   "title_raw": "Seresto Small Dog Flea & Tick Collar",
+   "extra_slug_priority": {
+    "dog-tick-prevention-lyme-disease-guide": 1,
+    "best-dogs-for-hiking": 3
+   },
+   "exclude_slugs": [],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0CLB45VP2",
+   "name": "Ruffwear Front Range Harness (XX-Small)",
+   "type": "harness",
+   "fit": {
+    "wmin": null,
+    "wmax": 10,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "costs"
+   ],
+   "anchors": [
+    "front[- ]clip harness",
+    "no[- ]pull harness",
+    "\\bharness(es)?\\b"
+   ],
+   "exclude_if": [
+    "harness[^.]{0,40}(not recommended|avoid)",
+    "sized for a puppy"
+   ],
+   "extra_slugs": [],
+   "blurb": "A foam-padded everyday harness with two leash points: a back ring and a chest attachment for redirecting dogs that pull.",
+   "caveat": "Measure chest girth against Ruffwear's chart; this is XX-Small (13-17 in girth).",
+   "priority": 1,
+   "skip": false,
+   "notes": "Added 2026-10-08 (batch 3 variant of B0CLB4ZBWF).",
+   "short": "",
+   "title_raw": "Ruffwear Front Range Dog Chest Harness, XX-Small",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "element_exclude": [
+    "canicross|bikejoring|skijoring|\\bsled|mushing",
+    "surgery|medication|four figures"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0C15NL6GX",
+   "name": "WOOF Pupsicle Treat Toy (Small, 10-25 lb)",
+   "type": "pupsicle_toy",
+   "fit": {
+    "wmin": 8,
+    "wmax": 25,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "pupsicle",
+    "pupsicle",
+    "long[- ]lasting (treat|chew) toy",
+    "treat[- ]holding toy"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "The Pupsicle toy itself (Small, 10-25 lb): a rubber shell that holds a frozen treat pop so the dog licks instead of chews.",
+   "caveat": "Use it with the Pupsicle pops or frozen homemade fillings; take it away once the pop is gone.",
+   "priority": 1,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Pupsicle Interactive Dog Ball Toy (Small, 10-25 lb)",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0C15QKM3X",
+   "name": "WOOF Pupsicle Treat Toy (Large, 25-75 lb)",
+   "type": "pupsicle_toy",
+   "fit": {
+    "wmin": 25,
+    "wmax": 80,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "pupsicle",
+    "pupsicle",
+    "long[- ]lasting (treat|chew) toy",
+    "treat[- ]holding toy"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "The Pupsicle toy itself (Large, 25-75 lb): a rubber shell that holds a frozen treat pop so the dog licks instead of chews.",
+   "caveat": "Use it with the Pupsicle pops or frozen homemade fillings; take it away once the pop is gone.",
+   "priority": 1,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Pupsicle Interactive Dog Ball Toy (Large, 25-75 lb)",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0DKW8XLPV",
+   "name": "Fleece Dog Sweaters, Small Breeds (3-Pack)",
+   "type": "dog_sweater",
+   "fit": {
+    "wmin": null,
+    "wmax": 20,
+    "life_stage": "any",
+    "coat": [
+     "short",
+     "hairless",
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\bsweaters?\\b",
+    "(winter|insulated|fleece|warm|padded|waterproof) (dog )?(coats?|jackets?)\\b",
+    "dog (jackets?|coats? for (cold|winter))"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A three-pack of fleece pullover sweaters in small-dog sizes for short-coated and hairless breeds on cold days.",
+   "caveat": "Measure chest and back length, and take it off indoors so the dog doesn't overheat.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "3 Pack Dog Sweaters for Small Dogs Winter Fleece",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B09FDMFXMH",
+   "name": "Sighthound Winter Coat (Whippet / Greyhound cut)",
+   "type": "dog_sweater",
+   "fit": {
+    "wmin": 18,
+    "wmax": 80,
+    "life_stage": "any",
+    "coat": [
+     "short"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "\\bsweaters?\\b",
+    "(winter|insulated|fleece|warm|padded|waterproof) (dog )?(coats?|jackets?)\\b",
+    "dog (jackets?|coats? for (cold|winter))"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A padded sighthound-cut winter jacket with a high neck and belly coverage, cut for Whippet and Greyhound frames.",
+   "caveat": "Measure chest and back length, and take it off indoors so the dog doesn't overheat.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Greyhound Lurcher Winter Coat, Whippet Jacket with Padded Fleece",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B00L3O4JI6",
+   "name": "Outward Hound Fun Feeder Slo Bowl (Small, 8.8 in)",
+   "type": "slow_feeder",
+   "fit": {
+    "wmin": null,
+    "wmax": 40,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "slow[- ]feed(er|ing)?( bowl| dish)?",
+    "puzzle bowl",
+    "eats? (too|really) (fast|quickly)",
+    "gulp(s|ing)? (down )?(food|meals|dinner)",
+    "inhal(es|ing) (food|meals|dinner)",
+    "maze bowl"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A maze-pattern bowl that makes the dog eat around ridges and stretches a meal out; the 8.8-inch size holds about 2 cups.",
+   "caveat": "Slower eating is the only claim; it isn't a bloat preventive.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Outward Hound Fun Feeder Slo Bowl Dog Slow Feeder, Drop, 8.8 in",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0787KPCPX",
+   "name": "Outward Hound Fun Feeder Slo Bowl (Large, 11.8 in)",
+   "type": "slow_feeder",
+   "fit": {
+    "wmin": 35,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "slow[- ]feed(er|ing)?( bowl| dish)?",
+    "puzzle bowl",
+    "eats? (too|really) (fast|quickly)",
+    "gulp(s|ing)? (down )?(food|meals|dinner)",
+    "inhal(es|ing) (food|meals|dinner)",
+    "maze bowl"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A maze-pattern bowl that makes the dog eat around ridges and stretches a meal out; the 11.8-inch size holds about 4 cups.",
+   "caveat": "Slower eating is the only claim; it isn't a bloat preventive.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Outward Hound Fun Feeder Slo Bowl Dog Slow Feeder, Notch, 11.8 in",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B01EINBA76",
+   "name": "Embark Breed + Health Dog DNA Test",
+   "type": "dna_kit",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "(DNA|genetic) (test|testing|kit|panel)",
+    "\\bMDR1\\b",
+    "\\bABCB1\\b",
+    "\\bembark\\b",
+    "wisdom panel"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "Embark's breed and health kit: a cheek swab that reports breed mix and screens over 250 genetic health markers, including MDR1.",
+   "caveat": "A genetic result is a conversation starter with your vet, not a diagnosis.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Embark Breed & Health Dog DNA Test",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "breeder[^.]{0,60}(test|clear|result|screen)|(ask|request|see)[^.]{0,40}breeder|\\bOFA\\b|\\bCHIC\\b",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "insurance|enroll",
+    "point of purchase|box was checked|checked at"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B000NV87FG",
+   "name": "Chris Christensen White on White Shampoo (16 oz)",
+   "type": "whitening_shampoo",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "costs"
+   ],
+   "anchors": [
+    "whiten(ing)? shampoo",
+    "bright(ening)? shampoo",
+    "(white|whitening|brightening)[- ]coat (shampoo|formula)",
+    "shampoo (made |formulated )?for white (coats?|dogs|fur)",
+    "keep(ing|s)? (the |a |their )?(white )?coat (white|bright)"
+   ],
+   "exclude_if": [
+    "(don't|do not|never|avoid)[^.]{0,40}(whitening|bleach)"
+   ],
+   "extra_slugs": [],
+   "blurb": "Chris Christensen White on White, an optical-brightener shampoo for white and light coats that works without bleach or peroxide.",
+   "caveat": "Leave it on a few minutes before rinsing, and follow with a conditioner on long coats.",
+   "priority": 1,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "White on White Whitening Treatment Dog Shampoo (16OZ)",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "(don't|do not|never|avoid|skip)[^.]{0,50}(whiten|bleach|brighten)|natural markings|alter them|per session|groomer"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0F6PMKW4M",
+   "name": "Heavy-Duty Rope Toys, 20 in (2-Pack)",
+   "type": "rope_toy",
+   "fit": {
+    "wmin": 20,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "rope toys?",
+    "tug toys?",
+    "tug[- ]of[- ]war",
+    "game of tug"
+   ],
+   "exclude_if": [
+    "(avoid|discourage|skip)[^.]{0,30}tug"
+   ],
+   "extra_slugs": [],
+   "blurb": "A two-pack of 20-inch heavy-duty rope toys for tug and fetch, long enough to keep hands clear of teeth.",
+   "caveat": "Retire a rope once it frays; swallowed strands mean a vet visit.",
+   "priority": 3,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "2-Pack 20 in Heavy-Duty Dog Rope Toys for Strong Chewers",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B06X9NQ8GX",
+   "name": "Amazon Basics Digital Kitchen Scale",
+   "type": "kitchen_scale",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "kitchen scale",
+    "(weigh|weighing) (the |each |their |out )?(food|kibble|meals?|portions?)",
+    "measur(e|ed|ing) (food |portions |meals )?by weight",
+    "\\bin grams\\b"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "An Amazon Basics digital kitchen scale that reads in grams, for portioning kibble by weight instead of by cup.",
+   "caveat": "",
+   "priority": 3,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Amazon Basics Digital Kitchen Scale with LCD Display",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0002DJOMU",
+   "name": "Gamma2 Vittles Vault Food Container (20 lb)",
+   "type": "food_container",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "(airtight|sealed|food[- ]storage) (storage )?(container|bin|vault)",
+    "food storage",
+    "stor(e|ing) (the |dry |their )?(food|kibble)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A 20-pound airtight Vittles Vault that keeps a bag of kibble sealed from air and pests.",
+   "caveat": "Keep the kibble in its original bag inside the vault so the lot number stays with the food.",
+   "priority": 3,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Gamma2 Vittles Vault Dog Food Storage Container, 20 Pound",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B002AI39QW",
+   "name": "K-9 Care Dog Sunscreen",
+   "type": "dog_sunscreen",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "hairless",
+     "short",
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "checklist"
+   ],
+   "anchors": [
+    "(dog|pet)[- ](safe |specific |formulated )?sunscreen",
+    "sunscreen (made |formulated )?for dogs",
+    "sun(burn)? protection",
+    "\\bsunblock\\b"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A sunscreen formulated for dogs, for noses, ear tips and thin-coated or hairless skin.",
+   "caveat": "Never use human sunscreen containing zinc oxide on a dog; it's toxic if licked.",
+   "priority": 3,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "K-9 Care Sunscreen, Paws to Tail Protection",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B08GQCRG4P",
+   "name": "Hyper Pet Classic Buddy Lick Mat",
+   "type": "lick_mat",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "lick ?mats?",
+    "lickimat",
+    "lick(ing)? (pad|mat)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A silicone lick mat you smear with soft food and freeze for a slow, calming treat.",
+   "caveat": "Supervise; a dog that chews the mat rather than licking it should have it taken away.",
+   "priority": 3,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Hyper Pet Classic Buddy Slow Feeder Lick Mat",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0F9V6TSY7",
+   "name": "Snuffle Mat for Dogs",
+   "type": "snuffle_mat",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "snuffle ?mats?",
+    "scatter[- ]feed(ing)?",
+    "nose ?work (mat|game)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A fabric snuffle mat that hides kibble in fleece folds so the dog hunts for each piece.",
+   "caveat": "Wash it regularly and don't leave it with a dog that shreds fabric.",
+   "priority": 3,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Snuffle Mat for Dogs, Slow Feeder Interactive Puzzle",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B0CR6G4DH2",
+   "name": "Gel Cooling Mat (44 x 32 in)",
+   "type": "cooling_mat",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "cooling (mat|pad|bed)",
+    "cool(ing)? gel (mat|pad)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [
+    "keep-double-coated-dogs-cool-in-summer"
+   ],
+   "blurb": "A pressure-activated gel cooling mat, 44 by 32 inches, that absorbs body heat for a few hours and recharges on its own.",
+   "caveat": "It's for a dog that chooses to lie on it in a shaded spot; it doesn't replace shade, water and rest on hot days.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {
+    "keep-double-coated-dogs-cool-in-summer": 1
+   },
+   "exclude_slugs": [],
+   "title_raw": "Dog Cooling Mat 2.0, 44 x 32 in",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B09SWKX1DL",
+   "name": "36 in Folding Grooming Table with Arm",
+   "type": "grooming_table",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "grooming",
+    "costs"
+   ],
+   "anchors": [
+    "grooming (table|arm)",
+    "table with (an |a )?(arm|noose|loop)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A 36-inch folding grooming table with an adjustable arm and loop and a non-slip top.",
+   "caveat": "Never leave a dog alone in the loop, even for a second.",
+   "priority": 3,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "36'' Foldable Dog Grooming Table with Arms/Nooses/Mesh Tray",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "\\bfall|injur|jump"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B085B1P649",
+   "name": "Squishy Face Flirt Pole V2 (36 in)",
+   "type": "flirt_pole",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "flirt pole"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A flirt pole: a flexible 36-inch pole with a lure on a cord, for burning energy in a small space and practicing drop-it.",
+   "caveat": "Keep the lure low for puppies and large breeds so they aren't leaping and twisting on growing joints.",
+   "priority": 3,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Flirt Pole V2, Regular 36 in",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B01CPUMP46",
+   "name": "1.5 in Martingale Collar",
+   "type": "martingale_collar",
+   "fit": {
+    "wmin": null,
+    "wmax": null,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "martingale"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A 1.5-inch limited-slip martingale that tightens just enough to stop a narrow head from slipping out, without choking.",
+   "caveat": "Fit it so the two rings don't meet when tightened, and take it off when the dog is unsupervised.",
+   "priority": 1,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "1.5\" Martingale Collar for Dogs, Adjustable Nylon, Made in USA",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b"
+   ],
+   "last_sentence_only": true
+  },
+  {
+   "asin": "B08CXQY47M",
+   "name": "Bedsure Calming Donut Bed (Small)",
+   "type": "donut_bed",
+   "fit": {
+    "wmin": null,
+    "wmax": 20,
+    "life_stage": "any",
+    "coat": [
+     "any"
+    ]
+   },
+   "page_types": [
+    "checklist",
+    "costs"
+   ],
+   "anchors": [
+    "(donut|calming|round|nest|cuddler|plush) bed\\b",
+    "soft bed\\b(?!ding)",
+    "bed (to|where|they can) (curl|burrow|nest)"
+   ],
+   "exclude_if": [],
+   "extra_slugs": [],
+   "blurb": "A round faux-fur calming bed with a raised rim that small dogs can curl into.",
+   "caveat": "Check the size chart; this is the Small.",
+   "priority": 2,
+   "skip": false,
+   "short": "",
+   "extra_slug_priority": {},
+   "exclude_slugs": [],
+   "title_raw": "Bedsure Calming Small Dog Bed Donut Washable",
+   "notes": "Added 2026-10-08 (batch 3: gap fill, ASINs picked via owner's Amazon session).",
+   "element_exclude": [
+    "orthopedic|\\bXL\\b",
+    "\\b(Grooming Guide|Puppy Checklist|First[- ]Year Costs)\\b",
+    "\\bcrates?\\b|\\bkennels?\\b"
+   ],
+   "last_sentence_only": true
   }
  ],
  "size_variants": [
