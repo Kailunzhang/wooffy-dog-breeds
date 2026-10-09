@@ -116,6 +116,18 @@
 #wq-root .wq-check-out ul{margin-top:4px;}
 #wq-root .wq-pts{color:var(--wq-muted);font-weight:600;white-space:nowrap;}
 #wq-root .wq-adopt{background:var(--wq-mint);border:1px solid #cfe5e0;}
+/* entry breed (?breed=): note on the first question, spotlight at the top of the results */
+#wq-root .wq-entry{background:var(--wq-mint);border:1px solid #cfe5e0;border-radius:12px;padding:12px 14px;margin:0 0 16px;font-size:15px;line-height:1.55;color:var(--wq-ink);}
+#wq-root .wq-spot{background:var(--wq-mint);border:1px solid #cfe5e0;margin:16px 0 8px;}
+#wq-root .wq-spot-head{display:flex;align-items:center;gap:14px;margin-bottom:10px;}
+#wq-root .wq-spot-head .wq-eyebrow{margin-bottom:2px;}
+#wq-root .wq-spot-head .wq-panel-h{margin-bottom:0;line-height:1.3;}
+#wq-root .wq-spot-img{position:relative;flex:0 0 72px;width:72px;height:72px;border-radius:12px;overflow:hidden;background:#efe9df;}
+#wq-root .wq-spot-img .wq-initial{position:absolute;top:0;left:0;right:0;bottom:0;display:flex;align-items:center;justify-content:center;font-size:26px;font-weight:800;color:#6b7177;}
+#wq-root .wq-spot-img img{position:relative;}
+#wq-root .wq-spot-meter{background:#ffffff;margin:8px 0 2px;max-width:420px;}
+#wq-root .wq-spot-links{margin-top:12px;}
+#wq-root .wq-spot-links .wq-link{padding:10px 0;font-size:14px;}
 #wq-root .wq-actions{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0 6px;}
 #wq-root .wq-status{font-size:14px;color:var(--wq-teal-ink);font-weight:600;min-height:20px;}
 #wq-root .wq-share-url{width:100%;margin-top:8px;padding:10px;border:1px solid rgba(0,0,0,0.2);border-radius:8px;font-size:14px;}
@@ -804,6 +816,37 @@ var WQ = (function () {
     return line.replace(/^a ([aeiou])/i, 'an $1');
   }
 
+  /* ---------- entry breed: breed guides link here with ?breed=<slug> ---------- */
+  var ENTRY_SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+  /* A known breed slug from a raw ?breed= / #breed= value, else null. Accepts "golden-retriever",
+     "dog-breeds/golden-retriever" or a full guide path (the last "/" segment wins). */
+  function entrySlug(raw, breeds) {
+    if (typeof raw !== 'string' || !raw || raw.length > 200) return null;
+    var s = raw;
+    try { s = decodeURIComponent(s.replace(/\+/g, ' ')); } catch (e) { /* already decoded */ }
+    s = s.trim().toLowerCase().split(/[?#]/)[0].replace(/\/+$/, '');
+    s = s.slice(s.lastIndexOf('/') + 1);
+    if (!ENTRY_SLUG_RE.test(s)) return null;
+    for (var i = 0; i < (breeds || []).length; i++) if (breeds[i] && breeds[i].s === s) return s;
+    return null;
+  }
+  /* How one breed did in a ranking: shared by "Check a specific breed" and the entry-breed spotlight.
+     { excluded: reason, wide } when a must-have removed it; { pct, label, rank, of, why, gaps, caveat } when
+     it's in the list; null when the slug isn't there at all. */
+  function breedCheck(ranking, slug, a) {
+    if (!ranking || !slug) return null;
+    var reason = ranking.excluded[slug];
+    if (reason) return { slug: slug, excluded: reason, wide: reason === 'size' && !!ranking.relaxedSize };
+    for (var i = 0; i < ranking.list.length; i++) {
+      var r = ranking.list[i];
+      if (r.b.s !== slug) continue;
+      var n = checkNotes(r.b, a, r.parts);
+      return { slug: slug, b: r.b, pct: r.pct, label: label(r.pct), rank: i + 1, of: ranking.list.length,
+        why: n.why, gaps: n.gaps, caveat: n.caveat };
+    }
+    return null;
+  }
+
   function isComplete(a) {
     return KEYS.every(function (k) {
       if (OPTIONAL[k]) return true;
@@ -844,7 +887,7 @@ var WQ = (function () {
     bandsFor: bandsFor, widenBands: widenBands, fractionInside: fractionInside, filterReason: filterReason,
     scoreBreed: scoreBreed, rank: rank, label: label, sizeLabel: sizeLabel, money: money, moneyRange: moneyRange, span: span, imgUrl: imgUrl,
     reasons: reasons, headsUps: headsUps, cardNotes: cardNotes, checkNotes: checkNotes, topicsOf: topicsOf, topicApplies: topicApplies,
-    conflicts: conflicts, describeDog: describeDog,
+    conflicts: conflicts, describeDog: describeDog, entrySlug: entrySlug, breedCheck: breedCheck,
     isComplete: isComplete, encode: encode, decode: decode
   };
 })();
@@ -936,7 +979,7 @@ var WQ = (function () {
   /* The counter counts the required questions; the optional budget screen is labelled on its own. */
   var REQUIRED = QUESTIONS.filter(function (q) { return !q.optional; }).length;
 
-  var state = { i: 0, a: {}, started: false, ranking: null, lastA: null, shown: SHOWN_FIRST, advancing: false, edit: false };
+  var state = { i: 0, a: {}, started: false, ranking: null, lastA: null, shown: SHOWN_FIRST, advancing: false, edit: false, entry: null };
 
   function esc(s) {
     return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
@@ -946,6 +989,23 @@ var WQ = (function () {
   function track(name, params) {
     /* The store's Google tag runs on the page, so these reach GA4 directly. */
     try { if (typeof window.gtag === 'function') window.gtag('event', name, params || {}); } catch (e) { /* analytics must never break the quiz */ }
+  }
+  function withEntry(params) {
+    if (state.entry) params.entry_breed = state.entry;
+    return params;
+  }
+  /* The breed a guide sent the visitor to check: ?breed=<slug>. Read once on load; every URL the quiz sets
+     keeps the query, so reload, back/forward, retake and share links keep it. The URL is never rewritten for it. */
+  function readEntry() {
+    var raw = null;
+    try { raw = new URLSearchParams(window.location.search).get('breed'); } catch (e) {
+      var m = /[?&]breed=([^&#]*)/.exec(window.location.search || '');
+      raw = m ? m[1] : null;
+    }
+    return WQ.entrySlug(raw, BREEDS);
+  }
+  function resultHash(a) {
+    return HASH_KEY + WQ.encode(a);
   }
   function readHash() {
     var h = (window.location.hash || '').replace(/^#/, '');
@@ -1051,7 +1111,10 @@ var WQ = (function () {
     var described = [q.h ? 'wq-q-hint' : '', srHint ? 'wq-q-sr' : ''].filter(Boolean).join(' ');
     var step = q.optional ? (q.step || 'Optional') : 'Question ' + n + ' of ' + REQUIRED;
     var done = Math.min(state.i, REQUIRED);
+    /* Note on Q1, or on the question an arrival from a breed guide resumed at. */
+    var entryB = state.entry && (state.i === 0 || state.i === state.noteAt) ? BY_SLUG[state.entry] : null;
     quizEl.innerHTML =
+      (entryB ? '<p class="wq-entry" role="note"><strong>Curious about the ' + esc(entryB.n) + '?</strong> Answer the questions and we’ll show how well it fits your life, plus the breeds that fit you best.</p>' : '') +
       '<div class="wq-step"><span class="wq-sec">Part ' + (q.sec + 1) + ' of 3 · ' + SECTIONS[q.sec] + '</span>' +
       '<span>' + esc(step) + '</span></div>' +
       '<div class="wq-bar" role="progressbar" aria-label="Quiz progress" aria-valuemin="0" aria-valuemax="' + REQUIRED + '" aria-valuenow="' + done + '"><span style="width:' + Math.round((done / REQUIRED) * 100) + '%"></span></div>' +
@@ -1087,7 +1150,7 @@ var WQ = (function () {
   /* keyboard = activated with Enter/Space: select only, and let Continue move on (no surprise context change). */
   function pick(v, btn, keyboard) {
     var q = QUESTIONS[state.i];
-    if (!state.started) { state.started = true; track('quiz_start', { quiz: 'breed_selector' }); }
+    if (!state.started) { state.started = true; track('quiz_start', withEntry({ quiz: 'breed_selector' })); }
     if (!q.multi) {
       if (state.advancing) return;
       state.a[q.k] = v;
@@ -1185,9 +1248,9 @@ var WQ = (function () {
     var below = 'q' + state.i;
     state.edit = false;
     save();
-    var url = pageUrl() + '#' + HASH_KEY + WQ.encode(a);
+    var url = pageUrl() + '#' + resultHash(a);
     if (!setHistory(true, { wq: 'r', below: below }, url)) {
-      try { window.location.hash = HASH_KEY + WQ.encode(a); } catch (e) { /* results still render */ }
+      try { window.location.hash = resultHash(a); } catch (e) { /* results still render */ }
     }
     showResults(a, true);
   }
@@ -1252,6 +1315,7 @@ var WQ = (function () {
     var html = '<p class="wq-eyebrow">Your results</p>' +
       '<h2 class="wq-res-h" id="wq-res-title" tabindex="-1">' + (list.length ? 'Your top breed matches' : 'No breeds matched all your must-haves') + '</h2>' +
       '<p class="wq-sub">We scored ' + BREEDS.length + ' breeds. ' + list.length + (list.length === 1 ? ' breed passes' : ' pass') + ' your must-haves.</p>' +
+      spotlight() +
       '<p class="wq-chip-hint" id="wq-chip-hint">Your answers. Select one to change it.</p>' +
       '<ul class="wq-based" aria-labelledby="wq-chip-hint">' + answerChips(a).map(function (c) {
         return '<li><button type="button" class="wq-chip" data-q="' + c[0] + '"><span class="wq-sr">Change: </span>' + esc(c[1]) + '</button></li>';
@@ -1287,7 +1351,7 @@ var WQ = (function () {
     quizEl.hidden = true;
     resEl.hidden = false;
     focusHeading(document.getElementById('wq-res-title'), true);
-    if (fromQuiz) track('quiz_complete', { quiz: 'breed_selector', top_breed: list[0] ? list[0].b.s : '', result_count: list.length });
+    if (fromQuiz) track('quiz_complete', withEntry({ quiz: 'breed_selector', top_breed: list[0] ? list[0].b.s : '', result_count: list.length }));
   }
 
   function checkPanel() {
@@ -1298,30 +1362,63 @@ var WQ = (function () {
       '<div class="wq-check-row"><label for="wq-check">Breed</label><select id="wq-check" class="wq-select"><option value="">Choose a breed…</option>' + opts + '</select></div>' +
       '<div class="wq-check-out" id="wq-check-out" aria-live="polite"></div></div>';
   }
+  /* What "Check a specific breed" says about one breed (also used by the entry-breed spotlight). */
+  function excludedHtml(b, c) {
+    return '<p><strong>' + esc(b.n) + '</strong> isn’t in your list. ' + esc((c.wide ? EXCLUDE_TEXT.sizeWide : EXCLUDE_TEXT[c.excluded]) || '') + '</p>';
+  }
+  function scoreLine(b, c) {
+    return '<p><strong>' + esc(b.n) + ': ' + c.pct + '% match, ' + c.label.toLowerCase() + '.</strong> Ranked #' + c.rank + ' of ' + c.of + '.</p>';
+  }
+  function checkDetails(c) {
+    var held = c.gaps.map(function (g) { return '<li>' + esc(g.t) + ' <span class="wq-pts">(−' + g.pts + ')</span></li>'; });
+    if (c.caveat) held.push('<li>' + esc(c.caveat) + '</li>');
+    var fitTitle = c.pct < 55 ? 'What does match' : 'Why it fits';
+    return (c.why.length ? '<p class="wq-mini wq-mini-good" style="margin-top:10px;">' + fitTitle + '</p>' + bullets('wq-why', c.why) : '') +
+      '<p class="wq-mini wq-mini-warn" style="margin-top:10px;">What held it back</p>' +
+      (held.length ? '<ul class="wq-warn">' + held.join('') + '</ul>' : '<p>Nothing major: it lost only a few points here and there.</p>');
+  }
   function renderCheck(slug) {
     var out = document.getElementById('wq-check-out');
     var b = BY_SLUG[slug];
     if (!out) return;
     if (!b) { out.innerHTML = ''; return; }
-    var rk = state.ranking, reason = rk.excluded[slug];
+    var c = WQ.breedCheck(state.ranking, slug, state.lastA);
     var guide = '<p style="margin-top:8px;"><a href="' + esc(b.url) + '">Read the ' + esc(b.n) + ' guide</a></p>';
-    if (reason) {
-      var why = reason === 'size' && rk.relaxedSize ? EXCLUDE_TEXT.sizeWide : EXCLUDE_TEXT[reason];
-      out.innerHTML = '<p><strong>' + esc(b.n) + '</strong> isn’t in your list. ' + esc(why || '') + '</p>' + guide;
-      return;
+    if (!c) { out.innerHTML = guide; return; }
+    out.innerHTML = (c.excluded ? excludedHtml(b, c) : scoreLine(b, c) + checkDetails(c)) + guide;
+  }
+
+  /* The breed the visitor came to check (?breed=), answered first. Compact when its card is already in the top list. */
+  function spotlight() {
+    var b = state.entry ? BY_SLUG[state.entry] : null;
+    var c = b ? WQ.breedCheck(state.ranking, b.s, state.lastA) : null;
+    if (!c) return '';
+    var img = WQ.imgUrl(b.img, 160);
+    var inTop = !c.excluded && c.rank <= Math.min(SHOWN_FIRST, state.ranking.list.length);
+    var body;
+    if (c.excluded) {
+      body = excludedHtml(b, c) + (state.ranking.list.length ? '<p>The breeds that fit your answers best are below.</p>' : '');
+    } else if (inTop) {
+      body = scoreLine(b, c) + '<p>' + (c.rank === 1 ? 'It’s your top match.' : 'It’s #' + c.rank + ' in your top matches below.') + '</p>';
+    } else {
+      body = scoreLine(b, c) + '<div class="wq-meter wq-spot-meter" aria-hidden="true"><span style="width:' + c.pct + '%"></span></div>' + checkDetails(c);
     }
-    var at = -1;
-    for (var i = 0; i < rk.list.length; i++) if (rk.list[i].b.s === slug) { at = i; break; }
-    if (at === -1) { out.innerHTML = guide; return; }
-    var r = rk.list[at];
-    var n = WQ.checkNotes(b, state.lastA, r.parts);
-    var held = n.gaps.map(function (g) { return '<li>' + esc(g.t) + ' <span class="wq-pts">(−' + g.pts + ')</span></li>'; });
-    if (n.caveat) held.push('<li>' + esc(n.caveat) + '</li>');
-    var fitTitle = r.pct < 55 ? 'What does match' : 'Why it fits';
-    out.innerHTML = '<p><strong>' + esc(b.n) + ': ' + r.pct + '% match, ' + WQ.label(r.pct).toLowerCase() + '.</strong> Ranked #' + (at + 1) + ' of ' + rk.list.length + '.</p>' +
-      (n.why.length ? '<p class="wq-mini wq-mini-good" style="margin-top:10px;">' + fitTitle + '</p>' + bullets('wq-why', n.why) : '') +
-      '<p class="wq-mini wq-mini-warn" style="margin-top:10px;">What held it back</p>' +
-      (held.length ? '<ul class="wq-warn">' + held.join('') + '</ul>' : '<p>Nothing major: it lost only a few points here and there.</p>') + guide;
+    return '<section class="wq-panel wq-spot" aria-labelledby="wq-spot-h">' +
+      '<div class="wq-spot-head"><div class="wq-spot-img"><span class="wq-initial" aria-hidden="true">' + esc((b.n || '?').charAt(0)) + '</span>' +
+        (img ? '<img src="' + esc(img) + '" alt="" loading="eager" width="72" height="72" onerror="this.style.display=\'none\'">' : '') + '</div>' +
+        '<div><p class="wq-eyebrow">You asked about</p><h3 class="wq-panel-h" id="wq-spot-h">How the ' + esc(b.n) + ' fits you</h3></div></div>' +
+      body +
+      '<div class="wq-links wq-spot-links"><a class="wq-btn wq-btn-ghost" href="' + esc(b.url) + '">Read the ' + esc(b.n) + ' guide</a>' +
+        (b.cost ? '<a class="wq-cost" href="' + CALC_URL + '?breed=' + encodeURIComponent(b.s) + '">First-year estimate: ' + WQ.moneyRange(b.cost) + '</a>' : '') +
+        (inTop && c.rank > 1 ? '<button type="button" class="wq-link" data-act="spot-card">See its card</button>' : '') +
+      '</div></section>';
+  }
+  function showSpotCard() {
+    var art = resEl.querySelector('.wq-match[data-slug="' + state.entry + '"]');
+    if (!art) return;
+    var name = art.querySelector('.wq-name');
+    if (name) { try { name.focus({ preventScroll: true }); } catch (e) { name.focus(); } }
+    try { art.scrollIntoView({ behavior: REDUCED ? 'auto' : 'smooth', block: 'start' }); } catch (e) { art.scrollIntoView(); }
   }
 
   resEl.addEventListener('change', function (e) {
@@ -1348,6 +1445,7 @@ var WQ = (function () {
     if (!t) return;
     var act = t.getAttribute('data-act');
     if (act === 'more') showMore(t);
+    else if (act === 'spot-card') showSpotCard();
     else if (act === 'copy') copyLink();
     else if (act === 'edit') editAt(0);
     else if (act === 'retake') {
@@ -1420,6 +1518,7 @@ var WQ = (function () {
   });
 
   var initial = readHash();
+  state.entry = readEntry();
   if (initial) {
     var entry = currentEntry();
     loadFromHash(initial);
@@ -1434,6 +1533,7 @@ var WQ = (function () {
       state.edit = !!(here && here.wq === 'q' && here.edit);
       state.i = safeIndex(here && here.wq === 'q' ? here.i : saved.i);
     }
+    if (state.entry) state.noteAt = state.i;
     setHistory(false, qEntry(here && here.wq === 'q' ? here.below : null), null);
     renderQuestion(false, true);
   }

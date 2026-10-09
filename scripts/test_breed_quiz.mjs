@@ -462,6 +462,58 @@ test('P14 weekly brushers: pro-groomed coats no longer fill the top of the list'
   assert.ok(proCoats <= 2, `top 5 has ${proCoats} pro-groom coats: ${names(top(r, 5))}`);
 });
 
+// ---------------------------------------------------------------- entry breed (?breed=<slug> from a breed guide)
+
+test('ENTRY slug parser accepts known slugs and "dog-breeds/<slug>", rejects unknown, empty and junk', () => {
+  const s = BREEDS[0].s, t = BREEDS[BREEDS.length - 1].s;
+  assert.equal(WQ.entrySlug(s, BREEDS), s);
+  assert.equal(WQ.entrySlug(t, BREEDS), t);
+  assert.equal(WQ.entrySlug('dog-breeds/' + s, BREEDS), s);
+  assert.equal(WQ.entrySlug('dog-breeds%2F' + s, BREEDS), s);
+  assert.equal(WQ.entrySlug('/blogs/dog-breeds/' + s + '/', BREEDS), s);
+  assert.equal(WQ.entrySlug('  ' + s.toUpperCase() + ' ', BREEDS), s);
+  assert.equal(WQ.entrySlug('golden-retriever', BREEDS), BREEDS.some((b) => b.s === 'golden-retriever') ? 'golden-retriever' : null);
+  const junk = [undefined, null, 42, '', ' ', '/', 'dog-breeds/', 'not-a-real-breed', 'dog-breeds/not-a-real-breed',
+    '<script>alert(1)</script>', '%3Cscript%3E', s + '<script>', s + '"><img src=x>', '../' + s + '/..', s + '--x', '-' + s,
+    s + ' ' + t, '%E0%A4%A', 'x'.repeat(300), s + '-grooming-guide'];
+  for (const j of junk) assert.equal(WQ.entrySlug(j, BREEDS), null, `accepted ${JSON.stringify(j)}`);
+  assert.equal(WQ.entrySlug(s, []), null);
+  assert.equal(WQ.entrySlug(s, undefined), null);
+});
+
+test('ENTRY spotlight numbers equal WQ.rank for that breed (score, label, rank, list size, exclusion)', () => {
+  const sets = [BASE, answers({ home: 'apt', exp: 'first', kids: 'young', coat: 'allergy' }), answers({ home: 'land', act: 'very', exp: 'pro' }),
+    answers({ size: ['giant'], kids: 'young' }), answers({ pets: ['cats', 'small'], size: ['toy', 'small'], noise: 'quiet' })]
+    .concat(SAMPLES.slice(0, 40));
+  let excluded = 0, listed = 0;
+  for (const a of sets) {
+    const r = WQ.rank(BREEDS, a);
+    for (const b of BREEDS) {
+      const c = WQ.breedCheck(r, b.s, a);
+      const at = r.list.findIndex((x) => x.b.s === b.s);
+      if (r.excluded[b.s]) {
+        excluded++;
+        assert.equal(at, -1, `${b.n} both excluded and listed`);
+        assert.equal(c.excluded, r.excluded[b.s]);
+        assert.equal(c.wide, r.excluded[b.s] === 'size' && r.relaxedSize);
+        continue;
+      }
+      listed++;
+      assert.ok(at !== -1, `${b.n} neither excluded nor listed`);
+      const x = r.list[at], n = WQ.checkNotes(x.b, a, x.parts);
+      assert.equal(c.pct, x.pct);
+      assert.equal(c.pct, WQ.scoreBreed(b, a, r.relaxedSize).pct, `${b.n}: spotlight % differs from scoreBreed`);
+      assert.equal(c.label, WQ.label(x.pct));
+      assert.equal(c.rank, at + 1);
+      assert.equal(c.of, r.list.length);
+      assert.deepEqual({ why: c.why, gaps: c.gaps, caveat: c.caveat }, n);
+    }
+    assert.equal(WQ.breedCheck(r, 'not-a-real-breed', a), null);
+    assert.equal(WQ.breedCheck(r, null, a), null);
+  }
+  assert.ok(excluded > 0 && listed > 0, `covered ${listed} listed and ${excluded} excluded cases`);
+});
+
 // ---------------------------------------------------------------- built page
 
 test('PAGE has no leftover placeholders, one root, valid embedded data, under 250 KB', () => {
@@ -474,6 +526,12 @@ test('PAGE has no leftover placeholders, one root, valid embedded data, under 25
   assert.equal(embedded.breeds.length, embedded.count);
   const bytes = Buffer.byteLength(PAGE, 'utf8');
   assert.ok(bytes < 250000, `page is ${bytes} bytes`);
+});
+
+test('PAGE quiz UI script parses (not only the scoring block)', () => {
+  const scripts = [...PAGE.matchAll(/<script>([\s\S]*?)<\/script>/g)].map((m) => m[1]);
+  assert.ok(scripts.length >= 1, 'inline quiz script missing');
+  for (const js of scripts) assert.doesNotThrow(() => new Function(js), 'inline script has a syntax error');
 });
 
 test('PAGE FAQPage JSON-LD matches the visible FAQ text', () => {
