@@ -273,7 +273,8 @@
     try {
       var q = new URLSearchParams(window.location.search).get('breed');
       if (!q) q = new URLSearchParams(window.location.hash.replace(/^#/, '')).get('breed');
-      q = q ? q.toLowerCase().trim() : '';
+      /* Theme links pass Liquid's article.handle, which is "<blog>/<article>": keep the last part. */
+      q = q ? q.toLowerCase().trim().split('/').pop() : '';
       return has(DATA, q) ? q : null;
     } catch (e) { return null; }
   }

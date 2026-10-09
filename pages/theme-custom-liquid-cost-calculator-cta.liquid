@@ -6,7 +6,7 @@
   cost-title A/B test, and no article "last updated" dates change).
 {%- endcomment -%}
 {%- if article and article.handle contains '-first-year-costs' -%}
-  {%- assign wf_breed = article.handle | remove: '-first-year-costs' -%}
+  {%- assign wf_breed = article.handle | split: '/' | last | remove: '-first-year-costs' -%}
   <div class="page-width page-width--narrow">
     <div style="background:#faf7f2;border:1px solid rgba(0,0,0,0.08);border-radius:16px;padding:20px 22px;margin:8px 0 32px;">
       <p style="margin:0 0 6px;font-weight:700;font-size:17px;line-height:1.4;color:#1a1a1a;">Estimate your own first-year costs</p>
