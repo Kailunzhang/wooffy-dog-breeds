@@ -514,7 +514,88 @@ test('ENTRY spotlight numbers equal WQ.rank for that breed (score, label, rank, 
   assert.ok(excluded > 0 && listed > 0, `covered ${listed} listed and ${excluded} excluded cases`);
 });
 
+// ---------------------------------------------------------------- result links (puppy checklist)
+
+test('LINKS checklist link exists iff the breed has a ck_url, points to it and names the breed', () => {
+  for (const b of BREEDS) {
+    const ck = WQ.checklistLink(b);
+    if (b.ck_url) {
+      assert.ok(ck, `${b.n}: has ck_url but no checklist link`);
+      assert.equal(ck.href, b.ck_url);
+      assert.equal(ck.kind, 'checklist');
+      assert.equal(ck.text, `${b.n} puppy checklist`);
+    } else {
+      assert.equal(ck, null, `${b.n}: checklist link without ck_url`);
+    }
+  }
+  const base = { s: 'golden-retriever', n: 'Golden Retriever' };
+  assert.deepEqual(WQ.checklistLink({ ...base, ck_url: '/blogs/dog-breeds/golden-retriever-puppy-checklist' }),
+    { kind: 'checklist', href: '/blogs/dog-breeds/golden-retriever-puppy-checklist', text: 'Golden Retriever puppy checklist' });
+  for (const bad of [undefined, null, '', 0, true, '/blogs/dog-breeds/', 'https://evil.example/x', 'javascript:alert(1)', '/pages/x', ['/blogs/dog-breeds/x']]) {
+    assert.equal(WQ.checklistLink({ ...base, ck_url: bad }), null, `accepted ck_url ${JSON.stringify(bad)}`);
+  }
+  assert.equal(WQ.checklistLink(null), null);
+  assert.equal(WQ.checklistLink(undefined), null);
+});
+
+test('LINKS quiz_result_click link_type maps every link kind, unknown kinds count as the breed guide', () => {
+  assert.equal(WQ.linkType('calc'), 'cost_calculator');
+  assert.equal(WQ.linkType('guide'), 'cost_guide');
+  assert.equal(WQ.linkType('checklist'), 'puppy_checklist');
+  for (const k of [null, undefined, '', 'breed', 'toString', '__proto__', 'constructor']) assert.equal(WQ.linkType(k), 'breed_guide', String(k));
+});
+
 // ---------------------------------------------------------------- built page
+
+/* Pull one named function out of the built page's UI script (balanced braces) so it can run in isolation. */
+function pageFunction(name) {
+  const start = PAGE.indexOf(`function ${name}(`);
+  assert.ok(start !== -1, `${name}() not found in built page`);
+  let depth = 0;
+  for (let i = PAGE.indexOf('{', start); i < PAGE.length; i++) {
+    if (PAGE[i] === '{') depth++;
+    else if (PAGE[i] === '}' && --depth === 0) return PAGE.slice(start, i + 1);
+  }
+  throw new Error(`${name}() is not closed`);
+}
+const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+test('PAGE result cards and the entry spotlight render the checklist link iff ck_url, tracked as puppy_checklist', () => {
+  const checklistHtml = new Function('WQ', 'esc', pageFunction('checklistHtml') + '\nreturn checklistHtml;')(WQ, esc);
+  const withCk = { s: 'golden-retriever', n: 'Golden Retriever', ck_url: '/blogs/dog-breeds/golden-retriever-puppy-checklist' };
+  const html = checklistHtml(withCk, 3);
+  assert.match(html, /^<a class="wq-cost" [^>]*>Golden Retriever puppy checklist<\/a>$/);
+  assert.ok(html.includes('href="/blogs/dog-breeds/golden-retriever-puppy-checklist"'), html);
+  assert.ok(html.includes('data-kind="checklist"') && html.includes('data-rank="3"') && html.includes('data-slug="golden-retriever"'), html);
+  assert.ok(checklistHtml(withCk, 0).includes('data-rank="0"'), 'spotlight link must carry data-rank 0');
+  assert.equal(checklistHtml({ s: 'cockapoo', n: 'Cockapoo', ck_url: null }, 1), '');
+  assert.equal(checklistHtml({ s: 'cockapoo', n: 'Cockapoo' }, 1), '');
+  for (const b of BREEDS) assert.equal(checklistHtml(b, 1) !== '', !!b.ck_url, `${b.n}: checklist link shown=${checklistHtml(b, 1) !== ''}, ck_url=${b.ck_url}`);
+  // Both placements use it: cards with their rank, the spotlight with rank 0.
+  assert.ok(pageFunction('card').includes('checklistHtml(b, rank)'), 'result card does not render the checklist link');
+  assert.ok(pageFunction('spotlight').includes('checklistHtml(b, 0)'), 'spotlight does not render the checklist link');
+  // The click handler sends WQ.linkType(data-kind) and falls back to the link's own data-slug outside a card.
+  assert.ok(/track\('quiz_result_click', \{ breed_slug: \(art \|\| link\)\.getAttribute\('data-slug'\)[^}]*link_type: WQ\.linkType\(kind\)/.test(PAGE), 'click handler not using WQ.linkType');
+});
+
+test('PAGE expandBreed restores ck_url from the compact ck flag (and leaves other fields alone)', () => {
+  const m = PAGE.match(/<script type="application\/json" id="wq-data">([\s\S]*?)<\/script>/);
+  const emb = JSON.parse(m[1]);
+  const expandBreed = new Function('DATA', pageFunction('expandBreed') + '\nreturn expandBreed;')(emb);
+  assert.equal(emb.ck_base, '/blogs/dog-breeds/');
+  assert.equal(emb.ck_suffix, '-puppy-checklist');
+  for (const b of emb.breeds) {
+    const x = expandBreed(b);
+    assert.ok(!('ck' in x), `${b.s}: ck flag left after expansion`);
+    if ('ck' in b) assert.equal(x.ck_url, b.ck ? `/blogs/dog-breeds/${b.s}-puppy-checklist` : null, b.s);
+    else assert.equal(x.ck_url, b.ck_url, b.s);
+  }
+  if (emb.version === DATA.version && emb.count === BREEDS.length) {
+    assert.deepEqual(emb.breeds.map(expandBreed), BREEDS, 'page expansion does not round-trip the source data');
+  }
+  const synthetic = { ...emb.breeds[0], ck: 0 };
+  assert.equal(expandBreed(synthetic).ck_url, null);
+});
 
 test('PAGE has no leftover placeholders, one root, valid embedded data, under 250 KB', () => {
   assert.ok(!/__WQ_[A-Z_]+__/.test(PAGE), 'placeholder left in page');
@@ -568,7 +649,7 @@ test('PAGE embedded (compacted) data expands back to the source data exactly', (
     ...b,
     sc: Object.fromEntries(emb.dims.map((d, i) => [d, b.sc[i]])),
     img: b.img && !/^https?:\/\//.test(b.img) ? emb.img_base + b.img : b.img
-  }));
+  })).map(({ ck, ...b }) => (ck === undefined ? b : { ...b, ck_url: ck ? emb.ck_base + b.s + emb.ck_suffix : null }));
   if (emb.version === DATA.version && emb.count === BREEDS.length) assert.deepEqual(expanded, BREEDS);
 });
 

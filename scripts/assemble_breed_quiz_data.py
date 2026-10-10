@@ -3,7 +3,7 @@
 Joins the reviewed trait scores (breed-quiz-scores.json) with page metadata
 already in the repo: breed name, AKC group, hero image, first-year cost range
 (calculator-data.json, summed exactly as the cost calculator does at its default
-settings so the quiz and calculator never disagree), cost-guide URL, and AKC
+settings so the quiz and calculator never disagree), cost-guide and puppy-checklist URLs, and AKC
 2025 popularity rank (parsed from
 the top-100 table on most-popular-dog-breeds). Manual corrections live in
 breed-quiz-overrides.json so every change to a score stays documented.
@@ -37,6 +37,8 @@ MAX_CAVEAT_CHARS = 120
 AKC_SHARED_RANK = {"miniature-poodle": "standard-poodle"}
 CALC_LINE_ITEMS = ("p", "v", "s", "u", "g")  # puppy, vet, spay/neuter, setup, grooming
 CALC_MONTHLY_ITEMS = ("f", "i")              # food, insurance (per month)
+COST_GUIDE_SUFFIX = "-first-year-costs"
+CHECKLIST_SUFFIX = "-puppy-checklist"
 
 
 def load_json(path: str) -> Any:
@@ -116,16 +118,20 @@ def validate(slug: str, b: dict) -> list[str]:
     return errors
 
 
+def companion_url(slug: str, suffix: str) -> str | None:
+    """Blog URL of a breed's companion article (breed-data/<slug><suffix>.json), or None if it doesn't exist."""
+    path = os.path.join(BREED_DIR, f"{slug}{suffix}.json")
+    if not os.path.exists(path):
+        return None
+    handle = load_json(path).get("meta", {}).get("shopify_handle")
+    return f"{BLOG_BASE}/{handle}" if handle else None
+
+
 def build_entry(slug: str, b: dict, calc: dict, ranks: dict[str, int]) -> dict:
     page = load_json(os.path.join(BREED_DIR, f"{slug}.json"))
     meta = page["meta"]
     hero = page["images"]["hero"]["url"]
     cost = calculator_first_year(calc.get(slug))
-    cost_file = os.path.join(BREED_DIR, f"{slug}-first-year-costs.json")
-    cost_url = None
-    if os.path.exists(cost_file):
-        cost_handle = load_json(cost_file).get("meta", {}).get("shopify_handle")
-        cost_url = f"{BLOG_BASE}/{cost_handle}" if cost_handle else None
     return {
         "s": slug,
         "n": meta["name"],
@@ -139,7 +145,8 @@ def build_entry(slug: str, b: dict, calc: dict, ranks: dict[str, int]) -> dict:
         "hi": b["highlights"],
         "cv": b["caveats"],
         "url": f"{BLOG_BASE}/{meta.get('shopify_handle', slug)}",
-        "cost_url": cost_url,
+        "cost_url": companion_url(slug, COST_GUIDE_SUFFIX),
+        "ck_url": companion_url(slug, CHECKLIST_SUFFIX),
         "akc": ranks.get(slug) or ranks.get(AKC_SHARED_RANK.get(slug, "")),
     }
 
@@ -163,7 +170,8 @@ def main() -> None:
     ranks = parse_akc_ranks()
     entries = [build_entry(slug, breeds[slug], calc, ranks) for slug in sorted(breeds)]
     print(f"{len(entries)} breeds valid; {len(overrides)} override(s); "
-          f"{sum(1 for e in entries if e['cost'])} with cost; {sum(1 for e in entries if e['akc'])} with AKC rank")
+          f"{sum(1 for e in entries if e['cost'])} with cost; {sum(1 for e in entries if e['ck_url'])} with puppy checklist; "
+          f"{sum(1 for e in entries if e['akc'])} with AKC rank")
     if args.check:
         return
 

@@ -309,6 +309,9 @@ var WQ = (function () {
   var SIZE_STEP = 12;  // per size step away, for breeds let in by widening the size range
   /* Upper end, in minutes a day, of each activity answer (see the 'act' options). */
   var USER_MAX_MIN = { relaxed: 30, moderate: 60, active: 120, very: Infinity };
+  /* quiz_result_click link_type for each result link's data-kind; links without one are the breed guide. */
+  var LINK_TYPES = { calc: 'cost_calculator', guide: 'cost_guide', checklist: 'puppy_checklist' };
+  var CHECKLIST_PREFIX = '/blogs/dog-breeds/';
 
   function has(list, v) { return !!list && list.indexOf(v) !== -1; }
   function clamp(x, lo, hi) { return Math.max(lo, Math.min(hi, x)); }
@@ -820,6 +823,15 @@ var WQ = (function () {
   var ENTRY_SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
   /* A known breed slug from a raw ?breed= / #breed= value, else null. Accepts "golden-retriever",
      "dog-breeds/golden-retriever" or a full guide path (the last "/" segment wins). */
+  function linkType(kind) {
+    return Object.prototype.hasOwnProperty.call(LINK_TYPES, kind) ? LINK_TYPES[kind] : 'breed_guide';
+  }
+  /* The breed's puppy-checklist guide link, or null when it has none (result cards and the entry spotlight). */
+  function checklistLink(b) {
+    var u = b && b.ck_url;
+    if (typeof u !== 'string' || u.indexOf(CHECKLIST_PREFIX) !== 0 || u.length <= CHECKLIST_PREFIX.length) return null;
+    return { kind: 'checklist', href: u, text: b.n + ' puppy checklist' };
+  }
   function entrySlug(raw, breeds) {
     if (typeof raw !== 'string' || !raw || raw.length > 200) return null;
     var s = raw;
@@ -888,6 +900,7 @@ var WQ = (function () {
     scoreBreed: scoreBreed, rank: rank, label: label, sizeLabel: sizeLabel, money: money, moneyRange: moneyRange, span: span, imgUrl: imgUrl,
     reasons: reasons, headsUps: headsUps, cardNotes: cardNotes, checkNotes: checkNotes, topicsOf: topicsOf, topicApplies: topicApplies,
     conflicts: conflicts, describeDog: describeDog, entrySlug: entrySlug, breedCheck: breedCheck,
+    linkType: linkType, checklistLink: checklistLink,
     isComplete: isComplete, encode: encode, decode: decode
   };
 })();
@@ -903,7 +916,8 @@ var WQ = (function () {
   var appEl = document.getElementById('wq-app');
   var DATA = null;
   try { DATA = JSON.parse(document.getElementById('wq-data').textContent); } catch (e) { DATA = null; }
-  /* The build embeds scores as arrays (DATA.dims order) and strips the shared CDN prefix; expand both. */
+  /* The build embeds scores as arrays (DATA.dims order), strips the shared CDN prefix and stores a standard
+     puppy-checklist URL as ck 1/0; expand all three. */
   function expandBreed(b) {
     var out = {};
     for (var k in b) if (Object.prototype.hasOwnProperty.call(b, k)) out[k] = b[k];
@@ -912,6 +926,10 @@ var WQ = (function () {
       DATA.dims.forEach(function (d, i) { out.sc[d] = b.sc[i]; });
     }
     if (b.img && DATA.img_base && !/^https?:\/\//.test(b.img)) out.img = DATA.img_base + b.img;
+    if ('ck' in b && DATA.ck_base) {
+      out.ck_url = b.ck ? DATA.ck_base + b.s + DATA.ck_suffix : null;
+      delete out.ck;
+    }
     return out;
   }
   if (!DATA || !DATA.breeds || !DATA.breeds.length) {
@@ -1282,13 +1300,20 @@ var WQ = (function () {
     return '<ul class="' + cls + '">' + items.map(function (t) { return '<li>' + esc(t) + '</li>'; }).join('') + '</ul>';
   }
 
+  /* data-rank 0 marks the entry spotlight (not a result card) in quiz_result_click. */
+  function checklistHtml(b, rank) {
+    var ck = WQ.checklistLink(b);
+    return ck ? '<a class="wq-cost" data-kind="' + ck.kind + '" data-slug="' + esc(b.s) + '" href="' + esc(ck.href) + '" data-rank="' + rank + '">' + esc(ck.text) + '</a>' : '';
+  }
+
   function card(r, rank, featured) {
     var b = r.b;
     var notes = WQ.cardNotes(b, state.lastA, r.parts);
     var img = WQ.imgUrl(b.img, 480);
     var group = String(b.g || '').replace(/\s+Group$/, '');
     var costLinks = (b.cost ? '<a class="wq-cost" data-kind="calc" href="' + CALC_URL + '?breed=' + encodeURIComponent(b.s) + '" data-rank="' + rank + '">First-year estimate: ' + WQ.moneyRange(b.cost) + '</a>' : '') +
-      (b.cost_url ? '<a class="wq-cost" data-kind="guide" href="' + esc(b.cost_url) + '" data-rank="' + rank + '">Full cost guide</a>' : '');
+      (b.cost_url ? '<a class="wq-cost" data-kind="guide" href="' + esc(b.cost_url) + '" data-rank="' + rank + '">Full cost guide</a>' : '') +
+      checklistHtml(b, rank);
     return '<article class="wq-match' + (featured ? ' wq-featured' : '') + '" data-slug="' + esc(b.s) + '">' +
       '<div class="wq-photo"><span class="wq-initial" aria-hidden="true">' + esc((b.n || '?').charAt(0)) + '</span>' +
         (img ? '<img src="' + esc(img) + '" alt="' + esc(b.n) + '" loading="' + (rank <= 3 ? 'eager' : 'lazy') + '" width="480" height="360" onerror="this.style.display=\'none\'">' : '') + '</div>' +
@@ -1410,6 +1435,7 @@ var WQ = (function () {
       body +
       '<div class="wq-links wq-spot-links"><a class="wq-btn wq-btn-ghost" href="' + esc(b.url) + '">Read the ' + esc(b.n) + ' guide</a>' +
         (b.cost ? '<a class="wq-cost" href="' + CALC_URL + '?breed=' + encodeURIComponent(b.s) + '">First-year estimate: ' + WQ.moneyRange(b.cost) + '</a>' : '') +
+        checklistHtml(b, 0) +
         (inTop && c.rank > 1 ? '<button type="button" class="wq-link" data-act="spot-card">See its card</button>' : '') +
       '</div></section>';
   }
@@ -1436,7 +1462,7 @@ var WQ = (function () {
     if (link) {
       var art = link.closest('.wq-match');
       var kind = link.getAttribute('data-kind');
-      track('quiz_result_click', { breed_slug: art ? art.getAttribute('data-slug') : '', rank: Number(link.getAttribute('data-rank')), link_type: kind === 'calc' ? 'cost_calculator' : (kind === 'guide' ? 'cost_guide' : 'breed_guide') });
+      track('quiz_result_click', { breed_slug: (art || link).getAttribute('data-slug') || '', rank: Number(link.getAttribute('data-rank')), link_type: WQ.linkType(kind) });
       return;
     }
     var chip = e.target.closest ? e.target.closest('button[data-q]') : null;

@@ -4,8 +4,9 @@ Reads pages/cost-calculator-template.html, validates the breed cost data, and wr
   pages/cost-calculator-FINAL.html    fragment to paste into the Shopify Page body (HTML mode)
   pages/cost-calculator-preview.html  standalone doc with a mock Dawn shell for local testing
 
-Read-only inputs: calculator-data.json (the numbers) and costs-dataset.json (only the "est"
-flags, which mark items filled in from size-group medians). Neither file is modified.
+Read-only inputs: calculator-data.json (the numbers), costs-dataset.json (only the "est"
+flags, which mark items filled in from size-group medians) and breed-data/<slug>-puppy-checklist.json
+(only whether it exists and its URL handle, for the puppy-checklist link). None of them is modified.
 
 Usage:
     py scripts/build_cost_calculator.py
@@ -26,6 +27,8 @@ DATA_PATH = os.path.join(ROOT, "calculator-data.json")
 DATASET_PATH = os.path.join(ROOT, "costs-dataset.json")
 OUT_FINAL = os.path.join(PAGES, "cost-calculator-FINAL.html")
 OUT_PREVIEW = os.path.join(PAGES, "cost-calculator-preview.html")
+BREED_DIR = os.path.join(ROOT, "breed-data")
+CHECKLIST_SUFFIX = "-puppy-checklist"  # the page links /blogs/dog-breeds/<slug>-puppy-checklist
 
 PAIR_FIELDS = ("p", "v", "s", "f", "i", "g", "u", "t", "a")
 # costs-dataset.json "est" names -> calculator-data.json short keys
@@ -107,8 +110,28 @@ def load_est_flags(path: str) -> dict[str, list[str]]:
     return out
 
 
-def embed_data(data: dict, est: dict[str, list[str]]) -> dict:
-    """Page data: drop the unused stated total, null out unusable rescue fees, add estimate flags."""
+def load_checklists(data: dict) -> set[str]:
+    """Slugs with a puppy-checklist guide. Raise DataError when a guide's URL handle isn't the
+    <slug>-puppy-checklist the page links to (that link would 404)."""
+    found: set[str] = set()
+    errors: list[str] = []
+    for slug in data:
+        path = os.path.join(BREED_DIR, f"{slug}{CHECKLIST_SUFFIX}.json")
+        if not os.path.exists(path):
+            continue
+        with open(path, encoding="utf-8") as f:
+            handle = (json.load(f).get("meta") or {}).get("shopify_handle")
+        if handle != f"{slug}{CHECKLIST_SUFFIX}":
+            errors.append(f"{os.path.relpath(path, ROOT)}: shopify_handle {handle!r} != {slug + CHECKLIST_SUFFIX!r}")
+        else:
+            found.add(slug)
+    if errors:
+        raise DataError(f"{len(errors)} puppy-checklist problem(s):\n  " + "\n  ".join(errors))
+    return found
+
+
+def embed_data(data: dict, est: dict[str, list[str]], checklists: set[str]) -> dict:
+    """Page data: drop the unused stated total, null out unusable rescue fees, add estimate and checklist flags."""
     out = {}
     for slug, b in data.items():
         c = {k: b[k] for k in ("n",) + PAIR_FIELDS if k != "t"}
@@ -120,6 +143,8 @@ def embed_data(data: dict, est: dict[str, list[str]]) -> dict:
             c["sv"] = 1  # spay/neuter priced inside the guide's vet line
         if b.get("x"):
             c["x"] = b["x"]  # guide items with no calculator row, listed in a note
+        if slug in checklists:
+            c["k"] = 1  # has a puppy-checklist guide: the page links it under the cost-guide line
         out[slug] = c
     return out
 
@@ -202,14 +227,14 @@ def jsonld(faq: list[tuple[str, str]], count: int) -> str:
     return json_for_script({"@context": "https://schema.org", "@graph": graph})
 
 
-def build_fragment(template: str, data: dict, est: dict[str, list[str]]) -> str:
+def build_fragment(template: str, data: dict, est: dict[str, list[str]], checklists: set[str]) -> str:
     if template.count("__CALC_DATA__") != 1 or template.count("__CALC_JSONLD__") != 1:
         raise SystemExit("template must contain __CALC_DATA__ and __CALC_JSONLD__ exactly once")
     out = template
     for key, value in stat_values(data).items():
         out = out.replace(key, value)
     out = out.replace("__CALC_JSONLD__", jsonld(faq_items(out), len(data)))
-    out = out.replace("__CALC_DATA__", json_for_script(embed_data(data, est)))
+    out = out.replace("__CALC_DATA__", json_for_script(embed_data(data, est, checklists)))
     left = sorted(set(PLACEHOLDER_RE.findall(out)))
     if left:
         raise SystemExit(f"unreplaced placeholder(s): {left}")
@@ -290,16 +315,20 @@ def main() -> None:
     except DataError as e:
         raise SystemExit(f"INVALID DATA in {os.path.relpath(DATA_PATH, ROOT)}: {e}")
     est = load_est_flags(DATASET_PATH)
+    try:
+        checklists = load_checklists(data)
+    except DataError as e:
+        raise SystemExit(f"INVALID DATA: {e}")
 
     with open(TEMPLATE, encoding="utf-8") as f:
         template = f.read()
-    fragment = build_fragment(template, data, est)
+    fragment = build_fragment(template, data, est, checklists)
     write(OUT_FINAL, fragment)
     write(OUT_PREVIEW, PREVIEW_SHELL.replace("__FRAGMENT__", fragment))
 
     size = len(fragment.encode("utf-8"))
     flagged = sum(1 for s in data if est.get(s))
-    print(f"data: {len(data)} breeds, {flagged} with '(estimate)' items")
+    print(f"data: {len(data)} breeds, {flagged} with '(estimate)' items, {len(checklists)} with a puppy checklist")
     for w in warnings:
         print(f"WARNING: {w}")
     print(f"wrote {os.path.relpath(OUT_FINAL, ROOT)} ({size:,} bytes)")

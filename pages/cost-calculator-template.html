@@ -143,6 +143,7 @@
   </div>
 
   <p id="wf-article-link" class="wf-muted"></p>
+  <p id="wf-checklist-link" class="wf-muted"></p>
 
   <!-- SUPPORTING CONTENT -->
   <h2>How these numbers work</h2>
@@ -314,6 +315,12 @@
   bindSeg('wf-ins', 'ins');
   bindSeg('wf-groom', 'groom');
 
+  /* Checklist guides carry affiliate links, so count the clicks that leave for one. */
+  $('wf-checklist-link').addEventListener('click', function (e) {
+    var a = e.target.closest ? e.target.closest('a') : null;
+    if (a) track('calc_checklist_click', { breed: state.breed });
+  });
+
   sel.addEventListener('change', function () {
     if (!has(DATA, sel.value)) return;
     state.breed = sel.value;
@@ -362,6 +369,12 @@
     var url = '/blogs/dog-breeds/' + encodeURIComponent(state.breed) + '-first-year-costs';
     $('wf-article-link').innerHTML = 'Want the reasoning behind every number? Read the full <a href="' + url + '">' +
       name + ' first-year cost guide</a>.';
+
+    /* d.k: the breed has a puppy-checklist guide. */
+    var ck = $('wf-checklist-link');
+    ck.innerHTML = d.k ? 'Getting ready for a puppy? The <a href="/blogs/dog-breeds/' + encodeURIComponent(state.breed) +
+      '-puppy-checklist">' + name + ' puppy checklist</a> covers what to buy and do before day one.' : '';
+    ck.style.display = d.k ? '' : 'none';
   }
 
   render();

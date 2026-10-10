@@ -41,6 +41,8 @@ FAQ_RE = re.compile(r"<!-- WQ-FAQ-START -->(.*?)<!-- WQ-FAQ-END -->", re.S)
 FAQ_ITEM_RE = re.compile(r'<div class="wq-faq">\s*<h3>(.*?)</h3>\s*<p>(.*?)</p>\s*</div>', re.S)
 PLACEHOLDER_RE = re.compile(r"__WQ_[A-Z_]+__")
 IMG_BASE = "https://cdn.shopify.com/s/files/1/0554/5253/2790/files/"
+BLOG_PREFIX = "/blogs/dog-breeds/"
+CHECKLIST_SUFFIX = "-puppy-checklist"
 
 
 class DataError(ValueError):
@@ -102,6 +104,9 @@ def validate_breed(i: int, b: Any) -> list[str]:
     check_str_list(errors, f"{w}.cv", b["cv"], 0, 2)
     if b["cost_url"] is not None and not (isinstance(b["cost_url"], str) and b["cost_url"].startswith("/blogs/")):
         errors.append(f"{w}.cost_url must be null or start with /blogs/, got {b['cost_url']!r}")
+    ck = b.get("ck_url")  # optional: puppy-checklist guide URL
+    if ck is not None and not (isinstance(ck, str) and ck.startswith(BLOG_PREFIX) and len(ck) > len(BLOG_PREFIX)):
+        errors.append(f"{w}.ck_url must be null or start with {BLOG_PREFIX}, got {ck!r}")
     akc = b["akc"]
     if akc is not None and (not isinstance(akc, int) or isinstance(akc, bool) or akc < 1):
         errors.append(f"{w}.akc must be null or a positive integer, got {akc!r}")
@@ -193,16 +198,25 @@ def pretty_date(iso: str) -> str:
     return f"{d.strftime('%B')} {d.day}, {d.year}"
 
 
+def standard_checklist_url(slug: str) -> str:
+    return f"{BLOG_PREFIX}{slug}{CHECKLIST_SUFFIX}"
+
+
 def compact(data: dict) -> dict:
-    """Smaller embed: scores as arrays in DIMS order, shared CDN prefix stripped (the page expands both)."""
+    """Smaller embed: scores as arrays in DIMS order, shared CDN prefix stripped, and a ck_url that follows
+    the standard /blogs/dog-breeds/<slug>-puppy-checklist pattern (or is null) stored as ck 1/0 (the page
+    expands all three; any other ck_url is embedded as-is)."""
     out = []
     for b in data["breeds"]:
         c = dict(b)
         c["sc"] = [b["sc"][d] for d in DIMS]
         if c["img"].startswith(IMG_BASE):
             c["img"] = c["img"][len(IMG_BASE):]
+        if "ck_url" in c and c["ck_url"] in (None, standard_checklist_url(b["s"])):
+            c["ck"] = 1 if c.pop("ck_url") else 0
         out.append(c)
-    return {"version": data["version"], "count": len(out), "dims": list(DIMS), "img_base": IMG_BASE, "breeds": out}
+    return {"version": data["version"], "count": len(out), "dims": list(DIMS), "img_base": IMG_BASE,
+            "ck_base": BLOG_PREFIX, "ck_suffix": CHECKLIST_SUFFIX, "breeds": out}
 
 
 def build_fragment(template: str, data: dict) -> str:
