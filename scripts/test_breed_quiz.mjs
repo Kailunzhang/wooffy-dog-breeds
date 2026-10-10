@@ -669,3 +669,212 @@ test('PAGE copy discloses the fixed deductions, cites the primary studies and ma
   assert.ok(/12 quick questions, plus an optional budget question/.test(ld['@graph'][0].description), 'JSON-LD question count');
   assert.ok(/Meta description: Answer 12 quick questions, plus an optional budget question/.test(PAGE), 'meta comment');
 });
+
+// ---------------------------------------------------------------- email course signup
+
+const SLUG_A = BREEDS[0].s;
+const SLUG_B = BREEDS[1].s;
+const BASE_TAGS = 'newsletter,wooffy-quiz';
+
+test('EMAIL tags: newsletter + tool tag, breed-<top match>, checked-<entry breed> only in breed-entry mode', () => {
+  assert.equal(WQ.signupTags(SLUG_A, null, BREEDS), `${BASE_TAGS},breed-${SLUG_A}`);
+  assert.equal(WQ.signupTags(SLUG_A, SLUG_B, BREEDS), `${BASE_TAGS},breed-${SLUG_A},checked-${SLUG_B}`);
+  // The entry breed can also be the top match: both tags still say what happened.
+  assert.equal(WQ.signupTags(SLUG_A, SLUG_A, BREEDS), `${BASE_TAGS},breed-${SLUG_A},checked-${SLUG_A}`);
+});
+
+test('EMAIL tags: missing data falls back to the base tags (no results, no data, unknown slugs)', () => {
+  assert.equal(WQ.signupTags(null, null, BREEDS), BASE_TAGS);
+  assert.equal(WQ.signupTags('', undefined, BREEDS), BASE_TAGS);
+  assert.equal(WQ.signupTags(SLUG_A, SLUG_B, undefined), BASE_TAGS);
+  assert.equal(WQ.signupTags(SLUG_A, SLUG_B, []), BASE_TAGS);
+  assert.equal(WQ.signupTags('not-a-real-breed', 'also-not-real', BREEDS), BASE_TAGS);
+  assert.equal(WQ.signupTags(null, SLUG_B, BREEDS), `${BASE_TAGS},checked-${SLUG_B}`);
+});
+
+test('EMAIL tags: a slug that could break the tag list or the markup never reaches a tag', () => {
+  const evil = [`${SLUG_A},vip`, `${SLUG_A} x`, `${SLUG_A}"><script>`, SLUG_A.toUpperCase(), ` ${SLUG_A}`, `${SLUG_A}\n`,
+    `dog-breeds/${SLUG_A}`, '__proto__', 'constructor', 42, {}, ['x']];
+  // Data with a junk slug in it still can't inject: the slug pattern is checked as well as membership.
+  const dirty = BREEDS.concat([{ s: 'bad,slug' }, { s: 'x"y' }, null]);
+  for (const s of evil) {
+    const t = WQ.signupTags(s, s, dirty);
+    assert.equal(t, BASE_TAGS, `${JSON.stringify(s)} -> ${t}`);
+  }
+  assert.equal(WQ.signupTags('bad,slug', 'x"y', dirty), BASE_TAGS);
+  for (const b of BREEDS) assert.match(WQ.signupTags(b.s, b.s, BREEDS), /^[a-z0-9,-]+$/, b.s);
+});
+
+test('EMAIL customer_posted is read only as an exact query flag', () => {
+  for (const s of ['?customer_posted=true', '?breed=pug&customer_posted=true', '?customer_posted=true&breed=pug']) assert.equal(WQ.customerPosted(s), true, s);
+  for (const s of ['', null, undefined, '?customer_posted=false', '?customer_posted=truex', '?xcustomer_posted=true', '?breed=customer_posted=true', '#customer_posted=true']) {
+    assert.equal(WQ.customerPosted(s), false, String(s));
+  }
+});
+
+test('EMAIL form action returns to these results: /contact#wq=<answers>, or #wq-email when incomplete', () => {
+  const a = answers({});
+  assert.equal(WQ.signupAction(a), '/contact#wq=' + WQ.encode(a));
+  assert.equal(WQ.decode(WQ.signupAction(a).split('#wq=')[1]).home, 'small');
+  assert.equal(WQ.signupAction(null), '/contact#wq-email');
+  assert.equal(WQ.signupAction({ home: 'apt' }), '/contact#wq-email');
+});
+
+test('EMAIL restore after Shopify redirect: pending record within the time limit, done record any time', () => {
+  const a = answers({ home: 'apt', kids: 'young' });
+  const h = WQ.encode(a);
+  const now = 1_800_000_000_000;
+  const fresh = { h, e: SLUG_B, t: now - 60_000, done: false };
+  const loc = (search, hash) => ({ search, hash });
+  // Back from /contact: the record restores the answers and the entry breed.
+  let r = WQ.signupReturn(loc('?customer_posted=true', '#wq=' + h), fresh, now, BREEDS);
+  assert.deepEqual(r.a, a);
+  assert.equal(r.entry, SLUG_B);
+  // Same with the generic anchor or none (e.g. the anchor was lost on Shopify's challenge page).
+  for (const hash of ['', '#', '#wq-email']) assert.deepEqual(WQ.signupReturn(loc('?customer_posted=true', hash), fresh, now, BREEDS).a, a, hash);
+  // ?breed= kept by the redirect doesn't matter.
+  assert.deepEqual(WQ.signupReturn(loc('?breed=pug&customer_posted=true', ''), fresh, now, BREEDS).a, a);
+  // No customer_posted: nothing to restore.
+  assert.equal(WQ.signupReturn(loc('', '#wq=' + h), fresh, now, BREEDS), null);
+  assert.equal(WQ.signupReturn(loc('?customer_posted=false', ''), fresh, now, BREEDS), null);
+  // Another form's post (the theme footer newsletter returns to #ContactFooter) is not ours.
+  assert.equal(WQ.signupReturn(loc('?customer_posted=true', '#ContactFooter'), fresh, now, BREEDS), null);
+  // A stale or future-dated pending record isn't trusted on its own...
+  const stale = { ...fresh, t: now - WQ.SIGNUP_MAX_AGE - 1 };
+  assert.equal(WQ.signupReturn(loc('?customer_posted=true', ''), stale, now, BREEDS), null);
+  assert.equal(WQ.signupReturn(loc('?customer_posted=true', ''), { ...fresh, t: now + 5000 }, now, BREEDS), null);
+  // ...but the #wq= anchor alone is enough (storage blocked or stale): answers come from the link, no entry breed.
+  r = WQ.signupReturn(loc('?customer_posted=true', '#wq=' + h), stale, now, BREEDS);
+  assert.deepEqual(r.a, a);
+  assert.equal(r.entry, null);
+  r = WQ.signupReturn(loc('?customer_posted=true', '#wq=' + h), null, now, BREEDS);
+  assert.deepEqual(r.a, a);
+  // A confirmed (done) signup survives a reload of the thank-you URL, however old.
+  r = WQ.signupReturn(loc('?customer_posted=true', ''), { ...stale, done: true }, now, BREEDS);
+  assert.deepEqual(r.a, a);
+});
+
+test('EMAIL restore rejects junk records and junk anchors without throwing', () => {
+  const now = 1_800_000_000_000;
+  const P = { search: '?customer_posted=true', hash: '' };
+  for (const rec of [null, undefined, 'x', 42, [], {}, { h: 'junk', t: now }, { h: 7, t: 'yesterday' }, { h: null, done: 'yes' }]) {
+    const r = WQ.signupReturn(P, rec, now, BREEDS);
+    assert.ok(r === null || r.a === null, `${JSON.stringify(rec)} -> ${JSON.stringify(r)}`);
+  }
+  // A valid record with junk answers still marks the signup (thank-you) but restores nothing.
+  assert.deepEqual(WQ.signupReturn(P, { h: 'junk', e: 'not-a-breed', t: now }, now, BREEDS), { a: null, entry: null });
+  // An entry slug that isn't in the data is dropped.
+  assert.equal(WQ.signupReturn(P, { h: WQ.encode(answers({})), e: '<b>', t: now }, now, BREEDS).entry, null);
+  for (const hash of ['#wq=%E0%A4%A', '#wq=junk', '#wq=']) {
+    assert.doesNotThrow(() => WQ.signupReturn({ search: '?customer_posted=true', hash }, null, now, BREEDS));
+    assert.equal(WQ.signupReturn({ search: '?customer_posted=true', hash }, null, now, BREEDS), null, hash);
+  }
+  assert.equal(WQ.signupReturn(null, null, now, BREEDS), null);
+});
+
+test('EMAIL share link drops customer_posted, keeps other params and carries the answers', () => {
+  const a = answers({});
+  const h = WQ.encode(a);
+  const page = 'https://thewooffy.com/pages/dog-breed-quiz';
+  assert.equal(WQ.shareUrl(page + '?customer_posted=true#wq=old', a), page + '#wq=' + h);
+  assert.equal(WQ.shareUrl(page + '?breed=pug&customer_posted=true#wq-email', a), page + '?breed=pug#wq=' + h);
+  assert.equal(WQ.shareUrl(page + '?customer_posted=true&breed=pug', a), page + '?breed=pug#wq=' + h);
+  assert.equal(WQ.shareUrl(page + '?breed=pug#wq=' + h, a), page + '?breed=pug#wq=' + h);
+  assert.equal(WQ.shareUrl(page, a), page + '#wq=' + h);
+});
+
+/* Runs the page's own load-time restore lines (posted, initial) against a fake location and sessionStorage record. */
+function pageLoadFor(href, rec, now = 1_800_000_000_000) {
+  const ui = PAGE.slice(PAGE.indexOf('// WQ-SCORING-END'));
+  const postedLine = /var posted = [^\n]+/.exec(ui)[0];
+  const initialLine = /var initial = [^\n]+/.exec(ui)[0];
+  const u = new URL(href);
+  const window = { location: { href, search: u.search, hash: u.hash } };
+  const readHash = new Function('window', 'WQ', 'HASH_KEY', pageFunction('readHash') + '\nreturn readHash;')(window, WQ, 'wq=');
+  const run = new Function('window', 'WQ', 'BREEDS', 'readHash', 'signupRec', 'Date',
+    postedLine + '\n' + initialLine + '\nreturn { posted: posted, initial: initial };');
+  return run(window, WQ, BREEDS, readHash, rec, { now: () => now });
+}
+
+test('EMAIL after a signup, the answers in the link win over the saved record (change answers, then reload)', () => {
+  const a1 = answers({ home: 'apt', kids: 'young' });
+  const a2 = answers({ home: 'small', kids: 'none' });
+  const H1 = WQ.encode(a1), H2 = WQ.encode(a2);
+  assert.notEqual(H1, H2);
+  const done = { h: H1, e: SLUG_B, t: 1, done: true };
+  const page = 'https://thewooffy.com/pages/dog-breed-quiz';
+  // An old history entry that still carries the flag: the link's answers are shown, not the record's.
+  assert.deepEqual(WQ.signupReturn({ search: '?customer_posted=true', hash: '#wq=' + H2 }, done, 1_800_000_000_000, BREEDS).a, a2);
+  let r = pageLoadFor(page + '?customer_posted=true#wq=' + H2, done);
+  assert.deepEqual(r.initial, a2);
+  // The URL the quiz pushes now (no flag) restores the same answers and isn't treated as a return.
+  r = pageLoadFor(page + '?breed=pug#wq=' + H2, done);
+  assert.equal(r.posted, null);
+  assert.deepEqual(r.initial, a2);
+  // The first return itself still restores the record when the link carries no answers.
+  r = pageLoadFor(page + '?customer_posted=true', { ...done, done: false, t: 1_800_000_000_000 - 1000 });
+  assert.deepEqual(r.initial, a1);
+});
+
+test('EMAIL after a signup, retake + reload resumes the quiz: a done record with no hash leaves initial null', () => {
+  const done = { h: WQ.encode(answers({ home: 'apt' })), e: SLUG_B, t: 1, done: true };
+  const page = 'https://thewooffy.com/pages/dog-breed-quiz';
+  for (const href of [page, page + '?breed=pug', page + '?breed=pug#']) {
+    const r = pageLoadFor(href, done);
+    assert.equal(r.posted, null, href);
+    assert.equal(r.initial, null, href);
+  }
+  // Every URL the quiz pushes drops the flag, so a retake never lands on a ?customer_posted URL.
+  const pageUrl = (href) => new Function('window', 'WQ', pageFunction('pageUrl') + '\nreturn pageUrl;')({ location: { href } }, WQ)();
+  assert.equal(pageUrl(page + '?customer_posted=true#wq=' + done.h), page);
+  assert.equal(pageUrl(page + '?breed=pug&customer_posted=true#wq-email'), page + '?breed=pug');
+  assert.equal(pageUrl(page + '?customer_posted=true&breed=pug'), page + '?breed=pug');
+  assert.equal(pageUrl(page + '?breed=pug#wq=x'), page + '?breed=pug');
+  assert.equal(pageUrl(page), page);
+});
+
+test('PAGE email panel: native POST to /contact with Shopify customer-form fields, labelled, no pre-checked boxes', () => {
+  const emailPanel = new Function('esc', 'SIGNUP_DONE', pageFunction('emailPanel') + '\nreturn emailPanel;')(esc, 'DONE');
+  const html = emailPanel('/contact#wq=x', 'newsletter,wooffy-quiz,breed-pug', false);
+  assert.match(html, /<form [^>]*method="post"[^>]*action="\/contact#wq=x"[^>]*accept-charset="UTF-8"/);
+  assert.ok(html.includes('<input type="hidden" name="form_type" value="customer">'), 'form_type');
+  assert.ok(html.includes('<input type="hidden" name="utf8" value="✓">'), 'utf8');
+  assert.ok(html.includes('<input type="hidden" name="contact[tags]" value="newsletter,wooffy-quiz,breed-pug">'), 'tags');
+  assert.match(html, /<input id="wq-email-in" type="email" name="contact\[email\]" required autocomplete="email"/);
+  assert.ok(html.includes('<label class="wq-email-label" for="wq-email-in">Email address</label>'), 'visible label');
+  assert.ok(!/type="checkbox"|checked/.test(html), 'no pre-checked consent boxes');
+  assert.ok(html.includes('Unsubscribe anytime. See our <a href="/policies/privacy-policy">privacy policy</a>.'), 'privacy line');
+  assert.ok(/Free 2-week New Dog Prep email course/.test(html) && /choosing a breeder or rescue, the first-week shopping list and routine, and real first-year costs\./i.test(html), 'offer copy');
+  assert.ok(!/3-week|training basics/i.test(html), 'copy must match the 2-week course, which has no training email');
+  assert.ok(!/personali[sz]ed|your results by email|email (me )?my (results|shortlist)/i.test(html), 'must not promise results by email');
+  assert.ok(/role="status" aria-live="polite"/.test(html), 'live region for the thank-you');
+  // Values are escaped even though the tags come from validated slugs.
+  assert.ok(emailPanel('/contact"><x', 'a"b<c', false).includes('value="a&quot;b&lt;c"'), 'tags not escaped');
+  assert.ok(emailPanel('/contact"><x', 'a', false).includes('action="/contact&quot;&gt;&lt;x"'), 'action not escaped');
+  // Thank-you state: no form, the message in a polite live region.
+  const done = emailPanel('/contact#wq=x', 'newsletter', true);
+  assert.ok(!/<form/.test(done) && /role="status" aria-live="polite">DONE<\/p>/.test(done), done);
+});
+
+test('PAGE email signup posts natively, tracks email_signup, restores after the redirect and copies a clean link', () => {
+  const ui = PAGE.slice(PAGE.indexOf('// WQ-SCORING-END'));
+  assert.ok(!/fetch\(|XMLHttpRequest|sendBeacon/.test(ui), 'signup must be a native form POST');
+  const at = ui.indexOf("addEventListener('submit'");
+  const submit = ui.slice(at, ui.indexOf('\n  });', at));
+  assert.ok(!/preventDefault/.test(submit), 'submit handler must not block the native POST');
+  assert.ok(/track\('email_signup', \{ tool: 'quiz', breed: top \}\)/.test(submit), 'email_signup event');
+  assert.ok(/writeSignup\(\{ h: state\.lastA \? WQ\.encode\(state\.lastA\) : null, e: state\.entry \|\| null, t: Date\.now\(\), done: false \}\)/.test(submit), 'record saved before the post');
+  assert.ok(/WQ\.signupReturn\(\{ search: window\.location\.search, hash: window\.location\.hash \}/.test(ui), 'restore reads customer_posted');
+  assert.ok(/var initial = readHash\(\) \|\| \(posted && posted\.a\) \|\| null;/.test(ui), 'the hash wins over the restored answers');
+  assert.ok(/if \(posted && !\(signupRec && signupRec\.done === true\)\) revealSignup\(\);/.test(ui), 'thank-you is revealed only on the return itself');
+  assert.ok(/state\.entry = readEntry\(\) \|\| \(posted && posted\.entry\) \|\| null;/.test(ui), 'entry breed restored');
+  assert.ok(pageFunction('copyLink').includes('WQ.shareUrl('), 'copy link must not copy ?customer_posted');
+  // Placed after the adoption card, before the result actions; it never gates the results.
+  const sr = pageFunction('showResults');
+  assert.ok(sr.includes('emailPanel(WQ.signupAction(a), WQ.signupTags('), 'results render the signup');
+  assert.ok(sr.indexOf('wq-adopt') < sr.indexOf('emailPanel(') && sr.indexOf('emailPanel(') < sr.indexOf('wq-actions'), 'panel placement');
+  assert.ok(!/data-slot="email-form"/.test(PAGE), 'dormant email slot still present');
+  // Page load: the restore adds no URL rewrite or history entry (GA4 counts URL changes as page views).
+  const init = ui.slice(ui.indexOf('var signupRec = readSignup();'));
+  assert.ok(!/pushState|setHistory\(true|location\.(hash|search|href)\s*=/.test(init.slice(0, init.indexOf('} else {'))), 'restore must not rewrite the URL');
+});

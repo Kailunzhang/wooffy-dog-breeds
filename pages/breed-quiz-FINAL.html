@@ -132,8 +132,17 @@
 #wq-root .wq-status{font-size:14px;color:var(--wq-teal-ink);font-weight:600;min-height:20px;}
 #wq-root .wq-share-url{width:100%;margin-top:8px;padding:10px;border:1px solid rgba(0,0,0,0.2);border-radius:8px;font-size:14px;}
 #wq-root .wq-fine{font-size:13px;color:var(--wq-muted);line-height:1.6;margin-top:12px;}
-#wq-root .wq-email form{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px;}
-#wq-root .wq-email input{flex:1;min-width:200px;padding:11px 14px;border:1px solid rgba(0,0,0,0.2);border-radius:10px;}
+/* email course signup: a native POST to Shopify's customer form (see emailPanel) */
+#wq-root .wq-email{border:1.5px solid var(--wq-teal);}
+#wq-root .wq-email-form{display:block;margin-top:12px;}
+#wq-root .wq-email-label{display:block;font-weight:700;font-size:15px;margin-bottom:6px;}
+#wq-root .wq-email-row{display:flex;flex-wrap:wrap;gap:10px;}
+#wq-root .wq-email-row input[type="email"]{flex:1 1 220px;min-width:0;height:auto;min-height:46px;padding:11px 14px;border:1px solid rgba(0,0,0,0.3);border-radius:10px;background:#ffffff;color:var(--wq-ink);}
+#wq-root .wq-email-row input[type="email"]:focus-visible{outline:3px solid #1a1a1a;outline-offset:2px;border-color:var(--wq-teal);}
+#wq-root .wq-email-row .wq-btn{flex:0 0 auto;}
+#wq-root .wq-email .wq-fine{margin-top:10px;}
+#wq-root .wq-email-status{display:block;font-size:16px;font-weight:700;color:var(--wq-teal-ink);margin-top:8px;}
+#wq-root .wq-email-status:empty{margin:0;}
 /* supporting content */
 #wq-root .wq-content h2{font-size:24px;line-height:1.3;font-weight:800;margin:34px 0 10px;}
 #wq-root .wq-content h3{font-size:18px;line-height:1.35;font-weight:700;margin:20px 0 6px;}
@@ -162,6 +171,7 @@
   #wq-root .wq-step{flex-direction:column;gap:2px;}
   #wq-root #wq-quiz:empty{min-height:459px;}
   #wq-root .wq-table th,#wq-root .wq-table td{padding:9px 10px;font-size:14px;}
+  #wq-root .wq-email-row .wq-btn{flex:1 1 100%;}
 }
 @media (prefers-reduced-motion:reduce){
   #wq-root *,#wq-root *::before,#wq-root *::after{transition:none !important;animation:none !important;scroll-behavior:auto !important;}
@@ -893,6 +903,61 @@ var WQ = (function () {
     return isComplete(a) ? a : null;
   }
 
+  /* ---------- email course signup: a native POST to Shopify's customer form at /contact ---------- */
+  var SIGNUP_MAX_AGE = 2 * 60 * 60 * 1000; // a pending signup older than this isn't trusted after a redirect
+  /* A slug that is in the data, else null. Only these reach a tag, so a tag never carries a comma, space or markup. */
+  function knownSlug(s, breeds) {
+    if (typeof s !== 'string' || !ENTRY_SLUG_RE.test(s)) return null;
+    for (var i = 0; i < (breeds || []).length; i++) if (breeds[i] && breeds[i].s === s) return s;
+    return null;
+  }
+  /* contact[tags]: Shopify splits on commas. breed-<top match>, plus checked-<slug> when the quiz came from a breed guide. */
+  function signupTags(topSlug, entry, breeds) {
+    var tags = ['newsletter', 'wooffy-quiz'];
+    var t = knownSlug(topSlug, breeds), e = knownSlug(entry, breeds);
+    if (t) tags.push('breed-' + t);
+    if (e) tags.push('checked-' + e);
+    return tags.join(',');
+  }
+  /* Shopify redirects a customer-form post back to the page with ?customer_posted=true, and the browser keeps the
+     action's #fragment, so /contact#wq=<answers> lands back on these results even when sessionStorage is blocked. */
+  function signupAction(a) {
+    return '/contact' + (a && isComplete(a) ? '#wq=' + encode(a) : '#wq-email');
+  }
+  function customerPosted(search) {
+    return /[?&]customer_posted=true(?:&|$)/.test(String(search || ''));
+  }
+  /* After Shopify's redirect: { a: answers or null, entry: slug or null } when this page's own signup just posted,
+     else null. loc = { search, hash }; rec = the sessionStorage record saved on submit ({ h, e, t, done }).
+     Another form's post (the theme footer returns to #ContactFooter) or a stale pending record doesn't count. */
+  function signupReturn(loc, rec, now, breeds) {
+    if (!loc || !customerPosted(loc.search)) return null;
+    var h = String(loc.hash || '').replace(/^#/, '');
+    if (!(h === '' || h === 'wq-email' || h.indexOf('wq=') === 0)) return null;
+    var fromHash = null;
+    if (h.indexOf('wq=') === 0) {
+      try { fromHash = decode(decodeURIComponent(h.slice(3).split('&')[0])); } catch (e) { fromHash = null; }
+    }
+    var recOk = !!rec && typeof rec === 'object' &&
+      (rec.done === true || (typeof rec.t === 'number' && now >= rec.t && now - rec.t <= SIGNUP_MAX_AGE));
+    if (!recOk && !fromHash) return null;
+    /* The link wins: after a signup the visitor may change answers, and the record keeps the answers from the post. */
+    var a = fromHash || (recOk && typeof rec.h === 'string' ? decode(rec.h) : null);
+    return { a: a, entry: recOk ? knownSlug(rec.e, breeds) : null };
+  }
+  /* The page URL without its #fragment and without Shopify's customer_posted flag; other query params are kept. */
+  function withoutPosted(href) {
+    var base = String(href || '').split('#')[0];
+    var q = base.indexOf('?');
+    if (q === -1) return base;
+    var kept = base.slice(q + 1).split('&').filter(function (p) { return p && p.split('=')[0] !== 'customer_posted'; });
+    return base.slice(0, q) + (kept.length ? '?' + kept.join('&') : '');
+  }
+  /* "Copy link to results": the page URL without Shopify's customer_posted flag, with the results in the hash. */
+  function shareUrl(href, a) {
+    return withoutPosted(href) + '#wq=' + encode(a);
+  }
+
   return {
     BANDS: BANDS, KEYS: KEYS, ALLOWED: ALLOWED, MULTI: MULTI, EXCLUSIVE: EXCLUSIVE, MAX_PICKS: MAX_PICKS, OPTIONAL: OPTIONAL,
     MIN_RESULTS: MIN_RESULTS, USER_MAX_MIN: USER_MAX_MIN, ENERGY_CAP: ENERGY_CAP,
@@ -901,7 +966,9 @@ var WQ = (function () {
     reasons: reasons, headsUps: headsUps, cardNotes: cardNotes, checkNotes: checkNotes, topicsOf: topicsOf, topicApplies: topicApplies,
     conflicts: conflicts, describeDog: describeDog, entrySlug: entrySlug, breedCheck: breedCheck,
     linkType: linkType, checklistLink: checklistLink,
-    isComplete: isComplete, encode: encode, decode: decode
+    isComplete: isComplete, encode: encode, decode: decode,
+    SIGNUP_MAX_AGE: SIGNUP_MAX_AGE, signupTags: signupTags, signupAction: signupAction, customerPosted: customerPosted,
+    signupReturn: signupReturn, withoutPosted: withoutPosted, shareUrl: shareUrl
   };
 })();
 // WQ-SCORING-END
@@ -997,7 +1064,9 @@ var WQ = (function () {
   /* The counter counts the required questions; the optional budget screen is labelled on its own. */
   var REQUIRED = QUESTIONS.filter(function (q) { return !q.optional; }).length;
 
-  var state = { i: 0, a: {}, started: false, ranking: null, lastA: null, shown: SHOWN_FIRST, advancing: false, edit: false, entry: null };
+  var state = { i: 0, a: {}, started: false, ranking: null, lastA: null, shown: SHOWN_FIRST, advancing: false, edit: false, entry: null, signedUp: false };
+  var SIGNUP_KEY = 'wq-email-v1';
+  var SIGNUP_DONE = 'You’re in — check your inbox for the first email.';
 
   function esc(s) {
     return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
@@ -1034,8 +1103,9 @@ var WQ = (function () {
 
   /* ---------- history: each question and the results get their own entry, so the phone's
      back gesture steps back through the quiz instead of leaving the page ---------- */
-  /* Absolute URLs, so a <base> tag on the theme can't point history at another origin. */
-  function pageUrl() { return window.location.href.split('#')[0]; }
+  /* Absolute URLs, so a <base> tag on the theme can't point history at another origin. Every URL the quiz pushes
+     drops ?customer_posted, so a later reload or retake isn't mistaken for a fresh return from an email signup. */
+  function pageUrl() { return WQ.withoutPosted(window.location.href); }
   function setHistory(push, entry, url) {
     try {
       if (push) window.history.pushState(entry, '', url);
@@ -1079,6 +1149,13 @@ var WQ = (function () {
       if (!raw) return null;
       return { a: cleanAnswers(raw.a), i: typeof raw.i === 'number' ? raw.i : 0 };
     } catch (e) { return null; }
+  }
+  /* The signup record: { h: encoded answers, e: entry breed, t: submit time, done: Shopify confirmed the post }. */
+  function readSignup() {
+    try { return JSON.parse(window.sessionStorage.getItem(SIGNUP_KEY) || 'null'); } catch (e) { return null; }
+  }
+  function writeSignup(rec) {
+    try { window.sessionStorage.setItem(SIGNUP_KEY, JSON.stringify(rec)); } catch (e) { /* the #wq= return anchor still restores the results */ }
   }
   function answered(q) {
     var v = state.a[q.k];
@@ -1330,7 +1407,48 @@ var WQ = (function () {
       '</div></article>';
   }
 
-  function showResults(a, fromQuiz) {
+  /* The email course offer, or its thank-you state once Shopify confirmed the signup this session. A plain form that
+     posts natively (no fetch): Shopify may answer with an hCaptcha challenge page, which only works as a navigation. */
+  function emailPanel(action, tags, done) {
+    var head = '<h3 class="wq-panel-h" id="wq-email-h" tabindex="-1">Free 2-week New Dog Prep email course</h3>';
+    if (done) {
+      return '<div class="wq-panel wq-email" id="wq-email">' + head +
+        '<p class="wq-email-status" role="status" aria-live="polite">' + esc(SIGNUP_DONE) + '</p></div>';
+    }
+    return '<div class="wq-panel wq-email" id="wq-email">' + head +
+      '<p class="wq-sub">Choosing a breeder or rescue, the first-week shopping list and routine, and real first-year costs. Optional: your results stay on this page either way.</p>' +
+      '<form class="wq-email-form" id="wq-email-form" method="post" action="' + esc(action) + '" accept-charset="UTF-8">' +
+        '<input type="hidden" name="form_type" value="customer"><input type="hidden" name="utf8" value="✓">' +
+        '<input type="hidden" name="contact[tags]" value="' + esc(tags) + '">' +
+        '<label class="wq-email-label" for="wq-email-in">Email address</label>' +
+        '<div class="wq-email-row"><input id="wq-email-in" type="email" name="contact[email]" required autocomplete="email" autocapitalize="off" spellcheck="false" placeholder="you@example.com">' +
+        '<button type="submit" class="wq-btn">Send me the course</button></div>' +
+      '</form>' +
+      '<p class="wq-fine">Unsubscribe anytime. See our <a href="/policies/privacy-policy">privacy policy</a>.</p>' +
+      '<p class="wq-email-status" role="status" aria-live="polite"></p></div>';
+  }
+  /* Shopify's hCaptcha wires up forms that exist at DOMContentLoaded; this one is rendered later, so wire it on first use. */
+  function protectForm(form) {
+    if (!form || form.getAttribute('data-wq-captcha')) return;
+    form.setAttribute('data-wq-captcha', '1');
+    try {
+      var cap = window.Shopify && window.Shopify.captcha;
+      if (cap && typeof cap.protect === 'function') cap.protect(form);
+    } catch (e) { /* Shopify can still send the visitor to its /challenge page */ }
+  }
+  /* Back from Shopify after a signup: bring the thank-you into view, then fill the live region so it is announced. */
+  function revealSignup() {
+    var panel = document.getElementById('wq-email');
+    var status = panel && panel.querySelector('.wq-email-status');
+    if (!status) return;
+    var h = document.getElementById('wq-email-h');
+    if (h) { try { h.focus({ preventScroll: true }); } catch (e) { h.focus(); } }
+    try { panel.scrollIntoView({ behavior: 'auto', block: 'center' }); } catch (e) { panel.scrollIntoView(); }
+    status.textContent = '';
+    setTimeout(function () { status.textContent = SIGNUP_DONE; }, 150);
+  }
+
+  function showResults(a, fromQuiz, noScroll) {
     state.lastA = a;
     state.edit = false;
     state.ranking = WQ.rank(BREEDS, a);
@@ -1364,9 +1482,7 @@ var WQ = (function () {
     html += '<div class="wq-panel wq-adopt"><h3 class="wq-panel-h">Prefer to adopt?</h3>' +
       '<p>Your answers describe ' + esc(WQ.describeDog(a)) + '. Shelters and rescues have many mixed-breed dogs like that, and adult dogs often come with a known personality. Ask staff about energy, barking and time alone.</p>' +
       '<p style="margin-top:8px;"><a href="/blogs/dog-breeds/mixed-breed-dogs">Read our mixed-breed dog guide</a></p></div>';
-    html += '<div class="wq-panel wq-email" data-slot="email-form" hidden><h3 class="wq-panel-h">Email me my shortlist</h3>' +
-      '<p class="wq-sub">Get these matches plus a first-year cost checklist. Optional: your results stay on this page either way.</p>' +
-      '<form onsubmit="return false;"><label class="wq-sr" for="wq-email-in">Email address</label><input id="wq-email-in" type="email" autocomplete="email" placeholder="you@email.com"><button type="submit" class="wq-btn">Send it</button></form></div>';
+    html += emailPanel(WQ.signupAction(a), WQ.signupTags(list[0] ? list[0].b.s : null, state.entry, BREEDS), state.signedUp);
     html += '<div class="wq-actions"><button type="button" class="wq-btn" data-act="copy">Copy link to results</button>' +
       '<button type="button" class="wq-btn wq-btn-ghost" data-act="edit">Change my answers</button>' +
       '<button type="button" class="wq-btn wq-btn-ghost" data-act="retake">Retake the quiz</button></div>' +
@@ -1375,7 +1491,7 @@ var WQ = (function () {
     resEl.innerHTML = html;
     quizEl.hidden = true;
     resEl.hidden = false;
-    focusHeading(document.getElementById('wq-res-title'), true);
+    focusHeading(document.getElementById('wq-res-title'), !noScroll);
     if (fromQuiz) track('quiz_complete', withEntry({ quiz: 'breed_selector', top_breed: list[0] ? list[0].b.s : '', result_count: list.length }));
   }
 
@@ -1450,6 +1566,19 @@ var WQ = (function () {
   resEl.addEventListener('change', function (e) {
     if (e.target && e.target.id === 'wq-check') renderCheck(e.target.value);
   });
+  resEl.addEventListener('focusin', function (e) {
+    var form = e.target.closest ? e.target.closest('#wq-email-form') : null;
+    if (form) protectForm(form);
+  });
+  /* The browser validates the type=email field first (no submit event while it's invalid). Then the post goes ahead
+     natively; the record lets the results come back after Shopify's redirect. */
+  resEl.addEventListener('submit', function (e) {
+    var form = e.target;
+    if (!form || form.id !== 'wq-email-form') return;
+    var top = state.ranking && state.ranking.list.length ? state.ranking.list[0].b.s : '';
+    writeSignup({ h: state.lastA ? WQ.encode(state.lastA) : null, e: state.entry || null, t: Date.now(), done: false });
+    track('email_signup', { tool: 'quiz', breed: top });
+  });
   function editAt(i) {
     state.edit = true;
     state.i = safeIndex(i);
@@ -1500,7 +1629,8 @@ var WQ = (function () {
 
   function copyLink() {
     var status = resEl.querySelector('.wq-status');
-    var url = window.location.href;
+    /* Built from the answers, not the address bar, so a link copied after an email signup drops ?customer_posted. */
+    var url = state.lastA ? WQ.shareUrl(window.location.href, state.lastA) : window.location.href;
     var done = function () { status.textContent = 'Link copied. Open it any time to see these results again.'; };
     var fallback = function () {
       status.textContent = 'Copy this link:';
@@ -1516,13 +1646,13 @@ var WQ = (function () {
     } catch (e) { fallback(); }
   }
 
-  function loadFromHash(a) {
+  function loadFromHash(a, noScroll) {
     state.a = {};
     WQ.KEYS.forEach(function (k) { state.a[k] = a[k]; });
     state.started = true;
     state.i = TOTAL - 1;
     save();
-    showResults(a, false);
+    showResults(a, false, noScroll);
   }
   /* Back/forward between our own entries: questions step back, results come back from the link. */
   window.addEventListener('popstate', function (e) {
@@ -1543,12 +1673,21 @@ var WQ = (function () {
     if (a && (!state.lastA || WQ.encode(a) !== WQ.encode(state.lastA) || resEl.hidden)) loadFromHash(a);
   });
 
-  var initial = readHash();
-  state.entry = readEntry();
+  /* Back from Shopify after an email signup (?customer_posted=true): restore the results that were on screen and show
+     the thank-you. The URL is left as Shopify returned it: no extra history entry or rewrite (GA4 counts URL changes as page views). */
+  var signupRec = readSignup();
+  var posted = WQ.signupReturn({ search: window.location.search, hash: window.location.hash }, signupRec, Date.now(), BREEDS);
+  if (posted) writeSignup({ h: posted.a ? WQ.encode(posted.a) : null, e: posted.entry, t: Date.now(), done: true });
+  state.signedUp = !!posted || !!(signupRec && signupRec.done === true);
+  /* The link wins over the saved record: after a signup the visitor may have changed answers on this URL. */
+  var initial = readHash() || (posted && posted.a) || null;
+  state.entry = readEntry() || (posted && posted.entry) || null;
   if (initial) {
     var entry = currentEntry();
-    loadFromHash(initial);
+    loadFromHash(initial, !!posted);
     setHistory(false, { wq: 'r', below: entry && entry.below || null }, null);
+    /* Only on the return itself: a reload after the signup was confirmed keeps the thank-you without re-focusing it. */
+    if (posted && !(signupRec && signupRec.done === true)) revealSignup();
   } else {
     var saved = restore(), here = currentEntry();
     /* A fresh visit (no history entry of ours) resumes an unfinished quiz but starts over after a finished one. */
