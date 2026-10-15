@@ -39,6 +39,11 @@
 - **换板块/频率**：`scripts/reddit_trends/feeds.py` 的 `DEFAULT_SUBREDDITS`；cron 在 yml 里。
 - **指定题目**：Run workflow 时填 topic，或本地 `python scripts/reddit_trends/run.py --topic "..." --cluster training`。
 
+## 事故记录
+
+- **2026-10-13/14 同题发了两篇**（`how-to-crate-train-a-puppy-and-stop-crying`、`how-to-crate-train-a-puppy-step-by-step`）。原因：`generate.py --publish` 发布后自动重写 ARTICLES.md/.xlsx，提交步骤的 `git pull --rebase` 因工作区有未暂存改动而退出 128，状态文件和文章 JSON 没进仓库，第二天不知道昨天选过什么。修复（10-14）：提交步骤连 ARTICLES.md/.xlsx 一起提交并用 `--autostash`；选题前额外向 Shopify 查最近 30 天已发文章的 handle 做去重，不再只信仓库状态。两篇文章的 JSON 不在仓库里，需从 Shopify 回填或删一篇。
+- **Amazon 链接**：`scripts/inject_amazon_links.py` 只处理美容/清单/成本页、榜单页和目录里点名的 10 个 extra 页，而且是手动批量脚本，没有任何 workflow 调它；热点文章（size_category "Guide"、slug 无后缀）不在它的范围内。另外目录里按 2026-09-29 的决定没有狗笼，所以 crate 文章最相关的品类本来就不存在。要给热点文章挂链接需要两步：目录加一个 "guide" 页型（按 anchors 匹配通用品类：围栏、门栏、填食玩具、训练零食、嗅闻垫、尿垫、酶清洁剂等），再在 run.py 发布前调用注入器。
+
 ## 已知限制（诚实版）
 
 - **GitHub Actions 的 IP 可能被 Reddit 拦**。我在你家网络验证了 RSS 能拿到（1 次/分钟），但云端 IP 没验证。第一次 dry-run 的邮件/日志会直接告诉你哪些板块失败；如果 7 个全失败，备选是注册一个 Reddit 应用走 OAuth（需要 Reddit 账号），我再接。
@@ -102,6 +107,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -142,12 +148,16 @@ jobs:
         run: |
           git config user.name "wooffy-bot"
           git config user.email "wooffy-bot@users.noreply.github.com"
-          git add reddit-trends-state.json breed-data/*.json || true
+          # generate.py --publish regenerates ARTICLES.md/.xlsx; commit them too,
+          # otherwise the dirty tree makes `git pull --rebase` exit 128 and the
+          # state file is lost (which is how the same topic got published twice
+          # on 2026-10-13 and 2026-10-14).
+          git add reddit-trends-state.json breed-data/*.json ARTICLES.md ARTICLES.xlsx || true
           if git diff --cached --quiet; then
             echo "Nothing to commit"
           else
             git commit -m "chore: daily reddit-trend article $(date -u +%F) [skip ci]"
-            git pull --rebase origin main
+            git pull --rebase --autostash origin main
             git push origin HEAD:main
           fi
 ```

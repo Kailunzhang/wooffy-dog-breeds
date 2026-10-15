@@ -45,6 +45,37 @@ def test_recent_topics_respects_window():
     assert run.recent_topics(state, date(2026, 10, 12)) == ["new-one"]
 
 
+def test_shopify_recent_handles_returns_empty_without_creds():
+    assert run.shopify_recent_handles({}) == []
+    assert run.shopify_recent_handles({"SHOPIFY_STORE": "x.myshopify.com"}) == []
+
+
+def test_shopify_recent_handles_collects_each_configured_blog(monkeypatch):
+    calls = []
+
+    class Resp:
+        status_code = 200
+
+        def __init__(self, blog):
+            self._blog = blog
+
+        def json(self):
+            return {"articles": [{"handle": f"{self._blog}-topic"}, {"handle": "shared-topic"}]}
+
+    def fake_get(url, params=None, headers=None, timeout=None):
+        calls.append((url, params["created_at_min"][:4]))
+        return Resp(url.rsplit("/blogs/", 1)[1].split("/")[0])
+
+    import requests
+    monkeypatch.setattr(requests, "get", fake_get)
+    env = {"SHOPIFY_STORE": "x.myshopify.com", "SHOPIFY_TOKEN": "t",
+           "SHOPIFY_BLOG_ID": "11", "SHOPIFY_DOG_NUTRITION_BLOG_ID": "22",
+           "SHOPIFY_LIFE_WITH_DOGS_BLOG_ID": "0"}
+    handles = run.shopify_recent_handles(env)
+    assert handles == ["11-topic", "22-topic", "shared-topic"]
+    assert len(calls) == 2 and all(y == "2026" for _, y in calls)
+
+
 def test_manual_topic_builds_slug():
     topic = run.manual_topic("Crate Training a Rescue Dog at Night!", "training", True)
     assert topic.slug == "crate-training-a-rescue-dog-at-night"

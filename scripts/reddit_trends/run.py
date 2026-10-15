@@ -100,6 +100,38 @@ def recent_topics(state: dict, today: date, days: int = RECENT_DAYS) -> list[str
     return [p["slug"] for p in state.get("picked", []) if p.get("date", "") >= cutoff]
 
 
+def shopify_recent_handles(env: dict[str, str], days: int = 30, limit: int = 50) -> list[str]:
+    """Handles of articles created recently in every configured blog.
+
+    Second line of defence against duplicates: the repo state can be lost
+    (a failed commit-back step published the same topic twice on
+    2026-10-13/14), but the live store always knows what went out.
+    """
+    store, token = env.get("SHOPIFY_STORE", "").strip(), env.get("SHOPIFY_TOKEN", "").strip()
+    if not (store and token):
+        return []
+    import requests  # noqa: WPS433 - optional dependency path
+
+    since = (date.today() - timedelta(days=days)).isoformat() + "T00:00:00Z"
+    handles: list[str] = []
+    for handle in set(CLUSTER_BLOG.values()):
+        blog_id = env.get(blog_env_var(handle), "").strip()
+        if blog_id in ("", "0"):
+            continue
+        try:
+            resp = requests.get(
+                f"https://{store}/admin/api/2024-01/blogs/{blog_id}/articles.json",
+                params={"limit": limit, "created_at_min": since, "fields": "handle"},
+                headers={"X-Shopify-Access-Token": token}, timeout=30)
+            if resp.status_code == 200:
+                handles += [a["handle"] for a in resp.json().get("articles", []) if a.get("handle")]
+            else:
+                print(f"  shopify recent ({handle}): HTTP {resp.status_code}", flush=True)
+        except requests.RequestException as exc:
+            print(f"  shopify recent ({handle}): {exc}", flush=True)
+    return sorted(set(handles))
+
+
 def manual_topic(text: str, cluster: str, ymyl: bool) -> selector.TopicProposal:
     slug = re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")[:70]
     return selector.TopicProposal(slug=slug, title=text, angle=text, cluster=cluster,
@@ -121,10 +153,13 @@ def pick_topic(args, env, state, today):
           f"{len(fetched.failed)} feeds failed", flush=True)
     if not cands:
         return None, [], fetched.failed
-    prompt = selector.build_selection_prompt(cands, sorted(known), recent_topics(state, today))
+    live_recent = shopify_recent_handles(env)
+    recent = sorted(set(recent_topics(state, today)) | set(live_recent))
+    print(f"{len(live_recent)} recent live handles from Shopify, {len(recent)} recent topics total", flush=True)
+    prompt = selector.build_selection_prompt(cands, sorted(known | set(live_recent)), recent)
     raw = writer.call_claude(env["ANTHROPIC_API_KEY"], args.model, selector.SELECTION_SYSTEM,
                              prompt, max_tokens=2000)
-    topic = selector.choose(selector.parse_selection(raw), known)
+    topic = selector.choose(selector.parse_selection(raw), known | set(live_recent))
     return topic, cands, fetched.failed
 
 
