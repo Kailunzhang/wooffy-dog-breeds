@@ -18,6 +18,10 @@ on:
         description: 'Redo pages that already have answers (true/false)'
         required: false
         default: 'false'
+      slugs:
+        description: 'Only these slugs, space-separated (empty = all main guides)'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -43,6 +47,7 @@ jobs:
           ARGS=""
           [ -n "${{ github.event.inputs.limit }}" ] && ARGS="$ARGS --limit ${{ github.event.inputs.limit }}"
           [ "${{ github.event.inputs.overwrite }}" = "true" ] && ARGS="$ARGS --overwrite"
+          for s in ${{ github.event.inputs.slugs }}; do ARGS="$ARGS --slug $s"; done
           python3 scripts/geo_fit_answers.py $ARGS | tee fit-answers.log
           echo "slugs=$(tail -n 1 fit-answers.log)" >> "$GITHUB_OUTPUT"
 

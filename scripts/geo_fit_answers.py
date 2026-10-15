@@ -60,7 +60,8 @@ SYSTEM = (
     "facts that are not in them. Each answer: 15-70 words, starts with a direct verdict (Yes / No / "
     "It depends / Only if ...), then one or two concrete reasons taken from the page, in plain "
     "second-person prose that a consumer AI assistant could quote. If the page genuinely does not "
-    "support an answer to a question, return null for it instead of guessing. "
+    "support an answer to a question, return null for it instead of guessing. State facts directly: "
+    "never write 'the page', 'the guide', 'the stats' or 'the excerpts say'. "
     "Respond with a single JSON object and nothing else."
 )
 
@@ -189,6 +190,7 @@ def parse_json(text):
 
 
 NUM = re.compile(r"\d[\d,]*(?:\.\d+)?")
+META_REF = re.compile(r"\b(the|this|our) (page|guide|stats|excerpts?|article)\b", re.I)
 
 
 def validate(answer, source):
@@ -201,6 +203,8 @@ def validate(answer, source):
         return f"{n} words"
     if not VERDICT.match(a):
         return "no verdict opener"
+    if META_REF.search(a):
+        return "refers to the page/guide"
     src_nums = set(NUM.findall(source))
     extra = [x for x in NUM.findall(a) if x not in src_nums]
     if extra:
