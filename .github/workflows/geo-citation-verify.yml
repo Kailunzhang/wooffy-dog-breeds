@@ -49,5 +49,8 @@ jobs:
             echo "no cache changes to commit"
           else
             git commit -m "chore(geo): verify citation URLs $(date -u +%F) [skip ci]"
-            git push
+            for i in 1 2 3; do
+              git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && break
+              echo "push rejected, retrying ($i)"; sleep 5
+            done
           fi

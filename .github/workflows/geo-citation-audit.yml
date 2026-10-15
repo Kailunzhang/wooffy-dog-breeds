@@ -50,5 +50,8 @@ jobs:
             echo "no citation-audit changes to commit"
           else
             git commit -m "chore(geo): citation audit $(date -u +%F) [skip ci]"
-            git push
+            for i in 1 2 3; do
+              git pull --rebase --autostash origin main && git push && break
+              echo "push rejected, retrying ($i)"; sleep 5
+            done
           fi
