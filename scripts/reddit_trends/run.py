@@ -188,6 +188,20 @@ def write_article(args, env, topic, cands):
     return article, writer.validate_article(article, known), review
 
 
+def inject_amazon(slug: str) -> tuple[list[dict], str]:
+    """Add labeled Amazon affiliate links to the article JSON before publishing.
+
+    Reuses scripts/inject_amazon_links.py ("guide" page kind). Any failure is
+    reported in the email but never blocks publishing.
+    """
+    try:
+        import inject_amazon_links as amz  # noqa: WPS433 - scripts/ is on sys.path
+        placed = amz.inject_one(str(BREED_DATA / f"{slug}.json"))
+        return placed, ""
+    except Exception as exc:  # noqa: BLE001
+        return [], f"{type(exc).__name__}: {exc}"
+
+
 def publish(slug: str) -> tuple[bool, str]:
     proc = subprocess.run([sys.executable, str(ROOT / "scripts" / "generate.py"), slug, "--publish"],
                           input="YES\n", capture_output=True, text=True, cwd=str(ROOT))
@@ -298,6 +312,9 @@ def main(argv=None) -> int:
                 status = "blocked"
                 report.append("审核未通过：已保存为未发布草稿（published:false），没有上线。")
             else:
+                placed, amz_err = inject_amazon(topic.slug)
+                report.append("Amazon 链接: " + (", ".join(p["name"] for p in placed) if placed else "无匹配商品")
+                              + (f"  [注入失败: {amz_err}]" if amz_err else ""))
                 ok, url = publish(topic.slug)
                 status = "published" if ok else "publish-failed"
                 report.append(f"发布: {'成功 ' + url if ok else '失败，见 Actions 日志'}  博客: {blog_handle}")

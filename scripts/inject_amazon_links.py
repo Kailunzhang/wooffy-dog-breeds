@@ -40,10 +40,17 @@ CATALOG = os.path.join(ROOT, "amazon-catalog.json")
 MARK = "<!-- WOOFFY_AMZ_v1 -->"
 END = "<!-- /WOOFFY_AMZ_v1 -->"
 BLOCK_RE = re.compile(re.escape(MARK) + r".*?" + re.escape(END), re.DOTALL)
-MAX_PER_PAGE = {"grooming": 4, "checklist": 6, "costs": 4, "extra": 3, "roundup": 4}  # raised 2026-10-08 (was 3/4/3/3)
+MAX_PER_PAGE = {"grooming": 4, "checklist": 6, "costs": 4, "extra": 3, "roundup": 4,
+                "guide": 3}  # raised 2026-10-08 (was 3/4/3/3); guide = reddit-trend articles (2026-10-14)
 STAGES = {"checklist": {"puppy", "any"}, "grooming": {"adult", "any"},
           "costs": {"any", "puppy"}, "extra": {"adult", "any", "puppy", "senior"},
-          "roundup": {"adult", "any"}}  # roundups (meta.size_category == "Roundup") added 2026-10-08
+          "roundup": {"adult", "any"},  # roundups (meta.size_category == "Roundup") added 2026-10-08
+          "guide": {"adult", "any", "puppy", "senior"}}
+# Daily reddit-trend guides (scripts/reddit_trends) carry source.pipeline == "reddit_trends".
+# They are non-breed pages: any catalog product whose anchors appear may be placed
+# (no page_types gate, like "extra"), but exclude_if still applies because nobody
+# hand-reviews these pages before they go live.
+TREND_PIPELINE = "reddit_trends"
 DISCLOSURE = (f'{MARK}<p class="wfy-aff-note" style="font-size:13px;color:#6b6b6b;margin:0 0 16px;">'
               "<em>This guide contains affiliate links. As an Amazon Associate, Wooffy earns "
               f"from qualifying purchases.</em></p>{END}")
@@ -119,6 +126,9 @@ class Rules:
         self.coat = {slug: cmap.get(cat) for slug, cat in coats.items()}
         self.rake_first: set[str] = set()
         self.roundup_gear: dict = catalog.get("roundup_gear") or {}
+        # size_variants[].non_breed_default: the one size to show on pages with no breed weight
+        self.non_breed_defaults: set[str] = {
+            g["non_breed_default"] for g in catalog.get("size_variants") or [] if g.get("non_breed_default")}
         for alt in catalog.get("alternatives") or []:
             if alt.get("type") == "brush_order":
                 self.rake_first |= set(alt.get("slugs") or [])
@@ -154,6 +164,15 @@ def candidates(slug: str, kind: str, text: str, catalog: list[dict], breed, weig
             continue
         if kind == "extra":
             if slug not in (p.get("extra_slugs") or []):
+                continue
+        elif kind == "guide":
+            # anchors + exclude_if decide; no page_types gate for non-breed guides.
+            # Without a breed weight a size variant (KONG X-Large, Benebone Small)
+            # would be picked by asin order, so size-specific products stay off
+            # unless the catalog names them as their group's non_breed_default.
+            fit = p.get("fit") or {}
+            if weights is None and (fit.get("wmin") is not None or fit.get("wmax") is not None) \
+                    and p["asin"] not in rules.non_breed_defaults:
                 continue
         elif kind == "roundup":
             if not (p.get("page_types") or slug in (p.get("extra_slugs") or [])):
@@ -276,6 +295,8 @@ def process(path: str, catalog: list[dict], weights: dict, extra: set[str],
         kind = "roundup"
     if kind is None and slug in extra:
         kind = "extra"
+    if kind is None and (d.get("source") or {}).get("pipeline") == TREND_PIPELINE:
+        kind = "guide"
     if kind is None:
         return None
     if (d.get("meta") or {}).get("published", True) is False:
@@ -387,6 +408,29 @@ def write(path: str, doc: dict, fields: list[tuple[list, str]]) -> bool:
         return False
     open(path, "w", encoding="utf-8").write(out)
     return True
+
+
+def load_rules(catalog_path: str = CATALOG) -> tuple[list[dict], Rules, set[str], dict]:
+    """(catalog entries, Rules, extra slugs, breed weights) — shared by main() and run.py."""
+    raw_cat = json.load(open(catalog_path, encoding="utf-8"))
+    catalog = raw_cat["entries"] if isinstance(raw_cat, dict) else raw_cat
+    traits = json.load(open(os.path.join(ROOT, "breed_traits.json"), encoding="utf-8"))
+    rules = Rules(raw_cat if isinstance(raw_cat, dict) else {},
+                  {t["slug"]: t.get("category") for t in traits})
+    extra = {s for p in catalog for s in (p.get("extra_slugs") or [])}
+    return catalog, rules, extra, breed_weights()
+
+
+def inject_one(path: str, catalog_path: str = CATALOG) -> list[dict]:
+    """Inject into a single breed-data JSON in place; returns the placed products ([] if none)."""
+    catalog, rules, extra, weights = load_rules(catalog_path)
+    res = process(path, catalog, weights, extra, rules)
+    if not res:
+        return []
+    # Always write: when nothing is placed, this strips stale blocks (and the
+    # orphan disclosure) left by an earlier run with different rules.
+    write(path, res["doc"], res["fields"])
+    return res["placed"]
 
 
 def main(argv: list[str]) -> int:

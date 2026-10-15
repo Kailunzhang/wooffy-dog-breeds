@@ -5,7 +5,7 @@
    "grooming": "wooffygroom-20",
    "checklist": "wooffycheck-20",
    "costs": "wooffycost-20",
-   "extra": "wooffy-20"
+   "extra": "wooffy-20", "guide": "wooffy-20"
   },
   "link_format": "https://www.amazon.com/dp/{asin}/?tag={tags_by_kind[page_kind]} (2026-10-08; amzn.to short links in `short` are the pre-split fallback)",
   "link_rel": "sponsored nofollow noopener",
@@ -5930,8 +5930,9 @@
      "asin": "B09K9FDLFN"
     }
    ]
-  }
- ],
+  },
+  {"group": "kong_classic", "type": "stuffable_toy", "pick": "band containing the breed's mid-weight; non-breed guides (reddit_trends) get the Medium", "members": [{"asin": "B0002AR15U", "wmin": null, "wmax": 20}, {"asin": "B000AYN7LU", "wmin": 15, "wmax": 35}, {"asin": "B0002AR0I8", "wmin": 30, "wmax": 65}, {"asin": "B0002AR0HO", "wmin": 60, "wmax": null}], "non_breed_default": "B000AYN7LU", "note": "Added 2026-10-14 so trend guides with no breed weight can link one KONG size."}
+],
  "alternatives": [
   {
    "type": "enzymatic_cleaner",

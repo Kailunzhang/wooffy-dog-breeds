@@ -42,7 +42,7 @@
 ## 事故记录
 
 - **2026-10-13/14 同题发了两篇**（`how-to-crate-train-a-puppy-and-stop-crying`、`how-to-crate-train-a-puppy-step-by-step`）。原因：`generate.py --publish` 发布后自动重写 ARTICLES.md/.xlsx，提交步骤的 `git pull --rebase` 因工作区有未暂存改动而退出 128，状态文件和文章 JSON 没进仓库，第二天不知道昨天选过什么。修复（10-14）：提交步骤连 ARTICLES.md/.xlsx 一起提交并用 `--autostash`；选题前额外向 Shopify 查最近 30 天已发文章的 handle 做去重，不再只信仓库状态。两篇文章的 JSON 不在仓库里，需从 Shopify 回填或删一篇。
-- **Amazon 链接**：`scripts/inject_amazon_links.py` 只处理美容/清单/成本页、榜单页和目录里点名的 10 个 extra 页，而且是手动批量脚本，没有任何 workflow 调它；热点文章（size_category "Guide"、slug 无后缀）不在它的范围内。另外目录里按 2026-09-29 的决定没有狗笼，所以 crate 文章最相关的品类本来就不存在。要给热点文章挂链接需要两步：目录加一个 "guide" 页型（按 anchors 匹配通用品类：围栏、门栏、填食玩具、训练零食、嗅闻垫、尿垫、酶清洁剂等），再在 run.py 发布前调用注入器。
+- **Amazon 链接（10-14 已接上）**：`scripts/inject_amazon_links.py` 原本只处理美容/清单/成本页、榜单页和目录点名的 extra 页，且无 workflow 调用，热点文章拿不到链接。现在：`source.pipeline == "reddit_trends"` 的文章算 "guide" 页型（每页最多 3 个，按 anchors 匹配、仍受 exclude_if 约束，不看 page_types）；没有犬种体重时分尺码商品只用目录 `size_variants[].non_breed_default` 指定的那个尺码（新增 kong_classic 组，默认 Medium）；`run.py` 发布前调用 `inject_one`，邮件里列出挂了哪些商品。追踪 ID 用 `tags_by_kind.guide = wooffy-20`，想单独统计就在 Associates 后台建 `wooffyguide-20` 再改目录。目录里仍然没有狗笼（09-29 决定）。
 
 ## 已知限制（诚实版）
 
