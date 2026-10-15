@@ -153,6 +153,20 @@
         "Homes with cats, rabbits, or other small animals — prey drive is very high",
         "Owners who want a low-energy or low-maintenance breed",
         "Households without secure fencing — off-leash reliability in open areas is not realistic"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an Airedale Terrier a good dog for first-time owners?",
+          "a": "No, an Airedale Terrier isn't ideal as your first dog. Terrier independence is real: Airedales learn commands quickly but then decide whether to follow them, which frustrates inexperienced owners. They do best with handlers who already understand canine body language, consistent boundaries, and patient training."
+        },
+        {
+          "q": "Can an Airedale Terrier live in an apartment?",
+          "a": "Only if you also have reliable access to a securely fenced area. The breed's high prey drive makes a fenced yard 'not optional,' and on-leash walks should be supplemented with off-leash time in a secure space. You'd also need to provide 60–90 minutes of vigorous exercise daily."
+        },
+        {
+          "q": "Is an Airedale Terrier good with kids?",
+          "a": "Yes, especially with older children. Airedales are playful, loyal, and generally good with children in their own household, and they're sturdy enough for active kids. However, their exuberance and size can be too much for toddlers, and they need an engaged family rather than a passive one."
+        }
       ]
     },
     "finding": {

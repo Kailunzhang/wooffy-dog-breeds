@@ -154,6 +154,24 @@
         "Anyone who cannot provide a securely fenced running area",
         "People who want a responsive, people-pleasing dog with trainable obedience",
         "Owners who are not prepared for major grooming time investment"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an Afghan Hound a good dog for first-time owners?",
+          "a": "No. The page states that Afghan Hounds are not recommended for first-time owners because they frustrate inexperienced handlers. Training is genuinely challenging: they are intelligent but independent and do not perform for approval, so they do best with owners who already understand canine body language, consistent boundaries and patient training."
+        },
+        {
+          "q": "Can an Afghan Hound live in an apartment?",
+          "a": "Only if you have reliable access to a securely fenced area where your Afghan can sprint. The breed needs bursts of full-speed running, and leashed walks alone don't meet that need. The ideal setup is a large fenced yard, and the page says the breed is not the best fit for anyone who cannot provide a securely fenced running area."
+        },
+        {
+          "q": "Is an Afghan Hound good with kids?",
+          "a": "It depends on their age. Afghan Hounds are best with older children and supervision. They are reserved, cat-like dogs that seek contact on their own terms rather than constantly soliciting attention, and their prey drive means even a running child can trigger a chase when they're off-leash in an open area."
+        },
+        {
+          "q": "How much exercise does an Afghan Hound need?",
+          "a": "Plan on 45–60 minutes of exercise every day in a securely fenced area. Afghans are sprinters rather than endurance dogs, so they need bursts of full-speed running, not just leashed walks. Never let them off-leash in unfenced areas: they can reach 40 mph and will not respond to recall."
+        }
       ]
     },
     "finding": {

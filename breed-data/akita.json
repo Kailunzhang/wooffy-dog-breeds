@@ -155,6 +155,24 @@
         "Households with multiple dogs (especially same-sex dogs) or owners expecting a dog park-friendly, social breed",
         "Families with very young children (requires careful management)",
         "Anyone who wants an off-leash dog outside of a securely fenced area"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an Akita a good dog for first-time owners?",
+          "a": "No. Akitas are not recommended for first-time owners. They are intelligent but independent: they learn quickly, then decide whether an instruction is worth following, and they test handlers who aren't confident. You need consistent training from puppyhood, because an Akita that never learned household rules is much harder to manage as a 130-lb adult."
+        },
+        {
+          "q": "Can an Akita live in an apartment?",
+          "a": "Generally no. Akitas reach 70–130 lbs, and apartment weight limits around 40–50 lbs are not uncommon. They also need 60–90 minutes of daily exercise, ideally in a yard with at least a 6-foot privacy fence. That makes a small apartment, studio or weight-limited rental a poor fit."
+        },
+        {
+          "q": "Is an Akita good with kids?",
+          "a": "It depends. With your own family's children, Akitas are generally protective and good, with supervision. They're wary of unfamiliar children, though, and their size and independent temperament mean interactions with young kids need supervision. They're best with older children and not recommended for homes with toddlers unless you're highly experienced."
+        },
+        {
+          "q": "How much exercise does an Akita need?",
+          "a": "Plan on 60–90 minutes every day, through on-leash walks, hiking or play in a securely fenced yard. Keep your Akita off-leash only inside secure fencing, because their prey drive is real and recall can be unreliable. Under-exercised Akitas often develop destructive chewing, barking or separation anxiety."
+        }
       ]
     },
     "finding": {
