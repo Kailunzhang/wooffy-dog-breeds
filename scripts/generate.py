@@ -258,10 +258,22 @@ def build_right_for_you(data):
         f'<td style="padding:10px 14px;color:#6b7177;background:#f8f8f8;">{bad[i] if i < len(bad) else ""}</td></tr>'
         for i in range(max(len(good), len(bad)))
     )
+    # Direct fit answers (GEO: scripts/geo_fit_answers.py). Visible Q&A pairs
+    # above the fit table; build_faq() also lists them in the FAQPage schema.
+    fit_html = ""
+    for item in data.get("fit_answers") or []:
+        q = html_lib.escape(item.get("q", ""), quote=False)
+        a = html_lib.escape(item.get("a", ""), quote=False)
+        if q and a:
+            fit_html += (f'<div class="wooffy-fit" style="margin:0 0 16px 0;">'
+                         f'<h3 style="font-size:1.05em;font-weight:700;color:#1a1a1a;margin:0 0 6px 0;">{q}</h3>'
+                         f'<p style="font-size:0.95em;line-height:1.7;color:#6b7177;margin:0;">{a}</p></div>')
+    if fit_html:
+        fit_html = f'<div style="margin:0 0 28px 0;">{fit_html}</div>\n  '
     return f"""<div style="margin-bottom:48px;padding-top:32px;border-top:1px solid #e8e8e8;">
   <p style="font-family:'figmaMono','SF Mono',monospace;font-size:0.7em;font-weight:400;letter-spacing:0.54px;text-transform:uppercase;color:rgba(0,0,0,0.45);margin:0 0 8px 0;">{data.get('label','Fit Assessment')}</p>
   <h2 id="right-for-you" style="font-size:1.5em;font-weight:700;color:#1a1a1a;margin:0 0 20px 0;line-height:1.2;">{data.get('heading','')}</h2>
-  <table style="width:100%;font-size:0.88em;">
+  {fit_html}<table style="width:100%;font-size:0.88em;">
     <thead>
       <tr>
         <th style="padding:12px 14px;text-align:left;font-weight:700;color:#006b3c;background:#f0faf4;border-bottom:2px solid #a8d5b5;width:50%;">Great fit if you...</th>
@@ -292,7 +304,9 @@ def build_fun_facts(facts):
 </div>"""
 
 
-def build_faq(faqs):
+def build_faq(faqs, schema_extra=None):
+    """FAQ accordion + FAQPage JSON-LD. schema_extra: visible Q&A pairs shown
+    elsewhere on the page (the fit answers) that belong in the schema too."""
     if not faqs:
         return ""
     items = ""
@@ -316,7 +330,7 @@ def build_faq(faqs):
                 "name": item["q"],
                 "acceptedAnswer": {"@type": "Answer", "text": item["a"]},
             }
-            for item in faqs
+            for item in list(schema_extra or []) + list(faqs)
         ],
     }
     schema_json = json.dumps(schema, ensure_ascii=False).replace("</", "<\\/")
@@ -501,7 +515,9 @@ def generate_html(breed):
         content += build_sections_in_order(s, secondary, name)
     else:
         content += build_standard_sections(s, secondary, name)
-    content += build_faq(breed.get("faq", []))
+    rfy = s.get("right_for_you")
+    fit_extra = (rfy.get("fit_answers") or []) if isinstance(rfy, dict) else []
+    content += build_faq(breed.get("faq", []), schema_extra=fit_extra)
     if breed.get("related_breeds"):
         content += build_related(breed["related_breeds"])
     content = add_link_targets(content)

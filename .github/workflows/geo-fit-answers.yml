@@ -1,0 +1,62 @@
+name: GEO Fit Answers
+
+# Generates the "Is this breed right for me?" answers (first-time owners,
+# apartment, kids, exercise) on the main breed guides with Claude, using
+# only each page's own text, and commits breed-data back to the branch it
+# ran on. Deploy afterwards with "Wooffy Content Deploy" (slugs input) —
+# a GITHUB_TOKEN push does not trigger the deploy workflow by itself.
+# See GEO_PLAN.md 2.4 and scripts/geo_fit_answers.py.
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Only the first N remaining pages (empty = all)'
+        required: false
+        default: ''
+      overwrite:
+        description: 'Redo pages that already have answers (true/false)'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  fit-answers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate fit answers
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          ARGS=""
+          [ -n "${{ github.event.inputs.limit }}" ] && ARGS="$ARGS --limit ${{ github.event.inputs.limit }}"
+          [ "${{ github.event.inputs.overwrite }}" = "true" ] && ARGS="$ARGS --overwrite"
+          python3 scripts/geo_fit_answers.py $ARGS | tee fit-answers.log
+          echo "slugs=$(tail -n 1 fit-answers.log)" >> "$GITHUB_OUTPUT"
+
+      - name: Commit answers
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add breed-data
+          if git diff --cached --quiet; then
+            echo "no fit-answer changes to commit"
+          else
+            git commit -m "feat(geo): fit answers on main breed guides $(date -u +%F) [skip ci]"
+            for i in 1 2 3; do
+              git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && break
+              echo "push rejected, retrying ($i)"; sleep 5
+            done
+          fi
