@@ -157,15 +157,15 @@
       "fit_answers": [
         {
           "q": "Is an Airedale Terrier a good dog for first-time owners?",
-          "a": "No, an Airedale Terrier isn't ideal as your first dog. Terrier independence is real: Airedales learn commands quickly but then decide whether to follow them, which frustrates inexperienced owners. They do best with handlers who already understand canine body language, consistent boundaries, and patient training."
-        },
-        {
-          "q": "Can an Airedale Terrier live in an apartment?",
-          "a": "Only if you also have reliable access to a securely fenced area. The breed's high prey drive makes a fenced yard 'not optional,' and on-leash walks should be supplemented with off-leash time in a secure space. You'd also need to provide 60–90 minutes of vigorous exercise daily."
+          "a": "No, an Airedale Terrier is not ideal for first-time owners. Its terrier independence frustrates inexperienced owners: Airedales learn commands quickly but then decide whether to follow them. They do best with handlers who already understand canine body language, consistent boundaries, and patient training."
         },
         {
           "q": "Is an Airedale Terrier good with kids?",
-          "a": "Yes, especially with older children. Airedales are playful, loyal, and generally good with children in their own household, and they're sturdy enough for active kids. However, their exuberance and size can be too much for toddlers, and they need an engaged family rather than a passive one."
+          "a": "Yes, for active families. Airedales are playful, loyal, and generally good with children in their own household. They do best with older children who can interact with them appropriately, because their exuberance and size can be too much for toddlers."
+        },
+        {
+          "q": "How much exercise does an Airedale Terrier need?",
+          "a": "Plan on 60–90 minutes of vigorous activity daily, not a 20-minute stroll. Airedales have working-dog stamina and excel at hiking, running, agility, and active games. An under-exercised Airedale often turns to destructive chewing, barking, or other trouble."
         }
       ]
     },
