@@ -150,6 +150,24 @@
         "You have very young children who may not handle a fragile small dog safely",
         "You want a dog with minimal grooming needs (the coat requires weekly attention)",
         "You expect a calm, quiet first 8-12 weeks — Papillon puppies, like all puppies, bring nipping, house-training accidents, and broken sleep, and many new owners go through a 'puppy blues' phase of anxiety, frustration, and exhaustion"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Papillon a good dog for first-time owners?",
+          "a": "It depends. Papillons are highly trainable and eager to please, which makes them relatively forgiving for first-time owners. However, their intelligence means they need consistent training and daily mental stimulation, which can surprise you if you expect a low-maintenance lap dog. Puppies also bring nipping, house-training accidents and broken sleep."
+        },
+        {
+          "q": "Can a Papillon live in an apartment?",
+          "a": "Yes, if you meet their needs. Papillons adapt exceptionally well to apartment living, provided you are committed to consistent daily outdoor exercise and indoor mental enrichment. They should live indoors, because as a single-coated Toy breed they feel temperature extremes acutely."
+        },
+        {
+          "q": "Is a Papillon good with kids?",
+          "a": "Yes, with older, gentle children. With proper early socialization, Papillons do well with respectful kids and are generally excellent with people of all ages. Their small, fragile size makes them vulnerable to rough handling, so they are not ideal with very young children, and those interactions should always be supervised."
+        },
+        {
+          "q": "How much exercise does a Papillon need?",
+          "a": "More than you might expect. Papillons need at least 30 minutes of active exercise daily, and most are happiest with 45 to 60 minutes of varied activity, such as brisk walks, fetch or agility training. Under-exercised Papillons often develop destructive chewing, barking or separation anxiety."
+        }
       ]
     },
     "finding": {

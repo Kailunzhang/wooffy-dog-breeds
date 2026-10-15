@@ -153,6 +153,20 @@
         "Households that want a universally friendly, social dog",
         "Anyone wanting a dog that responds well to heavy-handed or punitive training",
         "People who over-bathe dogs — the oily coat is functional, not a grooming problem"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Chesapeake Bay Retriever a good dog for first-time owners?",
+          "a": "No. Chesapeake Bay Retrievers frustrate inexperienced owners and do best with handlers who already understand canine body language, consistent boundaries, and patient training. They learn commands quickly but have strong opinions about whether to comply, so expecting Labrador-style ease and compliance is a common mistake."
+        },
+        {
+          "q": "Is a Chesapeake Bay Retriever good with kids?",
+          "a": "Generally yes, with your own family's children. Chessies are protective of and loyal to their household, including children. Their reserve with strangers means they need proper socialization and introduction before accepting unknown children, and supervision with very young children is appropriate given their large size."
+        },
+        {
+          "q": "How much exercise does a Chesapeake Bay Retriever need?",
+          "a": "A lot. Plan on 90–120 minutes of vigorous activity every day; moderate walking won't satisfy this breed. Swimming is ideal, and running, hunting, and field work are equally good. Under-exercised Chessies can become restless and difficult to manage, often developing destructive chewing, barking, or separation anxiety."
+        }
       ]
     },
     "finding": {

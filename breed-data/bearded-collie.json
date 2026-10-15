@@ -149,6 +149,24 @@
         "You live in a small apartment without nearby outdoor space",
         "You want a calm, easily managed dog",
         "You have very young children and aren't prepared for a boisterous, energetic dog"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Bearded Collie a good dog for first-time owners?",
+          "a": "It depends. You can manage a Bearded Collie as a first-time owner with research and commitment, but expect a challenge. Beardies are independent thinkers who need patient, consistent, positive training, and their coat needs daily or near-daily brushing to prevent matting. They aren't suited to anyone wanting a calm, easily managed dog."
+        },
+        {
+          "q": "Can a Bearded Collie live in an apartment?",
+          "a": "Only if you're very committed. Beardies are generally not ideal apartment dogs because of their high energy and need for space to run, but you could make it work by providing 60–90 minutes of vigorous outdoor exercise every day. A house with a securely fenced yard is strongly preferred."
+        },
+        {
+          "q": "Is a Bearded Collie good with kids?",
+          "a": "Yes, for active families. Beardies adore children and tend to be gentle and playful with them. Their bouncy energy can accidentally knock over very young toddlers, though, and their herding instinct may show up as an urge to round up children, so be ready for a boisterous dog."
+        },
+        {
+          "q": "How much exercise does a Bearded Collie need?",
+          "a": "A lot. You'll need to provide at least 60–90 minutes of vigorous exercise every day, such as running, fetch, hiking or off-leash play in a securely fenced area, not just leash walks. Daily mental stimulation through training, puzzle toys and dog sports is equally important to prevent destructive chewing and excessive barking."
+        }
       ]
     },
     "finding": {

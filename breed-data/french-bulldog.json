@@ -151,6 +151,24 @@
         "Active owner wanting a running or hiking partner, or living in a hot climate without reliable air conditioning — Frenchies cannot pant effectively to cool themselves",
         "Looking for an easy-to-train, highly obedient dog",
         "Away from home 8+ hours daily without a plan for the dog"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a French Bulldog a good dog for first-time owners?",
+          "a": "Only if you do breed-specific research first. A French Bulldog is manageable for first-time owners with research and commitment, but the breed has quirks that catch unprepared owners off-guard, including stubbornness in training, slower housetraining, heat sensitivity and above-average vet costs that make pet insurance important."
+        },
+        {
+          "q": "Can a French Bulldog live in an apartment?",
+          "a": "Yes, a French Bulldog is one of the best breeds for apartment living. It has low exercise needs, is quieter than most small breeds and doesn't need a yard. The main requirements are that someone is home or nearby most of the day and that you have air conditioning in any climate that gets warm."
+        },
+        {
+          "q": "Is a French Bulldog good with kids?",
+          "a": "Yes, French Bulldogs generally get along well with children and other dogs. They are affectionate, playful in short bursts and often described as clowns. As with any breed, early socialization matters."
+        },
+        {
+          "q": "How much exercise does a French Bulldog need?",
+          "a": "Not much: 20–30 minutes of moderate activity daily is enough for most French Bulldogs, such as a couple of short walks plus indoor play. Avoid jogging, long hikes and any activity in heat above 75°F (24°C), and always provide water and shade in warm weather."
+        }
       ]
     },
     "finding": {

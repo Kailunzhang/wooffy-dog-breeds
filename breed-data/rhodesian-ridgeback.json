@@ -153,6 +153,20 @@
         "Households with cats or small animals given strong prey drive",
         "Anyone expecting reliable off-leash recall, or who can't commit to a secure fence and on-leash management",
         "Owners who want a socially gregarious, stranger-friendly dog"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Rhodesian Ridgeback a good dog for first-time owners?",
+          "a": "No. Rhodesian Ridgebacks frustrate inexperienced owners. They understand commands but make their own choices about following them, so they reward handlers who already understand canine body language, consistent boundaries, and patient, motivation-based training. First-time large-breed owners frequently find themselves outmatched."
+        },
+        {
+          "q": "Can a Rhodesian Ridgeback live in an apartment?",
+          "a": "No, not without a secure fenced yard, which is non-optional for this breed. Ridgebacks need 60–90 minutes of vigorous daily exercise such as running, hiking, or active play in a securely fenced space, and their strong prey drive makes off-leash time in open areas too risky."
+        },
+        {
+          "q": "Is a Rhodesian Ridgeback good with kids?",
+          "a": "Yes, with experienced owners. Ridgebacks are loyal, affectionate with their family, and generally good with children they grew up with. Their size and energy mean you need to supervise them around very young children."
+        }
       ]
     },
     "finding": {

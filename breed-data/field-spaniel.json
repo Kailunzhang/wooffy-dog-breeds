@@ -153,6 +153,24 @@
         "Households where grooming and ear cleaning will be neglected",
         "People who prefer a highly social, outgoing dog with everyone (Field Spaniels are somewhat reserved with strangers)",
         "Owners who use harsh or correction-heavy training methods"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Field Spaniel a good dog for first-time owners?",
+          "a": "Yes. A Field Spaniel is a realistic choice for a first-time owner if you use positive, reward-based training. These dogs are intelligent and willing but sensitive, so harsh corrections cause shutdown and anxiety. Spaniel-specific trainer experience is helpful but not required."
+        },
+        {
+          "q": "Can a Field Spaniel live in an apartment?",
+          "a": "Only if you have nearby outdoor space and aren't away 8+ hours a day. At 35–50 lbs, a Field Spaniel needs 60–90 minutes of vigorous daily activity and room to stretch. Under-exercised dogs often develop destructive chewing, barking, or separation anxiety."
+        },
+        {
+          "q": "Is a Field Spaniel good with kids?",
+          "a": "Yes. Field Spaniels are gentle, patient, and good with children when properly socialized. Because they are sensitive, they do best in calm, positive households rather than chaotic, high-stress environments."
+        },
+        {
+          "q": "How much exercise does a Field Spaniel need?",
+          "a": "Plan on 60–90 minutes of daily exercise. Field Spaniels have real sporting instincts and enjoy hiking, fetch, swimming, and active walks. Without enough activity they become bored and may develop destructive habits, though they're generally less manic about this than higher-drive sporting breeds."
+        }
       ]
     },
     "finding": {

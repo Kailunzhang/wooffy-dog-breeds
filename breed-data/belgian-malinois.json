@@ -155,6 +155,24 @@
         "First-time or inexperienced dog owners, or anyone who wants the dog because it looks impressive on social media",
         "Families with young children wanting a family pet",
         "Anyone who can't commit to a structured working outlet (not just exercise) or isn't connected to a working dog or sport dog community"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Belgian Malinois a good dog for first-time owners?",
+          "a": "No. The Belgian Malinois is absolutely not a beginner's dog. Training is for experts only, and inconsistency or unclear communication produces a dog that makes its own decisions, which is dangerous in a high-drive breed. If you want one, spend six months working with a sport dog club or professional trainer first."
+        },
+        {
+          "q": "Can a Belgian Malinois live in an apartment?",
+          "a": "Only if you have nearby outdoor space and a structured working outlet. A small apartment without nearby outdoor space is a poor fit, because at 40–80 lbs a Malinois needs room to stretch and a routine of off-property exercise, plus daily structured work beyond simple walks."
+        },
+        {
+          "q": "Is a Belgian Malinois good with kids?",
+          "a": "No, not for typical families with young children. Malinois have high prey drive and strong reactivity, and the unpredictable movement and sounds of young children can trigger dangerous responses. Experienced handlers who raise a Malinois with children from puppyhood can manage it, but only with constant vigilance."
+        },
+        {
+          "q": "How much exercise does a Belgian Malinois need?",
+          "a": "A lot, and exercise alone isn't enough. You need to provide at least 2+ hours of activity daily, plus structured training sessions on top of that. A Malinois also needs real work, such as protection sport, competition-level agility, or search and rescue, to engage its mind and drive."
+        }
       ]
     },
     "finding": {

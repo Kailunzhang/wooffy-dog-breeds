@@ -157,6 +157,24 @@
         "Want a low-energy or independent dog",
         "Live in a small space without daily outdoor access",
         "Aren't prepared for significant vet costs"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Golden Retriever a good dog for first-time owners?",
+          "a": "Yes, if you go in with clear expectations. Training is genuinely easy because Goldens want to please and respond quickly to positive reinforcement. The harder parts are the 60–90 minutes of daily exercise and their strong emotional needs. If your schedule can handle both, a Golden is one of the best first dogs you can get."
+        },
+        {
+          "q": "Can a Golden Retriever live in an apartment?",
+          "a": "Only if you commit to significant outdoor time every day. A Golden without space to run needs even more intentional exercise, ideally including off-leash running at a dog park or field. Small spaces without daily outdoor access are a poor fit, and an under-exercised Golden turns to destructive chewing and barking."
+        },
+        {
+          "q": "Is a Golden Retriever good with kids?",
+          "a": "Yes. Goldens are rated excellent with kids. Their low prey drive and high social tolerance make them patient with small children and well-suited to busy households. Socialization in the first year still matters, but the baseline temperament is consistently, reliably social."
+        },
+        {
+          "q": "How much exercise does a Golden Retriever need?",
+          "a": "A lot. Plan for 60–90 minutes of real activity every day. A walk around the block doesn't count; you need something with actual running, like off-leash fetch, swimming or trail running. Training sessions and puzzle feeders count toward the total. A bored, under-exercised Golden turns to destructive chewing and barking."
+        }
       ]
     },
     "finding": {

@@ -153,6 +153,24 @@
         "Anyone getting a predominantly white puppy without insisting on BAER hearing test documentation",
         "Owners who want a low-maintenance coat — the feathering requires consistent attention",
         "Anyone expecting reliable off-leash recall without serious training investment"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an English Setter a good dog for first-time owners?",
+          "a": "It depends on the line. A show-line English Setter is a realistic choice for a first-time owner: gentle, friendly, willing to learn, and calmer indoors once exercised. A field-line Setter is higher-drive and needs serious exercise. Either way, you'll need to invest in recall training and keep up with the feathered coat."
+        },
+        {
+          "q": "Can an English Setter live in an apartment?",
+          "a": "Only if you have nearby outdoor space and can provide much more than short walks. At 45–80 lbs, English Setters need room to stretch and 60–90 minutes of vigorous exercise every day. Under-exercised Setters often develop destructive chewing, barking, or separation anxiety."
+        },
+        {
+          "q": "Is an English Setter good with kids?",
+          "a": "Yes. English Setters are gentle, friendly, good-natured dogs that like children and aren't aggressive. Show-line Setters suit family life well as long as their daily exercise needs are met. Field-line Setters are better matched to very active families."
+        },
+        {
+          "q": "How much exercise does an English Setter need?",
+          "a": "Plan on 60–90 minutes of real, vigorous exercise every day, such as running, hiking, fetch, or off-leash play in a securely fenced yard. A short walk isn't enough for this sporting breed. Field-line Setters need even more, while show-line Setters are more moderate but still need daily vigorous activity."
+        }
       ]
     },
     "finding": {

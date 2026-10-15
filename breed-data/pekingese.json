@@ -150,6 +150,24 @@
         "You live in a hot climate where heat stroke risk is significant",
         "You have very young children who may handle the dog roughly",
         "You cannot commit to regular grooming (matting in this breed is a serious welfare issue)"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Pekingese a good dog for first-time owners?",
+          "a": "No. Pekingese frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries and patient training. They are independent and opinionated, so if you expect an easy, agreeable, command-following dog, this breed is not a good first choice."
+        },
+        {
+          "q": "Can a Pekingese live in an apartment?",
+          "a": "Yes. Pekingese are relatively low-energy and adapt well to apartment life. They don't need a yard, aren't demanding about outdoor exercise, and are content indoors, which makes them excellent city companions. Make sure your home stays cool in summer, because they are extremely heat-sensitive."
+        },
+        {
+          "q": "Is a Pekingese good with kids?",
+          "a": "Only if your children are older and respectful. Pekingese are generally not recommended for families with young children: their small size and low tolerance for rough handling make them vulnerable to injury and apt to snap if they feel threatened or cornered. With older children who respect their space, they can be excellent companions."
+        },
+        {
+          "q": "How much exercise does a Pekingese need?",
+          "a": "Not much: plan on 30–60 minutes a day. A couple of short daily walks plus some indoor playtime usually keeps a Pekingese content. Their flat face limits breathing during strenuous exercise, so don't over-exercise them, and never exercise them in hot weather because they are extremely susceptible to heat stroke."
+        }
       ]
     },
     "finding": {

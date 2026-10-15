@@ -154,6 +154,24 @@
         "Households with very young children (heel-nipping instinct is hard to fully eliminate)",
         "Apartment dwellers without access to large secure exercise areas",
         "People who want a relaxed, low-key companion"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an Australian Cattle Dog a good dog for first-time owners?",
+          "a": "No. Australian Cattle Dogs aren't recommended for first-time owners and often frustrate inexperienced handlers. They do best with people who already understand canine body language, consistent boundaries, and patient training, and their training difficulty is moderate to challenging. If you want a casual pet, this high-drive working breed isn't a good match."
+        },
+        {
+          "q": "Can an Australian Cattle Dog live in an apartment?",
+          "a": "Generally no. An Australian Cattle Dog needs so much exercise and stimulation that apartment life is a significant challenge. It can work only if you have extraordinary commitment to daily exercise and enrichment, because any lapse quickly creates behavioral problems. A house with a securely fenced yard is a much better environment."
+        },
+        {
+          "q": "Is an Australian Cattle Dog good with kids?",
+          "a": "It depends on your children's ages. The breed's heel-nipping herding instinct often targets running children and is managed with training, never eliminated. Australian Cattle Dogs can be excellent family dogs for older children who understand dog behavior. They're a poor fit for very young children, and nipping needs active management from puppyhood."
+        },
+        {
+          "q": "How much exercise does an Australian Cattle Dog need?",
+          "a": "A lot: plan on 90–120+ minutes of real, vigorous activity every day. Casual walks don't come close. Running, cycling, swimming, agility, herding, and flyball all work. Mental stimulation such as training, puzzle toys, and nose work is just as important. Under-exercised Australian Cattle Dogs often turn destructive, compulsive, or noisy."
+        }
       ]
     },
     "finding": {

@@ -151,6 +151,24 @@
         "This is your first dog — Pointers frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training",
         "People who want a dog that reliably comes when called off-leash near wildlife or birds",
         "Owners expecting the affectionate velcro personality of a retriever"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Pointer a good dog for first-time owners?",
+          "a": "No. Pointers frustrate inexperienced owners and do best with handlers who already understand canine body language, consistent boundaries and patient training. The temperament itself isn't difficult, but the 90–120 minutes of vigorous daily exercise and the recall training needed to manage a strong field instinct make this a poor choice for a first dog."
+        },
+        {
+          "q": "Can a Pointer live in an apartment?",
+          "a": "Generally no. Pointers need 90–120 minutes of vigorous exercise daily, and they do best in households with access to a fenced outdoor space for off-leash running. Under-exercised Pointers often develop destructive chewing, barking or separation anxiety, so this breed suits active owners with outdoor access far better than small, low-activity living."
+        },
+        {
+          "q": "Is a Pointer good with kids?",
+          "a": "Yes, as long as their exercise needs are met. Pointers are friendly, gentle with children and good with other dogs, without the territorial or protective tendencies of guardian breeds. A well-exercised Pointer is calm indoors, but an under-exercised one becomes restless and destructive, so they suit active families best."
+        },
+        {
+          "q": "How much exercise does a Pointer need?",
+          "a": "A lot: plan on 90–120 minutes of genuinely vigorous exercise every day, such as running, cycling alongside you, hunting or long hikes. A couple of neighborhood walks won't touch their energy needs. Access to a large fenced area for off-leash running helps significantly, since off-leash time in unfenced areas is unsafe."
+        }
       ]
     },
     "finding": {

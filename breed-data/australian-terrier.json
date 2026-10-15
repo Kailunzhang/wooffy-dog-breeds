@@ -149,6 +149,24 @@
         "Owners wanting a low-maintenance or hands-off pet — the breed demands real grooming and training time",
         "First-time dog owners unfamiliar with this breed type",
         "Households with rodents or other small pets — the breed was built to hunt rats, mice, and even snakes, and small animals remain a management challenge"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an Australian Terrier a good dog for first-time owners?",
+          "a": "It depends. Australian Terriers are rated 'Caution' for beginners and suit people with some dog experience better. First-time owners can manage one with research and commitment, but expect real grooming and training time, and a bright, independent terrier that learns quickly yet will test rules."
+        },
+        {
+          "q": "Can an Australian Terrier live in an apartment?",
+          "a": "Yes, if you can provide enough daily exercise. Their small size and moderate energy, compared to some terriers, make Australian Terriers more adaptable to apartment living than many terriers. They need 30–45 minutes of vigorous activity every day, and they are alert watchdogs that will bark to announce visitors, though they're not typically nuisance barkers."
+        },
+        {
+          "q": "Is an Australian Terrier good with kids?",
+          "a": "Yes, especially with active, respectful children. Australian Terriers are affectionate, playful and devoted with family, and they do well with kids who engage them appropriately and want a playful companion. They often pick a favorite person but stay warm with everyone in the household."
+        },
+        {
+          "q": "How much exercise does an Australian Terrier need?",
+          "a": "At least 30–45 minutes of vigorous activity every day. Walks, active play, fetch and time in a securely fenced yard work well. Australian Terriers have genuine working-dog stamina but aren't as extremely high-energy as some terriers, and under-exercised dogs often develop destructive chewing, barking or separation anxiety."
+        }
       ]
     },
     "finding": {

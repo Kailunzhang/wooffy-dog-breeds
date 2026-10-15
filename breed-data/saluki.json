@@ -153,6 +153,20 @@
         "Owners expecting reliable off-leash recall, or apartment dwellers without nearby fenced spaces for running — off-leash in open spaces will not happen safely",
         "Homes with small pets (rabbits, cats, small dogs) unless very carefully managed",
         "Anyone who wants an effusively social, openly friendly dog"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Saluki a good dog for first-time owners?",
+          "a": "No. Salukis are not recommended for first-time owners. Their independent, sensitive temperament tends to frustrate inexperienced handlers, and training is challenging: they reward owners who already understand canine body language, consistent boundaries, and patient, positive-reinforcement training. Harsh corrections make them withdraw rather than comply."
+        },
+        {
+          "q": "Can a Saluki live in an apartment?",
+          "a": "It depends. A Saluki can adapt to apartment life because it is calm and quiet indoors, but the exercise need doesn't go away. Without a yard, you need reliable access to a securely fenced dog park or lure coursing facility for daily running, since off-leash running in open spaces is never safe."
+        },
+        {
+          "q": "Is a Saluki good with kids?",
+          "a": "Only with older children. Salukis do best with older kids who handle dogs gently and calmly, with supervision. They are affectionate and gentle with family but sensitive, responding poorly to raised voices and rough handling, and they prefer quiet over overt, boisterous interaction."
+        }
       ]
     },
     "finding": {

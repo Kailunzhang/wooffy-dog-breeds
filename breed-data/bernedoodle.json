@@ -154,6 +154,24 @@
         "Households that want a high-energy dog for serious running or dog sports",
         "Owners who cannot commit to OFA-clearance verification on both parents",
         "People not prepared for the grooming cost as a permanent annual budget item"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Bernedoodle a good dog for first-time owners?",
+          "a": "Yes, a Bernedoodle is a realistic choice for a first-time owner. Its calm, gentle temperament and Poodle intelligence help, but expect some stubbornness and slower training maturation. You will need patient, consistent positive reinforcement from puppyhood, plus a permanent budget for professional grooming every 6–8 weeks."
+        },
+        {
+          "q": "Can a Bernedoodle live in an apartment?",
+          "a": "It depends on size and your schedule. Minis and Tinys are increasingly popular for smaller homes and need 30–45 minutes of exercise daily, while Standards can exceed 66 lbs. Bernedoodles thrive on human interaction, so long hours alone are a poor fit wherever you live."
+        },
+        {
+          "q": "Is a Bernedoodle good with kids?",
+          "a": "Yes, Bernedoodles are excellent with children and often gentle and patient, especially with young kids. They inherit the Bernese Mountain Dog's deep bond with children, and Standard Bernedoodles are often described as exceptional family dogs."
+        },
+        {
+          "q": "How much exercise does a Bernedoodle need?",
+          "a": "It depends on size: plan on 45–75 minutes daily for a Standard and 30–45 minutes for a Mini. Hiking, swimming and moderate-paced play suit them, plus daily training or puzzle feeders. They need real activity but are not endurance athletes, so they are a poor fit for serious running or dog sports."
+        }
       ]
     },
     "finding": {

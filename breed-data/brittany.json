@@ -153,6 +153,24 @@
         "Sedentary or moderately active owners who can't commit to 90+ minutes of vigorous daily exercise — this is not a low-exercise sporting dog",
         "Apartment dwellers without access to significant exercise space",
         "Owners looking for a calm, mellow companion breed"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Brittany a good dog for first-time owners?",
+          "a": "Yes, if you're genuinely active. Brittanys are biddable and relatively easy to train with positive reinforcement compared to many sporting breeds. The catch is exercise: a first-time owner who runs, hikes, or hunts regularly can have an excellent experience, while one with a more sedentary lifestyle will be overwhelmed."
+        },
+        {
+          "q": "Can a Brittany live in an apartment?",
+          "a": "Usually not. Brittanys are a poor fit for apartment dwellers without access to significant exercise space. They need 90+ minutes of vigorous activity every day, and an under-exercised Brittany becomes hyperactive and destructive indoors, with chewing, barking, or restlessness."
+        },
+        {
+          "q": "Is a Brittany good with kids?",
+          "a": "Yes. Brittanys are friendly, playful, and tolerant with children, and genuinely affectionate rather than merely putting up with kids. Their high energy can be overwhelming for very small children, but with kids who can keep up, a Brittany makes an excellent, engaged family companion."
+        },
+        {
+          "q": "How much exercise does a Brittany need?",
+          "a": "A lot: plan on 90+ minutes of vigorous exercise every day. A leash walk won't do it. You need running, active fetch, field work, hunting, or trail hiking. Dog sports like agility work well too. Without enough exercise, expect a hyperactive, destructive dog no matter how well trained."
+        }
       ]
     },
     "finding": {

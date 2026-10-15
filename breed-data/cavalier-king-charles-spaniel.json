@@ -152,6 +152,24 @@
         "You're frequently away 8+ hours most days and can't arrange a midday dog walker or daycare — Cavalier King Charles Spaniels bond intensely and are documented to develop separation anxiety more often than average",
         "Want a guard dog or high-energy companion",
         "Prefer a more independent dog"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Cavalier King Charles Spaniel a good dog for first-time owners?",
+          "a": "Yes, as long as you're prepared for its health risks. Cavaliers are friendly, calm indoors, eager to please and easy to train with short, positive sessions. However, heart disease (mitral valve disease) and a painful neurological condition called syringomyelia affect a large share of the breed, so choose a breeder who screens both parents and consider pet insurance from puppyhood."
+        },
+        {
+          "q": "Can a Cavalier King Charles Spaniel live in an apartment?",
+          "a": "Yes. Cavaliers are one of the best small breeds for apartment living. Their exercise needs are modest, they're quiet rather than excessive barkers, and they're content indoors as long as they get a daily walk. The main catch is that they don't like being left alone for long periods and can develop separation anxiety."
+        },
+        {
+          "q": "Is a Cavalier King Charles Spaniel good with kids?",
+          "a": "Yes. Cavaliers are excellent with children: gentle, patient and not reactive, making them one of the best family dogs at any size. Because they're small, very young children need to be taught to handle them carefully."
+        },
+        {
+          "q": "How much exercise does a Cavalier King Charles Spaniel need?",
+          "a": "Not much. 30–45 minutes a day is genuinely enough, such as a morning walk plus some indoor play. Cavaliers adapt well to their owner's energy level, and they'll enjoy longer hikes if you offer them, but they're fine without them."
+        }
       ]
     },
     "finding": {

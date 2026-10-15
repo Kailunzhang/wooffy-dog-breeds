@@ -126,6 +126,24 @@
         "Owners who want a low-maintenance coat; grooming is the same as for a full-size doodle",
         "Buyers shopping mainly on price, or for a puppy that can ship this week",
         "People who want a calm lap dog; both parents are active working breeds"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Mini Goldendoodle a good dog for first-time owners?",
+          "a": "Yes, if you can budget for grooming. Mini Goldendoodles usually learn quickly and respond well to reward-based training. The coat needs professional grooming every 6–8 weeks, roughly $515–$1,185 a year for life, plus brushing to the skin several times a week at home."
+        },
+        {
+          "q": "Can a Mini Goldendoodle live in an apartment?",
+          "a": "Yes, if you can meet its energy and social needs. The 26–35 lb size suits an apartment, but you'll need to provide 45–60 minutes of exercise a day and daily training or games. You also shouldn't leave the dog alone for a full workday."
+        },
+        {
+          "q": "Is a Mini Goldendoodle good with kids?",
+          "a": "Yes, they're very good with kids and tend to be social, people-focused dogs. A 26–35 lb dog is sturdier than a toy breed but can still knock over a toddler. Supervise play, and teach children not to grab or hug the dog."
+        },
+        {
+          "q": "How much exercise does a Mini Goldendoodle need?",
+          "a": "Plan on 45–60 minutes a day of walks and active play, plus short daily training sessions, puzzle feeders or scent games. Both parent breeds were bred to work, and shorter legs don't mean a smaller engine. A bored mini tends to find its own hobbies, usually involving your shoes or sofa."
+        }
       ]
     },
     "finding": {

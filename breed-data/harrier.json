@@ -153,6 +153,24 @@
         "Anyone expecting off-leash reliability outside a fenced area",
         "Households needing a quiet dog — the hound voice is present",
         "Owners who want an immediately available breed — waiting for a puppy is part of owning a Harrier"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Harrier a good dog for first-time owners?",
+          "a": "It depends. You can manage a Harrier as a first-time owner if you bring research, commitment and patience. Training is moderate to challenging because the breed is scent-distracted outdoors, so you'll need high-value treats, short sessions and low-distraction settings. Harriers are intelligent, food-motivated and not difficult dogs."
+        },
+        {
+          "q": "Can a Harrier live in an apartment?",
+          "a": "Only if you have nearby outdoor space and a solid exercise routine. Harriers aren't a good fit for small apartments without it, because at 45–60 lbs they need room to stretch and regular off-property exercise. The hound bay also means they aren't a quiet dog."
+        },
+        {
+          "q": "Is a Harrier good with kids?",
+          "a": "Yes. Harriers are very good with children, being patient, robust and sociable. They are friendly, cheerful and outgoing, and they aren't highly strung or anxious, which makes them a solid choice for families."
+        },
+        {
+          "q": "How much exercise does a Harrier need?",
+          "a": "A lot. Plan on 60–90 minutes of vigorous activity every day. Harriers were bred for endurance over hours of hound work, and an under-exercised Harrier becomes vocal and restless and may develop destructive chewing or separation anxiety. A securely fenced yard plus structured daily walks is the ideal setup."
+        }
       ]
     },
     "finding": {

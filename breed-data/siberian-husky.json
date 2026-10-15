@@ -151,6 +151,24 @@
         "Apartment living or close neighbors sensitive to noise",
         "Want reliable off-leash recall for hiking, or can't provide 6-foot escape-proof fencing",
         "Have small pets (cats, rabbits) that would be at risk"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Siberian Husky a good dog for first-time owners?",
+          "a": "No. Siberian Huskies are not recommended for first-time owners. Training is challenging because of their independent, selectively obedient nature: they understand commands but decide whether compliance is worth it. They tend to frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries and patient training."
+        },
+        {
+          "q": "Can a Siberian Husky live in an apartment?",
+          "a": "No, apartment living is not a good fit. Huskies are vocal dogs that howl, 'woo woo' and narrate in sounds that carry across neighborhoods, which is a problem with close neighbors sensitive to noise. They also need 90–120 minutes of vigorous daily exercise, and under-exercised Huskies often turn to destructive chewing, barking or separation anxiety."
+        },
+        {
+          "q": "Is a Siberian Husky good with kids?",
+          "a": "Generally yes. Huskies are friendly, playful and energetic in ways that suit active children, and they're not typically aggressive or territorial. Their prey drive toward small animals is worth considering if you have very small children, as it can occasionally extend to them during frantic play, so standard supervision applies."
+        },
+        {
+          "q": "How much exercise does a Siberian Husky need?",
+          "a": "A lot: plan on 90–120 minutes of vigorous exercise every day, ideally running at real speed through activities like running, canicross or bikejoring. Leashed walks are only supplemental, and puzzle work doesn't replace physical output. Under-exercised Huskies may dismantle furniture, escape yards and howl for hours."
+        }
       ]
     },
     "finding": {

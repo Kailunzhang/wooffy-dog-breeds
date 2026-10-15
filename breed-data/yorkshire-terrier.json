@@ -153,6 +153,20 @@
         "Owners wanting a calm, gentle lap dog (Yorkies are terriers, not lap dogs by temperament)",
         "Households with very young children — the small size makes them injury-prone",
         "Owners who want a dog that will reliably and easily comply with training"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Yorkshire Terrier a good dog for first-time owners?",
+          "a": "It depends. First-time owners can manage a Yorkshire Terrier with research and commitment, but training is moderate-to-challenging because of terrier independence and stubbornness. You'll also need to commit to daily brushing, daily tooth brushing and patient, positive-reinforcement training."
+        },
+        {
+          "q": "Can a Yorkshire Terrier live in an apartment?",
+          "a": "Yes, with caveats. Yorkies adapt to small spaces and city living if they get adequate daily exercise. However, their barking level is rated 4 of 5, so if you have close neighbors or thin walls, persistent barking can lead to complaints."
+        },
+        {
+          "q": "Is a Yorkshire Terrier good with kids?",
+          "a": "Only with older children. A Yorkshire Terrier does best with older kids and adults, with supervision. Its small size makes it injury-prone around very young children, so households with toddlers are not a good fit."
+        }
       ]
     },
     "finding": {

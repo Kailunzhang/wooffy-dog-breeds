@@ -152,6 +152,24 @@
         "Unwilling to maintain a low-fat diet and restrict fatty treats",
         "Need fully reliable off-leash recall — the terrier nose can override training",
         "Want a large dog — 11–20 lbs is the realistic adult size range"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Miniature Schnauzer a good dog for first-time owners?",
+          "a": "Yes. Miniature Schnauzers are a realistic choice for first-time owners: they're easy to train, durable and people-oriented. You do need to commit to professional grooming every 6–8 weeks and a low-fat diet, because they're prone to high blood fats that can trigger pancreatitis."
+        },
+        {
+          "q": "Can a Miniature Schnauzer live in an apartment?",
+          "a": "Only if you can handle barking. Their small size and adaptability suit apartments, given adequate exercise and mental stimulation. But they're rated 5 of 5 for barking (\"Very Vocal\"), which can bring neighbor complaints through thin walls. Training \"quiet\" early reduces the barking but won't eliminate it."
+        },
+        {
+          "q": "Is a Miniature Schnauzer good with kids?",
+          "a": "Yes. Miniature Schnauzers are generally good with children, especially kids who engage them. They're sturdy enough to handle active kids and patient enough for gentler households, and they're playful dogs that enjoy games and activity."
+        },
+        {
+          "q": "How much exercise does a Miniature Schnauzer need?",
+          "a": "Plan on 30–45 minutes of daily activity, such as brisk walks, off-leash play or interactive games. They're energetic for their size and need mental exercise too. Puzzle feeders, training sessions, fetch and tug all work well, and they adapt to both active and moderate-paced households."
+        }
       ]
     },
     "finding": {

@@ -151,6 +151,24 @@
         "Households in small apartments, studios, or rentals with weight limits — Old English Sheepdogs reach 60–100 lbs, and apartment weight limits around 40–50 lbs are not uncommon",
         "Anyone who underestimates the grooming commitment, wants a coat that can go without regular brushing, or cannot afford $800–$2,400/year in professional grooming — this is the most common reason for OES surrender",
         "People in hot climates without indoor cooling — the coat retains heat"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an Old English Sheepdog a good dog for first-time owners?",
+          "a": "Only if you're ready for the grooming. A full coat needs daily brushing plus professional grooming every 6–8 weeks at $100–$200 or more per appointment, and underestimating this is the most common reason for surrender. Training is moderate: these dogs are intelligent but can be stubborn and easily distracted, so patient, consistent positive reinforcement matters."
+        },
+        {
+          "q": "Can an Old English Sheepdog live in an apartment?",
+          "a": "Usually not. Old English Sheepdogs reach 60–100 lbs, and apartment weight limits around 40–50 lbs are not uncommon, so small apartments, studios and weight-limited rentals are a poor fit. They also need 60–90 minutes of vigorous daily activity, or they may develop destructive chewing, barking or separation anxiety."
+        },
+        {
+          "q": "Is an Old English Sheepdog good with kids?",
+          "a": "Yes. The Old English Sheepdog is one of the better large breeds for families: gentle, patient, playful and tolerant with children. Because of their size, you should supervise them around toddlers and very small children, but their temperament is reliable."
+        },
+        {
+          "q": "How much exercise does an Old English Sheepdog need?",
+          "a": "Plan on 60–90 minutes daily. This is a moderate-to-high energy breed that needs real exercise, not just a short walk. Hiking, yard play and structured activity suit them well. In summer, exercise in cooler hours, because they can overheat under a full coat."
+        }
       ]
     },
     "finding": {

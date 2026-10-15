@@ -153,6 +153,24 @@
         "Multi-dog households where the dogs cannot be carefully managed",
         "Owners expecting reliable off-leash behavior in open areas",
         "Households with small pets — prey drive is strong"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an Irish Terrier a good dog for first-time owners?",
+          "a": "No. Irish Terriers tend to frustrate inexperienced owners and do best with handlers who already understand terrier temperament, canine body language and consistent boundaries. Their dog-fighting instinct also means you'll need to manage every encounter with other dogs permanently, not just until training kicks in."
+        },
+        {
+          "q": "Can an Irish Terrier live in an apartment?",
+          "a": "Only if you're very active. Irish Terriers aren't apartment dogs for sedentary owners, and they need 60–75 minutes of vigorous exercise daily. Under-exercised, they often develop destructive chewing, barking or separation anxiety."
+        },
+        {
+          "q": "Is an Irish Terrier good with kids?",
+          "a": "Yes, with children in your own household. Irish Terriers are loyal and playful with family kids and play enthusiastically without being rough, and their medium size suits active family life."
+        },
+        {
+          "q": "How much exercise does an Irish Terrier need?",
+          "a": "Plan on 60–75 minutes of vigorous exercise every day, such as brisk walks, running, play in a fenced area, or dog sports like agility or earthdog. Keep them on-leash or securely fenced, and add mental stimulation like training and puzzle games, which matters as much as physical activity."
+        }
       ]
     },
     "finding": {

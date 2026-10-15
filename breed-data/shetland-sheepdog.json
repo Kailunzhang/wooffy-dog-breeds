@@ -153,6 +153,24 @@
         "Apartment dwellers with noise-sensitive neighbors, or households where quiet is important (young sleeping babies, home office)",
         "Owners who expect to train the barking away completely — this won't happen",
         "Anyone who won't verify CEA and MDR1 DNA test results from the breeder"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Shetland Sheepdog a good dog for first-time owners?",
+          "a": "Yes, if you understand the barking. Shelties are one of the easiest breeds to train, learning quickly and responding eagerly to positive reinforcement. But they bark at sounds, movement and visitors, and this cannot be trained away completely. They are also sensitive, so harsh corrections cause anxiety."
+        },
+        {
+          "q": "Can a Shetland Sheepdog live in an apartment?",
+          "a": "It depends on your neighbors. Shelties are small, but barking is their defining trait. They bark at sounds, movement, visitors and often at seemingly nothing, and it can be reduced but never eliminated. If you share walls with noise-sensitive neighbors or need a quiet home, think very carefully before choosing this breed."
+        },
+        {
+          "q": "Is a Shetland Sheepdog good with kids?",
+          "a": "Yes, with older children who treat the dog gently. Shelties are loyal and good-natured but sensitive, and very young children who grab or overwhelm them can stress them. Their herding instinct may also lead to nipping at the heels of running children, which is manageable with training."
+        },
+        {
+          "q": "How much exercise does a Shetland Sheepdog need?",
+          "a": "Plan on 45–60 minutes daily, plus mental engagement. Shelties are moderate-to-high energy and do best with structured activity like training sessions, fetch, agility or obedience that works their minds as well as their bodies. An under-stimulated Sheltie barks more and may turn to herding or destructive behavior."
+        }
       ]
     },
     "finding": {

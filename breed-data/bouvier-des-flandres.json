@@ -149,6 +149,24 @@
         "Are a first-time dog owner",
         "Prefer a low-maintenance coat",
         "Want an easygoing, laid-back companion"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Bouvier des Flandres a good dog for first-time owners?",
+          "a": "No, a Bouvier des Flandres is generally not recommended for first-time owners. Its high intelligence, strength and working-dog drive call for experienced, consistent handling, and an untrained, under-exercised Bouvier is a real handful. Committed first-timers willing to work with a professional trainer can succeed, but it is a challenging breed."
+        },
+        {
+          "q": "Can a Bouvier des Flandres live in an apartment?",
+          "a": "Generally no. Bouviers reach 70–110 lbs, and apartment weight limits around 40–50 lbs are not uncommon. A small apartment, studio, or very small space with no outdoor access is a poor fit for a dog that needs at least two hours of exercise every day."
+        },
+        {
+          "q": "Is a Bouvier des Flandres good with kids?",
+          "a": "Yes, generally. Bouviers are affectionate, gentle and protective with their family and tend to do well with children, especially when raised with them. Supervise them around very young children because of their large size and a herding instinct that may lead them to circle or push kids, which training should address early."
+        },
+        {
+          "q": "How much exercise does a Bouvier des Flandres need?",
+          "a": "At least two hours a day. Bouviers were built to work all day and need real outlets, not just leash walks: long runs, hikes, cycling alongside you, fetch or dog sports. Mental stimulation matters too, and an under-exercised Bouvier can become restless, destructive and difficult to manage."
+        }
       ]
     },
     "finding": {

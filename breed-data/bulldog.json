@@ -153,6 +153,24 @@
         "Anyone in a warm climate without AC, or who plans to keep the dog outside",
         "Active owners wanting an exercise partner",
         "Anyone near water who cannot supervise constantly — Bulldogs cannot swim"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Bulldog a good dog for first-time owners?",
+          "a": "Only if you've done your research. A Bulldog's calm, gentle temperament suits many owners, but you need to accept the full medical picture, budget for vet bills that can reach $3,000–15,000 in surgical care, commit to daily skin fold cleaning, and be patient with real stubbornness during training."
+        },
+        {
+          "q": "Can a Bulldog live in an apartment?",
+          "a": "Yes, as long as you can meet its temperature needs. Bulldogs are low-energy, affectionate dogs content with a short walk and a comfortable spot near you, which makes them excellent apartment dogs. Reliable air conditioning is a medical necessity, though, because they cannot cool themselves effectively."
+        },
+        {
+          "q": "Is a Bulldog good with kids?",
+          "a": "Yes. Bulldogs are excellent with children: patient, tolerant and gentle. They rarely show aggression and are far more likely to be indifferent to things that don't interest them, which makes them a strong choice for families."
+        },
+        {
+          "q": "How much exercise does a Bulldog need?",
+          "a": "Very little. Your Bulldog needs about 20–30 minutes of gentle walking, and only in cool conditions. Avoid outdoor activity above 70–75°F without extreme caution, because Bulldogs can't pant efficiently and can overheat into heatstroke within minutes. If you want an active exercise partner, this breed isn't for you."
+        }
       ]
     },
     "finding": {

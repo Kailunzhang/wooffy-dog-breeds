@@ -152,6 +152,24 @@
         "Gone from home most of the day regularly",
         "Live in a very hot or humid climate without climate control",
         "Want a highly trainable, performance-oriented dog"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Shih Tzu a good dog for first-time owners?",
+          "a": "Yes, as long as you can handle the grooming. Shih Tzus are calm, stable and friendly, and positive reinforcement with treats works well, though they can be stuborn. Expect brushing every 2–3 days, a professional groom every 6–8 weeks, and 4–6 months to fully housetrain."
+        },
+        {
+          "q": "Can a Shih Tzu live in an apartment?",
+          "a": "Yes. Shih Tzus adjust to apartments and houses alike, need only 20–30 minutes of exercise a day, and aren't known as excessive barkers. Their main need is company, so they suit homes where someone is around regularly. They can develop separation anxiety if left alone for many hours daily."
+        },
+        {
+          "q": "Is a Shih Tzu good with kids?",
+          "a": "Yes. Shih Tzus are patient with children, warm toward strangers and generally easy-going with other pets. They're known for being stable and confident rather than sharp or nervous like some toy breeds, which makes them a good fit for both energetic families and quiet homes."
+        },
+        {
+          "q": "How much exercise does a Shih Tzu need?",
+          "a": "Not much. 20–30 minutes a day is enough, such as a short morning and evening walk plus indoor play. Don't exercise a Shih Tzu heavily in hot or humid weather, because its flat face makes heat harder to manage than in non-flat-faced breeds."
+        }
       ]
     },
     "finding": {

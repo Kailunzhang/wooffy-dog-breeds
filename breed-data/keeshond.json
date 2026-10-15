@@ -153,6 +153,20 @@
         "Anyone who wants to shave the dog in summer — double coats don't work that way",
         "Owners away from home most of the day or with unpredictable hours — Keeshonds need company, can develop separation anxiety, and do best with a consistent 45–60 min of daily exercise from the same handler",
         "Apartment dwellers with noise-sensitive neighbors — the breed's vocal tendencies need managing"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Keeshond a good dog for first-time owners?",
+          "a": "Yes. A Keeshond is a realistic choice for a first-time owner: it is generally willing and moderately easy to train, responds well to positive reinforcement, and needs only moderate exercise. The real commitment is the coat, which needs weekly brushing year-round and daily brushing during the twice-yearly coat blows."
+        },
+        {
+          "q": "Can a Keeshond live in an apartment?",
+          "a": "It depends. A Keeshond adapts to smaller living spaces as long as it gets consistent daily exercise. However, it is alert and vocal and will bark to announce visitors and events, so if you have noise-sensitive neighbors, you will need training and socialization to manage the barking."
+        },
+        {
+          "q": "Is a Keeshond good with kids?",
+          "a": "Yes. The Keeshond is one of the more family-friendly medium breeds and tends to be good with children. It is friendly and social, bonds with the whole household, and likes to follow its family from room to room and join in household activity."
+        }
       ]
     },
     "finding": {

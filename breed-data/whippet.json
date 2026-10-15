@@ -152,6 +152,24 @@
         "Have small pets (cats, rabbits) without careful introduction and monitoring, or need reliable off-leash recall in open unfenced areas — sighthound prey drive can't be reliably trained away",
         "Want a guard dog or highly alert watchdog",
         "In a cold climate and not prepared to manage their temperature needs"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Whippet a good dog for first-time owners?",
+          "a": "Yes. Whippets are medium-sized, need little grooming, rarely bark, are gentle with people and train well with positive methods, without the intensity of herding breeds or the stubbornness of scent hounds. The main learning curve is their sighthound prey drive: you'll need a leash or securely fenced area, because off-leash recall can't be trusted in open spaces."
+        },
+        {
+          "q": "Can a Whippet live in an apartment?",
+          "a": "Yes, they're one of the best medium breeds for apartments. Whippets are quiet, rarely bark and stay calm indoors once exercised. The catch is that they need to run properly: a couple of good sprints a week in a securely fenced park or yard, which leash walking alone can't fully replace."
+        },
+        {
+          "q": "Is a Whippet good with kids?",
+          "a": "Yes. Whippets are good with children, patient and not easily provoked, and they're gentle, affectionate family dogs. They're sensitive, though, so they don't do well in households with a lot of conflict, harsh discipline, raised voices or chaos."
+        },
+        {
+          "q": "How much exercise does a Whippet need?",
+          "a": "Plan on 40–60 minutes daily, such as two 20–30 minute walks, plus chances to sprint flat-out in a securely fenced space a few times a week. Don't skip the sprinting, because it's what the breed was built for. Without enough exercise, Whippets can become restless and destructive, but after a good run they relax for the rest of the day."
+        }
       ]
     },
     "finding": {

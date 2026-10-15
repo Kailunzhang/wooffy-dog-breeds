@@ -153,6 +153,24 @@
         "Away from home 8+ hours most days",
         "Want a sporty, active outdoor companion",
         "Not prepared for patient, extended housetraining"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Maltese a good dog for first-time owners?",
+          "a": "It depends. You can manage a Maltese as a first-time owner if you bring research and commitment. They're smart and learn quickly, but housetraining takes significant patience, and the coat needs daily brushing plus professional grooming every 6–8 weeks. You'll also need consistent rules, or they can become demanding and barky."
+        },
+        {
+          "q": "Can a Maltese live in an apartment?",
+          "a": "Yes. A Maltese is ideal for apartment living and doesn't need outdoor space; a short walk and indoor play satisfy most. Barking is the main caveat. They're alert dogs that announce visitors and sounds, so you'll need to put in training work early to keep your neighbors happy."
+        },
+        {
+          "q": "Is a Maltese good with kids?",
+          "a": "Only if your children are older (8+) and handle dogs gently. A Maltese is affectionate and playful, but its tiny size makes injury from toddlers or very young children a real risk, so it's not the best fit for homes with little ones."
+        },
+        {
+          "q": "How much exercise does a Maltese need?",
+          "a": "Not much: 20–30 minutes a day is plenty. A short walk and some indoor play satisfy most Maltese, though they have bursts of enthusiasm. Avoid strenuous exercise in hot weather, because tiny dogs overheat faster than large breeds."
+        }
       ]
     },
     "finding": {

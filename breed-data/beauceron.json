@@ -149,6 +149,24 @@
         "You are a first-time dog owner",
         "You want a relaxed, easygoing dog",
         "You want a dog that is immediately friendly with everyone it meets"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Beauceron a good dog for first-time owners?",
+          "a": "No. A Beauceron needs an experienced, confident owner. It is intelligent and assertive enough to exploit inconsistency, and without clear expectations it will write its own rules. Prior experience with large working breeds is strongly advisable."
+        },
+        {
+          "q": "Can a Beauceron live in an apartment?",
+          "a": "No, not a small apartment without adequate outdoor access. Beaucerons weigh 70–110 lbs, which can exceed rental weight limits, and they need at least two hours of exercise daily. They are best suited to a home with a securely fenced property."
+        },
+        {
+          "q": "Is a Beauceron good with kids?",
+          "a": "Yes, with supervision. Beaucerons tend to be gentle and protective with children they are raised with, but their large size means you should supervise them around very young children. They may be reserved or watchful with children they don't know, and they may try to herd family members."
+        },
+        {
+          "q": "How much exercise does a Beauceron need?",
+          "a": "At least two hours a day. This is an active working breed built for endurance, so basic leash walks alone won't be enough. Long runs, hiking, agility, herding or tracking work are better outlets. Under-exercised Beaucerons can become restless, destructive and prone to barking or separation anxiety."
+        }
       ]
     },
     "finding": {

@@ -153,6 +153,24 @@
         "People who can't tolerate constant, year-round heavy shedding",
         "Households that feed organ meats or high-purine diets without adjusting for the breed",
         "Anyone who sources a puppy from a breeder who doesn't BAER test"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Dalmatian a good dog for first-time owners?",
+          "a": "It depends. First-time owners can manage a Dalmatian with research and commitment. You need to learn about the lifelong low-purine diet, choose a breeder who BAER tests litters for deafness, and commit to 90–120 minutes of real exercise every day."
+        },
+        {
+          "q": "Can a Dalmatian live in an apartment?",
+          "a": "Only if you have nearby outdoor space and a solid exercise routine. A small apartment without nearby outdoor space is a poor fit, because at 45–70 lbs a Dalmatian needs room to stretch and regular off-property exercise. Under-exercised Dalmatians often become destructive and hyperactive indoors."
+        },
+        {
+          "q": "Is a Dalmatian good with kids?",
+          "a": "Yes, generally, especially with active children who can match their energy. A Dalmatian needs adequate daily exercise first. An under-exercised Dalmatian's enthusiasm can accidentally knock over small children. Well exercised, they are typically playful, affectionate family dogs."
+        },
+        {
+          "q": "How much exercise does a Dalmatian need?",
+          "a": "A lot. Plan on 90–120 minutes of real exercise daily, not casual leash walking. Dalmatians were bred as coach dogs running alongside carriages for miles, so running, cycling, hiking, agility and fetch suit them. Without enough exercise they become destructive, hyperactive and difficult to live with."
+        }
       ]
     },
     "finding": {

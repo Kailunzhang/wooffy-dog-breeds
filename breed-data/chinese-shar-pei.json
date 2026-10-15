@@ -150,6 +150,20 @@
         "You want a highly social dog who loves all people and animals",
         "You have a multi-dog household without experience managing potential dog-dog conflict",
         "You cannot commit to regular wrinkle care, monitoring, and proactive veterinary attention, or aren't prepared for potentially higher-than-average veterinary costs"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Chinese Shar-Pei a good dog for first-time owners?",
+          "a": "No. Chinese Shar-Peis frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training. Their independent temperament, potential dog aggression, and health concerns like wrinkle infections, entropion, and Familial Shar-Pei Fever call for an experienced, observant, and committed owner."
+        },
+        {
+          "q": "Is a Chinese Shar-Pei good with kids?",
+          "a": "It depends. With children in their own family, well-socialized Shar-Pei can be patient and gentle, but they prefer calm interaction over boisterous play. Their tolerance for rough handling by children is limited, so you should always supervise them with young children."
+        },
+        {
+          "q": "How much exercise does a Chinese Shar-Pei need?",
+          "a": "About 30 minutes a day. A few short daily walks, plus some yard time or play sessions, generally meet their needs. They are not high-endurance athletes, and they are somewhat heat-sensitive, so avoid vigorous exercise in hot or humid weather. Under-exercised Shar-Peis may develop destructive chewing, barking, or separation anxiety."
+        }
       ]
     },
     "finding": {

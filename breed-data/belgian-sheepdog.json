@@ -150,6 +150,24 @@
         "You are a first-time dog owner without herding-breed experience",
         "You have a sedentary lifestyle",
         "You want a dog that is immediately friendly with all strangers"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Belgian Sheepdog a good dog for first-time owners?",
+          "a": "No, a Belgian Sheepdog is generally not recommended for first-time owners. Its high energy, intelligence and protective instincts call for experienced, consistent handling. A deeply committed beginner who works with a qualified trainer can succeed, but the breed demands more than most beginners expect."
+        },
+        {
+          "q": "Can a Belgian Sheepdog live in an apartment?",
+          "a": "Only if you are very committed. Apartment life is technically possible but not ideal: you would need to provide 60–90 minutes of vigorous outdoor exercise every day, with off-leash parks and structured activity as daily necessities. Most owners find the breed more manageable with a securely fenced outdoor space."
+        },
+        {
+          "q": "Is a Belgian Sheepdog good with kids?",
+          "a": "Yes, generally with children in its own family. Belgian Sheepdogs are affectionate and deeply devoted to their people, but their herding instinct and energy may lead them to try to herd running children, so supervise them around very young kids."
+        },
+        {
+          "q": "How much exercise does a Belgian Sheepdog need?",
+          "a": "A lot. Adult Belgian Sheepdogs need at least 60–90 minutes of vigorous exercise daily, such as running, hiking, fetch, agility or herding work. Mental stimulation through training and puzzle feeders matters just as much, because a bored dog can become anxious or destructive."
+        }
       ]
     },
     "finding": {

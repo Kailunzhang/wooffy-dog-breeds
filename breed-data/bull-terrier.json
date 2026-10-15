@@ -153,6 +153,24 @@
         "Multi-pet households (especially with small animals or same-sex dogs) without experience managing dog-selective breeds",
         "Anyone who wants a highly biddable, precision-trained dog",
         "Buyers from breeders unable to produce HN DNA test clearances"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Bull Terrier a good dog for first-time owners?",
+          "a": "No. Bull Terriers are not recommended for first-time owners. They are stubborn and challenging to train, and they reward handlers who already understand canine body language, consistent boundaries, and patient training. If you expect easy compliance, a Bull Terrier is likely to frustrate you."
+        },
+        {
+          "q": "Can a Bull Terrier live in an apartment?",
+          "a": "Not ideally. A securely fenced yard is considered essential for a Bull Terrier, and you would need to provide 60–90 minutes of vigorous exercise every day. Under-exercised Bull Terriers often develop destructive chewing, barking, separation anxiety, or compulsive spinning."
+        },
+        {
+          "q": "Is a Bull Terrier good with kids?",
+          "a": "Yes, with family children. Bull Terriers are patient with children they're raised with and naturally playful at children's energy levels. Supervise them around very young children, though, because of the breed's enthusiasm and solid build."
+        },
+        {
+          "q": "How much exercise does a Bull Terrier need?",
+          "a": "A lot. Plan on 60–90 minutes of vigorous exercise daily, such as running, fetch, training sessions, or play. Keep your Bull Terrier on-leash in unfenced areas, because prey drive and stubbornness make recall unreliable. Adequate mental and physical exercise also helps prevent compulsive spinning."
+        }
       ]
     },
     "finding": {

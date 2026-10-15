@@ -150,6 +150,16 @@
         "You live in a very warm climate without good air conditioning",
         "You want a quiet dog — Eskies are vocal and tend to bark",
         "You are not prepared to invest time in training and mental stimulation"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an American Eskimo Dog a good dog for first-time owners?",
+          "a": "It depends. First-time owners can manage an Eskie with research and commitment. Training comes easily because Eskies are among the most trainable breeds, but you must commit to daily exercise, mental stimulation, and heavy year-round grooming, or boredom can lead to barking and destructive chewing."
+        },
+        {
+          "q": "Is an American Eskimo Dog good with kids?",
+          "a": "Yes, with respectful children. Eskies are playful, energetic, and enjoy active games with kids who treat them respectfully. Early socialization, plus teaching your children appropriate ways to interact with dogs, creates an excellent family dynamic."
+        }
       ]
     },
     "finding": {

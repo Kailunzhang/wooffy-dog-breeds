@@ -153,6 +153,24 @@
         "Apartment or small-space living",
         "Owners with cats or small animals — prey drive is significant",
         "Households that want a relaxed, easy-going family dog"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a German Wirehaired Pointer a good dog for first-time owners?",
+          "a": "No. German Wirehaired Pointers are independent, assertive, high-drive sporting dogs that tend to frustrate inexperienced owners. They do best with handlers who already understand canine body language, consistent boundaries and patient training. If you want a more manageable sporting dog for a first try, the German Shorthaired Pointer is typically easier."
+        },
+        {
+          "q": "Can a German Wirehaired Pointer live in an apartment?",
+          "a": "No. German Wirehaired Pointers are not suited to apartment or small-space living. They do best with securely fenced property and room for a high-drive dog to decompress, plus 90–120 minutes of vigorous daily exercise. Under-exercised dogs often develop destructive chewing, barking or separation anxiety."
+        },
+        {
+          "q": "Is a German Wirehaired Pointer good with kids?",
+          "a": "It depends on how active your family is. German Wirehaired Pointers are loyal and affectionate with their own people and generally good with children in the household, but they can be exuberant, especially as young adults. A dog getting 90+ minutes of vigorous activity daily is a calmer, more manageable family companion."
+        },
+        {
+          "q": "How much exercise does a German Wirehaired Pointer need?",
+          "a": "A lot: plan on 90–120 minutes of vigorous exercise every day. Walking isn't enough. German Wirehaired Pointers need running, swimming, hunting, field work or similar high-intensity activity. A fenced yard helps but doesn't replace active exercise, and under-exercised dogs become destructive and anxious."
+        }
       ]
     },
     "finding": {

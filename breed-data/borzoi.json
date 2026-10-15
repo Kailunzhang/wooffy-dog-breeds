@@ -154,6 +154,24 @@
         "Anyone who wants reliable off-leash freedom outside a fenced area",
         "High-energy households with chaotic environments — Borzoi prefer calm",
         "Owners who have not arranged secure fencing before the dog arrives"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Borzoi a good dog for first-time owners?",
+          "a": "No, a Borzoi isn't recommended as a first dog. Their sighthound independence makes training challenging: they understand commands but decide whether each one is worth obeying. They tend to frustrate inexperienced owners and do best with handlers who already understand canine body language, consistent boundaries and patient, positive-reinforcement training."
+        },
+        {
+          "q": "Can a Borzoi live in an apartment?",
+          "a": "Generally no. A Borzoi is a poor fit for a small apartment, studio or rental with weight limits, because adults reach 60–105 lbs and apartment limits around 40–50 lbs are common. The breed also needs periodic sprints in a securely fenced area, ideally a yard with a 6-foot fence."
+        },
+        {
+          "q": "Is a Borzoi good with kids?",
+          "a": "It depends on your household. A Borzoi suits calm homes and doesn't do well in high-energy, chaotic environments. They're affectionate with family in a quiet, dignified way and seek attention on their own terms rather than with bouncy enthusiasm."
+        },
+        {
+          "q": "How much exercise does a Borzoi need?",
+          "a": "Less continuous exercise than you might expect from a large breed. A Borzoi needs daily on-leash walks plus periodic chances to run at full speed in a securely fenced area, followed by long rest. Lure coursing and fast-CAT events are ideal outlets. They aren't suited to jogging on a leash."
+        }
       ]
     },
     "finding": {

@@ -153,6 +153,24 @@
         "Multi-dog households without experience managing dog-selective breeds",
         "First-time dog owners without access to experienced training support, or anyone wanting a breed that requires minimal active management",
         "Owners expecting reliable off-leash freedom outside fenced areas"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an American Staffordshire Terrier a good dog for first-time owners?",
+          "a": "Only if you have access to experienced training support and are ready for ongoing management. AmStaffs are trainable, eager to please and less stubborn than many terriers, but their tendency toward dog-selectivity or dog-aggression needs lifelong management, including careful introductions and no off-leash dog parks. You should also check local breed-specific legislation before buying."
+        },
+        {
+          "q": "Can an American Staffordshire Terrier live in an apartment?",
+          "a": "It depends on your setup. A small apartment without nearby outdoor space is a poor fit, because a 40–70 lb AmStaff needs 60–90 minutes of vigorous daily activity, room to stretch, and regular off-property exercise. Under-exercised AmStaffs often develop destructive chewing, barking or separation anxiety. A securely fenced yard is strongly recommended, and some rentals prohibit the breed."
+        },
+        {
+          "q": "Is an American Staffordshire Terrier good with kids?",
+          "a": "Yes, typically very good. AmStaffs are usually patient, playful and protective with their family's children, and many are particularly gentle with kids in their household. Because of their athletic build and enthusiasm, you should supervise them around toddlers."
+        },
+        {
+          "q": "How much exercise does an American Staffordshire Terrier need?",
+          "a": "Plan on 60–90 minutes of vigorous exercise every day. Good outlets include running, fetch, training sessions, weight pull and agility. Keep your AmStaff on a leash in unfenced areas, because prey drive and potential dog reactivity mean the breed shouldn't be trusted off-leash there."
+        }
       ]
     },
     "finding": {

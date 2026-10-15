@@ -152,6 +152,20 @@
         "Unwilling to use ramps, manage furniture access consistently, or budget for pet insurance given genuine IVDD risk",
         "Expecting quick, easy housetraining — Dachshunds are notoriously stubborn about it",
         "Want an off-leash reliable dog — their nose and independence make this difficult"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Dachshund a good dog for first-time owners?",
+          "a": "Yes, a Dachshund is a realistic choice for a first-time owner, but expect real work. They're stubborn and notoriously harder to housetrain than average, so you'll need consistency, a strict schedule, crate training and patience. You also need to commit from day one to ramps and weight management to reduce the breed's genuine IVDD spine risk."
+        },
+        {
+          "q": "Can a Dachshund live in an apartment?",
+          "a": "Yes, a Dachshund's small size suits apartment or smaller-home living. You'll need to manage stairs and furniture-jumping with ramps to protect their spine. They're alert and vocalize freely, so barking can become a neighbor-relations issue in apartments with thin walls."
+        },
+        {
+          "q": "Is a Dachshund good with kids?",
+          "a": "It depends on the children's ages. Dachshunds generally do well with children aged 8+ who know how to handle small dogs gently, with proper introductions and ongoing supervision. They're a poor fit with toddlers, because they can snap if startled, dropped or grabbed, and awkward lifting is genuinely uncomfortable for their long spine."
+        }
       ]
     },
     "finding": {

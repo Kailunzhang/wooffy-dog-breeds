@@ -153,6 +153,24 @@
         "Sedentary owners expecting a calm, quiet, undemanding companion",
         "First-time owners looking for an easygoing, biddable breed that will reliably defer on every decision",
         "Anyone who will not maintain the beard and schedule regular grooming appointments"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Standard Schnauzer a good dog for first-time owners?",
+          "a": "It depends. First-time owners can manage a Standard Schnauzer with research and commitment, but it isn't an easygoing, biddable breed. These intelligent, stubborn dogs notice every inconsistency in your rules and test it, so you'll need consistent positive-reinforcement training and puppy classes from day one."
+        },
+        {
+          "q": "Can a Standard Schnauzer live in an apartment?",
+          "a": "Only if you can provide plenty of off-property exercise. Standard Schnauzers can handle city apartment life with proper exercise, but at 30–50 lbs they need room to stretch, so a small apartment without nearby outdoor space is a poor fit. Expect frequent barking too, as they reliably announce visitors."
+        },
+        {
+          "q": "Is a Standard Schnauzer good with kids?",
+          "a": "Yes, with supervision. Standard Schnauzers are affectionate with their family and do best with older children. Their spirited, assertive temperament means you should supervise interactions rather than leave them unattended with young kids."
+        },
+        {
+          "q": "How much exercise does a Standard Schnauzer need?",
+          "a": "A lot: plan on 60–90 minutes of vigorous exercise every day, not just a quick walk around the block. Standard Schnauzers are high-energy for their size and need physical and mental challenges like agility, obedience, tracking or hiking. Under-exercised dogs often develop destructive chewing, barking or separation anxiety."
+        }
       ]
     },
     "finding": {

@@ -150,6 +150,24 @@
         "You want an active, vigorous dog for outdoor adventures, or you travel often with unpredictable hours — Japanese Chins do best with a consistent 30–60 min of daily exercise from the same handler",
         "You have very young children",
         "You want a dog with a long lifespan compared to other Toy breeds"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Japanese Chin a good dog for first-time owners?",
+          "a": "It depends. A first-time owner can manage a Japanese Chin with research and commitment, but be prepared for a brachycephalic breed's health needs, including daily facial fold, eye and dental care, and possible costly surgery for breathing, eye or spinal issues. Early socialization is also essential so its natural reserve with strangers doesn't become fearfulness."
+        },
+        {
+          "q": "Can a Japanese Chin live in an apartment?",
+          "a": "Yes. A Japanese Chin is an excellent apartment dog thanks to its low exercise needs, quiet nature and contentment with indoor living. It still needs daily short walks and play, and because it is sensitive to heat, you should always have cool indoor spaces available, especially in hot weather."
+        },
+        {
+          "q": "Is a Japanese Chin good with kids?",
+          "a": "Only if your children are older and gentle. A Japanese Chin can be a beautiful companion for calm, older kids, but its small size and sensitivity make it vulnerable to rough handling by very young or boisterous children. It withdraws from rowdiness, and a Chin that can't retreat safely may snap in self-defense."
+        },
+        {
+          "q": "How much exercise does a Japanese Chin need?",
+          "a": "Not much. Plan on 30–60 minutes a day, typically two or three short walks plus some indoor play, ideally on a consistent routine. A Japanese Chin isn't built for vigorous exercise, so don't push it, and keep outdoor time minimal in hot, humid weather because it is sensitive to heat."
+        }
       ]
     },
     "finding": {

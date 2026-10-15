@@ -153,6 +153,20 @@
         "Households in jurisdictions with BSL that restricts or prohibits this breed type",
         "Multi-dog households expecting the dogs to manage themselves without supervision",
         "People buying from breeders who cannot provide HC and L2HGA DNA clearances"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Staffordshire Bull Terrier a good dog for first-time owners?",
+          "a": "Only if you do breed-specific research first. Staffordshire Bull Terriers have quirks that catch unprepared owners off-guard, though their people-oriented nature makes training more accessible than with more independent terriers. They respond well to consistent positive reinforcement, and puppy class from 8–10 weeks is important for socialization."
+        },
+        {
+          "q": "Is a Staffordshire Bull Terrier good with kids?",
+          "a": "Yes. Staffords are genuinely excellent with children and typically patient, gentle and playful with kids in their family, which earned them the \"nanny dog\" nickname. Supervision is still essential: their joyful enthusiasm can knock over a toddler, and no dog should be left alone with young children."
+        },
+        {
+          "q": "How much exercise does a Staffordshire Bull Terrier need?",
+          "a": "Plan on 45–60 minutes of exercise daily. Staffords have real energy but aren't endurance athletes, so daily walks, play sessions and games of fetch suit them well. A securely fenced yard for off-leash play is ideal, since their recall can be unreliable when something interesting is happening."
+        }
       ]
     },
     "finding": {

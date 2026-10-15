@@ -149,6 +149,24 @@
         "Are a first-time owner",
         "Prefer a low-maintenance coat or cannot tolerate significant dog hair in the home",
         "Want a dog that is immediately friendly with everyone"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Briard a good dog for first-time owners?",
+          "a": "No, it's generally not recommended. Briards suit owners with herding-breed experience because they have an independent streak and need a confident, consistent owner. Early socialization is essential, since under-socialized Briards can become over-protective and suspicious in ways that are hard to manage."
+        },
+        {
+          "q": "Can a Briard live in an apartment?",
+          "a": "No, a small apartment or studio is not a good fit. Briards weigh 55–100 lbs, and apartment weight limits around 40–50 lbs are not uncommon. They also need 60–90 minutes of vigorous exercise daily, and under-exercised Briards often develop destructive chewing, barking, or separation anxiety."
+        },
+        {
+          "q": "Is a Briard good with kids?",
+          "a": "Yes. Briards are generally excellent with children in their family, especially those they're raised with, and tend to be protective and affectionate. Their herding instinct may lead them to round up running children, and their size means you should supervise them around very young kids."
+        },
+        {
+          "q": "How much exercise does a Briard need?",
+          "a": "A lot. You'll need to provide at least 60–90 minutes of vigorous activity every day. Long walks are a good baseline, but add running, hiking, off-leash play in a secure area, or dog sports like agility, herding, or obedience to satisfy their herding endurance."
+        }
       ]
     },
     "finding": {

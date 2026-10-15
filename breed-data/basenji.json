@@ -154,6 +154,24 @@
         "Households with cats, rabbits, or other small animals",
         "Anyone who cannot provide a truly escape-proof fenced area",
         "People who want off-leash freedom in open areas"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Basenji a good dog for first-time owners?",
+          "a": "No. Basenjis frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries, and patient training. They are independent, cat-like dogs that respond to motivation rather than authority, so if you expect a trainable, compliant dog, you are likely to be surprised and often overwhelmed."
+        },
+        {
+          "q": "Can a Basenji live in an apartment?",
+          "a": "It depends. Basenjis are small, low-shedding, and don't bark, but they still yodel, whine, and growl, so close neighbors will hear them. You need reliable access to a fully secure fenced area for exercise and play, plus a daily exercise commitment to prevent the destructive behavior that follows boredom."
+        },
+        {
+          "q": "Is a Basenji good with kids?",
+          "a": "Only if your children are older. Basenjis are best with older children and supervision. They can be deeply affectionate with their own family, though selective in that affection, and their independent, not people-pleasing nature means they evaluate everything on their own terms."
+        },
+        {
+          "q": "How much exercise does a Basenji need?",
+          "a": "Plan on 45–60 minutes of exercise every day. Play sessions in a securely fenced area, on-leash walks, and mental enrichment all count. Never let your Basenji off-leash outside a secured fence, because its extreme prey drive overrides everything. Consistent daily exercise from the same handler suits the breed best."
+        }
       ]
     },
     "finding": {

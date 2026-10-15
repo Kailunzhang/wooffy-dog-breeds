@@ -150,6 +150,24 @@
         "Owners wanting a low-maintenance or hands-off pet — the breed needs real training time and plenty of human interaction",
         "First-time dog owners unfamiliar with this breed type",
         "Homes with small pets like mice or birds — the Toy Fox Terrier's prey drive triggers strong chase instincts"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Toy Fox Terrier a good dog for first-time owners?",
+          "a": "It depends. Toy Fox Terriers are easy to train and pick up commands quickly, but they aren't ideal if you're unfamiliar with this breed type. A first-time owner can manage one with research and commitment, as long as you can provide real training time, daily exercise and plenty of human interaction."
+        },
+        {
+          "q": "Can a Toy Fox Terrier live in an apartment?",
+          "a": "Yes, if you're active. Toy Fox Terriers suit any living situation, including apartments, but they need at least an hour of exercise daily, split between leash walks and indoor play. They also bark to announce arrivals, and under-exercised dogs can become vocal or destructive."
+        },
+        {
+          "q": "Is a Toy Fox Terrier good with kids?",
+          "a": "Yes, with respectful children. Toy Fox Terriers are affectionate with family and generally good with kids who handle them gently. Their small size makes them vulnerable to accidental injury, so supervise them closely around very young children."
+        },
+        {
+          "q": "How much exercise does a Toy Fox Terrier need?",
+          "a": "At least an hour of active exercise a day. You can split it between leash walks and indoor play, and agility, trick training and fetch are great outlets. Without enough mental and physical stimulation, Toy Fox Terriers can become vocal or destructive."
+        }
       ]
     },
     "finding": {

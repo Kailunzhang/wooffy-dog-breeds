@@ -150,6 +150,20 @@
         "You live in an apartment, a noise-sensitive environment, or near close neighbors who would be disturbed by regular barking",
         "You want an obedient, handler-focused companion, or you're a first-time owner unfamiliar with this breed type — the Finnish Spitz is an independent thinker",
         "Tidy households, or anyone wanting a low-maintenance or hands-off pet — the heavy seasonal shedding is a significant consideration"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Finnish Spitz a good dog for first-time owners?",
+          "a": "Generally not. The Finnish Spitz is an independent thinker that weighs your request before deciding whether to comply, and its vocal nature and strong instincts call for an experienced owner who understands spitz-type behavior. It rewards patient, positive training but can be challenging if you expect quick obedience."
+        },
+        {
+          "q": "Can a Finnish Spitz live in an apartment?",
+          "a": "No, this breed is not a good fit for noise-sensitive apartment buildings or homes near close neighbors. Barking is the Finnish Spitz's core function, and you can manage its frequency and duration but not eliminate it. It does best with understanding neighbors and a securely fenced yard."
+        },
+        {
+          "q": "Is a Finnish Spitz good with kids?",
+          "a": "Yes, it is generally good with children, especially when socialized early, and it suits families with older children best. With family it is warm, playful and loyal, and it also tends to get along with other dogs."
+        }
       ]
     },
     "finding": {

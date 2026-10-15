@@ -150,6 +150,24 @@
         "Away from home 8+ hours daily without a midday dog walker or daycare — Miniature Poodles need interaction, bond intensely, and are documented to develop separation anxiety more often than average",
         "Want a low-maintenance dog with lower mental engagement needs",
         "Want a breed without epilepsy or PRA health considerations"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Miniature Poodle a good dog for first-time owners?",
+          "a": "Yes. Miniature Poodles are very easy to train and pick up new commands in five or fewer repetitions, making them one of the best all-around choices for first-time owners. Be ready for the grooming commitment, though: their coat needs brushing every 2–3 days and a professional clip every 6–8 weeks."
+        },
+        {
+          "q": "Can a Miniature Poodle live in an apartment?",
+          "a": "Yes. Miniature Poodles adapt to any space, apartment or house, as long as they get adequate exercise. Plan on 40–60 minutes daily plus mental stimulation, and avoid leaving them alone for long stretches. Under-stimulated Poodles can develop separation anxiety or excessive barking."
+        },
+        {
+          "q": "Is a Miniature Poodle good with kids?",
+          "a": "Yes. Miniature Poodles are excellent with children of any age. They are people-oriented, highly attuned to human emotion, and active without being hyperactive. Because they pick up on stress in the home, a calm household helps them thrive alongside kids."
+        },
+        {
+          "q": "How much exercise does a Miniature Poodle need?",
+          "a": "Plan on 40–60 minutes a day, ideally split between physical exercise and mental stimulation, such as daily walks plus training sessions or puzzle games. They enjoy swimming, fetch and agility. Under-exercised Miniature Poodles become restless and anxious."
+        }
       ]
     },
     "finding": {

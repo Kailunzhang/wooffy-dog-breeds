@@ -150,6 +150,24 @@
         "Homes with small pets (birds, hamsters, guinea pigs) — the Silky's prey drive is real and persistent",
         "Families with very young children who play rough",
         "Owners who want a calm, easygoing lap dog — or a quiet one, given the breed's vocal tendencies"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Silky Terrier a good dog for first-time owners?",
+          "a": "It depends. First-time owners can manage a Silky Terrier with research and commitment, but it calls for caution. You'll face daily brushing to prevent mats, a persistent prey drive, and a vocal streak that needs early training. It's not a calm, easygoing lap dog."
+        },
+        {
+          "q": "Can a Silky Terrier live in an apartment?",
+          "a": "Yes, if you can give it daily exercise and mental stimulation. Silky Terriers adapt well to apartments and small homes, but they bark at unusual sounds, so training to manage vocalizations is important in close quarters. Left alone too long without stimulation, they can become destructive or vocal."
+        },
+        {
+          "q": "Is a Silky Terrier good with kids?",
+          "a": "Only with older children who know how to handle small dogs gently. Silky Terriers are affectionate and entertaining with family, but their terrier temperament means they won't tolerate rough play or being cornered. That makes them a poor fit for very young children who play rough."
+        },
+        {
+          "q": "How much exercise does a Silky Terrier need?",
+          "a": "At least an hour a day, more than its size suggests. Two brisk 30-minute walks plus indoor play usually satisfy a Silky Terrier. Puzzle toys and training sessions help keep its busy brain occupied. Under-exercised Silkies often develop destructive chewing, barking or separation anxiety."
+        }
       ]
     },
     "finding": {

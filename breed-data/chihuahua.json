@@ -154,6 +154,24 @@
         "Expecting a friendly-to-everyone dog without significant socialization work",
         "Want a dog that can be reliably off-leash in open areas, or live in a cold climate with outdoor time expectations — Chihuahuas aren't built for cold",
         "Not prepared for the full-length commitment (15+ years)"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Chihuahua a good dog for first-time owners?",
+          "a": "Yes, with research and commitment. A Chihuahua's low exercise needs make it manageable for a first-time owner, but you must train it consistently, exactly as you would a Lab, and not excuse snapping or growling because of its size. Early, broad socialization during the 8–16 week window also strongly shapes adult confidence."
+        },
+        {
+          "q": "Can a Chihuahua live in an apartment?",
+          "a": "Yes, but noise can be a problem. Its tiny size and 20–30 minutes of daily exercise suit smaller spaces well. However, the AKC rates the Chihuahua's barking level 5 of 5 (\"Very Vocal\"), so if you have close neighbors or thin walls, persistent barking can bring complaints or action under HOA rules or a local barking ordinance."
+        },
+        {
+          "q": "Is a Chihuahua good with kids?",
+          "a": "Only with older children. Chihuahuas are easily injured by being dropped or stepped on, and they may bite if frightened or handled roughly, so households with toddlers need constant supervision. Older children who handle the dog gently and calmly, from a sitting position, do fine."
+        },
+        {
+          "q": "How much exercise does a Chihuahua need?",
+          "a": "Not much: plan on 20–30 minutes of daily activity. Short walks, indoor play, and interactive games meet their needs. Don't underexercise because of their size, since Chihuahuas enjoy activity and need it to stay mentally healthy. In cold weather they need a coat because they lose heat rapidly."
+        }
       ]
     },
     "finding": {

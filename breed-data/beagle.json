@@ -151,6 +151,24 @@
         "Live in an apartment with noise-sensitive neighbors or want a quiet dog — Beagles bay",
         "Want a reliable off-leash dog for hiking without a fence",
         "Can't maintain strict food portions — Beagles will overeat to obesity"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Beagle a good dog for first-time owners?",
+          "a": "Only if you do breed-specific research first. A Beagle is manageable for beginners who commit to learning its quirks, but its nose-led independence means training takes more patience than with retrievers or shepherds. Short sessions with high-value treats work best, and you should accept that off-leash recall may always be limited."
+        },
+        {
+          "q": "Can a Beagle live in an apartment?",
+          "a": "Generally not ideal. Beagles bay with a loud, melodic howl that carries far, especially when bored or lonely, which can disturb neighbors through thin walls. Their moderate exercise needs are walkable in a city, but the noise is a real constraint in dense housing or buildings with noise rules."
+        },
+        {
+          "q": "Is a Beagle good with kids?",
+          "a": "Yes, Beagles are among the best breeds with children. They're sturdy, tolerant and patient, genuinely enjoy kids' energy, don't get overwhelmed easily, and aren't typically nippy. Standard supervision still applies with any dog and young children."
+        },
+        {
+          "q": "How much exercise does a Beagle need?",
+          "a": "Plan on 45–60 minutes of consistent daily exercise. It doesn't need to be intense: slow sniff walks where your Beagle follows its nose count and are highly enriching. Keep your dog on leash unless you're in a securely fenced area."
+        }
       ]
     },
     "finding": {

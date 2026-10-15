@@ -150,6 +150,20 @@
         "People who want a low-maintenance small dog",
         "Households with very young children",
         "Owners who travel frequently without the ability to bring the dog along"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Chinese Crested a good dog for first-time owners?",
+          "a": "It depends. You can manage a Chinese Crested as a first-time owner with research and commitment, and training is generally positive because the breed learns quickly and responds to treats and praise. But the hairless variety needs daily skin care and dental vigilance, and puppies bring nipping, house-training accidents and broken sleep."
+        },
+        {
+          "q": "Can a Chinese Crested live in an apartment?",
+          "a": "Yes. The Chinese Crested adapts well to apartment living, and daily walks plus indoor play satisfy most individuals. It wants to be with you rather than left alone in a yard, so expect a companion that prefers close contact. Without proper training, long hours alone can lead to barking or separation anxiety."
+        },
+        {
+          "q": "Is a Chinese Crested good with kids?",
+          "a": "Yes, with older children. The Chinese Crested gets along well with kids and other pets, but it is fine-boned, so very young or rough children could accidentally injure it. That makes it a poor fit for households with very young children."
+        }
       ]
     },
     "finding": {

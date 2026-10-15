@@ -151,6 +151,24 @@
         "First-time dog owner without a serious training commitment",
         "Households with very young children and no management plan for a large herding dog",
         "Want a friendly, welcoming dog with strangers"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Rottweiler a good dog for first-time owners?",
+          "a": "No, a Rottweiler is not recommended for first-time owners. This 80–135 lb dog has strong protective instincts that need early socialization and consistent training, and the breed punishes underprepared ownership more than most. If you still go ahead, professional training or obedience classes are strongly recommended."
+        },
+        {
+          "q": "Can a Rottweiler live in an apartment?",
+          "a": "Generally no. A Rottweiler reaches 80–135 lbs and does best with secure fencing and appropriate space, so a small apartment or studio is a poor fit. If you rent, apartment weight limits around 40–50 lbs are not uncommon, and many rental agreements restrict the breed, so check your lease first."
+        },
+        {
+          "q": "Is a Rottweiler good with kids?",
+          "a": "It depends. A well-socialized, trained Rottweiler can be an excellent, affectionate family dog. However, Rottweilers instinctively push and bump family members, especially children, and with a 120-lb dog that can be dangerous for small kids simply due to size. With very young children, you need supervision and training to redirect this behavior."
+        },
+        {
+          "q": "How much exercise does a Rottweiler need?",
+          "a": "Plan on 60–80 minutes of daily exercise. Structured walks, play sessions and training exercises meet a Rottweiler's needs well, and mental engagement through training and problem-solving matters as much as physical activity. Under-exercised Rottweilers often develop destructive chewing, barking or separation anxiety."
+        }
       ]
     },
     "finding": {

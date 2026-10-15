@@ -154,6 +154,24 @@
         "People in hot climates who cannot air-condition year-round",
         "Households where noise is a real constraint (Samoyeds vocalize freely)",
         "Anyone buying from a breeder who cannot provide SHG DNA clearances"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Samoyed a good dog for first-time owners?",
+          "a": "It depends. First-time owners can manage a Samoyed with research and commitment, but training is moderate to challenging. Their spitz independence means they weigh whether a command is worth following, so you need consistent, positive, food-motivated training from puppyhood, plus a high grooming commitment."
+        },
+        {
+          "q": "Can a Samoyed live in an apartment?",
+          "a": "Only if noise and space aren't constraints for you. Samoyeds bark, yodel and howl freely, and a bored or lonely one may vocalize at 2 AM, which is a problem when neighbors are within earshot without sound dampening. You'll also need to provide 60–90 minutes of real exercise every day."
+        },
+        {
+          "q": "Is a Samoyed good with kids?",
+          "a": "Yes. Samoyeds are rated excellent with kids and are exceptionally gentle and social, making them a great fit for families with children. They were bred to live closely alongside people, want to be involved in everything, and are friendly with virtually everyone."
+        },
+        {
+          "q": "How much exercise does a Samoyed need?",
+          "a": "A lot: plan on 60–90 minutes daily. Samoyeds were bred as working sled dogs and need real exercise, not just a stroll around the block. Hiking, running (in adults), pulling sports and play in a securely fenced yard all work. In summer, exercise only in the early morning or evening."
+        }
       ]
     },
     "finding": {

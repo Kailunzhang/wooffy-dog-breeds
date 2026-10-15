@@ -154,6 +154,24 @@
         "Households where drool is genuinely unacceptable",
         "Owners who want a high-intensity, fast-running sporting dog",
         "Anyone who would purchase from a breeder without cerebellar ataxia DNA documentation"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Spinone Italiano a good dog for first-time owners?",
+          "a": "Yes. The Spinone Italiano is a realistic choice for a first-time owner, with a patient, gentle, easygoing temperament and moderate indoor energy that makes it surprisingly manageable for its size. Training is moderately easy but needs patience: use calm, positive, engaging methods, because this independent breed shuts down under pressure or harsh handling."
+        },
+        {
+          "q": "Can a Spinone Italiano live in an apartment?",
+          "a": "Only if you have nearby outdoor space and a solid exercise routine. At 62–85 lbs, a Spinone Italiano needs room to stretch and regular off-property exercise, so a small apartment without nearby outdoor space is not a good fit. You'll also need to manage daily drool, keeping towels near water bowls and doors."
+        },
+        {
+          "q": "Is a Spinone Italiano good with kids?",
+          "a": "Yes, exceptionally so. The Spinone Italiano is among the most patient and gentle large sporting breeds, and its docile, tolerant temperament and moderate energy make it one of the better large-breed choices for families with children. Standard supervision still applies with any large dog and young children."
+        },
+        {
+          "q": "How much exercise does a Spinone Italiano need?",
+          "a": "Plan on 60–90 minutes of real daily exercise. Spinoni enjoy hiking, walking, field work and swimming, and their methodical trot suits owners who cover miles on foot rather than running. Under-exercised Spinoni often develop destructive chewing, barking or separation anxiety, though they aren't non-stop athletes like Vizslas."
+        }
       ]
     },
     "finding": {

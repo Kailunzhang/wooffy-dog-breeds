@@ -126,6 +126,24 @@
         "You want a guard dog — the UKC standard says it is not the best choice for that job",
         "The dog would be alone and under-exercised for most of the day",
         "You can't reliably hold a strong 30–60 lb dog on leash"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an American Pit Bull Terrier a good dog for first-time owners?",
+          "a": "Only if you do your research and commit to training. The best route for first-timers is adopting an adult whose behavior with dogs, cats and kids is already known, since with a puppy you are guessing. You will also need to check your lease, insurer, city and HOA rules first, and manage dog-to-dog contact for life."
+        },
+        {
+          "q": "Can an American Pit Bull Terrier live in an apartment?",
+          "a": "It depends. Many leases restrict pit bull-type dogs, so check your lease and insurer before committing. You also need to provide 60–90 minutes of real activity a day, because this breed is a poor fit if it would be left alone and under-exercised for most of the day."
+        },
+        {
+          "q": "Is an American Pit Bull Terrier good with kids?",
+          "a": "Yes, with supervision. The UKC standard says APBTs make excellent family companions and are noted for their love of children, and the breed does best with older children. Supervision around young children is essential, because with a strong, fast, tenacious dog a lapse costs more. No dog should be left in charge of children."
+        },
+        {
+          "q": "How much exercise does an American Pit Bull Terrier need?",
+          "a": "Plan on 60–90 minutes of real activity a day for a healthy adult, such as brisk walks, fetch, hiking, flirt-pole sessions and tug with clear start and stop cues. Dog sports like agility, nose work and weight pull suit the breed's strength and drive. Keep public exercise on leash and skip crowded off-leash dog parks."
+        }
       ]
     },
     "finding": {

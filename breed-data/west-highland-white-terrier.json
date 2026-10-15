@@ -153,6 +153,24 @@
         "Owners who cannot commit to the grooming schedule or expect a low-maintenance health profile in a small dog",
         "People who want an off-leash dog outside a fenced area",
         "Households with small pets like cats or rabbits (prey drive is real)"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a West Highland White Terrier a good dog for first-time owners?",
+          "a": "Only if you do breed-specific research first. A Westie can work for a first-time owner, but its quirks catch unprepared owners off-guard: terrier stubbornness, a real prey drive, professional grooming every 6–8 weeks, and atopic dermatitis that you should expect to manage as an ongoing cost."
+        },
+        {
+          "q": "Can a West Highland White Terrier live in an apartment?",
+          "a": "It depends. A Westie's small size makes apartment living workable if you meet its 30–45 minutes of daily exercise. The bigger issue is barking. Westies are rated 5 of 5 for barking and will bark at hallway sounds, so with thin walls or close neighbors you need to train a quiet command from puppyhood."
+        },
+        {
+          "q": "Is a West Highland White Terrier good with kids?",
+          "a": "Yes. Westies are good family dogs, genuinely affectionate with their people and sturdy enough to handle active children without fragility concerns. They do best with children who understand how to interact with small dogs."
+        },
+        {
+          "q": "How much exercise does a West Highland White Terrier need?",
+          "a": "Plan on 30–45 minutes a day. Despite their small size, Westies have real energy and need daily walks plus active play, not just a brief bathroom trip. They enjoy fetch and exploratory sniffing walks, but keep them leashed outside fenced areas because they will chase."
+        }
       ]
     },
     "finding": {

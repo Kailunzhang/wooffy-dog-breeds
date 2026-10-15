@@ -153,6 +153,20 @@
         "Owners who want a low-energy, low-activity companion",
         "Anyone unwilling to pay for or learn professional-level grooming — no grooming means severe matting",
         "Owners not prepared for the grooming cost as a permanent annual budget item"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Standard Poodle a good dog for first-time owners?",
+          "a": "Yes, as long as you can commit to the care. Standard Poodles are easy to train and eager to please, and they respond best to consistent positive reinforcement. You'll need to provide 60–90 minutes of daily exercise, daily mental stimulation, and professional grooming every 6–8 weeks."
+        },
+        {
+          "q": "Is a Standard Poodle good with kids?",
+          "a": "Yes. Standard Poodles are excellent with children: patient, playful, and gentle. Their virtually non-shedding coat also means a house full of kids and a Standard Poodle doesn't have to mean dog fur on everything."
+        },
+        {
+          "q": "How much exercise does a Standard Poodle need?",
+          "a": "Plan on 60–90 minutes of genuine exercise every day, not just a stroll around the block. Running, swimming, hiking, fetch, and dog sports all suit this athletic breed. Daily mental work like training sessions, puzzle feeders, and nose work matters just as much. Under-exercised Standard Poodles often develop destructive chewing, barking, or separation anxiety."
+        }
       ]
     },
     "finding": {

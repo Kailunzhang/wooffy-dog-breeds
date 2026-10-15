@@ -152,6 +152,20 @@
         "Work 8+ hours daily without a daycare or dog walker plan",
         "Want a calm, lower-energy dog that's satisfied with walks",
         "Households with very young children — GSP puppies are large and intensely energetic"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a German Shorthaired Pointer a good dog for first-time owners?",
+          "a": "No, a German Shorthaired Pointer isn't recommended for first-time owners. GSPs frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries and patient training. Their strong chase drive also means a reliable recall takes real work, which is hard to manage without dog experience."
+        },
+        {
+          "q": "Can a German Shorthaired Pointer live in an apartment?",
+          "a": "No, not practically. GSPs need substantial off-leash exercise in open areas, which is very difficult to arrange from an apartment. Even with two long daily walks, the exercise deficit tends to produce destructive and anxious behavior. A house with a securely fenced yard is the baseline."
+        },
+        {
+          "q": "Is a German Shorthaired Pointer good with kids?",
+          "a": "Yes, for active families. GSPs are affectionate, gentle with children and loyal to their household, and they suit active older children in a home with a securely fenced yard. They're a poor fit for very young children, though, because GSP puppies are large and intensely energetic."
+        }
       ]
     },
     "finding": {

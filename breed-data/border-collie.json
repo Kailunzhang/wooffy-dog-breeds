@@ -154,6 +154,20 @@
         "Anyone who can't provide 90+ minutes of activity plus daily mental engagement, or expects a dog to be fine with a couple of daily walks",
         "Households that want a calm, low-key dog",
         "Anyone who won't get the MDR1 test done and inform their vet"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Border Collie a good dog for first-time owners?",
+          "a": "No. Border Collies tend to frustrate inexperienced owners, even ones who want an intelligent, easy-to-train dog. They do best with handlers who already understand canine body language, consistent boundaries, and patient training, plus the cognitive needs of an intelligent working breed."
+        },
+        {
+          "q": "Is a Border Collie good with kids?",
+          "a": "It depends. Border Collies can be excellent, affectionate family dogs when they get enough exercise and mental engagement, especially with active families. However, they often try to herd running children by staring, circling, or nipping at heels. That is herding instinct, not aggression, and managing it takes consistent training from puppyhood."
+        },
+        {
+          "q": "How much exercise does a Border Collie need?",
+          "a": "A lot. You'll need to provide 90–120+ minutes of vigorous activity every day, such as running, hiking, agility, herding, or fetch, not just casual walks. Daily mental work is equally essential: training sessions, puzzle toys, nose work, and ideally a dog sport. Without it, Border Collies often develop destructive or compulsive behaviors."
+        }
       ]
     },
     "finding": {

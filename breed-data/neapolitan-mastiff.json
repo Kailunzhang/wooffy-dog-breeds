@@ -153,6 +153,24 @@
         "Households where drool is a dealbreaker — it is constant and copious",
         "Anyone not prepared to maintain skin folds regularly",
         "Hot climates without reliable air conditioning"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Neapolitan Mastiff a good dog for first-time owners?",
+          "a": "No. Neapolitan Mastiffs frustrate inexperienced owners and test handlers who are inconsistent or uncertain. You need to already understand canine body language, consistent boundaries, and patient training, and to lead with calm, consistent authority. A Neo without an established hierarchy makes its own decisions, which is not safe with a 150-lb guardian dog."
+        },
+        {
+          "q": "Can a Neapolitan Mastiff live in an apartment?",
+          "a": "Generally no. Small apartments, studios, and rentals with weight limits are a poor fit. Neos weigh about 110–150 lbs, and apartment weight limits around 40–50 lbs are not uncommon. Some places also restrict Mastiff-type breeds, so check your landlord's policies, HOA rules, and insurance before bringing one home."
+        },
+        {
+          "q": "Is a Neapolitan Mastiff good with kids?",
+          "a": "Only in experienced homes. Neos are calm, devoted, and deeply loyal with family, but they are best with older children and supervision. They are assertive 110–150 lb guardians that need proper socialization and a confident handler who has clearly established themselves as the decision-maker."
+        },
+        {
+          "q": "How much exercise does a Neapolitan Mastiff need?",
+          "a": "Plan on 30–60 minutes of moderate, low-impact exercise daily. Neapolitan Mastiffs are not high-energy and are satisfied with daily walks. Avoid high-impact activity because of their size and joint load, especially in growing puppies. They are significantly heat-sensitive, so in warm weather exercise only during cool parts of the day."
+        }
       ]
     },
     "finding": {

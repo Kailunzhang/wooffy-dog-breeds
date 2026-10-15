@@ -151,6 +151,20 @@
         "Anyone wanting a low-maintenance coat or unwilling to brush 3–4 times per week, manage heavy seasonal shedding, and budget for professional deshedding twice a year — the rough coat mats fast without consistent care",
         "Owners who cannot verify CEA DNA test results from the breeder",
         "Anyone who won't follow through on MDR1 testing and informing their vet"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Collie (Rough Collie) a good dog for first-time owners?",
+          "a": "Yes, with a grooming plan. Collies are one of the easier large breeds to train, being attentive, eager to please and responsive to positive reinforcement. The real challenge is the coat: you need to brush 3–4 times per week, daily during seasonal shedding, and budget for professional deshedding twice a year."
+        },
+        {
+          "q": "Is a Collie (Rough Collie) good with kids?",
+          "a": "Yes. Collies are one of the best large breeds for households with children of any age. They are patient, gentle and physically careful around small children, and protective without being aggressive. Some may try to herd kids with gentle nudging or heel nipping, but this is manageable with training."
+        },
+        {
+          "q": "How much exercise does a Collie (Rough Collie) need?",
+          "a": "Plan on 60–90 minutes of exercise every day. Collies have moderate-to-high energy but are less relentlessly driven than Border Collies. On-leash walks, yard play, fetch and hiking suit them well. Under-exercised Collies often develop destructive chewing, barking or separation anxiety, so they're a poor fit if you're away 8+ hours daily."
+        }
       ]
     },
     "finding": {

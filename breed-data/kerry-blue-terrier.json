@@ -149,6 +149,20 @@
         "You are a first-time dog owner",
         "You want a dog that's reliably friendly with all other dogs",
         "You have cats or small pets"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Kerry Blue Terrier a good dog for first-time owners?",
+          "a": "Generally no. The Kerry Blue Terrier is best suited to experienced, active owners. It has a strong, independent personality, a known tendency toward dog-to-dog aggression that needs proactive management, and training that calls for patience, consistency and respect for its independence. If you're new to dogs, there are easier terrier options."
+        },
+        {
+          "q": "Is a Kerry Blue Terrier good with kids?",
+          "a": "Yes, especially with older children. Kerry Blues are playful, enthusiastic family dogs with the energy and durability to keep up with active families. Older kids can handle vigorous play without being bowled over by the breed's exuberance and sturdy medium-sized body."
+        },
+        {
+          "q": "How much exercise does a Kerry Blue Terrier need?",
+          "a": "Plan on about an hour of vigorous activity every day, such as long walks, running, fetch, agility or structured play. Your Kerry Blue also needs daily mental stimulation like puzzle feeders, training sessions and nose work. Under-exercised or bored Kerry Blues often turn to destructive chewing, barking or separation anxiety."
+        }
       ]
     },
     "finding": {

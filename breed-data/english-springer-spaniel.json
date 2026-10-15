@@ -153,6 +153,24 @@
         "Owners who won't commit to regular ear cleaning (chronic infections will result)",
         "Anyone purchasing without asking for PFK and Fucosidosis DNA test documentation",
         "Owners wanting a very low-maintenance coat"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an English Springer Spaniel a good dog for first-time owners?",
+          "a": "Yes, if you can commit to daily exercise. Springers are eager to please and among the more trainable sporting breeds, so they respond well to positive reinforcement and early obedience classes. You'll need to provide 60–90 minutes of vigorous activity every day and clean their ears weekly to prevent chronic infections."
+        },
+        {
+          "q": "Can an English Springer Spaniel live in an apartment?",
+          "a": "Only if you have nearby outdoor space and a solid off-property exercise routine. A small apartment without outdoor access is a poor fit, because at 40–50 lbs Springers need room to stretch. They also need 60–90 minutes of vigorous daily exercise, and under-exercised Springers often become destructive, bark, or develop separation anxiety."
+        },
+        {
+          "q": "Is an English Springer Spaniel good with kids?",
+          "a": "Yes, generally excellent. Springers are friendly, affectionate, and genuinely good with children. Their enthusiasm can be a lot for very young toddlers, though, since an excited Springer can knock over small children without meaning to. Supervision and basic training like sitting before greeting and no jumping manage this well."
+        },
+        {
+          "q": "How much exercise does an English Springer Spaniel need?",
+          "a": "A lot: plan on 60–90 minutes of vigorous activity daily. Springers are working gundogs bred to flush game for hours, so slow walks won't meet their needs. Fetch, swimming, running, field work, or agility are ideal. An under-exercised Springer becomes hyperactive, mouthy, and destructive."
+        }
       ]
     },
     "finding": {

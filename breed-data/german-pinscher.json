@@ -149,6 +149,20 @@
         "Households with cats, rabbits, or other small pets",
         "Apartments without daily access to safe outdoor exercise",
         "Anyone wanting a gentle, biddable, low-energy companion"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a German Pinscher a good dog for first-time owners?",
+          "a": "No. A German Pinscher is generally not recommended for first-time owners. Its high energy, strong will and intense prey drive call for an experienced handler who can provide consistent training and firm boundaries, and inexperienced owners often find the breed overwhelming."
+        },
+        {
+          "q": "Can a German Pinscher live in an apartment?",
+          "a": "Only if you have daily access to safe outdoor exercise. German Pinschers need 1–2 hours of vigorous exercise every day, and under-exercised dogs often develop destructive chewing, barking or separation anxiety. They also bark to alert at anything out of the ordinary."
+        },
+        {
+          "q": "Is a German Pinscher good with kids?",
+          "a": "Yes, German Pinschers are rated good with kids. With their family they are affectionate, playful and deeply engaged, and they want to be wherever their people are rather than left alone in the yard."
+        }
       ]
     },
     "finding": {

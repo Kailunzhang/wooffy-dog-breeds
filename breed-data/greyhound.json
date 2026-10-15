@@ -152,6 +152,24 @@
         "Want a dog you can let off-leash in an open area, or have small pets (cats, rabbits) without careful introduction — Greyhounds have a strong prey drive",
         "Want an enthusiastically obedient, high-energy working partner",
         "Can't provide adequate soft bedding and winter warmth, or need a dog comfortable with rough handling or loud environments"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Greyhound a good dog for first-time owners?",
+          "a": "It depends. First-time owners can manage a Greyhound with research, commitment and some guidance. Most available Greyhounds are retired racers, typically 2–5 years old and already leash-trained, crate-trained and mannerly, and adoption organizations help with the transition. You'll need calm, positive handling, since they don't do well with corrections or raised voices."
+        },
+        {
+          "q": "Can a Greyhound live in an apartment?",
+          "a": "Yes. Greyhounds are excellent apartment dogs despite their size. They sleep 16–18 hours a day, don't bark much, and don't need constant stimulation. No yard is required, but you'll need nearby outdoor space for two walks a day and access to a securely fenced area for occasional sprinting."
+        },
+        {
+          "q": "Is a Greyhound good with kids?",
+          "a": "Generally yes, especially with school-age kids who've been taught to interact calmly. Greyhounds are gentle and not aggressive, but they're sensitive and can be overwhelmed by very loud or chaotic young children. They also move fast enough to knock over a toddler by accident, so very young children need supervision and taught boundaries."
+        },
+        {
+          "q": "How much exercise does a Greyhound need?",
+          "a": "Plan on 30–45 minutes a day: two 20-minute walks, plus the chance to sprint in a safely fenced area a few times a week. Greyhounds are sprinters, not endurance athletes, so long runs would exhaust and stress them. Never exercise them heavily in heat, because their thin skin and low body fat make them vulnerable to overheating."
+        }
       ]
     },
     "finding": {

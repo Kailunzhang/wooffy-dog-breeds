@@ -150,6 +150,20 @@
         "is not well-suited to apartment living without exceptional dedication to daily exercise, households with cats or small animals, or owners who want a calm, easily managed pet",
         "The Wire Fox Terrier's energy level, prey drive, and potential dog-to-dog issues require an experienced, committed handler",
         "But for the right owner, it is one of the most rewarding breeds in existence"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Wire Fox Terrier a good dog for first-time owners?",
+          "a": "Only if you're willing to research the breed and commit fully. Wire Fox Terriers have a strong prey drive, real independence, and a stubborn streak that can frustrate owners who expect easy compliance. Their energy level and potential issues with other dogs call for an experienced, committed handler."
+        },
+        {
+          "q": "Can a Wire Fox Terrier live in an apartment?",
+          "a": "Only with exceptional dedication to daily exercise. Wire Fox Terriers are not well-suited to apartment living otherwise. They need at least an hour of vigorous exercise every day, and a bored or under-exercised one will bark, dig, chew, and become destructive."
+        },
+        {
+          "q": "Is a Wire Fox Terrier good with kids?",
+          "a": "Yes, with active families and children old enough to engage appropriately with a high-energy small dog. Wire Fox Terriers are playful, durable, and affectionate with their people. Very young children who may be knocked over or overstimulate the dog require careful supervision."
+        }
       ]
     },
     "finding": {

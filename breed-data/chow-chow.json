@@ -154,6 +154,20 @@
         "Households expecting a friendly, sociable dog with guests",
         "Owners who can't commit to daily brushing for a rough-coated variety",
         "Families with very young children who won't respect the dog's space"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Chow Chow a good dog for first-time owners?",
+          "a": "No. Chow Chows are not recommended for first-time owners or anyone getting their first large dog. They're intelligent but independent, deciding for themselves whether to follow commands, and they need an owner who can read dog body language, set consistent boundaries, and manage a territorial, protective dog firmly without using force."
+        },
+        {
+          "q": "Is a Chow Chow good with kids?",
+          "a": "It depends. Chow Chows are loyal and protective of their family, including children they've been raised with, but they're not playful, rough-housing dogs. They don't like being grabbed or crowded, so they do best with older children, supervision, and a calm household. They're not a good fit with very young children who won't respect their space."
+        },
+        {
+          "q": "How much exercise does a Chow Chow need?",
+          "a": "Less than most large breeds: 45–60 minutes of moderate exercise a day is generally enough, ideally from the same handler on a consistent routine. Chow Chows are heat-sensitive because of their dense coat and flat-ish face, so in warm weather exercise them in the cooler parts of the day. Always keep them on-leash or in a securely fenced yard."
+        }
       ]
     },
     "finding": {

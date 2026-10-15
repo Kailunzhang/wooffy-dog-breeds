@@ -152,6 +152,24 @@
         "Owners in warm climates without AC or wanting a warm-weather running or jogging partner — heat intolerance is a real medical concern",
         "Owners who won't do the respiratory evaluation or budget for potential BOAS surgery",
         "Households with lots of eye-level hazards the dog could injure its prominent eyes on"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Boston Terrier a good dog for first-time owners?",
+          "a": "Yes, with caveats. Boston Terriers are friendly, food-motivated and respond well to positive reinforcement, so basic obedience, leash manners and house training are achievable without specialized experience. You do need to commit to a respiratory evaluation at the first vet visit, possible BOAS surgery costs, and careful heat and eye care."
+        },
+        {
+          "q": "Can a Boston Terrier live in an apartment?",
+          "a": "Yes. Boston Terriers are excellent apartment dogs: adaptable to smaller spaces, moderate in exercise needs, friendly with neighbors and not excessively vocal. The key requirement is a cool environment, because a top-floor apartment without air conditioning in summer is not safe for this brachycephalic breed."
+        },
+        {
+          "q": "Is a Boston Terrier good with kids?",
+          "a": "Yes. Boston Terriers are excellent with children. They are people-oriented, playful and enthusiastic about games, and their moderate size means they are neither fragile nor too large. Keep in mind that their prominent eyes are vulnerable to injury, so any eye symptom needs same-day veterinary attention."
+        },
+        {
+          "q": "How much exercise does a Boston Terrier need?",
+          "a": "It depends on the weather. A Boston Terrier needs a moderate 30–45 minutes of exercise daily, but above 75°F you should minimize outdoor activity because heat and humidity are dangerous for this breed. They are not a good warm-weather running or jogging partner."
+        }
       ]
     },
     "finding": {

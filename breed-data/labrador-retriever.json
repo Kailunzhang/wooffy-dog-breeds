@@ -151,6 +151,20 @@
         "Not prepared for heavy shedding on furniture, clothing, and everywhere else",
         "Looking for an independent, aloof breed",
         "Expecting an easy puppy — Lab puppies are large, mouthy, and exuberant for 2+ years"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Labrador Retriever a good dog for first-time owners?",
+          "a": "Yes, if you're willing to put in the work. Labs are forgiving of inexperienced owners and are very easy to train, but they need real daily exercise and consistent training. The first year is genuinely challenging; puppy classes, daily exercise and patience pay off in an exceptional adult dog."
+        },
+        {
+          "q": "Is a Labrador Retriever good with kids?",
+          "a": "Yes, especially as adults. Labs are friendly, rarely aggressive without provocation, and excellent with families. Lab puppies, though, are large, mouthy and exuberant for 2+ years, which can be physically challenging with young children. You'll need to manage that enthusiastic puppy stage first."
+        },
+        {
+          "q": "How much exercise does a Labrador Retriever need?",
+          "a": "A lot: plan on 60–90 minutes of real daily exercise, such as off-leash running, swimming, fetch or trail work. A 20-minute leash walk doesn't cut it. Two 30-minute sessions work better than one long weekend effort, and under-exercised Labs often become destructive, anxious and difficult."
+        }
       ]
     },
     "finding": {

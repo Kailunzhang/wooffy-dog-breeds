@@ -152,6 +152,24 @@
         "Sedentary lifestyles — an under-exercised Aussie is a destructive, anxious Aussie",
         "Apartment living without guaranteed daily access to vigorous off-leash exercise",
         "Families with very young toddlers — herding instinct may produce nipping at running children"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an Australian Shepherd a good dog for first-time owners?",
+          "a": "No. Australian Shepherds are high-drive herding dogs that tend to frustrate inexperienced owners. They do best with handlers who already understand canine body language, consistent boundaries, and patient training, and who can commit to 90+ minutes of vigorous daily exercise."
+        },
+        {
+          "q": "Can an Australian Shepherd live in an apartment?",
+          "a": "Usually not. Aussies need 90+ minutes of vigorous daily exercise plus significant mental stimulation, and without it they develop destructive, anxious behaviors that are hard to manage in a small space. An apartment works only if you have guaranteed daily access to vigorous off-leash exercise, such as a nearby park, and a truly committed exercise plan."
+        },
+        {
+          "q": "Is an Australian Shepherd good with kids?",
+          "a": "It depends on the children's ages. Aussies are loyal and excellent with older kids who engage them. With very young toddlers, their herding instinct can lead to circling and heel-nipping at running children. This is manageable with immediate redirection and training a 'settle' or 'place' behavior, but it rarely disappears completely."
+        },
+        {
+          "q": "How much exercise does an Australian Shepherd need?",
+          "a": "A lot: plan on 90+ minutes of vigorous activity every day, not 30 minutes of leash walking. Running, hiking, agility, fast fetch, or herding all work, and mental exercise like obedience training, puzzle feeders, and nose work is equally important. Under-exercised Aussies often develop destructive chewing, barking, or separation anxiety."
+        }
       ]
     },
     "finding": {

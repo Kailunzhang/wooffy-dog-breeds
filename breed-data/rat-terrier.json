@@ -126,6 +126,24 @@
         "The dog would be alone most of the day without exercise or company",
         "You need a hypoallergenic dog — they shed, especially seasonally",
         "You want a dog that ignores squirrels, cats and gaps under the fence"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Rat Terrier a good dog for first-time owners?",
+          "a": "Yes, if you're active. Rat Terriers learn fast, are sensitive and love to please, and respond well to reward-based training. You'll still need research and commitment, because their strong prey drive means they should never be off leash and they need daily exercise and company."
+        },
+        {
+          "q": "Can a Rat Terrier live in an apartment?",
+          "a": "It depends on the dog and your routine. Size matters for daily life: a 10 lb Miniature and a 25 lb Standard differ in how well they fit an apartment, so ask which variety both parents are. Some Rat Terriers get enough exercise from indoor play, but most adults need 45–60 minutes of walks and play daily."
+        },
+        {
+          "q": "Is a Rat Terrier good with kids?",
+          "a": "Yes, usually. Most Rat Terriers are patient and tolerant with children, and they're a good fit for families with considerate kids. Early socialization and a puppy class help, and the breed's sturdy build makes it a better match for active family life than most toy breeds."
+        },
+        {
+          "q": "How much exercise does a Rat Terrier need?",
+          "a": "Plan on 45–60 minutes of walks and play a day for most adults, split into two or three sessions, plus short training and scent games. Rat Terriers thrive on daily walks and ball-chasing in a fenced area, and dog sports like agility, obedience and rally are a great outlet."
+        }
       ]
     },
     "finding": {

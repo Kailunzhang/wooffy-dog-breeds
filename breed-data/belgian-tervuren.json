@@ -150,6 +150,20 @@
         "Are a first-time dog owner",
         "Have a sedentary lifestyle",
         "Want a dog that is immediately warm with all strangers"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Belgian Tervuren a good dog for first-time owners?",
+          "a": "No, a Belgian Tervuren is generally not a good choice for a first-time owner. This high-drive herding breed needs experienced handling, consistent and varied lifelong training, and early, extensive socialization. Without it, its protective nature and reserve with strangers can tip into over-reactivity."
+        },
+        {
+          "q": "Is a Belgian Tervuren good with kids?",
+          "a": "It depends. A Belgian Tervuren is generally good with children it is raised with, but its herding instinct and high energy mean you should always supervise very young children. Its tendency to chase and circle can startle small kids, so it suits experienced, active families best."
+        },
+        {
+          "q": "How much exercise does a Belgian Tervuren need?",
+          "a": "Plan on at least 60–90 minutes of vigorous exercise every day, such as running, hiking, cycling, fetch in a secure area or dog sports. You also need to provide mental stimulation through training and puzzles. A bored Tervuren often turns to destructive behavior, excessive barking or fence pacing."
+        }
       ]
     },
     "finding": {

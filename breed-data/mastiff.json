@@ -153,6 +153,24 @@
         "Anyone with strong aversion to drool — it is constant and significant",
         "Anyone wanting a long-lived companion — the short lifespan is hard",
         "Active households seeking a running or hiking partner"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Mastiff a good dog for first-time owners?",
+          "a": "Only if you research and commit first. First-time owners can manage a Mastiff, but training must start early, because a 220-lb untrained dog is ungovernable. Mastiffs can be stubborn but are generally willing with positive reinforcement, and loose-leash walking and not jumping are the critical behaviors to teach."
+        },
+        {
+          "q": "Can a Mastiff live in an apartment?",
+          "a": "Usually not. Mastiffs reach 120–230+ lbs, sprawl indoors and need room, so small living spaces and studios are a poor fit. Rentals are often ruled out too, because apartment weight limits around 40–50 lbs are not uncommon. They suit owners with space both indoors and outdoors."
+        },
+        {
+          "q": "Is a Mastiff good with kids?",
+          "a": "Yes. Mastiffs are patient and tolerant with family children and typically good with children they're raised with. Supervise young children anyway: a 200-lb dog moving at normal pace can knock a child over accidentally. That risk comes from sheer mass, not aggression."
+        },
+        {
+          "q": "How much exercise does a Mastiff need?",
+          "a": "Less than you might expect. An adult Mastiff needs 30–45 minutes of moderate daily exercise, and daily walks are enough. Avoid over-exercising in heat, since Mastiffs are sensitive to heat stress. Puppies need strict limits until 18–24 months, with no forced running or jumping while growth plates are open."
+        }
       ]
     },
     "finding": {

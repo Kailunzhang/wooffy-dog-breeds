@@ -153,6 +153,24 @@
         "Owners in apartments or close quarters not prepared for the Toller scream",
         "Those who have not researched the autoimmune health picture",
         "Anyone who will not get insurance before the first vet visit"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Nova Scotia Duck Tolling Retriever a good dog for first-time owners?",
+          "a": "It depends. First-time owners can manage a Toller with research and commitment, since household obedience is generally straightforward and they respond well to positive reinforcement. But you need to accept a higher-than-average rate of autoimmune conditions like Addison's disease, plan for 60–90 minutes of vigorous daily exercise, and get insurance before the first vet visit."
+        },
+        {
+          "q": "Can a Nova Scotia Duck Tolling Retriever live in an apartment?",
+          "a": "Usually not. Tollers need room to stretch and a routine of off-property exercise, so small apartments without nearby outdoor space are a poor fit. They also produce the 'Toller scream,' a genuinely loud, high-pitched vocalization that cannot be trained away, which can be a problem with shared walls and noise-sensitive neighbors."
+        },
+        {
+          "q": "Is a Nova Scotia Duck Tolling Retriever good with kids?",
+          "a": "Yes, generally. Tollers are affectionate, devoted to their family and good with children and other dogs. Their high energy means they suit active families rather than sedentary households, and you should be prepared for the loud 'Toller scream' when they get excited."
+        },
+        {
+          "q": "How much exercise does a Nova Scotia Duck Tolling Retriever need?",
+          "a": "A lot. Plan on 60–90 minutes of vigorous exercise daily, such as swimming, running, field work or agility. Mental stimulation like puzzle feeders, nose work and training sessions matters just as much. Under-exercised Tollers often develop destructive chewing, barking or separation anxiety."
+        }
       ]
     },
     "finding": {

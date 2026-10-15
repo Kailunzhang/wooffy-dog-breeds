@@ -150,6 +150,16 @@
         "First-time dog owners — the Skye suits patient, experienced owners who respect its independent, selective nature",
         "Owners who want a friendly, outgoing dog comfortable with everyone — the Skye is reserved with strangers",
         "Homes with children the dog wasn't raised with from puppyhood — its reserved nature means it needs careful, respectful handling"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Skye Terrier a good dog for first-time owners?",
+          "a": "No, not usually. The Skye Terrier suits patient, experienced owners who respect its independent, selective nature, and beginners should approach with caution. It is reserved with strangers, takes time to trust, and its coat mats fast without 15-30 minutes of daily brushing or $80-150/month for professional grooming."
+        },
+        {
+          "q": "Is a Skye Terrier good with kids?",
+          "a": "It depends. A Skye Terrier is good with kids it is raised with from puppyhood, as long as the children handle it carefully and respectfully. It is a poor choice for homes with children it wasn't raised with, because its reserved nature needs careful, respectful handling."
+        }
       ]
     },
     "finding": {

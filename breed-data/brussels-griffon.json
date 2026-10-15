@@ -150,6 +150,24 @@
         "Households with young children — the Griffon is physically vulnerable and may snap when overwhelmed",
         "Owners wanting a low-maintenance, easygoing, or hands-off pet",
         "First-time dog owners unfamiliar with this breed type"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Brussels Griffon a good dog for first-time owners?",
+          "a": "Only if you're prepared to research the breed and commit to it. Brussels Griffons aren't ideal for first-time owners unfamiliar with this type of dog: they're sensitive, can shut down with harsh correction, and some are anxious or reactive. You'll need to provide structure, early socialization and consistent boundaries."
+        },
+        {
+          "q": "Can a Brussels Griffon live in an apartment?",
+          "a": "Yes. A Brussels Griffon's small size, moderate exercise needs and adaptability to close living make it well-suited to apartment and city life. It still needs daily walks and playtime, and it shouldn't be left alone for long periods, because its intense attachment can tip into separation anxiety."
+        },
+        {
+          "q": "Is a Brussels Griffon good with kids?",
+          "a": "It depends on the children's ages. A Brussels Griffon is generally not recommended for homes with very young or boisterous kids, because it's physically vulnerable and may snap when overwhelmed. Calm, older children who understand how to handle small dogs are usually fine, ideally with supervision."
+        },
+        {
+          "q": "How much exercise does a Brussels Griffon need?",
+          "a": "Plan on at least 30 minutes of exercise a day, easily met in small spaces through daily play sessions and short walks. Under-exercised Griffons often develop destructive chewing, barking or separation anxiety. Because of its flat face, keep exercise to cooler parts of the day in summer and never leave it in a warm car."
+        }
       ]
     },
     "finding": {

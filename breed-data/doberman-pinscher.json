@@ -152,6 +152,24 @@
         "First-time dog owners without prior large working-breed experience",
         "Unwilling to budget for pet insurance and annual cardiac monitoring",
         "Want an independent, low-engagement breed"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Doberman Pinscher a good dog for first-time owners?",
+          "a": "No. Dobermans aren't recommended for first-time owners. That's not because they're dangerous. They do best with a confident, experienced handler who gives clear structure and ongoing training. They pick up on your emotional state, so anxious or inconsistent handling amplifies reactivity, and a Doberman with no structure becomes anxious and difficult."
+        },
+        {
+          "q": "Can a Doberman Pinscher live in an apartment?",
+          "a": "Usually not. Dobermans aren't a good fit for small apartments, studios or rentals with weight limits. They reach 60–100 lbs, and apartment weight limits around 40–50 lbs are not uncommon. They also need 60–90 minutes of vigorous daily exercise, and under-exercised Dobermans often turn to destructive chewing, barking or separation anxiety."
+        },
+        {
+          "q": "Is a Doberman Pinscher good with kids?",
+          "a": "Yes, with supervision. Dobermans can be excellent with family children they've been raised with, and they tend to be protective of and attentive to them. Watch them closely around young children. This isn't because of aggression risk. An enthusiastic Doberman's size and energy can knock a toddler over."
+        },
+        {
+          "q": "How much exercise does a Doberman Pinscher need?",
+          "a": "A lot. Plan on 60–90 minutes of vigorous exercise every day, such as running, hiking, agility, protection sports or off-leash play in a secure area. Mental work like training sessions, nose work and puzzle feeders also matters. Without enough exercise, Dobermans become anxious, destructive and reactive."
+        }
       ]
     },
     "finding": {

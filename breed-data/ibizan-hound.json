@@ -155,6 +155,20 @@
         "Cold-climate households not prepared for a dog that needs a coat in winter",
         "First-time owners who skip breed-specific research — Ibizan Hounds have quirks that catch unprepared owners off-guard",
         "Anyone whose vet is unfamiliar with sighthound anesthesia protocols and unwilling to learn"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an Ibizan Hound a good dog for first-time owners?",
+          "a": "Only if you do your breed research first. Ibizan Hounds are more interactive and less aloof than many sighthounds, and basic obedience is very achievable with patient, positive training. But they have quirks that catch unprepared owners off-guard: they need 6-foot fencing, a winter coat, and a vet who follows sighthound anesthesia protocols."
+        },
+        {
+          "q": "Can an Ibizan Hound live in an apartment?",
+          "a": "It depends on your outdoor access. Ibizan Hounds are not constant-motion dogs indoors and can be calm apartment dogs, but only if you provide regular sprint sessions in a secure, 6-foot-fenced area. A small apartment without nearby outdoor space is a poor fit, because at 45–50 lbs they need room to stretch and off-property exercise."
+        },
+        {
+          "q": "Is an Ibizan Hound good with kids?",
+          "a": "Yes, generally. Ibizan Hounds are gentle and patient with children who interact calmly. They are sensitive dogs that don't do well with rough, chaotic handling, so you should supervise young children who don't yet understand dog body language."
+        }
       ]
     },
     "finding": {

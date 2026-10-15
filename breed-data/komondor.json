@@ -154,6 +154,24 @@
         "First-time dog owners or those without prior large-breed guardian experience",
         "Households with frequent visitors or children's friends regularly in the home, or owners expecting a dog that can be off-leash in public or at dog parks — every interaction with strangers requires active management",
         "Anyone who wants a low-grooming large breed — the corded coat is a significant time commitment"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Komondor a good dog for first-time owners?",
+          "a": "No. The Komondor is one of the most challenging dogs to own responsibly, and it is not recommended for first-time owners. It is a deeply independent livestock guardian that does not take direction by default, and managing its suspicion of strangers and territorial behavior is best suited to owners with prior large-breed guardian experience."
+        },
+        {
+          "q": "Can a Komondor live in an apartment?",
+          "a": "No. Komondors reach 80–100+ lbs, and apartment weight limits around 40–50 lbs are not uncommon. This patrol breed is best suited to a property with secure fencing, where it can cover ground steadily, so apartment dwellers and households without securely fenced property are not a good fit."
+        },
+        {
+          "q": "Is a Komondor good with kids?",
+          "a": "Only if you are an experienced owner. With proper management, a Komondor is deeply loyal to its household, including children. However, it is deeply suspicious of strangers, so households where children's friends regularly visit are a poor fit, because every visitor needs a careful, controlled introduction."
+        },
+        {
+          "q": "How much exercise does a Komondor need?",
+          "a": "Plan on 60–90 minutes of consistent activity every day. The Komondor isn't a high-energy athlete; it's a patrol breed that covers ground steadily, ideally on securely fenced property. Under-exercised Komondors often develop destructive chewing, barking or separation anxiety, and public walks must be on-leash."
+        }
       ]
     },
     "finding": {

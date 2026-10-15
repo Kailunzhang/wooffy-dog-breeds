@@ -154,6 +154,24 @@
         "Live in a home without secure fencing or need a dog that can exercise off-leash safely",
         "Are bothered by drool, odor, or moderate shedding",
         "Want a breed without significant back and joint health risks"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Basset Hound a good dog for first-time owners?",
+          "a": "It depends. First-time owners can manage a Basset Hound with research, commitment and guidance. Expect independence: training is difficult, and short sessions with high-value food rewards work better than repetition. You'll also need to keep up weekly ear cleaning and protect the back with ramps for furniture."
+        },
+        {
+          "q": "Can a Basset Hound live in an apartment?",
+          "a": "It depends. Bassets are calm indoors and need little exercise, but their loud, resonant bay carries through walls and floors, which can be a real issue with close neighbors. At 40–65 lbs, they also need nearby outdoor space and a routine of off-property exercise, so a small apartment without that isn't ideal."
+        },
+        {
+          "q": "Is a Basset Hound good with kids?",
+          "a": "Yes. Basset Hounds are excellent with kids. They're even-tempered, affectionate and slow to alarm or anger, and that placid nature is genuinely valuable for families with young children. They also get along well with other dogs and usually cats."
+        },
+        {
+          "q": "How much exercise does a Basset Hound need?",
+          "a": "Not much. About 30–45 minutes of moderate walking daily is sufficient for most Bassets. A couple of leisurely walks plus some sniff-heavy yard time is ideal. They're not built for running and shouldn't be over-exercised in heat. Always keep them on-leash or in a securely fenced area."
+        }
       ]
     },
     "finding": {

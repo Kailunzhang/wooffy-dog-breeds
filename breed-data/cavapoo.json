@@ -154,6 +154,24 @@
         "Households not prepared for ongoing cardiology monitoring",
         "Families with very rough young children — Cavapoos are small and can be injured",
         "Owners who want a low-grooming dog — even small Doodles need regular professional grooming"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Cavapoo a good dog for first-time owners?",
+          "a": "Yes. Cavapoos are a realistic choice for first-time owners because training is easy and their temperament is affectionate and gentle. Be patient with housebreaking, which can take longer than with larger breeds, and plan for professional grooming every 6–8 weeks."
+        },
+        {
+          "q": "Can a Cavapoo live in an apartment?",
+          "a": "Yes. Cavapoos are small, low-shedding (especially F1B and multigen) and well-suited to apartment living, needing only 30–45 minutes of exercise a day. The bigger issue is time alone: they suffer severe separation anxiety if left 8+ hours daily, which can show up as barking, destructive chewing and house-soiling."
+        },
+        {
+          "q": "Is a Cavapoo good with kids?",
+          "a": "Yes. Cavapoos are excellent with children and often described as one of the best small-breed choices for families. They do best with older, gentle children, though; because they are small, very rough young children can injure them."
+        },
+        {
+          "q": "How much exercise does a Cavapoo need?",
+          "a": "About 30–45 minutes daily is enough: moderate-pace walks, indoor play or short hikes. Cavapoos enjoy activity but are not athletes, and are equally content on the couch. Add short daily training sessions or puzzle feeders for mental stimulation."
+        }
       ]
     },
     "finding": {

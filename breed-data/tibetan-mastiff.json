@@ -151,6 +151,20 @@
         "Households with cats or small animals without careful management",
         "Hot, humid climates without strong air conditioning",
         "Owners unprepared for shedding and intensive grooming during coat blow"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Tibetan Mastiff a good dog for first-time owners?",
+          "a": "No. Tibetan Mastiffs are among the most challenging breeds to train: intelligent but independent, and not motivated to please you. They need an experienced owner, and a 150-pound dog that doesn't listen is a genuine problem for someone who hasn't owned dogs before."
+        },
+        {
+          "q": "Can a Tibetan Mastiff live in an apartment?",
+          "a": "No. Tibetan Mastiffs reach 70–150 lbs, often exceeding apartment weight limits of around 40–50 lbs, and they need access to a securely fenced yard. Their deep bark, used freely at night, also makes them poorly suited to apartments or close-quarters neighborhoods with low noise tolerance."
+        },
+        {
+          "q": "Is a Tibetan Mastiff good with kids?",
+          "a": "It depends. Tibetan Mastiffs tend to be gentle and protective with children in their own household and suit families with older children. Their large size alone means you should always supervise them around small children."
+        }
       ]
     },
     "finding": {

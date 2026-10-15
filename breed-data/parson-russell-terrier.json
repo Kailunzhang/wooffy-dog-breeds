@@ -149,6 +149,20 @@
         "You have cats or rabbits",
         "You want reliable off-leash recall in open areas",
         "You expect a calm, quiet first 8-12 weeks — Parson Russell Terrier puppies, like all puppies, bring nipping, house-training accidents, and broken sleep, and many new owners go through a 'puppy blues' phase of anxiety, frustration, and exhaustion"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Parson Russell Terrier a good dog for first-time owners?",
+          "a": "Generally not. Its high energy, strong prey drive and independent nature can overwhelm inexperienced owners. It suits people with prior terrier or working-breed experience. Even when it is well trained, expect an ongoing challenge with recall around prey animals."
+        },
+        {
+          "q": "Is a Parson Russell Terrier good with kids?",
+          "a": "Yes, with active, respectful children. Its playful energy is a great match for active kids, and it bonds strongly with family. Supervise it closely around very small children, because its quick movement and tendency to nip during overstimulating play can be a problem."
+        },
+        {
+          "q": "How much exercise does a Parson Russell Terrier need?",
+          "a": "A lot: plan on 1–2 hours of vigorous activity every day, minimum. Long walks, running, fetch and dog sports like agility, flyball and earthdog work well. It also needs daily mental stimulation, such as puzzle feeders, nose work and training, to prevent digging, barking, chewing and escape attempts."
+        }
       ]
     },
     "finding": {

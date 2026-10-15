@@ -154,6 +154,24 @@
         "Households without reliable air conditioning in warm climates — heat is a genuine medical emergency risk for Pugs",
         "Anyone who wants minimal veterinary complexity or cannot budget for possible BOAS surgical intervention",
         "Owners not prepared for the daily skin fold and eye care routine"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Pug a good dog for first-time owners?",
+          "a": "It depends. A Pug can work for beginners, with caveats: training is straightforward because Pugs are intelligent and food-motivated, but you must be prepared for daily skin fold and eye care, air conditioning as a medical necessity, and budgeting for possible BOAS surgery and pet insurance."
+        },
+        {
+          "q": "Can a Pug live in an apartment?",
+          "a": "Yes. Pugs adapt well to apartment life and suit apartment dwellers who want a low-exercise, high-personality companion. Reliable air conditioning matters more than space, because heat is a genuine medical emergency risk for Pugs."
+        },
+        {
+          "q": "Is a Pug good with kids?",
+          "a": "Yes. Pugs are genuinely excellent with children of any age: patient, even-tempered, and sturdy enough to handle play, unlike very small toy breeds. As with any dog, children shouldn't handle them roughly, and young children should be supervised."
+        },
+        {
+          "q": "How much exercise does a Pug need?",
+          "a": "Not much: 20–30 minutes of gentle activity daily is enough. Exercise must be weather-dependent, though. Above 70–75°F, keep outdoor activity minimal or skip it, because Pugs can't cool themselves effectively and can overheat quickly. They aren't suited to running or hiking."
+        }
       ]
     },
     "finding": {

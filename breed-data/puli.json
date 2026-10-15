@@ -150,6 +150,20 @@
         "Owners looking for low-grooming convenience",
         "First-time owners",
         "Sedentary households"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Puli a good dog for first-time owners?",
+          "a": "No, in most cases. The Puli is assertive and independent like most herding breeds and needs an experienced owner who provides clear, consistent structure. Its corded coat also demands a major time commitment. A determined first-timer can manage one only with thorough research and full commitment."
+        },
+        {
+          "q": "Is a Puli good with kids?",
+          "a": "Yes, with socialization. The Puli is devoted to its family and typically good with children it knows. Expect it to try herding kids, which is usually harmless but can be persistent. Early socialization and consistent training help channel that instinct appropriately."
+        },
+        {
+          "q": "How much exercise does a Puli need?",
+          "a": "Plan on at least 60 minutes of vigorous exercise every day, plus mental work like training or dog sports such as agility and herding. An under-exercised Puli often develops destructive chewing, barking or separation anxiety, so it's a poor fit if you're away 8+ hours a day."
+        }
       ]
     },
     "finding": {

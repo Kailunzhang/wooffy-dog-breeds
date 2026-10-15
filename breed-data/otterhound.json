@@ -155,6 +155,24 @@
         "Households that require a quiet dog — the baying voice is loud and carries",
         "Anyone wanting reliable off-leash recall in open environments",
         "Households with cats or small pets without careful management"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an Otterhound a good dog for first-time owners?",
+          "a": "No. Otterhounds are best for owners with prior hound or independent-breed experience. Training is challenging: they follow a scent or their own agenda rather than checking in with you, apply commands selectively, and shut down under harsh corrections, so you need patience, consistency and positive reinforcement."
+        },
+        {
+          "q": "Can an Otterhound live in an apartment?",
+          "a": "Generally no. Otterhounds reach 80–115 lbs, which can exceed rental weight limits, and they need a securely fenced yard because their recall is unreliable. Their loud baying voice carries for considerable distance, which may not suit close neighbors or noise-sensitive buildings."
+        },
+        {
+          "q": "Is an Otterhound good with kids?",
+          "a": "Yes, with supervision around small children. Otterhounds are friendly, affectionate and enthusiastically good with kids, but their large size and exuberance can knock over small children without any ill intent."
+        },
+        {
+          "q": "How much exercise does an Otterhound need?",
+          "a": "Plan on 60–90 minutes of vigorous activity every day. On-leash walks, hikes, swimming or supervised play in a securely fenced area all work, but never off-leash in open spaces. Under-exercised Otterhounds often develop destructive chewing, barking or separation anxiety."
+        }
       ]
     },
     "finding": {

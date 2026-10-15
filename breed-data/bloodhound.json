@@ -153,6 +153,24 @@
         "Anyone who cannot tolerate drool on surfaces, furniture, and clothing",
         "Owners expecting off-leash freedom outside a secured fence or a responsive, obedient companion when scent is present",
         "People unwilling to commit to the weekly ear cleaning protocol"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Bloodhound a good dog for first-time owners?",
+          "a": "No. Bloodhounds frustrate inexperienced owners and reward handlers who already understand canine body language, consistent boundaries and patient training. They can be stubborn, work independently and evaluate instructions on their own terms. Only patient, reward-based training gets results."
+        },
+        {
+          "q": "Can a Bloodhound live in an apartment?",
+          "a": "Generally no. Bloodhounds reach 80–110 lbs, and apartment weight limits around 40–50 lbs are not uncommon, so a small apartment, studio or rental with weight limits is a poor fit. They do best with a securely fenced outdoor area, ideally a 6-foot solid fence."
+        },
+        {
+          "q": "Is a Bloodhound good with kids?",
+          "a": "Yes. Bloodhounds are friendly, gentle and affectionate, with no aggression toward people, and they tolerate children well. The real challenges for families are the constant drool, mandatory weekly ear cleaning and secure containment, not the personality."
+        },
+        {
+          "q": "How much exercise does a Bloodhound need?",
+          "a": "Plan on 45–60 minutes daily, though Bloodhounds aren't extreme-energy dogs indoors. Use leashed walks and play in a securely fenced yard, never off-leash in the open. Scent work like tracking tires them more effectively than physical exercise alone."
+        }
       ]
     },
     "finding": {

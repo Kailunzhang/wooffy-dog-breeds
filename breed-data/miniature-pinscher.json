@@ -151,6 +151,24 @@
         "You have small pets (birds, hamsters, rabbits) that could be harassed",
         "You live somewhere with extreme cold and cannot provide adequate protection",
         "You expect a calm, quiet first 8-12 weeks — Miniature Pinscher puppies, like all puppies, bring nipping, house-training accidents, and broken sleep, and many new owners go through a 'puppy blues' phase of anxiety, frustration, and exhaustion"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Miniature Pinscher a good dog for first-time owners?",
+          "a": "Only if you are ready for real structure and commitment. Min Pins are highly intelligent but have a stubborn, independent streak and will test your boundaries regularly. They do best with owners who have dog experience and set consistent boundaries. If you are a first-time owner, plan on patient, positive-reinforcement training and plenty of daily engagement."
+        },
+        {
+          "q": "Can a Miniature Pinscher live in an apartment?",
+          "a": "Yes, if you commit to daily walks and interactive play. Min Pins can adapt well to apartment living with enough exercise and mental stimulation. Be aware that they are vocal watchdogs who bark at visitors and unusual sounds, and under-exercised dogs can become nuisance barkers or destructive chewers."
+        },
+        {
+          "q": "Is a Miniature Pinscher good with kids?",
+          "a": "It depends on your children's ages. Min Pins can do well with older, considerate kids who know how to treat a small dog respectfully. They are generally not recommended for toddlers or very young children, because their small size makes them vulnerable to accidental injury and they can become nippy if handled roughly."
+        },
+        {
+          "q": "How much exercise does a Miniature Pinscher need?",
+          "a": "More than their size suggests. Plan on at least 30 to 45 minutes of vigorous activity daily, ideally split into two sessions, plus mental stimulation such as puzzle toys, trick training or agility. A short stroll around the block will not satisfy them, and under-exercised Min Pins often develop destructive chewing, barking or separation anxiety."
+        }
       ]
     },
     "finding": {

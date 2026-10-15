@@ -155,6 +155,20 @@
         "Households with cats or small animals without careful introduction management",
         "Anyone unwilling to budget for annual cardiac exams throughout the dog's life",
         "Owners looking for an extremely biddable, immediately responsive dog"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an American Water Spaniel a good dog for first-time owners?",
+          "a": "Yes, generally. American Water Spaniels are friendly, people-oriented and respond well to consistent positive training, so their temperament isn't particularly challenging. You must commit to 60 minutes of daily exercise, though. Because the breed is rare, research thoroughly before committing, since there are fewer resources than for common breeds."
+        },
+        {
+          "q": "Is an American Water Spaniel good with kids?",
+          "a": "Yes. American Water Spaniels are good family dogs: friendly with children, genuinely attached to their people and eager to be involved in whatever is happening. They adapt well to household life when they get enough exercise, and consistent socialization from puppyhood helps produce confident, well-adjusted adults."
+        },
+        {
+          "q": "How much exercise does an American Water Spaniel need?",
+          "a": "Plan on at least 60 minutes of active exercise every day. These are hunting dogs bred for all-day field work, with real stamina. Swimming is a natural fit, and running, hiking, fetch and active play in a fenced yard also work well. An under-exercised American Water Spaniel becomes restless and potentially destructive."
+        }
       ]
     },
     "finding": {

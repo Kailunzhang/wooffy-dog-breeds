@@ -151,6 +151,24 @@
         "First-time owner without a genuine training commitment",
         "Want a low-energy, low-maintenance companion, or a breed that's independent and doesn't need much engagement",
         "Not prepared for a large, powerful dog with protective instincts"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a German Shepherd Dog a good dog for first-time owners?",
+          "a": "Only if you commit to learning and training seriously. German Shepherd Dogs are not casual beginner dogs: they need consistent structure from day one, critical early socialization at 8–16 weeks, and ongoing training through adulthood. First-time owners who invest in research and training can succeed, but figuring it out as you go doesn't work well with this breed."
+        },
+        {
+          "q": "Can a German Shepherd Dog live in an apartment?",
+          "a": "Generally no. German Shepherd Dogs reach 50–90 lbs, and apartment weight limits around 40–50 lbs are not uncommon, so small apartments, studios, and weight-restricted rentals are a poor fit. They also need 60–90+ minutes of vigorous daily activity, and under-exercised dogs often develop destructive chewing, barking, or separation anxiety."
+        },
+        {
+          "q": "Is a German Shepherd Dog good with kids?",
+          "a": "Yes, with proper socialization and training from puppyhood. Well-socialized, trained German Shepherd Dogs are loyal, gentle with family members, and protective in appropriate ways. The key is exposing your puppy to people, children, other animals, and environments between 8–16 weeks, then training consistently; a poorly socialized, undertrained GSD with active protective instincts is a different situation."
+        },
+        {
+          "q": "How much exercise does a German Shepherd Dog need?",
+          "a": "A lot: plan on 60–90+ minutes of structured daily activity with real effort, not casual walks. Think off-leash running, fetch mixed with obedience, trail work, or sport training, ideally split into two sessions. Mental work like training, nose work, and puzzles is essential in addition to physical exercise, not instead of it."
+        }
       ]
     },
     "finding": {

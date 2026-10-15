@@ -153,6 +153,20 @@
         "Passive owners who want a low-maintenance or easy-going companion",
         "Owners who want a social, friendly-with-everyone dog",
         "Households with very young children unless the owner is highly experienced"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Giant Schnauzer a good dog for first-time owners?",
+          "a": "No. Giant Schnauzers frustrate inexperienced owners and do best with handlers who already understand canine body language, consistent boundaries, and patient training. Their dominance is directed at everyone, including owners, and they will test anyone who isn't confident or consistent."
+        },
+        {
+          "q": "Is a Giant Schnauzer good with kids?",
+          "a": "Only if you're an experienced owner. Giant Schnauzers are loyal and protective of children in their family, but they aren't tolerant, easygoing dogs. Their dominance and size require confident management, they're best with older children, and interactions with young children should always be supervised."
+        },
+        {
+          "q": "How much exercise does a Giant Schnauzer need?",
+          "a": "A lot: plan on 90–120 minutes of vigorous exercise daily, minimum. Casual strolls won't do. They need running, hiking, cycling, dog sports, or play in a securely fenced area. Without enough activity, they often become destructive, frustrated, and dominant, with chewing, barking, or separation anxiety."
+        }
       ]
     },
     "finding": {

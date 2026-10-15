@@ -150,6 +150,20 @@
         "First-time dog owners, anyone wanting an easy-to-train pet, or owners expecting reliable off-leash obedience in open areas",
         "Families with very young children expecting a tolerant family dog",
         "Households with cats or small pets without careful management"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is an Anatolian Shepherd Dog a good dog for first-time owners?",
+          "a": "No. The Anatolian Shepherd Dog is a challenging breed to train and is not recommended for first-time owners. It's an independent livestock guardian that acts on its own when it senses a threat, so it needs an owner who understands guardian-breed psychology and can set clear structure from the start."
+        },
+        {
+          "q": "Can an Anatolian Shepherd Dog live in an apartment?",
+          "a": "No. This breed isn't suited to apartment life or small yards. Anatolians reach 80–150 lbs, which can exceed common apartment weight limits, and they need a large yard with fencing at least 6 feet tall. Without territory to patrol, they may become destructive or bark at night."
+        },
+        {
+          "q": "Is an Anatolian Shepherd Dog good with kids?",
+          "a": "It depends. Anatolian Shepherd Dogs are loyal to their immediate family but are best with older children and supervision. They're generally not recommended for households with small children or families with very young kids expecting a tolerant family dog."
+        }
       ]
     },
     "finding": {

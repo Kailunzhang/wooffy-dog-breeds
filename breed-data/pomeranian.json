@@ -153,6 +153,24 @@
         "Households with very young children who may drop or roughly handle the dog",
         "Anyone unwilling to invest in consistent dental care",
         "Anyone who plans to walk with a collar instead of a harness — given the breed's tracheal collapse risk, this is genuinely inadvisable"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Pomeranian a good dog for first-time owners?",
+          "a": "Yes, with research and commitment. You'll need to keep up daily brushing, dental care and harness-only walks. Training goes best with consistent, patient positive reinforcement, since Pomeranians learn quickly but can decide not to comply and respond poorly to harsh corrections."
+        },
+        {
+          "q": "Can a Pomeranian live in an apartment?",
+          "a": "Yes. Pomeranians suit apartments well thanks to their small size and moderate exercise needs. The caveat is barking: they're vocal and quick to announce activity, so train bark management early. A Pom taught to alert once and then settle is quite manageable with close neighbors."
+        },
+        {
+          "q": "Is a Pomeranian good with kids?",
+          "a": "Only if your children are older and supervised. Pomeranians do best with older kids who know how to handle a small dog. With very young children it's a mismatch: the dog can be dropped or stepped on, and a Pom who feels threatened may snap."
+        },
+        {
+          "q": "How much exercise does a Pomeranian need?",
+          "a": "Plan on 30–45 minutes of activity daily, which you can split between walks and indoor play. Pomeranians aren't couch dogs and need real daily exercise to prevent boredom-related behavior issues. Always use a harness outdoors, and add puzzle toys and indoor play as supplements."
+        }
       ]
     },
     "finding": {
