@@ -97,9 +97,9 @@ Wooffy 的优势：原创数据（费用数据集、品种 stats）和真实第�
 - roundup：只有标题以 best/most/easiest 等开头的 24 篇把品种列表那节改成 "What are the best large dog breeds?"，其余不动
 共改 2,078 个标题、688 篇。`build_toc()` 同步改为：标题是问句时侧栏显示该节的短 `label`（Physical / Wellness / Budget…），避免侧栏被长问句撑满。审计：问句标题覆盖率 0.1% → 78.5%（roundup 9.8%、comparison 0%，这两类标题多为手写，暂不模板化）。
 
-**2.4 每节首段即答案（BLUF）**
+**2.4 每节首段即答案（BLUF）→ 先做"适配性直答"**（✅ 2026-10-15，172 篇已上线）
 
-这是真正的改写，成本最高。只做 GSC 曝光前 100 的页面（从 `seo_report.py` 的数据取），用 `detemplatize_rewrite.py` 的 Claude 调用方式给每个 section 加一句开头结论，人工抽查 10%。其余页面依赖 Quick Answer 覆盖。
+10-15 的第一次引用率审计里，适配性问题（"is X good for first-time owners / apartments / kids"）15 题 0 命中，是最大的洞。`scripts/geo_fit_answers.py` 用 Claude 为每篇主指南写四条直答（新手、公寓、小孩、运动量），只允许用该页自己的 stats、适配列表、性格 / 日常 / 第一人称章节；答案里出现页面没有的数字、不以结论开头、提到"the page / guide"、或长度不在 15–70 词的一律拒收，页面不支持的问题返回 null 跳过。结果存 `sections.right_for_you.fit_answers`，`generate.py` 渲染在"Is a … right for you?" 标题下、适配表之上，并并入 FAQPage JSON-LD。172 篇共 ~620 条答案，平均 46 词；`geo-fit-answers.yml` 手动触发生成并提交，再用 Content Deploy 的 `slugs` 输入推送。前 100 页其他章节的 BLUF 改写仍待做。
 
 **2.5 权威引用**（✅ 2026-10-08，172 篇已写入 JSON，待推送）
 
@@ -147,7 +147,7 @@ AI 引擎对一个域名的信任很大程度来自站外共现。按投入从�
 | 4 | 10-27 → 11-02 | 费用页 A/B 读数（10-29）；读数后 `--type costs` 用 `citable_stat` 推 164 篇；About 页 Person schema；LinkedIn / Crunchbase |
 | 5 | 11-03 → 11-09 | Cost Index 页 + Dataset schema + CSV；llms.txt 上线；Cost Index 外宣邮件 |
 | 6 | 11-10 → 11-16 | `extract_grooming_dataset.py` 抽取 → `--type grooming` 推美容页；`--type roundup` / `comparison` |
-| 7 | 11-17 → 11-23 | 前 100 页 BLUF 改写；Breed Stats Table 页；YouTube 短视频前 10 条 |
+| 7 | 11-17 → 11-23 | ✅（提前，10-15）172 篇主指南适配性直答；前 100 页其他章节 BLUF；Breed Stats Table 页；YouTube 短视频前 10 条 |
 | 8 | 11-24 → 11-30 | 第二次引用率审计；对比基线；写复盘，决定月度循环内容 |
 
 ---
@@ -167,6 +167,7 @@ AI 引擎对一个域名的信任很大程度来自站外共现。按投入从�
 | 脚本 | 作用 | 依赖 |
 |------|------|------|
 | `scripts/geo_citation_audit.py`（已完成，Claude 引擎） | 60 条问题的月度引用率审计 | `ANTHROPIC_API_KEY`（已有）；ChatGPT / Perplexity 引擎待接 |
+| `scripts/geo_fit_answers.py`（已完成） | 主指南四条适配性直答 | `ANTHROPIC_API_KEY`，`geo-fit-answers.yml` |
 | `scripts/geo_audit.py` | 覆盖率四项统计 | 无 |
 | `scripts/geo_quick_answers.py`（main / costs 已完成） | 按类型生成 `meta.quick_answer` | `costs-dataset.json`、`grooming-dataset.json` |
 | `scripts/geo_question_headings.py`（已完成） | 小标题改问句 | 无 |
@@ -184,7 +185,7 @@ AI 引擎对一个域名的信任很大程度来自站外共现。按投入从�
 
 | 指标 | 基线（第 1 周测） | 第 8 周目标 |
 |------|-------------------|-------------|
-| 60 条问题引用率 | 待测 | 基线 ×2，且费用组 ≥ 40% |
+| 60 条问题引用率 | 10-15：14 / 60（23.3%）；费用 6/15、美容 4/10、喂食 3/10、榜单 1/10、适配 0/15 | 基线 ×2（≥ 28 / 60），且费用组 ≥ 40%（已达） |
 | AI 来源会话 / 周 | 待测 | 基线 ×2 |
 | Quick Answer 覆盖率 | 10.2%（87 / 855，`geo_audit.py` 2026-10-06） | 100% |
 | 权威来源覆盖率 | 11.8%（101 / 855）→ 10-08 已达 31.0%（JSON） | ≥ 60% |
