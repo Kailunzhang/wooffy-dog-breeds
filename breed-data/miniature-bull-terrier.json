@@ -149,6 +149,20 @@
         "You have small children under 5",
         "You have cats, rabbits, or other small pets",
         "You want a dog that's universally friendly with other dogs"
+      ],
+      "fit_answers": [
+        {
+          "q": "Is a Miniature Bull Terrier a good dog for first-time owners?",
+          "a": "No. A Miniature Bull Terrier frustrates inexperienced owners. It is stubborn and independent, tests rules and finds loopholes, and needs patient, consistent, positive training. It suits owners who already understand canine body language and boundaries, and who find stubbornness charming rather than infuriating."
+        },
+        {
+          "q": "Is a Miniature Bull Terrier good with kids?",
+          "a": "It depends on your children's ages. Miniature Bull Terriers are generally good with older children who play actively and respectfully. Their solid musculature means they can accidentally knock over small children, so you should supervise them closely around kids under 5."
+        },
+        {
+          "q": "How much exercise does a Miniature Bull Terrier need?",
+          "a": "Plan on at least 45–60 minutes of daily activity, ideally combining walks with structured play. Mental stimulation matters just as much: a bored Miniature Bull Terrier may chew, dig, or bark. Because of its prey drive and selective recall, let it off-leash only in securely fenced areas."
+        }
       ]
     },
     "finding": {
