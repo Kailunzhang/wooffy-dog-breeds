@@ -119,8 +119,8 @@ def _strip_fence(raw: str) -> str:
     return raw
 
 
-def parse_selection(raw: str) -> list[TopicProposal]:
-    data = json.loads(_strip_fence(raw))
+def parse_selection(raw: str | dict) -> list[TopicProposal]:
+    data = raw if isinstance(raw, dict) else json.loads(_strip_fence(raw))
     proposals: list[TopicProposal] = []
     for item in data.get("proposals", []):
         slug = str(item.get("slug", "")).strip().lower()

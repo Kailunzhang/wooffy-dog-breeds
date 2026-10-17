@@ -157,35 +157,44 @@ def pick_topic(args, env, state, today):
     recent = sorted(set(recent_topics(state, today)) | set(live_recent))
     print(f"{len(live_recent)} recent live handles from Shopify, {len(recent)} recent topics total", flush=True)
     prompt = selector.build_selection_prompt(cands, sorted(known | set(live_recent)), recent)
-    raw = writer.call_claude(env["ANTHROPIC_API_KEY"], args.model, selector.SELECTION_SYSTEM,
-                             prompt, max_tokens=2000)
-    topic = selector.choose(selector.parse_selection(raw), known | set(live_recent))
+    data, _ = writer.generate_json(env["ANTHROPIC_API_KEY"], args.model, selector.SELECTION_SYSTEM,
+                                   prompt, max_tokens=2000, required=("proposals",))
+    topic = selector.choose(selector.parse_selection(data), known | set(live_recent))
     return topic, cands, fetched.failed
 
 
 def write_article(args, env, topic, cands):
-    """Return (article dict, validation problems, review dict)."""
+    """Return (article dict, validation problems, review dict, Claude usage line for the email)."""
     known = writer.existing_slugs(BREED_DATA)
     by_id = {p.id: p for p in cands}
     sources = [by_id[i].title for i in topic.source_ids if i in by_id] or [topic.title]
     related = writer.related_candidates(BREED_DATA, topic)
     key, model = env["ANTHROPIC_API_KEY"], args.model
-    article = writer.parse_json(writer.call_claude(
-        key, model, writer.HOUSE_RULES,
-        writer.build_article_prompt(topic, sources, related, date.today().isoformat())))
+    calls: list[tuple[str, writer.ClaudeReply]] = []
+
+    def ask(label: str, system: str, prompt: str, max_tokens: int = writer.MAX_OUTPUT_TOKENS,
+            required: tuple[str, ...] = ()) -> dict:
+        """One JSON round-trip (with retry) whose replies are recorded under `label`."""
+        data, replies = writer.generate_json(key, model, system, prompt,
+                                             max_tokens=max_tokens, required=required)
+        calls.extend((label, r) for r in replies)
+        return data
+
+    article = ask("文章", writer.HOUSE_RULES,
+                  writer.build_article_prompt(topic, sources, related, date.today().isoformat()))
     review = {"verdict": "pass", "issues": []}
     for _ in range(MAX_REVISIONS + 1):
         problems = writer.validate_article(article, known)
         if topic.ymyl or args.review:
-            review = writer.parse_json(writer.call_claude(
-                key, model, writer.REVIEW_SYSTEM, writer.build_review_prompt(article), max_tokens=2000))
+            review = ask("审核", writer.REVIEW_SYSTEM, writer.build_review_prompt(article),
+                         max_tokens=2000, required=("verdict",))
+            review = {**review, "verdict": str(review["verdict"]).strip().lower()}
         issues = list(review.get("issues", [])) if review.get("verdict") != "pass" else []
         if (not problems and not issues) or review.get("verdict") == "block":
             break
         print(f"  revising: {problems + issues}", flush=True)
-        article = writer.parse_json(writer.call_claude(
-            key, model, writer.HOUSE_RULES, writer.build_revision_prompt(article, issues, problems)))
-    return article, writer.validate_article(article, known), review
+        article = ask("修订", writer.HOUSE_RULES, writer.build_revision_prompt(article, issues, problems))
+    return article, writer.validate_article(article, known), review, writer.usage_line(calls)
 
 
 def inject_amazon(slug: str) -> tuple[list[dict], str]:
@@ -282,7 +291,8 @@ def main(argv=None) -> int:
             report.append("来源帖: " + ", ".join(f"https://redd.it/{i.replace('t3_', '')}" for i in topic.source_ids))
 
         print(f"Writing article for {topic.slug}…", flush=True)
-        article, problems, review = write_article(args, env, topic, cands)
+        article, problems, review, usage = write_article(args, env, topic, cands)
+        report.append("文章生成 Claude 用量: " + usage)
         blocked = review.get("verdict") == "block" or bool(problems)
         if review.get("issues"):
             report.append("审核意见: " + " | ".join(review["issues"]))

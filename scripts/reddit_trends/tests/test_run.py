@@ -5,9 +5,12 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE.parent))
+sys.path.insert(0, str(HERE))
 
 import hero  # noqa: E402
 import run  # noqa: E402
+import writer  # noqa: E402
+from sample_article import good_article  # noqa: E402
 
 
 def test_resolve_blog_prefers_cluster_blog_when_env_present():
@@ -92,3 +95,33 @@ def test_parse_args_defaults():
     assert not args.dry_run and args.window == "day" and "dogs" in args.subs
     args = run.parse_args(["--dry-run", "--no-hero", "--topic", "x", "--cluster", "health"])
     assert args.dry_run and args.no_hero and args.cluster == "health"
+
+
+def test_write_article_retries_truncated_reply_and_reports_usage(monkeypatch):
+    article = dict(good_article(), related=[])
+    replies = iter([writer.ClaudeReply('{"name": "cut off mid', "max_tokens", 12000),
+                    writer.ClaudeReply(json.dumps(article), "end_turn", 9000)])
+    monkeypatch.setattr(writer, "call_claude", lambda *a, **k: next(replies))
+    topic = run.manual_topic("Puppy blues guide", "life", False)
+    args = run.parse_args(["--topic", "Puppy blues guide"])
+
+    result, problems, review, usage = run.write_article(args, {"ANTHROPIC_API_KEY": "k"}, topic, [])
+
+    assert result["name"] == article["name"]
+    assert problems == [] and review["verdict"] == "pass"
+    assert "12000 tok (max_tokens)" in usage and "9000 tok (end_turn)" in usage
+
+
+def test_write_article_requires_a_review_verdict_and_normalises_it(monkeypatch):
+    article = dict(good_article(), related=[])
+    replies = iter([writer.ClaudeReply(json.dumps(article), "end_turn", 9000),
+                    writer.ClaudeReply('{"issues": ["no verdict key"]}', "end_turn", 20),
+                    writer.ClaudeReply('{"verdict": " Block ", "issues": ["unsafe"]}', "end_turn", 20)])
+    monkeypatch.setattr(writer, "call_claude", lambda *a, **k: next(replies))
+    topic = run.manual_topic("Puppy blues guide", "life", True)
+    args = run.parse_args(["--topic", "Puppy blues guide", "--ymyl"])
+
+    _, _, review, usage = run.write_article(args, {"ANTHROPIC_API_KEY": "k"}, topic, [])
+
+    assert review == {"verdict": "block", "issues": ["unsafe"]}
+    assert usage.count("审核") == 2  # the verdict-less reply was retried, not treated as a pass

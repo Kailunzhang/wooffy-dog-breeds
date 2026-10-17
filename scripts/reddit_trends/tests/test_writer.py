@@ -3,35 +3,18 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
+import pytest
+
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE.parent))
+sys.path.insert(0, str(HERE))
 
 import writer  # noqa: E402
+from sample_article import good_article  # noqa: E402
 from selector import TopicProposal  # noqa: E402
 
 TOPIC = TopicProposal("puppy-night-whining-guide", "Puppy whining at night", "angle",
                       "training", False, ["t3_a"], "hot")
-
-
-def good_article(words_per_section: int = 500) -> dict:
-    body = " ".join(["word"] * words_per_section)
-
-    def sec(n: int) -> dict:
-        return {"label": "Label", "heading": f"Heading {n}", "html": f"<p>{body}</p>"}
-
-    return {
-        "name": "Puppy Whining at Night: A Calm Step-by-Step Plan",
-        "title_tag": "Puppy Whining at Night: What to Do",
-        "meta_description": "A calm plan for puppy night whining.",
-        "excerpt": "Why puppies whine at night and what actually helps.",
-        "tagline": "tag",
-        "tags": ["puppy", "sleep"],
-        "sections": {"intro": sec(1), "care": sec(2), "special": sec(3)},
-        "faq": [{"q": f"Q{i}?", "a": "Answer " * 20} for i in range(6)],
-        "related": [["golden-retriever", "Golden Retriever Guide"]],
-        "hero_prompt": "A sleeping puppy in a crate",
-        "hero_alt": "Sleeping puppy in a crate at night",
-    }
 
 
 def test_valid_article_passes():
@@ -106,3 +89,107 @@ def test_article_prompt_mentions_topic_sources_and_related():
     assert "slug: puppy-night-whining-guide" in prompt
     assert "- How do I stop whining" in prompt
     assert "- puppy-sleep-schedule: Puppy Sleep" in prompt
+
+
+# ---------------------------------------------------------------- Claude call
+
+
+class _Resp:
+    def __init__(self, body: dict, status: int = 200):
+        self._body, self.status_code, self.text = body, status, json.dumps(body)
+
+    def json(self) -> dict:
+        return self._body
+
+
+def _api_body(text: str, stop_reason: str = "end_turn", output_tokens: int = 42) -> dict:
+    return {"content": [{"type": "text", "text": text}],
+            "stop_reason": stop_reason, "usage": {"output_tokens": output_tokens}}
+
+
+def test_call_claude_returns_stop_reason_and_output_tokens(monkeypatch):
+    monkeypatch.setattr(writer.requests, "post",
+                        lambda *a, **k: _Resp(_api_body('{"a": 1}', "max_tokens", 12000)))
+    reply = writer.call_claude("key", "model", "sys", "user")
+    assert reply.text == '{"a": 1}'
+    assert reply.stop_reason == "max_tokens"
+    assert reply.output_tokens == 12000
+
+
+def _fake_calls(monkeypatch, replies: list, prompts: list[str]):
+    pending = iter(replies)
+
+    def fake(key, model, system, user, max_tokens=writer.MAX_OUTPUT_TOKENS):
+        prompts.append(user)
+        item = next(pending)
+        if isinstance(item, Exception):
+            raise item
+        return item
+
+    monkeypatch.setattr(writer, "call_claude", fake)
+
+
+def test_generate_json_retries_when_a_parsable_reply_was_cut_off(monkeypatch):
+    prompts: list[str] = []
+    _fake_calls(monkeypatch, [writer.ClaudeReply('{"a": 0}', "max_tokens", 20000),
+                              writer.ClaudeReply('{"a": 1}', "end_turn", 50)], prompts)
+    data, used = writer.generate_json("key", "model", "sys", "prompt")
+    assert data == {"a": 1}  # a cut-off reply is not trusted even when it happens to parse
+    assert [r.output_tokens for r in used] == [20000, 50]
+    assert prompts[0] == "prompt"
+    assert prompts[1].startswith("prompt") and "cut off" in prompts[1]
+
+
+def test_generate_json_nudges_for_invalid_json_without_claiming_a_cut_off(monkeypatch):
+    prompts: list[str] = []
+    _fake_calls(monkeypatch, [writer.ClaudeReply("Here you go: {", "end_turn", 5),
+                              writer.ClaudeReply('{"a": 1}', "end_turn", 50)], prompts)
+    data, _ = writer.generate_json("key", "model", "sys", "prompt")
+    assert data == {"a": 1}
+    assert "not valid JSON" in prompts[1] and "cut off" not in prompts[1]
+
+
+def test_generate_json_retries_after_a_timeout_with_the_same_prompt(monkeypatch):
+    prompts: list[str] = []
+    _fake_calls(monkeypatch, [writer.requests.Timeout("slow"),
+                              writer.ClaudeReply('{"a": 1}', "end_turn", 50)], prompts)
+    data, used = writer.generate_json("key", "model", "sys", "prompt")
+    assert data == {"a": 1} and len(used) == 1
+    assert prompts == ["prompt", "prompt"]
+
+
+def test_generate_json_rejects_replies_missing_required_keys(monkeypatch):
+    _fake_calls(monkeypatch, [writer.ClaudeReply('{"issues": []}', "end_turn", 5)] * 2, [])
+    with pytest.raises(RuntimeError, match="missing verdict"):
+        writer.generate_json("key", "model", "sys", "prompt", required=("verdict",))
+
+
+def test_generate_json_rejects_json_that_is_not_an_object(monkeypatch):
+    _fake_calls(monkeypatch, [writer.ClaudeReply("[1, 2]", "end_turn", 5)] * 2, [])
+    with pytest.raises(RuntimeError, match="not an object"):
+        writer.generate_json("key", "model", "sys", "prompt")
+
+
+def test_generate_json_error_lists_every_attempt_with_its_tokens(monkeypatch):
+    _fake_calls(monkeypatch, [writer.ClaudeReply('{"x": "open', "max_tokens", 20000)] * 2, [])
+    expected = r"2 attempts: output cut off after 20000 tokens \(max_tokens\) \| output cut off"
+    with pytest.raises(RuntimeError, match=expected):
+        writer.generate_json("key", "model", "sys", "prompt")
+
+
+def test_generate_json_retries_on_invalid_json_then_gives_up(monkeypatch):
+    monkeypatch.setattr(writer, "call_claude",
+                        lambda *a, **k: writer.ClaudeReply("not json at all", "end_turn", 5))
+    with pytest.raises(RuntimeError, match="2 attempts"):
+        writer.generate_json("key", "model", "sys", "prompt")
+
+
+def test_output_token_cap_has_headroom_over_a_long_article():
+    # Published guides run ~23k chars of style-heavy HTML (~9k tokens); 12k was too tight.
+    assert writer.MAX_OUTPUT_TOKENS >= 20000
+
+
+def test_usage_line_lists_each_call():
+    calls = [("文章", writer.ClaudeReply("", "end_turn", 9120)),
+             ("审核", writer.ClaudeReply("", "end_turn", 180))]
+    assert writer.usage_line(calls) == "文章 9120 tok (end_turn) | 审核 180 tok (end_turn)"

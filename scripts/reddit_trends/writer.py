@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import json
 import re
+from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -19,7 +20,12 @@ from selector import TopicProposal
 
 API_URL = "https://api.anthropic.com/v1/messages"
 DEFAULT_MODEL = "claude-sonnet-5-5"
-MAX_OUTPUT_TOKENS = 12000
+MAX_OUTPUT_TOKENS = 20000  # style-heavy HTML runs ~9k tokens per guide; 12k got cut off once
+MAX_JSON_RETRIES = 1
+CUT_OFF_NUDGE = ("\n\nYour previous reply was cut off before the JSON closed. Make it shorter "
+                 "and return one complete JSON object only.")
+BAD_JSON_NUDGE = ("\n\nYour previous reply was not valid JSON. Return one complete, valid JSON "
+                  "object only, with no text before or after it.")
 MIN_WORDS = 1300
 MAX_WORDS = 2600
 MIN_FAQ = 5
@@ -133,8 +139,16 @@ Return this JSON object:
 }}"""
 
 
+@dataclass(frozen=True)
+class ClaudeReply:
+    """One Messages API reply: its text, why it stopped, and how long it was."""
+    text: str
+    stop_reason: str
+    output_tokens: int
+
+
 def call_claude(api_key: str, model: str, system: str, user: str,
-                max_tokens: int = MAX_OUTPUT_TOKENS) -> str:
+                max_tokens: int = MAX_OUTPUT_TOKENS) -> ClaudeReply:
     resp = requests.post(
         API_URL,
         headers={"x-api-key": api_key, "anthropic-version": "2023-06-01",
@@ -145,8 +159,61 @@ def call_claude(api_key: str, model: str, system: str, user: str,
     )
     if resp.status_code != 200:
         raise RuntimeError(f"Claude API {resp.status_code}: {resp.text[:300]}")
-    blocks = resp.json().get("content", [])
-    return "".join(b.get("text", "") for b in blocks if b.get("type") == "text")
+    body = resp.json()
+    text = "".join(b.get("text", "") for b in body.get("content", []) if b.get("type") == "text")
+    usage = body.get("usage") or {}
+    return ClaudeReply(text, str(body.get("stop_reason") or ""), int(usage.get("output_tokens") or 0))
+
+
+def _parse_reply(reply: ClaudeReply, required: tuple[str, ...]) -> tuple[dict | None, str]:
+    """Return (parsed object, "") or (None, why the reply cannot be used)."""
+    tail = f"after {reply.output_tokens} tokens ({reply.stop_reason})"
+    if reply.stop_reason == "max_tokens":
+        return None, f"output cut off {tail}"
+    try:
+        data = parse_json(reply.text)
+    except json.JSONDecodeError as exc:
+        return None, f"invalid JSON {tail}: {exc}"
+    if not isinstance(data, dict):
+        return None, f"JSON is not an object {tail}"
+    missing = [key for key in required if key not in data]
+    if missing:
+        return None, f"JSON missing {', '.join(missing)} {tail}"
+    return data, ""
+
+
+def generate_json(api_key: str, model: str, system: str, user: str,
+                  max_tokens: int = MAX_OUTPUT_TOKENS, required: tuple[str, ...] = (),
+                  retries: int = MAX_JSON_RETRIES) -> tuple[dict, list[ClaudeReply]]:
+    """Ask Claude for a JSON object and parse it, retrying when the reply is unusable.
+
+    Unusable: cut off at max_tokens, not valid JSON, not an object, missing a
+    `required` key, or lost to a timeout / connection error. Returns the parsed
+    object plus every reply made, so callers can report token usage.
+    """
+    replies: list[ClaudeReply] = []
+    problems: list[str] = []
+    prompt = user
+    for _ in range(max(retries, 0) + 1):
+        try:
+            reply = call_claude(api_key, model, system, prompt, max_tokens=max_tokens)
+        except (requests.Timeout, requests.ConnectionError) as exc:
+            problems.append(f"{type(exc).__name__} while calling Claude")
+            print(f"  Claude call failed: {problems[-1]}", flush=True)
+            continue  # same prompt again
+        replies.append(reply)
+        data, problem = _parse_reply(reply, required)
+        if data is not None:
+            return data, replies
+        problems.append(problem)
+        print(f"  Claude reply unusable: {problem}", flush=True)
+        prompt = user + (CUT_OFF_NUDGE if reply.stop_reason == "max_tokens" else BAD_JSON_NUDGE)
+    raise RuntimeError(f"Claude JSON unusable after {len(problems)} attempts: " + " | ".join(problems))
+
+
+def usage_line(calls: list[tuple[str, ClaudeReply]]) -> str:
+    """One email line such as '文章 9120 tok (end_turn) | 审核 180 tok (end_turn)'."""
+    return " | ".join(f"{label} {r.output_tokens} tok ({r.stop_reason})" for label, r in calls)
 
 
 def parse_json(raw: str) -> dict:

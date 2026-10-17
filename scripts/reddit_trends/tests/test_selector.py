@@ -68,3 +68,9 @@ def test_choose_skips_existing_slugs():
     chosen = selector.choose(proposals, {"golden-retriever"})
     assert chosen is not None and chosen.slug == "new-topic-here"
     assert selector.choose(proposals[:1], {"golden-retriever"}) is None
+
+
+def test_parse_selection_accepts_an_already_parsed_object():
+    data = {"proposals": [{"slug": "puppy-blues-first-weeks", "title": "Puppy blues", "angle": "a",
+                           "cluster": "life", "ymyl": False, "source_ids": ["t3_x"], "reason": "r"}]}
+    assert [p.slug for p in selector.parse_selection(data)] == ["puppy-blues-first-weeks"]
