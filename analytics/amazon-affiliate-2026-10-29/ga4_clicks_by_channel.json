@@ -1,0 +1,36 @@
+{
+ "window": {
+  "start": "2026-09-29",
+  "end": "2026-10-29"
+ },
+ "rows": [
+  [
+   "Organic Search",
+   "647"
+  ],
+  [
+   "Direct",
+   "42"
+  ],
+  [
+   "Unassigned",
+   "19"
+  ],
+  [
+   "Cross-network",
+   "16"
+  ],
+  [
+   "Organic Social",
+   "5"
+  ],
+  [
+   "AI Assistant",
+   "1"
+  ],
+  [
+   "Referral",
+   "1"
+  ]
+ ]
+}
