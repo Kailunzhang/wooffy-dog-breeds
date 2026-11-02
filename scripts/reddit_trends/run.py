@@ -5,6 +5,7 @@ Usage:
     python3 scripts/reddit_trends/run.py --dry-run    # everything except Shopify
     python3 scripts/reddit_trends/run.py --topic "crate training a rescue dog at night"
     python3 scripts/reddit_trends/run.py --no-hero --dry-run
+    python3 scripts/reddit_trends/run.py --resume <slug>   # re-review + publish a blocked draft
 
 Env (same names as the other workflows): SHOPIFY_STORE, SHOPIFY_TOKEN,
 SHOPIFY_BLOG_ID, SHOPIFY_<HANDLE>_BLOG_ID (optional per blog),
@@ -163,9 +164,13 @@ def pick_topic(args, env, state, today):
     return topic, cands, fetched.failed
 
 
-def write_article(args, env, topic, cands):
-    """Return (article dict, validation problems, review dict, Claude usage line for the email)."""
-    known = writer.existing_slugs(BREED_DATA)
+def write_article(args, env, topic, cands, *, draft: dict | None = None):
+    """Return (article dict, validation problems, review dict, Claude usage line for the email).
+
+    With `draft` (a blocked article being resumed) the first-draft call is
+    skipped and the existing article goes straight into the review loop.
+    """
+    known = writer.existing_slugs(BREED_DATA) - {topic.slug}
     by_id = {p.id: p for p in cands}
     sources = [by_id[i].title for i in topic.source_ids if i in by_id] or [topic.title]
     related = writer.related_candidates(BREED_DATA, topic)
@@ -180,8 +185,9 @@ def write_article(args, env, topic, cands):
         calls.extend((label, r) for r in replies)
         return data
 
-    article = ask("文章", writer.HOUSE_RULES,
-                  writer.build_article_prompt(topic, sources, related, date.today().isoformat()))
+    article = draft if draft is not None else ask(
+        "文章", writer.HOUSE_RULES,
+        writer.build_article_prompt(topic, sources, related, date.today().isoformat()))
     review = {"verdict": "pass", "issues": []}
     for _ in range(MAX_REVISIONS + 1):
         problems = writer.validate_article(article, known)
@@ -195,6 +201,30 @@ def write_article(args, env, topic, cands):
         print(f"  revising: {problems + issues}", flush=True)
         article = ask("修订", writer.HOUSE_RULES, writer.build_revision_prompt(article, issues, problems))
     return article, writer.validate_article(article, known), review, writer.usage_line(calls)
+
+
+def load_draft(slug: str, breed_data: Path = BREED_DATA):
+    """Turn a blocked draft (breed-data JSON, published:false) back into (topic, article).
+
+    The related-reading block already sits inside sections.special.html, so the
+    article carries an empty "related" list and assemble() adds nothing twice.
+    """
+    data = json.loads((breed_data / f"{slug}.json").read_text(encoding="utf-8"))
+    src, meta = data.get("source") or {}, data["meta"]
+    if src.get("pipeline") != "reddit_trends":
+        raise RuntimeError(f"{slug} is not a reddit_trends article")
+    if meta.get("published", True):
+        raise RuntimeError(f"{slug} is already published; nothing to resume")
+    topic = selector.TopicProposal(slug=slug, title=meta["name"], angle=src.get("angle", ""),
+                                   cluster=src.get("cluster", "life"), ymyl=True,
+                                   source_ids=list(src.get("reddit_ids") or []), reason="resumed draft")
+    hero_alt = data["images"]["hero"]["alt"]
+    article = {k: meta.get(k, "") for k in ("name", "title_tag", "meta_description", "excerpt", "tagline")}
+    article.update({"tags": list(meta.get("tags") or []), "sections": data["sections"],
+                    "faq": data.get("faq") or [], "related": [],
+                    "hero_prompt": re.split(r",?\s*(?:illustrating|showing)\b", hero_alt)[0].strip(),
+                    "hero_alt": hero_alt})
+    return topic, article
 
 
 def inject_amazon(slug: str) -> tuple[list[dict], str]:
@@ -244,6 +274,8 @@ def parse_args(argv=None):
     ap.add_argument("--dry-run", action="store_true", help="write the JSON but do not publish or upload")
     ap.add_argument("--no-hero", action="store_true", help="skip fal.ai and use the placeholder hero")
     ap.add_argument("--topic", help="skip Reddit and write this topic")
+    ap.add_argument("--resume", metavar="SLUG",
+                    help="re-review a blocked draft in breed-data (published:false) and publish it if it passes")
     ap.add_argument("--cluster", default="life", choices=selector.CLUSTERS)
     ap.add_argument("--ymyl", action="store_true", help="force the vet/trainer review pass")
     ap.add_argument("--review", action="store_true", help="run the review pass even for non-YMYL topics")
@@ -256,7 +288,7 @@ def parse_args(argv=None):
 
 def build_article_file(topic, article, hero, env):
     blog_handle = resolve_blog(topic.cluster, env)
-    known = writer.existing_slugs(BREED_DATA)
+    known = writer.existing_slugs(BREED_DATA) - {topic.slug}
     rel = [tuple(r) for r in article.get("related") or [] if r and r[0] in known]
     rel_html = related_links_html(rel) if rel else ""
     data = writer.assemble(topic, article, blog_handle=blog_handle, hero_url=hero.url,
@@ -277,21 +309,27 @@ def main(argv=None) -> int:
     try:
         if not env.get("ANTHROPIC_API_KEY"):
             raise RuntimeError("ANTHROPIC_API_KEY missing")
-        topic, cands, failed = pick_topic(args, env, state, today)
-        if failed:
-            report.append("抓取失败的板块: " + ", ".join(f"r/{k} ({v})" for k, v in failed.items()))
-        state["seen_ids"].extend(p.id for p in cands)
-        if topic is None:
-            report.append("今天没有可用选题（候选为空或全部已覆盖），未生成文章。")
-            save_state(state)
-            send_email(env, f"[Wooffy 热点] {today} 无选题", "\n\n".join(report))
-            return 0
-        report.append(f"选题: {topic.title}\nslug: {topic.slug}\n簇: {topic.cluster}  YMYL: {topic.ymyl}\n原因: {topic.reason}")
+        draft = None
+        if args.resume:
+            topic, draft = load_draft(args.resume)
+            cands = []
+            report.append(f"恢复草稿: {topic.title}\nslug: {topic.slug}\n簇: {topic.cluster}")
+        else:
+            topic, cands, failed = pick_topic(args, env, state, today)
+            if failed:
+                report.append("抓取失败的板块: " + ", ".join(f"r/{k} ({v})" for k, v in failed.items()))
+            state["seen_ids"].extend(p.id for p in cands)
+            if topic is None:
+                report.append("今天没有可用选题（候选为空或全部已覆盖），未生成文章。")
+                save_state(state)
+                send_email(env, f"[Wooffy 热点] {today} 无选题", "\n\n".join(report))
+                return 0
+            report.append(f"选题: {topic.title}\nslug: {topic.slug}\n簇: {topic.cluster}  YMYL: {topic.ymyl}\n原因: {topic.reason}")
         if topic.source_ids:
             report.append("来源帖: " + ", ".join(f"https://redd.it/{i.replace('t3_', '')}" for i in topic.source_ids))
 
-        print(f"Writing article for {topic.slug}…", flush=True)
-        article, problems, review, usage = write_article(args, env, topic, cands)
+        print(f"{'Re-reviewing draft' if draft else 'Writing article'} for {topic.slug}…", flush=True)
+        article, problems, review, usage = write_article(args, env, topic, cands, draft=draft)
         report.append("文章生成 Claude 用量: " + usage)
         blocked = review.get("verdict") == "block" or bool(problems)
         if review.get("issues"):
@@ -328,8 +366,13 @@ def main(argv=None) -> int:
                 ok, url = publish(topic.slug)
                 status = "published" if ok else "publish-failed"
                 report.append(f"发布: {'成功 ' + url if ok else '失败，见 Actions 日志'}  博客: {blog_handle}")
-        state["picked"].append({"date": today.isoformat(), "slug": topic.slug, "title": article["name"],
-                                "reddit_ids": topic.source_ids, "published": status == "published", "url": url})
+        entry = {"date": today.isoformat(), "slug": topic.slug, "title": article["name"],
+                 "reddit_ids": topic.source_ids, "published": status == "published", "url": url}
+        existing = next((p for p in state["picked"] if p.get("slug") == topic.slug), None)
+        if existing:  # resumed draft: keep its original pick date
+            existing.update({k: v for k, v in entry.items() if k != "date"})
+        else:
+            state["picked"].append(entry)
         if not args.dry_run:  # a rehearsal must not hide today's posts from the real run
             save_state(state)
     except Exception:  # noqa: BLE001 - always email the failure

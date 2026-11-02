@@ -26,6 +26,10 @@ on:
         description: 'Optional topic override (skips Reddit)'
         required: false
         default: ''
+      resume:
+        description: 'Optional slug of a blocked draft to re-review and publish (skips Reddit)'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -72,10 +76,12 @@ jobs:
           ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
           DRY_RUN: ${{ github.event.inputs.dry_run }}
           TOPIC: ${{ github.event.inputs.topic }}
+          RESUME: ${{ github.event.inputs.resume }}
         run: |
           ARGS=()
           if [ "$DRY_RUN" = "true" ]; then ARGS+=(--dry-run); fi
           if [ -n "$TOPIC" ]; then ARGS+=(--topic "$TOPIC"); fi
+          if [ -n "$RESUME" ]; then ARGS+=(--resume "$RESUME"); fi
           python3 scripts/reddit_trends/run.py "${ARGS[@]}"
 
       - name: Commit article JSON and state

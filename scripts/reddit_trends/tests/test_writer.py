@@ -83,6 +83,19 @@ def test_related_candidates_ranks_topic_guides_above_breed_pages_and_caps_them(t
     assert sum(1 for slug, _ in rel if slug.endswith("-puppy-checklist")) == writer.MAX_BREED_PAGES
 
 
+def test_revision_prompt_states_a_word_target_when_too_long():
+    art = good_article(words_per_section=1100)  # ~3,400 words with FAQ
+    problems = writer.validate_article(art, {"golden-retriever"})
+    assert any(p.startswith("too long") for p in problems)
+    prompt = writer.build_revision_prompt(art, [], problems)
+    assert f"under {writer.TARGET_MAX_WORDS} words" in prompt
+
+
+def test_2700_word_article_is_not_too_long():
+    art = good_article(words_per_section=850)  # ~2,700 words, the 2026-11-01 case
+    assert not any(p.startswith("too long") for p in writer.validate_article(art, {"golden-retriever"}))
+
+
 def test_article_prompt_mentions_topic_sources_and_related():
     prompt = writer.build_article_prompt(TOPIC, ["How do I stop whining"],
                                          [("puppy-sleep-schedule", "Puppy Sleep")], "2026-10-12")

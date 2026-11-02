@@ -27,7 +27,8 @@ CUT_OFF_NUDGE = ("\n\nYour previous reply was cut off before the JSON closed. Ma
 BAD_JSON_NUDGE = ("\n\nYour previous reply was not valid JSON. Return one complete, valid JSON "
                   "object only, with no text before or after it.")
 MIN_WORDS = 1300
-MAX_WORDS = 2600
+MAX_WORDS = 3200  # was 2600; a 2,672-word draft was blocked on 2026-11-01 for length alone
+TARGET_MAX_WORDS = 2400  # what a "too long" revision is asked to trim to
 MIN_FAQ = 5
 
 P_STYLE = 'style="font-size:0.95em;line-height:1.7;color:#6b7177;margin:0 0 20px 0;"'
@@ -287,9 +288,13 @@ def build_review_prompt(article: dict) -> str:
 
 
 def build_revision_prompt(article: dict, issues: list[str], problems: list[str]) -> str:
-    notes = "\n".join(f"- {i}" for i in issues + problems)
+    notes = [f"- {i}" for i in issues + problems]
+    if any(p.startswith("too long") for p in problems):
+        notes.append(f"- Length: the sections plus FAQ must total under {TARGET_MAX_WORDS} words "
+                     f"(currently {word_count(article)}). Tighten sentences and drop repetition; "
+                     "keep all three sections and at least 6 FAQ entries.")
     return ("Revise the article JSON below to fix every note. Keep the same JSON "
-            "shape, keys and style rules. Return JSON only.\n\nNOTES:\n" + notes +
+            "shape, keys and style rules. Return JSON only.\n\nNOTES:\n" + "\n".join(notes) +
             "\n\nARTICLE JSON:\n" + json.dumps(article, ensure_ascii=False))
 
 

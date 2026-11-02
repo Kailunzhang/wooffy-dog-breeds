@@ -79,6 +79,31 @@ def test_shopify_recent_handles_collects_each_configured_blog(monkeypatch):
     assert len(calls) == 2 and all(y == "2026" for _, y in calls)
 
 
+def test_load_draft_roundtrips_a_blocked_article(tmp_path):
+    import pytest
+    import writer
+    from selector import TopicProposal
+    topic = TopicProposal("why-dog-is-aggressive", "Why Is My Dog Aggressive?", "angle", "training", True, ["t3_a"], "r")
+    art = {"name": "Why Is My Dog Aggressive?", "title_tag": "t", "meta_description": "m", "excerpt": "e",
+           "tagline": "tag", "tags": ["a"], "sections": {k: {"label": "l", "heading": "h", "html": "<p>x</p>"}
+                                                           for k in ("intro", "care", "special")},
+           "faq": [{"q": "q", "a": "a"}], "hero_prompt": "p",
+           "hero_alt": "A calm dog on a rug, illustrating sudden aggression"}
+    data = writer.assemble(topic, art, blog_handle="dog-breeds", hero_url="u", hero_alt=art["hero_alt"],
+                           related_html="<div>rel</div>", source_ids=["t3_a"])
+    data["meta"]["published"] = False
+    (tmp_path / "why-dog-is-aggressive.json").write_text(json.dumps(data), encoding="utf-8")
+    t2, a2 = run.load_draft("why-dog-is-aggressive", tmp_path)
+    assert t2.slug == "why-dog-is-aggressive" and t2.ymyl and t2.cluster == "training" and t2.source_ids == ["t3_a"]
+    assert a2["name"] == art["name"] and a2["faq"] == art["faq"] and a2["related"] == []
+    assert a2["sections"]["special"]["html"].endswith("<div>rel</div>")  # kept, so assemble gets related_html=""
+    assert a2["hero_prompt"] == "A calm dog on a rug"
+    data["meta"]["published"] = True
+    (tmp_path / "why-dog-is-aggressive.json").write_text(json.dumps(data), encoding="utf-8")
+    with pytest.raises(RuntimeError, match="already published"):
+        run.load_draft("why-dog-is-aggressive", tmp_path)
+
+
 def test_manual_topic_builds_slug():
     topic = run.manual_topic("Crate Training a Rescue Dog at Night!", "training", True)
     assert topic.slug == "crate-training-a-rescue-dog-at-night"
