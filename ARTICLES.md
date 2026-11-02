@@ -7,10 +7,10 @@
 
 | Type | Count |
 |------|-------|
-| Breed guides | 319 |
+| Breed guides | 320 |
 | Supporting articles | 493 |
 | Roundup articles | 61 |
-| **Total** | **873** |
+| **Total** | **874** |
 
 ---
 
@@ -1315,6 +1315,11 @@
 | Article | Status | URL |
 |---------|--------|-----|
 | How to Introduce a Dog to a Cat Safely: Step-by-Step Plan | ✅ Live | [/blogs/dog-breeds/how-to-introduce-a-dog-to-a-cat-safely](https://thewooffy.com/blogs/dog-breeds/how-to-introduce-a-dog-to-a-cat-safely) |
+
+### How to Introduce a New Dog to Your Resident Dog, Step by Step *(Trending Guides · Guide)*
+| Article | Status | URL |
+|---------|--------|-----|
+| How to Introduce a New Dog to Your Resident Dog, Step by Step | ✅ Live | [/blogs/dog-breeds/how-to-introduce-a-new-dog-to-your-resident-dog](https://thewooffy.com/blogs/dog-breeds/how-to-introduce-a-new-dog-to-your-resident-dog) |
 
 ### How to Make Vet Visits Less Stressful for Your Dog *(Trending Guides · Guide)*
 | Article | Status | URL |
