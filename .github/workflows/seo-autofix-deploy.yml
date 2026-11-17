@@ -22,6 +22,11 @@ on:
         description: 'Space-separated breed-data slugs to re-push (empty = changed files of the last push)'
         required: false
         default: ''
+      touch_updated:
+        description: 'Stamp today as Last updated (only after a real fact re-check)'
+        type: boolean
+        required: false
+        default: false
 
 permissions:
   contents: write
@@ -66,10 +71,14 @@ jobs:
             echo "No breed-data slugs changed; nothing to deploy."
             exit 0
           fi
-          # --touch-updated stamps meta.content_updated (visible "Last updated"
-          # line + custom.content_updated metafield -> schema dateModified) and
-          # writes it back to the JSON, committed below so main stays in sync.
-          echo YES | python3 scripts/generate.py $SLUGS --update --touch-updated
+          # Routine deploys do NOT change the visible "Last updated" date or the
+          # schema dateModified (2026-11 SEO audit: every deploy was stamping a
+          # fresh date, including link-only changes). --touch-updated runs only
+          # when a manual dispatch sets touch_updated after a real fact re-check;
+          # it writes the stamp back to the JSON, committed below.
+          TOUCH=""
+          if [ "${{ github.event.inputs.touch_updated }}" = "true" ]; then TOUCH="--touch-updated"; fi
+          echo YES | python3 scripts/generate.py $SLUGS --update $TOUCH
 
       - name: Commit content_updated stamps
         run: |

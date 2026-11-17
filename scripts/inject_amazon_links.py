@@ -41,11 +41,29 @@ MARK = "<!-- WOOFFY_AMZ_v1 -->"
 END = "<!-- /WOOFFY_AMZ_v1 -->"
 BLOCK_RE = re.compile(re.escape(MARK) + r".*?" + re.escape(END), re.DOTALL)
 MAX_PER_PAGE = {"grooming": 4, "checklist": 6, "costs": 4, "extra": 3, "roundup": 4,
-                "guide": 3}  # raised 2026-10-08 (was 3/4/3/3); guide = reddit-trend articles (2026-10-14)
+                "guide": 3, "main": 1}  # raised 2026-10-08 (was 3/4/3/3); guide = reddit-trend articles (2026-10-14)
 STAGES = {"checklist": {"puppy", "any"}, "grooming": {"adult", "any"},
           "costs": {"any", "puppy"}, "extra": {"adult", "any", "puppy", "senior"},
           "roundup": {"adult", "any"},  # roundups (meta.size_category == "Roundup") added 2026-10-08
-          "guide": {"adult", "any", "puppy", "senior"}}
+          "guide": {"adult", "any", "puppy", "senior"},
+          "main": {"adult", "any"}}  # breed main guides: grooming tools only (dry-run 2026-11-16)
+# One extra slot per grooming guide / checklist, reserved for grooming tools (dry-run 2026-11-16):
+# pages at the cap were holding back the best-converting families (comb, pin brush, knife).
+TOOL_FAMS = {"metal_comb", "pin_brush", "stripping_knife", "dematting_comb", "slicker_brush",
+             "undercoat_rake", "deshedding_tool"}
+TOOL_SLOT = {"grooming": 1, "checklist": 1}
+
+
+def inline_ok(p: dict, kind: str) -> bool:
+    # Sentence-level inline links: breed main prose, and newer tool entries on grooming guides.
+    if p.get("_kept"):
+        return False  # a link that is already live keeps its position and format
+    return kind == "main" or (kind == "grooming" and bool(p.get("last_sentence_only"))
+                              and FAMILY.get(p["type"], p["type"]) in TOOL_FAMS)
+
+
+MAIN_TYPES = {"slicker_brush", "undercoat_rake", "pin_brush", "metal_comb", "deshedding_tool",
+              "stripping_knife", "dematting_comb", "detangling_spray"}
 # Daily reddit-trend guides (scripts/reddit_trends) carry source.pipeline == "reddit_trends".
 # They are non-breed pages: any catalog product whose anchors appear may be placed
 # (no page_types gate, like "extra"), but exclude_if still applies because nobody
@@ -174,6 +192,9 @@ def candidates(slug: str, kind: str, text: str, catalog: list[dict], breed, weig
             if weights is None and (fit.get("wmin") is not None or fit.get("wmax") is not None) \
                     and p["asin"] not in rules.non_breed_defaults:
                 continue
+        elif kind == "main":
+            if p["type"] not in MAIN_TYPES:
+                continue
         elif kind == "roundup":
             if not (p.get("page_types") or slug in (p.get("extra_slugs") or [])):
                 continue
@@ -190,7 +211,7 @@ def candidates(slug: str, kind: str, text: str, catalog: list[dict], breed, weig
         if hit is None:
             continue
         prio = (p.get("extra_slug_priority") or {}).get(slug, p.get("priority", 3))
-        out.append({**p, "_anchor": hit, "_prio": prio})
+        out.append({**p, "_anchor": hit, "_prio": prio, "_kept": p["asin"] in (keep or [])})
     if slug in rules.rake_first and any(p["type"] == "undercoat_rake" for p in out):
         out = [p for p in out if p["type"] != "slicker_brush"]
     by_family: dict[str, list[dict]] = {}
@@ -261,7 +282,7 @@ def element_ok(p: dict, kind: str, text: str, prev: str, rules: "Rules") -> bool
     if kind == "extra" and p.get("element_require_extra") and \
             not any(re.search(x, text, re.I) for x in p["element_require_extra"]):
         return False
-    if p.get("last_sentence_only") and len(text) > 200 and not tail_has_anchor:
+    if p.get("last_sentence_only") and len(text) > 200 and not tail_has_anchor and not inline_ok(p, kind):
         return False  # long element: the link lands at its end, so the end must be about the product
     if kind in ("costs", "roundup"):
         if len(text) > 200 and not tail_has_anchor:
@@ -271,15 +292,53 @@ def element_ok(p: dict, kind: str, text: str, prev: str, rules: "Rules") -> bool
     return True
 
 
+SENT_END_RE = re.compile(r"[.!?](?=\s|$)")
+
+
+def inline_snippet(p: dict, kind: str, rules: "Rules") -> str:
+    """Compact mid-paragraph form for prose pages (breed main guides): no line break, no blurb."""
+    return (f'{MARK} <span class="wfy-aff">(One option: <a href="{product_url(p, kind, rules)}" '
+            f'rel="sponsored nofollow noopener" target="_blank">{html.escape(p["name"])} on Amazon</a>.)</span>{END}')
+
+
+def inline_pos(inner: str, p: dict) -> int | None:
+    """Index in the element inner HTML just after the sentence that names the product."""
+    for a in p.get("anchors") or []:
+        m = re.search(a, inner, re.I)
+        if not m:
+            continue
+        e = SENT_END_RE.search(inner, m.end())
+        if not e:
+            return None
+        between = inner[m.start():e.end()]
+        if between.count("<") != between.count(">"):
+            return None
+        before = inner[:e.end()].lower()
+        if before.count("<a") != before.count("</a>"):
+            return None  # never insert inside an existing link
+        return e.end()
+    return None
+
+
 def place(fields: list[tuple[list, str]], p: dict, kind: str, coat: str | None,
           rules: "Rules") -> tuple[int, str, str] | None:
     """Append the product to the first <li>/<p> that recommends it and passes element rules."""
     prev = ""
-    for i, (_, h) in enumerate(fields):
+    for i, (key, h) in enumerate(fields):
+        if kind == "main" and "care" not in key:
+            continue  # breed main guides: only the care section recommends tools
         for m in BLOCK_TAG_RE.finditer(h):
             text = html.unescape(plain(m.group(2)))
             if m.group(1) in ("li", "p") and MARK not in m.group(0) \
                     and element_ok(p, kind, text, prev, rules):
+                if inline_ok(p, kind) and len(text) > 200 and not any(
+                        re.search(a, last_sentence(text), re.I) for a in p.get("anchors") or []):
+                    pos = inline_pos(m.group(2), p)
+                    if pos is None:
+                        prev = text
+                        continue
+                    at = m.start(2) + pos
+                    return i, h[:at] + inline_snippet(p, kind, rules) + h[at:], text[:140]
                 close = m.end() - len(f"</{m.group(1)}>")
                 return i, h[:close] + snippet(p, coat, kind, rules) + h[close:], text[:140]
             prev = text
@@ -297,6 +356,8 @@ def process(path: str, catalog: list[dict], weights: dict, extra: set[str],
         kind = "extra"
     if kind is None and (d.get("source") or {}).get("pipeline") == TREND_PIPELINE:
         kind = "guide"
+    if kind is None and slug in weights and "-vs-" not in slug:
+        kind = "main"
     if kind is None:
         return None
     if (d.get("meta") or {}).get("published", True) is False:
@@ -313,9 +374,19 @@ def process(path: str, catalog: list[dict], weights: dict, extra: set[str],
                           (keep or {}).get(slug))
     coat = rules.coat.get(breed) if breed else None
     placed = []
+    if kind == "main":  # link the tool the care section names first
+        care_txt = html.unescape(plain(" ".join(h for k, h in fields if "care" in k)))
+
+        def first_pos(opts: list[dict]) -> int:
+            hits = [m.start() for a in opts[0].get("anchors") or []
+                    for m in [re.search(a, care_txt, re.I)] if m]
+            return min(hits) if hits else 10 ** 9
+        families.sort(key=first_pos)
     for options in families:
-        if len(placed) >= MAX_PER_PAGE[kind]:
-            break
+        fam = FAMILY.get(options[0]["type"], options[0]["type"])
+        cap = MAX_PER_PAGE[kind]
+        if len(placed) >= cap and not (fam in TOOL_FAMS and len(placed) < cap + TOOL_SLOT.get(kind, 0)):
+            continue
         for p in options:
             edit = place(fields, p, kind, coat, rules)
             if edit is None:
@@ -324,6 +395,15 @@ def process(path: str, catalog: list[dict], weights: dict, extra: set[str],
             fields[i] = (fields[i][0], new_html)
             placed.append({"asin": p["asin"], "name": p["name"], "type": p["type"], "where": where})
             break
+    if kind == "main" and not placed:
+        # No tool is named on the page: add one sentence + link taken from the breed grooming guide.
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import amazon_main_gear as mg
+        res = mg.apply(slug, fields, catalog, DATA_DIR, MARK, END,
+                       lambda prod: product_url(prod, "main", rules))
+        if res:
+            fields, item = res
+            placed.append(item)
     gear = rules.roundup_gear.get(slug) if kind == "roundup" else None
     if gear:
         fams = {FAMILY.get(x["type"], x["type"]) for x in placed}
